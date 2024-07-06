@@ -15,7 +15,8 @@ Posted by razib at [04:15 PM](https://www.gnxp.com/MT2/archives/004090.html) [](
 
 ### Related Posts:
 
-- [Katz](https://www.gnxp.com/WordPress/2010/07/30/katz-120/) - [Andrew Sullivan goes
+- [Katz](https://www.gnxp.com/WordPress/2010/07/30/katz-120/)
+- [Andrew Sullivan goes
   independent](https://www.gnxp.com/WordPress/2013/01/03/andrew-sullivan-goes-independent/) - [The art of
   science](https://www.gnxp.com/WordPress/2012/08/14/the-art-of-science/) - [Fandom to Obsession: Star Trek
   Decorating](https://www.gnxp.com/WordPress/2005/02/12/fandom-to-obsession-star-trek-decorating/) - [Katz](https://www.gnxp.com/WordPress/2010/08/06/katz-118/) - [A sign that Facebook has

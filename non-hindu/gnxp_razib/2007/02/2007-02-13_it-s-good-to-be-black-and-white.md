@@ -11,13 +11,13 @@ It's good to be black…and white
 
 This story, [China’s changing skin colour](http://news.bbc.co.uk/1/hi/world/asia-pacific/6357439.stm) caught my attention. The relevant points:
 
-> “Traditionally, the first objective of a woman is to have pale white > skin because whitening can cover many flaws. Many Chinese women will > put on sun protection just to go next door because they’re so afraid > of getting any kind of sun rays,” he added.  
+> “Traditionally, the first objective of a woman is to have pale white skin because whitening can cover many flaws. Many Chinese women will put on sun protection just to go next door because they’re so afraid of getting any kind of sun rays,” he added.  
 > …  
-> Dark skin in Imperial times was associated with labouring in the > fields.  
+> Dark skin in Imperial times was associated with labouring in the fields.  
 > …  
-> But for a growing number of young Chinese people, dark skin now means > having the money to afford foreign holidays or Western-style > glamour.  
+> But for a growing number of young Chinese people, dark skin now means having the money to afford foreign holidays or Western-style glamour.  
 > …  
-> And a deep dark tan would appear to be one of the easiest ways to show > that you are basking in China’s new-found wealth.
+> And a deep dark tan would appear to be one of the easiest ways to show that you are basking in China’s new-found wealth.
 
 Of course, “dark” is relative, just as “light” is relative. The article is a bit impressionistic for my taste, but, let’s assume that it is suggestive of a counter-trend to the historical norm (I know there is a hip-hop counterculture among Japanese youth where tanning is fashionable). There are two issues:
 

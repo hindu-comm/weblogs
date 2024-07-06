@@ -15,7 +15,9 @@ It’s been about 10 years since the draft Neanderthal genome was published. At 
 
 But there were a lot of details to clear up. For example:
 
-1.  Did % Neanderthal admixture vary outside of Africa? 2.  Was there really only one single admixture? 3.  Has natural selection shaped the proportion of Neanderthal genetic
+1.  Did % Neanderthal admixture vary outside of Africa?
+2.  Was there really only one single admixture?
+3.  Has natural selection shaped the proportion of Neanderthal genetic
     material in our genomes?
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/neanderthaldiscover.jpeg?resize=182%2C277&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/neanderthaldiscover.jpeg?resize=182%2C277&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B012J5RF4W/geneexpressio-20?creativeASIN=B005XMK898&linkCode=w61&imprToken=kr5o2BFT5jNiQX6aKPuMSg&slotNum=0)The reason the new paper above is interesting is that they used differences between Neanderthal populations (of different relatedness to the source into moderns), as well as modeling different demographic scenarios through simulation, to show that:

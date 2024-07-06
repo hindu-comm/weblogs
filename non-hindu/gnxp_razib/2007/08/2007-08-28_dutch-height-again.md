@@ -11,7 +11,7 @@ Dutch Height (again)
 
 As I have several times discussed the height of the Dutch (and other peoples) I was interested to come across a reference to [this](http://www.sciencedirect.com/science/article/B73DX-4B7Y9K8-1/2/a715ddc7556b3a31e8ce5316f6c18424) article. Unfortunately I don’t at present have access to the full article (without paying \$30), but the abstract says:
 
-> In the late-Middle Ages and at the onset of the early modern period, > the Dutch population was taller than in the first half of the 19th > century. This inference is partially based on skeletal evidence, > mainly collected by the Dutch physical anthropologist George Maat and > his co-workers. A spectacular increase in Dutch heights began in the > second half of the 19th century and accelerated in the second half of > the 20th century. At the end of the 20th century, the Dutch became > tallest in the world.
+> In the late-Middle Ages and at the onset of the early modern period, > the Dutch population was taller than in the first half of the 19th > century. This inference is partially based on skeletal evidence, > mainly collected by the Dutch physical anthropologist George Maat and > his co-workers. A spectacular increase in Dutch heights began in the second half of the 19th century and accelerated in the second half of the 20th century. At the end of the 20th century, the Dutch became tallest in the world.
 
 ### Related Posts:
 

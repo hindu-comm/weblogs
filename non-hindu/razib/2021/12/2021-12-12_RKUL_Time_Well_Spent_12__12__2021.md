@@ -123,7 +123,7 @@ Finally, David Reich’s *[Who We Are and How We Got Here: Ancient DNA and the N
 
 There’s still no free lunch, free subscribers; my most in-depth pieces for this Substack are beyond the paywall. The main paid piece I’ve put out since the last “Time Well Spent” is [Dark Horse out of the Steppe - Fishing the Sintashta, Scythians and Sarmatians out of obscurity](https://razib.substack.com/p/dark-horse-out-of-the-steppe):
 
-> The phenomenon of the Scythians’ rise was the culmination of the > evolution of Indo-Iranian pastoralism, whose explosive growth began > 4,000 years ago, after their domestication of the horse. Today 1.5 > billion humans speak Indo-Iranian languages, from northeastern Syria > to the borders of Burma, with the vast majority living in modern-day > India and Iran. But 2,500 years ago, Indo-Iranian languages dominated > terrains across the whole vast span of the Eurasian steppe, from its > western extension in Hungary to the eastern edge in Mongolia. Then, > Persia and India were simply southerly offshoots of Indo-Iranian > culture, civilizations born of a synthesis with local sedentary > cultures so thorough that they forgot their steppe origins.
+> The phenomenon of the Scythians’ rise was the culmination of the > evolution of Indo-Iranian pastoralism, whose explosive growth began > 4,000 years ago, after their domestication of the horse. Today 1.5 > billion humans speak Indo-Iranian languages, from northeastern Syria > to the borders of Burma, with the vast majority living in modern-day > India and Iran. But 2,500 years ago, Indo-Iranian languages dominated > terrains across the whole vast span of the Eurasian steppe, from its > western extension in Hungary to the eastern edge in Mongolia. Then, Persia and India were simply southerly offshoots of Indo-Iranian culture, civilizations born of a synthesis with local sedentary cultures so thorough that they forgot their steppe origins.
 
 This is a continuation of my “steppe series.” Earlier:
 
@@ -144,7 +144,7 @@ One of my other pieces was a [roundup](https://razib.substack.com/p/all-i-want-f
 
 Another recent piece that really traveled: [Thanksgiving squabbles are a feature, not a bug - How eternally unsettled debates are the lifeblood of the republic](https://razib.substack.com/p/thanksgiving-squabbles-are-a-feature):
 
-> Today, genome-wide methods can probe political preferences down to > minute molecular detail, associating segments of DNA with whether you > are liberal or conservative. Political ideology turns out to be a > continuous quantitative trait, like height or intelligence, with many > genes controlling the variation. And like height and intelligence, it > expresses itself in particular environmental contexts. In societies > where individual political expression is sharply restricted, whether > it be autocratic monarchies like Saudi Arabia or authoritarian > Communist regimes like China, one’s ideological orientation is a moot > point and may never be a live issue. Political preference as a > characteristic only comes to the fore in societies where individual > choices and views actually matter and are seen as a matter of civic > patriotism and responsibility. Societies like the US in 2021.
+> Today, genome-wide methods can probe political preferences down to > minute molecular detail, associating segments of DNA with whether you > are liberal or conservative. Political ideology turns out to be a > continuous quantitative trait, like height or intelligence, with many > genes controlling the variation. And like height and intelligence, it > expresses itself in particular environmental contexts. In societies > where individual political expression is sharply restricted, whether > it be autocratic monarchies like Saudi Arabia or authoritarian > Communist regimes like China, one’s ideological orientation is a moot > point and may never be a live issue. Political preference as a characteristic only comes to the fore in societies where individual choices and views actually matter and are seen as a matter of civic patriotism and responsibility. Societies like the US in 2021.
 
 ### **Discussion**
 
@@ -184,7 +184,7 @@ I’m a regular guest on [The Study of Antiquity and the Middle Ages](https://ww
 
 [How Much Smarter Are White Democrats Than White Republicans?](https://www.gnxp.com/WordPress/2021/12/04/how-much-smarter-at-white-democrats-than-white-republicans/)
 
-> In the conversation between Coleman Hughes and Charles Murray, [there > was a point](https://www.youtube.com/watch?v=OE5QcD_12fQ) where they > mooted the idea that white Democrats are smarter than white > Republicans. Since the realignment of the Trump era, this seems to be > a major issue, as college-educated white Democrats have become more > Democrat and liberal, while non-college whites less so.
+> In the conversation between Coleman Hughes and Charles Murray, [there > was a point](https://www.youtube.com/watch?v=OE5QcD_12fQ) where they > mooted the idea that white Democrats are smarter than white Republicans. Since the realignment of the Trump era, this seems to be a major issue, as college-educated white Democrats have become more Democrat and liberal, while non-college whites less so.
 
 These posts always elicit some anger from conservatives, since they think I’m taking a particular side. I’m just noting what the data shows.
 

@@ -429,7 +429,7 @@ IT IS ALSO A MISTAKE to assume that clamours for a “separate south Indian nati
 
 A key element of the Nehru Report was its *complete exclusion* of the 562 Princely States from the new Indian Union that would be formed after the British departed. D.V. Gundappa, a contemporary of Motilal and Jawaharlal Nehru and other Congress stalwarts, gave one of the most learned critiques of this report in *The Bombay Chronicle*. Here is a sample:
 
-> “…the Congress “National” (with a big “N”) is not less punctilious > than its very adversary, the bureaucracy of the Indian Government, > **in tabooing the \[Native\] States as ‘foreign territory.**’” > (Emphasis added).
+> “…the Congress “National” (with a big “N”) is not less punctilious than its very adversary, the bureaucracy of the Indian Government, **in tabooing the \[Native\] States as ‘foreign territory.**’” (Emphasis added).
 
 Long story short, the Nehru Report explicitly called for a reorganization of (British) Indian Provinces along linguistic lines *for the first time.*
 
@@ -447,7 +447,7 @@ In practical terms, the linguistic reorganization of India was a redrawing of In
 
 THE COMMISSION SET UP to examine the linguistic reorganization issue delivered its unambiguous verdict in late 1948: things should be left as they are. For a fundamental reason. Existing boundaries had been sanctified by the informal agreements and usages and customs over the eons. Even the British, when they created new Provinces and administrative units, had largely left these old boundaries and local traditions untouched. Indeed, even the British historian, Michael Edwardes, had a better grasp of this Indian reality than the Nehruvian establishment when he wrote the following:
 
-> **The commission most strongly criticized the creation of linguistic > states** on the grounds that they would inspire linguistic and > therefore local patriotisms which would inhibit the growth of a > national consciousness…which was fundamental to such growth. (Emphasis > added)
+> **The commission most strongly criticized the creation of linguistic > states** on the grounds that they would inspire linguistic and therefore local patriotisms which would inhibit the growth of a national consciousness…which was fundamental to such growth. (Emphasis added)
 
 But Nehru went against the Commission’s recommendations for cyncial reasons. In 1952, Potti Sriramulu, who agitated for a separate Telugu-speaking state, went on a fast… and died. The Telugu-speaking regions were instantly transformed into a fire pit. Unable to take the heat, Nehru buckled and inaugurated the formation of Andhra Pradesh in October 1953 — the first state to be formed entirely on linguistic lines.
 
@@ -463,7 +463,7 @@ By the early 1960s, the Congress party had emerged as the mothership of divisive
 
 THIS WOUND HAS FESTERED and grown to almost incurable proportions because the root cause is elsewhere. History reveals to us the truth that at no point did the Congress have a truly national vision after Nehru became unchallengable both within the Congress and in the Government. Till his very end, he kept issuing only vague generalisations whose primary purpose was to keep winning elections repeatedly. To quote Edwardes again,
 
-> **Nehru…talked of broad and mostly incomprehensible issues…** It was > always Congress the liberator from British rule, the Congress the hope > of the future, never the Congress of the present…**the whole elections > \[were\] a travesty of democracy**. \[Emphasis added\]
+> **Nehru…talked of broad and mostly incomprehensible issues…** It was always Congress the liberator from British rule, the Congress the hope of the future, never the Congress of the present…**the whole elections \[were\] a travesty of democracy**. \[Emphasis added\]
 
 A national vision stems from an innate and wakeful recognition of national integrity on the plane of the spirit and culture. Its outward expressions encompass all spheres of our national life: politics, society, economy, religion, education and culture. It is what fuses all of them as a harmonious whole. When we regard each of these elements in isolation, integrity suffers damage. Which has what exactly occurred.
 

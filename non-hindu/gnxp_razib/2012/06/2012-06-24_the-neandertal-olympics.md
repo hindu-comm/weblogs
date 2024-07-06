@@ -13,7 +13,7 @@ The Neandertal Olympics?
 
 In the [comments:](http://blogs.discovermagazine.com/gnxp/2012/06/sex-sport/comment-page-1/#comment-139484)
 
-> And yes, species concepts are much more fuzzy in many cases. Were mice > to hold their own Olympics, they might well have learned (if slightly > furry) discussions about whether musculus/domesticus/castaneus should > compete in the same events, and if so, which events molossinus or > other hybrid individuals should compete in. As humans, we dodge that > bullet by having no closely enough related species to confuse the > issue. The difference between us and a chimp is well defined. If > Neanderthals were still around, that would be a different matter.
+> And yes, species concepts are much more fuzzy in many cases. Were mice > to hold their own Olympics, they might well have learned (if slightly > furry) discussions about whether musculus/domesticus/castaneus should > compete in the same events, and if so, which events molossinus or > other hybrid individuals should compete in. As humans, we dodge that bullet by having no closely enough related species to confuse the issue. The difference between us and a chimp is well defined. If Neanderthals were still around, that would be a different matter.
 
 What happens is a nation (e.g., China?) reconstructs a Neandertal individual from the sequence in the public domain as well as segments from living human beings. Do they get to compete as power-lifters? This *might* seem like a crazy question, but I’m not totally unconvinced that it will be just academic within our lifetime. Genetic modification is likely to become ubiquitous within a generation.
 
@@ -21,7 +21,8 @@ What happens is a nation (e.g., China?) reconstructs a Neandertal individual fro
 
 ### Related Posts:
 
-- [Sex & sport](https://www.gnxp.com/WordPress/2012/06/23/sex-sport/) - [The mess that is
+- [Sex & sport](https://www.gnxp.com/WordPress/2012/06/23/sex-sport/)
+- [The mess that is
   mouse](https://www.gnxp.com/WordPress/2011/05/31/the-mess-that-is-mouse/) - [Neandertal autosomal sequence goes
   live](https://www.gnxp.com/WordPress/2006/07/20/neandertal-autosomal-sequence-goes-live/) - [Neandertal autosomal sequence goes
   live](https://www.gnxp.com/WordPress/2006/07/20/neandertal-autosomal-sequence-goes-live/) - [The rise of the

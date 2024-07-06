@@ -13,7 +13,8 @@ Movies I’m looking forward to
 
 ### Related Posts:
 
-- [Nerd/Geek/Dork - my
+- [Nerd/Geek/Dork
+- my
   breakdown](https://www.gnxp.com/WordPress/2006/09/21/nerdgeekdork-my-breakdown/) - [Review of
   Mongol](https://www.gnxp.com/WordPress/2008/06/06/review-of-mongol/) - [Who-whom?](https://www.gnxp.com/WordPress/2008/10/29/who-whom/) - [Wanna get your nerd
   on?](https://www.gnxp.com/WordPress/2007/10/28/wanna-get-your-nerd-on/) - [Nerd like

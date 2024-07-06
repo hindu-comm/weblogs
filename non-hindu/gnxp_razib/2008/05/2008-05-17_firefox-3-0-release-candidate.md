@@ -11,9 +11,9 @@ Firefox 3.0 release candidate
 
 [Firefox 3 release candidate goes public](http://www.news.com/8301-10784_3-9946553-7.html?tag=nefd.riv):
 
-> It’s a public preview of the new Firefox code, available in 45 > languages, **aimed at developers and early adopters to test out the > new features.** It has an extensive list of known bugs.  
+> It’s a public preview of the new Firefox code, available in 45 languages, **aimed at developers and early adopters to test out the new features.** It has an extensive list of known bugs.  
 > …  
-> On the performance front, **the documentation states that applications > such as Google Mail and Zoho Office run twice as fast in Firefox 3, > compared to Firefox 2, and memory usage has been improved.** In > addition, bookmarks, history, cookies, and preferences are less > susceptible to data loss.
+> On the performance front, **the documentation states that applications > such as Google Mail and Zoho Office run twice as fast in Firefox 3, compared to Firefox 2, and memory usage has been improved.** In addition, bookmarks, history, cookies, and preferences are less susceptible to data loss.
 
 If you are running Firefox, Help → Check for Updates… Or [download](http://www.mozilla.com/en-US/firefox/all-rc.html). Please note that this does break a lot of plugins.
 

@@ -11,7 +11,7 @@ How the Sabians saved civilization?
 
 Reading [The Later Roman Empire, 284-602: A Social, Economic, and Administrative Survey](https://www.amazon.com/Later-Roman-Empire-284-602-Administrative/dp/080183354X/ref=sr_1_1/002-9954258-8060061?ie=UTF8&s=books&amp;amp;amp;amp;amp;amp;amp;qid=1177647631&sr=1-1) I stumbled upon this on page 939:
 
-> …In some places paganism survived the Arab conquest. in 830 the people > of Carrhae \[modern day > [Harran](https://en.wikipedia.org/wiki/Harran)\], a city always > notorious for its devotion to the old gods, were threatened with > massacre by the Caliph unless they abandoned their religion for Islam > or one of the tolerated faiths and only saved themselves by profession > themselves to be Sabians. To this day the heretical sect of the > Nusairi in the mountains between the upper Ortones and the sea profess > doctrines which clearly derive from the Neo-Platonic paganism of the > later empire….
+> …In some places paganism survived the Arab conquest. in 830 the people > of Carrhae \[modern day > [Harran](https://en.wikipedia.org/wiki/Harran)\], a city always > notorious for its devotion to the old gods, were threatened with > massacre by the Caliph unless they abandoned their religion for Islam > or one of the tolerated faiths and only saved themselves by profession > themselves to be Sabians. To this day the heretical sect of the Nusairi in the mountains between the upper Ortones and the sea profess doctrines which clearly derive from the Neo-Platonic paganism of the later empire….
 
 The “Nusairi” refers to the [Alawites](https://en.wikipedia.org/wiki/Alawites), a heterodox marginally Islamic sect whose claim to fame lay in its control of the modern day state of Syria. I had long known of the late paganism of Carrhae. In other cities where paganism was vital and dominated civic life during the 6th century the Byzantine Emperors employed the force of arms to destroy the temples and crush public sponsorship of non-Christian piety (Gaza, Heliopolis, etc.); the religious life of Carrhae was protected in part by its closeness to the Persian Empire. Some of the philosophers scattered after the closing of [the Academy](https://en.wikipedia.org/wiki/Academy#The_revived_Neoplatonic_Academy_of_Late_Antiquity) eventually settled in Carrhae, which in some ways resembled a time capsule that had preserved the sensibilities of pagan late antiquity, where the astral cults reigned supreme over a latitudinarian religious culture.
 
@@ -29,7 +29,8 @@ But though this was the proximate dynamic which led to Carrhae preserving its pa
 
 ### Related Posts:
 
-- [Obscure Middle Eastern religious cults - part
+- [Obscure Middle Eastern religious cults
+- part
   n](https://www.gnxp.com/WordPress/2007/10/10/obscure-middle-eastern-religious-cults-part-n/) - [Yezidis](https://www.gnxp.com/WordPress/2006/02/25/yezidis/) - [Bye bye Kalash! It was good while it
   lasted....](https://www.gnxp.com/WordPress/2009/09/22/bye-bye-kalash-it-was-good-while-it-lasted/) - [The extinction of Middle Eastern religious
   minorities](https://www.gnxp.com/WordPress/2015/04/27/the-extinction-of-middle-eastern-religious-minorities/) - [Cultural and religious relics as clues to cultural

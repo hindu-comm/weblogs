@@ -11,7 +11,7 @@ The Ghosts of Empires Past
 
 The blog [Strange Maps](http://strangemaps.wordpress.com/) is candy to a data fiend. I think most readers are aware that I’m one who believes that a thick network of historical & geographic information can be extremely useful in understanding the present; too many people forget that intelligence and ignorance get along just fine. But about a week ago there was a map which leaves you at a loss for words. First a [description](http://strangemaps.wordpress.com/2008/12/15/348-an-imperial-palimpsest-on-polands-electoral-map/):
 
-> Mr Hecht did some overlay work, and came up with this remarkable fit: > “The divide between the (more free-market) PO and the (more populist) > PiS almost exactly follows **the old border between Imperial Germany > and Imperial Russia**, as it ran through Poland! How about that for a > long-lasting cultural heritage?!?” How about: amazing, bordering on > the unbelievable?
+> Mr Hecht did some overlay work, and came up with this remarkable fit: > “The divide between the (more free-market) PO and the (more populist) > PiS almost exactly follows **the old border between Imperial Germany and Imperial Russia**, as it ran through Poland! How about that for a long-lasting cultural heritage?!?” How about: amazing, bordering on the unbelievable?
 
 Map below the fold (edited for greater clarity).
 

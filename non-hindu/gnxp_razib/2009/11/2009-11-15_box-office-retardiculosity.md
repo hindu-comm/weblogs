@@ -11,7 +11,7 @@ Box office retardiculosity!
 
 [‘2012’ Opening Earns \$65 Million](http://www.nytimes.com/2009/11/16/movies/16box.html?_r=1&hp=&pagewanted=print):
 
-> It is rare for a movie not based on a pre-existing brand, franchise or > hit novel to deliver such robust results. Sony said “2012,” with a > budget of \$200 million, **had the highest worldwide opening ever for > an original movie.**
+> It is rare for a movie not based on a pre-existing brand, franchise or hit novel to deliver such robust results. Sony said “2012,” with a budget of \$200 million, **had the highest worldwide opening ever for an original movie.**
 
 ### Related Posts:
 

@@ -579,7 +579,7 @@ The years between 1687 and 1757 saw [a series of conflicts](https://en.wikipedia
 
 In response to the recalcitrance of some of his subordinates to carry out the full extent of his dictates, Qianlong ordered the following proclamation be read out:
 
-> *Show no mercy at all to these rebels. Only the old and weak should be > saved. Our previous military campaigns were too lenient. If we act as > before, our troops will withdraw, and further trouble will occur. If a > rebel is captured and his followers wish to surrender, he must > personally come to the garrison, prostrate himself before the > commander, and request surrender. If he only sends someone to request > submission, it is undoubtedly a trick. **Tell Tsengünjav to massacre > these crafty Zunghars.** Do not believe what they say.*
+> *Show no mercy at all to these rebels. Only the old and weak should be > saved. Our previous military campaigns were too lenient. If we act as > before, our troops will withdraw, and further trouble will occur. If a > rebel is captured and his followers wish to surrender, he must > personally come to the garrison, prostrate himself before the commander, and request surrender. If he only sends someone to request submission, it is undoubtedly a trick. **Tell Tsengünjav to massacre these crafty Zunghars.** Do not believe what they say.*
 
 Of 600,000 Dzungars, up to 480,000 may have died. A 19th-century [Chinese historian](https://en.wikipedia.org/wiki/Wei_Yuan) estimated that 30% of the Dzungar households were directly killed by the Qing armies. Another 40-50% died of disease and starvation. The remainder fled to the Russian Empire or took refuge with the Kazakhs.
 

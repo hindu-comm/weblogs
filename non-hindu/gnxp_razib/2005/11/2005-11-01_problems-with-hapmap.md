@@ -13,7 +13,8 @@ Please see [John’s post](http://johnhawks.net/weblog/reviews/genomics/selectio
 
 ### Related Posts:
 
-- [HapMap](https://www.gnxp.com/WordPress/2005/10/27/hapmap/) - [The humanities & the
+- [HapMap](https://www.gnxp.com/WordPress/2005/10/27/hapmap/)
+- [The humanities & the
   university](https://www.gnxp.com/WordPress/2005/12/19/the-humanities-the-university/) - [John Hawks &
   Bloggingheads.tv](https://www.gnxp.com/WordPress/2009/10/17/john-hawks-bloggingheads-tv/) - [John Hawks &
   Bloggingheads.tv](https://www.gnxp.com/WordPress/2009/10/17/john-hawks-bloggingheads-tv/) - [Congratulations to John

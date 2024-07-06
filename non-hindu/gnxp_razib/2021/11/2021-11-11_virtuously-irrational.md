@@ -17,7 +17,9 @@ Here is the conundrum at the heart of Picquart’s behavior: **was it rational f
 
 ### Related Posts:
 
-- [Open Thread - 10/17/2021 - Gene
+- [Open Thread
+- 10/17/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/10/17/open-thread-10-17-2021-gene-expression/) - [Bernie Madoff was a cheater in more ways than
   one](https://www.gnxp.com/WordPress/2009/08/14/bernie-madoff-was-a-cheater-in-more-ways-than-one/) - [Richard Dawkins', cognitive
   superstar?](https://www.gnxp.com/WordPress/2015/05/07/richard-dawkins-cognitive-superstar/) - [Lactase persistence

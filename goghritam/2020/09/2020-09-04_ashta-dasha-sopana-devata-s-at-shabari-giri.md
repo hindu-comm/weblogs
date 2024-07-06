@@ -20,9 +20,19 @@ The 18 steps on shabari giri are said to be indicative of various
 deities as listed below:
 
 1\. nAga yakShi 2. mahiSha mardini 3. annapUrNa 4. kAlI 5. kR^iShNa kAlI
-6. shakti bhairavI 7. kArtavIrya 8. kR^iShNAbha 9. hiDuMba 10. bhetAla
-11. nAgarAja 12. reNukA 13. svapna vArAhI 14. pratya\~NgirA 15. bhUmi
-16. aghora 17. pAshupata 18. mR^ityunjaya
+6. shakti bhairavI
+7. kArtavIrya
+8. kR^iShNAbha
+9. hiDuMba
+10. bhetAla
+11. nAgarAja
+12. reNukA
+13. svapna vArAhI
+14. pratya\~NgirA
+15. bhUmi
+16. aghora
+17. pAshupata
+18. mR^ityunjaya
 
 mahiSha -mardini – Though specifically called mahiSha mardini, chaNDikA
 is meant here and navArNa seems to be employed.

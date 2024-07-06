@@ -11,9 +11,9 @@ Possible instance of genetic discrimination
 
 [Dr. Daniel MacArthur](https://twitter.com/dgmacarthur/status/13056912352) pointed me to this story, [Conn. woman alleges genetic discrimination at work](http://www.bostonherald.com/news/national/northeast/view.bg?articleid=1250872&format=text):
 
-> A Connecticut woman who had a voluntary double mastectomy after > genetic testing is alleging her employer eliminated her job after > learning she carried a gene implicated in breast cancer. >
-> Pamela Fink, 39, of Fairfield said in discrimination complaints that > her bosses at natural gas and electric supplier MXenergy gave her > glowing evaluations for years, but targeted, demoted and eventually > dismissed her when she told them of the genetic test results. >
-> Her complaints, filed Tuesday with the U.S. Equal Opportunity > Commission and Connecticut Commission on Human Rights and > Opportunities, are among the first known to be filed nationwide based > on the federal Genetic Information Nondiscrimination Act.
+> A Connecticut woman who had a voluntary double mastectomy after genetic testing is alleging her employer eliminated her job after learning she carried a gene implicated in breast cancer. >
+> Pamela Fink, 39, of Fairfield said in discrimination complaints that her bosses at natural gas and electric supplier MXenergy gave her glowing evaluations for years, but targeted, demoted and eventually dismissed her when she told them of the genetic test results. >
+> Her complaints, filed Tuesday with the U.S. Equal Opportunity Commission and Connecticut Commission on Human Rights and Opportunities, are among the first known to be filed nationwide based on the federal Genetic Information Nondiscrimination Act.
 
 What probability do readers put in regards to this being a legitimate complaint? This seems a [large firm](https://en.wikipedia.org/wiki/MXenergy), so I doubt that group insurance rates would change because of one person (I have heard of this occurring in small businesses where an expensive employee or employee’s family member can effect the rate for everyone else). So if it is legitimate the main issue would have been their fear of future illness, but the woman in question went through a double mastectomy, which I assume would obviate that concern. What am I missing? Are there expectations that she’d be taking medical leave in the future due to follow up operations or treatment?
 

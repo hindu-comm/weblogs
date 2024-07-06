@@ -11,7 +11,7 @@ Is James Kirchick stupid, or does he just think we are?
 
 Normally I don’t blog politics since I don’t know shit really. I generally subscribe to 2-3 political feeds which I regularly rotate to keep me “hooked in.” Today I saw something so so shockingly stupid, or, brazenly mendacious, that I had to take note. [Red Massachusetts?](http://blogs.tnr.com/tnr/blogs/the_plank/archive/2008/03/20/red-massachusetts.aspx):
 
-> …And a **Scots-Irish** war veteran as the Republican nominee > complicates predictions about whom **Kennedy Country** will support > come November.
+> …And a **Scots-Irish** war veteran as the Republican nominee complicates predictions about whom **Kennedy Country** will support come November.
 
 Most of the commentary seems fine, if disputable; I might not agree, but it’s political pundrity, about as rooted in reality as sports predictions. James Kirchick graduated from Yale with a degrees in history and political science, so I assume he knows something and has the processing power to engage in a fair amount of rigorous ratiocination. The reference to “Kennedey Country” has to do with the fact that Massachusetts is demographically dominated by Irish Americans and their political culture. This is not identical to Scots-Irish, who are customarility Presbyterian. Additionally, in the southern highlands some of the Scots-Irish regions were often redoubts of Unionist-Republican sentiment during the long Democratic hegemony (ergo, the creation of West Virigina). Nor are these two groups similarly distributed across the nation.
 

@@ -31,7 +31,7 @@ The toleration of racists is in today’s America is like testing a boundary con
 
 The General Social Survey has a question up from 2014 for the variable **RACEMEET** that asks:
 
-> Should people prejudiced against any racial or ethnic group be allowed > to hold public meetings?
+> Should people prejudiced against any racial or ethnic group be allowed to hold public meetings?
 
 The question was asked in 2010 and 2014, and 2,651 individuals answered this. The answer was converted to ordinal, so I decided to probe relationships between variables and the score of toleration through regression. Some independent variables, such as political viewpoint (POLVIEWS), were recoded in an ordinal fashion (so that “extremely liberal” = 1, “liberal” = 2, and so forth, to “extremely conservative” = 7). Others, such as age, do not require any recoding. RACEMEET itself was converted to an ordinal.
 

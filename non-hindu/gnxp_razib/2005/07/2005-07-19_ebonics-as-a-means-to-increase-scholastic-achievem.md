@@ -17,7 +17,7 @@ There are so many things wrong in that article, I’ll stick the two most basic 
 
 2\) The article says:
 
-> A pilot of the policy, known as the Students Accumulating New > Knowledge Optimizing Future Accomplishment Initiative, has been > implemented at two city schools.
+> A pilot of the policy, known as the Students Accumulating New Knowledge Optimizing Future Accomplishment Initiative, has been implemented at two city schools.
 
 Have any results been published? Can I have access to the data? Or is this going to be another [fraud in the name of social justice.](https://www.amazon.com/exec/obidos/tg/detail/-/0898598362/individuladif-20/002-6422678-0994434)
 

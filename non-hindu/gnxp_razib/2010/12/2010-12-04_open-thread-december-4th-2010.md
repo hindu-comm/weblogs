@@ -11,7 +11,7 @@ Open Thread – December 4th, 2010
 
 A few people have asked about me the assertion I made about the decline in violence over time. This doesn’t seem to pass the smell test for many moderns. In particular, I think the objection about the magnitude of modern wars is a valid one…but the main issue to **remember is to focus on the proportions of those who died.** So, the key metric would be the fraction of Germans who died from 1940-1945 and the fraction who died during the worst five year interval of the Thirty Years War. I’ll leave it to readers to dig further (you actually engage in a lit search rather than offer up more opinions), but here are two arguments. First, [Long-Term Historical Trends in Violent Crime](http://videojuegosycultura.files.wordpress.com/2008/01/long-term-historical-trends-of-violent-crime.pdf):
 
-> Research on the history of crime from the thirteenth century until the > end of the twentieth has burgeoned and has greatly increased > understanding of historical trends in crime and crime control. Serious > interpersonal violence decreased remarkably in Europe between the > mid-sixteenth and the early twentieth centuries. Different long-term > trajectories in the decline of homicide can be distinguished between > various European regions. Age and sex patterns in serious violent > offending, however, have changed very little over several centuries. > The long-term decline in homicide rates seems to go along with a > disproportionate decline in elite homicide and a drop in male-to-male > conﬂicts in public space. A range of theoretical explanations for the > longterm decline have been offered, including the effects of the > civilizing process, strengthening state powers, the Protestant > Reformation, and modern individualism, but most theorizing has been > post hoc.
+> Research on the history of crime from the thirteenth century until the > end of the twentieth has burgeoned and has greatly increased > understanding of historical trends in crime and crime control. Serious > interpersonal violence decreased remarkably in Europe between the > mid-sixteenth and the early twentieth centuries. Different long-term > trajectories in the decline of homicide can be distinguished between > various European regions. Age and sex patterns in serious violent > offending, however, have changed very little over several centuries. > The long-term decline in homicide rates seems to go along with a > disproportionate decline in elite homicide and a drop in male-to-male > conﬂicts in public space. A range of theoretical explanations for the > longterm decline have been offered, including the effects of the civilizing process, strengthening state powers, the Protestant Reformation, and modern individualism, but most theorizing has been post hoc.
 
 A chart:  
   
@@ -25,7 +25,8 @@ Do note that an “open thread” means you can talk about other things as well.
 
 ### Related Posts:
 
-- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/) - [Old parents who
+- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/)
+- [Old parents who
   die](https://www.gnxp.com/WordPress/2009/07/16/old-parents-who-die/) - [Sharp Blue &
   analogies](https://www.gnxp.com/WordPress/2006/12/16/sharp-blue-analogies/) - [Good night Avicii, you lived before you
   died](https://www.gnxp.com/WordPress/2018/04/20/good-night-avcii-you-lived-before-you-died/) - [George C. Williams,

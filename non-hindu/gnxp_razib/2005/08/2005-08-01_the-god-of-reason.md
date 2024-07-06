@@ -29,7 +29,11 @@ If you didn’t choose the number that pops up, you are in a minority. My point 
 
 Fodor’s definition of a modular process (roughtly analogous to TASS) list the following traits:
 
-1.  fast 2.  mandatory 3.  domain specific 4.  informationally encapsulated 5.  cognitive impenetrable 6.  subserved by specific neural architecture 7.  subject to idiosyncratic pathological breakdown 8.  ontogenetically deterministic
+1.  fast 2.  mandatory 3.  domain specific 4.  informationally encapsulated
+5.  cognitive impenetrable
+6.  subserved by specific neural architecture
+7.  subject to idiosyncratic pathological breakdown
+8.  ontogenetically deterministic
 
 Obviously this list is too restrictive for something like basic mathematical skills, as there is a great deal of evidence that the last five criteria do not apply to mathematical functioning, and the extent of the first three are subject to specifics (what type of math, how “fast” or “mandatory”). But the point is that “higher cognitive functions” can become part of TASS over time, and the mandatory part really undermines our conceit that we are by and large rational and conscious beings, always in the cockpit controlling everything manually. This insight is “obvious” if you are talking about motor skills (shooting a basketball), but we tend to not acknowledge its reality in functions which demand some g (figuring out the best route to integrate a nasty function).
 

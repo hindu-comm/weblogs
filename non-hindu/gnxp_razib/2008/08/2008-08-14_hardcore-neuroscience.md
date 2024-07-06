@@ -13,7 +13,8 @@ Check it, [Kaleidoscopik](http://kaleidoscopik.com/) (work safe).
 
 ### Related Posts:
 
-- [Asian dudes](https://www.gnxp.com/WordPress/2008/12/03/asian-dudes/) - [Not work safe, but eye
+- [Asian dudes](https://www.gnxp.com/WordPress/2008/12/03/asian-dudes/)
+- [Not work safe, but eye
   safe](https://www.gnxp.com/WordPress/2006/07/15/not-work-safe-but-eye-safe/) - [Neuroscience blog of
   note](https://www.gnxp.com/WordPress/2010/03/24/neuroscience-blog-of-note/) - [Blogging Heads, is it worth
   it?](https://www.gnxp.com/WordPress/2007/03/23/blogging-heads-is-it-worth-it/) - [One question to

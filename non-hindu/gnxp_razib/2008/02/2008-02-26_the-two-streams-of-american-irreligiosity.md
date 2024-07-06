@@ -13,9 +13,9 @@ Despite the fact that the mainstream media likes to write a lot of stories how r
 
 The [US Religious Landscape Survey](https://religions.pewforum.org/) by Pew doesn’t come burdened by the need to satisfy the consumer market. From [chapter 2](https://religions.pewforum.org/pdf/report-religious-landscape-study-chapter-2.pdf):
 
-> The biggest gains due to changes in religious affiliation have been > among those who say they are not affiliated with any particular > religious group or tradition. Overall, 7.3% of the adult population > says they were unaffiliated with any particular religion as a child. > Today, however, 16.1% of adults say they are unaffiliated, a net > increase of 8.8 percentage points. Sizeable numbers of those raised in > all religions – from Catholicism to Protestantism to Judaism – are > currently unaffiliated with any particular religion. >
+> The biggest gains due to changes in religious affiliation have been > among those who say they are not affiliated with any particular > religious group or tradition. Overall, 7.3% of the adult population > says they were unaffiliated with any particular religion as a child. > Today, however, 16.1% of adults say they are unaffiliated, a net increase of 8.8 percentage points. Sizeable numbers of those raised in all religions – from Catholicism to Protestantism to Judaism – are currently unaffiliated with any particular religion. >
 > … >
-> The unaffiliated group provides a good example of the high degree of > religious movement that has taken place in the U.S. Overall, 3.9% of > the adult population reports being raised without any particular > religious affiliation but later affiliating with a religious group. > However, more than three times as many people (12.7% of the adult > population overall) were raised in a particular faith but have since > become unaffiliated with any religious group.
+> The unaffiliated group provides a good example of the high degree of > religious movement that has taken place in the U.S. Overall, 3.9% of > the adult population reports being raised without any particular > religious affiliation but later affiliating with a religious group. However, more than three times as many people (12.7% of the adult population overall) were raised in a particular faith but have since become unaffiliated with any religious group.
 
 Here are some breakdowns:
 

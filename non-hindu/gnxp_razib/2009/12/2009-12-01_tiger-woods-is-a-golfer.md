@@ -11,8 +11,8 @@ Tiger Woods is a golfer
 
 [Why Tiger’s endorsement empire is safe](https://www.msnbc.msn.com/id/34223570/ns/business-sports_biz/?ns=business-sports_biz):
 
-> And as indiscretions go, **this is not Michael Vick**, say sports > marketers. This is not Michael Phelps. **This is not Kobe Bryant**. > Not yet, anyway.  
-> “I’m convinced that this will not cause the end of Tiger Woods Inc. as > we know it,” said Paul Swangard, managing director of the University > of Oregon’s Warsaw Sports Marketing Center.
+> And as indiscretions go, **this is not Michael Vick**, say sports marketers. This is not Michael Phelps. **This is not Kobe Bryant**. Not yet, anyway.  
+> “I’m convinced that this will not cause the end of Tiger Woods Inc. as we know it,” said Paul Swangard, managing director of the University of Oregon’s Warsaw Sports Marketing Center.
 
 Probably Woods will still make gajillions of dollars in endorsements. Vick and Bryant’s transgressions were much more serious. But are professional golfers graded on the same curve as NBA or NFL athletes? I’m skeptical.
 

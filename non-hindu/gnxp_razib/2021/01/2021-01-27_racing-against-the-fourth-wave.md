@@ -22,8 +22,8 @@ Why does this matter? **I think it tells us we have some breathing room as we ra
 
 (and yes, it is over)
 
-> Third wave is officially over. > [pic.twitter.com/HhHbz1iSgo](https://t.co/HhHbz1iSgo) >
-> — Josiah Neeley 🤔 (@jneeley78) [January 26, > 2021](https://twitter.com/jneeley78/status/1354177764589531141?ref_src=twsrc%5Etfw)
+> Third wave is officially over. [pic.twitter.com/HhHbz1iSgo](https://t.co/HhHbz1iSgo) >
+> — Josiah Neeley 🤔 (@jneeley78) [January 26, 2021](https://twitter.com/jneeley78/status/1354177764589531141?ref_src=twsrc%5Etfw)
 
 ### Related Posts:
 

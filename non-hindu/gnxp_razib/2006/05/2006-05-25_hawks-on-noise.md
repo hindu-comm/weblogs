@@ -13,7 +13,8 @@ John Hawks added his [two cents about noise](http://johnhawks.net/weblog/reviews
 
 ### Related Posts:
 
-- [Noise](https://www.gnxp.com/WordPress/2005/10/03/noise/) - [The moral of
+- [Noise](https://www.gnxp.com/WordPress/2005/10/03/noise/)
+- [The moral of
   noise](https://www.gnxp.com/WordPress/2014/09/18/the-moral-of-noise/) - [What could John Hawks
   mean....(?)](https://www.gnxp.com/WordPress/2006/11/02/what-could-john-hawks-mean/) - [John Hawks &
   Bloggingheads.tv](https://www.gnxp.com/WordPress/2009/10/17/john-hawks-bloggingheads-tv/) - [John Hawks &

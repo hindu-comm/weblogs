@@ -11,7 +11,7 @@ Genetic mutation for SAD?
 
 [FuturePundit](http://www.futurepundit.com/archives/005679.html) points me to new work on a genetic mutation which might predispose one to Season Affective Disorder, [A missense variant (P10L) of the melanopsin (OPN4) gene in seasonal affective disorder](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T2X-4TG8K85-3&_user=709071&_coverDate=09/18/2008&_alid=815154128&_rdoc=1&_fmt=high&_orig=search&_cdi=4930&_sort=d&_docanchor=&view=c&_ct=1&_acct=C000039638&_version=1&_urlVersion=0&_userid=709071&md5=1c5f088bf9f6c85aef895d43e8257fb7):
 
-> SAD participants had a higher frequency of the homozygous minor > genotype (T/T) for the missense variant rs2675703 (P10L) than > controls, compared to the combined frequencies of C/C and C/T. > Individuals with the T/T genotype were 5.6 times more likely to be in > the SAD group than the control group, and all 7 (5%) of individuals > with the T/T genotype at P10L were in the SAD group.
+> SAD participants had a higher frequency of the homozygous minor > genotype (T/T) for the missense variant rs2675703 (P10L) than > controls, compared to the combined frequencies of C/C and C/T. Individuals with the T/T genotype were 5.6 times more likely to be in the SAD group than the control group, and all 7 (5%) of individuals with the T/T genotype at P10L were in the SAD group.
 
 It looks like there’s some [between population difference](http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=2675703):
 

@@ -11,8 +11,8 @@ Open Thread – December 11th, 2010
 
 Weird story about twin brothers contesting paternity, [Who’s Your Daddy? Paternity Battle Between Brothers](http://abcnews.go.com/TheLaw/LegalCenter/daddy-paternity-battle-brothers/story?id=3195632&tqkw=&tqshow=&page=1):
 
-> “With identical twins, even if you sequenced their whole genome you > wouldn’t find difference…they’re clones,” said Dr. Bob Gaensslen, a > forensic scientist at Orchid Cellmark labs in Texas. “There are a few > things in science that are cut and dried and this is one of them.” >
-> Dr. Bob Giles, a paternity testing expert, agrees. “There is simply no > test that explains the difference between two identical twins,” he > said.
+> “With identical twins, even if you sequenced their whole genome you wouldn’t find difference…they’re clones,” said Dr. Bob Gaensslen, a forensic scientist at Orchid Cellmark labs in Texas. “There are a few things in science that are cut and dried and this is one of them.” >
+> Dr. Bob Giles, a paternity testing expert, agrees. “There is simply no test that explains the difference between two identical twins,” he said.
 
 Is this right? Their sperm should have different distinctive mutations by this time in their lives, right? Which would be passed on to the child.
 

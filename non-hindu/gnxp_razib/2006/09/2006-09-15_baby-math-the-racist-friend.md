@@ -13,17 +13,18 @@ The other day I was IMing a friend of mine. She’s a college graduate with two 
 **Update:** Check out this dumbass comment 🙂 I had a good laugh over this….
 
 > Razib,  
-> Wow, you must have read the first chapter in a statistics text on > probability!  
-> You seem like a smart guy, but your sophistry in this case is > sophmoric. Knowledge does not equal wisdom.  
-> Racism is ‘The belief that race accounts for differences in human > character or ability and that a particular race is superior to > others.’  
-> A bigot is ‘One who is strongly partial to one’s own group, religion, > race, or politics and is intolerant of those who differ.’  
-> Just because the friend of your friend has only dated one race does > not mean she is a racist. She may be, she may also be a bigot, but you > would have to get in her head to know that.  
-> You may have math skills, but could use a little liberal arts training > in semantics.  
-> What on earth does being brown have to do with racism? Humans have > been racists and bigots since the beginning of time, regardless of > skin color. Smart guys with math skills should know that.
+> Wow, you must have read the first chapter in a statistics text on probability!  
+> You seem like a smart guy, but your sophistry in this case is sophmoric. Knowledge does not equal wisdom.  
+> Racism is ‘The belief that race accounts for differences in human character or ability and that a particular race is superior to others.’  
+> A bigot is ‘One who is strongly partial to one’s own group, religion, race, or politics and is intolerant of those who differ.’  
+> Just because the friend of your friend has only dated one race does not mean she is a racist. She may be, she may also be a bigot, but you would have to get in her head to know that.  
+> You may have math skills, but could use a little liberal arts training in semantics.  
+> What on earth does being brown have to do with racism? Humans have been racists and bigots since the beginning of time, regardless of skin color. Smart guys with math skills should know that.
 
 ### Related Posts:
 
-- [Small world](https://www.gnxp.com/WordPress/2008/08/05/small-world/) - [Hot chicks and
+- [Small world](https://www.gnxp.com/WordPress/2008/08/05/small-world/)
+- [Hot chicks and
   rubbernecking](https://www.gnxp.com/WordPress/2006/04/19/hot-chicks-and-rubbernecking/) - [Are agnostics
   pu\*\*ies?](https://www.gnxp.com/WordPress/2006/05/10/are-agnostics-puies/) - [Got Microsoft
   stock?](https://www.gnxp.com/WordPress/2006/08/27/got-microsoft-stock/) - [Bawdy genetics

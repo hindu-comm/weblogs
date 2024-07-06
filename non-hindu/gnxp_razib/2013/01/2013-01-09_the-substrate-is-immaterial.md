@@ -13,7 +13,8 @@ After my [last post](http://blogs.discovermagazine.com/gnxp/2013/01/the-future-i
 
 ### Related Posts:
 
-- [Kindle Cool](https://www.gnxp.com/WordPress/2009/02/24/kindle-cool/) - [Kindle vs. non-kindle
+- [Kindle Cool](https://www.gnxp.com/WordPress/2009/02/24/kindle-cool/)
+- [Kindle vs. non-kindle
   books](https://www.gnxp.com/WordPress/2012/01/03/kindle-vs-non-kindle-books/) - [The Kindle
   price](https://www.gnxp.com/WordPress/2012/11/20/the-kindle-price/) - [Kindle books outsell print books on
   Amazon](https://www.gnxp.com/WordPress/2011/05/19/kindle-books-outsell-print-books-on-amazon/) - [Open Thread,

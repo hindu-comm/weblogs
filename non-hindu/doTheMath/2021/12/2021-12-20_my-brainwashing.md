@@ -17,7 +17,7 @@ People rarely recognize or admit that they have been brainwashed. Perhaps the te
 
 An insightful quote from Mark Twain says:
 
-> It is easier to fool people than it is to convince them that they have > been fooled.
+> It is easier to fool people than it is to convince them that they have been fooled.
 
 What often happens, in fact, is that people on opposite sides of an issue suspect (or are convinced) that the other side has been brainwashed. Sometimes one side is more justified in the charge than the other, in which case the brainwashed victims effectively assert a sort of projected symmetry that rings false.
 
@@ -31,7 +31,7 @@ In this post, I will provide an example of how I evaluate the question of whethe
 
 This post was motivated by someone in the financial world noticing my [textbook](https://escholarship.org/uc/item/9js5291m), thinking well of it, and writing a piece that began with an extended quote from [Appendix D.6](https://escholarship.org/uc/item/9js5291m#section.A.11):
 
-> So here’s the thing. The first species smart enough to exploit fossil > fuels will do so with reckless abandon. Evolution did not skip steps > and create a *wise* being—despite the fact that the *sapiens* in our > species name means wise (self-assigned flattery). A wise being would > recognize early on the damage inherent in profligate use of fossil > fuels and would have refrained from unfettered exploitation. Not only > is climate change a problem, but building an entire civilization > dependent on a finite energy resource and also enabling a widespread > degradation of natural ecosystems seems like an amateur blunder.
+> So here’s the thing. The first species smart enough to exploit fossil > fuels will do so with reckless abandon. Evolution did not skip steps > and create a *wise* being—despite the fact that the *sapiens* in our > species name means wise (self-assigned flattery). A wise being would > recognize early on the damage inherent in profligate use of fossil > fuels and would have refrained from unfettered exploitation. Not only is climate change a problem, but building an entire civilization dependent on a finite energy resource and also enabling a widespread degradation of natural ecosystems seems like an amateur blunder.
 
 The piece got picked up and published at [Zero Hedge](https://www.zerohedge.com/markets/smart-enough-get-rich-not-smart-enough-keep-it), where I made the mistake of scanning the comments. I was appalled, and depressed at the sampling of humanity that we hope will act rationally to avoid the worst fate. It gave me an instant appreciation for the high quality, thoughtful comments posted to Do the Math. Granted, I don’t agree with all commenters, and do reject the occasional vacuous or vitriolic entry. But the Zero Hedge comments were dominated by empty posturing. A common refrain followed the formula:
 
@@ -96,7 +96,10 @@ Science, on the other hand, receives its “authority” *from nature itself*—
 
 I must say that part of me admires the clever and effective manipulation that right-wing media outlets have perfected. Rather than studying political science, international relations, and history, politicos on the right often study marketing, psychology, and communications. The recipe that hooks the audience is to hammer the messages:
 
-1.  The condescending elitists on the other side think you’re dumb. 2.  We know that you’re smart (wink; we’re experts at lying). 3.  In fact, we can trust you to understand the following insight that the elitists will label as conspiratorial: you will know it (in your bones) to be true, being as smart as you are. 4.  Only *we* can be trusted to tell the truth: don’t bother even *looking* at the pack of lies in all the the “lamestream” media outlets, even if they are all oddly and independently consistent with each other (see: conspiracy!).
+1.  The condescending elitists on the other side think you’re dumb.
+2.  We know that you’re smart (wink; we’re experts at lying).
+3.  In fact, we can trust you to understand the following insight that the elitists will label as conspiratorial: you will know it (in your bones) to be true, being as smart as you are.
+4.  Only *we* can be trusted to tell the truth: don’t bother even *looking* at the pack of lies in all the the “lamestream” media outlets, even if they are all oddly and independently consistent with each other (see: conspiracy!).
 
 How brilliant is that? The Soviet propagandists would be proud. The targeted victims/viewers don’t stand a chance against this psychological Jiu Jitsu. They feel belonging, validation, purpose, and—well—*smart*.
 Who doesn’t like feeling smart? Having established this bad-faith trust, the outlets can peddle any narrative they want. As long as it has some “truthy” hooks, it will not be questioned. Now, what will they do with this power? Good things, surely.

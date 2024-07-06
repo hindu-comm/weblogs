@@ -11,9 +11,9 @@ Does your twin have "rights" on your genomes?
 
 Randall Parker asks, [Genetic Privacy And Identical Twins](http://www.futurepundit.com/archives/007870.html):
 
-> Suppose you have a right to genetic privacy. You might believe you do. > Suppose you have an identical twin. Suppose the identical twin decides > to publish his (or her) genetic sequence on the web. Do you have the > right to stop this? >
-> **People who have identical genetic sequences each can get themselves > sequenced and then release their genetic data for all the world to > download and study.** But when an identical twin does this another > person also gets their genetic sequence released to the world. >
-> So should twins be able to legally stop each other from publishing > their shared DNA sequence on the web?
+> Suppose you have a right to genetic privacy. You might believe you do. Suppose you have an identical twin. Suppose the identical twin decides to publish his (or her) genetic sequence on the web. Do you have the right to stop this? >
+> **People who have identical genetic sequences each can get themselves sequenced and then release their genetic data for all the world to download and study.** But when an identical twin does this another person also gets their genetic sequence released to the world. >
+> So should twins be able to legally stop each other from publishing their shared DNA sequence on the web?
 
 This is not a question that just applies to twins. As I noted [earlier](http://blogs.discovermagazine.com/gnxp/2011/02/why-siblings-differ-differently/) individuals share \~50% of their distinctive genetic material with their parents and full-siblings. I share \~12.5% with first cousins whom I have never met. If I just released my raw sequence by uploading it somewhere I would implicitly “expose” to a non-trivial degree dozens of people (many without their knowledge).
 

@@ -11,8 +11,8 @@ When the state is your insurance company….
 
 [Chorus of demands to let doctor Bernhard Moeller stay](http://www.theaustralian.news.com.au/story/0,25197,24584089-23289,00.html):
 
-> The Rudd Government is under pressure from all fronts, even Labor > colleagues, to overturn a decision denying German doctor Bernhard > Moeller permanent residency in Australia **because his son Lukas has > Down syndrome.**  
-> The Immigration Department this week rejected Dr Moeller’s application > for permanent residency, **saying the potential cost to the taxpayer > of 13-year-old Lukas’s condition was too great.**
+> The Rudd Government is under pressure from all fronts, even Labor colleagues, to overturn a decision denying German doctor Bernhard Moeller permanent residency in Australia **because his son Lukas has Down syndrome.**  
+> The Immigration Department this week rejected Dr Moeller’s application for permanent residency, **saying the potential cost to the taxpayer of 13-year-old Lukas’s condition was too great.**
 
   
 This is not to say that government backed health care is right or wrong, but it is a reminder that transferring responsibilities from the private to the public sector will not magically change the human tendency to engage in cost vs. benefit analysis. Scarcity is a fact of economic life, whether it be purely private sector or a public good.  

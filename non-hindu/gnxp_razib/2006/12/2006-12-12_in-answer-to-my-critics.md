@@ -13,7 +13,9 @@ There were some rather irritable responses to my new [Sunni vs. Shia](https://ww
 
 ### Related Posts:
 
-- [Shia & Sunni](https://www.gnxp.com/WordPress/2006/12/04/shia-sunni/) - [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [ScienceBlogs
+- [Shia & Sunni](https://www.gnxp.com/WordPress/2006/12/04/shia-sunni/)
+- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/)
+- [ScienceBlogs
   portrait](https://www.gnxp.com/WordPress/2006/12/16/scienceblogs-portrait/) - [Sunni vs. Shia
   (again)](https://www.gnxp.com/WordPress/2006/10/17/sunni-vs-shia-again/) - [The Muslim Middle
   East](https://www.gnxp.com/WordPress/2006/12/14/the-muslim-middle-east/) - [Sunni vs. Shia - let me school

@@ -21,7 +21,8 @@ There was one political grouping, which had a presence in Portugal, which was op
 
 ### Related Posts:
 
-- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/) - [The survivorship bias in book
+- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/)
+- [The survivorship bias in book
   ratings](https://www.gnxp.com/WordPress/2017/09/16/the-survivorship-bias-in-book-ratings/) - [Basa beats
   catfish](https://www.gnxp.com/WordPress/2009/06/25/basa-beats-catfish/) - [A sign that Facebook has
   peaked](https://www.gnxp.com/WordPress/2010/10/22/a-sign-that-facebook-has-peaked/) - [Classic evolutionary biology

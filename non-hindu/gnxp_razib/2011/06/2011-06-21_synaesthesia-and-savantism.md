@@ -51,7 +51,8 @@ Yaro, C., & Ward, J. (2007). Searching for Shereshevskii: What is superior about
 
 ### Related Posts:
 
-- [Stasis](https://www.gnxp.com/WordPress/2006/10/18/stasis/) - [Open Thread,
+- [Stasis](https://www.gnxp.com/WordPress/2006/10/18/stasis/)
+- [Open Thread,
   2/9/2014](https://www.gnxp.com/WordPress/2014/02/09/open-thread-292014/) - [The bush & the bramble of the human
   family](https://www.gnxp.com/WordPress/2011/12/30/the-bush-the-bramble/) - [Gladwell
   hatin'](https://www.gnxp.com/WordPress/2009/11/10/gladwell-hatin/) - [Brain Scans and Social

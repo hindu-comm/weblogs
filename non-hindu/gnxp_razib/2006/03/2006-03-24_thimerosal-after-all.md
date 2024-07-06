@@ -13,13 +13,14 @@ Although the scientific community has been [dismissive](https://www.gnxp.com/MT2
 
 The latest issue of the [Journal of American Physicians and Surgeons (Spring 2006)](http://www.jpands.org/jpands1101.htm) documents “Early Downward Trends in Neurodevelopmental Disorders Following Removal of Thimerosal-Containing Vaccines” [\[PDF\]](http://www.jpands.org/vol11no1/geier.pdf):
 
-> A two-phase study was undertaken to evaluate trends in diagnosis of > new NDs entered into the Vaccine Adverse Event Reporting System > (VAERS) and the California Department of Developmental Services (CDDS) > databases on a reporting quarter basis, from 1994 through 2005. > Significant increasing trends in newly diagnosed NDs were observed in > both databases 1994 through mid-2002. Significant decreasing trends in > newly diagnosed NDs were observed in both databases from mid-2002 > through 2005. The results indicate that the trends in newly diagnosed > NDs correspond directly to the expansion and subsequent contraction of > the cumulative mercury dose to which children were exposed from TCVs > through the U.S. immunization schedule.
+> A two-phase study was undertaken to evaluate trends in diagnosis of > new NDs entered into the Vaccine Adverse Event Reporting System > (VAERS) and the California Department of Developmental Services (CDDS) > databases on a reporting quarter basis, from 1994 through 2005. > Significant increasing trends in newly diagnosed NDs were observed in > both databases 1994 through mid-2002. Significant decreasing trends in > newly diagnosed NDs were observed in both databases from mid-2002 > through 2005. The results indicate that the trends in newly diagnosed NDs correspond directly to the expansion and subsequent contraction of the cumulative mercury dose to which children were exposed from TCVs through the U.S. immunization schedule.
 
 If the trend continues downward, the tragedy of autism won’t quite be over. It will only get harder to develop and distribute vaccines, and virtually impossible to convince the public that they’re safe.
 
 ### Related Posts:
 
-- [Mercury](https://www.gnxp.com/WordPress/2008/07/08/mercury/) - [Nature/Nurture in Development and
+- [Mercury](https://www.gnxp.com/WordPress/2008/07/08/mercury/)
+- [Nature/Nurture in Development and
   Disorder](https://www.gnxp.com/WordPress/2006/08/03/nature-nurture-in-development-and-disorder/) - [When the doctor is a
   patient....](https://www.gnxp.com/WordPress/2011/04/14/when-the-doctor-is-a-patient/) - [Media and public attention to
   coronavirus](https://www.gnxp.com/WordPress/2020/08/30/media-and-public-attention-to-coronavirus/) - [Obama & McCain & Clinton on

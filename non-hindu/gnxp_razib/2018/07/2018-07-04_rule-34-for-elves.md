@@ -17,7 +17,7 @@ This wouldn’t work as well with other epic series’ from the era. Robert Jord
 
 Now that Amazon has confirmed that the new Tolkien series is going to be based around the early life of [Aragorn](https://culturedvultures.com/amazon-lord-rings/), some are highlighting what they see as a likely problem with the new series:
 
-> While Game of Thrones is often held up as grittier and more cynical > than Lord of the Rings – often by people who see the latter as a > simplistic, morally two-tone tale of good vs. evil – the biggest > difference, when it comes down to it, **is the titties (and the > characters’ filthy fucking mouths).** Lord of the Rings is darker than > it’s often given credit for.
+> While Game of Thrones is often held up as grittier and more cynical > than Lord of the Rings – often by people who see the latter as a > simplistic, morally two-tone tale of good vs. evil – the biggest difference, when it comes down to it, **is the titties (and the characters’ filthy fucking mouths).** Lord of the Rings is darker than it’s often given credit for.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/07/silm.jpeg?resize=186%2C271&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/07/silm.jpeg?resize=186%2C271&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B007978PGI/geneexpressio-20)There is something about the mood and ambiance of Tolkien’s work which Peter Jackson captured in his first three films. This, despite the fact that the exterior scenes in lush and green New Zealand did not properly reflect the ancient decay of the landscape of the fallen civilization to which Aragorn and his companions were the heirs to.
 

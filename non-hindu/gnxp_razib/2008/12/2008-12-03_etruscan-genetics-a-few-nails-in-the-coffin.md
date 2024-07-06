@@ -11,7 +11,7 @@ Etruscan genetics, a few nails in the coffin….
 
 [The Etruscan timeline: a recent Anatolian connection](http://www.nature.com/ejhg/journal/vaop/ncurrent/abs/ejhg2008224a.html):
 
-> The origin of the Etruscans (the present day Tuscany, Italy), one of > the most enigmatic non-Indo-European civilizations, is under intense > controversy. We found novel genetic evidences on the mitochondrial DNA > (mtDNA) establishing a genetic link between Anatolia and the ancient > Etruria. By way of complete mtDNA genome sequencing of a novel > autochthonous Tuscan branch of haplogroup U7 (namely U7a2a), **we have > estimated an historical time frame for the arrival of Anatolian > lineages to Tuscany ranging from 1.1 +/- 0.1 to 2.3 +/- 0.1 0.4 kya > B.P.**
+> The origin of the Etruscans (the present day Tuscany, Italy), one of > the most enigmatic non-Indo-European civilizations, is under intense > controversy. We found novel genetic evidences on the mitochondrial DNA > (mtDNA) establishing a genetic link between Anatolia and the ancient > Etruria. By way of complete mtDNA genome sequencing of a novel > autochthonous Tuscan branch of haplogroup U7 (namely U7a2a), **we have estimated an historical time frame for the arrival of Anatolian lineages to Tuscany ranging from 1.1 +/- 0.1 to 2.3 +/- 0.1 0.4 kya B.P.**
 
 **Related:** Posts on [Etruscans & genetics](https://www.google.com/cse?cx=017254414699180528062:uyrcvn__yd0&q=Etruscan+site:http://scienceblogs.com/gnxp/&sa=Search).
 

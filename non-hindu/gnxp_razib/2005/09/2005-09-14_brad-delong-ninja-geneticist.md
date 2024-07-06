@@ -19,7 +19,8 @@ Take that, Sully-Man!
 
 ### Related Posts:
 
-- [Ninja cat](https://www.gnxp.com/WordPress/2008/09/18/ninja-cat/) - [Nick Wade, genetics &
+- [Ninja cat](https://www.gnxp.com/WordPress/2008/09/18/ninja-cat/)
+- [Nick Wade, genetics &
   history](https://www.gnxp.com/WordPress/2006/03/11/nick-wade-genetics-history/) - [Compare and
   contrast](https://www.gnxp.com/WordPress/2006/03/13/compare-and-contrast/) - [Suggested
   Readings](https://www.gnxp.com/WordPress/2008/12/15/suggested-readings/) - [HGDP browser is

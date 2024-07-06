@@ -11,7 +11,7 @@ Could it be hair form?
 
 In [Genome-wide detection and characterization of positive selection in human populations](http://www.nature.com/nature/journal/v449/n7164/abs/nature06250.html) there’s an interesting part which intrigues me:
 
-> The EDAR polymorphism is notable because it is highly differentiated > between the Asian and other continental populations…and also within > Asian populations (in the top 1% of SNPs differentiated between the > Japanese and Chinese HapMap samples). Genotyping of the EDAR > polymorphism in the CEPH…global diversity panel…shows that it is at > high but varying frequency throughout Asia and the Americas (for > example, 100% in Pima Indians and in parts of China, and 73% in > Japan)…Studying populations like the Japanese, in which the allele is > still segregating, may provide clues to its biological significance. >
+> The EDAR polymorphism is notable because it is highly differentiated > between the Asian and other continental populations…and also within > Asian populations (in the top 1% of SNPs differentiated between the > Japanese and Chinese HapMap samples). Genotyping of the EDAR > polymorphism in the CEPH…global diversity panel…shows that it is at > high but varying frequency throughout Asia and the Americas (for example, 100% in Pima Indians and in parts of China, and 73% in Japan)…Studying populations like the Japanese, in which the allele is still segregating, may provide clues to its biological significance. >
 > *EDAR* has a central role in generation of the primary hair follicle  
 > pattern….
 

@@ -15,7 +15,8 @@ Sneak peak at 2008?
 
 ### Related Posts:
 
-- [Biden](https://www.gnxp.com/WordPress/2008/08/23/biden/) - [New Hampshire
+- [Biden](https://www.gnxp.com/WordPress/2008/08/23/biden/)
+- [New Hampshire
   predictions](https://www.gnxp.com/WordPress/2008/01/04/new-hampshire-predictions/) - [Is Newt Gingrich too fat to be
   president?](https://www.gnxp.com/WordPress/2011/12/07/is-new-gingrich-too-fat-to-be-president/) - [Iowa predictions vs.
   results](https://www.gnxp.com/WordPress/2008/01/04/iowa-predictions-vs-results/) - [Iowa

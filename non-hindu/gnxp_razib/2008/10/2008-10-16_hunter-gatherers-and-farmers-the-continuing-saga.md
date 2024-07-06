@@ -13,7 +13,7 @@ Sandy made another response to my assertions about HG’s vs. farmers and qualit
 
 First, he says:
 
-> I’ve done some reviewing of the literature and I still think that the > probability that a child of an agriculturalist will reach reproductive > maturity is higher than that of a hunter gatherer. **Hell, that’s why > there’s been a population boom ever since the Neolithic revolution.**
+> I’ve done some reviewing of the literature and I still think that the probability that a child of an agriculturalist will reach reproductive maturity is higher than that of a hunter gatherer. **Hell, that’s why there’s been a population boom ever since the Neolithic revolution.**
 
 No, not necessarily. In a previous post he alludes to [r vs. K strategies](https://en.wikipedia.org/wiki/R-selection). Agriculture could simply be a r strategy. Children never born are not children ever had. So agriculturalists could have a higher growth rate by simply increasing the total number of infants produced over a reproductive lifetime. To make it explicit:
 
@@ -32,14 +32,14 @@ Most of the rest of Sandy’s post is an analysis of correct, but irrelevant or 
 
 In any case, one of the problem here is bigger meta-issue in the debate between Sandman and myself:
 
-> Anyways, in my previous post I outlined some of the ethnographic > reasons why I think so. In this post, I’ll share some of the > demographic data that supports my hypothesis.
+> Anyways, in my previous post I outlined some of the ethnographic reasons why I think so. In this post, I’ll share some of the demographic data that supports my hypothesis.
 
 I know less cultural anthropology than he does, and I’m not interested getting to know the whole literature. I could go to google scholar and look up some research articles which support my view because there are a lot of articles out there, and I’m sure I could find some trash which would support any contention I make. That’s why I’m leaning back on the theory about Malthusian assumptions that I can be rather certain of, even if I’m wrong as an empirical matter I can argue the logic with some concreteness and consistency. I’m not convinced by Sandman for all the reasons above, but, at the end of the day I wouldn’t be convinced by a few surveys of the literature because I’m sure I could selectively troll through the literature and find authorities to support me too. **If I actually knew the literature with any fluency I could ascertain the value of any given citation I dig up, but since I don’t know the literature I’m really concerned about just selection biasing what I get based on the way I formulate a google scholar query.** This is also why I’m pretty down on the citation wars which occasionally crop up in the comments, I strongly have the suspicion that the interlocutors aren’t really digging into each other’s citations, but rather just going to search for more papers to support their own argument. What’s really the point of all that? So I have decided to ask some people who really are in the “know” (that is, anthropologists who aren’t CAFRs) what they think.
 
 Oh, and also:
 
-> Razib equates hunter-gatherers to lions, and farmers to antelopes. > Lion cub mortality rates are higher than antelopes, upwards of 80% of > cubs do not make it to adulthood. Whe  
-> reas antelope calves, if they survive predation, have much more > greater chances at seeing sexual maturity. It is much more precarious > to count on mom to provide milk and hunt at the same time, than it is > to graze. So, this issue is less about absolute availability and more > about reducing the periodicity and amplitude of nutritional stress. > And this is one of the reasons why the agricultural diet has ‘won’ > over many humans, even despite the many shortcomings it has.
+> Razib equates hunter-gatherers to lions, and farmers to antelopes. Lion cub mortality rates are higher than antelopes, upwards of 80% of cubs do not make it to adulthood. Whe  
+> reas antelope calves, if they survive predation, have much more > greater chances at seeing sexual maturity. It is much more precarious > to count on mom to provide milk and hunt at the same time, than it is > to graze. So, this issue is less about absolute availability and more about reducing the periodicity and amplitude of nutritional stress. And this is one of the reasons why the agricultural diet has ‘won’ over many humans, even despite the many shortcomings it has.
 
 To the first approximation I somewhat accept this, but I’m not totally sure, and the characterization might elide some of the details. Imagine a scenario like the chart below, where Y = nutritional quality and X = generation. The average for a hunter-gatherers might be higher, but the far higher “floor” of farmers might make all the demographic difference over the long term.  
 [](https://www.gnxp.com/blog/uploaded_images/nutritionfarmerhg-724332.jpg)

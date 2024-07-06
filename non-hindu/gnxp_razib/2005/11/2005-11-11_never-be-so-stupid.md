@@ -15,8 +15,8 @@ Update: I looked again at the comment again, and I couldn’t help but wonder if
 
 **Update II:** Alexandra has responded. Says:
 
-> I don’t feel a need to defend my IQ….I will share that we have > graduates of Brown, Julliard, Harvard, Purdue and Oberlin in my > immediate family. I will also share that I send my children to a > college prep Christian Academy who teach both ID and evolution and > most of their graduates are not harmed by exposure to ID……they are > accepted even at Yale. >
-> You have nothing to fear from us…….but the way you have talked about > me, people would think I have some contangeous disease and somehow > just got off the boat from some 3rd world country.
+> I don’t feel a need to defend my IQ….I will share that we have > graduates of Brown, Julliard, Harvard, Purdue and Oberlin in my > immediate family. I will also share that I send my children to a college prep Christian Academy who teach both ID and evolution and most of their graduates are not harmed by exposure to ID……they are accepted even at Yale. >
+> You have nothing to fear from us…….but the way you have talked about me, people would think I have some contangeous disease and somehow just got off the boat from some 3rd world country.
 
 It is important to note that intelligence is a necessary, **but it is not sufficient**, condition, to banish ignorance. Alexandra is clearly not familiar with the literature in evolutionary genetics, and is propogating patently false assertions when she contends that “most biologists believe that advantageous mutations become fixed” (it depends on *how* advantageous, most biologists would not assent to such an unqualified statement). The problem on this weblog tends to be that people spout off on things they don’t know about (i.e., making a very weak analogy between historical and ecological processes and not willing to concede that that analogy was weak), not that they don’t have innate intelligence. Smart people can be stupid, and in fact, they are stupid in a more verbally impressive and coherent fashion than the innately dumb. To speak specifically to Alexandra, would you trust the conclusions of a Harvard physicist as to the character and historical validity of the Bible if he had only read snips and a small number of exegetes? That is very close to what most advocates of Intelligent Design engage in, you know a few critiques very well, but the whole forest is a deep dark mystery.
 
@@ -24,7 +24,8 @@ As for whether Alexandra and her ilk have a disease, to some extent, yes, they d
 
 ### Related Posts:
 
-- [Weblog of interest - evolutionary
+- [Weblog of interest
+- evolutionary
   microbiology](https://www.gnxp.com/WordPress/2006/06/05/weblog-of-interest-evolutionary-microbiology/) - [Harun Yahya - big fat joke (OK, not
   fat)](https://www.gnxp.com/WordPress/2007/07/24/harun-yahya-big-fat-joke-ok-not-fat/) - [The most special of
   specialities](https://www.gnxp.com/WordPress/2006/04/15/the-most-special-of-specialities/) - [John in

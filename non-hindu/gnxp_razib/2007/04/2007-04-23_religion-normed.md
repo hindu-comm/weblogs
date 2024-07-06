@@ -13,7 +13,8 @@ I have said many times that phrases like “moderate Muslim” must be **normed 
 
 ### Related Posts:
 
-- [Death to the apostates - NOT
+- [Death to the apostates
+- NOT
   (?)](https://www.gnxp.com/WordPress/2007/07/24/death-to-the-apostates-not/) - [Comparing across American
   religions](https://www.gnxp.com/WordPress/2008/06/23/comparing-across-american-religions/) - [The Aga Khan, the light of
   Islam?](https://www.gnxp.com/WordPress/2007/07/07/the-aga-khan-the-light-of-islam/) - [Diary of an

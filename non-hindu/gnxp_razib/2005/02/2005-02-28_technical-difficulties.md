@@ -23,7 +23,8 @@ Posted by razib at [04:41 PM](https://www.gnxp.com/MT2/archives/003669.html) [](
 
 ### Related Posts:
 
-- [New home](https://www.gnxp.com/WordPress/2005/11/21/new-home/) - [The banality of
+- [New home](https://www.gnxp.com/WordPress/2005/11/21/new-home/)
+- [The banality of
   eugenics](https://www.gnxp.com/WordPress/2006/12/06/the-banality-of-eugenics/) - [Leech
   Notice](https://www.gnxp.com/WordPress/2007/06/15/leech-notice/) - [Peregrinations](https://www.gnxp.com/WordPress/2005/11/16/peregrinations/) - [Bank your exome with Helix for free (\$0.00) \[update,
   SALE…](https://www.gnxp.com/WordPress/2017/11/09/189976/) - [Sleep

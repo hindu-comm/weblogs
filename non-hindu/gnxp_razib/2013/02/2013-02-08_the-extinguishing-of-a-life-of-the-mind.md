@@ -13,7 +13,8 @@ The extinguishing of a life of the mind
 
 ### Related Posts:
 
-- [JSTORgate](https://www.gnxp.com/WordPress/2011/07/19/jstorgate/) - [Henrietta Lacks' genome, and familial
+- [JSTORgate](https://www.gnxp.com/WordPress/2011/07/19/jstorgate/)
+- [Henrietta Lacks' genome, and familial
   consent](https://www.gnxp.com/WordPress/2013/03/24/henrietta-lacks-genome-and-familial-consent/) - [Evolution and Sarah
   Palin](https://www.gnxp.com/WordPress/2008/09/06/evolution-and-sarah-palin/) - [I ::heart::
   genomics](https://www.gnxp.com/WordPress/2007/10/16/i-heart-genomics/) - [Michael Eisen wants peer review comments on his

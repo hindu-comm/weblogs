@@ -13,10 +13,10 @@ Source: [here](https://www.gnxp.com/WordPress/2017/12/22/rakhigarhi-paper-out-in
 
 In any case, here are the important points:
 
-> All this could now change thanks to the science of genetics and four > ancient skeletons excavated from a village called Rakhigarhi in > Haryana. The four people to whom these bones once belonged — a couple, > a boy and a man — lived roughly **4,600 years ago** when the Indus > Valley civilisation was in full bloom. >
+> All this could now change thanks to the science of genetics and four > ancient skeletons excavated from a village called Rakhigarhi in Haryana. The four people to whom these bones once belonged — a couple, a boy and a man — lived roughly **4,600 years ago** when the Indus Valley civilisation was in full bloom. >
 > … >
-> In the three-and-a-half years since its excavation, Shinde has brought > together scientists from Indian and international institutions like > the Centre for Cellular and Molecular Biology, Hyderabad (CCMB), > **Harvard Medical School**, Seoul National University, and the > **University of Cambridge** to work on different parts of the project, > including extracting and analysing DNA from these ancient people, > reconstructing their faces, and studying the remains of their > habitation to understand their daily habits and ways of life. >
-> The DNA analysis will also help figure out their **height, body > features, and even the colour of their eyes**….
+> In the three-and-a-half years since its excavation, Shinde has brought > together scientists from Indian and international institutions like > the Centre for Cellular and Molecular Biology, Hyderabad (CCMB), > **Harvard Medical School**, Seoul National University, and the > **University of Cambridge** to work on different parts of the project, including extracting and analysing DNA from these ancient people, reconstructing their faces, and studying the remains of their habitation to understand their daily habits and ways of life. >
+> The DNA analysis will also help figure out their **height, body features, and even the colour of their eyes**….
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/india_a_history.jpeg?resize=182%2C278&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/india_a_history.jpeg?resize=182%2C278&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B00DKE9L44/geneexpressio-20)Joseph also asserts that the publication will happen in a “leading international journal” in a month or so. If I had to bet, I’d say *Nature*.
 

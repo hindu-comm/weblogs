@@ -11,9 +11,9 @@ Is resurrecting Neandertals unethical?
 
 An [interview](http://www.nytimes.com/2012/07/17/science/chris-stringer-on-the-origins-and-rise-of-modern-humans.html?_r=1&pagewanted=print) with paleoanthropologist Chris Stringer:
 
-> **This raises one more question: Could we ever clone these extinct > people?** >
-> Science is moving on so fast. The first bit of Neanderthal > mitochondrial DNA was recovered in 1997. No one then could have > believed that 10 years later we might have most of the genome. And a > few years after that, we’d have whole Denisovan and Neanderthal > genomes available. So no one would have thought cloning was a > possibility. Now, at least theoretically, if someone had enough money, > and I’d say stupidity, to do it, you could cut and paste those > Denisovan mutations into a modern human genome, and then implant that > into an egg and then grow a Denisovan. >
-> I think it would be completely unethical to do anything like that, but > unfortunately someone with enough money, and vanity and arrogance, > might attempt it one day. **These creatures lived in the past in their > own environments, in their own social groups.** Bringing isolated > individuals back, for our own curiosity or arrogant purposes, would be > completely wrong.
+> **This raises one more question: Could we ever clone these extinct people?** >
+> Science is moving on so fast. The first bit of Neanderthal > mitochondrial DNA was recovered in 1997. No one then could have > believed that 10 years later we might have most of the genome. And a > few years after that, we’d have whole Denisovan and Neanderthal > genomes available. So no one would have thought cloning was a > possibility. Now, at least theoretically, if someone had enough money, and I’d say stupidity, to do it, you could cut and paste those Denisovan mutations into a modern human genome, and then implant that into an egg and then grow a Denisovan. >
+> I think it would be completely unethical to do anything like that, but > unfortunately someone with enough money, and vanity and arrogance, > might attempt it one day. **These creatures lived in the past in their own environments, in their own social groups.** Bringing isolated individuals back, for our own curiosity or arrogant purposes, would be completely wrong.
 
 
 

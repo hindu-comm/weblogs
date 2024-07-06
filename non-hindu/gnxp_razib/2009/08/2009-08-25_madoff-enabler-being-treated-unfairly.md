@@ -11,7 +11,7 @@ Madoff enabler being treated unfairly
 
 [Lawyers for Broker in Madoff Case Call U.S. Suits Unfair](http://www.nytimes.com/2009/08/22/business/22madoff.html):
 
-> “What the commission has done here to Robert Jaffe is simply > **unfair**,” the defense motion argued. “The agency has called him a > cheat, a knowing participant in the largest Ponzi scheme in history. > Yet, it has failed to back up these charges with factual allegation
+> “What the commission has done here to Robert Jaffe is simply **unfair**,” the defense motion argued. “The agency has called him a cheat, a knowing participant in the largest Ponzi scheme in history. Yet, it has failed to back up these charges with factual allegation
 
 I think using broad-brush terms like “unfair” which aren’t precise & legal is probably not a good move. Life isn’t fair, and many people screwed by Bernie Madoff will never be made whole. That’s not fair, but that’s reality.
 

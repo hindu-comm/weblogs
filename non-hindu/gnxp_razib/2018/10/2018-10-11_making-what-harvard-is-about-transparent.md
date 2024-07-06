@@ -19,8 +19,8 @@ This is having an impact. The winners of [spelling bees](https://en.wikipedia.or
 
 And this is the major reason why the cultural elite is very upset about the scrutiny which admissions processes at top universities have been receiving. Consider this op-ed in*The New York Times*, [A Damaging Bid to Censor Applications at Harvard](https://www.nytimes.com/2018/10/10/opinion/harvard-affirmative-action-lawsuit.html). It concludes:
 
-> As a leader in higher education, Harvard is trying to change this > through its modest consideration of race in admissions. **Its goal is > to create a diverse community of students who can engage with and > learn from people who are different**, and carry those experiences > with them beyond the university. >
-> Expressions of racial identity are part of the fullness of our > humanity. It’s not possible to be blind to race. Pretending as though > it is ensures we will forever be divided.
+> As a leader in higher education, Harvard is trying to change this > through its modest consideration of race in admissions. **Its goal is to create a diverse community of students who can engage with and learn from people who are different**, and carry those experiences with them beyond the university. >
+> Expressions of racial identity are part of the fullness of our humanity. It’s not possible to be blind to race. Pretending as though it is ensures we will forever be divided.
 
 The op-ed is pretty measured and not particularly shoddy as far as it goes. This is the sort of message that the editors and reporters at*The New York Times* want to amplify. Call it the anti-Bari Weiss effect.
 

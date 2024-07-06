@@ -19,7 +19,8 @@ The problem of ideal types
 
 There about \~1 billion Muslims. Within Islam there are 4 primary schools of Sunni sharia as well as dozens of Shia groups and heterodox sects. The [religion spans](http://www.theislamproject.org/education/Africa_Mideast_etc.html) much of the Old World, and cuts across hundreds of cultures. Even within the immigrant communites newly settled in the West there is a great deal of ethnic and religious diversity. The classic problem with discourse on the Islamic question can be highlighted as follows:
 
-- Person A points out the problem with “Islam” - Person B points out that there are Muslims who behave in contradiction
+- Person A points out the problem with “Islam”
+- Person B points out that there are Muslims who behave in contradiction
   to said problem - Person A responds that these individuals are not true Muslims, or do
   not represent most Muslims - Person B responds that the individuals who are not problematic are the
   real Muslims, and there are many interpretations
@@ -75,7 +76,8 @@ P.S. Happy New Year!
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Why Lakoff
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Why Lakoff
   matters](https://www.gnxp.com/WordPress/2006/10/08/why-lakoff-matters/) - [Rewriting
   Islam](https://www.gnxp.com/WordPress/2008/02/29/rewriting-islam/) - [Donors Choose Matching - let's crank this
   up!](https://www.gnxp.com/WordPress/2006/06/19/donors-choose-matching-lets-crank-this-up/) - [The accommodation of

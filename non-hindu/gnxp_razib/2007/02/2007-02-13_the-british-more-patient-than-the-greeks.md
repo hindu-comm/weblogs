@@ -11,7 +11,7 @@ The British: More patient than the Greeks?
 
 Economic historian [Greg Clark](http://www.iga.ucdavis.edu/clarkpapers.html) is arguing that the British may be “[Genetically Capitalist](http://econ.binghamton.edu/papers/clark.pdf).” Tyler Cowen has his [doubts](http://www.marginalrevolution.com/marginalrevolution/2007/02/are_the_british.html). One of piece of evidence that should grab the attention of economists: The long term decline in inflation-adjusted interest rates over the past few centuries:
 
-> All societies before 1400 for which we have sufficient evidence to > calculate interest rates show high rates by modern standards. In > ancient Greece loans secured by real estate generated returns of close > to 10 percent on average all the way from the fifth century BC to the > second century BC. The temple of Delos, which received a steady inflow > of funds in offerings, invested them at a standard 10 percent mortgage > rate throughout this period.
+> All societies before 1400 for which we have sufficient evidence to > calculate interest rates show high rates by modern standards. In > ancient Greece loans secured by real estate generated returns of close > to 10 percent on average all the way from the fifth century BC to the second century BC. The temple of Delos, which received a steady inflow of funds in offerings, invested them at a standard 10 percent mortgage rate throughout this period.
 
 He also looks at Roman Egypt, Sumeria, India, and the Ottoman Empire, and always finds the same story: A high cost of borrowing. But then around 1100, something changed: the cost of borrowing started falling fairly steadily in England, dropping down to the 2 or 3% inflation-adjusted rates we see today.
 

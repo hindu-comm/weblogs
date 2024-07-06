@@ -23,7 +23,8 @@ One aspect of this that I wonder about is that it is a fact that to some extent 
 
 ### Related Posts:
 
-- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/) - [Canada vs. USA
+- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/)
+- [Canada vs. USA
   Hockey](https://www.gnxp.com/WordPress/2010/02/21/canada-vs-usa-hockey/) - [Revenge of the roader: Chinese atheists are
   reactionary](https://www.gnxp.com/WordPress/2009/04/25/revenge-of-the-roader-chinese-atheists-are-reactionary/) - [Relative & absolute perceptions of well
   being](https://www.gnxp.com/WordPress/2010/10/09/relative-absolute-perceptions-of-well-being/) - [The end of the universal Western

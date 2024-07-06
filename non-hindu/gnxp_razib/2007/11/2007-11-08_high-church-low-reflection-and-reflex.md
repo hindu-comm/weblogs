@@ -13,7 +13,7 @@ I’ve been reading a bit of the literature of the cognitive science of religion
 
 With that, I was interested in some of the facts relayed in [The Protestant Reformation: Beliefs and Practices](https://www.amazon.com/exec/obidos/ASIN/1903900115/geneexpressio-20):
 
-> The Reformation may eventually have become a popular movement, but it > had its origins in the intellectual developments associated with > Humanism and the Renaissance. The early reformers were virtually all > of them university-educated men. Most of them were trained > theologians, but they had also had a solid grounding in classical > scholarship and in the techniques of logic and rhetoric….
+> The Reformation may eventually have become a popular movement, but it > had its origins in the intellectual developments associated with > Humanism and the Renaissance. The early reformers were virtually all of them university-educated men. Most of them were trained theologians, but they had also had a solid grounding in classical scholarship and in the techniques of logic and rhetoric….
 
 The “university-educated” portion really jumped out at me. Remember that this was a period when most of the populace was not functionally literate! The Reformation was a world-shaking event. Luther and Calvin and their fellow travelers ushered in a period of communal bloodshed which culminated in the international [Thirty Years’ War](https://en.wikipedia.org/wiki/Thirty_Years_war), which many take to be a turning in point Europe’s love affair with state sponsored religion (the discontinuity is not so sharp, note the revocation of the [Edict of Nantes](https://en.wikipedia.org/wiki/Edict_of_nantes) which postdates the [Peace of Westphalia](https://en.wikipedia.org/wiki/Peace_of_westphalia) by a generation).
 

@@ -13,7 +13,7 @@ This is the [Voight, Kudaravalli, et al.](http://biology.plosjournals.org/perlse
 
 Of interest along the same lines is [“Gene Losses during Human Origins”](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0040052):
 
-> The authors find that the human CASPASE12 pseudogene has been > positively selected for in humans. This adaptive gene loss confers > protection from sepsis.
+> The authors find that the human CASPASE12 pseudogene has been positively selected for in humans. This adaptive gene loss confers protection from sepsis.
 
 [Full Free Contents](http://biology.plosjournals.org/perlserv/?request=get-toc&issn=1545-7885&volume=4&issue=3)
 

@@ -11,10 +11,10 @@ Liberty and justice for all
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/01/ecadystanton.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/01/ecadystanton.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B003R0L6VC/geneexpressio-20?creativeASIN=0393292495&linkCode=w61&imprToken=nvGeesiKxZvW146cavPCiw&slotNum=0)[Saudi Teenager Who Fled Family Embraces All Things Canadian. (O.K., Maybe Not Winter.)](https://www.nytimes.com/2019/01/14/world/canada/rahaf-mohammed-alqunun-interview.html):
 
-> She wants to go to college to study architecture. She would like to > take English classes. She is wondering about how to harness her > newfound media stardom. >
+> She wants to go to college to study architecture. She would like to take English classes. She is wondering about how to harness her newfound media stardom. >
 > … >
-> In Saudi Arabia, Ms. Alqunun was a first-year university student, > studying basic science and math. One of 10 children of a well-off > emir, she said that life had been financially comfortable, but that > she had no freedom. >
-> Things grew even harder, she said, when her father left the city and > put her under the guardianship of her older brother. She described her > life as one of strict rules and abuse at the hands of her family. > After she cut her hair in a way her family did not approve, **her > brother locked her in a room for six months, she said.** A few months > ago, when she removed her niqab, he beat her and locked her up again, > she said.
+> In Saudi Arabia, Ms. Alqunun was a first-year university student, studying basic science and math. One of 10 children of a well-off emir, she said that life had been financially comfortable, but that she had no freedom. >
+> Things grew even harder, she said, when her father left the city and > put her under the guardianship of her older brother. She described her > life as one of strict rules and abuse at the hands of her family. > After she cut her hair in a way her family did not approve, **her brother locked her in a room for six months, she said.** A few months ago, when she removed her niqab, he beat her and locked her up again, she said.
 
 Rahaf Mohammed Alqunun is like many people who read this weblog. The “life of the mind” is important to us, the freedom to learn, to experience. To make use of one’s liberty to flourish.
 
@@ -28,7 +28,8 @@ Today we have moved to a global consensus that holding other human beings as pro
 
 ### Related Posts:
 
-- [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/) - [Borders we forget: Saudi Arabia &
+- [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/)
+- [Borders we forget: Saudi Arabia &
   Yemen](https://www.gnxp.com/WordPress/2010/10/21/borders-we-forget-saudi-arabia-yemen/) - [Gang rape victim sentenced in Saudi
   Arabia](https://www.gnxp.com/WordPress/2006/11/04/gang-rape-victim-sentenced-in-saudi-arabia/) - [Religious freedom in
   2009](https://www.gnxp.com/WordPress/2009/10/26/religious-freedom-in-2009/) - [Open Thread,

@@ -11,7 +11,7 @@ The Truth is that history is not evolving toward Truth
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/enigma_of_reason.jpeg?resize=183%2C276)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/enigma_of_reason.jpeg?resize=183%2C276)](https://www.amazon.com/exec/obidos/ASIN/B06XWFM3PP/geneexpressio-20)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/thiker.jpeg?resize=100%2C131)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/thiker.jpeg?resize=100%2C131)My friend [Walter Olson](https://twitter.com/walterolson/status/939624016595349505) pointed me to this from John Locke:
 
-> To love truth for truth’s sake is the principal part of human > perfection in this world, and the seed-plot of all other virtues.
+> To love truth for truth’s sake is the principal part of human perfection in this world, and the seed-plot of all other virtues.
 
 This is great and inspirational quote, **but in most interpretive sieves I believe it is wrong**. Hume’s assertion that “reason is and ought only to be the slave of the passions” is closer to the truth in terms of describing the typical human in terms of how they think, and what they value.
 

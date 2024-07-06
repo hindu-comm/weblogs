@@ -15,7 +15,8 @@ Posted by razib at [02:30 PM](https://www.gnxp.com/MT2/archives/003813.html) [](
 
 ### Related Posts:
 
-- [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/) - [Conservatives &
+- [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/)
+- [Conservatives &
   Creationism](https://www.gnxp.com/WordPress/2008/09/22/conservatives-creationism/) - [Hominid
   hacking](https://www.gnxp.com/WordPress/2005/08/22/hominid-hacking/) - [Libraries](https://www.gnxp.com/WordPress/2005/01/14/libraries/) - [I am a
   believer](https://www.gnxp.com/WordPress/2005/09/28/i-am-a-believer/) - [Asian Nazis](https://www.gnxp.com/WordPress/2006/10/30/asian-nazis/)

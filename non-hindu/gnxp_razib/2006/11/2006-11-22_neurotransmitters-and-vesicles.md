@@ -18,7 +18,7 @@ When the pre-synaptic neuron gets the cue to dump neurotransmitters, the vesicle
 [](https://www.gnxp.com/blog/uploaded_images/vesicle-795323.jpg)  
 They found that a surpising amount of the membrane space on a vesicle was ‘dedicated’ meaning that it either contained a trans-membrane protein or certain lipid molecules that are unlikely to flow around very much within the membrane. Here is one of my favorite passages:
 
-> A picture is emerging in which the membrane resembles a cobblestone > pavement, with the proteins organized in patches that are surrouneded > by lipid rims, rather than icebergs floating in a sea of lipids.
+> A picture is emerging in which the membrane resembles a cobblestone pavement, with the proteins organized in patches that are surrouneded by lipid rims, rather than icebergs floating in a sea of lipids.
 
 ### Related Posts:
 

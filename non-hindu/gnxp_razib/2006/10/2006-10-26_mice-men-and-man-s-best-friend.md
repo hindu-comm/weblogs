@@ -19,7 +19,7 @@ It seems an odd time to attack this study as unjustified, but that’s exactly w
 
 It’s true the original paper is based on a human-macaque comparison (they then compare their 24 outliers with chimps), but they justify this as follows:
 
-> Recent discussions surrounding the genetic origin of humans have > placed a great emphasis on human-chimpanzee comparative genomics. > Undoubtedly, this approach has revealed-and will continue to > reveal-genetic differences that might underlie the biological > distinctions between these two sister species. Because of the > exceedingly high degree of sequence identity between human and > chimpanzee genomes, however, comparative studies often lack > statistical power, and in many cases would overlook genetic > differences that bear biological relevance. The **issue of weak > statistical power in human-chimpanzee sequence comparisons has been > noted before** (Shi et al., 2003) and is supported by our simulation > studies showing that the average stochastic variance in Ks as a > fraction of the true underlying mutation rate is about twice in > human-chimpanzee comparison as it is in human-macaque comparison (our > unpublished data). Relative to human-chimpanzee comparisons, our > approach offers two important advantages. First, **the use of a more > distant primate species for comparison with humans provides the much > needed statistical power for determining the evolutionary significance > of sequence changes**.
+> Recent discussions surrounding the genetic origin of humans have > placed a great emphasis on human-chimpanzee comparative genomics. > Undoubtedly, this approach has revealed-and will continue to > reveal-genetic differences that might underlie the biological > distinctions between these two sister species. Because of the > exceedingly high degree of sequence identity between human and > chimpanzee genomes, however, comparative studies often lack > statistical power, and in many cases would overlook genetic > differences that bear biological relevance. The **issue of weak > statistical power in human-chimpanzee sequence comparisons has been > noted before** (Shi et al., 2003) and is supported by our simulation > studies showing that the average stochastic variance in Ks as a > fraction of the true underlying mutation rate is about twice in > human-chimpanzee comparison as it is in human-macaque comparison (our > unpublished data). Relative to human-chimpanzee comparisons, our > approach offers two important advantages. First, **the use of a more distant primate species for comparison with humans provides the much needed statistical power for determining the evolutionary significance of sequence changes**.
 
 Further, while human-chimp comparisons are certainly valuable, it’s worth noting that we are extremely similar to chimps, and the evolutionary trends leading to modern humans are likely to have been present long before the human-chimpanzee divergence.
 
@@ -37,7 +37,8 @@ I’m glad this point came last, because it’s particularly interesting. So the
 
 ### Related Posts:
 
-- [Brains](https://www.gnxp.com/WordPress/2006/10/03/brains/) - [Rate of Evolution in Brain-Expressed Genes in Humans
+- [Brains](https://www.gnxp.com/WordPress/2006/10/03/brains/)
+- [Rate of Evolution in Brain-Expressed Genes in Humans
   and…](https://www.gnxp.com/WordPress/2006/12/28/rate-of-evolution-in-brain-expressed-genes-in-humans-and-other-primates/) - [The evolution of the human brain: gene regulation is
   key](https://www.gnxp.com/WordPress/2007/01/02/the-evolution-of-the-human-brain-gene-regulation-is-key/) - [More than monkey
   brains](https://www.gnxp.com/WordPress/2006/10/11/more-than-monkey-brains/) - [More than monkey

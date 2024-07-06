@@ -39,7 +39,8 @@ Ultimately there’s a lot to think about here. But I do wonder how ancient DNA 
 
 ### Related Posts:
 
-- [Convergent evolution in skin color - part
+- [Convergent evolution in skin color
+- part
   n](https://www.gnxp.com/WordPress/2006/12/31/convergent-evolution-in-skin-color-part-n/) - [Skin deep, why I'm brown and you wish you
   were](https://www.gnxp.com/WordPress/2006/09/25/skin-deep-why-im-brown-and-you-wish-you-were/) - [Correction on
   MC1R....](https://www.gnxp.com/WordPress/2005/07/15/correction-on-mc1r/) - [What does eye color have to do with skin

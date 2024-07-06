@@ -11,9 +11,9 @@ Source: [here](https://www.gnxp.com/WordPress/2009/03/24/23andme-terrorists/).
 
 I thought this [Genetic Future post](http://scienceblogs.com/geneticfuture/2009/03/steve_murphy_23andme_are_terro.php) was an exaggeration, as it seemed to indicate that the [Gene Sherpa](https://thegenesherpa.blogspot.com/2009/03/23andme-says-we-have-no-use-for-your.html) was accusing 23andMe of terrorism. I thought there has to be context, right? Uh, not really:
 
-> In healthcare, imagine if your doctor was found to be breaking the > law. Stole from Medicare? Non-Compliance with State regulations? > Spousal Abuse? Selling Drugs?  
-> Most of these are **career** killers. In fact in CT we just had a > large group of GI doctors who are now not doing so well because one of > their partners was just charged with endangering a minor.  
-> Why is it so vital that physicians, nurses and others in the > healthcare field try to stay above the law? Because patients lose > trust in the system. They begin to think that their care givers are > reckless criminals. And WHO would trust their life to a criminal???
+> In healthcare, imagine if your doctor was found to be breaking the law. Stole from Medicare? Non-Compliance with State regulations? Spousal Abuse? Selling Drugs?  
+> Most of these are **career** killers. In fact in CT we just had a large group of GI doctors who are now not doing so well because one of their partners was just charged with endangering a minor.  
+> Why is it so vital that physicians, nurses and others in the healthcare field try to stay above the law? Because patients lose trust in the system. They begin to think that their care givers are reckless criminals. And WHO would trust their life to a criminal???
 
 It seems that Dr. Murphy has concerns about 23andMe et. al. edging into the information dispensation monopoly of his profession. I really don’t think he has to worry. 80 years of [econometric](https://en.wikipedia.org/wiki/Econometrics) research suggests that you can’t beat the market; **but people still pay for financial newsletters and what not.** Unlike financial advisors medical doctors do add some value for non-stupid people\* (financial advisors add value for stupid people).  
 \* OK, I’ve had some economics-oriented friends tell me this probably isn’t even true. But you can post the link below.

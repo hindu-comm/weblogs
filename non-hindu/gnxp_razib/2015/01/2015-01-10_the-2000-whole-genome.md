@@ -11,16 +11,16 @@ The $2,000 “whole genome”
 
 [Full Genomes](https://www.fullgenomes.com/news/) has some news:
 
-> The new year is starting off with a brand-new test offering from Full > Genomes:***whole-genome sequencing***. >
-> As a whole-genome sequencing (WGS) product, this represents the most > comphrehensive genetic analysis available today and greatly expands > the scope of our product line. We have recently completed a pilot > study and the results are impressive, leading us to now officially > launch this as a standard product; this will supplement our > existing*Y Elite*and*Y Prime*tests, which target the Y chromosome > and are only applicable to males. By using Illumina’s groundbreaking > HiSeq X next-generation sequencing platform, we are able to provide > high-quality WGS results at a best-in-market**sub-\$2000 price for > individual customers**. >
-> Details of results delivery are still being developed and refined, but > we are currently set up to provide the following: >
-> - BAM file*(roughly 50 GB)* > - variant summary reports >   from[*SnpEff*](http://snpeff.sourceforge.net/)and[*VEP*](http://www.ensembl.org/info/docs/tools/vep/index.html) > - autosomal and chrX variant identification*(as two VCF files)*: >   1.  novel variants*(annotated with SnpEff and VEP)* >   2.  results for a set of[over 100 million known >       SNPs](http://www.ncbi.nlm.nih.gov/SNP/)*from dbSNP build 142* > - mtDNA sequence*(as FASTA file)* > - Y-DNA analysis*(for males)* >
-> In terms of the technical details of the underlying raw data, the > sequencing produces: >
-> - 2 x 150 bp paired-end reads > - approximately 30x average depth of coverage >
-> Although Full Genomes is not providing any interpretation of autosomal > and X chromosome results, the raw data are provided in a format > compatible with a number of tools that provide the opportunity for > in-depth analysis. Examples of currently-available online analysis > tools include: >
-> - [Promethease](https://www.promethease.com/)(based >   on[SNPedia](http://www.snpedia.com/index.php/Promethease)) > - [GET-Evidence](http://evidence.pgp-hms.org/about) > - [Ingenuity Variant >   Analysis](http://www.ingenuity.com/products/variant-analysis) >
-> As with other Full Genomes products, this is intended for > ancestry/research-use only, and should not be relied upon for medical > or diagnostic purposes. >
-> Interested customers can order the WGS product through the Full > Genomes website[here](https://www.fullgenomes.com/purchases/5/?). >
+> The new year is starting off with a brand-new test offering from Full Genomes:***whole-genome sequencing***. >
+> As a whole-genome sequencing (WGS) product, this represents the most > comphrehensive genetic analysis available today and greatly expands > the scope of our product line. We have recently completed a pilot > study and the results are impressive, leading us to now officially > launch this as a standard product; this will supplement our > existing*Y Elite*and*Y Prime*tests, which target the Y chromosome > and are only applicable to males. By using Illumina’s groundbreaking HiSeq X next-generation sequencing platform, we are able to provide high-quality WGS results at a best-in-market**sub-\$2000 price for individual customers**. >
+> Details of results delivery are still being developed and refined, but we are currently set up to provide the following: >
+> - BAM file*(roughly 50 GB)* > - variant summary reports >   from[*SnpEff*](http://snpeff.sourceforge.net/)and[*VEP*](http://www.ensembl.org/info/docs/tools/vep/index.html) > - autosomal and chrX variant identification*(as two VCF files)*: >   1.  novel variants*(annotated with SnpEff and VEP)* >   2.  results for a set of[over 100 million known SNPs](http://www.ncbi.nlm.nih.gov/SNP/)*from dbSNP build 142* - mtDNA sequence*(as FASTA file)* - Y-DNA analysis*(for males)* >
+> In terms of the technical details of the underlying raw data, the sequencing produces: >
+> - 2 x 150 bp paired-end reads - approximately 30x average depth of coverage >
+> Although Full Genomes is not providing any interpretation of autosomal > and X chromosome results, the raw data are provided in a format compatible with a number of tools that provide the opportunity for in-depth analysis. Examples of currently-available online analysis tools include: >
+> - [Promethease](https://www.promethease.com/)(based >   on[SNPedia](http://www.snpedia.com/index.php/Promethease)) - [GET-Evidence](http://evidence.pgp-hms.org/about) - [Ingenuity Variant Analysis](http://www.ingenuity.com/products/variant-analysis) >
+> As with other Full Genomes products, this is intended for ancestry/research-use only, and should not be relied upon for medical or diagnostic purposes. >
+> Interested customers can order the WGS product through the Full Genomes website[here](https://www.fullgenomes.com/purchases/5/?). >
 > Happy SNP’ing! >
 > *The FGC Team*
 

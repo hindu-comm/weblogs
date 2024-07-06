@@ -21,15 +21,16 @@ But I can’t blame Shapiro too much. He was reacting to this story in *The New 
 
 From the piece in *The Times*:
 
-> Warren’s presidential ambitions, she has yet to allay criticism from > grass-roots progressive groups, liberal political operatives and other > potential 2020 allies who complain that she put too much emphasis on > the controversial field of **[racial > science](https://www.nytimes.com/2018/10/17/us/politics/elizabeth-warren-dna-test.html?module=inline)** > — and, in doing so, played into Mr. Trump’s hands. >
+> Warren’s presidential ambitions, she has yet to allay criticism from > grass-roots progressive groups, liberal political operatives and other > potential 2020 allies who complain that she put too much emphasis on the controversial field of **[racial science](https://www.nytimes.com/2018/10/17/us/politics/elizabeth-warren-dna-test.html?module=inline)** — and, in doing so, played into Mr. Trump’s hands. >
 > … >
-> Ms. Warren’s allies also say she unintentionally made a bigger mistake > in treading too far into the **fraught** area of **racial science** — > a field that has, at times, been used to justify the subjugation of > racial minorities and Native Americans.
+> Ms. Warren’s allies also say she unintentionally made a bigger mistake in treading too far into the **fraught** area of **racial science** — a field that has, at times, been used to justify the subjugation of racial minorities and Native Americans.
 
 There is “racial science” like there is “evolution science” or “Creation science.” The term is not used by any scientist that I know of, but comes up by critics and polemicists.*The New York Times*, whether consciously or not, is going to convince a lot of scientifically illiterate people who don’t read their science pages that there is a field of “racial science” (using the term [“race science”](https://forward.com/opinion/408895/its-not-about-whether-julia-salazar-is-jewish-or-not-its-about-whether-she/)liberally is a thing on the Left…reminds me of social conservatives who used to call everyone who was not an evangelical Protestant a “non-Christian”)
 
 Here’s what went on in the Warren case is:
 
-1.  Not scientifically controversial 2.  But scientifically new
+1.  Not scientifically controversial
+2.  But scientifically new
 
 Here is a review, [A comprehensive survey of models for dissecting local ancestry deconvolution in human genome](https://www.ncbi.nlm.nih.gov/pubmed/30010715) which looks at “20 methods or tools to deconvolve local ancestry.” There may be disagreement on the best method for various reasons, but there is no disagreement that local ancestry deconvolution is possible. It is not controversial. In fact, it is rather important in areas such as [admixture mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556814/) for diseases.
 

@@ -11,7 +11,7 @@ Razib on Books
 
 In the [New Year’s Open Thread](http://blogs.discovermagazine.com/gnxp/2011/01/open-thread-january-1st-2011/#comment-56394) D. Chamberlin [suggested](http://blogs.discovermagazine.com/gnxp/2011/01/open-thread-january-1st-2011/#comment-56394):
 
-> I think your many book reviews ought to be more accessible. They were > for me an excellent guide as to which books I should buy as well as > educational in and of themselves. You have a long list of books you > reccommend over on Gene Expression Classic but clicking on them just > links you to the book seller. Just as a suggestion if you could link > to your previous book reviews that are buried in years gone by I think > many people would appreciate them as much as I did….
+> I think your many book reviews ought to be more accessible. They were > for me an excellent guide as to which books I should buy as well as > educational in and of themselves. You have a long list of books you > reccommend over on Gene Expression Classic but clicking on them just links you to the book seller. Just as a suggestion if you could link to your previous book reviews that are buried in years gone by I think many people would appreciate them as much as I did….
 
 I have taken that to heart, and set up [a new website](http://razibkhanbooks.com/) where I am spending a little time each day adding links to a few book reviews which are “buried” in the posts of my various weblogs over the past 8 years. I’ve also added links & quick comments to books which I have never reviewed, but are part of my “cognitive furniture,” such as [Introduction to Quantitative Genetics](http://www.razib.com/books/2011/02/04/introduction-to-quantitative-genetics-genetics-and-analysis-of-quantitative-traits/).
 

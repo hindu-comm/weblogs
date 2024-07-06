@@ -11,8 +11,8 @@ Born to run (follow up)
 
 About a week ago I posted on a [new paper](http://www.nature.com/ng/journal/vaop/ncurrent/abs/ng2122.html) about worldwide variation on a gene which results in differences in muscle fiber. The author left a comment, which I’ll reproduce below:
 
-> We thought about selection for cold tolerance, but our latest data on > global distribution of the null allele don’t really fit with that. > Most likely it’s something to do with famine resistance, although > we’re not ruling out the idea that it’s selection for some sort of > muscle performance phenotype (it’s surprising how many muscle genes > are popping up in recent genome-wide scans for selection).  
-> We haven’t got genotype distributions for the Kalenjin yet, but we > have a paper due out soon that shows a disappointingly low frequency > of the null allele in Kenyans in general, and no association with > athletic performance in that population. Looks like other genes (and > environmental factors) are responsible for the spectacular endurance > performance of East Africans.
+> We thought about selection for cold tolerance, but our latest data on > global distribution of the null allele don’t really fit with that. > Most likely it’s something to do with famine resistance, although we’re not ruling out the idea that it’s selection for some sort of muscle performance phenotype (it’s surprising how many muscle genes are popping up in recent genome-wide scans for selection).  
+> We haven’t got genotype distributions for the Kalenjin yet, but we > have a paper due out soon that shows a disappointingly low frequency > of the null allele in Kenyans in general, and no association with athletic performance in that population. Looks like other genes (and environmental factors) are responsible for the spectacular endurance performance of East Africans.
 
 ### Related Posts:
 
@@ -30,8 +30,8 @@ About a week ago I posted on a [new paper](http://www.nature.com/ng/journal/vaop
 
 About a week ago [I posted](http://scienceblogs.com/gnxp/2007/09/white_men_cant_run.php) on a [new paper](http://www.nature.com/ng/journal/vaop/ncurrent/abs/ng2122.html) about worldwide variation on a gene which results in differences in muscle fiber. The author left a comment, which I’ll reproduce below:
 
-> We thought about selection for cold tolerance, but our latest data on > global distribution of the null allele don’t really fit with that. > Most likely it’s something to do with famine resistance, although > we’re not ruling out the idea that it’s selection for some sort of > muscle performance phenotype (it’s surprising how many muscle genes > are popping up in recent genome-wide scans for selection). >
-> We haven’t got genotype distributions for the Kalenjin yet, but we > have a paper due out soon that shows a disappointingly low frequency > of the null allele in Kenyans in general, and no association with > athletic performance in that population. Looks like other genes (and > environmental factors) are responsible for the spectacular endurance > performance of East Africans.
+> We thought about selection for cold tolerance, but our latest data on > global distribution of the null allele don’t really fit with that. > Most likely it’s something to do with famine resistance, although we’re not ruling out the idea that it’s selection for some sort of muscle performance phenotype (it’s surprising how many muscle genes are popping up in recent genome-wide scans for selection). >
+> We haven’t got genotype distributions for the Kalenjin yet, but we > have a paper due out soon that shows a disappointingly low frequency > of the null allele in Kenyans in general, and no association with athletic performance in that population. Looks like other genes (and environmental factors) are responsible for the spectacular endurance performance of East Africans.
 
 ### Related Posts:
 

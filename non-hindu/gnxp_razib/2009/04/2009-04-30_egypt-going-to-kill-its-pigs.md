@@ -11,9 +11,9 @@ Egypt going to kill its pigs?
 
 [UN says Egypt pig cull real mistake](http://english.aljazeera.net/news/middleeast/2009/04/200942923217637747.html):
 
-> The United Nations has called Egypt’s move to cull 400,000 pigs as a > precaution against swine flu “a real mistake”.  
-> The Egyptian government ordered the slaughter of the pigs on > Wednesday, saying it could help quell any panic in the country that is > largely Muslim, who view pigs as unclean.  
-> No pigs in the country have been found with the new strain of H1N1 > virus of the so-called swine flu and the World Health Organisation > (WHO) says the disease cannot be caught from eating pork that is > properly prepared.
+> The United Nations has called Egypt’s move to cull 400,000 pigs as a precaution against swine flu “a real mistake”.  
+> The Egyptian government ordered the slaughter of the pigs on Wednesday, saying it could help quell any panic in the country that is largely Muslim, who view pigs as unclean.  
+> No pigs in the country have been found with the new strain of H1N1 virus of the so-called swine flu and the World Health Organisation (WHO) says the disease cannot be caught from eating pork that is properly prepared.
 
 I just heard on NPR that urban pigs apparently process a great of the organic trash for the city of Cairo. This overreaction might have some public health ramifications down the road.
 

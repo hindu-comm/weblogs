@@ -11,7 +11,7 @@ Richard Dawkins, The Economist & bylines
 
 *The Economist* has a [review](http://www.economist.com/books/displaystory.cfm?story_id=14082089) up of a book about Richard Dawkins’ influence, [The Selfish Genius: How Richard Dawkins Rewrote Darwin’s Legacy](https://www.amazon.com/exec/obidos/ASIN/1848310498//geneexpressio-20). But it would really be nice to know who wrote something like this:
 
-> Her argument that the selfish-gene model is being superseded by other > forms of evolutionary explanation relies on an overinterpretation of > those alternatives.
+> Her argument that the selfish-gene model is being superseded by other forms of evolutionary explanation relies on an overinterpretation of those alternatives.
 
 In disputed areas of science perspective matters, and who someone is is a critical part of the information in judging their argument. I’m assuming this book review was written by someone who knows some evolutionary biology, in fact, someone with a familiarity with the Oxford zoology department where Dawkins has spent most of his career (In a hard-to-find-online piece about *The Economist* in *The New Republic* from about 10 years ago Andrew Sullivan claimed that most of the writers at *The Economist* hailed from one college at Oxford). I’m less hostile to Dawkins (on the science) than someone like [Larry Moran](https://sandwalk.blogspot.com/2009/07/collapse-of-dawkins-dogma.html), but it would be nice to know who is writing defenses of him nonetheless.
 

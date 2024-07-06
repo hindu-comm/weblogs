@@ -11,11 +11,11 @@ Red Planet
 
 [Moon astronauts urge Mars mission](http://news.bbc.co.uk/2/hi/science/nature/8158519.stm):
 
-> At a rare public reunion of the Apollo 11 crew, Buzz Aldrin and > Michael Collins said Mars instead of the Moon should be the focus of > exploration.  
-> Neil Armstrong, the first man on the Moon, said the race to get to the > Moon had been the ultimate peaceful contest.  
-> He said it was an “exceptional national investment” for the US and > ex-USSR.  
-> The trio spoke at an event at Washington’s National Air and Space > Museum to mark the 40th anniversary of their mission.  
-> Mr Armstrong told the audience: “It was the ultimate peaceful > competition: USA vs USSR.
+> At a rare public reunion of the Apollo 11 crew, Buzz Aldrin and Michael Collins said Mars instead of the Moon should be the focus of exploration.  
+> Neil Armstrong, the first man on the Moon, said the race to get to the Moon had been the ultimate peaceful contest.  
+> He said it was an “exceptional national investment” for the US and ex-USSR.  
+> The trio spoke at an event at Washington’s National Air and Space Museum to mark the 40th anniversary of their mission.  
+> Mr Armstrong told the audience: “It was the ultimate peaceful competition: USA vs USSR.
 
 Apparently 4 out of 5 people alive today were not alive when the first moon landings occurred in 1969!
 

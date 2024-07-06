@@ -11,7 +11,7 @@ Height changes in Germany
 
 [](https://www.gnxp.com/blog/uploaded_images/img137983-720535.gif)[Growth and Puberty in German Children: Is There Still a Positive Secular Trend?](http://www.aerzteblatt.de/int/article.asp?src=search&id=64943&p=gohlke):
 
-> In Germany, as elsewhere in northern Europe, the upward secular trend > in height is slowing (ca. 2 cm/decade up to the mid-20th century, > currently less than 1 cm/decade), and the age at menarche has > stabilized at just under 13 years. It remains an open question whether > the observed slowing will merely be temporary, or whether it indeed > represents the near-attainment of an endpoint owing to relatively > stable environmental conditions.
+> In Germany, as elsewhere in northern Europe, the upward secular trend > in height is slowing (ca. 2 cm/decade up to the mid-20th century, > currently less than 1 cm/decade), and the age at menarche has > stabilized at just under 13 years. It remains an open question whether the observed slowing will merely be temporary, or whether it indeed represents the near-attainment of an endpoint owing to relatively stable environmental conditions.
 
 ### Related Posts:
 

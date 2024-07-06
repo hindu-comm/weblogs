@@ -14,7 +14,8 @@ Gay Muslims seeking marriages of convenience
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Gay sheep, forbidden
   science?](https://www.gnxp.com/WordPress/2006/12/31/gay-sheep-forbidden-science/) - [What is a scientific or religious world
   view?](https://www.gnxp.com/WordPress/2006/05/21/what-is-a-scientific-or-religious-world-view/) - [Gay in the Arab

@@ -11,8 +11,8 @@ A genetic map of the United States?
 
 From the comments:
 
-> When I first saw this, the first thing that popped in my head was “big > \[vulgarity expurgated\] surprise.”  
-> Has someone done a PC analysis on people from all over the United > States? That would probably be pretty interesting, given that it > almost certainly wouldn’t reflect geography as strongly. I wonder what > kind of clustering you would get…
+> When I first saw this, the first thing that popped in my head was “big \[vulgarity expurgated\] surprise.”  
+> Has someone done a PC analysis on people from all over the United States? That would probably be pretty interesting, given that it almost certainly wouldn’t reflect geography as strongly. I wonder what kind of clustering you would get…
 
 A substantial number of Americans are derived from the [settler population](https://www.gnxp.com/blog/2008/11/where-have-all-engish-americans-gone.php); those Europeans who arrived during the colonial period. In New England most of the population in 1776 was descended from a large wave of Puritans who arrived between 1630-1640. On the order of 2/3 of the immigrants to 17th century New England arrived during that decade, and this was the region of English North America with the highest fertility deep into the 19th century. I wouldn’t be surprised if some sort of bottlenecking effect wasn’t discernible, though the relative lack among American Mormons argues against that. On the other hand, Mormons are also an admixed population which received a substantial infusion of new immigrants from northern Europe in the 19th century might have cranked up their effective population size.
 

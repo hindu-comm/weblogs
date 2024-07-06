@@ -121,7 +121,7 @@ Jalal-ud-din’s victorious troops returned to the sultan’s camp loaded with b
 
 THREE DAYS LATER, Jalal-ud-din Khalji personally entered Jhain and found that it was an extraordinarily lovely city. Like any other infidel city, it was suffused with rich, ornate and large temples bedecked with exquisite sculptures, carvings, and ornamented with elaborate gold and silver work. At noon, he barged into the Raja’s dazzling palace and forcibly occupied his private apartments. The whole spectacle that he witnessed in Jhain took his breath away. Amir Khusrau gives us a flavour of its beauty:
 
-> …\[the Sultan\] admired the exquisite colours and carving on the > stone, on which the figures were so beautifully cut, that they could > not be exceeded in wax. The plaster was so beautifully made, that it > reflected the image of the person looking at it, and the mortar was > mixed with sandal. The woodwork was all of aloe-wood.
+> …\[the Sultan\] admired the exquisite colours and carving on the > stone, on which the figures were so beautifully cut, that they could not be exceeded in wax. The plaster was so beautifully made, that it reflected the image of the person looking at it, and the mortar was mixed with sandal. The woodwork was all of aloe-wood.
 
 Hell rained upon Jhain the next day.
 

@@ -66,15 +66,15 @@ A brief contrast of the global impact of *Exodus* will brilliantly illustrate th
 
 ------------------------------------------------------------------------
 
-> Two months after the tenth anniversary, a novel was published in > America that changed the public perception of Israel and the Jews. > Exodus by the Jewish US ex-marine Leon Uris became an international > publishing phenomenon, the biggest best seller in the United States > since Gone with the Wind. Both the novel and the subsequent movie > thrust Israel into the lives of millions, and with it initiated a new > sympathy for the young country. >
+> Two months after the tenth anniversary, a novel was published in > America that changed the public perception of Israel and the Jews. > Exodus by the Jewish US ex-marine Leon Uris became an international > publishing phenomenon, the biggest best seller in the United States since Gone with the Wind. Both the novel and the subsequent movie thrust Israel into the lives of millions, and with it initiated a new sympathy for the young country. >
 > *Jill Hamilton: God, Guns and Israel* >
 > ------------------------------------------------------------------------
 
-> \[Exodus is\] an antidote to the public silence of American Jews… > Something fundamental changed among American Jews as a result of the > book. >
+> \[Exodus is\] an antidote to the public silence of American Jews… Something fundamental changed among American Jews as a result of the book. >
 > *Mathew Silver* >
 > ------------------------------------------------------------------------
 
-> \[The effect of Exodus\] is so extraordinary that I wanted to go and > fight for Israel, even die, if need be, for Israel. Israel spoke to > the need I had as a young black man for a place where I could be free > of being an object of hatred. I did not wish I were Jewish, but was > glad that Jews had a land of their own... >
+> \[The effect of Exodus\] is so extraordinary that I wanted to go and > fight for Israel, even die, if need be, for Israel. Israel spoke to the need I had as a young black man for a place where I could be free of being an object of hatred. I did not wish I were Jewish, but was glad that Jews had a land of their own... >
 > *Julius Lester* >
 > ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ As a theme for a profound literary exploration of the Partition, the story shoul
 
 In many ways, seventy-five years after the Partition of India provides a fertile ground for not only a dispassionate literary exploration of the tragedy, but a virgin field for truth-tellers, especially those who are genuinely disgusted with such phoney passages masquerading as profound literature:
 
-> The Indo-Muslim life-style is made up of the Persian-Turki-Mughal and > regional Rajput Hindu cultures. So, what is this Indianness which the > Muslim League has started questioning? Could there be an alternate > India? >
+> The Indo-Muslim life-style is made up of the Persian-Turki-Mughal and regional Rajput Hindu cultures. So, what is this Indianness which the Muslim League has started questioning? Could there be an alternate India? >
 > *Aag ka Darya*
 
 In the Sanatana tradition, poets and litterateurs are seated on the same high pedestal as the Rishis. The Partition is both an overwhelming invitation to and a far-reaching challenge for present-day creative writers to test for themselves how best they can elevate themselves to this high pedestal.

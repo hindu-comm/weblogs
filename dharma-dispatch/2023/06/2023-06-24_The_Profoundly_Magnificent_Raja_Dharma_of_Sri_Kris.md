@@ -61,7 +61,7 @@ Years earlier, when Sri Krishnadevaraya was at the zenith of his power and prest
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ee1246-3b10-49fd-b7b4-d022b91c9ee0_724x282.png)
 
-> O Krishnaraya, you the Avatara of Narasimha! You destroyed the Turks > from faraway with just the power of your great name. O Lord of the > elephant king! The herd of war-trained elephants ran away in horror > just by looking at you!
+> O Krishnaraya, you the Avatara of Narasimha! You destroyed the Turks from faraway with just the power of your great name. O Lord of the elephant king! The herd of war-trained elephants ran away in horror just by looking at you!
 
 It was said that both the Bahamanis and other enemies of Sri Krishnadevaraya thought that news of his death was unreal and a trick to scare them further. Even after his death was confirmed, they stayed miles away from Vijayanagara for several months thinking that even his spirit would crush them if they dared look in its direction.
 

@@ -11,7 +11,7 @@ Pure Jewish blood?
 
 William Saletan has a piece up over at *Slate*, [Jewgenics](http://www.slate.com/id/2177228/), which covers his reactions to a [talk](http://www.aei.org/events/eventID.1589,filter.all/event_detail.asp) (you can view it online) sponsored by AEI around [Jon Entine’s](https://www.gnxp.com/blog/2007/10/10-questions-for-jon-entine.php) book [Abraham’s Children: Race, Identity, and the DNA of the Chosen People](https://www.amazon.com/exec/obidos/ASIN/0446580635/geneexpressio-20). I’ve read the book, though I don’t have time to listen to the talk right now. But I wanted to offer a quick perspective on one point in Saletan’s piece:
 
-> According to Entine, the rate of Jewish “outbreeding”–procreating with > non-Jews–is half a percent. That’s the lowest rate of any population > in the world today….
+> According to Entine, the rate of Jewish “outbreeding”–procreating with non-Jews–is half a percent. That’s the lowest rate of any population in the world today….
 
   
 First, I don’t know if that is the lowest rate of any population in the world today. There’s a lot of populations out there. Additionally, the 0.5% is **per generation over the last 2,000 years**. Since American Jews outmarry at rates of 25-50%, and they are a substantial proportion of the world’s Jewry, the 0.5% number doesn’t make any contemporary sense. Rather, Jon is reporting data which specifically looks at the proportion of non-Jewish lineages that seem to have slipped into the Jewish gene pool over the past 2,000 years.  

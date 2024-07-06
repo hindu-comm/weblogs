@@ -11,7 +11,7 @@ Indians were lepers a long time ago
 
 Kambiz of [Anthropology.net](http://anthropology.net/2009/05/26/oldest-evidence-of-leprosy-found-in-india/) is back. His first offering [reports on a new paper](http://anthropology.net/2009/05/26/oldest-evidence-of-leprosy-found-in-india/) on the [evidence for leprosy in India 4,000 years ago](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0005669).
 
-> …Lots of hallmarks in human existence occurred during this time > period, some being inventions in system of writing, standardized > weights and measures, monumental architecture, and trade networks that > stretched to Mesopotamia and beyond. While the pathophysiology of > leprosy is up in the air, it is not surprising that communicable > diseases, even not very contagious ones like leprosy, also blossomed > during the rapid sedentarisation of human populations.
+> …Lots of hallmarks in human existence occurred during this time > period, some being inventions in system of writing, standardized > weights and measures, monumental architecture, and trade networks that > stretched to Mesopotamia and beyond. While the pathophysiology of leprosy is up in the air, it is not surprising that communicable diseases, even not very contagious ones like leprosy, also blossomed during the rapid sedentarisation of human populations.
 
 Well, I guess it’s OK to reinforce some stereotypes if it’s in the service of science 🙂
 

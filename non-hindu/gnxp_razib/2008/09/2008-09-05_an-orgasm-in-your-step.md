@@ -11,7 +11,7 @@ An orgasm in your step?
 
 ![08_bar-refaeli_15.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/08_bar-refaeli_15.jpg?resize=251%2C390)![08_bar-refaeli_15.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/08_bar-refaeli_15.jpg?resize=251%2C390)[A Woman’s History of Vaginal Orgasm is Discernible from Her Walk](http://www3.interscience.wiley.com/journal/120776333/abstract):
 
-> In the sample of healthy young Belgian women (half of whom were > vaginally orgasmic), history of vaginal orgasm (triggered solely by > penile-vaginal intercourse) was diagnosable at far better than chance > level (81.25% correct, Fisher’s Exact Test P \< 0.05) by appropriately > trained sexologists. Clitoral orgasm history was unrelated to both > ratings and to vaginal orgasm history. Exploratory analyses suggest > that greater pelvic and vertebral rotation and stride length might be > characteristic of the gait of women who have experienced vaginal > orgasm (r = 0.51, P \< 0.05).
+> In the sample of healthy young Belgian women (half of whom were > vaginally orgasmic), history of vaginal orgasm (triggered solely by > penile-vaginal intercourse) was diagnosable at far better than chance > level (81.25% correct, Fisher’s Exact Test P \< 0.05) by appropriately > trained sexologists. Clitoral orgasm history was unrelated to both > ratings and to vaginal orgasm history. Exploratory analyses suggest that greater pelvic and vertebral rotation and stride length might be characteristic of the gait of women who have experienced vaginal orgasm (r = 0.51, P \< 0.05).
 
 Hm. Remember when I said “science” was normative???  
 H/T [FuturePundit](http://www.futurepundit.com/archives/005512.html)

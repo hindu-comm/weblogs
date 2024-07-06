@@ -71,7 +71,7 @@ Until the “social justice warriors” — and now, the wokes — ambushed the 
 
 On its part, the British literary establishment lionised Rushdie for nostalgic reasons of Empire. Here was a nice *brown* Indian writing in exquisite English about what an awful place India had become after *we* left! It also helped Rushdie that there was no dearth of India-ignorant Western reviewers who waxed lavishly about *Midnight’s Children* for example, in *The New York Times*.
 
-> The literary map of India is about to be redrawn... it would be a > disservice to Salman Rushdie's very original genius to dwell on > literary analogues and ancestors. This is…an author to welcome into > world company.
+> The literary map of India is about to be redrawn... it would be a disservice to Salman Rushdie's very original genius to dwell on literary analogues and ancestors. This is…an author to welcome into world company.
 
 There’s just no polite way of saying this: **Rushdie inaugurated the phenomenon of what can only be called Sepoy Literature**. Every Indian writer in English who won the Booker Prize after him pretty much mimicked him.
 

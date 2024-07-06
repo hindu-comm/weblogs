@@ -11,11 +11,11 @@ The genomics future is almost now
 
 [Stephen Hsu](https://infoproc.blogspot.com/2010/10/news-from-future.html) on developments at the [Beijing Genomics Institute](https://en.wikipedia.org/wiki/Beijing_Genomics_Institute):
 
-> I was floored today when the director of BGI told me they would soon > reach a sequencing rate of 1000 (human) genomes per day (so, 10^5 to > 10^6 genomes per year is right on the horizon). **According to him, > they can be profitable at a price of \$5k per genome!** > \[Clarification: I later learned this might mean at 10x coverage … not > exactly sure, although I tried to get a more precise statement.\]
+> I was floored today when the director of BGI told me they would soon > reach a sequencing rate of 1000 (human) genomes per day (so, 10^5 to > 10^6 genomes per year is right on the horizon). **According to him, they can be profitable at a price of \$5k per genome!** \[Clarification: I later learned this might mean at 10x coverage … not exactly sure, although I tried to get a more precise statement.\]
 
 Five years ago I asked [Armand Leroi](https://www.gnxp.com/blog/2005/12/10-questions-for-armand-m-leroi.php):
 
-> \[Q\] **10) If in 10 years you could purchase your own full genome > sequence for a month of your salary, would you do it? (assume privacy > concerns are obviated)** >
+> \[Q\] **10) If in 10 years you could purchase your own full genome sequence for a month of your salary, would you do it? (assume privacy concerns are obviated)** >
 > \[A\] Yes.
 
 It looks like I didn’t anticipate the rate of change in this area, as 10 years was also certainly too conservative or pessimistic. [Dan MacArthur](http://scienceblogs.com/geneticfuture/) has given a plausible estimate of \~2 years for the realization of a \$1,000 genome, but it looks like we’ll hit a genome at the cost of a month’s salary for a professional person on the order of months and not years.

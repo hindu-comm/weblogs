@@ -23,8 +23,8 @@ But let’s start from the beginning. I’d noticed a rather … [heavily bemusi
 
 <div class="embed-twitter">
 
-> The Algiz is nothing more than a Forked Cross, the Rood on which our > Saviour (Healend) was nailed. You are a larper and know nothing of > your Volk. >
-> — Pope of Tiki 🌴🍹 (@popeoftiki) [May 25, > 2024](https://twitter.com/popeoftiki/status/1794386426563580333?ref_src=twsrc%5Etfw)
+> The Algiz is nothing more than a Forked Cross, the Rood on which our Saviour (Healend) was nailed. You are a larper and know nothing of your Volk. >
+> — Pope of Tiki 🌴🍹 (@popeoftiki) [May 25, 2024](https://twitter.com/popeoftiki/status/1794386426563580333?ref_src=twsrc%5Etfw)
 
 </div>
 

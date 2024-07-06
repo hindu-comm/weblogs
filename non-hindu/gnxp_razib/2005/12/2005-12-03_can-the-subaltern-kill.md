@@ -13,7 +13,8 @@ Can the subaltern kill?
 
 ### Related Posts:
 
-- [Abortion & religion - an international
+- [Abortion & religion
+- an international
   view](https://www.gnxp.com/WordPress/2009/06/06/abortion-religion-an-international-view/) - [Who is the decider of the good
   life?](https://www.gnxp.com/WordPress/2012/03/18/who-is-the-decider-of-the-good-life/) - [Most bankers are not
   bad](https://www.gnxp.com/WordPress/2009/02/09/most-bankers-are-not-bad/) - [Estonians are not like

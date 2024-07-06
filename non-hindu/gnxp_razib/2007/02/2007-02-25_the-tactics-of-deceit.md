@@ -11,12 +11,12 @@ The tactics of deceit
 
 Over at The Edge the philosopher Daniel Dennett and evolutionary geneticist H. Allen Orr just had an exchange over Richard Dawkins’ The God Delusion. I am not particularly interested in the details of this debate, rather, on the front page this selection from Dennett’s letter caught my attention:
 
-> When I explained then in a private letter to you what I had meant, you > conceded to me in your private response that you had not seen my point > in the light I intended, and that my claim was not in fact the blunder > you had said it was….
+> When I explained then in a private letter to you what I had meant, you conceded to me in your private response that you had not seen my point in the light I intended, and that my claim was not in fact the blunder you had said it was….
 
 What could Dennett mean? I immediately thought back to [this](http://www.bostonreview.net/BR21.5/orr.html):
 
-> *I did indeed misspeak (p. 126), but the result was ambiguity, not > error. The issue is complicated: it depends on whether you’re > measuring the (average) speed of departure from a starting point in > genetic space, or the speed of attainment of some particular > evolutionary product. I meant the former.* \[Dennett\] >
-> Now I’ve been in the population genetics business for some time and, > frankly, I have no idea what Dennett is talking about. And-I can find > no polite way of putting this-it’s hard to escape the conclusion that > Dennett has no idea what he’s talking about, either. Even the most > charitable interpretation I can come up with is just plain wrong. > \[Orr’s response\]
+> *I did indeed misspeak (p. 126), but the result was ambiguity, not > error. The issue is complicated: it depends on whether you’re measuring the (average) speed of departure from a starting point in genetic space, or the speed of attainment of some particular evolutionary product. I meant the former.* \[Dennett\] >
+> Now I’ve been in the population genetics business for some time and, > frankly, I have no idea what Dennett is talking about. And-I can find > no polite way of putting this-it’s hard to escape the conclusion that Dennett has no idea what he’s talking about, either. Even the most charitable interpretation I can come up with is just plain wrong. \[Orr’s response\]
 
 Dennett’s phrasing was awkward and peculiar to say the least. [Orr](http://edge.org/3rd_culture/bios/orr.html) is an evolutionary geneticist who “was awarded the Dobzhansky Prize by the Society for the Study of Evolution and the Young Investigator Prize by the American Society of Naturalists.” In regards to a technical understanding of evolution Dennett was way out of his league. And only an analytic philosopher could confuse population genetic theory with such lexical opacity. That being said, I did not believe that Orr did not understand what Dennett was trying to say, unpolished though he was. This is how I unpacked it:
 
@@ -32,7 +32,7 @@ It is more complicated than that…but my point is that though Dennett wasn’t 
 
 So, when I read Dennett’s full letter, I was not surprised. Here is what he says:
 
-> You leveled very serious charges of error and incomprehension in that > review, and when I challenged them, you responded with a haughty > dismissal of my objections (in an exchange in the Boston Review). > Quoting an example, dealing with the speed of evolution: “Now I’ve > been in the population genetics business for some time and, frankly, I > have no idea what Dennett is talking about. And-I can find no polite > way of putting this-it’s hard to escape the conclusion that Dennett > has no idea what he’s talking about either.”
+> You leveled very serious charges of error and incomprehension in that > review, and when I challenged them, you responded with a haughty > dismissal of my objections (in an exchange in the Boston Review). > Quoting an example, dealing with the speed of evolution: “Now I’ve > been in the population genetics business for some time and, frankly, I have no idea what Dennett is talking about. And-I can find no polite way of putting this-it’s hard to escape the conclusion that Dennett has no idea what he’s talking about either.”
 
 Dennett is bringing up exactly what I remembered in *The Boston Review*! This was 10 years ago, but Dennett obviously still resents Orr mocking him. In private correspondence Dennett states that Orr admitted that he wasn’t really wrong, and Orr’s response to this new salvo from Dennett does not contradict that characterization.
 

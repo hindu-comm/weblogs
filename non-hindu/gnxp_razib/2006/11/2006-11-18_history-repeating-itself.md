@@ -11,7 +11,7 @@ History repeating itself
 
 I’m reading [God’s War: A New History of the Crusades](https://www.amazon.com/exec/obidos/ASIN/0674023870/geneexpressio-20/), and this on page 293 surprised me:
 
-> …Neither genocide nor forced baptism was canonically legal. However, > some argued that these regions had accepted Christianity from > missionaries in the previous decades and so could be regarded as > apostates, thus action against them was, as in the Holy Land, a matter > of reclaiming lost Christianity territory, theoretically defensive….
+> …Neither genocide nor forced baptism was canonically legal. However, > some argued that these regions had accepted Christianity from missionaries in the previous decades and so could be regarded as apostates, thus action against them was, as in the Holy Land, a matter of reclaiming lost Christianity territory, theoretically defensive….
 
 The regions in question were the pagan Slavic principalities between the kingdom of Poland and the German states. I was aware of the “Crusade” against the [Wends](https://en.wikipedia.org/wiki/Wends), but I did not know of this specific justification. The backstory is that on occasion Wendish nobles would accept baptism and their immediate family would convert, but there was never any conversion of the general populace, so the claims that they were “apostates” are clearly ludicrous. I found the passage amusing because the logic maps perfectly onto to some of the specious arguments made by Islamists that all formerly Muslim lands (e.g., Spain, India, etc.) are still by definition Muslim and any attacks are “defensive.” Justification by faith I suppose?
 

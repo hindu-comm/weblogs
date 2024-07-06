@@ -12,7 +12,8 @@ Top 25 science books
 [Discover](http://www.discover.com/issues/dec-06/features/25-greatest-science-books/?page=1) is doing a “25 Greatest Science Books of All-Time” list. The great thing about stuff like this is it gets you thinking, talking, and exposes what your priorities are. There isn’t a canonical list with a clear rank order. I mean, yeah, *Principia* is the bomb, but people can make a case for *The Origin of Species*. Below is the list from *Discover*, and below the fold my quick & dirty re-order. Hope it tells you something about me.
 
   
-1. and 2. The Voyage of the Beagle (1845) and The Origin of Species (1859) by Charles Darwin \[tie\]  
+1. and
+2. The Voyage of the Beagle (1845) and The Origin of Species (1859) by Charles Darwin \[tie\]  
 3. Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy) by Isaac Newton (1687)  
 4. Dialogue Concerning the Two Chief World Systems by Galileo Galilei (1632)  
 5. De Revolutionibus Orbium Coelestium (On the Revolutions of Heavenly Spheres) by Nicolaus Copernicus (1543)  
@@ -54,7 +55,8 @@ And now, switcheroo….
 15. The Cosmic Connection by Carl Sagan (1973)  
 16. The Man Who Mistook His Wife for a Hat and Other Clinical Tales by Oliver Sacks (1985)  
 17. Gaia by James Lovelock (1979)  
-18. and 2. The Voyage of the Beagle (1845)  
+18. and
+2. The Voyage of the Beagle (1845)  
 19. Sexual Behavior in the Human Male by Alfred C. Kinsey et al. (1948)  
 20. The Journals of Lewis and Clark by Meriwether Lewis and William Clark (1814)  
 21. Gorillas in the Mist by Dian Fossey (1983)  

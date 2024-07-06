@@ -11,7 +11,7 @@ Republicans healthier than Democrats?
 
 No surprise that a reader points out that healthier areas seem to map onto “Blue” areas of the United States. But there is actually more to this than meets the eye: [Are Republicans Healthier Than Democrats?](https://www.fivethirtyeight.com/2009/03/are-republicans-healthier-than.html):
 
-> In the International Journal of Epidemiology, S. V. Subramanian and > Jessica Perkins write that, after controlling for age, sex, race, > marital status, religious service attendance, highest educational > degree, and total family income, Republicans were 25% less likely than > Democrats to report being in poor health. They find a key component of > this to be smoking: after controlling for that above list of > variables, Republicans were 15% less likely to be smokers.
+> In the International Journal of Epidemiology, S. V. Subramanian and > Jessica Perkins write that, after controlling for age, sex, race, > marital status, religious service attendance, highest educational > degree, and total family income, Republicans were 25% less likely than Democrats to report being in poor health. They find a key component of this to be smoking: after controlling for that above list of variables, Republicans were 15% less likely to be smokers.
 
 Remember that though Democratic areas tend to be wealthier, the wealthier individuals within Democratic regions tend to be more Republican.
 

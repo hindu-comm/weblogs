@@ -35,7 +35,8 @@ It will be seen that George Price ticks most of the boxes (apart from the female
 
 ### Related Posts:
 
-- [Open Thread - October 30th,
+- [Open Thread
+- October 30th,
   2010](https://www.gnxp.com/WordPress/2010/10/30/open-thread-october-30th-2010/) - [The Price of
   Altruism](https://www.gnxp.com/WordPress/2010/07/21/the-price-of-altruism/) - [The Price
   Equation](https://www.gnxp.com/WordPress/2009/11/10/the-price-equation/) - [Movies; watch, and

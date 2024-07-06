@@ -11,18 +11,19 @@ Bing on the rise, or the diversification of search?
 
 [Bing Keeps Gaining Ground](http://www.thebigmoney.com/blogs/feeling-lucky/2009/09/22/bing-keeps-gaining-ground):
 
-> For August, Bing’s share of the American search market came in at 9.3 > percent, up from 8.9 percent in July and 8.4 percent in June. Perhaps > more importantly, Bing’s growth didn’t come at the expense of Yahoo > (YHOO), which held steady at 19.3 percent. For the first time, Bing > took market share away from Google, which dropped a tenth of a point > to 64.6 percent of the market. (AOL was the big loser here, losing a > tenth of a point to fade to a dismal 3 percent share.)
+> For August, Bing’s share of the American search market came in at 9.3 > percent, up from 8.9 percent in July and 8.4 percent in June. Perhaps > more importantly, Bing’s growth didn’t come at the expense of Yahoo > (YHOO), which held steady at 19.3 percent. For the first time, Bing took market share away from Google, which dropped a tenth of a point to 64.6 percent of the market. (AOL was the big loser here, losing a tenth of a point to fade to a dismal 3 percent share.)
 
 I actually stopped using Bing. I liked its UI for many tasks, but Google’s breadth and relevance of results was just superior, and I got tired of having to use Google as a backup when Bing can up with nothing.  
 That being said, this seems a real issue:
 
-> In fact, Danny Sullivan has a new HuffPo piece on all the challengers > taking shots at Google, offering new and unusual kinds of search that > appeals to different elements of our online life. Did the power just > go out in your neighborhood? Twitter will tell you why a lot faster > than Google can. What’s that movie your friend was raving about the > other day? A quick Facebook search will get you the answer.
+> In fact, Danny Sullivan has a new HuffPo piece on all the challengers > taking shots at Google, offering new and unusual kinds of search that > appeals to different elements of our online life. Did the power just go out in your neighborhood? Twitter will tell you why a lot faster than Google can. What’s that movie your friend was raving about the other day? A quick Facebook search will get you the answer.
 
 [Pagerank](https://en.wikipedia.org/wiki/PageRank) is great, the customization of preference allowed by social media is really convenient. It seems a structural issue for Google, it has to serve so many different needs (I don’t notice a huge difference when I am logged into my Google account).
 
 ### Related Posts:
 
-- [Bing](https://www.gnxp.com/WordPress/2009/06/13/bing/) - [Bing vs.
+- [Bing](https://www.gnxp.com/WordPress/2009/06/13/bing/)
+- [Bing vs.
   Google](https://www.gnxp.com/WordPress/2009/07/09/bing-vs-google/) - [Bing](https://www.gnxp.com/WordPress/2009/06/01/bing/) - [M\$'s IBM
   moment?](https://www.gnxp.com/WordPress/2009/07/13/ms-ibm-moment/) - [Babies,
   babies....](https://www.gnxp.com/WordPress/2009/02/08/babies-babies/) - [Razib Khan's predictions for

@@ -13,7 +13,10 @@ Gmail’s “chat” app is now integrated via AJAX with the email application. 
 
 ### Related Posts:
 
-- [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/) - [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/) - [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/) - [The problem of
+- [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/)
+- [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/)
+- [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/)
+- [The problem of
   crap](https://www.gnxp.com/WordPress/2009/04/11/the-problem-of-crap/) - [Slatkin](https://www.gnxp.com/WordPress/2007/01/11/slatkin/) - [Get your "beta" back
   on](https://www.gnxp.com/WordPress/2009/07/08/get-your-beta-back-on/)
 

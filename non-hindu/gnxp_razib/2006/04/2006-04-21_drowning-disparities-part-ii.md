@@ -11,8 +11,8 @@ Drowning disparities – Part II
 
 I made [a recent post](https://www.gnxp.com/blog/2006/04/chivalry-vs-body-fat.php) on male-female drowning disparities in maritime accidents. As the subject generated a whooping 51 comments, let’s follow up that blogging success with [a new study](http://today.reuters.com/news/articlenews.aspx?type=healthNews&storyid=2006-04-21T172051Z_01_COL162409_RTRUKOC_0_US-DROWNING-RISK.xml&rpc=22) on the black-white Drowning Gap:
 
-> The findings, published in the American Journal of Public Health, not > only confirm past research showing that a large number of young > drowning victims are African American, but also identify where these > deaths are happening. >
-> Overall, three-quarters of the victims were male, and black males were > at greatest risk. Their rate of drowning was anywhere from 5 to 12 > times higher than that of white males, depending on the age group. > Hispanic males were also at greater risk than whites, but the > difference was much smaller.
+> The findings, published in the American Journal of Public Health, not only confirm past research showing that a large number of young drowning victims are African American, but also identify where these deaths are happening. >
+> Overall, three-quarters of the victims were male, and black males were > at greatest risk. Their rate of drowning was anywhere from 5 to 12 times higher than that of white males, depending on the age group. Hispanic males were also at greater risk than whites, but the difference was much smaller.
 
 “5 to 12 times higher?” Hmm…
 

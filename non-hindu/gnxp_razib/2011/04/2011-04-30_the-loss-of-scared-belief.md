@@ -11,7 +11,7 @@ The loss of sacred belief?
 
 Over at the *Less Wrong* blog there is a post, [So You’ve Changed Your Mind](http://lesswrong.com/lw/5h8/so_youve_changed_your_mind/). This portion caught my attention:
 
-> So you’ve changed your mind. **Given up your sacred belief**, the one > that defined so much of*who you are* for so long. >
+> So you’ve changed your mind. **Given up your sacred belief**, the one that defined so much of*who you are* for so long. >
 > You are probably feeling pretty scared right now.
 
 I reflected and realized that the various issues where I’ve held relatively strong opinions and then changed my mind were generally cases where I relied on received wisdom, looked more closely, and felt that there was some misrepresentation among the orthodox gatekeepers of wisdom. But there’s one “big” issue that I guess I have changed my mind: **I used to view all utility calculations on the scale of the individual, and accepted that all entities above or below the scale of the individual were useful only as a means toward individual well being.** I probably wouldn’t defend this position anymore, though I think it has a logical coherency and may still be viable in some places and times. I’m not a “communitarian” or anything like that, rather, I have an impulse to just disavow these sorts of formal constructions of how best to attain and maintain human happiness in a time and space invariant sense.

@@ -11,7 +11,7 @@ Source: [here](https://www.gnxp.com/WordPress/2006/11/10/diversity/).
 
 I was talking to a friend of mine who is a postdoc @ M.I.T., and he said the following:
 
-> …if you want to see diversity, come to MIT. There’s people from all > over the world….
+> …if you want to see diversity, come to MIT. There’s people from all over the world….
 
 Of course, it’s not the *right kind* of diversity. Diversity which emerges out of merit is deemed less worthy than the mystical communion with that ineffable concept of Diversity which contemporary Americans adhere to just as medieval Christians held to the Trinity: you never consider questioning it, but no one truly understands what it is.
 

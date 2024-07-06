@@ -11,13 +11,13 @@ And a Merry Christmas to you!
 
 Steinn Sigurðsson has an [has an amusing post](http://scienceblogs.com/catdynamics/2006/12/the_benefits_of_multiculturali.php) up about his multicultural Christmas. Here is the “American Infidel,” [Robert Ingersoll](https://www.infidels.org/library/historical/robert_ingersoll/agnostic_xmas.html), on Christmas (1892):
 
-> This is the festival of the sun-god, and as such let its observance be > universal.  
-> This is the great day of the first religion, the mother of all > religions — the worship of the sun.  
-> Sun worship is not only the first, but the most natural and most > reasonable of all. And not only the most natural and the most > reasonable, but by far the most poetic, the most beautiful.  
-> The sun is the god of benefits, of growth, of life, of warmth, of > happiness, of joy. The sun is the all-seeing, the all-pitying, the > all-loving.  
+> This is the festival of the sun-god, and as such let its observance be universal.  
+> This is the great day of the first religion, the mother of all religions — the worship of the sun.  
+> Sun worship is not only the first, but the most natural and most reasonable of all. And not only the most natural and the most reasonable, but by far the most poetic, the most beautiful.  
+> The sun is the god of benefits, of growth, of life, of warmth, of happiness, of joy. The sun is the all-seeing, the all-pitying, the all-loving.  
 > This bright God knew no hatred, no malice, never sought for revenge.  
-> All evil qualities were in the breast of the God of darkness, of > shadow, of night. And so I say again, this is the festival of Light. > This is the anniversary of the triumph of the Sun over the hosts of > Darkness.  
-> Let us all hope for the triumph of Light — of Right and Reason — for > the victory of Fact over Falsehood, of Science over Superstition.  
+> All evil qualities were in the breast of the God of darkness, of shadow, of night. And so I say again, this is the festival of Light. This is the anniversary of the triumph of the Sun over the hosts of Darkness.  
+> Let us all hope for the triumph of Light — of Right and Reason — for the victory of Fact over Falsehood, of Science over Superstition.  
 > And so hoping, let us celebrate the venerable festival of the Sun.
 
 When it comes to Christmas I’m a Post-Modernist, the “reason for the season” is a matter of social debate and interpersonal discourse. To be pithy about it Christmas is universal pagan wine poured into a particular Christian chalice. I choose not to reject the drink no matter the vessel of its deliverance to our modern age.

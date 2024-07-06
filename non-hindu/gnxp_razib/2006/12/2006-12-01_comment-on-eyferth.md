@@ -11,7 +11,7 @@ Comment on Eyferth
 
 [Ron Bailey covered the Flynn-Murray debate at Reason.](http://www.reason.com/news/show/116991.html) [An insightful comment](http://www.reason.com/blog/show/116992.html#604705) was left on the Reason blog:
 
-> Doesn’t the German study seem obviously flawed? GIs who knock up their > temporary girlfriend while stationed abroad are obviously not a random > sample. Indeed, they are heavily selected for a particular IQ range > (smart enough to get into the military, dumb enough to have an > unwanted child). All this study seems to show is that if you select > the parents to be roughly equal, the kids will be too. That’s not much > of an insight.
+> Doesn’t the German study seem obviously flawed? GIs who knock up their > temporary girlfriend while stationed abroad are obviously not a random > sample. Indeed, they are heavily selected for a particular IQ range > (smart enough to get into the military, dumb enough to have an unwanted child). All this study seems to show is that if you select the parents to be roughly equal, the kids will be too. That’s not much of an insight.
 
 Flynn seems to have reached the same underlying conclusion: “smart enough to get into the military, dumb enough to have an unwanted child”. But he applied this reasoning only to the Black GIs. I see no reason that if true it wouldn’t apply to both groups.
 

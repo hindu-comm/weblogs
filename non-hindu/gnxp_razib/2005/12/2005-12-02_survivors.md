@@ -11,7 +11,7 @@ Survivors
 
 This is cool. [Southern Hemisphere Springtails: Could They Have Survived Glaciation of Antarctica?](http://mbe.oxfordjournals.org/cgi/content/abstract/msj073v1):
 
-> …In contrast, the deep divergences found for the four endemic > Antarctic species indicate that they represent a continuous chain of > descent dating from the break-up of Gondwana to the present. We > suggest that the diversification of these springtail species (21-11 > MYA) in ice-free glacial refugia throughout the Trans-Antarctic > Mountains was caused by the glaciation of the Antarctic continent > during the middle to late Miocene.
+> …In contrast, the deep divergences found for the four endemic > Antarctic species indicate that they represent a continuous chain of > descent dating from the break-up of Gondwana to the present. We > suggest that the diversification of these springtail species (21-11 MYA) in ice-free glacial refugia throughout the Trans-Antarctic Mountains was caused by the glaciation of the Antarctic continent during the middle to late Miocene.
 
 ### Related Posts:
 

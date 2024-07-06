@@ -11,7 +11,7 @@ The important things in life
 
 In a comment a post below [Oran Kelly](https://adversecity.blogspot.com/) states:
 
-> The findings are interesting, but I don’t think the populace at large > is going to have to rethink their assumptions about life.
+> The findings are interesting, but I don’t think the populace at large is going to have to rethink their assumptions about life.
 
 Sometimes you need to be explicit, so here I will make clear what I believe is implicit in many of my posts because it is important in framing how I view people, and how I believe they think. For example, consider evolution. To some extent *Science Blogs* might be called *Evolution Blogs*, not only is there is a strong bias toward biology, but there is a strong bias toward discussing evolution and the Intelligent Design movement. Why is this? **Because it is a controversy which is in the public eye**. Does this mean evolution is important to people?  
 Perhaps. But, it is not important to people in the way that chemical engineering, or solid state physics or agronomics is. This is not to denigrate evolutionary science, I’ve already come clean and said I’d be sly in her service. Rather, I am pointing out that many fields of science are extremely important in a proximate sense to the human life, but, they do not warrant attention like evolutionary science. This reminds me of the fact that I was once chided by someone that in the end evolution wasn’t important, and they were far more concerned with public misconceptions about the laws of thermodynamics. To which I responded, “Well, I invite you to start up a weblog devoted to clearing up the confusions on the laws of thermodynamics!” This invitation was not taken up. In fact, I would bet that there is more discussion of the laws of thermodynamics in the context of biology than in relation to physics! I was irritated in part because the individual in question was an active participant in the message boards of a weblog devoted in large part to evolutionary science…surely if it was not a subject of great interest they could profitably spend their time elsewhere?  
@@ -30,7 +30,8 @@ So, evolutionary theory is important, at least as a topic of discussion…but it
 
 ### Related Posts:
 
-- [Friday Fluff - May 20th,
+- [Friday Fluff
+- May 20th,
   2011](https://www.gnxp.com/WordPress/2011/05/20/friday-fluff-may-20th-2011/) - [Notes on
   comments](https://www.gnxp.com/WordPress/2011/10/30/notes-on-comments/) - [Why Turkey should not be let into the
   EU](https://www.gnxp.com/WordPress/2006/08/11/why-turkey-should-not-be-let-into-the-eu/) - [How to get beyond bias in

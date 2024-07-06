@@ -49,7 +49,8 @@ Posted by dobeln at [08:21 PM](https://www.gnxp.com/MT2/archives/003619.html) []
 
 ### Related Posts:
 
-- [Strawman - The latest tactic in the Summers'
+- [Strawman
+- The latest tactic in the Summers'
   Affair](https://www.gnxp.com/WordPress/2005/02/16/strawman-the-latest-tactic-in-the-summers-affair/) - [Gender bias in
   publications?](https://www.gnxp.com/WordPress/2008/01/22/gender-bias-in-publications/) - [I'll See Your Gender Sensitivity and Raise You
   Some…](https://www.gnxp.com/WordPress/2005/03/10/i-ll-see-your-gender-sensitivity-and-raise-you-some-cultural-sensitivity/) - [Tales from the blank

@@ -11,7 +11,7 @@ Where all the boys and girls are the same
 
 [Pharyngula](http://pharyngula.org/index/weblog/comments/sexist_calvinism/):
 
-> Pinker is spinning the story. People weren’t irate because Summers > presented a tentative hypothesis, but because Summers, an > administrator with much clout in hiring and firing, presented a badly > formed hypothesis with no evidence to support it, that contradicted > what we know about the complexity of biology, and he misrepresented it > as the result of current, “cutting-edge research.” **This is exactly > what we see from creationists, too.** They will say that the idea that > the earth is only 6,000 years old is simply a legitimate scientific > hypothesis, supported by many top-notch researchers, and we’re > violating the spirit of free inquiry by rejecting it.
+> Pinker is spinning the story. People weren’t irate because Summers > presented a tentative hypothesis, but because Summers, an > administrator with much clout in hiring and firing, presented a badly > formed hypothesis with no evidence to support it, that contradicted > what we know about the complexity of biology, and he misrepresented it > as the result of current, “cutting-edge research.” **This is exactly > what we see from creationists, too.** They will say that the idea that the earth is only 6,000 years old is simply a legitimate scientific hypothesis, supported by many top-notch researchers, and we’re violating the spirit of free inquiry by rejecting it.
 
 Neurological differenes correlated with sex::Earth 6,000 years old  
 Steven Pinker::Scientists who support Young Earth Creationism

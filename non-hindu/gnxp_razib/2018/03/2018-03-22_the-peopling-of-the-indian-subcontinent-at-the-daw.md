@@ -13,7 +13,7 @@ A few people have been pointing me to a new paper, [A Bayesian phylogenetic stud
 
 Recently I’ve been going back to old posts of mine on South Asian population genetics because no matter how much some people drag their feet on this question, **we’re pretty close to knowing how South Asians came to be**. Here’s what I said in [December of 2010](https://www.gnxp.com/WordPress/2010/12/17/south-asians-too-are-sons-of-the-farmers/):
 
-> Who were the Indo-Iranians? I lean toward the proposition that they do > derive from the Andronovo culture of the Eurasian steppe. This would > date the entrance and expansion of Indo-Aryans in northern India > 3-4,000 years ago. I also contend that the dominant element of > ancestry among modern South Asians is not Indo-Aryan. Rather, it is an > ancient stabilized hybrid of pre-agricultural societies in the Indus > valley and Neolithic farmers who originated from what is today western > Iran and eastern Anatolia. Therefore, I posit that the “Aryanization” > of the Indian subcontinent is properly modeled as the same processes > which led to the emergence of an Anatolian and Rumelian Turkish > identity; a small elite population which forces an identity shift > among the majority.
+> Who were the Indo-Iranians? I lean toward the proposition that they do > derive from the Andronovo culture of the Eurasian steppe. This would > date the entrance and expansion of Indo-Aryans in northern India > 3-4,000 years ago. I also contend that the dominant element of > ancestry among modern South Asians is not Indo-Aryan. Rather, it is an > ancient stabilized hybrid of pre-agricultural societies in the Indus > valley and Neolithic farmers who originated from what is today western > Iran and eastern Anatolia. Therefore, I posit that the “Aryanization” > of the Indian subcontinent is properly modeled as the same processes which led to the emergence of an Anatolian and Rumelian Turkish identity; a small elite population which forces an identity shift among the majority.
 
 Where was I wrong? Where was I right?
 
@@ -33,7 +33,8 @@ Additionally, because the Dravidians were not primordial, but expanding only som
 
 ### Related Posts:
 
-- [2,000 years of Yayoi - Japanese are
+- [2,000 years of Yayoi
+- Japanese are
   gaikokujin!](https://www.gnxp.com/WordPress/2011/05/04/2000-years-of-yayoi-japanese-are-gaikokujin/) - [Genetics' random
   truths](https://www.gnxp.com/WordPress/2012/05/27/genetics-random-truths/) - [The politics of Indian
   science](https://www.gnxp.com/WordPress/2009/09/27/the-politics-of-indian-science/) - [Language(s), then and

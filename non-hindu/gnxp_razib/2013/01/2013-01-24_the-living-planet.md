@@ -13,7 +13,8 @@ I realized that my [post on David Attenborough](http://blogs.discovermagazine.co
 
 ### Related Posts:
 
-- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/) - [Small
+- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/)
+- [Small
   planet!](https://www.gnxp.com/WordPress/2007/04/25/small-planet/) - [Straight up, let's get
   real](https://www.gnxp.com/WordPress/2006/08/16/straight-up-lets-get-real/) - [They're not a
   gym](https://www.gnxp.com/WordPress/2014/12/22/theyre-not-a-gym/) - [Living Neandertals & another idea about the

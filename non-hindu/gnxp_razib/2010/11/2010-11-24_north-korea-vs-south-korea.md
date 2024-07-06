@@ -13,7 +13,9 @@ There isn’t a lot of good data coming out of North Korea, but I thought the fo
 
 ### Related Posts:
 
-- [The cult of Korea](https://www.gnxp.com/WordPress/2010/11/23/7938/) - [Communist Creationism - "Black Mountain Grape
+- [The cult of Korea](https://www.gnxp.com/WordPress/2010/11/23/7938/)
+- [Communist Creationism
+- "Black Mountain Grape
   Hominids"](https://www.gnxp.com/WordPress/2007/06/06/communist-creationism-black-mountain-grape-hominids/) - [Religious variation in South Korea by
   region](https://www.gnxp.com/WordPress/2016/04/19/religious-variation-in-south-korea-by-region/) - [Evolutionary game theory and international
   relations](https://www.gnxp.com/WordPress/2017/04/17/evolutionary-game-theory-and-international-relations/) - [Conservative atheists not rare in South

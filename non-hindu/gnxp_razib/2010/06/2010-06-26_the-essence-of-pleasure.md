@@ -13,7 +13,8 @@ I highly [recommend this discussion](http://bloggingheads.tv/diavlogs/29090) bet
 
 ### Related Posts:
 
-- [Circumcision - HIV vs.
+- [Circumcision
+- HIV vs.
   pleasure?](https://www.gnxp.com/WordPress/2007/06/15/circumcision-hiv-vs-pleasure/) - [Open Thread - October 9th,
   2010](https://www.gnxp.com/WordPress/2010/10/09/open-thread-october-9th-2010/) - [Authenticity and the Fermi
   paradox](https://www.gnxp.com/WordPress/2010/07/05/authenticity-and-the-fermi-paradox/) - [Foreskin doesn't add

@@ -11,10 +11,10 @@ Amy Bishop & oxidation
 
 From *The Boston Globe*, [Ambition fueled a smoldering rage](http://www.boston.com/news/local/massachusetts/articles/2010/02/21/ambition_fueled_a_smoldering_rage?mode=PF):
 
-> A friendship of sorts was kindled, based largely on a mutual interest > in science. Over coffee and lunch, they would discuss Bishop’s > research and McCann’s work in biotechnology.  
+> A friendship of sorts was kindled, based largely on a mutual interest in science. Over coffee and lunch, they would discuss Bishop’s research and McCann’s work in biotechnology.  
 > Bishop never spoke of her husband or growing family.  
-> During one meeting, Bishop listened patiently to McCann for a time > before suggesting they switch topics.  
-> “She said, ‘**That’s very nice, Isabel, but can we talk about > oxidation?**‘ ” she recalled, with a chuckle. “That one moment in time > encapsulated who Amy was. She just couldn’t connect with people.”
+> During one meeting, Bishop listened patiently to McCann for a time before suggesting they switch topics.  
+> “She said, ‘**That’s very nice, Isabel, but can we talk about oxidation?**‘ ” she recalled, with a chuckle. “That one moment in time encapsulated who Amy was. She just couldn’t connect with people.”
 
 I would elaborate on the emphasized part above, but I’ll leave it to readers as to why this sort of behavior is informative….
 

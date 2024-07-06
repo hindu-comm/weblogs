@@ -18,7 +18,7 @@ So in this vein today *Forbes* publishes a piece titled [How The Human Face Migh
 
 As far as the text of the piece **it reminds me of the incoherence of mediocre space opera.** On the one hand humans have access to all sorts of advanced genetic engineering, and yet they value being human-looking due to a mysterious implicit [Orange Catholic Bible](https://en.wikipedia.org/wiki/Orange_Catholic_Bible#Teachings). Actually taking the inferences seriously is even more humorous:
 
-> Eyes will meanwhile get larger, as attempts to colonize Earth’s solar > system and beyond see people living in the dimmer environments of > colonies further away from the Sun than Earth. Similarly, skin will > become more pigmented to lessen the damage from harmful UV radiation > outside of the Earth’s protective ozone.
+> Eyes will meanwhile get larger, as attempts to colonize Earth’s solar > system and beyond see people living in the dimmer environments of colonies further away from the Sun than Earth. Similarly, skin will become more pigmented to lessen the damage from harmful UV radiation outside of the Earth’s protective ozone.
 
 Does anyone believe that future Titanians will deal with the distance from the sun simply via enlarging their eyes? Even today we have infrared goggles, so one presumes that more modular technologies which one might discard and rotate between are going to be more important. Similarly, the nature of solar radiation is such that one will need more than darker skin. Of course there is likely going to be terraforming, but in that case humans could probably create their own artificial ozone layers as well. For more entertainment read the whole thing.
 

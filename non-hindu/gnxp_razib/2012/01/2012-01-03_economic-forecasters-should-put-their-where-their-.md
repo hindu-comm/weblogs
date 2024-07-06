@@ -11,7 +11,7 @@ Economic forecasters should put their $ where their mouth is
 
 [Happy Days Are Here Again! Don’t believe the naysayers: An economic recovery is right around the corner.](http://www.slate.com/articles/business/moneybox/2011/12/economic_recovery_why_good_things_are_about_to_start_happening_again_.html):
 
-> Economic forecasting is a mug’s game. There are simply too many > unknowable factors that affect “the economy” for anyone to make > accurate predictions. The Fukushima earthquake and nuclear disaster, > for instance, had a noticeably negative macroeconomic impact around > the world, and nobody knows what lurks inside the hearts of central > bankers. **Plus, if I did possess the secrets to the future, I’d be > making a fortune as a speculator, not telling you about it.**
+> Economic forecasting is a mug’s game. There are simply too many > unknowable factors that affect “the economy” for anyone to make > accurate predictions. The Fukushima earthquake and nuclear disaster, > for instance, had a noticeably negative macroeconomic impact around the world, and nobody knows what lurks inside the hearts of central bankers. **Plus, if I did possess the secrets to the future, I’d be making a fortune as a speculator, not telling you about it.**
 
 There are plenty of financial types who have funds where investment is contingent upon expectation of macroeconomic conditions. You know what they think because you know how they invest, and they’ll tell you what they think as well. What’s the point of journalists and academics even offering predictions if they don’t have “skin the game”? You can basically just say anything to be contrary, perhaps like in a publication such as *Slate*.
 

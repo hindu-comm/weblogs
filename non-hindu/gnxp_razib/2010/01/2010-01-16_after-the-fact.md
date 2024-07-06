@@ -11,9 +11,9 @@ After the fact
 
 [Daniel Larison](http://www.amconmag.com/larison/2010/01/15/religion-and-social-solidarity/) has a post up where he criticizes a [David Brooks column](http://www.nytimes.com/2010/01/15/opinion/15brooks.html?ref=opinion). Here’s what Larison observes (Brooks’ quote within):
 
-> David Brooks is right that culture and habits matter, but this one > line rang false: >
-> > There is the influence of the voodoo religion, which spreads the > > message that life is capricious and planning futile. >
-> Of course, it seems odd to count the first part of this statement > against practitioners of voodoo at the present time, since a natural > disaster is one of the most obvious ways in which we see the > capriciousness of life on display, but more important it seems to me > that Brooks’ description simply gets voodoo wrong. He is describing > these beliefs as if they were fatalistic, when practitioners of voodoo > believe that they can use their rites to influence things and be > empowered.
+> David Brooks is right that culture and habits matter, but this one line rang false: >
+> > There is the influence of the voodoo religion, which spreads the message that life is capricious and planning futile. >
+> Of course, it seems odd to count the first part of this statement > against practitioners of voodoo at the present time, since a natural > disaster is one of the most obvious ways in which we see the > capriciousness of life on display, but more important it seems to me > that Brooks’ description simply gets voodoo wrong. He is describing these beliefs as if they were fatalistic, when practitioners of voodoo believe that they can use their rites to influence things and be empowered.
 
 There is of course a strong tendency to look at the religion a society adheres to and compare that to the society itself. Then one simply maps a set of traits from the religion to the society to establish a causal relationship. Most of the relationships abduced in this manner are often very plausible at first blush. But their track record is weak.
 

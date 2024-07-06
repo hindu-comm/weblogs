@@ -17,7 +17,8 @@ Something to consider.
 
 ### Related Posts:
 
-- [Ask GNXP - personal genome
+- [Ask GNXP
+- personal genome
   sequence](https://www.gnxp.com/WordPress/2006/07/25/ask-gnxp-personal-genome-sequence/) - [Tasmanian Tiger mtDNA
   sequenced?](https://www.gnxp.com/WordPress/2009/01/12/tasmanian-tiger-mtdna-sequenced/) - [243 full human genomes sequenced per
   second](https://www.gnxp.com/WordPress/2011/09/24/243-full-human-genomes-sequenced-per-second/) - [Sequencing everyone in the Faroe

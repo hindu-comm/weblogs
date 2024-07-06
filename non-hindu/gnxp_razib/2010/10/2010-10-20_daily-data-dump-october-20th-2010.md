@@ -22,7 +22,8 @@ Daily Data Dump – October 20th, 2010
 
 ### Related Posts:
 
-- [Open Thread - October 9th,
+- [Open Thread
+- October 9th,
   2010](https://www.gnxp.com/WordPress/2010/10/09/open-thread-october-9th-2010/) - [Friday Fluff - October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [DonorsChoose
   2011](https://www.gnxp.com/WordPress/2011/10/08/donorschoose-2011/) - [Gene Expression

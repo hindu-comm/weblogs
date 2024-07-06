@@ -11,7 +11,7 @@ Is this profiting on stupidity bad?
 
 [The Man Who Made Too Much](http://www.portfolio.com/executives/features/2009/01/07/John-Paulson-Profits-in-Downturn):
 
-> Hedge fund manager John Paulson has profited more than anyone else > from the financial crisis. His \$3.7 billion payday in 2007 broke > every record, and **he made it all by betting against homeowners, > shareholders, and the rest of us. Now he’s paying the price.**
+> Hedge fund manager John Paulson has profited more than anyone else from the financial crisis. His \$3.7 billion payday in 2007 broke every record, and **he made it all by betting against homeowners, shareholders, and the rest of us. Now he’s paying the price.**
 
 There’s a lot of talk about how this is equivalent to currency speculation, but is it? I mean morally.
 

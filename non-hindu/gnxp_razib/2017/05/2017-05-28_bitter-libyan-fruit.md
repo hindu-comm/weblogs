@@ -17,8 +17,8 @@ In [Across The Chasm Of Incommensurability](https://www.gnxp.com/WordPress/2017/
 
 On Twitter I said the following:
 
-> We should talk more about downstream consequence of Libya > intervention. Skeptics were right >
-> — Razib Khan (@razibkhan) [May 27, > 2017](https://twitter.com/razibkhan/status/868510943268950016)
+> We should talk more about downstream consequence of Libya intervention. Skeptics were right >
+> — Razib Khan (@razibkhan) [May 27, 2017](https://twitter.com/razibkhan/status/868510943268950016)
 
 People immediately thought I was alluding to the [Manchester bomber](https://www.nytimes.com/2017/05/27/world/europe/manchester-bombing-salman-abedi-ramadan-abedi.html). Actually I wasn’t. I was thinking about the [Copts killed in Egypt](https://www.theguardian.com/world/2017/may/27/egypt-hits-libyan-terror-camps-again-after-attack-kills-29-copts) (including children) by ISIS-affiliated militants with basis in Libya.
 

@@ -13,7 +13,8 @@ My [review of](http://www.science-spirit.org/newdirections.php?article_id=672) [
 
 ### Related Posts:
 
-- [Book review - The Gecko's Foot: Bio-inspiration:
+- [Book review
+- The Gecko's Foot: Bio-inspiration:
   Engineering…](https://www.gnxp.com/WordPress/2006/12/20/book-review-the-geckos-foot-bio-inspiration-engineering-new-materials-from-nature/) - [Book review in Science and
   Spirit](https://www.gnxp.com/WordPress/2006/02/22/book-review-in-science-and-spirit/) - [Book review in Science and
   Spirit](https://www.gnxp.com/WordPress/2006/02/22/book-review-in-science-and-spirit/) - [Neil Armstrong and the end of the Whig

@@ -29,9 +29,9 @@ Of course, not all single people are reading thick scholarly tomes with their ma
 
 Over the last generation American society [has changed a great deal](https://www.census.gov/library/stories/2017/08/more-adults-living-without-children.html) when it comes to children (or the frequency of):
 
-> Delaying marriage is related to delaying childbirth. The median age at > first marriage has gone from 20.6 to 27.4 for women and from 23.1 to > 29.6 for men since 1967. Age at first birth increased as well. Most > babies are born to a married couple, so it is natural to see shifts in > the percentage of adults who live with no children in particular age > groups. >
-> The largest change in the proportion of adults living without children > happened among those aged 18 to 35. In 1967, the majority of 18- to > 24-year-olds had children living with them (53.3 percent) but by 2016, > less than a third did (31.2 percent). >
-> The changes are even more dramatic among 25- to 34-year-olds. In 1967, > 23.9 percent in that age group did not have their own children under > their roof. By 2016, the share more than doubled to 61.5 percent.
+> Delaying marriage is related to delaying childbirth. The median age at > first marriage has gone from 20.6 to 27.4 for women and from 23.1 to > 29.6 for men since 1967. Age at first birth increased as well. Most babies are born to a married couple, so it is natural to see shifts in the percentage of adults who live with no children in particular age groups. >
+> The largest change in the proportion of adults living without children happened among those aged 18 to 35. In 1967, the majority of 18- to 24-year-olds had children living with them (53.3 percent) but by 2016, less than a third did (31.2 percent). >
+> The changes are even more dramatic among 25- to 34-year-olds. In 1967, 23.9 percent in that age group did not have their own children under their roof. By 2016, the share more than doubled to 61.5 percent.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/02/warriorsofthecloisters.jpeg?resize=182%2C277&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/02/warriorsofthecloisters.jpeg?resize=182%2C277&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B0091XC09G/geneexpressio-20?creativeASIN=B075JCSX3T&linkCode=w61&imprToken=c67T6UUnF.Nc.1OruBHjJg&slotNum=3)What are the implications for a much larger number of American adults in their prime years living in households without children?
 

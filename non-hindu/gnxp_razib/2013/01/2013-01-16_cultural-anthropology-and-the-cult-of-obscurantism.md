@@ -13,13 +13,13 @@ My attitude toward most cultural anthropologists is similar to Jerry Coyne’s s
 
 First, here’s a transcript of *This American Life’s [Doppelgänger](http://www.thisamericanlife.org/radio-archives/episode/484/doppelgangers?act=1#play):*
 
-> Eventually I found my way to this guy who I was really excited about, > someone who I thought might have my answer. He was– get this– an > anthropologist who lived and worked in China for 40 years where he > studied food, and specifically, meat. When I talked to him, though, he > made two points. >
-> Point one, my question about this happening in Asia was racist. **Even > just asking the question was racist because it plays on ignorant > stereotypes about other cultures eating things that we perceive as > weird.** >
-> Point two was that Ron Meek– my guy from the pig plant– Ron was > pulling my leg. And he was getting away with it because I was a > dumbass. He told me more than once that I should, quote, “find > something worthwhile to do with myself.” >
-> When we ended our conversation, he told me that he was refusing to > even dignify what I was doing by appearing on the radio or by letting > me use his name. >
-> OK. So to respond to his points one by one, first, am I racist against > Asians? Well, I’m half Chinese. My mom’s Chinese. Like anyone, I’ve > had the occasional issue with my mother. But this has not been one of > them. >
-> **We grew up eating chicken feet and fish eyes. And I think it’s > possible to raise the question of who eats what without being > racist.** >
-> His second point, though, that Ron Meek was pulling my leg– I mean, > the guy was still an expert on meat in China. So I called Ron back.
+> Eventually I found my way to this guy who I was really excited about, > someone who I thought might have my answer. He was– get this– an anthropologist who lived and worked in China for 40 years where he studied food, and specifically, meat. When I talked to him, though, he made two points. >
+> Point one, my question about this happening in Asia was racist. **Even just asking the question was racist because it plays on ignorant stereotypes about other cultures eating things that we perceive as weird.** >
+> Point two was that Ron Meek– my guy from the pig plant– Ron was pulling my leg. And he was getting away with it because I was a dumbass. He told me more than once that I should, quote, “find something worthwhile to do with myself.” >
+> When we ended our conversation, he told me that he was refusing to even dignify what I was doing by appearing on the radio or by letting me use his name. >
+> OK. So to respond to his points one by one, first, am I racist against Asians? Well, I’m half Chinese. My mom’s Chinese. Like anyone, I’ve had the occasional issue with my mother. But this has not been one of them. >
+> **We grew up eating chicken feet and fish eyes. And I think it’s possible to raise the question of who eats what without being racist.** >
+> His second point, though, that Ron Meek was pulling my leg– I mean, the guy was still an expert on meat in China. So I called Ron back.
 
 On cultural anthropologists and Jared Diamond:  
 

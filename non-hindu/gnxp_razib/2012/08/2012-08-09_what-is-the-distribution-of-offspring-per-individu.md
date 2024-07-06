@@ -11,7 +11,7 @@ What is the distribution of offspring per individual?
 
 A commenter [below notes](http://blogs.discovermagazine.com/gnxp/2012/08/why-arent-we-all-tall/comment-page-1/#comment-148980):
 
-> Also, in modern society, doesn’t just about everyone reproduce, such > that not only is any particular advantage competing against other > countervailing pressures as you note, but also that the “less fit” > genomes are not removed from the overall population, but rather are > added back to the mix? In other words, the less-preferred short males > don’t die and have zero kids, they also get married and their genes > get thrown back into the pot.
+> Also, in modern society, doesn’t just about everyone reproduce, such > that not only is any particular advantage competing against other > countervailing pressures as you note, but also that the “less fit” > genomes are not removed from the overall population, but rather are added back to the mix? In other words, the less-preferred short males don’t die and have zero kids, they also get married and their genes get thrown back into the pot.
 
 First, let’s not get caught in the assumption that **for genes to be disfavored one has to have zero fitness in individuals carrying those genes.** If, for example, in a situation of demographic expansion you had individuals who had eight children vs. those who had one child, there would be selection for the traits which were passed by those with eight children in relation to those who had one child. But, **it did make me realize I wasn’t intuitively aware of the distribution of number of offspring in the population.** I assumed that the median was around two, but that’s about it.
 

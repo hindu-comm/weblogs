@@ -11,7 +11,7 @@ The neuroscience prosopagnosia
 
 A few years ago I blogged about [prosopagnosia](https://www.google.com/cse?cx=017254414699180528062:uyrcvn__yd0&q=prosopagnosia+site:http://scienceblogs.com/gnxp/&sa=Search), “face blindness.” *Nature Neuroscience* now has a new paper finding some correlates with brain architecture, [Reduced structural connectivity in ventral visual cortex in congenital prosopagnosia](http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.2224.html):
 
-> Using diffusion tensor imaging and tractography, we found that a > disruption in structural connectivity in ventral occipito-temporal > cortex may be the neurobiological basis for the lifelong impairment in > face recognition that is experienced by individuals who suffer from > congenital prosopagnosia. Our findings suggest that white-matter > fibers in ventral occipito-temporal cortex support the integrated > function of a distributed cortical network that subserves normal face > processing.
+> Using diffusion tensor imaging and tractography, we found that a > disruption in structural connectivity in ventral occipito-temporal > cortex may be the neurobiological basis for the lifelong impairment in > face recognition that is experienced by individuals who suffer from > congenital prosopagnosia. Our findings suggest that white-matter fibers in ventral occipito-temporal cortex support the integrated function of a distributed cortical network that subserves normal face processing.
 
   
 ![nn.2224-F2.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/nn.2224-F2.jpg?resize=500%2C371)![nn.2224-F2.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/nn.2224-F2.jpg?resize=500%2C371)

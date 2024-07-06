@@ -25,7 +25,9 @@ If you haven’t read [Who We Are and How We Got Here: Ancient DNA and the New S
 
 ### Related Posts:
 
-- [Open Thread - 03/08/2021 - Gene
+- [Open Thread
+- 03/08/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/03/08/open-thread-03-08-2021-gene-expression/) - [Gene Expression Book Club - it's off to the
   races!](https://www.gnxp.com/WordPress/2020/10/08/gene-expression-book-club-its-off/) - [Week 1, Gene Expression book
   club](https://www.gnxp.com/WordPress/2020/10/10/week-1-gene-expression-book-club/) - [Week 4-7, Gene Expression book club, Autumn in the

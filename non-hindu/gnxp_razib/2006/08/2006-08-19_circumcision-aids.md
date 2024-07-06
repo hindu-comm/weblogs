@@ -11,7 +11,8 @@ Circumcision & AIDS
 
 William Saletan [has a roundup](http://www.slate.com/id/2148034/) and [commentary](http://www.slate.com/id/2148034/) on the ruckus surrounding circumcision and HIV transmission. There are two issues here,
 
-1.  The health & public policy 2.  The cultural angle
+1.  The health & public policy
+2.  The cultural angle
 
 The think the evidence is pretty clear from individual studies and cross-cultural comparisons: **all things being equal, circumcision cuts down on the rate of HIV transmission** (especially from female-to-male). On the other hand, there are the important cultural issues that are often not mooted with clarity, especially in the United States. You see, the USA is one of the few nations where adult circumcision occurs for a primarily medical, and not cultural/religious, rationale. In the late 19th to mid-20th century there was a medical “fad” which offered circumcision as a “cure” for a variety of ailments, from masturbation to insanity. During World War II American doctors found that circumcised men were less likely to get penile infections. Today, circumcision is normative, if less so than 20 years ago, within the United States. In the rest of the English speaking world it disappeared after World War II.
 

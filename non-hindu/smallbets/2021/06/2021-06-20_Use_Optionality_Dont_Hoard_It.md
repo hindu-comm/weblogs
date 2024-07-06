@@ -103,7 +103,7 @@ Thanks for reading Small Bets Newsletter! Subscribe for free to receive new post
 
 **🔸** Mark Manson talks about the different types of people who are into self-improvement. “Coach People” get addicted to the process of self-improvement and lose connection to *why they are actually doing it*.
 
-> But what the Coach People don’t get is that the whole point is to > eventually stop. It’s to leave. Because unlike chess or basketball, > there’s no world championship for anger management. Nobody is going to > give you a trophy for mindfulness. No one gives a shit if you got > control of your anxiety yesterday or not.
+> But what the Coach People don’t get is that the whole point is to > eventually stop. It’s to leave. Because unlike chess or basketball, there’s no world championship for anger management. Nobody is going to give you a trophy for mindfulness. No one gives a shit if you got control of your anxiety yesterday or not.
 
 Just like Coach People, modern workers lose perspective and start chasing prizes that they may not actually care about.
 
@@ -123,17 +123,23 @@ Just like Coach People, modern workers lose perspective and start chasing prizes
 
 All of these are all 100% free for all members of the [Small Bets community](https://smallbets.co/):
 
-- May 9 - [Sahil Lavingia](https://twitter.com/shl) - **State of the
+- May 9
+- [Sahil Lavingia](https://twitter.com/shl)
+- **State of the
   Creator Economy**
 
-- May 16 - [Michael Sklar](https://twitter.com/michaelsklar) - **Minimum
+- May 16
+- [Michael Sklar](https://twitter.com/michaelsklar)
+- **Minimum
   Viable Marketing**
 
-- May 22 - [Chris Wong](https://twitter.com/chr_iswong) & [Louie
+- May 22
+- [Chris Wong](https://twitter.com/chr_iswong) & [Louie
   Bacaj](https://twitter.com/LBacaj) - **Getting Started and Succeeding
   with Newsletters**
 
-- May 29 - [Chris Wong](https://twitter.com/chr_iswong) & [Louie
+- May 29
+- [Chris Wong](https://twitter.com/chr_iswong) & [Louie
   Bacaj](https://twitter.com/LBacaj) - **Cohort 1: The Newsletter
   Launchpad Cohort Course**
 

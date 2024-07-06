@@ -11,7 +11,7 @@ The best & the brightest capturing their value-add
 
 In the interminable debate on Wall Street compensation [Ryan Avent](http://www.economist.com/blogs/freeexchange/2009/10/wall_streets_tin_ear.cfm) makes an important point:
 
-> Officials in Washington scrutinising the pay packages of TARP > recipients are primarily focused on the incentive effects of those pay > structures–whether financial pay packages are inducing financial > employees to take excessive risks. But the bigger incentive problem > may be–almost certainly is–the drain of talent from other fields, into > finance. If there were more evidence that this drain was producing > significant net benefits for the economy, than there would be less > cause to worry. **To an increasing number of people, it looks as > though the financial sector is *recruiting the nation’s best brains* > and putting them to work endangering the global economy.**
+> Officials in Washington scrutinising the pay packages of TARP > recipients are primarily focused on the incentive effects of those pay > structures–whether financial pay packages are inducing financial > employees to take excessive risks. But the bigger incentive problem > may be–almost certainly is–the drain of talent from other fields, into > finance. If there were more evidence that this drain was producing > significant net benefits for the economy, than there would be less cause to worry. **To an increasing number of people, it looks as though the financial sector is *recruiting the nation’s best brains* and putting them to work endangering the global economy.**
 
 Let’s table whether financial engineers are really endangering the global economy.
 

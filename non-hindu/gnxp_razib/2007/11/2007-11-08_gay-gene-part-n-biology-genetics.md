@@ -11,10 +11,10 @@ Source: [here](https://www.gnxp.com/WordPress/2007/11/08/gay-gene-part-n-biology
 
 [Genetics Has A Role In Determining Sexual Orientation In Men, Further Evidence](http://www.sciencedaily.com/releases/2007/11/071107170741.htm):
 
-> In other research, Witelson and research associate Debra Kigar, had > found that left-handers have a larger region of the posterior corpus > callosum — the thick band of nerve fibres connecting the two > hemispheres of the brain — than right handers.  
-> This raised the hypothesis for the current study — whether the anatomy > of the brain of the sub-group of right-handed homosexual men is > similar to that of left-handers.  
-> **They found that the posterior part of the corpus callosum is larger > in homosexual than heterosexual men.**  
-> The size of the corpus callosum is largely inherited suggesting a > genetic factor in sexual orientation, said Witelson “Our results do > not mean that heredity is destiny but they do indicate that > environment is not the only player in the field,” she said.
+> In other research, Witelson and research associate Debra Kigar, had found that left-handers have a larger region of the posterior corpus callosum — the thick band of nerve fibres connecting the two hemispheres of the brain — than right handers.  
+> This raised the hypothesis for the current study — whether the anatomy of the brain of the sub-group of right-handed homosexual men is similar to that of left-handers.  
+> **They found that the posterior part of the corpus callosum is larger in homosexual than heterosexual men.**  
+> The size of the corpus callosum is largely inherited suggesting a genetic factor in sexual orientation, said Witelson “Our results do not mean that heredity is destiny but they do indicate that environment is not the only player in the field,” she said.
 
   
 The size of the corpus callosum may very well be argely inherited in the general population, but one should be cautious about extrapolating the heritability to an aytpical sample such as this. Genes which result in the normal human variation in the corpus callosum size may still have bearing on the trait variance among homosexual males. In fact, genetic variation on the loci responsible for the range in the normal population may also explain *within group* variation among homosexuals, who might be scaled differently because of the effect of another variable.  

@@ -23,7 +23,7 @@ In order to make her case against this service Jill bends logical reasoning into
 
 -Decides on a narrative and then bends the facts and logic to support her desired thesis. Consider the following excerpt:
 
-> They’re drug addicts, which severely compromises their abilities to > reason and make healthy decisions.
+> They’re drug addicts, which severely compromises their abilities to reason and make healthy decisions.
 
 Here she lays the groundwork for allowing others to make reproductive choices for women, but expect her to flip-out if some pro-life advocate used her reasoning to withdraw reproductive choice from pregnant women. So long as the narrative supports her ideological position then logic or consistency is immaterial.
 
@@ -35,16 +35,16 @@ Here she lays the groundwork for allowing others to make reproductive choices fo
 
 -Quote Lynn Paltrow as one of my feminist heroes for she disputes the notion that there are such things as crack babies, for
 
-> The harm that drugs cause during pregnancy is impossible to measure or > single out from other factors (poverty, malnutrition, stress, > inadequate pre-natal care and so on). . . . Other symptoms of drug > dependence – such as craving’ and compulsion’ – cannot be detected in > babies.
+> The harm that drugs cause during pregnancy is impossible to measure or > single out from other factors (poverty, malnutrition, stress, inadequate pre-natal care and so on). . . . Other symptoms of drug dependence – such as craving’ and compulsion’ – cannot be detected in babies.
 
 [Never mind](https://en.wikipedia.org/wiki/Crack_baby) that:
 
-> the fact that most of these children appear normal should not be > overinterpreted as indicating that there is no cause for concern. > Using sophisticated technologies, scientists are now finding that > exposure to cocaine during fetal development may lead to subtle, yet > significant, later deficits in some children, including deficits in > some aspects of cognitive performance, information-processing, and > attention to tasks-abilities that are important for success in > school.”
+> the fact that most of these children appear normal should not be > overinterpreted as indicating that there is no cause for concern. > Using sophisticated technologies, scientists are now finding that > exposure to cocaine during fetal development may lead to subtle, yet > significant, later deficits in some children, including deficits in some aspects of cognitive performance, information-processing, and attention to tasks-abilities that are important for success in school.”
 
 To cap off her essay, Jill invokes her Leftist-Racist bona fides by quoting from Steve Sailer’s interview of Barbara Harris:
 
-> **Harris**: One of the women who came through our program had 14 > babies. She doesn’t know who the fathers are, and that’s usually the > case. A lot of times they don’t even know what race the kids are. How > sad is that? >
-> **Jill**: You mean these women might not know if they’re giving birth > to a darkie? How *tragic*.
+> **Harris**: One of the women who came through our program had 14 babies. She doesn’t know who the fathers are, and that’s usually the case. A lot of times they don’t even know what race the kids are. How sad is that? >
+> **Jill**: You mean these women might not know if they’re giving birth to a darkie? How *tragic*.
 
 The lesson here is not to expect logic or rhetorical rigor from a feminist intent on posturing.
 

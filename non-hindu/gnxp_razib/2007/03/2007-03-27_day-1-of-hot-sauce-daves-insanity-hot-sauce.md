@@ -13,7 +13,8 @@ Day 1 of hot sauce – Dave’s Insanity Hot Sauce
 
 ### Related Posts:
 
-- [Day 3 of hot sauce - Hottest Fuckin'
+- [Day 3 of hot sauce
+- Hottest Fuckin'
   Sauce](https://www.gnxp.com/WordPress/2007/03/29/day-3-of-hot-sauce-hottest-fuckin-sauce/) - [Day 4 of hot sauce - You Can't Handle this Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/30/day-4-of-hot-sauce-you-cant-handle-this-hot-sauce/) - [The spice, it burns (a
   bit)](https://www.gnxp.com/WordPress/2013/04/11/the-spice-it-burns-a-bit/) - [Day 2 of hot sauce - Ass in

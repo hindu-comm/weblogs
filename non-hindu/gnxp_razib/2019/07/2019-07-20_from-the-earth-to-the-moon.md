@@ -21,7 +21,7 @@ But the men who stepped on the moon, I suspect, will also be known as names. It 
 
 As a subscriber to *The New York Times* I decided to go look at some of the articles from July 1969. I was surprised to find this: [SURVEY FINDS PUBLIC BACKS MOON LANDING](https://www.nytimes.com/1969/07/15/archives/survey-finds-public-backs-moon-landing.html?searchResultPosition=4):
 
-> With the Apollo 11 moon mission to start tomorrow, the American people > now favor landing a man on the moon by 51 to 41 per cent, according to > a new poll by Louis Harris published yesterday in The New York Post.
+> With the Apollo 11 moon mission to start tomorrow, the American people now favor landing a man on the moon by 51 to 41 per cent, according to a new poll by Louis Harris published yesterday in The New York Post.
 
 Support was much more equivocal than I would have guessed. The public was quite aware of how expensive it all was.
 
@@ -29,7 +29,8 @@ My own suspicion is that humans will go back to the moon. But I think it will be
 
 ### Related Posts:
 
-- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/) - [The moon is not such a harsh
+- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/)
+- [The moon is not such a harsh
   mistress](https://www.gnxp.com/WordPress/2009/11/13/the-moon-is-not-such-a-harsh-mistress/) - [Space, the forgotten
   frontier?](https://www.gnxp.com/WordPress/2008/12/30/space-the-forgotten-frontier/) - [Brighter than Isaac
   Newton?](https://www.gnxp.com/WordPress/2006/11/30/brighter-than-isaac-newton/) - [One lucky

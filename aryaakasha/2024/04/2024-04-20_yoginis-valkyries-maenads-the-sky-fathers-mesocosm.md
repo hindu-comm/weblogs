@@ -19,8 +19,8 @@ Very cool. Originally posted by Manasataramgini, who had captioned the image:
 
 <div class="embed-twitter">
 
-> The shaiva shrine of kukaDeshvara showing the niches with the yoginI-s > in rudra's retinue <https://t.co/WM2Ky7rPoU> > [pic.twitter.com/JvBnfrKLoM](https://t.co/JvBnfrKLoM) >
-> — manasataramgini (@blog_supplement) [January 30, > 2024](https://twitter.com/blog_supplement/status/1752177832258626011?ref_src=twsrc%5Etfw)
+> The shaiva shrine of kukaDeshvara showing the niches with the yoginI-s in rudra's retinue <https://t.co/WM2Ky7rPoU> [pic.twitter.com/JvBnfrKLoM](https://t.co/JvBnfrKLoM) >
+> — manasataramgini (@blog_supplement) [January 30, 2024](https://twitter.com/blog_supplement/status/1752177832258626011?ref_src=twsrc%5Etfw)
 
 </div>
 
@@ -48,8 +48,8 @@ To return to Manasataramgini – he had earlier spoken of the place of worship i
 
 <div class="embed-twitter">
 
-> When intact, & under saiddhAntika admin, the shrine known as > kukaDeshvara in Mh state would have been a little gem when viewed from > the massif facing it to the north. The retinue of rudra is comprised > of the mAtR^ikA-s & the 64 yoginI-s as seen other seuna yAdava shaiva > shrines [pic.twitter.com/YxsvgRDMo6](https://t.co/YxsvgRDMo6) >
-> — manasataramgini (@blog_supplement) [April 12, > 2022](https://twitter.com/blog_supplement/status/1513678988924882956?ref_src=twsrc%5Etfw)
+> When intact, & under saiddhAntika admin, the shrine known as > kukaDeshvara in Mh state would have been a little gem when viewed from the massif facing it to the north. The retinue of rudra is comprised of the mAtR^ikA-s & the 64 yoginI-s as seen other seuna yAdava shaiva shrines [pic.twitter.com/YxsvgRDMo6](https://t.co/YxsvgRDMo6) >
+> — manasataramgini (@blog_supplement) [April 12, 2022](https://twitter.com/blog_supplement/status/1513678988924882956?ref_src=twsrc%5Etfw)
 
 </div>
 

@@ -59,26 +59,26 @@ Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for fre
 
 Recently, I looked closely at Narasimhan's supplement again. He called this bridge population formed through mixing of 100% Central Steppe MLBA with 100% Indus as "ANI" or Ancestral North Indian.
 
-> *We found that we could jointly model all individuals on the Steppe > Cline as a mixture of two sources, albeit different from the two > sources in the earlier cline. One end is consistent with a point along > the Indus Periphery Cline. The other end is consistent with a mixture > of ~41% Central_Steppe_MLBA ancestry and ~59% from a subgroup of the > Indus Periphery Cline with relatively high Iranian farmer–related > ancestry.*
+> *We found that we could jointly model all individuals on the Steppe > Cline as a mixture of two sources, albeit different from the two > sources in the earlier cline. One end is consistent with a point along > the Indus Periphery Cline. The other end is consistent with a mixture of ~41% Central_Steppe_MLBA ancestry and ~59% from a subgroup of the Indus Periphery Cline with relatively high Iranian farmer–related ancestry.*
 
-> *However, the Kalash are confidently estimated to have non-negligible > AHG-related ancestry (4±1%), and thus while it is possible that they > had the same mixture of ancestries as the ANI, it is also possible > that the ANI was an unsampled population that existed in the past that > was the true source of the Steppe pastoralist-related ancestry in the > Modern Indian Cline and that had even less AHG-related ancestry*
+> *However, the Kalash are confidently estimated to have non-negligible > AHG-related ancestry (4±1%), and thus while it is possible that they > had the same mixture of ancestries as the ANI, it is also possible that the ANI was an unsampled population that existed in the past that was the true source of the Steppe pastoralist-related ancestry in the Modern Indian Cline and that had even less AHG-related ancestry*
 
 So, according to Narasimhan et al, the Steppe ancestry in the Steppe cline is maximized at 41% (that's why he says the Kalash are 70% ANI in his 2018 paper). If the Kalash are 70% ANI with 30% Steppe_MLBA ancestry, then the ANI had approximately 40% Steppe_MLBA ancestry. When did this admixture happen approximately?
 
-> *The published estimate of admixture in the Kalash is 110 ± 12 > generations (55), suggesting a post-IVC date of formation of the ANI*
+> *The published estimate of admixture in the Kalash is 110 ± 12 generations (55), suggesting a post-IVC date of formation of the ANI*
 
 110 ± 12 generations gives us a time range of 1466 BCE - 906 BCE for the admixture in the Kalash and hence one estimate of the formation of the ANI. However, what about the 100+ SPGT samples? When did admixture happen in them?
 
-> *Using this approach, we infer that the Steppe Pastoralist-related > admixture in SPGT occurred 26 ± 3 generations before the average > sampling time of our SPGT individuals (919 BCE, range: 1263 - 808 > BCE), corresponding to a 95% confidence interval of 1815 - 1479 BCE*
+> *Using this approach, we infer that the Steppe Pastoralist-related admixture in SPGT occurred 26 ± 3 generations before the average sampling time of our SPGT individuals (919 BCE, range: 1263 - 808 BCE), corresponding to a 95% confidence interval of 1815 - 1479 BCE*
 
 This would mean Steppe ancestry had definitely entered the Indian subcontinent by 1500 BCE. Narasimhan suggests the dates from the SPGT individuals are more reliable than the hypothetical ANI ones obtained from the Kalash.
 
-> *This is similar to, but more precise than, the dates we obtain for > ANI ancestry in Kalash in our study (Table S 5) or reported in earlier > work*
+> *This is similar to, but more precise than, the dates we obtain for ANI ancestry in Kalash in our study (Table S 5) or reported in earlier work*
 
 Of course, a good confirmation that Steppe ancestry existed in subcontinentals by the 16th century BCE is an outlier individual found in Bustan, Uzbekistan at an otherwise post-BMAC site. This site belongs to the latest period of the [Sappali Culture](http://www.tilla-bulak.de/E_Sapalli.html). Most of the individuals clustered with the main BMAC Gonur site, but there were some outliers. One such outlier was labelled Bustan_BA_o2. Here is the profile of the individual.
 
-> *Bustan_BA_o2 (n=1): This individual has additional ancestry related > to the hunter-gatherers of South Asia. While the radiocarbon date of > this individual places it to 700 years prior to the Swat Proto > Historic Grave complex, the genetic ancestry appears to lie along a > cline established by these individuals. We assign this individual the > Bustan_BA_o2 analysis label.* >
-> *• UZ-BST-015, Site 4, Grave 4, 57-27 (I11520): Date of 1613-1509 > calBCE (3280±20 BP, PSUAMS-4605). Genetically male.*
+> *Bustan_BA_o2 (n=1): This individual has additional ancestry related > to the hunter-gatherers of South Asia. While the radiocarbon date of > this individual places it to 700 years prior to the Swat Proto Historic Grave complex, the genetic ancestry appears to lie along a cline established by these individuals. We assign this individual the Bustan_BA_o2 analysis label.* >
+> *• UZ-BST-015, Site 4, Grave 4, 57-27 (I11520): Date of 1613-1509 calBCE (3280±20 BP, PSUAMS-4605). Genetically male.*
 
 Let us run this sample on both a PCA and then do a qpAdm/G25 of him. Sure enough, this man from 16th century BCE Uzbekistan lies in the North-West Indian and Ancient South Asia cluster.
 
@@ -112,8 +112,8 @@ Two scenarios come up. This individual likely was either a Harappan migrant in a
 
 Now, the most interesting part is that one outlier exists in the Loebanr Cemetery that has close to the theoretical maximum 42% Central_Steppe_MLBA ancestry. It’s a female sample so we get no Y-DNA but the mtDNA was T1a1a which is from the Steppes. Here’s the grave and sample description.
 
-> *SPGT_o: Swat Protohistoric Grave Type outlier (n=1). This individual > is a mild genetic outlier from the SPGT cluster in PCA, and hence we > give them a separate analysis label.* >
-> *• Grave 140, single burial, 547 (I12138): Context date of 1000-800 > BCE. Genetically female. Single burial with individual resting > (flexed) on the left side. The assemblage includes 20 vessels and > miniature vessels, beads of semi-precious stones, an iron pin and a > spindle whorl (see pages 207-208 of ref. (180)). The chronology of the > pottery is associated to the middle/late phase of the Swat > Protohistoric Graves assemblages.*
+> *SPGT_o: Swat Protohistoric Grave Type outlier (n=1). This individual is a mild genetic outlier from the SPGT cluster in PCA, and hence we give them a separate analysis label.* >
+> *• Grave 140, single burial, 547 (I12138): Context date of 1000-800 > BCE. Genetically female. Single burial with individual resting > (flexed) on the left side. The assemblage includes 20 vessels and > miniature vessels, beads of semi-precious stones, an iron pin and a spindle whorl (see pages 207-208 of ref. (180)). The chronology of the pottery is associated to the middle/late phase of the Swat Protohistoric Graves assemblages.*
 
 Let us first see it’s position on a PCA. On the G25 West Eurasian PCA, Loebanr_o is clustered inbetween the Rors of India and Tajiks of Tajikistan. This makes sense, considering both these groups have Steppe_MLBA ancestry in the 40% range.
 

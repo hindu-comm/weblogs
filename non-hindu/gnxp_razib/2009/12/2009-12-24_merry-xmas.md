@@ -13,7 +13,8 @@ Merry Xmas
 
 ### Related Posts:
 
-- [Merry Xmas](https://www.gnxp.com/WordPress/2009/12/24/merry-xmas/) - [Merry
+- [Merry Xmas](https://www.gnxp.com/WordPress/2009/12/24/merry-xmas/)
+- [Merry
   Christmas!](https://www.gnxp.com/WordPress/2014/12/25/merry-christmas-2/) - [Merry
   Christmas!](https://www.gnxp.com/WordPress/2015/12/25/merry-christmas-3/) - [Believe the
   hype](https://www.gnxp.com/WordPress/2006/12/25/believe-the-hype/) - [Merry Christmas! (for
@@ -28,7 +29,8 @@ Merry Xmas
 
 ### Related Posts:
 
-- [Merry Xmas](https://www.gnxp.com/WordPress/2009/12/24/merry-xmas/) - [Merry
+- [Merry Xmas](https://www.gnxp.com/WordPress/2009/12/24/merry-xmas/)
+- [Merry
   Christmas!](https://www.gnxp.com/WordPress/2014/12/25/merry-christmas-2/) - [Merry
   Christmas!](https://www.gnxp.com/WordPress/2015/12/25/merry-christmas-3/) - [Believe the
   hype](https://www.gnxp.com/WordPress/2006/12/25/believe-the-hype/) - [Merry Christmas! (for

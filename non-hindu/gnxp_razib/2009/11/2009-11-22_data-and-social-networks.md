@@ -19,7 +19,8 @@ So that’s why I want to get county-by-county data sets.
 
 ### Related Posts:
 
-- [Then & now](https://www.gnxp.com/WordPress/2008/12/14/then-now/) - [Quantifying the great
+- [Then & now](https://www.gnxp.com/WordPress/2008/12/14/then-now/)
+- [Quantifying the great
   flip](https://www.gnxp.com/WordPress/2012/08/30/quantifying-the-great-flip/) - [Non-Black voting Democrat in 2008 presidential
   election](https://www.gnxp.com/WordPress/2009/08/29/non-black-voting-democrat-in-2008-presidential-election/) - [Are you
   "Driftless"?](https://www.gnxp.com/WordPress/2012/11/25/are-you-driftless/) - [Huckabee & Romney & identity

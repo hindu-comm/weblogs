@@ -13,7 +13,8 @@ Speaking of fertility, check this out….
 
 ### Related Posts:
 
-- [Living Neandertals - visual "evidence"
+- [Living Neandertals
+- visual "evidence"
   (?)](https://www.gnxp.com/WordPress/2006/11/09/living-neandertals-visual-evidence/) - [Minor note on "the
   hack"](https://www.gnxp.com/WordPress/2012/02/17/minor-note-on-the-hack/) - [How "Predator" should have
   ended](https://www.gnxp.com/WordPress/2010/06/19/how-predator-should-have-ended/) - [Mahmoud, "Iran So

@@ -11,8 +11,8 @@ Moral sentiments and Material Interests
 
   
 
-> Not by Genes Alone, Peter Richerson and Robert Boyd, eds., Chicago, > 2005.  
-> Moral sentiments and Material Interests, Herbert Gintis, Samuel > Bowles, Robert Boyd, and Ernst Fehr, eds., MIT, 2005.
+> Not by Genes Alone, Peter Richerson and Robert Boyd, eds., Chicago, 2005.  
+> Moral sentiments and Material Interests, Herbert Gintis, Samuel Bowles, Robert Boyd, and Ernst Fehr, eds., MIT, 2005.
 
 Moral sentiments and Material Interests is, from my point of view, an enormous advance on all the orthodox economics I’ve ever read. My primary complaint is “What took so long?” For decades now economics has been spreading disinformation, and it’s about time that they started looking at reality. (The ev psych ideas found in the Gintis book are more fully developed in Not by Genes Alone. I should note that both books include a lot of technical argument which I haven’t even touched upon. What I’ve written here is only a summary of the conclusions, written from the point of view of a non-biologist and a non-economist).
 
@@ -39,9 +39,9 @@ Anyway, after about fifty years, economics seems to be returning to the real wor
 (Slightly revised Sept 29)
 
 > Update: >
-> My post got a bit of attention from [Donald > Luskin](http://www.poorandstupid.com/2006_10_01_chronArchive.asp#115981562775442237): >
-> > If the nature of selfishness is more complicated that economics > > typically assumes, if it is indeed tied up in considerations of > > family, friends, nation, species — whatever — then let the science > > of economics try to adopt itself to those complexities. >
-> I have trouble thinking of this as a useful addition to the theory of > rationality. It reminds me of the Chinese philosopher Chuang Tzu’s > humorous mysticism: “Yes, I’m selfish! But I’m selfish for the whole > universe, not just for me!”
+> My post got a bit of attention from [Donald Luskin](http://www.poorandstupid.com/2006_10_01_chronArchive.asp#115981562775442237): >
+> > If the nature of selfishness is more complicated that economics > > typically assumes, if it is indeed tied up in considerations of > family, friends, nation, species — whatever — then let the science of economics try to adopt itself to those complexities. >
+> I have trouble thinking of this as a useful addition to the theory of rationality. It reminds me of the Chinese philosopher Chuang Tzu’s humorous mysticism: “Yes, I’m selfish! But I’m selfish for the whole universe, not just for me!”
 
 I also have a new piece up at [http://www.idiocentrism.com/lazear.htm](http://www.idiocentrism.com/lazear.htm%20)
 

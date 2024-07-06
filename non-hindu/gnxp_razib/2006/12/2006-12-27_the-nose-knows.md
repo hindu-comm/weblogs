@@ -15,7 +15,7 @@ The last link is to a paper that typed 51 olfactory receptor genes in 189 people
 
 However, see [this paper](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0020146) for an argument that humans actually have a pretty good sense of smell, and some possible explanations for why the loss of olfactory receptors doesn’t mean the loss of the sense:
 
-> \[M\]uch of the olfactory system can be removed with no effect on > smell perception. The olfactory receptor genes map topographically > onto the first relay station, a sheet of modules called glomeruli in > the olfactory bulb. Up to 80% of the glomerular layer in the rat can > be removed without significant effect on olfactory detection and > discrimination. If the remaining 20% of the glomeruli-and the > olfactory receptor genes they represent-can subserve the functions of > 1,100 genes, **it implies that 350 genes in the human are more than > enough to smell as well as a mouse**.
+> \[M\]uch of the olfactory system can be removed with no effect on > smell perception. The olfactory receptor genes map topographically > onto the first relay station, a sheet of modules called glomeruli in > the olfactory bulb. Up to 80% of the glomerular layer in the rat can > be removed without significant effect on olfactory detection and > discrimination. If the remaining 20% of the glomeruli-and the olfactory receptor genes they represent-can subserve the functions of 1,100 genes, **it implies that 350 genes in the human are more than enough to smell as well as a mouse**.
 
 ### Related Posts:
 

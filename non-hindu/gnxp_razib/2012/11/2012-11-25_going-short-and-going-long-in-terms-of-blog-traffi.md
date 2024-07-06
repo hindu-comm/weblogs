@@ -11,15 +11,15 @@ Going short and going long in terms of blog traffic
 
 Arnold Kling [took a break from blogging](http://econlog.econlib.org/archives/2012/08/my_last_post.html), but is coming back. But under an explicit set of personal guidelines. [About This Blog](http://www.arnoldkling.com/blog/about-this-blog/):
 
-> I decided to go with my own blog, rather than return to EconLog, > because I want to have total control over the blog content. I want to > model a very particular style of discourse, as indicated by the tag > line “taking the most charitable view of those who disagree.” In June, > I wrote >
-> Suppose we look at writing on issues where people tend to hold strong > opinions that fit with their ideology. Such writing can  
+> I decided to go with my own blog, rather than return to EconLog, > because I want to have total control over the blog content. I want to model a very particular style of discourse, as indicated by the tag line “taking the most charitable view of those who disagree.” In June, I wrote >
+> Suppose we look at writing on issues where people tend to hold strong opinions that fit with their ideology. Such writing can  
 > *  
-> (a) attempt to open the minds of people on the opposite side as the > author  
+> (a) attempt to open the minds of people on the opposite side as the author  
 > (b) attempt to open minds of people on the same side as the author  
 > (c) attempt to close minds of people on the same side as the author  
 > *  
-> So, think about it. Wouldn’t you classify most op-eds and blog posts > as (c)? Isn’t that sort of pathetic? >
-> My goal is to avoid (c). **I will try to keep the posts here free of > put-downs, snark, cheap shots, straw-man arguments, and taking the > least charitable interpretation of what others say**. So, if what you > most enjoyed about my past blogging efforts were the put-downs, be > prepared for disappointment with this incarnation.
+> So, think about it. Wouldn’t you classify most op-eds and blog posts as (c)? Isn’t that sort of pathetic? >
+> My goal is to avoid (c). **I will try to keep the posts here free of > put-downs, snark, cheap shots, straw-man arguments, and taking the least charitable interpretation of what others say**. So, if what you most enjoyed about my past blogging efforts were the put-downs, be prepared for disappointment with this incarnation.
 
 I’ve been “around the block” for a long time in blog time. Around \~2002 and forward there was a naive initial moment when the fervor over the “War on Terror” resulted in some post-partisan good feeling, but that faded soon enough. Today the American Left and Right are rather insular when it comes to interaction and linking. Because most of the blogs I follow are science related, any political comments tend to be on the Left liberal end of the spectrum. To me the problem, if there is one, tends to be in the strawman/least charitable interpretation aspect that Kling mentions (aspects of raw and low style are easy to filter). As someone who is not liberal I find it curious when Left liberals fulminate against positions or motives which I don’t really even seen conservatives holding. It seems pointless over the long term, though it can result in greater in-group cohesion, and generate some psychic [utils](https://en.wikipedia.org/wiki/Utility). A converse element are conservative bloggers who rage against ‘secular liberals,’ and routinely false positive me as liberal because I’m secular (the reality is outside of the internet most political liberals are not secular in their religious orientation in any case!).
 

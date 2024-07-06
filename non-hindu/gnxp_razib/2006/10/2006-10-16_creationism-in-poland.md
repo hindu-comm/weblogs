@@ -11,7 +11,7 @@ Creationism in Poland
 
 [Polish MEP calls for ‘scholarly debate’ on evolution](http://www.polskieradio.pl/polonia/article.asp?tId=43301&j=2):
 
-> ‘I am a scientist, I am a geneticist, my specialty is population > genetics and I reject the theory of evolution on the basis of the > field of science I represent. I find that in many fields of science > there are scientists who reject the theory of evolution because in > their fields they also find evidence against the theory.’ says MEP > Maciej Giertych.
+> ‘I am a scientist, I am a geneticist, my specialty is population > genetics and I reject the theory of evolution on the basis of the > field of science I represent. I find that in many fields of science there are scientists who reject the theory of evolution because in their fields they also find evidence against the theory.’ says MEP Maciej Giertych.
 
 I won’t go through the blow-by-blow. Only two points:  
 1) It exhausts my creativity how one could reject evolution because of population genetics, seeing as how population genetics as a field emerged in large part as a **formalization** of Darwinian evolutionary theory assuming a Mendelian model of genetics. To me this is kind of like claiming that the calculus led one to the conclusion that Newtonian Mechanics was a false theory. It might not be logically false, but there is something really peculiar about it all.  

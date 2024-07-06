@@ -11,13 +11,13 @@ College is Still the Best Pay-off
 
 Recently Charles Murray has promoted the idea that [too many people](http://www.nytimes.com/2008/09/21/magazine/21wwln-Q4-t.html) are seeking 4 year degrees: **“Let’s stop this business of the B.A., this meaningless credential”**. Last year [he wrote](http://www.opinionjournal.com/extra/?id=110009535) in the Wall Street Journal:
 
-> If you want to do well \[in college\], you should have an IQ of 115 or > higher. Put another way, it makes sense for only about 15% of the > population, 25% if one stretches it, to get a college education. And > yet more than … 40% of all persons in their late teens are trying to > go to a four-year college–enough people to absorb everyone down > through an IQ of 104.
+> If you want to do well \[in college\], you should have an IQ of 115 or > higher. Put another way, it makes sense for only about 15% of the > population, 25% if one stretches it, to get a college education. And yet more than … 40% of all persons in their late teens are trying to go to a four-year college–enough people to absorb everyone down through an IQ of 104.
 
 Several months ago, the Inductivist [found this](https://inductivist.blogspot.com/2008/06/mean-iq-of-college-grads-dropped-9.html) to be a canny estimate: in the 1960s the average college graduate had an IQ very close to 115, and today the average college graduate has an IQ of 105.
 
 But what does this mean for the individual? Murray suggests that college debt, lack of relevant job training, and years of lost workforce wages and experience await those below the 85th percentile:
 
-> They are in college to improve their chances of making a good living … > and would do better in vocational training … two-year colleges … > \[are\] about right for learning many technical specialties, while > four years is unnecessarily long … Finding a good lawyer or physician > is easy. Finding a good carpenter, painter, electrician, plumber, > glazier, mason–the list goes on and on–is difficult, and it is a > seller’s market. Journeymen craftsmen routinely make incomes in the > top half of the income distribution while master craftsmen can make > six figures.
+> They are in college to improve their chances of making a good living … > and would do better in vocational training … two-year colleges … > \[are\] about right for learning many technical specialties, while > four years is unnecessarily long … Finding a good lawyer or physician > is easy. Finding a good carpenter, painter, electrician, plumber, > glazier, mason–the list goes on and on–is difficult, and it is a seller’s market. Journeymen craftsmen routinely make incomes in the top half of the income distribution while master craftsmen can make six figures.
 
 I find the thinking here plausible, and these seem like testable enough ideas. Luckily, all the relevant variables are included in the General Social Survey.
 

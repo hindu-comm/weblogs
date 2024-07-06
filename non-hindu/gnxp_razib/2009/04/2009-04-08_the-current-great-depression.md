@@ -12,8 +12,8 @@ The current Great Depression
 [A Tale of Two Depressions](http://www.voxeu.org/index.php?q=node/3421):
 
 > **Conclusion:**  
-> To summarise: the world is currently undergoing an economic shock > every bit as big as the Great Depression shock of 1929-30. Looking > just at the US leads one to overlook how alarming the current > situation is even in comparison with 1929-30.  
-> The good news, of course, is that the policy response is very > different. The question now is whether that policy response will work. > For the answer, stay tuned for our next column.
+> To summarise: the world is currently undergoing an economic shock every bit as big as the Great Depression shock of 1929-30. Looking just at the US leads one to overlook how alarming the current situation is even in comparison with 1929-30.  
+> The good news, of course, is that the policy response is very different. The question now is whether that policy response will work. For the answer, stay tuned for our next column.
 
 Click [through](http://www.voxeu.org/index.php?q=node/3421) for some real scary charts.
 

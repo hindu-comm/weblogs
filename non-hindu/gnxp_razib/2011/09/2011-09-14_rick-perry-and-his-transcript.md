@@ -17,7 +17,8 @@ This [piece in *The New York Times*](http://thecaucus.blogs.nytimes.com/2011/09/
 
 ### Related Posts:
 
-- [Rick Perry - a matter of
+- [Rick Perry
+- a matter of
   optics?](https://www.gnxp.com/WordPress/2011/11/11/rick-perry-a-matter-of-optics/) - [Rick Perry is not too
   smart](https://www.gnxp.com/WordPress/2011/08/06/rick-perry-is-not-too-smart/) - [Rick Warren & Barack
   Obama](https://www.gnxp.com/WordPress/2008/12/18/rick-warren-barack-obama/) - [Rick Warren & Barack

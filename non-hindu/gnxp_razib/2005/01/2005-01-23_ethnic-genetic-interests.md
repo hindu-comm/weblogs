@@ -62,7 +62,8 @@ Posted by David B at [02:42 AM](https://www.gnxp.com/MT2/archives/003501.html) [
 
 ### Related Posts:
 
-- [Ethnic Genetic Interests - Part
+- [Ethnic Genetic Interests
+- Part
   2](https://www.gnxp.com/WordPress/2005/01/24/ethnic-genetic-interests-part-2/) - [Frank Salter
   refresher](https://www.gnxp.com/WordPress/2005/04/14/frank-salter-refresher/) - [Ethnic Genetic Interests
   Revisited](https://www.gnxp.com/WordPress/2007/10/09/ethnic-genetic-interests-revisited/) - [Interracial Marriage: Salter's

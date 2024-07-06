@@ -11,12 +11,12 @@ The Fall of the House of Noel
 
 *Vanity Fair* has a [long profile](http://www.vanityfair.com/style/features/2009/04/noel200904?printable=true&currentPage=all) of Walter Noel’s clan up right now. Noel, if you don’t know, is the head of Fairfield Greenwich, which funneled billions into Bernie Madoff’s ponzi scheme. One of Noel’s daughters has this precious quote:
 
-> Lawyers for aggrieved clients are hell-bent on finding and seizing > whatever’s left of the Noels’ fortune. **“I’ve been poor before. I can > be poor again,”** Marisa said to a friend.
+> Lawyers for aggrieved clients are hell-bent on finding and seizing whatever’s left of the Noels’ fortune. **“I’ve been poor before. I can be poor again,”** Marisa said to a friend.
 
 This is what she is referring to:
 
-> As they grew up, her daughters helped her with it. The eldest > four–Corina, Lisina, Ariane, and Alix–went to public and private > schools. They spent summers at Monica’s parents’ home in Brazil and > skied in Klosters, Switzerland, in winter. Like their mother, they > spoke several languages; all were athletic and strikingly beautiful.  
-> In the early years the Noels were well off but not rich by Greenwich > standards. Only Marisa, now 31, the youngest daughter by 10 years, got > a fancy car–a BMW–to drive as a teenager. This was because by then > F.G.G. had brought Noel and Tucker unexpected riches. Quite suddenly, > in his 60s, Noel found he had the money for a truly lavish lifestyle > that included vacation houses in Palm Beach and Southampton and on the > Caribbean island of Mustique.
+> As they grew up, her daughters helped her with it. The eldest > four–Corina, Lisina, Ariane, and Alix–went to public and private schools. They spent summers at Monica’s parents’ home in Brazil and skied in Klosters, Switzerland, in winter. Like their mother, they spoke several languages; all were athletic and strikingly beautiful.  
+> In the early years the Noels were well off but not rich by Greenwich > standards. Only Marisa, now 31, the youngest daughter by 10 years, got > a fancy car–a BMW–to drive as a teenager. This was because by then > F.G.G. had brought Noel and Tucker unexpected riches. Quite suddenly, in his 60s, Noel found he had the money for a truly lavish lifestyle that included vacation houses in Palm Beach and Southampton and on the Caribbean island of Mustique.
 
 Of course, we shouldn’t be too hard on her. We Americans live in a country where poverty is associated with obesity!
 

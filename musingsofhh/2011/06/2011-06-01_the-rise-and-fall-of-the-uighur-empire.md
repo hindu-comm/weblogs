@@ -41,7 +41,13 @@ Advertisement
 
 **Tagged with:**
 
-- [altaic](https://musingsofhh.wordpress.com/tag/altaic/) - [central asia](https://musingsofhh.wordpress.com/tag/central-asia/) - [empire](https://musingsofhh.wordpress.com/tag/empire/) - [History](https://musingsofhh.wordpress.com/tag/history/) - [mongols](https://musingsofhh.wordpress.com/tag/mongols/) - [turk](https://musingsofhh.wordpress.com/tag/turk/) - [uighur](https://musingsofhh.wordpress.com/tag/uighur/)
+- [altaic](https://musingsofhh.wordpress.com/tag/altaic/)
+- [central asia](https://musingsofhh.wordpress.com/tag/central-asia/)
+- [empire](https://musingsofhh.wordpress.com/tag/empire/)
+- [History](https://musingsofhh.wordpress.com/tag/history/)
+- [mongols](https://musingsofhh.wordpress.com/tag/mongols/)
+- [turk](https://musingsofhh.wordpress.com/tag/turk/)
+- [uighur](https://musingsofhh.wordpress.com/tag/uighur/)
 
 **[The death of ChingizKha’Khan](https://musingsofhh.wordpress.com/2011/06/01/the-death-of-chingiz-kha%e2%80%99khan/)**
 

@@ -11,8 +11,8 @@ Another genome blogger….
 
 Reader “Diogenes,” with ADMIXTURE in hand, and *way more* knowledge of archaeology than I can comprehend, now has a blog. [Why am I starting a blog…](https://dioegenesartemis.blogspot.com/2011/03/why-am-i-starting-blog.html):
 
-> I named my blog Artemis since I believe the “Neolithic” which shaped > our world for the last 10,000 years is now ending. Demeter’s shackles > are broken. >
-> I’m starting my own Project playing with ADMIXTURE and other programs. > I’m not a scientist (even though I work in a field related to > biology), but I’ll try to substantiate my thoughts whenever possible.
+> I named my blog Artemis since I believe the “Neolithic” which shaped our world for the last 10,000 years is now ending. Demeter’s shackles are broken. >
+> I’m starting my own Project playing with ADMIXTURE and other programs. I’m not a scientist (even though I work in a field related to biology), but I’ll try to substantiate my thoughts whenever possible.
 
 His interest seems to be the Neolithic Revolution/Evolution in Europe.
 

@@ -11,9 +11,9 @@ The luck of the Irish
 
 Henry Louis Gates Jr. is looking for his [male Irish forebear](https://www.theroot.com/views/whos-your-irish-daddy?page=0,1) using genetics:
 
-> Well, it turns out that the men sharing that Ui Neill haplotype tended > to have certain surnames. If we use those surnames, we narrow the > number of possibilities in Allegany and Hampshire counties to 178 men > born between 1800 and 1830 bearing 22 surnames.  
-> What’s so exciting about this? Well, it turns out that the men in the > Gates family line have a particular mutation, a slight variation, in > our Ui Neill haplotype. And we inherited that slight mutation, a > spelling variant in that DNA signature, through one of those 178 guys. > If the father of Jane’s children, my Irish great-great grandfather, > has any other male descendants walking around on the planet, he will > have exactly the same y-DNA signature, with this particular variant, > as my father, brother and I do.  
-> And so, we are advertising for any male descendant of one of these 178 > men to contact us and take the DNA test. With a (wee) bit of luck, one > of the millions of unsolved genealogical mysteries facing African > Americans today can be solved.
+> Well, it turns out that the men sharing that Ui Neill haplotype tended to have certain surnames. If we use those surnames, we narrow the number of possibilities in Allegany and Hampshire counties to 178 men born between 1800 and 1830 bearing 22 surnames.  
+> What’s so exciting about this? Well, it turns out that the men in the > Gates family line have a particular mutation, a slight variation, in > our Ui Neill haplotype. And we inherited that slight mutation, a > spelling variant in that DNA signature, through one of those 178 guys. > If the father of Jane’s children, my Irish great-great grandfather, has any other male descendants walking around on the planet, he will have exactly the same y-DNA signature, with this particular variant, as my father, brother and I do.  
+> And so, we are advertising for any male descendant of one of these 178 men to contact us and take the DNA test. With a (wee) bit of luck, one of the millions of unsolved genealogical mysteries facing African Americans today can be solved.
 
 Descendants of slaves naturally have less of a paper trail than most people (Chinese clans often trace descent on the order of one thousand years, though some of this may be fictive). This is where even simple uniparental lineages can offer some psychic utility.
 

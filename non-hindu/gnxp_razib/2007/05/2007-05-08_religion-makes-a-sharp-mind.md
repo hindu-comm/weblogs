@@ -11,7 +11,7 @@ Religion makes a sharp mind!
 
 Most of you know that I am generally skeptical of first order functional explanations of religion (I am more open to second order explanations which posit religion as one of the manifold social glues which bind together communities and facilitate sociality). That being said, I did find this interesting, from *PLOS Biology*, [Mental Training Affects Distribution of Limited Brain Resources](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0050138):
 
-> …We found that three months of intensive meditation reduced > brain-resource allocation to the first target, enabling practitioners > to more often detect the second target with no compromise in their > ability to detect the first target. **These findings demonstrate that > meditative training can improve performance on a novel task that > requires the trained attentional abilities**.
+> …We found that three months of intensive meditation reduced > brain-resource allocation to the first target, enabling practitioners > to more often detect the second target with no compromise in their ability to detect the first target. **These findings demonstrate that meditative training can improve performance on a novel task that requires the trained attentional abilities**.
 
 Specifically we’re talking [Vipassana](https://en.wikipedia.org/wiki/Vipassana) (Buddhist) meditation. Of course, some of you will say that this is *philosophy* (or psychology), not religion, and that’s a fair enough response in this case. That being said, I do find it interesting that novel and useful mental techniques like this have been absorbed and perpetuated within the matrix of a religious social structure.
 

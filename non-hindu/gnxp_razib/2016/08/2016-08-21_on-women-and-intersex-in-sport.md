@@ -13,7 +13,7 @@ So I don’t really have strong opinions on the whole controversy over women’s
 
 With that in mind, [D. J. Grothe](https://twitter.com/DJGrothe) points me to this prescient interview from a few months back, [Hyperandrogenism and women vs women vs men in sport: A Q&A with Joanna Harper](http://sportsscientists.com/2016/05/hyperandrogenism-women-vs-women-vs-men-sport-qa-joanna-harper/). Joanna Harper is a transwoman who is (was?) also a competitive racer and a sports scientist. This portion is where the facts stand:
 
-> I would also like to relate a two-part epiphany that I had after my > transition. In 2005, nine months after starting HRT, I was running 12% > slower than I had run with male T levels; women run 10-12% slower than > men over a wide range of distances. In 2006 I met another trans woman > runner and the she had the same experience. I later discovered that, > if aging is factored in, this 10-12% loss of speed is standard among > trans women endurance athletes. The realization that one can take a > male distance runner, make that runner hormonally female, and wind up > with a female distance runner of the same relative capability was life > changing for me.
+> I would also like to relate a two-part epiphany that I had after my > transition. In 2005, nine months after starting HRT, I was running 12% > slower than I had run with male T levels; women run 10-12% slower than > men over a wide range of distances. In 2006 I met another trans woman > runner and the she had the same experience. I later discovered that, > if aging is factored in, this 10-12% loss of speed is standard among > trans women endurance athletes. The realization that one can take a male distance runner, make that runner hormonally female, and wind up with a female distance runner of the same relative capability was life changing for me.
 
 As they say, “read the whole thing.” It’s long, and detailed, and doesn’t offer easy answers. Ultimately the reality is that no “solution” is going to be fair to world-class athletes. But, it’s probably important to remind ourselves that it is also unfair to those of us without the genetics of world-class athletes, and we seem to be OK with that.
 
@@ -21,7 +21,8 @@ Compare and contrast with this piece from [Let Caster Run! We Should Celebrate S
 
 ### Related Posts:
 
-- [Sex & sport](https://www.gnxp.com/WordPress/2012/06/23/sex-sport/) - [↑testosterone ∝ ↑sexual interest
+- [Sex & sport](https://www.gnxp.com/WordPress/2012/06/23/sex-sport/)
+- [↑testosterone ∝ ↑sexual interest
   ∝…](https://www.gnxp.com/WordPress/2008/09/16/uarr-testosterone-prop-uarr-sexual-interest-prop-uarr-sex-typical-faces/) - [Men and women really don't differ in the generality
   on…](https://www.gnxp.com/WordPress/2020/09/21/me-and-women-really-dont-differ-in-the-generality-on-abortion/) - [Digit ratio predicts sport performance in female
   twins](https://www.gnxp.com/WordPress/2006/09/27/digit-ratio-predicts-sport-performance-in-female-twins/) - [The problem with the

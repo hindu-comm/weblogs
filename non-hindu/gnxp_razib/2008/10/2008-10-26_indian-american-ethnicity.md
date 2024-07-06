@@ -11,7 +11,7 @@ Indian American ethnicity
 
 There was a comment below on Indian American ethnicity in terms of proportion. By “ethnicity,” I mean the dominant language-based groups which serve as the organizing unit of many [Indian states](https://en.wikipedia.org/wiki/States_and_territories_of_India). The usual figures I see quoted are that 50% of Indian Americans are Gujarati, 25% Punjabi, with the balance a host of other groups (e.g., Bengalis, Tamils, Assamese, etc.). Digging around, I found [these data](http://www.migrationinformation.org/USfocus/display.cfm?id=687#10):
 
-> In 2006, 26.3 percent of Indian immigrants age 5 and older reported > speaking Hindi at home. Gujarathi (14.1 percent) was the next most > popular language, followed by English (10.1 percent), Panjabi (10.0 > percent), Telugu (9.7 percent), Tamil (6.7 percent), Malayalam (6.1 > percent), Urdu (3.4 percent), Marathi (3.1 percent), Bengali (2.2 > percent), and Kannada (1.7 percent).
+> In 2006, 26.3 percent of Indian immigrants age 5 and older reported > speaking Hindi at home. Gujarathi (14.1 percent) was the next most > popular language, followed by English (10.1 percent), Panjabi (10.0 percent), Telugu (9.7 percent), Tamil (6.7 percent), Malayalam (6.1 percent), Urdu (3.4 percent), Marathi (3.1 percent), Bengali (2.2 percent), and Kannada (1.7 percent).
 
   
 These data are from the United States Census’ [American Community Survey](http://www.census.gov/acs/www/index.html). Here are the results where I simply removed the English speakers from the sample:

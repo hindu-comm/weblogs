@@ -11,16 +11,17 @@ Source: [here](https://www.gnxp.com/WordPress/2008/05/11/harun-yahya-goes-to-jai
 
 Via [The Corner](http://corner.nationalreview.com/post/?q=ZmQzMmY3Mzc1MjkwZTZlM2EyMzZkNTQzN2NlZTljODk=), [Turkish Islamic author given 3-year jail sentence](http://www.reuters.com/article/artsNews/idUSL0992091620080509?sp=true):
 
-> Controversial Turkish Islamic author Adnan Oktar was sentenced to > three years in prison on Friday for creating an illegal organization > for personal gain, state-run Anatolian news agency said.  
+> Controversial Turkish Islamic author Adnan Oktar was sentenced to three years in prison on Friday for creating an illegal organization for personal gain, state-run Anatolian news agency said.  
 > …  
-> Oktar, born in 1956, is the driving force behind a richly funded > movement based in Turkey that champions creationism, the belief that > God literally created the world in six days as told in the Bible and > the Koran.  
-> Istanbul-based Oktar, who writes under the pen name Harun Yahya, has > created waves in the past few years by sending out thousands of > unsolicited texts advocating Islamic creationism to schools in several > European countries.
+> Oktar, born in 1956, is the driving force behind a richly funded movement based in Turkey that champions creationism, the belief that God literally created the world in six days as told in the Bible and the Koran.  
+> Istanbul-based Oktar, who writes under the pen name Harun Yahya, has created waves in the past few years by sending out thousands of unsolicited texts advocating Islamic creationism to schools in several European countries.
 
 (comments closed because of the inevitable influx of Yahyaites to this post)
 
 ### Related Posts:
 
-- [Harun Yahya - who is funding
+- [Harun Yahya
+- who is funding
   him?](https://www.gnxp.com/WordPress/2007/07/17/harun-yahya-who-is-funding-him/) - [The most secular Islamic country is
   Creationist](https://www.gnxp.com/WordPress/2009/10/22/the-most-secular-islamic-country-is-creationist/) - [Muslim Creationism: morons a
   publishin'](https://www.gnxp.com/WordPress/2007/07/17/muslim-creationism-morons-a-publishin/) - [Amongst the

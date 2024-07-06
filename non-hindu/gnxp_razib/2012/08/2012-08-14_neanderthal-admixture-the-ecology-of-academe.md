@@ -11,14 +11,14 @@ Neanderthal admixture & the ecology of academe
 
 Yesterday I pointed out that David Reich had a [moderately dismissive](http://blogs.nature.com/news/2012/08/neanderthal-sex-debate-highlights-benefits-of-pre-publication.html) attitude toward the [new paper](http://www.pnas.org/content/early/2012/08/14/1200567109.abstract) in *PNAS*, [Effect of ancient population structure on the degree of polymorphism shared between modern human populations and ancient hominins](http://www.pnas.org/content/early/2012/08/14/1200567109.abstract). Here’s what Reich said:
 
-> …But Reich believes that the discussion would have been different if > it had happened in the open. The PNAS paper questioning the > Neanderthal admixture addresses issues swirling around two years ago, > but not Reich and Slatkin’s latest work. “It’s been an issue for > several years. They were right to work on this,” says Reich. But now, > **“it’s kind of an *obsolete* paper,”** he says.
+> …But Reich believes that the discussion would have been different if > it had happened in the open. The PNAS paper questioning the > Neanderthal admixture addresses issues swirling around two years ago, but not Reich and Slatkin’s latest work. “It’s been an issue for several years. They were right to work on this,” says Reich. But now, **“it’s kind of an *obsolete* paper,”** he says.
 
 Here’s what [Nick Patterson](https://www.broadinstitute.org/blog/five-questions-nick-patterson), Reich’s colleague told me via email:
 
-> Ancient structure in Africa was considered when we wrote the Green et > al. paper, and we were aware that this could explain D-statistics. But > the hypothesis is no longer viable as the major explanation of > Neandertal genetics in Eurasia. This was discussed in the recent paper > of [Yang et al.](http://www.ncbi.nlm.nih.gov/pubmed/22513287) (MBE, > 2012). (Not referenced by the PNAS paper). >
-> A very simple argument, that convinces me, is that the **allelic > frequency** spectrum of Neandertal alleles in Eurasia falls off very > quickly. A bottleneck flattens out the spectrum, and it turns out that > the Neandertal gene flow has to be placed after the out of Africa > bottleneck or the spectrum is much too flat. >
-> The paper on the arXiv from the Reich lab (Sankararaman et al.) is > trying to do something much more subtle than this and date the flow. I > personally am no longer interested in explaining the introgression as > ancient structure. That ship has sailed. >
-> Of course the question of what was the genetic structure of Ancient > Africa is quite open, and remains very interesting.
+> Ancient structure in Africa was considered when we wrote the Green et > al. paper, and we were aware that this could explain D-statistics. But > the hypothesis is no longer viable as the major explanation of Neandertal genetics in Eurasia. This was discussed in the recent paper of [Yang et al.](http://www.ncbi.nlm.nih.gov/pubmed/22513287) (MBE, 2012). (Not referenced by the PNAS paper). >
+> A very simple argument, that convinces me, is that the **allelic > frequency** spectrum of Neandertal alleles in Eurasia falls off very quickly. A bottleneck flattens out the spectrum, and it turns out that the Neandertal gene flow has to be placed after the out of Africa bottleneck or the spectrum is much too flat. >
+> The paper on the arXiv from the Reich lab (Sankararaman et al.) is trying to do something much more subtle than this and date the flow. I personally am no longer interested in explaining the introgression as ancient structure. That ship has sailed. >
+> Of course the question of what was the genetic structure of Ancient Africa is quite open, and remains very interesting.
 
 If Nick’s explanation is a bit cryptic for you (he *was* a cryptographer!), figure 2 from the Yang et al. paper lays it out quite clearly:
 

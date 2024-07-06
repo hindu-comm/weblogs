@@ -11,7 +11,7 @@ Brown + Brown = Black & White
 
 ![biracials.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/biracials.jpg?resize=300%2C289)![biracials.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/biracials.jpg?resize=300%2C289)A commenter below sayeth:
 
-> I remember reading somewhere that a child can’t be darker than the > darker of his two parents and that in such instances the biological > father is not the putative father. I have no idea if that’s true or > not.
+> I remember reading somewhere that a child can’t be darker than the darker of his two parents and that in such instances the biological father is not the putative father. I have no idea if that’s true or not.
 
 This seems like a common sense assertion, but as I noted this is not really strictly correct in an apodictic sense. That is, just because you have a very dark skinned parent and a light skinned parent, it does not **necessarily** follow that the range of the offspring shall be bounded by the values of the parents. To some extent I can see how this makes sense; I believe it piggy-backs upon the blending intuitions about genetics which emerge out of innate folk biology, when in the case of complexion its discrete character is now well attested. But, it also bespeaks a specific empirical naivete, as anyone who is of South Asian or Brazilian background might attest to cases where offspring may express phenotypes outside of the ranges of both their parents. Consider height, one certainly knows cases where parents have offspring outside of the ranges of the heights of the parents! But the point I’m trying to make can be illustrated by concretely graphically.
 

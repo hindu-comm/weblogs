@@ -11,7 +11,7 @@ Political moderates & ideological agnosticism
 
 Joshua Zelinsky says regarding political moderates:
 
-> This is interesting. The stereotype is if anything the exact opposite > about political moderates. The stereotype is that they are the smart > people who can see the shades of gray and who aren’t subject to things > like belief overkill. This seems to show that if anything the opposite > is the case.
+> This is interesting. The stereotype is if anything the exact opposite > about political moderates. The stereotype is that they are the smart people who can see the shades of gray and who aren’t subject to things like belief overkill. This seems to show that if anything the opposite is the case.
 
 A few thoughts:
 

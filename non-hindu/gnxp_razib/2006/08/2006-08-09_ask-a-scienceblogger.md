@@ -11,7 +11,7 @@ Ask a ScienceBlogger
 
 This week:
 
-> What movie do you think does something admirable (though not > necessarily accurate) regarding science? Bonus points for answering > whether the chosen movie is any good generally….
+> What movie do you think does something admirable (though not necessarily accurate) regarding science? Bonus points for answering whether the chosen movie is any good generally….
 
 Fritz Lang’s 1927 film [Metropolis](https://en.wikipedia.org/wiki/Metropolis_%28film%29). Cinematically it is an early masterpiece, but, it also features a protagonist who is a robot. The term itself was invented in 1920, and the massive field of robotics which exists today was still but a seed in the imaginations of pulp science fiction writers. I admire the fact that this is case a where a science fiction film did anticipate a major trend in science & technology over the coming century, it was more than just a reflection of its times.¹ We still aren’t where we’d expected to be in regards to robotics today in relation to what futurists expected in the 1960s, but, I think it is clear that the field has a bright future.  
 1 – To see what I mean, watch *Forbidden Planet* and note the copious allusions to Freudian psychology.

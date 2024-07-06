@@ -53,11 +53,11 @@ I also find that science breeds traditional conservatism into its practitioners:
 
 So my tendency to resist the “hopium” of future energy technologies as our salvation is a reflection of this conservatism. Imagine that I issue the following statement:
 
-> “The near future introduces monumental resource challenges to which I > see no *obvious* solution. Unless we devote an unprecedented amount of > attention to this problem, we risk overshoot, collapse, and loss of > all the knowledge we’ve worked so hard to acquire.”
+> “The near future introduces monumental resource challenges to which I see no *obvious* solution. Unless we devote an unprecedented amount of attention to this problem, we risk overshoot, collapse, and loss of all the knowledge we’ve worked so hard to acquire.”
 
 To which someone counters with:
 
-> “This view is unjustified. We have plenty of viable options in > unconventional fossil fuels, thorium, solar, space resources, > ultimately fusion, and other ideas to boot. And let’s not forget the > human brain: an inexhaustible resource. We’ll always figure our way > out of a fix—once the price is right—and the future will be more > amazing than you can imagine. You’re only setting yourself up to be as > much a laughingstock as Malthus.”
+> “This view is unjustified. We have plenty of viable options in > unconventional fossil fuels, thorium, solar, space resources, > ultimately fusion, and other ideas to boot. And let’s not forget the > human brain: an inexhaustible resource. We’ll always figure our way out of a fix—once the price is right—and the future will be more amazing than you can imagine. You’re only setting yourself up to be as much a laughingstock as Malthus.”
 
 Okay. I am not at all unfamiliar with this reaction—frequently represented in Do the Math comments. First, I firmly believe that Malthus will ultimately be proven right that growth collides with finite resources so that growth must stop. His timing was off because he did not see fossil fuels coming, and I could likewise be accused of not seeing the next big wave of energy that will wash over us and “kick the ladder” of fossil fuels out from under us—a compelling notion, to be sure. But mathematical and thermodynamic arguments alone portend the end of growth in a finite system. Scientists will not disagree. The [very first Do the Math posts](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/ "Do the Math: Galactic Scale Energy") address this. Confined to Earth, we boil ourselves in a little over 400 years on a 2% energy growth trajectory.
 

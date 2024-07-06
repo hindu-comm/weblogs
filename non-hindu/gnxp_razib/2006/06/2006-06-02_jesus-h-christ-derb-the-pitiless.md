@@ -14,13 +14,14 @@ It is no secret that [John Derbyshire](http://olimu.com/) is a friend of mine. I
   
 With this, I point you to [A Frigid and Pitiless Dogma](http://www.newenglishreview.org/custpage.cfm?frm=3190&sec_id=3190), Derb’s review of Ramesh Ponnuru’s [Party of Death](https://www.amazon.com/exec/obidos/ASIN/1596980044/geneexpressio-20/002-6235532-7197621). Here is a sampler:
 
-> The philosophical passages strictly follow the Golden Rule of > religious apologetics, which is: The conclusion is known in advance, > and the task of the intellectual is to erect supporting arguments. It > would be an astounding thing, just from a statistical point of view, > if, after conducting a rigorous open-ended inquiry from philosophical > first principles, our author came to conclusions precisely congruent > with the dogmas of the church in which he himself is a communicant. > Yet that is the case, very nearly, with Party of Death. Remarkable! > What if, after all that intellectual work, all that propositional > algebra, all those elegant syllogisms, the author had come to the > conclusion that abortion was not such a bad thing after all? I suppose > he would have been plunged into severe psychic distress. Fortunately > there was never the slightest chance of this happening.
+> The philosophical passages strictly follow the Golden Rule of > religious apologetics, which is: The conclusion is known in advance, > and the task of the intellectual is to erect supporting arguments. It > would be an astounding thing, just from a statistical point of view, > if, after conducting a rigorous open-ended inquiry from philosophical > first principles, our author came to conclusions precisely congruent > with the dogmas of the church in which he himself is a communicant. > Yet that is the case, very nearly, with Party of Death. Remarkable! > What if, after all that intellectual work, all that propositional > algebra, all those elegant syllogisms, the author had come to the conclusion that abortion was not such a bad thing after all? I suppose he would have been plunged into severe psychic distress. Fortunately there was never the slightest chance of this happening.
 
 This isn’t a standard production from either Left or Right that will make anyone happy. Though the piece implies that Ramesh Ponnuru is in a cult and hints that it is he who has a necro-fixation it is not totally unsympathetic either.
 
 ### Related Posts:
 
-- [Derb & I](https://www.gnxp.com/WordPress/2006/02/02/derb-i/) - [Derb on
+- [Derb & I](https://www.gnxp.com/WordPress/2006/02/02/derb-i/)
+- [Derb on
   Darwin](https://www.gnxp.com/WordPress/2005/08/30/derb-on-darwin/) - [Derbyshire stirring some serious
   shit](https://www.gnxp.com/WordPress/2006/06/04/derbyshire-stirring-some-serious-shit/) - [Religion & Politics &
   Derb](https://www.gnxp.com/WordPress/2007/02/20/religion-politics-derb/) - [Behavior Genetics &

@@ -11,7 +11,8 @@ Tickle Partay
 
 ### Related Posts:
 
-- [Tickling](https://www.gnxp.com/WordPress/2010/03/12/tickling/) - [Daily Data
+- [Tickling](https://www.gnxp.com/WordPress/2010/03/12/tickling/)
+- [Daily Data
   Dump](https://www.gnxp.com/WordPress/2010/04/14/daily-data-dump-8/) - [Daily Data Dump
   (Thursday)](https://www.gnxp.com/WordPress/2010/05/06/daily-data-dump-thursday-2/)
 

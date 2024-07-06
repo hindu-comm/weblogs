@@ -47,7 +47,7 @@ Share
 
 The asidhārā-vrata literally translates to the "swordblade-vow" and for good reason. It represents a chastity custom of the ancient Arya in which the man taking the observance tempts himself sexually with his wife but abstains from either coitus or orgasm during coitus. It finds a detailed mention in the Niśvāsatattvasaṃhita and those interested can look it up. Therefore, it is verisimilar to walking on the edge of a sword. It forms a noted part of tantric coital ritual and this has been well-acknowledged by firaṅga indologists who specialize in tantra like Alexis Sanderson. It’s purpose can said to be cultivation of self-discipline via sensory restraint and transforming that into a spiritual gnosis (siddhi). P.V Kane hints that this practice was orignally a Brāhmaṇical ascetic vow with little room for coitus actually taking place. He says and I quote:
 
-> *One has to sleep on bare ground, to bathe outside the house, eat food > only in the night, to remain celibate even though sleeping in the > wife’s embrace, curb anger and be devoted to japa and homa to Hari. > Different rewards according to length of time, the greatest being that > after twelve years of this vrata the observer may secure the rulership > of the world and on death become one with Janārdana. VDR III.218.1–25 > quoted by Hemādri, Vrata section, II.825–7. The wordmeans the vrata is > as sharp or difficult as treading on the edge of a sword.*
+> *One has to sleep on bare ground, to bathe outside the house, eat food > only in the night, to remain celibate even though sleeping in the > wife’s embrace, curb anger and be devoted to japa and homa to Hari. > Different rewards according to length of time, the greatest being that > after twelve years of this vrata the observer may secure the rulership of the world and on death become one with Janārdana. VDR III.218.1–25 quoted by Hemādri, Vrata section, II.825–7. The wordmeans the vrata is as sharp or difficult as treading on the edge of a sword.*
 
 This condition of sleeping next to the wife while maintaining chastity might be seen as the less extreme version of what Gandhi did millenia later (sleeping naked next to women to practice self-restraint).   
   
@@ -62,9 +62,9 @@ It seems as if Dinakara has preserved an ancestral memory of the chastity vrata 
 
 It is this version of the vrata that seems to have a lot of cognates in Indo-European heroic poetry. First, we have the Norse tale of Sigurd maintaining ***three nights of chastity*** after his marriage to Brynhild in the Volsung Saga by placing the sword Gram between them on their marital bed. Upon being asked why he does this, Sigurd says the following:
 
-> *He said, “You have done many great deeds, but now remember your oath > that you would marry the man who rode over this flame.”  
+> *He said, “You have done many great deeds, but now remember your oath that you would marry the man who rode over this flame.”  
 >   
-> She knew that this was a true reply, and she realized the importance > of what he had said. She stood up and greeted him well, and he stayed > there for three nights, sharing one bed with her, though he took the > sword Gram and drew it from its sheath and placed it between them. She > asked why he did this, and he answered that it had been foretold that > this was how he would be married to his wife, or else he would die.*
+> She knew that this was a true reply, and she realized the importance > of what he had said. She stood up and greeted him well, and he stayed > there for three nights, sharing one bed with her, though he took the sword Gram and drew it from its sheath and placed it between them. She asked why he did this, and he answered that it had been foretold that this was how he would be married to his wife, or else he would die.*
 
 So Sigurd says that the three nights of chastity upheld by a sword in their bed is something he had been told to do, or else he would die. The cognate in the Volsung Saga is closely followed by the story of King Gorm the Old in the 12th century chronicle Gesta Danorum (“Deeds of the Danes”) of the christian monk Saxo Grammaticus. Gorm married the daughter of the Anglo-Saxon King Ethelred, Thyra by name. Thyra insists on ***three days of chastity*** before the marriage is consummated which Gorm honors but by placing a naked sword between the two on their marital bed. The entire exchange is narrated by Saxo as following:  
   
@@ -102,9 +102,9 @@ Now, we must draw our attention back to the “three-nights” which I had bolde
 
 > ApGrS (3.8.8-9)  
 > *  
-> 8. \[From that day\] through three nights they should both sleep on > the ground, they should refrain from having sex, and should avoid salt > and pungent food.  
+> 8. \[From that day\] through three nights they should both sleep on the ground, they should refrain from having sex, and should avoid salt and pungent food.  
 >   
-> 9. Between their sleeping-places a staff is interposed, which is > anointed with perfumes and wrapped round with a garment or a thread.  
+> 9. Between their sleeping-places a staff is interposed, which is anointed with perfumes and wrapped round with a garment or a thread.  
 >   
 > *
 

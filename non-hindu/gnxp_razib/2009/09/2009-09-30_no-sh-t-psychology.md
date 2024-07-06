@@ -11,7 +11,7 @@ No sh*t psychology
 
 [Women Prefer Taken Guys](http://www.futurepundit.com/archives/006584.html):
 
-> The most striking result was in the responses of single women. > **Offered a single man, 59 per cent were interested in pursuing a > relationship. But when he was attached, 90 per cent said they were up > for the chase.**
+> The most striking result was in the responses of single women. **Offered a single man, 59 per cent were interested in pursuing a relationship. But when he was attached, 90 per cent said they were up for the chase.**
 
 This is just a subset of the [wisdom of Seinfeld](https://www.gnxp.com/MT2/archives/002438.html).
 

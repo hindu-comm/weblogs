@@ -11,7 +11,7 @@ I don't smell it
 
 Over at [Genetics and Health](http://www.geneticsandhealth.com/2007/01/15/is-liz-missing-the-genes-for-the-sense-of-smell/) Hsien-Hsien Lei [tells the tale of a friend](http://www.geneticsandhealth.com/2007/01/15/is-liz-missing-the-genes-for-the-sense-of-smell/) who can’t smell:
 
-> The Anosmia Foundation says that approximately **two to five million > American adults** have disorders of taste and smell, which is a > serious problem because they’re not able to smell burning fires, > poisonous fumes, leaking gas, or spoiled food. Not being able to taste > or smell anything can lead to weight loss (especially in the elderly) > and even depression.
+> The Anosmia Foundation says that approximately **two to five million > American adults** have disorders of taste and smell, which is a > serious problem because they’re not able to smell burning fires, poisonous fumes, leaking gas, or spoiled food. Not being able to taste or smell anything can lead to weight loss (especially in the elderly) and even depression.
 
 Just to show you what a freak I am, I immediately thought that perhaps these individuals would be greats controls to check and see if [their partner’s MHC profiles](http://www.lse.co.uk/ShowStory.asp?story=YT1032872P&news_headline=genes_means_opposites_attract_in_loving_couples) don’t exhibit the same patterns we see in the smelling population. Meanwhile, Churchill [posts on olfactory genes](https://sandwalk.blogspot.com/2007/01/olfactory-receptor-genes.html).
 

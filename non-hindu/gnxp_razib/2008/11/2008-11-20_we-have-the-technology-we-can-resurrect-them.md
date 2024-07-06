@@ -11,8 +11,8 @@ We have the technology; we can resurrect them!
 
 ![Wooly_Mammoth-RBC.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Wooly_Mammoth-RBC.jpg?resize=150%2C194)![Wooly_Mammoth-RBC.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Wooly_Mammoth-RBC.jpg?resize=150%2C194)[Regenerating a Mammoth for \$10 Million](http://www.nytimes.com/2008/11/20/science/20mammoth.html?_r=1&oref=slogin&pagewanted=all):
 
-> If the genome of an extinct species can be reconstructed, biologists > can work out the exact DNA differences with the genome of its nearest > living relative. There are talks on how to modify the DNA in an > elephant’s egg so that after each round of changes it would > progressively resemble the DNA in a mammoth egg. The final-stage egg > could then be brought to term in an elephant mother, and mammoths > might once again roam the Siberian steppes.  
-> The same would be technically possible with Neanderthals, whose full > genome is expected to be recovered shortly, but there would be several > ethical issues in modifying modern human DNA to that of another human > species.
+> If the genome of an extinct species can be reconstructed, biologists > can work out the exact DNA differences with the genome of its nearest > living relative. There are talks on how to modify the DNA in an > elephant’s egg so that after each round of changes it would progressively resemble the DNA in a mammoth egg. The final-stage egg could then be brought to term in an elephant mother, and mammoths might once again roam the Siberian steppes.  
+> The same would be technically possible with Neanderthals, whose full genome is expected to be recovered shortly, but there would be several ethical issues in modifying modern human DNA to that of another human species.
 
 In the age of \$700 billion dollar bailouts, what’s \$10 million to bring back megafauna? By the way, a pygmy mammoth survived on Wrangel Island until [3,650](https://en.wikipedia.org/wiki/Mammoth#Extinction) years ago, as late as the end of the Egyptian Middle Kingdom
 

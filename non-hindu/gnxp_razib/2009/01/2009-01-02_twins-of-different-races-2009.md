@@ -11,12 +11,12 @@ Twins of different races, 2009
 
 ![article-1103391-02EC61C2000.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/article-1103391-02EC61C2000.jpg?resize=250%2C200)![article-1103391-02EC61C2000.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/article-1103391-02EC61C2000.jpg?resize=250%2C200)Every now and then British newspapers publish the story of twins born to an interracial couple who seem to resemble only one of the races of their parents. The irony being that siblings may appear to be of different populations. I’ve [commented on several of these stories](https://www.google.com/cse?cx=017254414699180528062:uyrcvn__yd0&q=black+white+twin+site:http://scienceblogs.com/gnxp/&sa=Search) before. Now we have another one to ring in the new year, [Mixed-race couple give birth to black and white twins – for the second time](http://www.dailymail.co.uk/femail/article-1103391/Mixed-race-couple-birth-black-white-twins--second-time.html):
 
-> Seven years after having one black twin and one white twin, the > 27-year-old mother has given birth to a second set of twins with > different coloured skin at odds of one in 500,000.  
-> When the couple’s first daughters arrived in 2001, they were > astonished to see that Lauren had her mother’s blue eyes and red hair, > while her twin Hayleigh had dark skin and hair, like her father, > Dean.  
-> So when Miss Spooner, from Fleet, in Hampshire, found out she was > pregnant again this year, her friends and family joked that they ought > to take a bet out on the same thing happening again.  
-> Doctors who delivered the sisters early, because of fears for their > health, were relieved to find them well, but also amazed that the > second set of twin girls were born with different skin tones.  
-> As her parents discovered when the girls were laid side by side in the > hospital cot, Miya resembles her father and Leah has inherited her > mother’s looks.  
-> It is rare enough for two sets of twins to be born to the same > parents, **but the chances of them inheriting different skin and hair > colour from their mother and father are just two in a million.**
+> Seven years after having one black twin and one white twin, the 27-year-old mother has given birth to a second set of twins with different coloured skin at odds of one in 500,000.  
+> When the couple’s first daughters arrived in 2001, they were astonished to see that Lauren had her mother’s blue eyes and red hair, while her twin Hayleigh had dark skin and hair, like her father, Dean.  
+> So when Miss Spooner, from Fleet, in Hampshire, found out she was pregnant again this year, her friends and family joked that they ought to take a bet out on the same thing happening again.  
+> Doctors who delivered the sisters early, because of fears for their health, were relieved to find them well, but also amazed that the second set of twin girls were born with different skin tones.  
+> As her parents discovered when the girls were laid side by side in the hospital cot, Miya resembles her father and Leah has inherited her mother’s looks.  
+> It is rare enough for two sets of twins to be born to the same parents, **but the chances of them inheriting different skin and hair colour from their mother and father are just two in a million.**
 
 I would take issue with several points in the article:
 

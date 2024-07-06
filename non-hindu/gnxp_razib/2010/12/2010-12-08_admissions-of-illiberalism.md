@@ -29,18 +29,18 @@ As you can see, Western European Muslims are much more conservative than the gen
 
 European Muslims are generally much more liberal, all things equal, than the majority of the world’s Muslims. Consider what’s happening in Pakistan right now, [Pakistani Christian Asia Bibi ‘has price on her head’](http://www.bbc.co.uk/news/world-south-asia-11930849):
 
-> Though he is guilty of nothing, this Pakistani labourer is on the run > – with his five children. >
-> His wife, Asia Bibi, has been sentenced to death for blaspheming > against Islam. That is enough to make the entire family a target. >
+> Though he is guilty of nothing, this Pakistani labourer is on the run – with his five children. >
+> His wife, Asia Bibi, has been sentenced to death for blaspheming against Islam. That is enough to make the entire family a target. >
 > They stay hidden by day, so we met them after dark. >
-> Mr Masih told us they move constantly, trying to stay one step ahead > of the anonymous callers who have been menacing them. >
+> Mr Masih told us they move constantly, trying to stay one step ahead of the anonymous callers who have been menacing them. >
 > “I ask who they are, but they refuse to tell me,” he said. >
-> In the village they tried to put a noose around my neck, so that they > could kill me” >
-> “They say ‘we’ll deal with you if we get our hands on you’. Now > everyone knows about us, so I am hiding my kids here and there. I > don’t allow them to go out. Anyone can harm them,” he added. >
-> Ashiq Masih says his daughters still cry for their mother and ask if > she will be home in time for Christmas. >
-> He insists that Asia Bibi is innocent and will be freed, but he > worries about what will happen next. >
+> In the village they tried to put a noose around my neck, so that they could kill me” >
+> “They say ‘we’ll deal with you if we get our hands on you’. Now everyone knows about us, so I am hiding my kids here and there. I don’t allow them to go out. Anyone can harm them,” he added. >
+> Ashiq Masih says his daughters still cry for their mother and ask if she will be home in time for Christmas. >
+> He insists that Asia Bibi is innocent and will be freed, but he worries about what will happen next. >
 > “When she comes out, how she can live safely?” he asks. >
-> “No one will let her live. The mullahs are saying they will kill her > when she comes out.” >
-> Asia Bibi, an illiterate farm worker from rural Punjab, is the first > woman sentenced to hang under Pakistan’s controversial blasphemy law.
+> “No one will let her live. The mullahs are saying they will kill her when she comes out.” >
+> Asia Bibi, an illiterate farm worker from rural Punjab, is the first woman sentenced to hang under Pakistan’s controversial blasphemy law.
 
 The background to this is one of class and caste. Pakistan’s Christians tend to be lower caste converts who are economically subservient to Muslim landowners, and held in contempt by Muslims of similar socioeconomic station because naturally they’re the lowest of the low, being poor **and** non-Muslim. Accusations of blasphemy generally seem to bubble up out of interpersonal disputes, and are used as leverage by the accusatory party. Christians are not the only target of persecution. The Sunni majority and Shia minority have been engaging in a low-grade civil war for a while now. Sikhs in [some parts](http://www.time.com/time/world/article/0,8599,2032514,00.html) of Pakistan are given the choice between forced conversion and expulsion. Basically, pogroms. A dead young Hindu had his [coffin labelled ‘kafir’](http://tribune.com.pk/story/32670/youth-parliaments-last-session-not-as-they-expected/).
 
@@ -79,10 +79,10 @@ In polite society such generalizations can not be mooted. You have to leave it t
 
 Here’s [Robert Wright](http://opinionator.blogs.nytimes.com/2010/10/26/islamophobia-and-homophobia/?hp#preview), a conventional liberal, [Islamophobia and Homophobia](http://opinionator.blogs.nytimes.com/2010/10/26/islamophobia-and-homophobia/?hp#preview):
 
-> So could bridging work with Islamophobia? **Could getting to know > Muslims have the healing effect that knowing gay people has had?** >
-> The good news is that bridging does seem to work across religious > divides. Putnam and Campbell did surveys with the same pool of people > over consecutive years and found, for example, that gaining > evangelical friends leads to a warmer assessment of evangelicals (by > seven degrees on a “feeling thermometer” per friend gained, if you > must know). >
-> And what about Muslims? Did Christians warm to Islam as they got to > know Muslims — and did Muslims return the favor? >
-> That’s the bad news. The population of Muslims is so small, and so > concentrated in distinct regions, that there weren’t enough such > encounters to yield statistically significant data. And, as Putnam and > Campbell note, this is a recipe for prejudice. Being a small and > geographically concentrated group makes it hard for many people to > know you, so not much bridging naturally happens. That would explain > why Buddhists and Mormons, along with Muslims, get low > feeling-thermometer ratings in America.
+> So could bridging work with Islamophobia? **Could getting to know Muslims have the healing effect that knowing gay people has had?** >
+> The good news is that bridging does seem to work across religious > divides. Putnam and Campbell did surveys with the same pool of people > over consecutive years and found, for example, that gaining evangelical friends leads to a warmer assessment of evangelicals (by seven degrees on a “feeling thermometer” per friend gained, if you must know). >
+> And what about Muslims? Did Christians warm to Islam as they got to know Muslims — and did Muslims return the favor? >
+> That’s the bad news. The population of Muslims is so small, and so > concentrated in distinct regions, that there weren’t enough such > encounters to yield statistically significant data. And, as Putnam and > Campbell note, this is a recipe for prejudice. Being a small and > geographically concentrated group makes it hard for many people to know you, so not much bridging naturally happens. That would explain why Buddhists and Mormons, along with Muslims, get low feeling-thermometer ratings in America.
 
 So could getting to know more Muslims heal your negative attitudes toward them? Well, it depends on the kind of Muslim. Some Muslims are normal people who happen to believe a few different supernatural tenets, abstain from beer, etc. Other Muslims are different from you and I. They’re embedded in a different culture with radically different values and outlooks. The [data on the number of Muslims](https://pewglobal.org/files/legacy/262-2.gif) and attitudes toward them are mixed. Some European nations with many Muslims (Germany) are much more negative than the United States, while some with fewer than the United States (Poland) are more negative as well. Britain is around the same negativity, but has proportionally a much larger Muslim community. France, with a Muslim community that is both the largest, and arguably the most integrated, in all of Europe, is somewhere between Germany and Britain.
 

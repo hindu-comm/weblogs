@@ -11,7 +11,7 @@ The evolution of morals
 
 I have a short piece up at *Comment is Free* at *The Guardian*, [The origins of morality do not matter](http://www.guardian.co.uk/commentisfree/belief/2010/mar/20/morality-evolution). Its flavor is a bit different from my typical blog posts because the format enforces more brevity, so I decided to try and leverage some analogies. I conclude:
 
-> … Our moral consensus is a river whose course shifts across the plain, > constrained by the hills thrust upward by biology. Only history knows > where the river will flow next, though evolution can hint at the range > of possibilities.
+> … Our moral consensus is a river whose course shifts across the plain, constrained by the hills thrust upward by biology. Only history knows where the river will flow next, though evolution can hint at the range of possibilities.
 
 On a note related to this piece, I will be posting a review of [The Price of Altruism: George Price and the Search for the Origins of Kindness](https://www.amazon.com/exec/obidos/ASIN/0393067785/geneexpressio-20/) in a few months.
 

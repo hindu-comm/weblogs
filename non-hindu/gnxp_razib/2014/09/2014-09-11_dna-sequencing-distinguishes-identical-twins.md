@@ -11,8 +11,8 @@ DNA Sequencing Distinguishes Identical Twins
 
 In the annals of “good GATTACA”, [Rape suspect indicted with cutting-edge DNA testing](http://www.bostonglobe.com/metro/2014/09/10/prosecutors-indict-man-using-dna-testing-that-distinguishes-him-from-his-twin-brother/gKfLy3XjmxvB2OysYg0WlM/story.html?event=event25):
 
-> A Dedham man freed earlier this year while awaiting trial on charges > that he raped and robbed two women in Boston in 2004 has been > re-indicted in the case, after cutting-edge DNA testing pointed to him > as a suspect and ruled out his identical twin brother, according to > authorities. >
-> “To the best of my knowledge, this is the first time that any > prosecutor’s office in America has attempted to use this \[DNA > testing\] technique in court,” said Suffolk District Attorney Daniel > F. Conley on Wednesday.
+> A Dedham man freed earlier this year while awaiting trial on charges > that he raped and robbed two women in Boston in 2004 has been re-indicted in the case, after cutting-edge DNA testing pointed to him as a suspect and ruled out his identical twin brother, according to authorities. >
+> “To the best of my knowledge, this is the first time that any prosecutor’s office in America has attempted to use this \[DNA testing\] technique in court,” said Suffolk District Attorney Daniel F. Conley on Wednesday.
 
 The suspect has an identical twin. This naturally results in reasonable doubt if you use standard genomic technology, which lacks the precision to discern any differences to a high degree of confidence when the sequences are so similar. But a [very small number of mutations](http://www.eurofins.com/en/media-centre/press-releases/2013-12-10.aspx) are unique to a given twin. To pull these needles out of the haystack you need powerful genomic technology. The prosecutors paid \$100,000 dollars and had to delay the trial. But it seems that it was worth it. This level of sequencing power will not be needed in most cases in the future, but, it does make it so that legal dramas which hinge around the identity of a perp where the suspect has an identical twin will be the cause of less tension.
 

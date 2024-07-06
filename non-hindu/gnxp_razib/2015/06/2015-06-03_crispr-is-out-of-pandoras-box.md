@@ -17,17 +17,17 @@ One thing to note though is that it seems ridiculous to worry about the sheer nu
 
 Finally, there’s the issue of “gene drive.” Basically we’re talking about distortion of Mendelian segregation, so that an allele spreads through the population via intragenomic competition. Instead of a 50% chance of transmission, it could bias it so that the transmission rate is \~100%. Segregation distorters are found in nature, and can [cause problems](https://en.wikipedia.org/wiki/Intragenomic_conflict#Killer_and_target). They could be a foreseeable path toward eliminating pests. But, there are other concerns. From the piece:
 
-> But many researchers are deeply worried that altering an entire > population, or eliminating it altogether, could have drastic and > unknown consequences for an ecosystem: it might mean that other pests > emerge, for example, or it could affect predators higher up the food > chain. And researchers are also mindful that a guide RNA could mutate > over time such that it targets a different part of the genome. This > mutation could then race through the population, with unpredictable > effects.
+> But many researchers are deeply worried that altering an entire > population, or eliminating it altogether, could have drastic and > unknown consequences for an ecosystem: it might mean that other pests > emerge, for example, or it could affect predators higher up the food > chain. And researchers are also mindful that a guide RNA could mutate over time such that it targets a different part of the genome. This mutation could then race through the population, with unpredictable effects.
 
 This is a legitimate worry obviously. Prominent [evolutionary population geneticists](https://twitter.com/graham_coop) take this issue seriously. But, [others do not](https://twitter.com/molpopgen). In the specific concerns above, my reaction is basically echoed below:
 
-> The issue is not black and white. Micky Eubanks, an insect ecologist > at Texas A&M University in College Station, says that the idea of gene > drives shocked him at first. “My initial gut reaction was ‘Oh my god, > this is terrible. It’s so scary’,” he says. **“But when you give it > more thought and weigh it against the environmental changes that we > have already made and continue to make, it would be a drop in the > ocean.**
+> The issue is not black and white. Micky Eubanks, an insect ecologist > at Texas A&M University in College Station, says that the idea of gene > drives shocked him at first. “My initial gut reaction was ‘Oh my god, > this is terrible. It’s so scary’,” he says. **“But when you give it more thought and weigh it against the environmental changes that we have already made and continue to make, it would be a drop in the ocean.**
 
 Genes are not magic. We need to separate the distinctive and particular dangers inherit in genetic engineering, and CRISPR technology specifically, from the broader suite of ills and concerns which plague us. Nature is not at a perfect equilibrium, but dynamic, In addition, **we are reshaping the world around us constantly, so concerns of out of control gene drive needs to be kept in perspective**.
 
 Finally, I do understand that scientists such as George Church are influential, and their concerns carry great weight. But if CRISPR is so democratizing, does anyone really think that the entire rest of the world will wait? And by the “rest of the world” I guess I kind of mean China….
 
-> For God doth know that in the day ye eat thereof, then your eyes shall > be opened, and ye shall be as gods, knowing good and evil.
+> For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
 
 ### Related Posts:
 

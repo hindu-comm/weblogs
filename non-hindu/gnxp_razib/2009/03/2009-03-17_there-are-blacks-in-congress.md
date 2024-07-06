@@ -11,7 +11,7 @@ There are blacks in Congress
 
 [Was this Britain’s first black queen?](http://www.guardian.co.uk/world/2009/mar/12/race-monarchy), in *The Guardian*:
 
-> Among those who attended Aptekar’s focus groups is congressman Mel > Watt, **one of very few African-Americans in the House of > Representatives and who represents the 12th district of North Carolina > which includes Charlotte.** “In private conversations, > African-Americans have always acknowledged and found a sense of pride > in this ‘secret’,” says Watt. “It’s great that this discussion can now > come out of the closet into the public places of Charlotte, so we all > can acknowledge and celebrate it.”
+> Among those who attended Aptekar’s focus groups is congressman Mel > Watt, **one of very few African-Americans in the House of > Representatives and who represents the 12th district of North Carolina > which includes Charlotte.** “In private conversations, > African-Americans have always acknowledged and found a sense of pride in this ‘secret’,” says Watt. “It’s great that this discussion can now come out of the closet into the public places of Charlotte, so we all can acknowledge and celebrate it.”
 
 I suppose this isn’t a gross example of ignorance, rather like Americans who have no idea that France has been a nation of immigrants since the early 19th century. But [10% of the American Congress](https://en.wikipedia.org/wiki/Congressional_Black_Caucus#Membership) is black, while 13% of the population is (thanks to majority-minority redistricting).
 

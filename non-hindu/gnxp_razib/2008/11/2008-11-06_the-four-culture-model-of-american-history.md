@@ -11,8 +11,8 @@ The four culture model of American history
 
 [The McCain Belt](https://isteve.blogspot.com/2008/11/mccain-scots-irish-champion.html):
 
-> So, why did McCain do best, relative to George W. Bush in 2004, in > states like \#1. Tennessee, \#3. Arkansas, \#5 Oklahoma, \#7 West > Virginia, \#9 Kentucky, and \#10 Alabama? >
-> Here’s a map by counties, with counties where McCain improved relative > to GWB in 2004 the most shown in reddest red. >
+> So, why did McCain do best, relative to George W. Bush in 2004, in states like \#1. Tennessee, \#3. Arkansas, \#5 Oklahoma, \#7 West Virginia, \#9 Kentucky, and \#10 Alabama? >
+> Here’s a map by counties, with counties where McCain improved relative to GWB in 2004 the most shown in reddest red. >
 > Before reading onward, can you figure out why this pattern exists?
 
 Until recently I’ll be honest and admit that I had very little interest in American history beyond what I learned in high school (in contrast to my interest in the Classical period or China, etc.). It seemed rather boring because we live in America, the history is all around us, and I could watch documentaries, etc. At least that was my logic, and it’s not totally faulty. The problem is that **our knowledge of American history which we obtain through direct experience as Americans is implicit, and we tend to lack clarity which would allow us to discern predictable dynamics.** My ignorance combined with a lack of formal paradigm meant I simply wouldn’t have noted the reemergence of familiar dynamics several times within the past few years.

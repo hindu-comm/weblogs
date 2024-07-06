@@ -19,7 +19,17 @@ This is the feed:
 
 If your ancestry is from these nations:
 
-- Afghanistan - Bangladesh - Bhutan - Burma - India - Iran - Maldives - Nepal - Pakistan - Sri Lanka - Tibet
+- Afghanistan
+- Bangladesh
+- Bhutan
+- Burma
+- India
+- Iran
+- Maldives
+- Nepal
+- Pakistan
+- Sri Lanka
+- Tibet
 
 Read on! If not, “for entertainment purposes only”….
 
@@ -36,18 +46,18 @@ I immediately gave him my 23andMe sample. Since I had Dienekes already run my ge
 
 In any case, the details:
 
-> **Please do not send samples from close relatives.** I define close > relatives as 2nd cousins or closer. If you have data from yourself and > your parents, it might be better to send the samples from your parents > (assuming they are not related to each other) and not send your own > sample. >
-> If you are unsure if you are eligible to participate, please send me > an email ([\[emailprotected\]](/cdn-cgi/l/email-protection)) to > inquire about it before sending off your raw data. >
+> **Please do not send samples from close relatives.** I define close > relatives as 2nd cousins or closer. If you have data from yourself and your parents, it might be better to send the samples from your parents (assuming they are not related to each other) and not send your own sample. >
+> If you are unsure if you are eligible to participate, please send me an email ([\[emailprotected\]](/cdn-cgi/l/email-protection)) to inquire about it before sending off your raw data. >
 > **What to send?**  
-> Please send your All DNA **raw data** text file (zipped is better) > downloaded from[23andme](https://www.23andme.com/you/download/) > to***[\[emailprotected\]](/cdn-cgi/l/email-protection)*** along > with**ancestral background information about you and all four of your > grandparents**. Background information would include where they were > born, mother tongue, caste/community to which they belonged, etc. > Please provide as much ancestry information as possible and try to be > specific. Do especially include information about any ancestry from > outside South Asia. >
+> Please send your All DNA **raw data** text file (zipped is better) > downloaded from[23andme](https://www.23andme.com/you/download/) > to***[\[emailprotected\]](/cdn-cgi/l/email-protection)*** along > with**ancestral background information about you and all four of your > grandparents**. Background information would include where they were > born, mother tongue, caste/community to which they belonged, etc. Please provide as much ancestry information as possible and try to be specific. Do especially include information about any ancestry from outside South Asia. >
 > **Data Privacy**  
-> The raw genetic data and ancestry information that you send me will > not be shared with anyone. >
-> Your data will be used only for ancestry analysis. No analysis of > physical or health/medical traits will be performed. >
-> The individual ancestry analysis published on this blog will be done > using an ID of the form HRPnnnn known to only you and me. >
+> The raw genetic data and ancestry information that you send me will not be shared with anyone. >
+> Your data will be used only for ancestry analysis. No analysis of physical or health/medical traits will be performed. >
+> The individual ancestry analysis published on this blog will be done using an ID of the form HRPnnnn known to only you and me. >
 > **What do you get?**  
-> All results of ancestry analysis (individual and group) will be posted > on this blog under the Harappa Ancestry Project category. This will > include admixture analysis as well as clustering into population > groups etc. >
-> I suggest you read about[Dienekes’ > analysis](https://dienekes.blogspot.com/search/label/South%20Asia) > on[South > Asians](https://dodecad.blogspot.com/search/label/South%20Asians) for > an idea about what to expect. >
-> You can access all blog posts related to this project from > the[Harappa Ancestry > Project](http://www.zackvision.com/weblog/category/harappa/) link on > the navigation menu on every page of my website. You can also > subscribe to the[project > feed](http://www.zackvision.com/weblog/category/harappa/feed/).
+> All results of ancestry analysis (individual and group) will be posted on this blog under the Harappa Ancestry Project category. This will include admixture analysis as well as clustering into population groups etc. >
+> I suggest you read about[Dienekes’ > analysis](https://dienekes.blogspot.com/search/label/South%20Asia) on[South Asians](https://dodecad.blogspot.com/search/label/South%20Asians) for an idea about what to expect. >
+> You can access all blog posts related to this project from > the[Harappa Ancestry > Project](http://www.zackvision.com/weblog/category/harappa/) link on the navigation menu on every page of my website. You can also subscribe to the[project feed](http://www.zackvision.com/weblog/category/harappa/feed/).
 
 If you’re South Asian, Iranian, Burmese, or Tibetan, and have a 23andMe genotyping done, **you know what to do.** If you know someone from these groups who have had that done, please forward this one.
 

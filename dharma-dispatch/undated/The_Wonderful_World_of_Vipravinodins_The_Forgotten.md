@@ -54,7 +54,7 @@ In one of the rare feats accomplished by any Hindu Empire, the early rulers of V
 
 As the Empire stabilized and consolidated its grip over south India, the society it governed underwent profound transformations. In a very limited sense, its social order resembled that in the golden Gupta Era. While the rules of the Varnashrama Dharma were scrupulously followed, there was space, opportunity and flexibility for all Varnas and professions to carve out prosperous and distinguished niches for themselves. We are reminded of this famous verse in the Nālaṭiyār:
 
-> When men speak of ‘good varna’ and ‘bad varna,’ it is a mere figure of > speech, and has no real meaning. Not even by possessions, made by > ancient glories, but by self-denial, learning, and energy is varna > truly determined.
+> When men speak of ‘good varna’ and ‘bad varna,’ it is a mere figure of speech, and has no real meaning. Not even by possessions, made by ancient glories, but by self-denial, learning, and energy is varna truly determined.
 
 One such Varna was the Vipravinōdin: literally meaning “Brahmanas engaged in the profession of providing entertainment.” Tracing their history is a chequered experience.
 

@@ -11,12 +11,12 @@ Harvard Muslim chaplain sees wisdom in my killing!
 
 [Talk Islam](http://talkislam.info/2009/04/03/on-the-listservs-there-is-an-uproar-dev/#more-5933) points to a controversy over a comment that the [Muslim chaplain](http://chaplains.harvard.edu/chaplains/profile.php?id=30) made in regards to apostasy on a listserv. First he outlines the dominant legal position with Islam today & historically in regards to apostasy:
 
-> There are a few places on the Net where one can find informed > discussions of this issue (Search \[“Abdul Hakim Murad”\|Faraz > Rabbani” AND “apostasy”\]) . The preponderant position in all of the 4 > sunni madhahib (and apparently others of the remaining eight according > to one contemporary \`alim) is that **the verdict is capital > punishment.**  
-> Of concern for us is that this can only occur in the_domain and under > supervision of Muslim governmental authority and can not be performed > by non-state, private actors.\_
+> There are a few places on the Net where one can find informed > discussions of this issue (Search \[“Abdul Hakim Murad”\|Faraz > Rabbani” AND “apostasy”\]) . The preponderant position in all of the 4 sunni madhahib (and apparently others of the remaining eight according to one contemporary \`alim) is that **the verdict is capital punishment.**  
+> Of concern for us is that this can only occur in the_domain and under supervision of Muslim governmental authority and can not be performed by non-state, private actors.\_
 
 He then outlines the dissents from the dominant position, i.e., those who argue that apostasy should not be punished by capital punishment, but concludes with a nice synthesis of postcolonial jargon and neo-medieval apologia:
 
-> I would finally note that there is great wisdom (hikma) associated > with the established and preserved position (capital punishment) and > so, even if it makes some uncomfortable in the face of the **hegemonic > modern human rights discourse**, one should not dismiss it out of > hand. The formal consideration of excuses for the accused and the > absence of Muslim governmental authority in our case here in the > North/West is for dealing with the issue practically.
+> I would finally note that there is great wisdom (hikma) associated > with the established and preserved position (capital punishment) and > so, even if it makes some uncomfortable in the face of the **hegemonic > modern human rights discourse**, one should not dismiss it out of hand. The formal consideration of excuses for the accused and the absence of Muslim governmental authority in our case here in the North/West is for dealing with the issue practically.
 
 I had to laugh about the “hegemonic” part, because regular readers know that I like to be a retard and use postcolonial/postmodern gibberish to defend the indefensible. Well, here you go with an instance of the real deal.  
 For what it’s worth, Taha Abdul-Basser, the chaplain, was born and raised in New York City and a graduate of Harvard.

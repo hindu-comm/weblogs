@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2017/11/07/the-rising-waters-of-hu
 
 The Rising Waters of Human Tribal Nature
 
-> Feelings don’t care about your facts. The gates of ijtihad have > closed. The Law of Gravity is nonsense. No such law exists. >
-> — Razib Khan (@razibkhan) [October 24, > 2017](https://twitter.com/razibkhan/status/922713570860785664?ref_src=twsrc%5Etfw)
+> Feelings don’t care about your facts. The gates of ijtihad have closed. The Law of Gravity is nonsense. No such law exists. >
+> — Razib Khan (@razibkhan) [October 24, 2017](https://twitter.com/razibkhan/status/922713570860785664?ref_src=twsrc%5Etfw)
 
   
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/steven_pinker.jpeg?resize=183%2C276)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/steven_pinker.jpeg?resize=183%2C276)](https://www.amazon.com/exec/obidos/ASIN/B073TJBYTB/geneexpressio-20)I’m excited to read Steven Pinker’s [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://www.amazon.com/exec/obidos/ASIN/B073TJBYTB/geneexpressio-20). I’ve read every one one of his books except for [The Stuff of Thought](https://www.amazon.com/exec/obidos/ASIN/0143114247/geneexpressio-20),and[The Blank Slate](https://www.amazon.com/exec/obidos/ASIN/B000QCTNIM/geneexpressio-20) is one of my favorite books of all time. I still remember how much of a page-turner [The Language Instinct](https://www.amazon.com/exec/obidos/ASIN/B0049B1VOU/geneexpressio-20) was for me back in the late 1990s. **But I’m most excited about [Enlightenment Now](https://www.amazon.com/exec/obidos/ASIN/B073TJBYTB/geneexpressio-20) because I’m looking for a little hope.** At this point, I am very pessimistic as to the prospects for the Enlightenment project.
@@ -21,7 +21,7 @@ That’s why I laughed out loud when I saw this tweet:
 
 > A good litmus test for scientists: >
 > What would you do if your results contradicted your political beliefs? >
-> — Jay Van Bavel (@jayvanbavel) [November 4, > 2017](https://twitter.com/jayvanbavel/status/926637007333445632?ref_src=twsrc%5Etfw)
+> — Jay Van Bavel (@jayvanbavel) [November 4, 2017](https://twitter.com/jayvanbavel/status/926637007333445632?ref_src=twsrc%5Etfw)
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/therighteousmind.jpeg?resize=181%2C279)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/therighteousmind.jpeg?resize=181%2C279)](https://www.amazon.com/exec/obidos/ASIN/B0052FF7YM/geneexpressio-20)In psychology, much of the replication crisis was simply due to personal self-interest (more publications). But some of it was obviously political (see [stereotype threat](https://twitter.com/stevestuwill/status/685257134922006528?lang=en)). Similarly, look at the fiasco in nutrition science. Some of it was personal, but there were also political demands from on high that there be **something** done. So “scholars” set some guidelines that people followed for decades, even if later they were shown to be totally ineffective. I’m not even going to get into the travesty that is modern biomedical science, with professional advancement and institutional interests combined in a deadly cocktail.
 

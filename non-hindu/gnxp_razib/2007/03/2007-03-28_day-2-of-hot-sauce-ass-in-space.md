@@ -13,7 +13,8 @@ Day 2 of hot sauce – Ass in Space
 
 ### Related Posts:
 
-- [Day 6 of hot sauce - Ass in the
+- [Day 6 of hot sauce
+- Ass in the
   Tub](https://www.gnxp.com/WordPress/2007/04/01/day-6-of-hot-sauce-ass-in-the-tub/) - [Day 4 of hot sauce - You Can't Handle this Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/30/day-4-of-hot-sauce-you-cant-handle-this-hot-sauce/) - [Day 5 of hot sauce - Mad Dog Liquid
   Fire](https://www.gnxp.com/WordPress/2007/03/31/day-5-of-hot-sauce-mad-dog-liquid-fire/) - [7 days of hot

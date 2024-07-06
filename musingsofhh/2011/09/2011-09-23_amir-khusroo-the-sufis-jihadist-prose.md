@@ -53,7 +53,15 @@ Advertisement
 
 **Tagged with:**
 
-- [altaic](https://musingsofhh.wordpress.com/tag/altaic/) - [hindus](https://musingsofhh.wordpress.com/tag/hindus/) - [india](https://musingsofhh.wordpress.com/tag/india/) - [jihad](https://musingsofhh.wordpress.com/tag/jihad/) - [kafir](https://musingsofhh.wordpress.com/tag/kafir/) - [khusro](https://musingsofhh.wordpress.com/tag/khusro/) - [mongols](https://musingsofhh.wordpress.com/tag/mongols/) - [pagan](https://musingsofhh.wordpress.com/tag/pagan/) - [sufi](https://musingsofhh.wordpress.com/tag/sufi/)
+- [altaic](https://musingsofhh.wordpress.com/tag/altaic/)
+- [hindus](https://musingsofhh.wordpress.com/tag/hindus/)
+- [india](https://musingsofhh.wordpress.com/tag/india/)
+- [jihad](https://musingsofhh.wordpress.com/tag/jihad/)
+- [kafir](https://musingsofhh.wordpress.com/tag/kafir/)
+- [khusro](https://musingsofhh.wordpress.com/tag/khusro/)
+- [mongols](https://musingsofhh.wordpress.com/tag/mongols/)
+- [pagan](https://musingsofhh.wordpress.com/tag/pagan/)
+- [sufi](https://musingsofhh.wordpress.com/tag/sufi/)
 
 **[The rise and fall of the Uighurempire](https://musingsofhh.wordpress.com/2011/06/01/the-rise-and-fall-of-the-uighur-empire/)**
 

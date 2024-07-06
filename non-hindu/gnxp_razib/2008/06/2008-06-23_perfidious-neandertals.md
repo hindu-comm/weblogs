@@ -13,7 +13,8 @@ Perfidious Neandertals
 
 ### Related Posts:
 
-- [Neandertals - "human" or
+- [Neandertals
+- "human" or
   not?](https://www.gnxp.com/WordPress/2007/06/13/neandertals-human-or-not/) - [Svante Paabo believes modern humans &
   Neandertals…](https://www.gnxp.com/WordPress/2009/10/26/svante-paabo-believes-modern-humans-neandertals-interbred/) - [Tim White, Scientific American, open access to
   fossils](https://www.gnxp.com/WordPress/2009/08/26/tim-white-scientific-american-open-access-to-fossils/) - [The last

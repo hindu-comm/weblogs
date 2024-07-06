@@ -13,11 +13,11 @@ The Economist doesn't understand evolution
 
 One time could be an accident:
 
-> In the second camp are those, including some high up in the Vatican > bureaucracy, who feel that Catholic scientists like Father Coyne have > gone too far in accepting the world-view of their secular colleagues. > This camp stresses that Darwinian science should not seduce people > into believing that man evolved purely as the result of a process of > random selection. While rejecting American-style intelligent design, > some authoritative Catholic thinkers claim to see God’s hand in > “convergence”: the apparent fact that, as they put it, similar > processes and structures are present in organisms that have evolved > separately.
+> In the second camp are those, including some high up in the Vatican > bureaucracy, who feel that Catholic scientists like Father Coyne have > gone too far in accepting the world-view of their secular colleagues. > This camp stresses that Darwinian science should not seduce people > into believing that man evolved purely as the result of a process of > random selection. While rejecting American-style intelligent design, > some authoritative Catholic thinkers claim to see God’s hand in “convergence”: the apparent fact that, as they put it, similar processes and structures are present in organisms that have evolved separately.
 
 Twice is a serious error:
 
-> But Benedict XVI apparently wants to lay down an even stronger line on > the status of man as a species produced by divine ordinance, not just > random selection. “Man is the only creature on earth that God willed > for his own sake,” says a document issued under Pope John Paul II and > approved by the then Cardinal Ratzinger.
+> But Benedict XVI apparently wants to lay down an even stronger line on > the status of man as a species produced by divine ordinance, not just random selection. “Man is the only creature on earth that God willed for his own sake,” says a document issued under Pope John Paul II and approved by the then Cardinal Ratzinger.
 
 Let’s be clear, [“random selection”](http://www.socialresearchmethods.net/kb/random.htm) is not a short-hand for [“random mutation and natural selection”](https://evolgen.blogspot.com/2005/06/random-mutation-and-natural-selection.html). If anything, “random selection” is a description of [neutral evolution](https://en.wikipedia.org/wiki/Neutral_theory_of_molecular_evolution).
 

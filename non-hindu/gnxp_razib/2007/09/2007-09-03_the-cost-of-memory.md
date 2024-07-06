@@ -13,13 +13,13 @@ Do two points make a line?
 
 [Better Memory and Neural Efficiency in Young Apolipoprotein E epsilon4 Carriers](http://cercor.oxfordjournals.org/cgi/content/full/17/8/1934)
 
-> The apolipoprotein E (APOE) epsilon4 allele is the major genetic risk > factor for Alzheimer’s disease, but an APOE effect on memory > performance and memory-related neurophysiology in young, healthy > subjects is unknown. We found an association of APOE epsilon4 with > better episodic memory compared with APOE epsilon2 and epsilon3 in 340 > young, healthy persons.
+> The apolipoprotein E (APOE) epsilon4 allele is the major genetic risk > factor for Alzheimer’s disease, but an APOE effect on memory > performance and memory-related neurophysiology in young, healthy subjects is unknown. We found an association of APOE epsilon4 with better episodic memory compared with APOE epsilon2 and epsilon3 in 340 young, healthy persons.
 
 The T allele of KIBRA was found associated with better memory in a [genome-wide association study last year](http://www.sciencemag.org/cgi/content/full/314/5798/475). And now this:
 
 [Age-dependent association of KIBRA genetic variation and Alzheimer’s disease risk.](http://linkinghub.elsevier.com/retrieve/pii/S0197-4580(07)00255-2)
 
-> An association between memory performance in healthy young, middle > aged an elderly subjects and variability in the KIBRA gene > (rs17070145) has been recently described. We analyzed this > polymorphism in 391 sporadic Alzheimer’s disease (AD) patients and 428 > cognitively normal control subjects. The current study reveals that > KIBRA (rs17070145) T allele (CT and TT genotypes) is associated with > an increased risk (OR 2.89; p=0.03) for very-late-onset (after the age > of 86 years) AD.
+> An association between memory performance in healthy young, middle > aged an elderly subjects and variability in the KIBRA gene > (rs17070145) has been recently described. We analyzed this > polymorphism in 391 sporadic Alzheimer’s disease (AD) patients and 428 > cognitively normal control subjects. The current study reveals that KIBRA (rs17070145) T allele (CT and TT genotypes) is associated with an increased risk (OR 2.89; p=0.03) for very-late-onset (after the age of 86 years) AD.
 
 I haven’t done an exhaustive search, but there appears to be about four more human memory-associated genes. I wonder if they’ll form a pattern. By the way, it looks like these cats Papassotiropoulos and de Quervain have the memory genome-wide association game on lock. Can someone with the right kind of knowledge take a look and see if they are doing things in a robust way? I don’t really know what alternative hypotheses you have to get rid of before you can claim an association.
 

@@ -14,9 +14,9 @@ Hipster video gaming
 
 In that context the original NES took center stage rather slowly and organically in the mid-1980s, eventually triggering the competition between Sega, TurboGrafx, Nintendo, and later Sony. I got off that particular train when I was about seventeen, seeing the amount of time that the hobby swallowed. But I couldn’t help but be amused by this article in *The New York Times*, [Nintendo’s New Console May Feed Your Nostalgia, if You Can Get One](http://www.nytimes.com/2016/11/27/business/nintendos-new-console-may-feed-your-nostalgia-if-you-can-get-one.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below):
 
-> When she heard that Nintendo was planning to reproduce its iconic > Nintendo Entertainment System video game console for the holiday > season, Emily Bradbury put a note on her calendar and set an alarm on > her phone. >
-> She was not interested in buying it for her children. She wanted it > for her husband. >
-> “He’s 40 years old and grew up with a Nintendo,” Ms. Bradbury said. > “It’s a nostalgia thing.”
+> When she heard that Nintendo was planning to reproduce its iconic Nintendo Entertainment System video game console for the holiday season, Emily Bradbury put a note on her calendar and set an alarm on her phone. >
+> She was not interested in buying it for her children. She wanted it for her husband. >
+> “He’s 40 years old and grew up with a Nintendo,” Ms. Bradbury said. “It’s a nostalgia thing.”
 
 ### Related Posts:
 

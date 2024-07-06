@@ -11,7 +11,7 @@ Sewall Wright & the Shifting Balance Theory (part II)
 
 [Notes on Sewall Wright: The Shifting Balance Theory (Part 2)](https://www.gnxp.com/blog/2008/11/notes-on-sewall-wright-shifting-balance.php):
 
-> Part 1 of this note dealt with Sewall Wright’s Shifting Balance theory > of evolution (the SBT) in its original form, as propounded between > 1929 and 1931. This final part deals with subsequent developments in > the theory. These include refinements and elaborations, some changes > of emphasis, one major addition, and one major change of substance. In > particular I will cover:  
+> Part 1 of this note dealt with Sewall Wright’s Shifting Balance theory > of evolution (the SBT) in its original form, as propounded between > 1929 and 1931. This final part deals with subsequent developments in the theory. These include refinements and elaborations, some changes of emphasis, one major addition, and one major change of substance. In particular I will cover:  
 > 1. The role of new mutations  
 > 2. The concept of selective peaks  
 > 3. The effect of changes in environment  

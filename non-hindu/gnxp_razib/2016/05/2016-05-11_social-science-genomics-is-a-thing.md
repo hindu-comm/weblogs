@@ -11,7 +11,7 @@ Social science genomics is a thing….
 
 Behold, [Summer Institute in Social Science Genomics](http://www.russellsage.org/research/funding/social-science-genomics):
 
-> The purpose of this two-week workshop is to introduce graduate > students and beginning faculty in economics, sociology, psychology, > statistics, genetics, and other disciplines to the methods of > social-science genomics—the analysis of genomic data in social science > research. The program will include interpretation and estimation of > different concepts of heritability; the biology of genetic > inheritance, gene expression, and epigenetics; design and analysis of > genetic-association studies; analysis of gene-gene and > gene-environment interactions; estimation and use of polygenic scores; > as well as applications of genomic data in the social sciences.
+> The purpose of this two-week workshop is to introduce graduate > students and beginning faculty in economics, sociology, psychology, > statistics, genetics, and other disciplines to the methods of > social-science genomics—the analysis of genomic data in social science > research. The program will include interpretation and estimation of > different concepts of heritability; the biology of genetic > inheritance, gene expression, and epigenetics; design and analysis of genetic-association studies; analysis of gene-gene and gene-environment interactions; estimation and use of polygenic scores; as well as applications of genomic data in the social sciences.
 
 The future is not the future anymore.
 

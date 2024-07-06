@@ -11,13 +11,13 @@ Maps of Seven Deadly Sins in America
 
 Via [Andrew Sullivan](http://andrewsullivan.theatlantic.com/the_daily_dish/2009/05/mapping-sin.html), [One nation, seven sins: Geographers measure propensity for evil in states, counties](http://www.lasvegassun.com/news/2009/mar/26/one-nation-seven-sins/). Here’s the methodology:
 
-> Greed was calculated by comparing average incomes with the total > number of inhabitants living beneath the poverty line. On this map, > done in yellow, Clark County is bile (see map on Page 2).  
-> Envy was calculated using the total number of thefts — robbery, > burglary, larceny and stolen cars. Rendered in green, of course, Clark > County is emerald.  
-> Wrath was calculated by comparing the total number of violent crimes — > murder, assault and rape — reported to the FBI per capita. Vought and > his colleagues used the color red to illustrate wrath, so Clark County > looks like a fresh welt. Washoe is slightly statistically duller. > Everywhere else is a friendly pork pink.  
-> Lust was calculated by compiling the number of sexually transmitted > diseases — HIV, AIDS, syphilis, chlamydia and gonorrhea — reported per > capita. Here again, Clark and Washoe counties are worst. Carson City > County is a close third.  
-> Gluttony was calculated by counting the number of fast food > restaurants per capita, and this is one category where Clark County is > bested. First in deep fry goes to Carson City.  
-> Sloth was calculated by comparing expenditures on arts, entertainment > and recreation with the rate of employment. Here again Clark County is > beat, scoring only average on the scale of sloth.  
-> And pride, lastly, is most important. The root of all sins, in this > study, is the aggregate of all data. Vought and his Kansas colleagues > combined all data from the six other sins and averaged it into an > overview of all evil. So pride, mapped in purple, shows the states two > darkest bruises: counties Clark and Carson City.
+> Greed was calculated by comparing average incomes with the total number of inhabitants living beneath the poverty line. On this map, done in yellow, Clark County is bile (see map on Page 2).  
+> Envy was calculated using the total number of thefts — robbery, burglary, larceny and stolen cars. Rendered in green, of course, Clark County is emerald.  
+> Wrath was calculated by comparing the total number of violent crimes — > murder, assault and rape — reported to the FBI per capita. Vought and his colleagues used the color red to illustrate wrath, so Clark County looks like a fresh welt. Washoe is slightly statistically duller. Everywhere else is a friendly pork pink.  
+> Lust was calculated by compiling the number of sexually transmitted diseases — HIV, AIDS, syphilis, chlamydia and gonorrhea — reported per capita. Here again, Clark and Washoe counties are worst. Carson City County is a close third.  
+> Gluttony was calculated by counting the number of fast food restaurants per capita, and this is one category where Clark County is bested. First in deep fry goes to Carson City.  
+> Sloth was calculated by comparing expenditures on arts, entertainment and recreation with the rate of employment. Here again Clark County is beat, scoring only average on the scale of sloth.  
+> And pride, lastly, is most important. The root of all sins, in this > study, is the aggregate of all data. Vought and his Kansas colleagues combined all data from the six other sins and averaged it into an overview of all evil. So pride, mapped in purple, shows the states two darkest bruises: counties Clark and Carson City.
 
 Below are screenshots of the maps in standard deviation units; red naturally is more sinful, blue less sinful.
 

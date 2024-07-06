@@ -15,7 +15,8 @@ Declan Butler is [urging everyone](http://declanbutler.info/blog/?p=59) to get [
 
 ### Related Posts:
 
-- [The Tripoli (Benghazi) Six - Hell on
+- [The Tripoli (Benghazi) Six
+- Hell on
   Earth](https://www.gnxp.com/WordPress/2006/09/20/the-tripoli-benghazi-six-hell-on-earth/) - [The Children of
   Lysenko](https://www.gnxp.com/WordPress/2006/12/06/the-children-of-lysenko/) - [Tripoli (Benghazi) Six
   "411"](https://www.gnxp.com/WordPress/2006/09/21/tripoli-benghazi-six-411/) - [Impending Tripoli Six

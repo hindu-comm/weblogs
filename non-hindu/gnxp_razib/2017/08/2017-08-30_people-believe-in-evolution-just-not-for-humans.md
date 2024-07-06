@@ -19,8 +19,8 @@ A new GSS variable, EVOLVED2, which complements an older variable, EVOLVED, allo
 
 Here is what they ask:
 
-> EVOLVED: Human beings, as we know them today, developed from earlier > species of animals. (Is that true or false?) >
-> EVOLVED2: Elephants evolved from earlier species. (Is that true or > false?)
+> EVOLVED: Human beings, as we know them today, developed from earlier species of animals. (Is that true or false?) >
+> EVOLVED2: Elephants evolved from earlier species. (Is that true or false?)
 
 53 precent of respondents answered yes to true in the first case, but 86 percent in the second case. In other words, **presenting evolution in a non-human context reduces resistance.**
 

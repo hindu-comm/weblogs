@@ -13,8 +13,8 @@ The wealth of communities
 
 But for a moment I want to zoom the scale. In [The Retreat of the Elephants: An Environmental History of China](https://www.amazon.com/exec/obidos/ASIN/0300119933/geneexpressio-20/), there is a chapter, *The Riddle of Longevity: Why Zunhua?*:
 
-> People lived longer in the late-imperial department Zunhua in the > mountains along the old Ming northern frontier…The expectation of life > at birth for a woman was in the high forties, twice as long as in > Jiaxing…. >
-> …The latest gazetteer from imperial times…has no record of epidemics > of infectious disease….This was in marked contrast with the coastal > province in which Jiaxing was located, namely Zhejiang. In Zheijang > people were gripped by a fear of epidemics….
+> People lived longer in the late-imperial department Zunhua in the mountains along the old Ming northern frontier…The expectation of life at birth for a woman was in the high forties, twice as long as in Jiaxing…. >
+> …The latest gazetteer from imperial times…has no record of epidemics of infectious disease….This was in marked contrast with the coastal province in which Jiaxing was located, namely Zhejiang. In Zheijang people were gripped by a fear of epidemics….
 
 Jiaxing is highlighted because another chapter focuses on the taming of this region and its transition from being a marginal territory on the periphery of Chinese civilization to a rationally managed agricultural heartland. A case in point supporting the thesis of hydraulic despotism. The author notes a few points to contrast Zunhua and Jiaxing:
 

@@ -18,7 +18,8 @@ But these more refined and sophisticated attacks show that the evolutionary sele
 
 ### Related Posts:
 
-- [Harun Yahya - who is funding
+- [Harun Yahya
+- who is funding
   him?](https://www.gnxp.com/WordPress/2007/07/17/harun-yahya-who-is-funding-him/) - ["Harun Yahya" goes to
   jail?](https://www.gnxp.com/WordPress/2008/05/11/harun-yahya-goes-to-jail/) - [Muslim Creationism: morons a
   publishin'](https://www.gnxp.com/WordPress/2007/07/17/muslim-creationism-morons-a-publishin/) - [The most secular Islamic country is

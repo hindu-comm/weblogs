@@ -11,7 +11,7 @@ Your religion is false on MR
 
 [Tyler Cowen](http://www.marginalrevolution.com/marginalrevolution/2009/07/your-religion-is-false.html) gives a positive review of [Your Religion is False](https://www.amazon.com/Your-Religion-False-Joel-Grus/dp/0982481802/ref=sr_1_1?ie=UTF8&s=books&qid=1246564703&sr=8-1/marginalrevol-20):
 
-> In addition to its humor, I prefer the content of this book to the > better-known “new atheist” tracts. Grus yields many of the strongest > arguments. For instance the biographical and sociological correlates > with belief (most people choose the religion they grew up with, or > encountered through a friend, etc.) suggest that, in this area, > intuitions which feel “certain” simply cannot be trusted.
+> In addition to its humor, I prefer the content of this book to the > better-known “new atheist” tracts. Grus yields many of the strongest > arguments. For instance the biographical and sociological correlates with belief (most people choose the religion they grew up with, or encountered through a friend, etc.) suggest that, in this area, intuitions which feel “certain” simply cannot be trusted.
 
 Also see [associated weblog](http://yrif.org/).
 

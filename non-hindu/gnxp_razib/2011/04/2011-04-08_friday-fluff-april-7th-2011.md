@@ -18,14 +18,15 @@ Friday Fluff – April 7th, 2011
 
 3\) **Comment of the week**, in response to “Gay cavemen!!!”:
 
-> They will stop at nothing! So now this will be brought to the supreme > court. Cavemen were gay and they were aloud to marry.
+> They will stop at nothing! So now this will be brought to the supreme court. Cavemen were gay and they were aloud to marry.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/scent.jpg?resize=600%2C807)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/scent.jpg?resize=600%2C807)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/scent.jpg)[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/unison.jpg?resize=600%2C615)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/unison.jpg?resize=600%2C615)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/unison.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - April 29th,
+- [Friday Fluff
+- April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff - August 5th,
   2011](https://www.gnxp.com/WordPress/2011/08/05/friday-fluff-august-5th-2011/) - [Friday Fluff - April 15th,
   2011](https://www.gnxp.com/WordPress/2011/04/15/friday-fluff-april-14th-2011/) - [Friday Fluff - April 1st,

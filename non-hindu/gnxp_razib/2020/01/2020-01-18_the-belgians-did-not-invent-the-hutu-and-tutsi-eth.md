@@ -62,7 +62,7 @@ Below you can see one of the models from [Ancient DNA Reveals a Multi-Step Sprea
 
 The Tutsis and the Hutu individual are very distinct. The Tutsis are similar to the Maasai, in keeping with my earlier analyses. Here is the [Wikipedia entry on Tutsi autosomal genetics](https://en.wikipedia.org/wiki/Tutsi#Autosomal_DNA_(overall_ancestry)):
 
-> In general, **the Tutsi appear to share a close genetic kinship with > neighboring Bantu populations, particularly the Hutus.** However, it > is unclear whether this similarity is primarily due to extensive > genetic exchanges between these communities through intermarriage or > whether it ultimately stems from common origins:
+> In general, **the Tutsi appear to share a close genetic kinship with > neighboring Bantu populations, particularly the Hutus.** However, it is unclear whether this similarity is primarily due to extensive genetic exchanges between these communities through intermarriage or whether it ultimately stems from common origins:
 
 I think this is almost certainly wrong. Most people from this area of the world know it is wrong. But there is a concerted effort to impute all Tutsi-Hutu distinctions to the Belgians.
 

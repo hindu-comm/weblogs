@@ -11,8 +11,8 @@ Nick Wade on recent evolution human
 
 [Humans Have Spread Globally, and Evolved Locally](http://www.nytimes.com/2007/06/26/science/26human.html?ref=science&pagewanted=all):
 
-> No one yet knows to what extent natural selection for local conditions > may have forced the populations on each continent down different > evolutionary tracks. But those tracks could turn out to be somewhat > parallel. At least some of the evolutionary changes now emerging have > clearly been convergent, meaning that natural selection has made use > of the different mutations available in each population to accomplish > the same adaptation. >
-> This is the case with lactose tolerance in European and African > peoples and with pale skin in East Asians and Europeans.
+> No one yet knows to what extent natural selection for local conditions > may have forced the populations on each continent down different > evolutionary tracks. But those tracks could turn out to be somewhat > parallel. At least some of the evolutionary changes now emerging have clearly been convergent, meaning that natural selection has made use of the different mutations available in each population to accomplish the same adaptation. >
+> This is the case with lactose tolerance in European and African peoples and with pale skin in East Asians and Europeans.
 
 Nothing new to readers of this weblog, but Wade does a good job surveying the various angles.
 

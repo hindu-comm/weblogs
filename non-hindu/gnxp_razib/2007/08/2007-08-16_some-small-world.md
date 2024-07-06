@@ -13,7 +13,8 @@ Some Small World
 
 ### Related Posts:
 
-- [Taxis](https://www.gnxp.com/WordPress/2007/08/21/taxis/) - [Error on credit card
+- [Taxis](https://www.gnxp.com/WordPress/2007/08/21/taxis/)
+- [Error on credit card
   bill](https://www.gnxp.com/WordPress/2009/07/15/error-on-credit-card-bill/) - [Muslims Grappling with the High
   Frontier](https://www.gnxp.com/WordPress/2006/04/19/muslims-grappling-with-the-high-frontier/) - [Amazon
   sucks](https://www.gnxp.com/WordPress/2007/02/01/amazon-sucks/) - [The world I

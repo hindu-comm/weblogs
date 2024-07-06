@@ -14,7 +14,8 @@ The first week of spring, and two birds have already been the victims of domesti
 
 ### Related Posts:
 
-- [Sexual Selection - with a
+- [Sexual Selection
+- with a
   twist](https://www.gnxp.com/WordPress/2009/02/14/sexual-selection-with-a-twist/) - [Meow Friday](https://www.gnxp.com/WordPress/2006/04/28/meow-friday/) - [Purring in the post-genomic
   era](https://www.gnxp.com/WordPress/2014/11/10/purring-in-the-post-genomics-era/) - [Tiny dogs are freaks of
   evolution](https://www.gnxp.com/WordPress/2010/01/20/tiny-dogs-are-freaks-of-evolution/) - [More skepticism of natural

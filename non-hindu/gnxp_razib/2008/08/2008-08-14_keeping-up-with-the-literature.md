@@ -11,7 +11,7 @@ Keeping up with the literature
 
 [Pubmed + RSS + iGoogle = Easy Lit Updates](http://bitesizebio.com/2008/08/13/pubmed-rss-igoogle-easy-lit-updates/):
 
-> …The idea is to use the combined power of Pubmed, RSS feeds and > iGoogle to create a page of RSS feed boxes that will keep you > continually updated on articles containing your keywords of interest, > or from specific authors or journals. It is nice and simple, but I > find it an incredibly powerful and fast method of literature scanning > compared to email updates or browsing each journal individually.
+> …The idea is to use the combined power of Pubmed, RSS feeds and > iGoogle to create a page of RSS feed boxes that will keep you > continually updated on articles containing your keywords of interest, or from specific authors or journals. It is nice and simple, but I find it an incredibly powerful and fast method of literature scanning compared to email updates or browsing each journal individually.
 
 ### Related Posts:
 

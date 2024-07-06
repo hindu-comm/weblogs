@@ -11,7 +11,7 @@ Who supports the space program?
 
 I just listened to a radio segment on public sentiments toward the Apollo space program expenditures in hindsight. The polling had a small N, 3 people in Los Angeles on the street. But it got me wondering: **who supports the space program?** There is a variable in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08), NATSPAC, with a large sample size, which states:
 
-> We are faced with many problems in this country, none of which can be > solved easily or inexpensively. I’m going to name some of these > problems, and for each one I’d like you to tell me whether you think > we’re spending too much money on it, too little money, or about the > right amount.
+> We are faced with many problems in this country, none of which can be > solved easily or inexpensively. I’m going to name some of these problems, and for each one I’d like you to tell me whether you think we’re spending too much money on it, too little money, or about the right amount.
 
 I limited the results to between 1998-2008. Below are the demographic trends.
 

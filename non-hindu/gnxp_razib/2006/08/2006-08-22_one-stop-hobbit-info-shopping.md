@@ -13,7 +13,8 @@ Curious about what’s going on in the Paleo-shire? John Hawks is [all about one
 
 ### Related Posts:
 
-- [scienceblogging](https://www.gnxp.com/WordPress/2010/08/20/scienceblogging/) - [Why I'm jealous of John
+- [scienceblogging](https://www.gnxp.com/WordPress/2010/08/20/scienceblogging/)
+- [Why I'm jealous of John
   Hawks](https://www.gnxp.com/WordPress/2006/08/29/why-im-jealous-of-john-hawks/) - [Neandertal one stop
   shopping](https://www.gnxp.com/WordPress/2012/10/17/neandertal-one-stop-shopping/) - [The Starbucks
   effect?](https://www.gnxp.com/WordPress/2007/06/16/the-starbucks-effect/) - [John Hawks &

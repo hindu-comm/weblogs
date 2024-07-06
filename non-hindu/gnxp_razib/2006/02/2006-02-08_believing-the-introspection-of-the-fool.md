@@ -11,7 +11,10 @@ Believing the introspection of the fool
 
 “The fool saith in his heart, There is no God” (Psalms 52:1), and so begins the [ontological argument](https://en.wikipedia.org/wiki/Ontological_argument) for the existence of God formulated by [St. Anselm](http://plato.stanford.edu/entries/anselm/). In short, Anselm’s argument is that (list taken from Wikipedia):
 
-1.  God is the entity than which no greater entity can be conceived. 2.  The concept of God exists in human understanding. 3.  God does not exist in reality (assumed in order to refute). 4.  The concept of God existing in reality exists in human
+1.  God is the entity than which no greater entity can be conceived.
+2.  The concept of God exists in human understanding.
+3.  God does not exist in reality (assumed in order to refute).
+4.  The concept of God existing in reality exists in human
     understanding. 5.  If an entity exists in reality and in human understanding, this
     entity is greater than it would have been if it existed only in
     human understanding (a statement of existence as a perfection). 6.  From 1, 2, 3, 4, and 5, an entity can be conceived which is greater

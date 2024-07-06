@@ -13,7 +13,7 @@ Genomic databases: making tissue matching drives irrelevant?
 
 **Update:** Just to be clear, as as [Alex Khomenko](https://twitter.com/#!/akhomenko/status/136129586684633088) observes this isn’t a prime time feature yet. It should be though in a few years. He also [observes](https://twitter.com/#!/akhomenko/status/136133134432477184):
 
-> On the other hand, imagine the ethical implications of an accidentally > discovered unwilling match being pressured to donate.
+> On the other hand, imagine the ethical implications of an accidentally discovered unwilling match being pressured to donate.
 
 From what I recall about **half the people who end up being matched decline to be organ donors.\*** I think that expanding the pool of potential matches so that this situation is minimized far outweighs the cost of the risk Alex alludes to above.
 
@@ -21,7 +21,8 @@ From what I recall about **half the people who end up being matched decline to b
 
 ### Related Posts:
 
-- [Donors Choose Matching - let's crank this
+- [Donors Choose Matching
+- let's crank this
   up!](https://www.gnxp.com/WordPress/2006/06/19/donors-choose-matching-lets-crank-this-up/) - [Genetic matching for dating is as good as
   astrology](https://www.gnxp.com/WordPress/2014/11/03/genetic-matching-for-dating-is-as-good-as-astrology/) - [Gene Expression
   DonorsChoose](https://www.gnxp.com/WordPress/2011/10/20/gene-expression-donorschoose/) - [Donors Choose

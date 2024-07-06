@@ -31,9 +31,9 @@ Bringing it together one implication of the above is that the Dravidian language
 
 The reason I took time to put this post up now is that **it looks like the publication of ancient South Asian genomes from the Indus valley period is imminent.** From *The Guardian* on December 30th, [Rakhigarhi: Indian town could unlock mystery of Indus civilisation](https://www.theguardian.com/world/2015/dec/30/rakhigarhi-indian-town-unlock-mystery-indus-civilisation):
 
-> One has stood out: who exactly were the people of the Indus > civilisation? **A response may come within weeks.** >
-> “Our research will most definitely provide an answer. This will be a > major breakthrough. I am very excited,” said Vasant Shinde, an Indian > archaeologist leading current excavations at Rakhigarhi, which was > discovered in 1965. >
-> Shinde’s conclusions will be published in the new year. **They are > based on DNA sequences derived from four skeletons** – of two men, a > woman and a child – excavated eight months ago and checked against DNA > data from tens of thousands of people from all across the > subcontinent, central Asia and Iran.
+> One has stood out: who exactly were the people of the Indus civilisation? **A response may come within weeks.** >
+> “Our research will most definitely provide an answer. This will be a major breakthrough. I am very excited,” said Vasant Shinde, an Indian archaeologist leading current excavations at Rakhigarhi, which was discovered in 1965. >
+> Shinde’s conclusions will be published in the new year. **They are > based on DNA sequences derived from four skeletons** – of two men, a woman and a child – excavated eight months ago and checked against DNA data from tens of thousands of people from all across the subcontinent, central Asia and Iran.
 
 ![They looked somewhat like a recent Miss America!](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/01/2014_Miss_America_Nina_Davuluri_dips_her_toe_in_the_surf-214x300.jpg?resize=214%2C300)
 

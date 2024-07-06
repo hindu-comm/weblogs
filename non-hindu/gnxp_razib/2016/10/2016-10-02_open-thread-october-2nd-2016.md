@@ -11,7 +11,7 @@ Open Thread, October 2nd, 2016
 
 [![9780192805577](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/10/9780192805577.jpeg?resize=180%2C284)![9780192805577](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/10/9780192805577.jpeg?resize=180%2C284)](https://www.amazon.com/exec/obidos/ASIN/0192805576/geneexpressio-20)[Online Life Is Real Life, Aleph-Nought in a Series](http://scienceblogs.com/principles/2016/09/25/online-life-is-real-life-aleph-nought-in-a-series/):
 
-> I thought of this while I was reading John Scalzi’s epic post about > self-presentation, prompted by someone who complained that he behaved > differently in person than that person had expected from Scalzi’s > online persona. (Personally, having met John in person several times, > I don’t see it, but whatever…) Scalzi rightly notes that there’s > nothing at all wrong with this, and that much of the difference is > (probably) just basic courtesy and politeness.
+> I thought of this while I was reading John Scalzi’s epic post about > self-presentation, prompted by someone who complained that he behaved > differently in person than that person had expected from Scalzi’s > online persona. (Personally, having met John in person several times, I don’t see it, but whatever…) Scalzi rightly notes that there’s nothing at all wrong with this, and that much of the difference is (probably) just basic courtesy and politeness.
 
 It’s a major pet peeve of mine that people deduce from what they see on this blog and [Twitter](https://twitter.com/razibkhan) to generate a full picture of whom I am. If the data you saw were representative, then that might be one thing, but they really aren’t. Rather, they’re strongly biased.
 

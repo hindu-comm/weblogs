@@ -13,7 +13,8 @@ Mike Lynch and Bruce Walsh are working on a “sequel” to [Genetics and Analys
 
 ### Related Posts:
 
-- [Complex traits & evolution - follow
+- [Complex traits & evolution
+- follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [Mike Lynch elected to
   NAS](https://www.gnxp.com/WordPress/2009/04/29/mike-lynch-elected-to-nas/) - [Distributed variation prefers the golden
   mean](https://www.gnxp.com/WordPress/2013/09/08/distributed-variation-prefers-the-golden-mean/) - [The G matrix, pleiotropy and quantitative

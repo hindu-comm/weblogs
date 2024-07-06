@@ -11,7 +11,7 @@ Vitamin D is important to your health?
 
 The August issue of *The American Journal of Clinical Nutrition*, has a [supplement](http://www.ajcn.org/content/vol88/issue2/#SUPPLEMENT__VITAMIN_D_AND_HEALTH_IN_THE___ST_CENTURY__AN_UPDATE) of articles, [Vitamin D and Health in the 21st Century Update](http://www.ajcn.org/content/vol88/issue2/#SUPPLEMENT__VITAMIN_D_AND_HEALTH_IN_THE___ST_CENTURY__AN_UPDATE). *ScienceDaily* has some quotes from one of the main researchers:
 
-> … Norman identifies vitamin D’s potential for contributions to good > health in the **adaptive and innate immune systems,** the secretion > and regulation of insulin by the pancreas, the heart and blood > pressure regulation, muscle strength and brain activity. In addition, > access to adequate amounts of vitamin D is believed to be beneficial > towards reducing the risk of cancer.
+> … Norman identifies vitamin D’s potential for contributions to good > health in the **adaptive and innate immune systems,** the secretion > and regulation of insulin by the pancreas, the heart and blood pressure regulation, muscle strength and brain activity. In addition, access to adequate amounts of vitamin D is believed to be beneficial towards reducing the risk of cancer.
 
 I think a focus on the immune system is important from an evolutionary perspective.
 

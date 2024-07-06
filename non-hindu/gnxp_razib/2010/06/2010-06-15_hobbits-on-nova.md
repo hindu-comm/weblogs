@@ -11,7 +11,7 @@ Hobbits on NOVA
 
 This looks interesting, [Aliens from Earth](http://www.pbs.org/wgbh/nova/hobbit/):
 
-> An ancient legend on the Indonesian island of Flores tells of an > elflike creature similar to the fictional hobbit of novels and film. > But a controversial 2003 archeological find not only suggests that > there could be some truth behind the legend but promises to rewrite a > key chapter in the human evolutionary story. This program investigates > the discovery, analysis, and startling implications of the hobbit of > Flores.
+> An ancient legend on the Indonesian island of Flores tells of an > elflike creature similar to the fictional hobbit of novels and film. > But a controversial 2003 archeological find not only suggests that > there could be some truth behind the legend but promises to rewrite a key chapter in the human evolutionary story. This program investigates the discovery, analysis, and startling implications of the hobbit of Flores.
 
 Airs tonight in the USA.
 

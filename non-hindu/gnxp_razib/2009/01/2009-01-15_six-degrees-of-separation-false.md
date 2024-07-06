@@ -11,10 +11,10 @@ Six degrees of separation false?
 
 [Rebecca Skloot](http://scienceblogs.com/culturedish/2009/01/famous_six_degrees_of_separati.php?utm_source=sbhomepage&utm_medium=link&utm_content=channellink) points me to a [piece](http://news.bbc.co.uk/2/hi/programmes/more_or_less/5176698.stm) which claims that the idea that there are, on average, six degrees of separation is false:
 
-> It turned out, she told us, **that 95% of the letters sent out had > failed to reach the target.** >
-> Not only did they fail to get there in six steps, they failed to get > there at all. >
+> It turned out, she told us, **that 95% of the letters sent out had failed to reach the target.** >
+> Not only did they fail to get there in six steps, they failed to get there at all. >
 > … >
-> We like the idea of six degrees of separation, she says, because it > makes the world feel more intimate. **But there are barriers – like > race and class – she argues, that can sometimes make separation real > and deep.**
+> We like the idea of six degrees of separation, she says, because it makes the world feel more intimate. **But there are barriers – like race and class – she argues, that can sometimes make separation real and deep.**
 
 You can read the [longer more academic argument against the idea online](http://www.judithkleinfeld.com/ar_bigworld.html). The idea that there were only six degrees struck me as weird because my own personal life seems to exhibit a lot of clustering based on affinities.
 

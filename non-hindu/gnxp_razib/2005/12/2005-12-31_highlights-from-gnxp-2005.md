@@ -282,7 +282,8 @@ The relationship between religion and “neo-Darwinianism” — and why people 
 
 ### Related Posts:
 
-- [Bruce Lahn - single
+- [Bruce Lahn
+- single
   guy](https://www.gnxp.com/WordPress/2006/06/15/bruce-lahn-single-guy/) - [Brain size &
   genes](https://www.gnxp.com/WordPress/2006/08/02/brain-size-genes/) - [Bruce Lahn, gene thug strikes
   again](https://www.gnxp.com/WordPress/2006/12/22/bruce-lahn-gene-thug-strikes-again/) - [Eating their

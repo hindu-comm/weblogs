@@ -11,9 +11,9 @@ Asthma susceptibility gene in people of European ancestry
 
 [ORMDL3 variants associated with asthma susceptibility in North Americans of European ancestry](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WH4-4T9TC0S-8&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_version=1&_urlVersion=0&_userid=10&md5=d5c5064789dd2f89d0c9bd472361caf4). [ScienceDaily](http://www.sciencedaily.com/releases/2008/09/080915122721.htm) has a [summary](http://www.sciencedaily.com/releases/2008/09/080915122721.htm):
 
-> Asthma researchers have found that a gene variant known to raise the > risk of childhood asthma in **European children plays a similar role > in white American children, but not in African American children.**  
+> Asthma researchers have found that a gene variant known to raise the risk of childhood asthma in **European children plays a similar role in white American children, but not in African American children.**  
 > …  
-> Researchers from The Children’s Hospital of Philadelphia found that > variants in the > [ORMDL3](http://www.genecards.org/cgi-bin/carddisp.pl?gene=ORMDL3&search=GC17M0384*) > gene were associated with childhood-onset asthma among U.S. patients > of European ancestry. In 2007 a study team based in Europe had > identified the > [ORMDL3](http://www.genecards.org/cgi-bin/carddisp.pl?gene=ORMDL3&search=GC17M0384*) > gene, located on chromosome 17, as contributing to childhood asthma > among British and German children.
+> Researchers from The Children’s Hospital of Philadelphia found that > variants in the > [ORMDL3](http://www.genecards.org/cgi-bin/carddisp.pl?gene=ORMDL3&search=GC17M0384*) > gene were associated with childhood-onset asthma among U.S. patients > of European ancestry. In 2007 a study team based in Europe had > identified the [ORMDL3](http://www.genecards.org/cgi-bin/carddisp.pl?gene=ORMDL3&search=GC17M0384*) gene, located on chromosome 17, as contributing to childhood asthma among British and German children.
 
 ### Related Posts:
 

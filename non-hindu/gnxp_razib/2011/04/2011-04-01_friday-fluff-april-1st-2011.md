@@ -18,14 +18,15 @@ Friday Fluff – April 1st, 2011
 
 3\) **Comment of the week**, in response to [“Who thinks the sun goes around the earth?”](http://blogs.discovermagazine.com/gnxp/2011/03/who-thinks-the-sun-goes-around-the-earth/#comment-62169):
 
-> This question was paired with another asking how long it took for the > Earth to orbit the Sun: a day, a week, a month or a year. About half > of the population got both questions right.
+> This question was paired with another asking how long it took for the Earth to orbit the Sun: a day, a week, a month or a year. About half of the population got both questions right.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/myspace.jpg?resize=600%2C600)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/myspace.jpg?resize=600%2C600)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/myspace.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - July 1st,
+- [Friday Fluff
+- July 1st,
   2011](https://www.gnxp.com/WordPress/2011/07/01/friday-fluff-july-1st-2011/) - [Friday Fluff - April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff - April 15th,
   2011](https://www.gnxp.com/WordPress/2011/04/15/friday-fluff-april-14th-2011/) - [Friday Fluff – February 18th,

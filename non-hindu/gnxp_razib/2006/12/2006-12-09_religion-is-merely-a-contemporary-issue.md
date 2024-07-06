@@ -11,13 +11,13 @@ Religion is merely a contemporary issue?
 
 [NPR: Harvard Reconsiders Core-Course Requirements](http://www.npr.org/templates/story/story.php?storyId=6597183)
 
-> Harvard University is rethinking what future graduates should be > required to know. The latest plan stresses general knowledge about > “how the world works,” rather than academic methodology. The idea is > to make classes more relevant to the modern world.
+> Harvard University is rethinking what future graduates should be required to know. The latest plan stresses general knowledge about “how the world works,” rather than academic methodology. The idea is to make classes more relevant to the modern world.
 
 Perhaps it’s just a bit of biased editing, but the NPR clip makes the opposition sound stupid. I especially note the prof who appears to be arguing that knowledge of religion is a passing fad like horses and buggies. I also have to disagree with the notion that top scientists can’t be expected to teach a survey course — at least if they’re any good at teaching.
 
 **Update:** In the comments, epicurus points out [an op-ed by Pinker](http://www.thecrimson.com/printerfriendly.aspx?ref=515314) that sheds some light on the reasoning behind the criticism of the religion requirement. While I still know very little about the report in question, Pinker’s criticism of the stated reasoning behind the science requirement appears apt: “My first reservation pertains to the framing of the ‘Science and Technology’ requirement, which aims too low.” On religion:
 
-> Again, we have to keep in mind that the requirement will attract > attention from far and wide, and for a long time. **For us to magnify > the significance of religion as a topic equivalent in scope to all of > science, all of culture, or all of world history and current affairs, > is to give it far too much prominence.** It is an American > anachronism, I think, in an era in which the rest of the West is > moving beyond it.
+> Again, we have to keep in mind that the requirement will attract > attention from far and wide, and for a long time. **For us to magnify > the significance of religion as a topic equivalent in scope to all of > science, all of culture, or all of world history and current affairs, is to give it far too much prominence.** It is an American anachronism, I think, in an era in which the rest of the West is moving beyond it.
 
 ### Related Posts:
 

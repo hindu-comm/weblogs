@@ -11,11 +11,11 @@ Here we go again…
 
 I’m not going to spend too much time on this, but Larry Moran [has responded](https://sandwalk.blogspot.com/2007/09/p-ter-accuses-me-of-quote-mining.html) to [my post](https://www.gnxp.com/blog/2007/09/larry-moran-caught-quote-mining.php). He, of course, makes it sound as if he’s being perfectly reasonable. But consider [what he wrote in July](https://sandwalk.blogspot.com/2007/06/darwin-still-rules-but-some-biologists.html#comment-1527400113259184224):
 
-> \[E\]volutionary biologists like Dawkins and the other adaptationists > should have known about random genetic drift. Isn’t it amazing that > they don’t?
+> \[E\]volutionary biologists like Dawkins and the other adaptationists should have known about random genetic drift. Isn’t it amazing that they don’t?
 
 And compare with his [new line](https://sandwalk.blogspot.com/2007/09/p-ter-accuses-me-of-quote-mining.html):
 
-> There are many adaptationists who recognize that random genetic drift > exists. They will, when pressed, admit that neutral alleles can be > fixed in a population.
+> There are many adaptationists who recognize that random genetic drift exists. They will, when pressed, admit that neutral alleles can be fixed in a population.
 
 He goes on to dispute that his quotation from Dawkins was misleading. I obviously disagree, because I was misled! When Dawkins writes “If a whole-organism biologist sees a genetically determined difference among phenotypes, he already knows he cannot be dealing with neutrality in the sense of the modern controversy among biochemical geneticists”, I assumed (as most readers likely did) that Dawkins was dogmatically asserting that absolutely no phenotypic change can be neutral. He wasn’t, of course.
 

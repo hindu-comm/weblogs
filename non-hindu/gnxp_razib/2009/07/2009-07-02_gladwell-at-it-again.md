@@ -15,7 +15,7 @@ What both Gladwell and the reviewed book’s author, Chris Anderson, don’t see
 
 Gladwell even cites a revealing behavioral economics experiment by Dan Ariely:
 
-> Ariely offered a group of subjects a choice between two kinds of > chocolate — Hershey’s Kisses, for one cent, and Lindt truffles, for > fifteen cents. Three-quarters of the subjects chose the truffles. Then > he redid the experiment, reducing the price of both chocolates by one > cent. The Kisses were now free. What happened? The order of preference > was reversed. Sixty-nine per cent of the subjects chose the Kisses. > The price difference between the two chocolates was exactly the same, > but that magic word “free” has the power to create a consumer > stampede.
+> Ariely offered a group of subjects a choice between two kinds of > chocolate — Hershey’s Kisses, for one cent, and Lindt truffles, for > fifteen cents. Three-quarters of the subjects chose the truffles. Then > he redid the experiment, reducing the price of both chocolates by one > cent. The Kisses were now free. What happened? The order of preference > was reversed. Sixty-nine per cent of the subjects chose the Kisses. The price difference between the two chocolates was exactly the same, but that magic word “free” has the power to create a consumer stampede.
 
 In other words, FREE caused people to choose an inferior product more than they would have if the prices were both positive. Thus, in a world where there is more FREE stuff, the quality of stuff will decline. It’s hard to believe that this needs to be pointed out. And again, this is not the same as prices declining because technology has become more efficient — prices are still above 0 in that case. FREE lives in a world of its own.
 

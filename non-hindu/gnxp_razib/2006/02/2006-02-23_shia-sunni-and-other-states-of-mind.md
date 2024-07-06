@@ -22,7 +22,7 @@ Weird Addendum: In the “I don’t get religious people category,” please rea
 > I am the living Khidr, and Jesus, son of Mary.  
 > I am the Alexander of my contemporaries. >
 > The Perfect Guid has arrived. Faith has been brought to all.  
-> All the ghazis are full of joy at the coming of the seal of the > Prophets.  
+> All the ghazis are full of joy at the coming of the seal of the Prophets.  
 > A man has become a manifestation of the truth.  
 > Prostrate thyself!  
 > Pander not to Satan! Adam has put on new clothes.  

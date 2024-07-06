@@ -13,7 +13,7 @@ You’ve probably read Andrew Pollack’s [DNA Sequencing Caught in Deluge of Da
 
 This brings me to an old link. [Question of the Year](http://www.nature.com/ng/qoty/index.html):
 
-> The sequencing of the equivalent of an entire human genome for \$1,000 > has been announced as a goal for the genetics community, and new > technologies suggest that reaching this goal is a matter of when, > rather than if. What then? In celebration of its upcoming 15th > anniversary,Nature Geneticsis asking prominent geneticists to weigh > in on this question: what would you do if this sequencing capacity > were available immediately? This newNature Genetics‘Question of the > Year’ website, sponsored by Applied Biosystems, will reveal their > answers. The website will be updated monthly, so check back regularly > to get a glimpse of the future of genetics.
+> The sequencing of the equivalent of an entire human genome for \$1,000 > has been announced as a goal for the genetics community, and new > technologies suggest that reaching this goal is a matter of when, > rather than if. What then? In celebration of its upcoming 15th > anniversary,Nature Geneticsis asking prominent geneticists to weigh > in on this question: what would you do if this sequencing capacity > were available immediately? This newNature Genetics‘Question of the Year’ website, sponsored by Applied Biosystems, will reveal their answers. The website will be updated monthly, so check back regularly to get a glimpse of the future of genetics.
 
 Most of the responses are in 2007, with a few in early 2008. All the heavy hitters you have read about on this weblog are there.
 

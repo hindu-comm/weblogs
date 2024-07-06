@@ -13,7 +13,8 @@ I have a [review up](https://www.gnxp.com/blog/2007/04/when-rome-fell.php) over 
 
 ### Related Posts:
 
-- [On words](https://www.gnxp.com/WordPress/2007/04/29/on-words/) - [Holiday
+- [On words](https://www.gnxp.com/WordPress/2007/04/29/on-words/)
+- [Holiday
   reading](https://www.gnxp.com/WordPress/2012/12/21/holiday-reading/) - [Open Thread,
   7/6/2014](https://www.gnxp.com/WordPress/2014/07/06/open-762014/) - [The material consequences of Rome's
   decline](https://www.gnxp.com/WordPress/2018/05/19/the-material-consequences-of-romes-decline/) - [Carthage (and others) must be

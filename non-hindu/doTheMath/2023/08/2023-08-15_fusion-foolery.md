@@ -37,15 +37,15 @@ As I scanned articles from December 2022, most were about the triumph, a reminde
 
 A *very* few articles mentioned the energetic price of generating the laser pulse. In particular, I found [one in The Atlantic](https://www.theatlantic.com/technology/archive/2022/12/department-of-energy-nuclear-fusion-breakthrough-nif-livermore/672439/) by Charles Seife:
 
-> The “more energy out than laser energy in” equation masks several > fundamental problems. NIF’s doped glass lasers have an efficiency of > about 0.5 percent, meaning that they would have sucked in roughly 400 > megajoules of energy from the grid in order to produce the 2.1 > megajoules of light energy…
+> The “more energy out than laser energy in” equation masks several > fundamental problems. NIF’s doped glass lasers have an efficiency of about 0.5 percent, meaning that they would have sucked in roughly 400 megajoules of energy from the grid in order to produce the 2.1 megajoules of light energy…
 
 The second was a [Big Think article](https://bigthink.com/the-future/fusion-power-nif-hype-lose-energy/) by Tom Hartsfield.
 
-> The laser energy delivered to the target was 2.05 MJ, and the fusion > output was likely about 3.15 MJ. According to multiple sources on > NIF’s website, the input energy to the laser system is somewhere > between 384 and 400 MJ.
+> The laser energy delivered to the target was 2.05 MJ, and the fusion output was likely about 3.15 MJ. According to multiple sources on NIF’s website, the input energy to the laser system is somewhere between 384 and 400 MJ.
 
 And that’s just the laser energetics. The whole facility consumes scads more for countless other purposes. According to the [LLNL NIF FAQs](https://lasers.llnl.gov/about/faqs) (are you letting me get away with a triple acronym?),
 
-> NIF’s 192 powerful laser beams, housed in a **10-story building** the > size of **3 football fields**, can deliver more than 2 million joules > of ultraviolet laser energy in billionth-of-a-second pulses onto a > target about the size of a pencil eraser.
+> NIF’s 192 powerful laser beams, housed in a **10-story building** the size of **3 football fields**, can deliver more than 2 million joules of ultraviolet laser energy in billionth-of-a-second pulses onto a target about the size of a pencil eraser.
 
 The emphasis is mine, to highlight the point that this is a massive laser and facility. It’s like ten Walmart superstores stacked on top of each other. The lighting *alone* is likely taking tens of kilowatts, which could hypothetically be run for less than a minute on the energy gain from the fusion pop. It would be fun to count all the megajoules that went into press coverage of the event!
 
@@ -61,7 +61,7 @@ Laser repetition rates can be all over the map. 1,000 Hz is not in itself unusua
 
 An [interview](https://thebulletin.org/2022/12/the-energy-departments-fusion-breakthrough-its-not-really-about-generating-electricity/) of physicist Bob Rosner in the Bulletin of Atomic Scientists helpfully puts the NIF in context (it’s not about societal energy). In it, he reinforces some of what we’ve covered, and adds some financial detail.
 
-> This facility can do one shot a day; this is at slightly more than two > megajoules (of output). For an energy source, it would have to do the > same thing at least 10 times a second. If you ask, “Do the lasers > exist that can do this?” Not in your dream. The pellet cost a bit over > \$100,000 to manufacture.
+> This facility can do one shot a day; this is at slightly more than two > megajoules (of output). For an energy source, it would have to do the > same thing at least 10 times a second. If you ask, “Do the lasers exist that can do this?” Not in your dream. The pellet cost a bit over \$100,000 to manufacture.
 
 The 10 shots per second, I gather, is if the fusion yield could be improved by a couple orders of magnitude—approaching actual break-even. At \$100,000 per (literal) pop, and even just ten shots per second, we’re talking a cool million dollars per second!
 

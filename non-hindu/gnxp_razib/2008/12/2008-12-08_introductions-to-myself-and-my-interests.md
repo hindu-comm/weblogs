@@ -15,7 +15,7 @@ Everyone knows that evolution is a continuous process, where one population is d
 
 That definition is the biological species concept (what, did you think I would suggest anything else?). The BSC was first fully articulated by Ernst Mayr in his classic (but in my opinion somewhat boring) book, Systematics and Origin of Species. The current standard definition is that
 
-> species are groups of interbreeding natural populations that are > reproductively isolated from other such groups.
+> species are groups of interbreeding natural populations that are reproductively isolated from other such groups.
 
 This definition shows of precisely why the BSC is a useful definition for research: it tells that if we want to understand the origin of species, we ought to understand the origin of reproductive isolation! This has been the key motivation in the study of speciation for many years now, and is typically broken down into two components.
 

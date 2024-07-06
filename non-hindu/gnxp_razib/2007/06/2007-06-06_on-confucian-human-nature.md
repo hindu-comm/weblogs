@@ -11,7 +11,7 @@ On Confucian Human Nature
 
 I was reading [The Chinese Experience](https://www.amazon.com/exec/obidos/ASIN/1842120204/geneexpressio-20), a cultural history, when I was struck by something in the chapter on Confucianism:
 
-> …The belief that all men are born equal and are infinitely perfectible > is a basic and profoundly humanistic Confucian doctrine, which is not > paralleled in the main Christian tradition, which holds that all men > are of equal *value*, rather than that they are **born with similar > characteristics**. The belief goes back to the *Analetcs*, which > includes the saying, ‘By nature men are close to each other; through > experience they become remote from each other’….
+> …The belief that all men are born equal and are infinitely perfectible > is a basic and profoundly humanistic Confucian doctrine, which is not > paralleled in the main Christian tradition, which holds that all men > are of equal *value*, rather than that they are **born with similar characteristics**. The belief goes back to the *Analetcs*, which includes the saying, ‘By nature men are close to each other; through experience they become remote from each other’….
 
 The generality of this is not surprising to me. If you read histories of the intellectual ferment in early 20th century China you note that it was the conservative and reactionary Mandarin class who argued most vociferously against the European ideas regarding the racial chain of being and eugenics. Instead, liberal progressives were open to Western science, which implied innate between group and within group differences, while the Confucians were immovable form their time tested tabula rasa dogma.
 

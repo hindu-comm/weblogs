@@ -11,7 +11,7 @@ The Welshman who begat them all?
 
 [Steve](https://isteve.blogspot.com/2009/07/welsh-genghis-khan.html) points me to a new genetic genealogical study on a super-male lineage, [7 Million People Direct Descendants](https://www.theonion.com/content/news/7_million_people_direct?utm_source=a-section):
 
-> “This is one of the largest diasporas known to have descended from a > single progenitor,” said head researcher Lawrence Ghilcrest, adding > that DNA evidence now corroborates stories about the Welshman that > historians once dismissed as myth. “To have propagated his genetic > material so effectively, and across so much territory, we can only > infer Gwilym was quite the charmer.”
+> “This is one of the largest diasporas known to have descended from a > single progenitor,” said head researcher Lawrence Ghilcrest, adding > that DNA evidence now corroborates stories about the Welshman that historians once dismissed as myth. “To have propagated his genetic material so effectively, and across so much territory, we can only infer Gwilym was quite the charmer.”
 
 ### Related Posts:
 

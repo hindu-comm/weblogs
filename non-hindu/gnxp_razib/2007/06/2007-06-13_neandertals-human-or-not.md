@@ -11,7 +11,7 @@ Neandertals – "human" or not?
 
 New Scientist [has an article](http://www.newscientist.com/channel/being-human/mg19426085.400-neanderthals-bid-for-human-status.html) about Neandertals being human. Kambiz has an [extensive comment](http://anthropology.net/2007/06/13/just-how-human-were-neandertals/), but this is important:
 
-> Another hotly debated piece of Neandertal humanity, is the burial at > Shanidar Cave, where archaeologists found pollen from flowers on and > around the Neandertal individual. They interpreted it as a form or > mourning, or paying respects, like we do too but others contest that > it’s just flowers or pollen that blew over the bodies.
+> Another hotly debated piece of Neandertal humanity, is the burial at > Shanidar Cave, where archaeologists found pollen from flowers on and around the Neandertal individual. They interpreted it as a form or mourning, or paying respects, like we do too but others contest that it’s just flowers or pollen that blew over the bodies.
 
 Clearly, the Shanidar Cave example is not just a cause of inference, but an effect based on one’s priors. That is, the likelihood that the flowers are evidence of burial rites are conditioned on all the other pieces of data which we have on had about Neandertals. This sort of thing is why I punt to [John Hawks](http://johnhawks.net/weblog/) so often, I simply don’t know all the constellation of the data in paleoanthropology with enough confidence that I’m comfortable with the filters I’m employing.
 

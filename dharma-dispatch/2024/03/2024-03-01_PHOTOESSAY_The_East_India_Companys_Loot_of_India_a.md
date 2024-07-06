@@ -359,7 +359,7 @@ HECTOR SUTHERLAND MUNRO, son of Hector Munro, the British Major instrumental in 
 
 The July 12, 1793 edition of *The Sheffield Register* narrates what transpired next:
 
-> …an immense royal tyger sprang upon the unfortunate Munro, who was > sitting down. In a moment, his head was in the beast’s mouth, and he > rushed into the jungle with him, with as much ease as I could lift a > kitten; tearing him through the thicket bushes and trees… \[Munro\] > lived for twenty-four hours in the extreme of torture; his head and > skull were all torn and broke to pieces…\[His friends were thankful > that they were able to\] recover his body rather than to leave him to > be devoured limb by limb.
+> …an immense royal tyger sprang upon the unfortunate Munro, who was > sitting down. In a moment, his head was in the beast’s mouth, and he > rushed into the jungle with him, with as much ease as I could lift a > kitten; tearing him through the thicket bushes and trees… \[Munro\] > lived for twenty-four hours in the extreme of torture; his head and skull were all torn and broke to pieces…\[His friends were thankful that they were able to\] recover his body rather than to leave him to be devoured limb by limb.
 
 Hector Munro Jr was only seventeen.
 
@@ -485,7 +485,7 @@ THE IMPEACHMENT OF WARREN HASTINGS was as spectacular as the enormity of his bur
 
 Burke was incensed more by the fact that the East India Company had grossly transformed itself from being an “empire of the seas” to becoming an evil “empire of conquest.” But Burke was only echoing his contemporary, Adam Smith’s alarm in *The Wealth of Nations* that, “such exclusive companies are nuisances in every respect; always…inconvenient to the countries in which they are established, and destructive to those which have the misfortune to fall under their government.” Thus, Burke’s mission was not to dismantle the British empire. To him, the Empire per se presented no ethical qualms. What plundering Englishmen like Warren Hastings had done to its *reputation* presented the real problem. Therefore, publicly bludgeoning criminals like Hastings was the most important step in *reforming* the Empire. The scholar of British colonial history, T.W. Nechtman offers a valuable insight in this regard:
 
-> …Burke…was not to suggest that India had infected \[Hastings\] — which > was to say that Britons could be corrupted — but to argue that > Hastings represented the basest and the most defiled type of Briton > even before he left for India. **British imperialism therefore, could > not be faulted**…rather, it had failed to weed out a wicked subset of > Britons who were naturally corrupted…Hastings had never been an > honourable British citizen… \[he had to\] be seen as the leader of a > cabal of Britons in South Asia, who saw him as an example…**Burke saw > himself as engaged in a heroic effort save the “manners and virtues” > of the British nation** — the “national character…and our liberties.”
+> …Burke…was not to suggest that India had infected \[Hastings\] — which > was to say that Britons could be corrupted — but to argue that > Hastings represented the basest and the most defiled type of Briton > even before he left for India. **British imperialism therefore, could > not be faulted**…rather, it had failed to weed out a wicked subset of > Britons who were naturally corrupted…Hastings had never been an > honourable British citizen… \[he had to\] be seen as the leader of a cabal of Britons in South Asia, who saw him as an example…**Burke saw himself as engaged in a heroic effort save the “manners and virtues” of the British nation** — the “national character…and our liberties.”
 > (Emphasis added)
 
 Even as the impeachment dragged along, it sent out an unmistakable warning to the Company’s employees in India: you are merchants, not rulers. What is happening to Warren Hastings could…*will* happen to you as well.
@@ -553,23 +553,23 @@ Subscribe
 
 It was Burke’s turn next, and he administered the same if not greater impact as Sheridan. What Sheridan had done with his skill as a dramatist, Burke had surpassed with his matchless eloquence. T.B. Macaulay in his *Warren Hastings* paints the scene after Burke was done with the assembly:
 
-> …the ladies in the galleries unaccustomed to such displays of > eloquence…were in a state of uncontrollable emotion. Handkerchiefs > were pulled out; smelling-bottles were handed round; hysterical sobs > and screams were heard; and Mrs. Sherdian was carried out in a fit.
+> …the ladies in the galleries unaccustomed to such displays of eloquence…were in a state of uncontrollable emotion. Handkerchiefs were pulled out; smelling-bottles were handed round; hysterical sobs and screams were heard; and Mrs. Sherdian was carried out in a fit.
 
 Although the impeachment of Warren Hastings was carried out in the solemn climate of both Houses, it was really carried out in the court of public opinion. Arguably, it was the first of its sort measured on the scale of sheer drama. And the crowds swelled each day. To cite Gilbert Elliot again:
 
-> \[the audience\]…will have to mob…at the door till nine, when the > doors open, and then there \[is\] a rush as there is at the pit of the > playhouse when Garrick plays King Lear…The ladies are dressed and > mobbing it in the Palace Yard by six…and they sit from nine till > twelve before the business begins…Some people and, I believe > even…ladies have slept at the coffeehouses adjoining Westminster Hall, > that they may be sure of getting to the door in time.
+> \[the audience\]…will have to mob…at the door till nine, when the > doors open, and then there \[is\] a rush as there is at the pit of the > playhouse when Garrick plays King Lear…The ladies are dressed and > mobbing it in the Palace Yard by six…and they sit from nine till twelve before the business begins…Some people and, I believe even…ladies have slept at the coffeehouses adjoining Westminster Hall, that they may be sure of getting to the door in time.
 
 What the general public didn’t know was the Burke & Co had ransacked the finest traditions of English theatre dating back to Shakespeare’s time and had employed them with devastating effect. To paraphrase the scholar Anna Clark, Burke’s team had ensured that Warren Hastings’ impeachment was the 18th century’s most spectacular scandal.
 
 Even a brief peek into the proceedings reveals the savagery of Burke’s frontal assault against Hastings. Here are some excerpts from his addresses before the House of Lords in 1788 (from February thru May).
 
-> Do you want a criminal, my Lords? When was there so much iniquity ever > laid to the charge of any one? No, my Lords, you must not look to > punish any other such delinquent from India. **Warren Hastings has not > left substance enough in India to nourish such another delinquent**…
+> Do you want a criminal, my Lords? When was there so much iniquity ever laid to the charge of any one? No, my Lords, you must not look to punish any other such delinquent from India. **Warren Hastings has not left substance enough in India to nourish such another delinquent**…
 
 He *is* a robber. He steals, he filches, he plunders, he oppresses, he extorts,— all for the good of the dear East India Company…all in gratitude to the dear perfidious Court of Directors…He is not only a practitioner of bribery, but a professor, a doctor upon the subject…We have not chosen to bring before you a poor, puny trembling delinquent…\[rather\] we have brought before you the first man of India in rank, authority and station…**a captain-general of inquiry, under whom all the fraud, all the peculation, all the tyranny in India are embodied, disciplined, arrayed and paid**… (Italics in the original. Emphasis added)
 
 Members of both Houses were both captivated and convinced, and they not only agreed with Burke but charged Warren Hastings in choicest language. The House of Lords indicted Hastings with
 
-> ferocity, treachery, cruelty, malignity of temper; in short, nothing > that does not argue a total extinction of all moral principle, that > does not manifest an inveterate blackness of heart, dyed in the grain > of malice, vitiated, corrupted, gangrened to the very core.
+> ferocity, treachery, cruelty, malignity of temper; in short, nothing that does not argue a total extinction of all moral principle, that does not manifest an inveterate blackness of heart, dyed in the grain of malice, vitiated, corrupted, gangrened to the very core.
 
 The conservative and the proud Briton in Burke had not only drawn the first blood but had attracted legions of supporters across England. And they descended torrentially. Newspapers, journals, activists and public-spirited individuals rallied behind his cause and vied with one another in blasting Warren Hastings.
 
@@ -603,7 +603,7 @@ If this was not enough, this obscene class of the nouveau riche also had the tem
 
 Writing in the 19th century, Macaulay unsparingly assesses the whole scenario in his biographical essay on Clive:
 
-> \[They\] had sprung from obscurity…they acquired great wealth…they > exhibited it insolently…they spent it extravagantly… \[which\] raised > the price of everything in their neighbourhoods, from fresh eggs to > rotten boroughs… their liveries outshone those of dukes…their > carriages were finer than the Lord Mayor \[of London\]…**the examples > of their large and ill governed households corrupted half the servants > in the country… with all their magnificence, \[they\] could not catch > the tone of good society…they were still low men**… (Emphasis added)
+> \[They\] had sprung from obscurity…they acquired great wealth…they > exhibited it insolently…they spent it extravagantly… \[which\] raised > the price of everything in their neighbourhoods, from fresh eggs to > rotten boroughs… their liveries outshone those of dukes…their > carriages were finer than the Lord Mayor \[of London\]…**the examples of their large and ill governed households corrupted half the servants in the country… with all their magnificence, \[they\] could not catch the tone of good society…they were still low men**… (Emphasis added)
 
 The laundry list of the practical sins of these English Nabobs encompassed everyone’s fury. In Macaulay’s acerbic pen, “Methodists and libertines, philosophers and buffoons, were for once on the same side. “ So were playwrights and novelists: “If any of our readers will take the trouble to search in the dusty recesses of circulating libraries for some novel published sixty years ago, the chance is that the villain or sub-villain of the story will prove to be a savage old Nabob, with an immense fortune, a tawny complexion, a bad liver, and a worse heart.” 
 
@@ -612,7 +612,7 @@ But Macaulay was merely borrowing from the lived experiences described by Englis
 
 Here is Horace Walpole for example, writing a letter to his friend, Horace Mann in 1761. Just four years after the fateful Battle of Palashi. 
 
-> The dearness of everything is enormous and intolerable. The country is > so rich that it makes everybody poor…unless…my Lord Clive send(s) over > diamonds enough for current coin, I do not see how one shall be able > to purchase necessaries… \[Britain\] beats Rome in…extravagance; and > Spain in avarice and cruelty.
+> The dearness of everything is enormous and intolerable. The country is > so rich that it makes everybody poor…unless…my Lord Clive send(s) over diamonds enough for current coin, I do not see how one shall be able to purchase necessaries… \[Britain\] beats Rome in…extravagance; and Spain in avarice and cruelty.
 
 The condensed essence of all these condemnations was straightforward: the British empire had enlarged private fortunes while simultaneously destabilising the nation. To invoke T.W. Nechtman once more, “Those same fortunes were turning young Britons into Nabobs, and the fear was that Nabobs would not only upset the social order but would buy their way into the nation’s political institutions.” But this purchase of political power and influence was also impelled by a keen self-awareness on the part of the Nabobs themselves: they were fabulously, grotesquely wealthy but they were also social pariahs. The taint of their low birth never left them.
 

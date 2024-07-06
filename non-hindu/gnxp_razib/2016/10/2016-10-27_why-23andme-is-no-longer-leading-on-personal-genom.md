@@ -15,8 +15,8 @@ But it wasn’t all in vain. 23andMe is today a healthy company, and its shoot-f
 
 So what’s going with stories like this, [23andMe Has Abandoned The Genetic Testing Tech Its Competition Is Banking On](https://www.buzzfeed.com/stephaniemlee/23andme-anne-wojcicki-next-generation-sequencing):
 
-> For years, genetic-testing startup 23andMe was working to develop a > cutting-edge technology that could dramatically expand what its > customers might learn about their DNA. While the company’s core > product, a \$199 “spit kit,” can tell you about your health and > ancestry based on small bits of your genetic code, tests based on the > new technology — called next-generation sequencing — could provide > much more comprehensive information, including your potential risks > for many diseases. >
-> But 23andMe has given up on the technology for now, BuzzFeed News has > learned.
+> For years, genetic-testing startup 23andMe was working to develop a > cutting-edge technology that could dramatically expand what its > customers might learn about their DNA. While the company’s core > product, a \$199 “spit kit,” can tell you about your health and > ancestry based on small bits of your genetic code, tests based on the new technology — called next-generation sequencing — could provide much more comprehensive information, including your potential risks for many diseases. >
+> But 23andMe has given up on the technology for now, BuzzFeed News has learned.
 
 I think one way to understand what’s going on is that though the firm’s consumer face is still as a DTC personal genomics outfit, **it is really banking on becoming a genetically savvy pharmaceutical corporation.** Genomics is the future, but pharm is the present.
 

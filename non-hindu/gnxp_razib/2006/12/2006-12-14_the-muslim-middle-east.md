@@ -26,7 +26,8 @@ The map is rough and doesn’t show frequencies. For example, Pakistan is about 
 
 ### Related Posts:
 
-- [Sunni vs. Shia - let me school
+- [Sunni vs. Shia
+- let me school
   you](https://www.gnxp.com/WordPress/2006/12/10/sunni-vs-shia-let-me-school-you/) - [Obscure Middle Eastern religious cults - part
   n](https://www.gnxp.com/WordPress/2007/10/10/obscure-middle-eastern-religious-cults-part-n/) - [Shia & Sunni](https://www.gnxp.com/WordPress/2006/12/04/shia-sunni/) - [Comparing American conservative Protestants &
   Muslims](https://www.gnxp.com/WordPress/2012/04/29/comparing-american-conservative-protestants-muslims/) - [Sunni vs. Shia

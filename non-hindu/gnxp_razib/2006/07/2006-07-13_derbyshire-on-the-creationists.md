@@ -11,7 +11,7 @@ Derbyshire on the creationists
 
 Once again into the breach, etc. Derbyshire, when [responding to the latest creationist article](http://article.nationalreview.com/?q=YzUwMDliZTQxYTJlNjUzZTQ5YTRhNGJhOTQ0NmMxMzk=) published in National Review ([link](http://www.discovery.org/scripts/viewDB/index.php?command=view&id=3631)), makes this observation:
 
-> It’s a wearying business, arguing with Creationists. Basically, it is > a game of Whack-a-Mole. They make an argument, you whack it down. They > make a second, you whack it down. They make a third, you whack it > down. So they make the first argument again.
+> It’s a wearying business, arguing with Creationists. Basically, it is a game of Whack-a-Mole. They make an argument, you whack it down. They make a second, you whack it down. They make a third, you whack it down. So they make the first argument again.
 
 ..Which, I gather, is why this blog has outsourced that fight to [“The Panda’s Thumb”](http://www.pandasthumb.org/), leaving us time for more worthwhile pursuits, such as extensive headbutting commentary and arguing over Finns in comments. No, I really mean it. Head over to [www.freerepublic.com](http://www.freerepublic.com) and search for “evolution” if in doubt.
 

@@ -11,7 +11,7 @@ What men & women what
 
 [FuturePundit](http://www.futurepundit.com/archives/005941.html) has a post, [Mate Preference Trends](http://www.futurepundit.com/archives/005941.html):
 
-> Strip away tradition. Strip away religious beliefs. What happens? > **Men and women are looking at each other in ways that seem even more > influenced by their evolutionary heritage.** The mating market looks > like it is becoming more competitive.
+> Strip away tradition. Strip away religious beliefs. What happens? **Men and women are looking at each other in ways that seem even more influenced by their evolutionary heritage.** The mating market looks like it is becoming more competitive.
 
 He goes on to observe that men are becoming more interested in a potential mate’s earning power, and far less in chastity (I do think that there’s also a supply issue here shifting the rank order of preferences, if you know what I mean). Women, like men, now prioritize romantic love. What’s going on?
 

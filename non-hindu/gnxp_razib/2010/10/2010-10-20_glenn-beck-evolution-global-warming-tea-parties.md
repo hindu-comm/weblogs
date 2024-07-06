@@ -11,8 +11,8 @@ Glenn Beck, Evolution, Global Warming & Tea Parties
 
 Glenn Beck said some [dumb, but unsurprising, things about evolution](http://www.theatlanticwire.com/features/view/feature/Glenn-Beck-Says-No-Proof-of-Evolution-2355):
 
-> How many people believe in evolution in this country? I’d like to see. > I mean, I don’t know why it’s unreasonable to say this. I’m not God so > I don’t know how God creates. **I don’t think we came from monkeys. I > think that’s ridiculous. I haven’t seen a half-monkey, half-person > yet.** Did evolution just stop? Did we all of sudden — there’s no > other species that’s developing into half-human? >
-> **It’s like global warming.** So I don’t know why it is so problematic > for people to just so, I don’t know how God creates. I don’t know how > we got here. If I get to the other side and God’s like, “You know > what, you were a monkey once,” I’ll be shocked, but I’ll be like, > “Whatever.”
+> How many people believe in evolution in this country? I’d like to see. > I mean, I don’t know why it’s unreasonable to say this. I’m not God so > I don’t know how God creates. **I don’t think we came from monkeys. I think that’s ridiculous. I haven’t seen a half-monkey, half-person yet.** Did evolution just stop? Did we all of sudden — there’s no other species that’s developing into half-human? >
+> **It’s like global warming.** So I don’t know why it is so problematic > for people to just so, I don’t know how God creates. I don’t know how we got here. If I get to the other side and God’s like, “You know what, you were a monkey once,” I’ll be shocked, but I’ll be like, “Whatever.”
 
 First, Glenn Beck is an [adult convert](https://en.wikipedia.org/wiki/Glenn_Beck#Religious_beliefs) to the Mormon religion. Therefore if he [is exalted to godhood](https://en.wikipedia.org/wiki/Exaltation_(LDS_Church)#Different_kingdoms) he could create a universe of half-monkeys/half-men for kicks. Second, note the details of Beck’s background. He was raised Roman Catholic, and secular for most of his adulthood, before coming to the Mormon church. **None of these affinities *entails* a rejection of evolution.** You are probably well aware that the Roman Catholic church has made its peace, broadly speaking, with evolution. And there’s nothing about secularism which necessitates a rejection of evolution. But what about Mormonism? This is the peculiarity. [Mormons are broadly sympathetic to Creationism](http://blogs.discovermagazine.com/gnxp/2009/02/which-religious-groups-are-creationist/), but there’s nothing in the religion’s teachings which imply this as being the orthodox position. This is why [Mitt Romney](http://thecaucus.blogs.nytimes.com/2007/05/11/romney-elaborates-on-evolution/) can robustly support the teaching of evolution. So what’s going in?
 
@@ -35,7 +35,8 @@ But back to Josh. He decided to do some [structural equation modeling](https://e
 
 ### Related Posts:
 
-- [Friday Fluff - October 22nd,
+- [Friday Fluff
+- October 22nd,
   2010](https://www.gnxp.com/WordPress/2010/10/22/friday-fluff-october-22nd-2010/) - [A relationship in attitudes toward Global Warming
   &…](https://www.gnxp.com/WordPress/2010/10/24/a-relationship-in-attitudes-toward-global-warming-evolution/) - [Global Warming: Cool
   It!](https://www.gnxp.com/WordPress/2006/05/27/global-warming-cool-it/) - [Daily Data Dump -

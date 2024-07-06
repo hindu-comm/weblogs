@@ -11,9 +11,9 @@ Talent, hard work, genes and luck
 
 [David Brooks](http://www.nytimes.com/2009/05/01/opinion/01brooks.html) has a column out where he mulls over the role of time invested in amplifying talent:
 
-> If you wanted to picture how a typical genius might develop, you’d > take a girl who possessed a slightly above average verbal ability. It > wouldn’t have to be a big talent, just enough so that she might gain > some sense of distinction. Then you would want her to meet, say, a > novelist, who coincidentally shared some similar biographical traits. > Maybe the writer was from the same town, had the same ethnic > background, or, shared the same birthday — anything to create a sense > of affinity.  
+> If you wanted to picture how a typical genius might develop, you’d > take a girl who possessed a slightly above average verbal ability. It > wouldn’t have to be a big talent, just enough so that she might gain > some sense of distinction. Then you would want her to meet, say, a > novelist, who coincidentally shared some similar biographical traits. Maybe the writer was from the same town, had the same ethnic background, or, shared the same birthday — anything to create a sense of affinity.  
 > …  
-> The primary trait she possesses is not some mysterious genius. **It’s > the ability to develop a deliberate, strenuous and boring practice > routine.**
+> The primary trait she possesses is not some mysterious genius. **It’s the ability to develop a deliberate, strenuous and boring practice routine.**
 
 Brooks’ attempt is to slap back at genetic determinism, but it sounds like he could be describing a [gene-environment correlation](https://en.wikipedia.org/wiki/Gene-environment_correlation). To a great extent that’s what “amplifying talent” is, a positive feedback loop between propensity and hard work.
 

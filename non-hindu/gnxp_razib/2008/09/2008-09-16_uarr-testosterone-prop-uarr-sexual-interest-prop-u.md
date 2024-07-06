@@ -11,9 +11,9 @@ Source: [here](https://www.gnxp.com/WordPress/2008/09/16/uarr-testosterone-prop-
 
 [](https://www.gnxp.com/blog/uploaded_images/tn2_natalie_portman_2-739214.jpg)[Attraction ‘down to testosterone’](http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/7616354.stm):
 
-> Dr Ben Jones, a psychology lecturer, said: “People preferred different > types of face in the session where their testosterone level was > highest than in the session where it was lowest. >
-> “When men’s testosterone levels were high, they were more attracted to > feminine women. When women’s testosterone levels were high, they were > more attracted to masculine men. >
-> “Since masculine men and feminine women are thought to produce the > healthiest children and sex drive is higher when testosterone levels > are also high, these findings suggest that men and women in hormonal > states where their interest in sex is highest, show stronger > attraction to high quality – or healthy – mates.”
+> Dr Ben Jones, a psychology lecturer, said: “People preferred different types of face in the session where their testosterone level was highest than in the session where it was lowest. >
+> “When men’s testosterone levels were high, they were more attracted to feminine women. When women’s testosterone levels were high, they were more attracted to masculine men. >
+> “Since masculine men and feminine women are thought to produce the > healthiest children and sex drive is higher when testosterone levels are also high, these findings suggest that men and women in hormonal states where their interest in sex is highest, show stronger attraction to high quality – or healthy – mates.”
 
 They used a survey. Is there any way that fMRI would add more value or precision? This hasn’t been published yet, but since it’s about hotitude of course it will get a lot of play. Since I don’t know how strong the effect was from this report I’ll hold off on the judging the evolutionary explanation. But I wonder if the constant stream of these sorts of evolutionary psychology results are a function of the British press, or is evolutionary psychology just really popular on that side of the pond?
 

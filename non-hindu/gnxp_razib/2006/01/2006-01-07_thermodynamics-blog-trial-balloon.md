@@ -11,7 +11,7 @@ Thermodynamics blog trial balloon
 
 I recieved this email this morning re: thermodynamics:
 
-> I think this is an excellent idea, and I think GNXP can help make it > happen. I would like to request a GNXP open thread specifically to > explore the possibility of a group blog on this and related topics – > information theory, probability and statistics, maybe even fluid > dynamics… There is a whole universe of topics which could flow > together in such a blog, it’s just a matter of getting an initial > combination of people and topics that will subsequently be > self-sustaining. >
+> I think this is an excellent idea, and I think GNXP can help make it > happen. I would like to request a GNXP open thread specifically to > explore the possibility of a group blog on this and related topics – > information theory, probability and statistics, maybe even fluid > dynamics… There is a whole universe of topics which could flow together in such a blog, it’s just a matter of getting an initial combination of people and topics that will subsequently be self-sustaining. >
 > If you do decide to make such a post, feel free to quote this email.
 
 I actually think that **basic physics and chemistry** are pretty important, so if someone is willing to start up a weblog on this topic and it finds a niche that isn’t already taken up in the ‘blogosphere’ I will certainly link immediately. But unlike something like evolutionary theory, cosmology or psychometrics I have had little long term success in keeping anyone’s attention on these topics in personal conversation since they often have no strong opinions *a priori* and are happy to stay that way.

@@ -13,7 +13,9 @@ Since readers of this weblog tend toward nerdishness I’m assuming they’re fo
 
 ### Related Posts:
 
-- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/) - [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/) - [Finland narks on Earth in South
+- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/)
+- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/)
+- [Finland narks on Earth in South
   Park](https://www.gnxp.com/WordPress/2009/04/16/finland-narks-on-earth-in-south-park/) - [Star Trek, Here I
   Stand](https://www.gnxp.com/WordPress/2009/05/12/star-trek-here-i-stand/) - [HDTV, passing me
   by....](https://www.gnxp.com/WordPress/2007/04/01/hdtv-passing-me-by/) - [Transformers: Revenge of the

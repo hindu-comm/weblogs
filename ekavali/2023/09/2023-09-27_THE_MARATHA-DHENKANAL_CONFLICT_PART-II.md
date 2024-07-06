@@ -133,7 +133,7 @@ The Gajapati of Khordha,Dibyasingha deva-II ,whom most of the native chiefs of O
   
 Rosita Forbes,a British lady traveller who visited the Dhenkanal Princely state in the 20th century wrote the following about Raja Trilochana Mahendra Bahadur:
 
-> *Unlike the other Eastern chiefs, who sought peace by paying tribute > to the fierce Maratha, Trilochan would never acknowledge the > suzerainty of the marauders, on the contrary, he wrested considerable > territory from them and his successors continued to enforce their > supermacy over neighbouring chiefs, one of whom was the chief of > Hindol. He used to make an annual present of sweets as a mark of > tribute".  
+> *Unlike the other Eastern chiefs, who sought peace by paying tribute > to the fierce Maratha, Trilochan would never acknowledge the > suzerainty of the marauders, on the contrary, he wrested considerable > territory from them and his successors continued to enforce their supermacy over neighbouring chiefs, one of whom was the chief of Hindol. He used to make an annual present of sweets as a mark of tribute".  
 > *
 
 **REFERENCES:**

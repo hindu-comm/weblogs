@@ -11,7 +11,7 @@ Sex ratio & preferences
 
 The New York Times has a story, [Where Boys Were Kings, a Shift Toward Baby Girls](http://www.nytimes.com/2007/12/23/world/asia/23skorea.html?_r=1&hp=&oref=slogin&pagewanted=all):
 
-> …South Korea is the first of several Asian countries with large sex > imbalances at birth to reverse the trend, moving toward greater parity > between the sexes. Last year, the ratio was 107.4 boys born for every > 100 girls, still above what is considered normal, but down from a peak > of 116.5 boys born for every 100 girls in 1990.
+> …South Korea is the first of several Asian countries with large sex > imbalances at birth to reverse the trend, moving toward greater parity between the sexes. Last year, the ratio was 107.4 boys born for every 100 girls, still above what is considered normal, but down from a peak of 116.5 boys born for every 100 girls in 1990.
 
 Please note that the “normal” sex ratio is usually skewed somewhat toward males, around 105 to 100 (the explanation I received about this is that sperm carrying the Y are faster because they are smaller, I appreciate anyone to falsifying this if they know the “true story”). But I also found it peculiar that the article did not note that another East Asian society has switched from son to daughter preference in the past few decades, [Japan](http://paa2006.princeton.edu/download.aspx?submissionId=60747). The moral of this story is, I think, that economic and social development are more critical in shaping these trends than laws enacted from on high. Japan developed earlier than South Korea, and the change in societal attitudes on this issue occurred earlier.
 

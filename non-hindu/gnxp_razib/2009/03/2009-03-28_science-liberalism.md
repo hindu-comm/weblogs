@@ -11,7 +11,7 @@ Science & liberalism
 
 [Faith in science and social conservatism](https://inductivist.blogspot.com/2009/03/faith-in-science-and-social.html):
 
-> Except for crime and gun control, **faith in science is associated > with socially liberal positions.** For guns and crime, the direction > of the relationship is liberal, but the relationships are not > statistically significant.
+> Except for crime and gun control, **faith in science is associated with socially liberal positions.** For guns and crime, the direction of the relationship is liberal, but the relationships are not statistically significant.
 
 I’ve dug through the GSS on this and this seems about right. Even on topics where many would assume that conservatives trump liberals, there isn’t a strong difference. For example, Genetically Modified Foods:
 

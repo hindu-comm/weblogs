@@ -11,7 +11,7 @@ Coalescent theory
 
 As background to a couple [previous](https://www.gnxp.com/blog/2007/12/more-notes-on-acceleration.php) [posts](https://www.gnxp.com/blog/2007/12/notes-on-evidence-for-acceleration.php) where I made somewhat technical comments about simulations in population genetics, I was in the middle of writing a rather lengthy primer on coalescent theory. Then I saw that [RPM has an old post](http://scienceblogs.com/evolgen/2006/02/the_coalescent.php) pointing to some of the same material I was planning on hitting. So instead I’ll just say read [his post](http://scienceblogs.com/evolgen/2006/02/the_coalescent.php) and the links therein. I may get around to finishing what I was writing (there’s a bit of math that most people don’t care to see, so maybe not), but you can essentially boil it down to RPM’s last point:
 
-> Without a null model based on the coalescent, there is no way to > statistically test hypotheses that are based on DNA data, regarding > things like population structure.
+> Without a null model based on the coalescent, there is no way to statistically test hypotheses that are based on DNA data, regarding things like population structure.
 
 Or natural selection.
 

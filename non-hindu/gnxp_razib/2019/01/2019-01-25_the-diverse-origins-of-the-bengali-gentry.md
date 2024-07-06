@@ -19,7 +19,8 @@ The public data have a large number of Bangladeshis. Sampled in Dhaka. Unlike mo
 
 The triangles on the plot are from Kayastha individuals from West Bengal. I have seen a few Kayasthas from this region, and two trends about them:
 
-1.  closer to Bangladeshis than Bengali Brahmins 2.  a lower fraction of East Asian ancestry than Bangladeshis
+1.  closer to Bangladeshis than Bengali Brahmins
+2.  a lower fraction of East Asian ancestry than Bangladeshis
 
 The lower fraction of East Asian ancestry is explained by an admixture cline which is a function of geography. My own East Asian admixture is high, and that is easily explained by the fact that my family is from the very east of eastern Bengal. As far as number one, one hypothesis some have presented is in Bengal the influence of Buddhism relatively late in history (down to \~1000 AD) resulted in a relatively panmicticpopulation with low amounts of structure (a problem with this model is that Buddhism was strong in Punjab relatively late, but that region has lots of structure).
 

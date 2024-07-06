@@ -49,7 +49,7 @@ Share
 
 TODAY, BENJAMIN DISRAELI’S NAME PRIMARILY evokes a foggy recollection as someone who was well-known for his prose style. Until the late 1970s or early 1980s, his fat novel *Sybil* was a prescribed text in the non-detailed English syllabus for undergraduate students of India. In his own time, outside the literary world, Disraeli commanded two terms as Prime Minister of England and singlehandedly turned around the fortunes of the Conservative Party to the extent that it became synonymous with the unmitigated evil that was the British Empire. He of course, phrased it differently: the Conservative Party was the grandest celebration of the glory and power of the British Empire whose crown jewel undoubtedly was India. With all the honesty that bigotry and racism can inspire, Disraeli genuinely believed that colonial Britain was actually giving “good government” to India. This in turn led an Indian scholar to make this delicious remark of sarcasm:
 
-> In a subject country, nothing could be more dangerous than good > government.
+> In a subject country, nothing could be more dangerous than good government.
 
 In this grand endeavour of empire-scale plunder and oppression, Disraeli was ably assisted by two fellow-racists and cupbearers. The first was his protégé, “Lord” Lytton, the viceroy of India from 1876-80 and presided over the Great Famine of 1876-78, which wiped out a whopping *ten million* Indians in a substantial geography spread across the presidencies of Madras and Bombay and the Princely States of Mysore, Hyderabad, and large parts of the Central Provinces, North Western Provinces and Punjab. The second was “Lord” Salisbury who was Secretary of State for India from 1874-78.
 

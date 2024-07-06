@@ -33,7 +33,7 @@ Looking at this chart it would strongly appear that higher complexity majors con
 
 One reason we might guess that smarter people in high school, or in more challenging colleges or majors, delay their sexual debuts is because they are delaying gratification in expectation of future reward. Sexual behavior (or at least the investment needed to procure a partner or sustain one) may compete with time/resources required for other goals, and intelligent people may have more demanding goals. James Watson even hinted at this in a [recent](http://www.esquire.com/features/articles/2006/061207_mfe_January_07_watson.html) Esquire magazine piece:
 
-> If I had been married earlier in life, I wouldn’t have seen the double > helix. I would have been taking care of the kids on Saturday. On the > other hand, I was lonely a lot of the time.
+> If I had been married earlier in life, I wouldn’t have seen the double helix. I would have been taking care of the kids on Saturday. On the other hand, I was lonely a lot of the time.
 
 While sex may not be marriage, it may still require effort that intelligent people prefer to invest elsewhere. This would fit Aldus Huxley’s [alleged](http://www.brainyquote.com/quotes/authors/a/aldous_huxley.html) definition of an intellectual as a person who’s found one thing that’s more interesting than sex.
 

@@ -15,7 +15,8 @@ In this list I’ve limited it to posts which were published in 2011. For much o
 
 ### Related Posts:
 
-- [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/) - [List of top 10 evolutionary biologists in
+- [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/)
+- [List of top 10 evolutionary biologists in
   history](https://www.gnxp.com/WordPress/2017/03/29/list-of-top-10-evolutionary-biologists-in-history/) - [A quick note on comments
   policy](https://www.gnxp.com/WordPress/2012/05/25/a-quick-note-on-comments-policy/) - [Promoting
   baby-bloggers](https://www.gnxp.com/WordPress/2011/01/19/promoting-baby-bloggers/) - [Comments, terms of use,

@@ -19,7 +19,7 @@ Today we have many of the questions resolved. At this point, **we know that the 
 
 Ancient DNA has also established the **likelihood that this Siberian-like element is relatively new to the Baltic region.** In a recent paper, [The genetic prehistory of the Baltic Sea region](https://www.nature.com/articles/s41467-018-02825-9):
 
-> We suggest that the Siberian and East Asian related ancestry in > Estonia, and Y-haplogroup N in north-eastern Europe, where it is > widespread today, arrived there after the Bronze Age, ca. 500 calBCE, > as we detect neither in our Bronze Age samples from Lithuania and > Latvia.
+> We suggest that the Siberian and East Asian related ancestry in > Estonia, and Y-haplogroup N in north-eastern Europe, where it is widespread today, arrived there after the Bronze Age, ca. 500 calBCE, as we detect neither in our Bronze Age samples from Lithuania and Latvia.
 
 This is not the only ancient DNA paper that shows this. Of course, sampling is imperfect, and perhaps they’ve missed pockets of ancient Finnic peoples. But the most thorough analysis of Mesolithic hunter-gatherers in Scandinavian does not pick them up either, [Population genomics of Mesolithic Scandinavia: Investigating early postglacial migration routes and high-latitude adaptation](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003703). Populations, such as the Comb Ceramic Culture, which have been identified as possible ancestors of the modern Finnic culture and ethnicity, lack the distinctive Siberian-like component.
 

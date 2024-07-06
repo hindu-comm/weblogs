@@ -12,7 +12,7 @@ Interview with Luigi Luca Cavalli-Sforza in Nature
 [The genetic map maker](http://www.nature.com/news/2007/071017/full/news.2007.166.html). Read the whole thing, but this is interesting:
 
 > **How did you feel about being accused of racism?**  
-> Well, many mistakes are made and that was a very curious one. I’d > argued for decades that the concept of ‘race’ defined by external > characteristics — such as skin colour, size variations or facial fat — > is nonsense. *These visible characteristics evolved under natural > selection, mostly to cope with local environments, and have no deeper > base.* \[my emphasis -r\]
+> Well, many mistakes are made and that was a very curious one. I’d > argued for decades that the concept of ‘race’ defined by external > characteristics — such as skin colour, size variations or facial fat — is nonsense. *These visible characteristics evolved under natural selection, mostly to cope with local environments, and have no deeper base.* \[my emphasis -r\]
 
 Hm. That’s interesting. In his magisterial [The History and Geography of Human Genes](https://www.amazon.com/exec/obidos/ASIN/0691029059/geneexpressio-20) Cavalli-Sforza sketched out the phylogeny of our species. Here he is pointing out that many salient physical features are overlain on top of genealogical substratum. I’ve made [this point](https://www.gnxp.com/blog/2007/09/new-races-of-man.php) recently myself, but as usual Cavalli-Sforza has anticipated me!  
 Here is my [interview](https://www.gnxp.com/blog/2006/08/10-questions-for-luigi-luca-cavalli.php) with Cavalli-Sforza from last year.

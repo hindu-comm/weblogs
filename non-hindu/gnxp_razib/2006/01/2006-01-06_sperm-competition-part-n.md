@@ -11,12 +11,12 @@ Sperm competition, part n
 
 [The incidence of superfecundation and of double paternity in the general population](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7871943&dopt=Abstract):
 
-> It is estimated that at least one dizygotic (DZ) twin maternity in > twelve is preceded by superfecundation (the fertilization of two ova > by sperm from different coitions). Presumably this parameter varies > from population to population eg. with coital rates and rates of > double ovulation. Sometimes superfecundation occurs by two different > men. The frequency with which this occurs must depend on rates of > infidelity (promiscuity). It is suggested that among DZ twins born to > married white women in the U.S., about one pair in 400 is bipaternal. > The incidence may be substantially higher in small selected groups of > dizygotic twin maternities, eg. those of women engaged in > prostitution.
+> It is estimated that at least one dizygotic (DZ) twin maternity in > twelve is preceded by superfecundation (the fertilization of two ova > by sperm from different coitions). Presumably this parameter varies > from population to population eg. with coital rates and rates of > double ovulation. Sometimes superfecundation occurs by two different > men. The frequency with which this occurs must depend on rates of > infidelity (promiscuity). It is suggested that among DZ twins born to > married white women in the U.S., about one pair in 400 is bipaternal. The incidence may be substantially higher in small selected groups of dizygotic twin maternities, eg. those of women engaged in prostitution.
 
 [  
 How frequent is heteropaternal superfecundation?](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=1488855&query_hl=2&itool=pubmed_docsum):
 
-> A newly discovered case of heteropaternal superfecundation (HS) is > reported. Three HS cases were found in a parentage test database of > 39,000 records. The frequency of HS among dizygotic twins whose > parents were involved in paternity suits is 2.4%. Although the study > population appears similar to the general population with respect to > twinning data, inferences about the frequency of HS in other > populations should be drawn with caution.
+> A newly discovered case of heteropaternal superfecundation (HS) is > reported. Three HS cases were found in a parentage test database of > 39,000 records. The frequency of HS among dizygotic twins whose > parents were involved in paternity suits is 2.4%. Although the study population appears similar to the general population with respect to twinning data, inferences about the frequency of HS in other populations should be drawn with caution.
 
 **Related:** [Sperm competition](https://www.gnxp.com/MT2/archives/003062.html).
 

@@ -13,7 +13,8 @@ I highly recommend [Åse Fixes Science](http://asefixesscience.wordpress.com/), 
 
 ### Related Posts:
 
-- [Rushton](https://www.gnxp.com/WordPress/2006/09/17/rushton/) - [Evolution +
+- [Rushton](https://www.gnxp.com/WordPress/2006/09/17/rushton/)
+- [Evolution +
   psychology](https://www.gnxp.com/WordPress/2006/01/21/evolution-psychology/) - [Bias in
   psychology](https://www.gnxp.com/WordPress/2012/05/16/bias-in-psychology/) - [Growing knowledge on the
   margins](https://www.gnxp.com/WordPress/2014/07/31/growing-knowledge-on-the-margins/) - [Evolutionary

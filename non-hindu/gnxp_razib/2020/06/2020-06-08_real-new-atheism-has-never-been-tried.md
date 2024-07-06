@@ -29,7 +29,7 @@ In the 1990s many of us thought that the internet would open up a whole new worl
 
 I will finish with a comment from a reader:
 
-> One point I want to make is that Woke Religion has zero chance to > sustain any kind of cohesive society. It champions a lack of emotional > regulation and a regression to raw tribal dynamics in an extremely > diverse and multi-ethnic environment. As soon as it triumphs (which > appears to be almost here), it will tear itself to pieces. After the > purges…
+> One point I want to make is that Woke Religion has zero chance to > sustain any kind of cohesive society. It champions a lack of emotional > regulation and a regression to raw tribal dynamics in an extremely diverse and multi-ethnic environment. As soon as it triumphs (which appears to be almost here), it will tear itself to pieces. After the purges…
 
 This gets at something real. The 2020s will be “interesting.”
 

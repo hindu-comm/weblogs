@@ -11,7 +11,7 @@ Old parents who die
 
 [FuturePundit](http://www.futurepundit.com/archives/006371.html) points me to an article about an older woman who had IVF treatment who has died, [Spanish woman who gave birth through IVF at 66 dies](http://www.guardian.co.uk/world/2009/jul/15/spanish-woman-ivf-dies):
 
-> A Spanish woman who became the world’s oldest mother at the age of 66 > has died of cancer just two-and-a-half years after giving birth to > twins, raising fresh questions about the ethics of fertility treatment > for women past natural childbearing age.
+> A Spanish woman who became the world’s oldest mother at the age of 66 has died of cancer just two-and-a-half years after giving birth to twins, raising fresh questions about the ethics of fertility treatment for women past natural childbearing age.
 
 Some of the aspects of this case are *sui generis*, obviously. But as people have children later and later, I wonder as to the probabilities of larger proportions of individuals having their parents die just as they approach adulthood. This was the premodern norm, where a uniform distribution of mortality over one’s lifetime beyond childhood resulted in many individuals who did not grow up in a 2 parent household. But as men and women begin to put off parenthood, rationally in light of the demands of modern careers as well as advances in fertility treatments, unless we make some more advances in the “War on Cancer” it seems that the proportion of children whose parents die before they reach adulthood will start to creep up.
 

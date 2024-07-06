@@ -11,14 +11,14 @@ Source: [here](https://www.gnxp.com/WordPress/2006/05/04/undoubling-of-the-nih-b
 
   
 
-> Scientists and advocates of the National Institutes of Health (NIH) > are anxious about the funding outlook for biomedical research. After > the agency’s budget rose from \$13.6 billion in 1998 to \$27.3 billion > in 2003, there began what some call the ‘undoubling’ of its budget. >
-> The president’s budget request to Congress this year included the > first proposed cut in NIH spending in 36 years. >
-> Some argue that young investigators could be especially hard-hit, and > that the investment in the doubling could rapidly be eroded. > Biomedical advocates are scrambling to figure out how to reverse the > trend, or at least keep the cuts from growing deeper. >
-> “We’re losing buying power every year,” says Harold Varmus, president > of the Memorial Sloan-Kettering Cancer Institute in New York and a > former director of the NIH.
+> Scientists and advocates of the National Institutes of Health (NIH) are anxious about the funding outlook for biomedical research. After the agency’s budget rose from \$13.6 billion in 1998 to \$27.3 billion in 2003, there began what some call the ‘undoubling’ of its budget. >
+> The president’s budget request to Congress this year included the first proposed cut in NIH spending in 36 years. >
+> Some argue that young investigators could be especially hard-hit, and that the investment in the doubling could rapidly be eroded. Biomedical advocates are scrambling to figure out how to reverse the trend, or at least keep the cuts from growing deeper. >
+> “We’re losing buying power every year,” says Harold Varmus, president of the Memorial Sloan-Kettering Cancer Institute in New York and a former director of the NIH.
 
 The squeeze is starting to be felt.
 
-> The competition for grants has become brutal, with fewer than one in > 20 applications winning approval. This year the number of new grants > funded by the NIH is projected to drop by almost 15 percent from the > number funded three years ago.
+> The competition for grants has become brutal, with fewer than one in 20 applications winning approval. This year the number of new grants funded by the NIH is projected to drop by almost 15 percent from the number funded three years ago.
 
 ### Related Posts:
 

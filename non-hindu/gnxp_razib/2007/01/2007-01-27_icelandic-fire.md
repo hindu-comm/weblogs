@@ -13,11 +13,11 @@ This week’s Lancet has a [profile of Kari Stefansson](http://www.sciencedirect
 
 Could anyone with a dataset as good as the entire Icelandic population pull this off? Stefansson:
 
-> “No, no, no. The real advantage is just that we are the best > scientists, alright? Don’t give me this bullshit about our advantage > being the \[Icelandic\] population. Why do we have this population? > Because we realised the importance of it.” Although the tone of his > voice suggests that he is being slightly tongue in cheek, it is clear > that he is serious about the underlying message.
+> “No, no, no. The real advantage is just that we are the best > scientists, alright? Don’t give me this bullshit about our advantage > being the \[Icelandic\] population. Why do we have this population? Because we realised the importance of it.” Although the tone of his voice suggests that he is being slightly tongue in cheek, it is clear that he is serious about the underlying message.
 
 His repsponse to a question we’ve often asked interviewees– any interest in your own genome sequence?
 
-> Stefansson says that he is not planning to follow Craig Venter’s > example and have his own DNA sequenced. “My mother died at the age of > 62. My father died at the age of 67. And therefore I have been very > diligent about avoiding to learn anything about my own disease > predisposition”, he says. “I want to die ignorant of my weaknesses.”
+> Stefansson says that he is not planning to follow Craig Venter’s > example and have his own DNA sequenced. “My mother died at the age of 62. My father died at the age of 67. And therefore I have been very diligent about avoiding to learn anything about my own disease predisposition”, he says. “I want to die ignorant of my weaknesses.”
 
 ### Related Posts:
 

@@ -11,15 +11,15 @@ Picking the perfect baby
 
 A few years ago I had a [semi-serious post up](http://scienceblogs.com/gnxp/2006/12/eugenics_again.php) making fun of Armand Leroi for broaching the topic of [neo-eugenics](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=17139290). Now there [are reports](http://www.independentweekly.com.au/news/local/news/general/aussie-couples-sign-up-for-designer-baby-technology/1420723.aspx?storypage=0#) of elective pre-implantation screenings:
 
-> **Genes determining sex, hair and eye colour can be identified**, > alongside any DNA red flags for diseases such as muscular dystrophy, > cystic fibrosis and Down’s Syndrome. >
-> “Basically any genetic ailment, and there are thousands of them. We > find the genetic error responsible for that in the embryo,” Dr > Steinberg says. >
-> Only those embryos free of problem genetic markers and matching > parental wishes, if stated, are then implanted in the mother.  
+> **Genes determining sex, hair and eye colour can be identified**, alongside any DNA red flags for diseases such as muscular dystrophy, cystic fibrosis and Down’s Syndrome. >
+> “Basically any genetic ailment, and there are thousands of them. We find the genetic error responsible for that in the embryo,” Dr Steinberg says. >
+> Only those embryos free of problem genetic markers and matching parental wishes, if stated, are then implanted in the mother.  
 > …  
-> “To deny them the ability to do that when the technology is there is > to me unethical,” Dr Steinberg says. >
-> “You can say eye colour and hair colour are not diseases, no they’re > not, and there is a cosmetic element to it, but we fix crooked noses > all the time.  
+> “To deny them the ability to do that when the technology is there is to me unethical,” Dr Steinberg says. >
+> “You can say eye colour and hair colour are not diseases, no they’re not, and there is a cosmetic element to it, but we fix crooked noses all the time.  
 > …  
-> He says he’s concerned Australian women are risking their health by > undertaking IVF overseas for “frivolous” reasons, using a process that > raises the moral issue of “deliberate embryo loss”. >
-> “But the main issue is the idea of treating the child as an object, as > product for which you are seeking quality control,” Dr Tonti-Filippini > says.
+> He says he’s concerned Australian women are risking their health by undertaking IVF overseas for “frivolous” reasons, using a process that raises the moral issue of “deliberate embryo loss”. >
+> “But the main issue is the idea of treating the child as an object, as product for which you are seeking quality control,” Dr Tonti-Filippini says.
 
 1\) Part of this is publicity, you can get only so much information out of genetic tests right now (see [Genetic Future](http://scienceblogs.com/geneticfuture/)). Take a look at [Genetic determinants of hair, eye and skin pigmentation in Europeans](http://www.nature.com/ng/journal/v39/n12/abs/ng.2007.13.html), and note how much higher the [odds ratio](https://en.wikipedia.org/wiki/Odds_ratio) (20-30 vs. \~5) for *[OCA2](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=oca2&btnG=With+Google&domains=gnxp.com&sitesearch=gnxp.com)* “blue-eye” markers are vs. the ones which might give some information about hair color. The same differences in effect size apply to disease loci. I suspect many people will balk at paying up when confronted with the provisionality of some of the inferences.
 

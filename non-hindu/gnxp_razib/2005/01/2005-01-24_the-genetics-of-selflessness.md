@@ -31,7 +31,8 @@ Posted by God Fearing Atheist at [05:40 PM](https://www.gnxp.com/MT2/archives/00
 
 ### Related Posts:
 
-- [More DRD4](https://www.gnxp.com/WordPress/2008/06/15/more-drd4/) - [Risk taking 5-HTTLPR and
+- [More DRD4](https://www.gnxp.com/WordPress/2008/06/15/more-drd4/)
+- [Risk taking 5-HTTLPR and
   DRD4](https://www.gnxp.com/WordPress/2009/02/11/risk-taking-5-httlpr-and-drd4/) - [Bad for boys and good for
   girls](https://www.gnxp.com/WordPress/2007/02/08/bad-for-boys-and-good-for-girls/) - [ADHD &
   DRD4](https://www.gnxp.com/WordPress/2007/08/07/adhd-amp-drd4/) - [If it ain't pathological, it's

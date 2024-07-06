@@ -11,7 +11,7 @@ Murray Gell-Mann, R.I.P.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/05/strange_beauty.jpeg?resize=181%2C278&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/05/strange_beauty.jpeg?resize=181%2C278&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B0043M4ZCA/geneexpressio-20/ref=as_at?imprToken=Fjt75aM2x2EY0LP005Ogng&slotNum=0&imprToken=tdNCVSWXYcto2jqWMV87Qg&slotNum=0&imprToken=3SzvErsqk0uegISbc6B6.g&slotNum=0&imprToken=T99HvL7y.cNmVg.TW4Q7EQ&slotNum=0&imprToken=67TxncJrNOO11LKRkLbXog&slotNum=23&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)[Murray Gell-Mann, Who Peered at Particles and Saw the Universe, Dies at 89](https://www.nytimes.com/2019/05/24/obituaries/murray-gell-mann-died-.html):
 
-> Murray Gell-Mann, who transformed physics with his preternatural > ability to find hidden patterns among the tiny particles that make up > the universe, earning a Nobel Prize, died on Friday at his home in > Santa Fe. He was 89.
+> Murray Gell-Mann, who transformed physics with his preternatural ability to find hidden patterns among the tiny particles that make up the universe, earning a Nobel Prize, died on Friday at his home in Santa Fe. He was 89.
 
 The author of the obit wrote [Strange Beauty: Murray Gell-Mann and the Revolution in Twentieth-Century Physics](https://www.amazon.com/exec/obidos/ASIN/B0043M4ZCA/geneexpressio-20/ref=as_at?imprToken=Fjt75aM2x2EY0LP005Ogng&slotNum=0&imprToken=tdNCVSWXYcto2jqWMV87Qg&slotNum=0&imprToken=3SzvErsqk0uegISbc6B6.g&slotNum=0&imprToken=T99HvL7y.cNmVg.TW4Q7EQ&slotNum=0&imprToken=67TxncJrNOO11LKRkLbXog&slotNum=23&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164).
 

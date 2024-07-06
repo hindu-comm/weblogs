@@ -11,12 +11,12 @@ Sex differences and variation in personality
 
 [Look before you leap: Are women pre-disposed to be more risk averse than male adventurers?](http://www.thenewstribune.com/tacoma/24hour/consumer/outdoors/story/757966.html):
 
-> “It’s not at all that women are risk averse,” says Jody Radtke, > program director for the Women’s Wilderness Institute in Boulder, > Colorado. **When men are confronted with challenging situations, they > typically produce adrenaline**, which is what causes them to run > around, hollering like frat boys at a kegger. An adrenaline rush is a > good feeling, but when confronted with the same situation, **women > produce a different chemical, called acetylcholine.** >
-> “Pretty much what (acetylcholine) does is it makes you want to vomit,” > says Jody. >
-> Because women don’t have the same positive chemical reward, they tend > to be less pumped about confronting stressful situations. This leads > them to rely on decision-making. Essentially, they want the whole > picture before they go diving in. >
-> Research, Jody says, **shows women have more cross-networking between > the two hemispheres of the brain**, which subconsciously allows them > to evaluate different sensory cues, facts and emotions when making > decisions. The cause of this difference probably lies somewhere in the > debate of nature versus nurture and the history of evolution. >
-> Marvin Zuckerman, professor emeritus at the University of Delaware, > has studied risk for decades. He found men are typically more likely > to take risks when seeking novel or exciting sensations, and that > comes from both genetics and environment. >
-> “**What’s important seems to be the environment that isn’t shared by > siblings in the same family**,” he says.
+> “It’s not at all that women are risk averse,” says Jody Radtke, > program director for the Women’s Wilderness Institute in Boulder, > Colorado. **When men are confronted with challenging situations, they > typically produce adrenaline**, which is what causes them to run around, hollering like frat boys at a kegger. An adrenaline rush is a good feeling, but when confronted with the same situation, **women produce a different chemical, called acetylcholine.** >
+> “Pretty much what (acetylcholine) does is it makes you want to vomit,” says Jody. >
+> Because women don’t have the same positive chemical reward, they tend to be less pumped about confronting stressful situations. This leads them to rely on decision-making. Essentially, they want the whole picture before they go diving in. >
+> Research, Jody says, **shows women have more cross-networking between > the two hemispheres of the brain**, which subconsciously allows them to evaluate different sensory cues, facts and emotions when making decisions. The cause of this difference probably lies somewhere in the debate of nature versus nurture and the history of evolution. >
+> Marvin Zuckerman, professor emeritus at the University of Delaware, has studied risk for decades. He found men are typically more likely to take risks when seeking novel or exciting sensations, and that comes from both genetics and environment. >
+> “**What’s important seems to be the environment that isn’t shared by siblings in the same family**,” he says.
 
 The above was originally published by [Women’s Adventure Magazine](http://www.womensadventuremagazine.com/index.php). The last reference is to the repeated finding that non-shared environment matters a great deal but isn’t well accounted for. Obviously *both* men and women vary in terms of psychological attributes, and there have been plenty of attempts to adduce the variation to different quantities of neurochemicals (the “chemical soup” model is easy to translate into prose).
 

@@ -11,7 +11,7 @@ Neandertals grew fast?
 
 [Neanderthal Children Grew Up Fast](http://www.sciencedaily.com/releases/2007/12/071204100409.htm):
 
-> Scientists found differences in the duration of tooth growth in the > Neanderthal when compared to modern humans, with the former showing > shorter times in most cases. This faster growth resulted in a more > advanced pattern of dental development than in fossil and living > members of our own species (Homo sapiens).
+> Scientists found differences in the duration of tooth growth in the > Neanderthal when compared to modern humans, with the former showing shorter times in most cases. This faster growth resulted in a more advanced pattern of dental development than in fossil and living members of our own species (Homo sapiens).
 
 Tanya M. Smith, Michel Toussaint, Donald J. Reid, Anthony J. Olejniczak, Jean-Jacques Hublin, **Rapid Dental Development in a Middle Paleolithic Belgian Neanderthal**, *Proceedings of the National Academy of Sciences USA December 2007*
 

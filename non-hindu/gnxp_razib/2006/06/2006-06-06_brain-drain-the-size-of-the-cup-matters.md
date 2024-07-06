@@ -17,7 +17,8 @@ Second, Chad like many others points to the issue of foreign scientists allowing
 
 ### Related Posts:
 
-- ["Brain drain" follow up - put great minds to
+- ["Brain drain" follow up
+- put great minds to
   use!](https://www.gnxp.com/WordPress/2006/06/06/brain-drain-follow-up-put-great-minds-to-use/) - [Ask a Science Blogger: Brain
   "drain"](https://www.gnxp.com/WordPress/2006/06/02/ask-a-science-blogger-brain-drain/) - [Genes & brain
   size](https://www.gnxp.com/WordPress/2006/05/17/genes-brain-size/) - [Conservation of expression in human and mouse

@@ -11,7 +11,8 @@ Living Neandertals – visual "evidence" (?)
 
 ### Related Posts:
 
-- [Neandertals - "human" or
+- [Neandertals
+- "human" or
   not?](https://www.gnxp.com/WordPress/2007/06/13/neandertals-human-or-not/) - ["You are not the
   father"](https://www.gnxp.com/WordPress/2006/12/02/you-are-not-the-father/) - [Living Neandertals? Oh
   yes!](https://www.gnxp.com/WordPress/2006/08/07/living-neandertals-oh-yes/) - [Minor note on "the

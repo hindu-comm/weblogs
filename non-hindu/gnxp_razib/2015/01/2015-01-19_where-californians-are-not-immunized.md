@@ -11,11 +11,11 @@ Where Californians are not immunized
 
 It looks like a combination of the top and low ends of the socioeconomic distribution, [Geographic clusters of underimmunization identified in Northern California](http://www.sciencedaily.com/releases/2015/01/150119083251.htm):
 
-> Underimmunization ranged from 18 percent to 23 percent within > clusters, compared with 11 percent outside clusters. Between 2010 and > 2012, geographic clusters of underimmunization were found in: >
-> - the East Bay (Richmond to San Leandro); > - Sonoma and Napa counties; > - a small area of east Sacramento; > - northern San Francisco and southern Marin counties; and > - a small area of Vallejo. >
-> “Shot limiting,” in which parents limit the number of injections or > antigens that children receive during a pediatric visit to two or > fewer, was found to cluster in similar areas. >
-> Vaccine refusal ranged from 5.5 percent to 13.5 percent within > clusters, compared with 2.6 percent outside clusters. Between 2010 and > 2012, geographic clusters of vaccine refusal were found in: >
-> - the East Bay (El Cerrito to Alameda); > - Marin and southwest Sonoma counties; > - northeastern San Francisco; > - northeastern Sacramento County and Roseville; and > - a small area south of Sacramento
+> Underimmunization ranged from 18 percent to 23 percent within clusters, compared with 11 percent outside clusters. Between 2010 and 2012, geographic clusters of underimmunization were found in: >
+> - the East Bay (Richmond to San Leandro); > - Sonoma and Napa counties; - a small area of east Sacramento; - northern San Francisco and southern Marin counties; and - a small area of Vallejo. >
+> “Shot limiting,” in which parents limit the number of injections or antigens that children receive during a pediatric visit to two or fewer, was found to cluster in similar areas. >
+> Vaccine refusal ranged from 5.5 percent to 13.5 percent within clusters, compared with 2.6 percent outside clusters. Between 2010 and 2012, geographic clusters of vaccine refusal were found in: >
+> - the East Bay (El Cerrito to Alameda); > - Marin and southwest Sonoma counties; - northeastern San Francisco; - northeastern Sacramento County and Roseville; and - a small area south of Sacramento
 
 The paper is not live, but it will be [here](https://dx.doi.org/10.1542/peds.2014-2715) at some point. In Southern California [most of the resistance has been in affluent areas](http://www.latimes.com/business/hiltzik/la-fi-mh-vaccination-crisis-20140903-column.html), and in some of these areas the fraction immunized is definitely below the [herd immunity threshold](http://www.pbs.org/wgbh/nova/body/herd-immunity.html). Though this trend looks like it [may finally have levelled off](http://www.latimes.com/opinion/editorials/la-ed-vaccine-20141224-story.html) in California.
 

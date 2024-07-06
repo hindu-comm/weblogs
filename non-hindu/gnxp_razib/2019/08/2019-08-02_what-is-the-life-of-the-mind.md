@@ -11,7 +11,7 @@ What is the life of the mind?
 
 
 
-> “…I enter into the ancient courts of the men of antiquity, where, > warmly received, I feed on that which is my only food and which was > meant for me. I am not ashamed to speak with them and ask them the > reasons of their actions, and they, **because of their *humanity***, > answer me…I feel no weariness; my troubles forgotten, I neither fear > poverty nor dread death. I give myself over entirely to them. And > since Dante says that there can be no science without retaining what > has been understood, I have noted down the chief things in their > conversation.”
+> “…I enter into the ancient courts of the men of antiquity, where, > warmly received, I feed on that which is my only food and which was > meant for me. I am not ashamed to speak with them and ask them the > reasons of their actions, and they, **because of their *humanity***, > answer me…I feel no weariness; my troubles forgotten, I neither fear > poverty nor dread death. I give myself over entirely to them. And since Dante says that there can be no science without retaining what has been understood, I have noted down the chief things in their conversation.”
 
 – Machiavelli
 

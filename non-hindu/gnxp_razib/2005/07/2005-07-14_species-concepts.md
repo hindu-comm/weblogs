@@ -33,7 +33,9 @@ Personally, the “Species Controversy” is not that interesting to me, my atti
 
 ### Related Posts:
 
-- [Species](https://www.gnxp.com/WordPress/2007/01/24/species/) - [On Words: II](https://www.gnxp.com/WordPress/2006/06/09/on-words-ii/) - [The utility and reality of
+- [Species](https://www.gnxp.com/WordPress/2007/01/24/species/)
+- [On Words: II](https://www.gnxp.com/WordPress/2006/06/09/on-words-ii/)
+- [The utility and reality of
   species](https://www.gnxp.com/WordPress/2012/05/24/the-utility-and-reality-of-species/) - [Species are what you want them to
   be](https://www.gnxp.com/WordPress/2018/01/29/species-are-what-you-want-them-to-be/) - [Electric
   sympatry](https://www.gnxp.com/WordPress/2006/06/03/electric-sympatry/) - [Genetics of

@@ -11,10 +11,10 @@ Brain size & genes
 
 Two articles of interest. First, [new results are going to be presented](http://www.abc.net.au/news/newsitems/200608/s1704016.htm) which shows no correlation between various forms of genes like microcephalin and ASPM and intelligence:
 
-> They also looked at the genes ASPM, MCPH1 and CDK5RAP2, which regulate > brain size and activity  
+> They also looked at the genes ASPM, MCPH1 and CDK5RAP2, which regulate brain size and activity  
 > … >
-> “Their findings \[about a relation to brain size\] were negative and > they didn’t find a relationship with two of the genes we were looking > at,” Dr Luciano said. >
-> “We decided to take it a step further and look at intelligence and lo > and behold we find a similar negative result.”
+> “Their findings \[about a relation to brain size\] were negative and they didn’t find a relationship with two of the genes we were looking at,” Dr Luciano said. >
+> “We decided to take it a step further and look at intelligence and lo and behold we find a similar negative result.”
 
 I have heard of unpublished negative results looking for ASPM variation and its correlation with IQ, so no surprise. Also, Armand Leroi has a [piece](http://www.telegraph.co.uk/connected/main.jhtml?xml=/connected/2006/08/01/echuman01.xml&page=1) about microcephalics in Pakistan. Last year, [when I interviewed him](https://www.gnxp.com/blog/2005/12/10-questions-for-armand-m-leroi.php) he mentioned to me that he was about to go off to Pakistan to record a documentary on this topic, so if you are British, watch for it (if it hasn’t aired).
 

@@ -13,11 +13,11 @@ A few days back, Razib [linked](https://www.gnxp.com/blog/2006/12/rate-of-evolut
 
 This is indeed an excellent paper–the genome sequencing juggernaut has produced a wealth of new data over the last couple years and this analysis, which is more rigorous than previous analyses, shows a slight decrease in the evolutionary rate of change of brain-expressed genes. This raises the intriguing possibility that the complexity of regulatory networks in the brain constrains protein-coding sequence while accentuating the effects of regulatory changes. I see through [Chris Chatham at Developing Intelligence](http://scienceblogs.com/developingintelligence/2007/01/correlating_brains_bodies_and.php#more) that other people are coming to the same conclusions:
 
-> As Barbara Finlay and coauthors wrote in this 2001 Behavioral and > Brain Sciences article, the order of neurogenesis and ultimate size of > various brain regions is highly conserved across all mammals, > **suggesting natural selection largely works not by selecting for > specific “modules” or components in the nervous system as appropriate > to a particular organism, but instead “by adjusting the parameters of > a ‘standard’ developmental program.”**
+> As Barbara Finlay and coauthors wrote in this 2001 Behavioral and > Brain Sciences article, the order of neurogenesis and ultimate size of > various brain regions is highly conserved across all mammals, > **suggesting natural selection largely works not by selecting for specific “modules” or components in the nervous system as appropriate to a particular organism, but instead “by adjusting the parameters of a ‘standard’ developmental program.”**
 
 Changes in gene expression will definitely account for some of the particular evolutionary features of the human brain. That said, it’s incredibly frustrating to see a sentence like this:
 
-> Our results do not contradict the finding of accelerated amino acid > changes in some brain-expressed genes \[6,31,32\]. Deviations from the > general trend are expected. In fact, these deviations may be the most > interesting cases.
+> Our results do not contradict the finding of accelerated amino acid changes in some brain-expressed genes \[6,31,32\]. Deviations from the general trend are expected. In fact, these deviations may be the most interesting cases.
 
 So which genes are the interesting ones!? There’s no list, no Supplementary Table, nothing! I’m hoping they’re just saving those results for a later paper, we’ll see…
 

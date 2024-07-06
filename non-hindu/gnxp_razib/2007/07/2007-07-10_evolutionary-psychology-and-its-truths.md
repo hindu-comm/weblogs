@@ -13,7 +13,8 @@ Over the years I’ve become more skeptical of evolutionary psychology, or, more
 
 ### Related Posts:
 
-- [Evolutionary Psychology™ - a
+- [Evolutionary Psychology™
+- a
   primer](https://www.gnxp.com/WordPress/2005/06/19/evolutionary-psychology-8482-a-primer/) - [Chris against the evolutionary
   psychologists....](https://www.gnxp.com/WordPress/2005/03/23/chris-against-the-evolutionary-psychologists/) - [Evolutionary
   Psychology](https://www.gnxp.com/WordPress/2008/09/16/evolutionary-psychology/) - [Evolutionary

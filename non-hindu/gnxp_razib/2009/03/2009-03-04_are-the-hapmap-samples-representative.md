@@ -11,7 +11,7 @@ Are the HapMap samples representative?
 
 [Geographical Affinities of the HapMap Samples](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0004684):
 
-> The CHB and JPT are readily distinguished from one another with both > autosomal and Y-chromosomal markers, and results obtained after > combining them into a single sample should be interpreted with > caution. The CEU are better described as being of Western European > ancestry than of Northern European ancestry as often reported. Both > the CHB and CEU show subtle but detectable signs of admixture. Thus > the YRI and JPT samples are well-suited to standard population-genetic > studies, but the CHB and CEU less so.
+> The CHB and JPT are readily distinguished from one another with both > autosomal and Y-chromosomal markers, and results obtained after > combining them into a single sample should be interpreted with > caution. The CEU are better described as being of Western European > ancestry than of Northern European ancestry as often reported. Both the CHB and CEU show subtle but detectable signs of admixture. Thus the YRI and JPT samples are well-suited to standard population-genetic studies, but the CHB and CEU less so.
 
 ### Related Posts:
 

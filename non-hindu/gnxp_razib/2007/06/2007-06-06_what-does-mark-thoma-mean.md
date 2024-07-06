@@ -11,7 +11,7 @@ What does Mark Thoma mean?
 
 I’m having some trouble deciphering the economic principles underlying [the following argument](http://economistsview.typepad.com/economistsview/2007/06/social_norms_bu.html) that Mark Thoma made regarding economic inequality:
 
-> As for inflation, in general, if wage growth equals inflation plus > productivity growth, there is no inflation pressure.
+> As for inflation, in general, if wage growth equals inflation plus productivity growth, there is no inflation pressure.
 
 Now I understand an argument which allocates to wages the productivity growth derived from more efficient workplace practices but my understanding of labor market economics is that the majority of productivity gains result from capital investment, so if all, which Thoma seems to imply, or even most, productivity growth is allocated to labor then none, or only some, of the gain will be allocated to capital. Yet, we know that capital will not invested in an environment of substandard, or non-existent, returns, so when labor is awarded a benefit that results from capital investment how does this not lead to inflationary pressure?
 

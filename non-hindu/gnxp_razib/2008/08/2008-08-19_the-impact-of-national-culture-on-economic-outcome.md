@@ -11,7 +11,7 @@ The impact of national culture on economic outcomes
 
   
 
-> The first correct daily temperature forecast was not broadcast \[in > China\] until July 1999. Previously, temperature predictions were > never permitted to fall outside the range for efficient factory work.
+> The first correct daily temperature forecast was not broadcast \[in China\] until July 1999. Previously, temperature predictions were never permitted to fall outside the range for efficient factory work.
 
 That’s from Cultures Merging: A Historical and Economic Critique of Culture, by Eric Jones. Jones is best known for his book The European Miracle, an [anti-Pomeranz](https://www.gnxp.com/blog/2008/07/killing-consensus-with-one-thousand.php) text if there ever was one. In Cultures Merging, he provides decent anecdotal evidence that while “bad culture” might be able to hold back a country back a little, cultures are actually fairly fluid over the span of decades, and tend to steer in the direction of economic efficiency (a point emphasized by [Clark](https://www.gnxp.com/blog/2007/08/10-questions-for-greg-clark.php)). Jones’s pet example is East Asia, where Confucianism was once said to be a barrier to economic development (too much blind obedience to the dead hand of hierarchy) but is now lauded as the driving force behind superior “Asian Values” of hard work and sacrifice.
 

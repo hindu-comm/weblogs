@@ -11,7 +11,7 @@ Putting Humpty Dumpty back together
 
 [While The Cat’s Away: How Removing An Invasive Species Devastated A World Heritage Island](http://www.sciencedaily.com/releases/2009/01/090112093523.htm):
 
-> Removing an invasive species from sub-Antarctic Macquarie Island, a > World Heritage Site, has caused environmental devastation that will > cost more than A\$24 million to remedy, ecologists have revealed. > Writing in the new issue of the British Ecological Society’s Journal > of Applied Ecology, they warn that conservation agencies worldwide > must learn important lessons from what happened on Macquarie Island.
+> Removing an invasive species from sub-Antarctic Macquarie Island, a > World Heritage Site, has caused environmental devastation that will > cost more than A\$24 million to remedy, ecologists have revealed. Writing in the new issue of the British Ecological Society’s Journal of Applied Ecology, they warn that conservation agencies worldwide must learn important lessons from what happened on Macquarie Island.
 
 Shorter:”invasive” and “introduced” organisms for a long enough period results in an ecosystem approaching a new equilibrium. Ask the South American Marsupials.
 

@@ -22,7 +22,7 @@ Though I highly recommend[SPQR](https://www.amazon.com/exec/obidos/ASIN/B0108U7I
 
 Rather, **I want to address the idea that modern Italians are genetically a distinct people from ancient Roman Italians**. Because on that score we have the answers. Ultimately the idea that this is even a debate goes back to Juvenal:
 
-> It is that the city is become Greek, Quirites, that I cannot tolerate; > and yet how small the proportion even of the dregs of Greece! **Syrian > Orontes has long since flowed into the Tiber**, and brought with it > its language, morals, and the crooked harps with the flute-player, and > its national tambourines, and girls made to stand for hire at the > Circus. Go thither, you who fancy a barbarian harlot with embroidered > turban….
+> It is that the city is become Greek, Quirites, that I cannot tolerate; > and yet how small the proportion even of the dregs of Greece! **Syrian > Orontes has long since flowed into the Tiber**, and brought with it > its language, morals, and the crooked harps with the flute-player, and its national tambourines, and girls made to stand for hire at the Circus. Go thither, you who fancy a barbarian harlot with embroidered turban….
 
 These commentsare rooted in the reality that Rome during Juvenal’s period was quite a cosmopolitan city, with large numbers of Greeks and people from the Eastern Mediterranean who were Hellenized to various degrees (in the early 3rd century Rome was ruledby a [family](https://en.wikipedia.org/wiki/Julia_Domna) of Hellenized Syrians). We know this because we have plenty of observations and complaints, and there are a plethora of inscriptions and graffiti in the new languages.
 

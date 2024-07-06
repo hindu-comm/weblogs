@@ -11,9 +11,9 @@ To be atheist is an offense
 
 I have seen references to this around the web, and don’t really know if I can believe this, because the details are so disturbing to consider. So I’ll pass it on, [You can expect threats if you discuss Sharia](http://freethoughtblogs.com/maryamnamazie/2012/01/17/you-can-expect-threats-if-you-discuss-sharia/):
 
-> My[One Law for All](http://www.onelawforall.org.uk/)Co-Spokesperson > Anne Marie Waters was to speak at a meeting on Sharia Law and Human > Rights at the University of London[last > night](http://www.onelawforall.org.uk/16-january-2012-sharia-law-and-human-rights-university-of-london/). >
-> It was cancelled by the Queen Mary Atheism, Secularism and Humanism > Society organisers after police had to be called in due to Islamist > threats. One Islamist filmed everyone at the meeting and announced he > would hunt down those who said anything negative about Islam’s > prophet. Outside the hall, **he threatened to kill anyone who defamed > the prophet.** Reference was made to the Jesus and Mo cartoon saga at > UCL. >
-> The University’s security guard – a real gem –arrived first only to > blame the speaker and organisers rather than those issuing death > threats. He said: ‘**If you will have these discussions, what do you > expect?**’ Err, to speak without being threatened with death maybe?
+> My[One Law for All](http://www.onelawforall.org.uk/)Co-Spokesperson Anne Marie Waters was to speak at a meeting on Sharia Law and Human Rights at the University of London[last night](http://www.onelawforall.org.uk/16-january-2012-sharia-law-and-human-rights-university-of-london/). >
+> It was cancelled by the Queen Mary Atheism, Secularism and Humanism > Society organisers after police had to be called in due to Islamist > threats. One Islamist filmed everyone at the meeting and announced he > would hunt down those who said anything negative about Islam’s prophet. Outside the hall, **he threatened to kill anyone who defamed the prophet.** Reference was made to the Jesus and Mo cartoon saga at UCL. >
+> The University’s security guard – a real gem –arrived first only to blame the speaker and organisers rather than those issuing death threats. He said: ‘**If you will have these discussions, what do you expect?**’ Err, to speak without being threatened with death maybe?
 
 A crazy British Muslim threatening to kill someone for defaming the prophet isn’t too surprising. \~3 percent of British Muslim university students [think apostates should be killed](http://blogs.discovermagazine.com/gnxp/2008/08/death-to-apostates-1-out-of-33-muslim-university-students-say/). **What is disturbing is that the establishment institutions are accepting this sort of disproportionate response as normal behavior.** As in centuries past it is now the atheists who are by their nature offensive, and disturbing public order.
 
@@ -21,16 +21,16 @@ In the Netherlands the [Dutch Muslim Party](http://www.forbes.com/sites/abigaile
 
 In other news, an atheist has been charged with blasphemy in the world’s largest Muslim nation, where Islam is a moderate religion of peace.[Dismay After Indonesian Atheist Charged With Blasphemy](http://www.thejakartaglobe.com/news/dismay-after-indonesian-atheist-charged-with-blasphemy/492622):
 
-> Police on Friday confirmed that they had charged a man with blasphemy > after he was reported by the Indonesia Council of Ulema. >
-> Dharmasraya Police Chief Sr. Comr. Chairul Aziz told the Jakarta Globe > on Friday that the district branch of the council, known as MUI, and > other Islamic organizations believed Alexander, 31, had defiled Islam > by using passages from the Koran to denounce the existence of God. >
-> Alexander, a civil servant, is facing five years in jail for writing > “God does not exist” on a Facebook page he moderated called “Ateis > Minang” (“Minang Atheists”). >
-> Chairul said the issue was that Alexander had used the Koran to > highlight his atheist views. >
+> Police on Friday confirmed that they had charged a man with blasphemy after he was reported by the Indonesia Council of Ulema. >
+> Dharmasraya Police Chief Sr. Comr. Chairul Aziz told the Jakarta Globe on Friday that the district branch of the council, known as MUI, and other Islamic organizations believed Alexander, 31, had defiled Islam by using passages from the Koran to denounce the existence of God. >
+> Alexander, a civil servant, is facing five years in jail for writing “God does not exist” on a Facebook page he moderated called “Ateis Minang” (“Minang Atheists”). >
+> Chairul said the issue was that Alexander had used the Koran to highlight his atheist views. >
 > “So it meets the criteria of tainting religion, in this case Islam.” >
-> Blasphemy, which carries a five-year sentence, is defined under the > Criminal Code as publicly expressing feelings or doing something that > spreads hatred, abuse or taints certain religions in Indonesia in a > way that could cause someone to disbelieve religion.” >
+> Blasphemy, which carries a five-year sentence, is defined under the Criminal Code as publicly expressing feelings or doing something that spreads hatred, abuse or taints certain religions in Indonesia in a way that could cause someone to disbelieve religion.” >
 > … >
-> A member of a 600-strong atheist organization in Jakarta, meanwhile, > said the case was a clear breach of human rights. >
+> A member of a 600-strong atheist organization in Jakarta, meanwhile, said the case was a clear breach of human rights. >
 > **He would not be identified because of fears for his safety.** >
-> “If MUI thinks that there’s an imaginary friend up there, it doesn’t > mean people should believe it,” he said. “Why is it that we cannot > criticize religion? This is against freedom of expression and human > rights.”
+> “If MUI thinks that there’s an imaginary friend up there, it doesn’t mean people should believe it,” he said. “Why is it that we cannot criticize religion? This is against freedom of expression and human rights.”
 
 He was, naturally, attacked [by a mob](http://www.washingtonpost.com/world/asia-pacific/indonesian-atheist-attacked-charged-with-blasphemy-after-denying-gods-existence-on-facebook/2012/01/21/gIQAncASFQ_story.html) on his way to work.
 

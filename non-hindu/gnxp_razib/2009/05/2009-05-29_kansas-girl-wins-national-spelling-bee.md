@@ -11,7 +11,7 @@ Kansas girl wins national spelling bee
 
 The AP, [13-year-old Kansas girl wins National Spelling Bee](https://www.google.com/hostednews/ap/article/ALeqM5h1Xf46AnIc2f8e0SFn0d63QZJ5EwD98FKHM03):
 
-> Cool and collected, Kavya Shivashankar wrote out every word on her > palm and always ended with a smile. The 13-year-old Kansas girl saved > the biggest smile for last, when she rattled off the letters to > “Laodicean” to become the nation’s spelling champion.
+> Cool and collected, Kavya Shivashankar wrote out every word on her palm and always ended with a smile. The 13-year-old Kansas girl saved the biggest smile for last, when she rattled off the letters to “Laodicean” to become the nation’s spelling champion.
 
 Here are the next 10 runner ups….
 

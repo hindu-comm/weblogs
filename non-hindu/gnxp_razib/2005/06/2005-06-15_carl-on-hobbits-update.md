@@ -15,7 +15,8 @@ Posted by razib at [11:29 AM](https://www.gnxp.com/MT2/archives/004074.html) [](
 
 ### Related Posts:
 
-- [Hobbit News](https://www.gnxp.com/WordPress/2006/05/31/hobbit-news/) - [Carl Zimmer on
+- [Hobbit News](https://www.gnxp.com/WordPress/2006/05/31/hobbit-news/)
+- [Carl Zimmer on
   bloggingheads.tv](https://www.gnxp.com/WordPress/2007/09/29/carl-zimmer-on-bloggingheads-tv/) - [Carl fisks
   Luskin](https://www.gnxp.com/WordPress/2006/11/21/carl-fisks-luskin/) - [Hobbit
   update](https://www.gnxp.com/WordPress/2005/10/11/hobbit-update/) - [Hobbit

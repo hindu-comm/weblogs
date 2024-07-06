@@ -11,9 +11,9 @@ The long fuse of mammalian diversity
 
 [Study Re-evaluates Evolution of Mammals](http://www.nytimes.com/2007/03/28/science/28cnd-mammal.html?hp):
 
-> Until now, however, most paleontologists had favored a “short-fuse” > model in which mammals came into their own almost immediately after > the dominant reptiles vacated their habitats. Before the extinctions, > most mammals were small nocturnal creatures.  
-> The new study confirmed and elaborated on earlier research by > molecular biologists indicating that many of today’s mammalian orders > originated from 100 million to 85 million years ago. The reasons for > this evolutionary burst are not clear.  
-> Drawing on both molecular and fossil data, the researchers said they > found that the “pivotal macroevolutionary events for those lineages > with extant mammalian descendants” occurred well before the mass > extinction and long after. They emphasized that the molecular and > fossil evidence provide “different parts of this picture, attesting to > the value of using both approaches together.”
+> Until now, however, most paleontologists had favored a “short-fuse” model in which mammals came into their own almost immediately after the dominant reptiles vacated their habitats. Before the extinctions, most mammals were small nocturnal creatures.  
+> The new study confirmed and elaborated on earlier research by molecular biologists indicating that many of today’s mammalian orders originated from 100 million to 85 million years ago. The reasons for this evolutionary burst are not clear.  
+> Drawing on both molecular and fossil data, the researchers said they > found that the “pivotal macroevolutionary events for those lineages > with extant mammalian descendants” occurred well before the mass extinction and long after. They emphasized that the molecular and fossil evidence provide “different parts of this picture, attesting to the value of using both approaches together.”
 
 I don’t know much about this, but this seems cool. I hadn’t known that the molecular biologists and paleontologists were arguing about the deep lineages inferred from the genetic data, and it seems like the outcome was similar to the 1970s where the molecular side was validated by new finds.
 

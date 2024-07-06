@@ -13,7 +13,8 @@ Neutral Neandertal?
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [Neandertals cranium phenotypically
   neutral?](https://www.gnxp.com/WordPress/2007/07/24/neandertals-cranium-phenotypically-neutral/) - [Neandertal
   mtDNA](https://www.gnxp.com/WordPress/2006/06/05/neandertal-mtdna/) - [Neandertal

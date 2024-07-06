@@ -11,7 +11,7 @@ Just because it’s not hereditary does not mean you can affect it
 
 [![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/51WB8ztO9qL.jpg?resize=200%2C302)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/51WB8ztO9qL.jpg?resize=200%2C302)](https://www.amazon.com/exec/obidos/ASIN/0684857073/geneexpressio-20)A [comment](https://www.gnxp.com/WordPress/2017/04/05/what-should-i-blog-about-in-the-next-two-weeks/#comment-281) below from [Andrew](https://dispatchesfromturtleisland.blogspot.com/):
 
-> Love to see a post about which human traits worth caring about are > notable for having little or no hereditary component. It is all good > and well to know what we cannot change, but it makes more sense to > focus personally and as a parent on those things that aren’t > genetically preordained.
+> Love to see a post about which human traits worth caring about are > notable for having little or no hereditary component. It is all good and well to know what we cannot change, but it makes more sense to focus personally and as a parent on those things that aren’t genetically preordained.
 
 This is a common sentiment I’ve seen. If you haven’t read [The Nurture Assumption](https://www.amazon.com/exec/obidos/ASIN/0684857073/geneexpressio-20), please do so. I’d say a substantial reason I think that [The Blank Slate](https://www.amazon.com/exec/obidos/ASIN/0670031518/geneexpressio-20) is a good book is that Steven Pinker promoted Judith Rich Harris’ work.
 

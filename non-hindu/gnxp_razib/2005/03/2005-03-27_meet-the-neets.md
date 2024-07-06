@@ -33,7 +33,8 @@ Posted by David B at [04:57 AM](https://www.gnxp.com/MT2/archives/003830.html) [
 
 ### Related Posts:
 
-- [Neets News](https://www.gnxp.com/WordPress/2005/03/29/neets-news/) - [Diversity Training in
+- [Neets News](https://www.gnxp.com/WordPress/2005/03/29/neets-news/)
+- [Diversity Training in
   Action](https://www.gnxp.com/WordPress/2006/11/05/diversity-training-in-action/) - [Education and Ethnic Groups in
   Britain](https://www.gnxp.com/WordPress/2007/11/28/education-and-ethnic-groups-in-britain/) - [England 2007/2008 GCSE Results by
   Race/Ethnicity](https://www.gnxp.com/WordPress/2009/01/22/england-2007-2008-gcse-results-by-race-ethnicity/) - [Intelligence in UK

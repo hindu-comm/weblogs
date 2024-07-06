@@ -105,7 +105,7 @@ The first responder to the Bill was Amitabh Behar, CEO of Oxfam India, one of th
 
 Oxfam’s [website provides](https://www.oxfamindia.org/about-us/our-team/amitabh-behar) a brief CV Amitabh Behar as follows:
 
-> Amitabh Behar, Chief Executive Officer of Oxfam India, is a global > civil society leader… until recently, led the board of Amnesty > International India. Prior to Oxfam, Mr. Behar was the Executive > Director of National Foundation for India and served as the Convener > of National Social Watch Coalition and the Co-Chair of Global Call to > Action Against Poverty, a network of over 11,000 civil society > organisations.
+> Amitabh Behar, Chief Executive Officer of Oxfam India, is a global > civil society leader… until recently, led the board of Amnesty > International India. Prior to Oxfam, Mr. Behar was the Executive > Director of National Foundation for India and served as the Convener of National Social Watch Coalition and the Co-Chair of Global Call to Action Against Poverty, a network of over 11,000 civil society organisations.
 
 The notable highlights in Amitabh Behar’s CV include his senior role in Amnesty, National Foundation for India and 11,000 civil society organisations, as we shall see. When Behar calls the amended Bill a “devastating blow,” he is speaking the truth but not in the way ordinary people understand the word “truth.”
 

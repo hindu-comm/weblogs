@@ -13,7 +13,8 @@ Who's the daddy? Evolution says both!
 
 ### Related Posts:
 
-- [Open Thread - December 11th,
+- [Open Thread
+- December 11th,
   2010](https://www.gnxp.com/WordPress/2010/12/11/open-thread-december-11th-2010/) - [Daddy's Skeleton
   Army](https://www.gnxp.com/WordPress/2009/01/20/daddy-s-skeleton-army/) - [Father Absence theory in
   hip-hop](https://www.gnxp.com/WordPress/2008/10/22/father-absence-theory-in-hip-hop/) - [Aryan Brazilian twins aren't that

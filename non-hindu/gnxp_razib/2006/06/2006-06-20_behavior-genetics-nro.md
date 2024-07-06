@@ -32,7 +32,8 @@ Remember, “Seek knowledge even unto China.” The conclusions may not always b
 
 ### Related Posts:
 
-- [Twins - Korean that
+- [Twins
+- Korean that
   is....](https://www.gnxp.com/WordPress/2007/08/29/twins-korean-that-is/) - [Q & A with Judith Rich
   Harris](https://www.gnxp.com/WordPress/2006/01/25/q-a-with-judith-rich-harris/) - [Just because it's not hereditary does not mean you
   can…](https://www.gnxp.com/WordPress/2017/04/08/just-because-its-not-hereditary-does-not-mean-you-can-affect-it/) - [No Two Alike in The New York

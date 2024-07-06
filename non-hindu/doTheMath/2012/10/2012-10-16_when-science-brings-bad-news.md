@@ -19,7 +19,7 @@ So let me take a moment to explain science as I have come to understand it. (You
 
 The best description of the scientific method I have ever seen is from a conceptual physics [textbook by Hobson](http://books.google.com/books/about/Physics.html?id=j9cLQgAACAAJ "Hobson: Physics Concepts and Connections textbook"). Paraphrasing:
 
-> The scientific method involves the dynamic interplay between theory > and experiment.
+> The scientific method involves the dynamic interplay between theory and experiment.
 
 That’s it. Perfect. As a scientist, I don’t come to work on Monday and make an observation, then form a hypothesis on Tuesday, devise an experiment to test some prediction on Wednesday, perform the experiment Thursday, and interpret the result on Friday. On any given day I would be hard pressed to tell you where I am in the process. All of the above, really. It’s a mess. It’s a constant back and forth comparing theoretical expectations to the final arbiter of any dispute: nature. Some people specialize in one aspect of the process, and can spend years chewing on some piece of it. But it is seldom done in isolation.
 

@@ -11,7 +11,7 @@ Watson in Esquire
 
 I’ve received several emails about [this interview](http://www.esquire.com/features/articles/2006/061207_mfe_January_07_watson.html) by James Watson in *Esquire*. Here is a representative sample:
 
-> I’ve wondered why people aren’t more intelligent. Why isn’t everyone > as intelligent as Ashkenazi Jews? And it may be societies work best > when there’s a mixture of abilities-the bright people would never be > an army. Or has our intelligence been limited by leaders killing off > any potential competitors? I suspect time is not a factor. The > Ashkenazi Jews have a thousand years. So these are the sorts of things > we’ll find out-how many mutations would you need to be more > intelligent?
+> I’ve wondered why people aren’t more intelligent. Why isn’t everyone > as intelligent as Ashkenazi Jews? And it may be societies work best > when there’s a mixture of abilities-the bright people would never be > an army. Or has our intelligence been limited by leaders killing off > any potential competitors? I suspect time is not a factor. The Ashkenazi Jews have a thousand years. So these are the sorts of things we’ll find out-how many mutations would you need to be more intelligent?
 
 ### Related Posts:
 

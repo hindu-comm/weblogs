@@ -43,7 +43,8 @@ We could use any number for the decline rate in our analysis, but I’ll actuall
 
 Let’s say that our nation (or world) uses 100 units of fossil fuel energy one year, and expects to get only 98 units the following year. We need to come up with 2 units of replacement energy within a year’s time to fill the gap. If, for example, the replacement:
 
-- has an EROEI of 10:1; - requires most of the energy investment up front (solar panel or wind
+- has an EROEI of 10:1;
+- requires most of the energy investment up front (solar panel or wind
   turbine manufacture, nuclear plant construction, etc.); - and will last 40 years,
 
 then we need an up-front *energy* investment amounting to 4 year’s worth of the new source’s output energy. Since we require an output of 2 units of energy to fill the gap, we will need 8 units of energy to bring the resource into use.

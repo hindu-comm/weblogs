@@ -13,7 +13,8 @@ Great juxtaposition of Monty Python storyline with Star Trek clips, but how much
 
 ### Related Posts:
 
-- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/) - [Star Trek, Here I
+- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/)
+- [Star Trek, Here I
   Stand](https://www.gnxp.com/WordPress/2009/05/12/star-trek-here-i-stand/) - [New Star Trek Movie
   Trailer](https://www.gnxp.com/WordPress/2008/11/16/new-star-trek-movie-trailer/) - [Peer pressure
   works](https://www.gnxp.com/WordPress/2006/03/04/peer-pressure-works/) - [Star Hustler passes

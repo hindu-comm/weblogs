@@ -393,7 +393,7 @@ Subscribe
 
 Here is my perhaps ominous conclusion:
 
-> To the early European farmers to the west or the villagers in the > Indus Valley far to the southeast, the Yamnaya and their descendants > must have seemed like barbarous monsters. They arrived as packs of > young men, gluttons for meat, living precariously out of wagons and > ephemerally in yurts, while worshipping violent and arrogant sky-gods. > But the Yamnaya also had to adapt their society to the new conditions > of existence they’d unleashed, developing new folkways and inculcating > traditions and customs in their youth that would stand the test of > time. They continued to adapt and change to survive and push forward, > beyond the horizon as their forefathers had. They had to become a new > cultural superorganism, fit to inherit the future.
+> To the early European farmers to the west or the villagers in the > Indus Valley far to the southeast, the Yamnaya and their descendants > must have seemed like barbarous monsters. They arrived as packs of > young men, gluttons for meat, living precariously out of wagons and > ephemerally in yurts, while worshipping violent and arrogant sky-gods. > But the Yamnaya also had to adapt their society to the new conditions > of existence they’d unleashed, developing new folkways and inculcating > traditions and customs in their youth that would stand the test of time. They continued to adapt and change to survive and push forward, beyond the horizon as their forefathers had. They had to become a new cultural superorganism, fit to inherit the future.
 
 <div class="captioned-image-container">
 
@@ -417,7 +417,7 @@ Here is my perhaps ominous conclusion:
 
 Instead of just applying genetics to history, this post emphasizes the functional variation and evolutionary history of a particular characteristic, skin color, and how it may play out into the future:
 
-> And yet despite its social significance, an air of evolutionary > mystery still clouds the origins of variation in skin color in humans. > The scientific literature on why humans became dark-skinned is far > thinner than the dozens of methods to predict blue eye color. This > situation is partially a function of the forensic utility of > predicting eye color, but it is also due to the fact that the origins > of dark and light skin color in human populations are poorly > understood. Current theories cannot explain the origins of much of the > variation we see, though current genomic methods can tell us that > natural selection was extremely strong around genes associated with > pigmentation.
+> And yet despite its social significance, an air of evolutionary > mystery still clouds the origins of variation in skin color in humans. > The scientific literature on why humans became dark-skinned is far > thinner than the dozens of methods to predict blue eye color. This > situation is partially a function of the forensic utility of > predicting eye color, but it is also due to the fact that the origins > of dark and light skin color in human populations are poorly > understood. Current theories cannot explain the origins of much of the variation we see, though current genomic methods can tell us that natural selection was extremely strong around genes associated with pigmentation.
 
 <div class="captioned-image-container">
 
@@ -441,7 +441,7 @@ Instead of just applying genetics to history, this post emphasizes the functiona
 
 A much longer review of [The Genetic Lottery](https://www.amazon.com/exec/obidos/ASIN/B091MQ771M/geneexpressio-20), which I already wrote about for [UnHerd](https://unherd.com/2021/07/do-genes-determine-intelligence/). Here’s the conclusion:
 
-> We also know that biology is not everything, but*[The Genetic > Lottery](https://www.amazon.com/exec/obidos/ASIN/B091MQ771M/geneexpressio-20) > *reminds us that biology is a factor we ignore at our own peril when > we craft social policy. On the grounds of equality, one might argue > that gender segregation in sports is unjust. But the standard retort > would be based on the reality that men and women differ substantially > on average when it comes to their physical characteristics. In 2021, > we now have the technology to plumb the depths of our human nature. > The results may not always be to our liking, but the facts preceded > us, and ultimately they are unchangeable. The quest for justice always > has to be conceived of as the art of the possible, and genetic > differences have always been part of those possibilities.
+> We also know that biology is not everything, but*[The Genetic > Lottery](https://www.amazon.com/exec/obidos/ASIN/B091MQ771M/geneexpressio-20) > *reminds us that biology is a factor we ignore at our own peril when > we craft social policy. On the grounds of equality, one might argue > that gender segregation in sports is unjust. But the standard retort > would be based on the reality that men and women differ substantially > on average when it comes to their physical characteristics. In 2021, > we now have the technology to plumb the depths of our human nature. > The results may not always be to our liking, but the facts preceded us, and ultimately they are unchangeable. The quest for justice always has to be conceived of as the art of the possible, and genetic differences have always been part of those possibilities.
 
 ### 
 
@@ -479,7 +479,7 @@ A much longer review of [The Genetic Lottery](https://www.amazon.com/exec/obidos
 
 This is a free post, but I wanted to resurface it since it is written in the long-form discursive style more common in my paid posts:
 
-> But despite the extinction of their genes, the Magyars live on in > posterity. Árpád and Stephen I are immortal in the memory of a whole > nation whose sons still commonly bear the name Attila. Genetically, > the Magyars are but a ghost, but culturally they remain with us, > vibrant and vigorous, the most numerous and assertive of the Uralic > people. We all know that historical memory and ethnic identity can be > protean, but the Magyars of today illustrate this starkly. The > descendants of Slavic peasants, German knights and Walloon artisans > have repopulated the land they call Magyarország, and cherish the > memory of Magyar hillfolk who transformed themselves into nomadic > warriors and terrorized Europe for a century before it was their turn > to defend what had become their civilization against the Mongols and > Turks. Sometimes language, myth and legend live on long after flesh > and blood have been washed away.
+> But despite the extinction of their genes, the Magyars live on in > posterity. Árpád and Stephen I are immortal in the memory of a whole > nation whose sons still commonly bear the name Attila. Genetically, > the Magyars are but a ghost, but culturally they remain with us, > vibrant and vigorous, the most numerous and assertive of the Uralic > people. We all know that historical memory and ethnic identity can be > protean, but the Magyars of today illustrate this starkly. The > descendants of Slavic peasants, German knights and Walloon artisans > have repopulated the land they call Magyarország, and cherish the > memory of Magyar hillfolk who transformed themselves into nomadic > warriors and terrorized Europe for a century before it was their turn to defend what had become their civilization against the Mongols and Turks. Sometimes language, myth and legend live on long after flesh and blood have been washed away.
 
 There is now a [new preprint](https://www.biorxiv.org/content/10.1101/2021.08.30.458211v1.full.pdf) that puts Hungarians in their proper historical context (though the work is mostly about ancient Serb/proto-Serb populations).
 
@@ -573,15 +573,15 @@ The month’s other two podcasts dealt with different ways to study human variat
 
 In [Steppe 2.0](https://razib.substack.com/p/steppe-20-swipe-right-on-a-steppe), [Ashwin](https://razib.substack.com/p/steppe-20-swipe-right-on-a-steppe/comments#comment-2711886) references [Cannibals and Kings: Origins of Culture](https://www.amazon.com/exec/obidos/ASIN/B00570A3GE/geneexpressio-20), an excellent book:
 
-> Excellent as always. On pastoralism and patrilineality, this reminds > me of a discussion in Marvin Harris' 'Cannibals and Kings' which > argues that pastoralists were patrilineal because although they > engaged in "external warfare", their home followed right along with > them.
-> > To quote: "Pastoralists usually go to war in order to lead their stock > to better pasture, so “home” follows right along behind them. Hence > the expansionist warfare of pre-state pastoral peoples is > characterized not by seasonal long-distance raiding from a home base, > as is the case among many agricultural matrilineal societies, but by > the migration of whole communities—men, women, children, and > livestock."
-> > The quintessential example of a non-pastoral matrilineal society are > the Nayars, a militaristic matrilineal caste from my home state of > Kerala. Although, as Harris also discusses, of course matrilineal > doesn't really mean that men have less power etc
-> > There's a lot more in the book on the differences between external and > internal warfare and its relationship with patrilineality etc.
+> Excellent as always. On pastoralism and patrilineality, this reminds > me of a discussion in Marvin Harris' 'Cannibals and Kings' which argues that pastoralists were patrilineal because although they engaged in "external warfare", their home followed right along with them.
+> > To quote: "Pastoralists usually go to war in order to lead their stock > to better pasture, so “home” follows right along behind them. Hence > the expansionist warfare of pre-state pastoral peoples is > characterized not by seasonal long-distance raiding from a home base, as is the case among many agricultural matrilineal societies, but by the migration of whole communities—men, women, children, and livestock."
+> > The quintessential example of a non-pastoral matrilineal society are the Nayars, a militaristic matrilineal caste from my home state of Kerala. Although, as Harris also discusses, of course matrilineal doesn't really mean that men have less power etc
+> > There's a lot more in the book on the differences between external and internal warfare and its relationship with patrilineality etc.
 
 In [Should we get "woke" on genetics and behavior?](https://razib.substack.com/p/should-we-get-woke-on-genetics-and), [FdB](https://freddiedeboer.substack.com/) responds:
 
-> 1\. There's a lot of this, in terms of public response to these > arguments, that I know about from personal experience. >
-> 2\. There's a big piece from a very prominent mainstream publication > coming out about this book next Monday which is going to force all > this out into the public debate (and onto Twitter) and I suspect that > Paige will get cancelled again. Which is a shame but I know she was > expecting as such.
+> 1\. There's a lot of this, in terms of public response to these arguments, that I know about from personal experience. >
+> 2\. There's a big piece from a very prominent mainstream publication > coming out about this book next Monday which is going to force all this out into the public debate (and onto Twitter) and I suspect that Paige will get cancelled again. Which is a shame but I know she was expecting as such.
 
 ### **A Facebook Page for Razib Khan’s Unsupervised Learning**
 

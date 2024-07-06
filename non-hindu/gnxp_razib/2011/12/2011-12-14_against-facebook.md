@@ -11,8 +11,8 @@ Against Facebook
 
 You’ve probably read *The New York Times* [article](http://www.nytimes.com/2011/12/14/technology/shunning-facebook-and-living-to-tell-about-it.html?_r=1&ref=general&src=me&pagewanted=print), [The Facebook Resisters](http://www.nytimes.com/2011/12/14/technology/shunning-facebook-and-living-to-tell-about-it.html?_r=1&ref=general&src=me&pagewanted=print). One of the “resisters” struck me as kind of weird:
 
-> Tyson Balcomb quit Facebook after a chance encounter on an elevator. > He found himself standing next to a woman he had never met — yet > through Facebook he knew what her older brother looked like, that she > was from a tiny island off the coast of Washington and that she had > recently visited the Space Needle in Seattle. >
-> **“I knew all these things about her, but I’d never even talked to > her,”** said Mr. Balcomb, a pre-med student in Oregon who had some > real-life friends in common with the woman. “At that point I thought, > maybe this is a little unhealthy.”
+> Tyson Balcomb quit Facebook after a chance encounter on an elevator. > He found himself standing next to a woman he had never met — yet through Facebook he knew what her older brother looked like, that she was from a tiny island off the coast of Washington and that she had recently visited the Space Needle in Seattle. >
+> **“I knew all these things about her, but I’d never even talked to her,”** said Mr. Balcomb, a pre-med student in Oregon who had some real-life friends in common with the woman. “At that point I thought, maybe this is a little unhealthy.”
 
 Is this really novel? Haven’t you *heard* all about people on some occasions and just happened never to run into them? I think the big deal is confusing social networking technologies as a *qualitative* difference when they’re *quantitative*. They extend, they don’t transform. And it isn’t as if Facebook is special. You can find [all sorts of things about Tyson Balcomb online](http://pipl.com/search/?q=Tyson+Balcomb).
 

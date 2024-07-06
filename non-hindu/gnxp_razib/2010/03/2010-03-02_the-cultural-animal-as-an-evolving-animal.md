@@ -11,7 +11,7 @@ The cultural animal as an evolving animal
 
 Nicholas Wade has an article in *The New York Times*, [Human Culture, an Evolutionary Force](http://www.nytimes.com/2010/03/02/science/02evo.html?pagewanted=print). One point to highlight:
 
-> By this criterion, many of the genes under selection seem to be > responding to conventional pressures. Some are involved in the immune > system, and presumably became more common because of the protection > they provided against disease. Genes that cause paler skin in > Europeans or Asians are probably a response to geography and climate.
+> By this criterion, many of the genes under selection seem to be > responding to conventional pressures. Some are involved in the immune system, and presumably became more common because of the protection they provided against disease. Genes that cause paler skin in Europeans or Asians are probably a response to geography and climate.
 
 But even in this case these non-cultural targets of selection have an ultimate cultural cause. The Eurasian pathogen environment is strongly shaped by the fact that humans have lived at high densities under nutritional stress for thousands of years. The uniqueness of the Eurasian adaptations are evident whenever these populations encounter hunter-gatherers. Adaptation to malaria is something which most biologists accept as a clear case of natural selection, but malaria has become ubiquitous only within the past 5-10,000 years in many regions because of ecological changes wrought by humans as they shifted their culture (clearing land for agriculture).
 

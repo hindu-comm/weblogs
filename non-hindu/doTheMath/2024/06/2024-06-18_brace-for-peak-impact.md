@@ -42,7 +42,7 @@ Our exercise starts with the following table that parallels Table 3.5 in [Chapte
 
 Multiplying population (in billions) by the power per capita (in kW) gives terawatts (TW) of power. For the whole world, it comes to about 18.5 TW. \[Note that the American regions in this table are defined differently than the continental divide employed in the textbook, in that “Latin” stands for Latin America (including Mexico) and the Caribbean, while Northern America is primarily the U.S. and Canada (see the Geographic Regions tab [here](https://unstats.un.org/unsd/methodology/m49) for exact definitions).\]
 
-For simplicity, I hold the per-capita power usage at these values for the entire simulation. This isn’t insane, as the plot below shows global per-capita fossil fuel use being *relatively* flat since 1970 (right-hand plot; suggestive red curve), in contrast to the ever-climbing total power, at left. In truth, per-capita energy will more likely *decline* as fossil fuel availability wanes and other (associated) disruptions arise, possibly pulling the moment of peak power even sooner than the following projections suggest. Additionally, *net energy* peaks sooner than total energy when extraction/processing efficiency declines as easy resources are consumed first.
+For simplicity, I hold the per-capita power usage at these values for the entire simulation. This isn’t insane, as the plot below shows global per-capita fossil fuel use being *relatively* flat since 1970 (right-hand plot; suggestive red curve), in contrast to the ever-climbing total power, at left. In truth, per-capita energy will more likely *decline* as fossil fuel availability wanes and other (associated) disruptions arise, possibly pulling the moment of peak power even sooner than the following projections suggest.+++(5)+++ Additionally, *net energy* peaks sooner than total energy when extraction/processing efficiency declines as easy resources are consumed first.
 
 <div id="attachment_2676" class="wp-caption alignnone" style="width: 810px">
 
@@ -64,7 +64,7 @@ Let’s start with the vanilla U.N. assumptions and resulting projection. This i
 | 2130   | 2056   | 2022   | 2055   | 2094   | 2109    | **2061**    |
 | 2.0 TW | 9.6 TW | 3.7 TW | 1.6 TW | 4.4 TW | 0.4 TW  | **20.5 TW** |
 
-So, while global population peaks in 2086 in this scenario, energy consumption **peaks 25 years earlier**. This is a convincing illustration that the two things have substantially different timing. Incidentally, for each region (but not the world as a whole), the year listed for peak power also coincides with peak population, as a single per-capita number is applied for the whole region.
+So, while global population peaks in 2086 in this scenario, energy consumption **peaks 25 years earlier**.+++(5)+++ This is a convincing illustration that the two things have substantially different timing. Incidentally, for each region (but not the world as a whole), the year listed for peak power also coincides with peak population, as a single per-capita number is applied for the whole region.
 
 ## U.N. with Flat Survival
 
@@ -98,7 +98,7 @@ I have serious qualms about the U.N.’s apparent denial of nearly-ubiquitous do
 | 2075   | **2036** | 2021   | 2039   | **2036** | 2071    | **2036**    |
 | 1.2 TW | 8.8 TW   | 3.7 TW | 1.5 TW | 3.9 TW   | 0.3 TW  | **19.0 TW** |
 
-Now we’re just **12 years out** from the global peak! Africa peaks late-century, still, but at a small total power that does little to shift the larger trend. Incidentally, using the U.N. model for monotonically increasing survival rates in combination with my alternate TFR model produces a peak in 2044.
+Now we’re just **12 years out** from the global peak!+++(5)+++ Africa peaks late-century, still, but at a small total power that does little to shift the larger trend. Incidentally, using the U.N. model for monotonically increasing survival rates in combination with my alternate TFR model produces a peak in 2044.
 
 ## My TFR and Reverse Survival
 
@@ -110,7 +110,7 @@ In a declining energy scenario and the attendant economic convulsions, it could 
 | 2064   | **2034** | 2021   | 2035   | 2037   | 2055    | **2034**    | 
 | 1.1 TW | 8.8 TW   | 3.7 TW | 1.5 TW | 3.9 TW | 0.3 TW  | **19.0 TW** |
 
-The change from the previous case is not dramatic, because peak power is so close-at-hand that medical conditions don’t change drastically from the “flat” model in ten years’ time. Still, we’re down to **a decade away** from now! The peak power in the last two cases is only a few percent higher than what we pump out today, so that *life right now* could pretty-much be what the peak feels like. It’s that odd moment near the crest of the roller coaster, when the basic contours of the experience are about to change entirely.
+The change from the previous case is not dramatic, because peak power is so close-at-hand that medical conditions don’t change drastically from the “flat” model in ten years’ time. Still, we’re down to **a decade away** from now!+++(5)+++ The peak power in the last two cases is only a few percent higher than what we pump out today, so that *life right now* could pretty-much be what the peak feels like. It’s that odd moment near the crest of the roller coaster, when the basic contours of the experience are about to change entirely.
 
 As an aside, if you noticed and are concerned by the strange result that Northern America moves one year *later* by reversing the trend (and other counter-intuitive changes in earlier cases), it’s due to the fact that the “survival” model I extracted from U.N. projections simultaneously accounts for migration, so that the reversal in this case reflects an uptick in (past) immigration.
 
@@ -149,7 +149,7 @@ But the global peak in *power* **did not move** in year *or* magnitude. That’s
 
 ## Power, not the People!
 
-The main point of all this is that concern about population growth tends to be motivated by concern over the impacts on Earth and/or resource availability—not over the raw *number* of people. In this context, the date of peak-people-number may turn out to be less significant than the date of peak rate of resource exploitation. Some of the scenarios above put this within 10 years! I’m surprised. [Are you surprised](https://www.youtube.com/watch?v=m_jmFZe52I8)?
+The main point of all this is that concern about population growth tends to be motivated by concern over the impacts on Earth and/or resource availability—not over the raw *number* of people. In this context, the date of peak-people-number may turn out to be less significant than the date of peak rate of resource exploitation. Some of the scenarios above put this within 10 years!+++(5)+++ I’m surprised. [Are you surprised](https://www.youtube.com/watch?v=m_jmFZe52I8)?
 
 Because energy is a decent proxy for the scale of the global economy: extractive activities, industrial output, transportation, agricultural production, construction—and all the other things we do with energy—a global peak in power output likely corresponds to a global peak in the industrial scale of modernity and its economy. Wow. And that may happen in the next decade. Hold on to your hats!
 
@@ -171,7 +171,7 @@ John Michael Greer offers context on what declining population could mean in a r
 
 This must seem like dire news to an economist, but it may be just what the living world (to which we belong!) needs to move closer to balance and functionality. Bad news for Team Cancer, but good news for the whole organism—Team Life. And to be clear, I’m not calling *humans* the cancer and advocating eradication. Before being [afflicted with cancerous cultural norms](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/), humans operated within an ecological context. Pancreatic cancer does not mean that the pancreas is inherently bad—just that an unfortunate development changed its essential character and how it interacts with the whole organism. Note that a successful cancer is bad news *even for itself*, as it dies upon killing its host, without ever passing its genius to a future version of itself. The more “successful” it is, the worse the outcome—just as for modernity. Let’s rediscover what it is to be non-cancerous humans as integral actors in “right relationship” with the rest of the community of life. Everyone would be healthier for it.
 
-Our present cancerous economy is not geared to handle the switch to a decline phase gracefully. Investment relies on the notion that tomorrow will be bigger than today. What does a generations-long contraction scenario look like to investors? The mattress starts to look pretty good as a place to stash cash. The question—whose answer we can’t know yet—is: how quickly and turbulently will the economic chemotherapy proceed, and can the organism survive the treatment or is the cancer too invasively suffused throughout? One ray of hope here is that each newborn is not yet infected with cultural maladies, so that real change can begin as soon as the culture recognizes its folly and tries something different—allowing the irredeemably afflicted members to fade out in a natural, slow progression.
+Our present cancerous economy is not geared to handle the switch to a decline phase gracefully. Investment relies on the notion that tomorrow will be bigger than today.+++(5)+++ What does a generations-long contraction scenario look like to investors? The mattress starts to look pretty good as a place to stash cash. The question—whose answer we can’t know yet—is: how quickly and turbulently will the economic chemotherapy proceed, and can the organism survive the treatment or is the cancer too invasively suffused throughout? One ray of hope here is that each newborn is not yet infected with cultural maladies, so that real change can begin as soon as the culture recognizes its folly and tries something different—allowing the irredeemably afflicted members to fade out in a natural, slow progression.
 
 ## The Stadium
 
@@ -179,15 +179,25 @@ At the risk of inducing metaphorical whiplash, I have also used some form of the
 
 That’s how I perceived the tragic irony of having the most-ever people on the planet suffer the worst-ever event: an event brought on precisely *because* of so many people: a self-fulfilling tragedy that maximizes total suffering as if by dastardly design. I saw it as an unwitting and inevitable trap. Population would heedlessly grow until it hit a wall and broke its nose. And the wall.
 
-In light of the potential for an early peak due to rapid fertility declines underway in the resource-hogging (“developed”) world, I wish to modify the stadium metaphor: *fewer people came than expected*, and began thinning out before triggering utter collapse.
+In light of the potential for an early peak due to rapid fertility declines underway in the resource-hogging (“developed”) world, I wish to modify the stadium metaphor: *fewer people came than expected*, and began thinning out before triggering utter collapse.+++(4)+++
 
-Now, the stadium (modernity) was **never built on principles of sustainability**, so it inevitably crumbles anyway, and it still has substantial crowds putting a load on it, at great risk to themselves and others. But instead of wholesale catastrophic collapse that takes almost everyone down with it, smaller-scale asynchronous crumblings are confined to regions. Questions: Is it still tragic and does it still involve human suffering of an unprecedented scale? Very probably: that can’t be helped at this point, unfortunately. Is it as bad as a full-scale collapse brought on by unrelenting growth of the crowd? Surely not. I’ll take whatever sliver of good news I can get!
+Now, the stadium (modernity) was **never built on principles of sustainability**, so it inevitably crumbles anyway, and it still has substantial crowds putting a load on it, at great risk to themselves and others. But instead of wholesale catastrophic collapse that takes almost everyone down with it, smaller-scale asynchronous crumblings are confined to regions.+++(5)+++  
+Questions: Is it still tragic and does it still involve human suffering of an unprecedented scale?  
+Very probably: that can’t be helped at this point, unfortunately.  
+Is it as bad as a full-scale collapse brought on by unrelenting growth of the crowd? Surely not.  
+I’ll take whatever sliver of good news I can get!
 
 I should point out that the mere presence of the stadium has [crushed](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/) and extinguished many species who [did nothing wrong, but didn’t stand a chance](https://dothemath.ucsd.edu/2024/03/they-didnt-stand-a-chance/). Going forward, the stadium will continue to harm others (and humans) both by its existence and during the uncooperative process of its crumbling. In other words, humans are not the only ones to suffer for its being built and for its self-destruction. Moreover, it makes no sense to pretend that harm to the community of life does not also harm humans—being that we are *a part of the community*, not separate from it.
 
-Let’s face it: the stadium was never a good idea. It’s been really amazing and cool in a number of ways, but never “of this world” in the sense that it had no contextual support from ecological, biophysical, or evolutionary history, and thus was never vetted for sustainability (long-term success). It’s a short-lived stunt.
+Let’s face it: the stadium was never a good idea. It’s been really amazing and cool in a number of ways, but never “of this world” in the sense that it had no contextual support from ecological, biophysical, or evolutionary history, and thus was never vetted for sustainability (long-term success).+++(4)+++ It’s a short-lived stunt.
 
-The fortunate development could be that ticket sales wane as youngsters already brought into the stadium see the cracks and decide not to invite more youngsters—ignoring the panicked old-guard who hold unshakable faith that this grand event is going to turn out to be amazing in a spectacularly *good* way if only the young folks would share their faith and invite more people. Meanwhile, perhaps some within the stadium will quietly find the exits and others will manage to survive the Great Crumbling to swear off stadium life forever more.
+The fortunate development could be that  
+ticket sales wane as youngsters already brought into the stadium  
+see the cracks and decide not to invite more youngsters—  
+ignoring the panicked old-guard who hold unshakable faith  
+that this grand event is going to turn out to be amazing in a spectacularly *good* way  
+if only the young folks would share their faith and invite more people.  
+Meanwhile, perhaps some within the stadium will quietly find the exits and others will manage to survive the Great Crumbling to swear off stadium life forever more.
 
 ## Bonus: Video!
 
@@ -195,12 +205,3 @@ I made a [video on the topic](https://www.youtube.com/watch?v=hTMjxp3Nznk)!
 
 Views: 4098
 
-<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom">
-
-<div class="a2a_kit a2a_kit_size_32 addtoany_list" a2a-title="Brace for Peak Impact" a2a-url="https://dothemath.ucsd.edu/2024/06/brace-for-peak-impact/">
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2024%2F06%2Fbrace-for-peak-impact%2F&linkname=Brace%20for%20Peak%20Impact "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2024%2F06%2Fbrace-for-peak-impact%2F&linkname=Brace%20for%20Peak%20Impact "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2024%2F06%2Fbrace-for-peak-impact%2F&linkname=Brace%20for%20Peak%20Impact "Email")[](https://www.addtoany.com/share)
-
-</div>
-
-</div>

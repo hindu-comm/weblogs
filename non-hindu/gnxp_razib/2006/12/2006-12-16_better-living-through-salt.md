@@ -11,14 +11,14 @@ Better living through salt
 
 There’s an [interesting article](http://www.nytimes.com/2006/12/16/health/16iodine.html?pagewanted=1&_r=1&ref=todayspaper) in the NY Times on the campaign to iodize salt in an effort to raise IQ.
 
-> Worldwide, about two billion people – a third of the globe – get too > little iodine, including hundreds of millions in India and China. > Studies show that iodine deficiency is the leading preventable cause > of mental retardation. Even moderate deficiency, especially in > pregnant women and infants, lowers intelligence by 10 to 15 I.Q. > points, shaving incalculable potential off a nation’s development.  
+> Worldwide, about two billion people – a third of the globe – get too > little iodine, including hundreds of millions in India and China. > Studies show that iodine deficiency is the leading preventable cause of mental retardation. Even moderate deficiency, especially in pregnant women and infants, lowers intelligence by 10 to 15 I.Q. points, shaving incalculable potential off a nation’s development.  
 > …  
-> Comic strips starring a hooded crusader, Iodine Man, rescuing a > slow-witted student from an enraged teacher were handed out across > \[Kazakhstan\]. >
-> A logo was designed for food packages certified to contain iodized > salt: a red dot and a curved line in a circle, meant to represent a > face with a smile so big that the eyes are squeezed shut. >
-> Also, Ms. Sivryukova’s network of local charity women stepped in. As > in all ex-Soviet states, government advice is regarded with suspicion, > while civic organizations have credibility. >
-> Her volunteers approached schools, asking teachers to create dictation > exercises about iodized salt and to have students bring salt from home > to test it for iodine in science class. >
-> Ms. Sivryukova described one child’s tears when he realized he was the > only one in his class with noniodized salt. >
-> The teacher, she said, reassured him that it was not his fault. > “Children very quickly start telling their parents to buy the right > salt,” she said.
+> Comic strips starring a hooded crusader, Iodine Man, rescuing a slow-witted student from an enraged teacher were handed out across \[Kazakhstan\]. >
+> A logo was designed for food packages certified to contain iodized salt: a red dot and a curved line in a circle, meant to represent a face with a smile so big that the eyes are squeezed shut. >
+> Also, Ms. Sivryukova’s network of local charity women stepped in. As in all ex-Soviet states, government advice is regarded with suspicion, while civic organizations have credibility. >
+> Her volunteers approached schools, asking teachers to create dictation exercises about iodized salt and to have students bring salt from home to test it for iodine in science class. >
+> Ms. Sivryukova described one child’s tears when he realized he was the only one in his class with noniodized salt. >
+> The teacher, she said, reassured him that it was not his fault. “Children very quickly start telling their parents to buy the right salt,” she said.
 
 ### Related Posts:
 

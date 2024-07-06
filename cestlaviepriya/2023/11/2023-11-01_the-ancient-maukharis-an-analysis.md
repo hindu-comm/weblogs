@@ -23,7 +23,13 @@ One can never really know which piece of information learnt on social media can 
 
 **Table of Contents & Links**
 
-- [Background](#Background) - [The Maukhari-s of Gayā](#Maukharis-of-Gaya) - [The Maukhari-s of Kannauj](#Maukharis-of-Kannauj) - [The Gayā Clay Seal](#Gaya-Clay-Seal) - [Kaumudīmahotsava](#Kaumudimahotsava) - [The Chandravalli Inscription](#Chandravalli-Inscription) - [The Maukhari-Mālava Connexion: A
+- [Background](#Background)
+- [The Maukhari-s of Gayā](#Maukharis-of-Gaya)
+- [The Maukhari-s of Kannauj](#Maukharis-of-Kannauj)
+- [The Gayā Clay Seal](#Gaya-Clay-Seal)
+- [Kaumudīmahotsava](#Kaumudimahotsava)
+- [The Chandravalli Inscription](#Chandravalli-Inscription)
+- [The Maukhari-Mālava Connexion: A
   Possibility](#Maukhari-Malava-Connexion) - [The Chandravalli-Barwā Connexion?](#Chandravalli-Barwa-Connexion) - [Remarks](#Remarks) - [Conclusion](#Conclusion) - [Notes](#Notes) - [Bibliography](#Bibliography)
 
 **Background**
@@ -117,7 +123,7 @@ Before proceeding any further, to understand the influence of the Mālava tribe/
 These coins are dated variously – from 3^(rd)-4^(th) century CE to the older ones going back to mid-2^(nd) century BCE (EI XXVII; 259). The inscription like the Nandsā refers to the region as the mālava-gaṇa-viṣaya or the country of the Mālava tribe and they were certainly strong enough in area around Ajmer to be involved in conflict with and harass other powers like the Uttamabhadra-s, the Śaka allies as shown by the Nāsik inscription No. 10 dated c. 120 CE (EI XXVII; 259).
 Altekar goes into details regarding the possibility of the Nandsā Mālava potentes to have taken advantage of the opportunity presented by the infighting between the Śaka-s around c. 181 to 196 CE to assert themselves.^(**13**) It is then possible that the Ekaṣaṣṭīrātra sacrifice could have been done to celebrate this signal victory over the Śaka-s (EI XXVII; 260). However, as Altekar points out – it would be wrong toexaggerate the importance of these possible victories. They are important as far as they helped the Mālava to secure relative independence, and to that extent circumscribed the boundaries of the Śaka Empire (EI XXVII; 261).
 
-> **The fact that there is no break in the dates of the Śaka coins at > this period, nor do we find the title Mahākṣatrapa in abeyance, as it > subsequently became, during the first half of the 4th century A. D, – > all seems to suggest that they did not give any serious setback to the > Śaka power.** >
+> **The fact that there is no break in the dates of the Śaka coins at > this period, nor do we find the title Mahākṣatrapa in abeyance, as it subsequently became, during the first half of the 4th century A. D, – all seems to suggest that they did not give any serious setback to the Śaka power.** >
 > **(EI XXVII; 261)**
 
 Interestingly, Altekar noticed the absence of any royal, feudatory or military title, like mahārāja, rājan or senāpati for Śrī Soma nor his father or his grand-father (EI XXVII; 260) in the Nandsā inscription which in his opinion suggests the republican traditions which were still strong enough that no regal title were permitted to their rulers even when they had established hereditary dynasties ruling at least for three generations (EI XXVII; 260). In contrast to these – thirteen years later – the Maukhari Yūpa Inscriptions, uses the titles like mahāsenāpati. Could we interpret this as a sign – though a rather subtle one – of the Mālava turn towards more monarchical traditions?

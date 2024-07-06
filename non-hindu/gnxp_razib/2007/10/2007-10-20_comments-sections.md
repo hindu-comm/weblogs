@@ -13,7 +13,8 @@ Greg Mankiw on [why he closed comments](https://gregmankiw.blogspot.com/2007/10/
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [An overactive spam
+- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/)
+- [An overactive spam
   filter](https://www.gnxp.com/WordPress/2010/04/06/an-overactive-spam-filter/) - [Moderation is
   on](https://www.gnxp.com/WordPress/2008/10/12/moderation-is-on/) - [A quick note on comments
   policy](https://www.gnxp.com/WordPress/2012/05/25/a-quick-note-on-comments-policy/) - [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [Comments, the fine line between relevance and

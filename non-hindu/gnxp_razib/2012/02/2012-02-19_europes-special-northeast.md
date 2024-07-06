@@ -11,7 +11,7 @@ Europe's special northeast
 
 The [Fennoscandia Project](https://fennoscandia.blogspot.com/2012/02/finestructure-of-fennoscandia.html) has now gone through chromosomes 1 to 6 with [Chromopainter/fineSTRUCTURE](http://paintmychromosomes.com/). The conclusion:
 
-> If we looker at the bigger picture we see that most of continental > Europe is tied to each other more trough mutations than others making > them harder to seperate even at this level (6 chromosomes). We see > that Lithuanians seem to have stronger affiliation to the large > continental European cluster including Scandinavians but this > affiliation is weaker for Vologda Russians. This connection is even > weaker for Finns and almost non-existing for Saamis. This is in > accordance with the MDS plot.
+> If we looker at the bigger picture we see that most of continental > Europe is tied to each other more trough mutations than others making > them harder to seperate even at this level (6 chromosomes). We see > that Lithuanians seem to have stronger affiliation to the large > continental European cluster including Scandinavians but this affiliation is weaker for Vologda Russians. This connection is even weaker for Finns and almost non-existing for Saamis. This is in accordance with the MDS plot.
 
 Here is the relevant plot (I have added some labels):
 

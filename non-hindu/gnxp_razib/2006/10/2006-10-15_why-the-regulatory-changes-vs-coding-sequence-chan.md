@@ -15,7 +15,7 @@ In the 1970s, the technology was a such a state that the proteins in the blood o
 
 One possible answer was provided in 1975, in an influential paper by Mary-Claire King and Allan Wilson. In their own words:
 
-> We suggest that evolutionary changes in anatomy and way of life are > more often based on changes in the mechanisms controlling the > expression of genes than on sequence changes in proteins. We therefore > propose that regulatory mutations account for the major biological > differences between humans and chimpanzees
+> We suggest that evolutionary changes in anatomy and way of life are > more often based on changes in the mechanisms controlling the expression of genes than on sequence changes in proteins. We therefore propose that regulatory mutations account for the major biological differences between humans and chimpanzees
 
 Of course, this hypothesis was based on very little data (as Bruce Lahn pointed out in [his interview](https://www.gnxp.com/blog/2006/10/10-questions-for-bruce-lahn_10.php)) — the fact that human red blood cells and chimp red blood cells are almost the same doesn’t really tell us that much. But at the time, people were apparently expecting radical differences between human and chimp proteins across the board, so this paper shifted some paradigms\[1\].
 

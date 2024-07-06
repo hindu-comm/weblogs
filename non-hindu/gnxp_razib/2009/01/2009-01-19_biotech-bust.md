@@ -11,10 +11,10 @@ Biotech Bust?
 
 *Portfolio* has a story up, [Biotech Decline](http://www.portfolio.com/news-markets/top-5/2009/01/19/Biotech-Boom-Finally-Peters-Out):
 
-> Even the industry’s lobbying group, the Biotechnology Industry > Organization, says that 45 percent of publicly traded biotech > companies will run out of cash in the next 6 to 12 months. A mere 10 > percent of the 370 listed companies have a positive cash flow. >
+> Even the industry’s lobbying group, the Biotechnology Industry Organization, says that 45 percent of publicly traded biotech companies will run out of cash in the next 6 to 12 months. A mere 10 percent of the 370 listed companies have a positive cash flow. >
 > … >
-> Much of the activity at the J.P. Morgan conference involved companies > and investors that still have money shopping for deals. “We are being > visited by a number of companies,” said Jay Flatley, CEO of the > genomic sequencing company Illumina, based in San Diego. >
-> **Illumina recently announced an \$18 million development deal with > Oxford Nanopore of Britain for its next-generation genetic sequencing > technology.** Illumina has remained profitable with a > healthier-than-average stock price even during the downturn.
+> Much of the activity at the J.P. Morgan conference involved companies and investors that still have money shopping for deals. “We are being visited by a number of companies,” said Jay Flatley, CEO of the genomic sequencing company Illumina, based in San Diego. >
+> **Illumina recently announced an \$18 million development deal with Oxford Nanopore of Britain for its next-generation genetic sequencing technology.** Illumina has remained profitable with a healthier-than-average stock price even during the downturn.
 
 Dan MacArthur has [more on Illumina & Oxford Nanopore](http://scienceblogs.com/geneticfuture/2009/01/oxford_nanopore_and_illumina_e.php).
 

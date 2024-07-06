@@ -13,7 +13,7 @@ Evolution skeptical: not just fundamentalists
 
 In the [comments below](http://blogs.discovermagazine.com/gnxp/2011/10/evolutionary-imperialism/#comments) [Christopher Mims](http://slipr.com/) states:
 
-> But evolution? It seems as if denial of evolution comes **from a place > so basic — religious fundamentalism —** that I wonder whether > something like this could ever have even the slightest impact.
+> But evolution? It seems as if denial of evolution comes **from a place so basic — religious fundamentalism —** that I wonder whether something like this could ever have even the slightest impact.
 
 It’s hard to deny the relationship of religious fundamentalism and evolution denial and skepticism. But, I think it’s important to remember that in the United States the large critical mass of evolution-denying religious fundamentalists has resulted in a “bleed over” of the stance to people who aren’t religious fundamentalists. I know this anecdotally from friends who were of Roman Catholic and Mormon backgrounds who presumed that their religious orientation precluded an acceptance of evolution. In fact, my own first awareness that people might actually not believe in evolution came via a conversation with an evolution skeptic friend who was a nominal Roman Catholic. Nominal in that his family actually never went to church.
 

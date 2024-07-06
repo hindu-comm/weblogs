@@ -11,8 +11,8 @@ Richard Dawkins – Islamophobe?
 
 ![richard-dawkins-ext_785210f.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/richard-dawkins-ext_785210f.jpg?resize=220%2C293)![richard-dawkins-ext_785210f.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/richard-dawkins-ext_785210f.jpg?resize=220%2C293)[Richard Dawkins: Muslim parents ‘import creationism’ into schools](http://www.telegraph.co.uk/news/uknews/2494397/Richard-Dawkins-Muslim-parents-import-creationism-into-schools.html):
 
-> “Most devout Muslims are creationists so when you go to schools, there > are a large number of children of Islamic parents who trot out what > they have been taught,” Prof Dawkins said in a Sunday newspaper > interview.  
-> “Teachers are bending over backwards to respect home prejudices that > children have been brought up with. The Government could do more, > **but it doesn’t want to because it is *fanatical* about > multiculturalism and the need to respect the different traditions from > which these children come.**“
+> “Most devout Muslims are creationists so when you go to schools, there are a large number of children of Islamic parents who trot out what they have been taught,” Prof Dawkins said in a Sunday newspaper interview.  
+> “Teachers are bending over backwards to respect home prejudices that > children have been brought up with. The Government could do more, **but it doesn’t want to because it is *fanatical* about multiculturalism and the need to respect the different traditions from which these children come.**“
 
 Fact: a greater proportion of Turks are Creationist than are Americans. Remember that Turkey is a secular and liberal Muslim country; one can project what the attitudes in other Muslim nations might be….  
 [Fact](http://www.hcdi.net/polls/J5776/), here are the proportions of American medical doctors by religion (or lack of) who find Intelligible Design plausible:  

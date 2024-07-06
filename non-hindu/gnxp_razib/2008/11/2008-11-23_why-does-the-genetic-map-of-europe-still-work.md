@@ -11,11 +11,11 @@ Why does the genetic map of Europe still work?
 
 In the [comments below Susan C asks an](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/4905761695523558825?url=http://www.gnxp.com/blog/2008/11/another-genetic-map-of-europe.php&thetime=11/21/2008%2012:02:00%20PM) [interesting question](http://www.haloscan.com/comments//4905761695523558825?url=http://www.gnxp.com/blog/2008/11/another-genetic-map-of-europe.php&thetime=11/21/2008%2012:02:00%20PM#2665661):
 
-> I’m still surprised that this works as well as it does, given that > there were mass movements of people during the nineteenth and > twentieth century. >
-> For Europe prior to 1815, I’d expect it to work. Genealogical records > show that people were very often born in the same village that their > parents were, or the next village along. I would guess the rate of > diffusion to be a few km per generation. >
-> After the Napoleonic Wars, though, it goes nuts. Changing methods of > agriculture (e.g. enclosure of land) meant that many rural > agricultural labourers were put out of work, and had to move to the > major industrial cities. This migration could easily be in the range > of 100km in one generation, or even transcontinental – people > emigrating to North America or Australia. >
-> Moving forward to the Second World War, many people from central > Europe fled the Nazis and came to settle in Britain. >
-> So if you take a British person today, and ask them where their > grandmother was born, likely answers range from Aberystwyth to Krakow, > even if they answer “white” to an ethnicity question. (Of course > there’s plenty of evidence of immigration from e.g. India or the > Caribbean, too)
+> I’m still surprised that this works as well as it does, given that there were mass movements of people during the nineteenth and twentieth century. >
+> For Europe prior to 1815, I’d expect it to work. Genealogical records show that people were very often born in the same village that their parents were, or the next village along. I would guess the rate of diffusion to be a few km per generation. >
+> After the Napoleonic Wars, though, it goes nuts. Changing methods of > agriculture (e.g. enclosure of land) meant that many rural > agricultural labourers were put out of work, and had to move to the major industrial cities. This migration could easily be in the range of 100km in one generation, or even transcontinental – people emigrating to North America or Australia. >
+> Moving forward to the Second World War, many people from central Europe fled the Nazis and came to settle in Britain. >
+> So if you take a British person today, and ask them where their > grandmother was born, likely answers range from Aberystwyth to Krakow, even if they answer “white” to an ethnicity question. (Of course there’s plenty of evidence of immigration from e.g. India or the Caribbean, too)
 
 An interesting point. Some levels of immigration and movement have always been part of European history. Think about the [outflow of Huguenots](https://en.wikipedia.org/wiki/Huguenot#Edict_of_Fontainebleau) after the revocation of the Edict of Nantes. The trade and migration between the Low Countries and the eastern shore of Britain. The immigration of Spaniards, Poles and Italians to France in the 19th century. The relocation of Saxons to Romania, Russia, etc.
 

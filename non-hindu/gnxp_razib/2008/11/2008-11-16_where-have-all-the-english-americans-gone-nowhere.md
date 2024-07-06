@@ -43,7 +43,8 @@ Relying on self-reports is obviously problematic for ethnicity in a nation where
 
 ### Related Posts:
 
-- [Germania](https://www.gnxp.com/WordPress/2009/11/16/germania/) - [When America was
+- [Germania](https://www.gnxp.com/WordPress/2009/11/16/germania/)
+- [When America was
   post-colonial](https://www.gnxp.com/WordPress/2010/04/30/when-america-was-post-colonial/) - [Don't count old stock Anglo-America
   out](https://www.gnxp.com/WordPress/2011/08/31/dont-count-old-stock-anglo-america-out/) - [A genetic map of the United
   States?](https://www.gnxp.com/WordPress/2008/12/07/a-genetic-map-of-the-united-states/) - [Where have English Americans

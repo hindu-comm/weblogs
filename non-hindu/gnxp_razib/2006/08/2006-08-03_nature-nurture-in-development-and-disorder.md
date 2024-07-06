@@ -13,7 +13,7 @@ The new issue of [Trends in Neurosciences](https://dx.doi.org/10.1016/j.tins.200
 
 I’ll be reading this [hippocampus paper](https://dx.doi.org/10.1016/j.tins.2006.05.008) about how early damage could permanently pause the development of episodic memory capability, and [some might be interested](https://www.gnxp.com/blog/2006/02/genius-germs.php) in [this one](https://dx.doi.org/10.1016/j.tins.2006.06.002) about viral infections in the developing and mature brain:
 
-> A number of different RNA and DNA viruses can invade the brain and > cause neurological dysfunction. These range from the tiny polio > picornavirus, which has only 7 kb of RNA genetic code that > preferentially infects motor neurons, to the relatively large > cytomegalovirus, which has \>100 genes in its 235 kb DNA genome and > causes various neurological problems in the developing brain but is > comparatively harmless to adults. This brief overview of some aspects > of neurovirology addresses the complex problems that underlie an > appreciation of the contribution of viral infections to brain disease.
+> A number of different RNA and DNA viruses can invade the brain and > cause neurological dysfunction. These range from the tiny polio > picornavirus, which has only 7 kb of RNA genetic code that > preferentially infects motor neurons, to the relatively large > cytomegalovirus, which has \>100 genes in its 235 kb DNA genome and > causes various neurological problems in the developing brain but is comparatively harmless to adults. This brief overview of some aspects of neurovirology addresses the complex problems that underlie an appreciation of the contribution of viral infections to brain disease.
 
 ### Related Posts:
 

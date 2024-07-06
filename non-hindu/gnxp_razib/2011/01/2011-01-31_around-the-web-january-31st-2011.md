@@ -50,7 +50,8 @@ The first month of 2011 is almost over….
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Secular liberals the tip of the Islamist
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Secular liberals the tip of the Islamist
   spear](https://www.gnxp.com/WordPress/2012/01/31/secular-liberals-the-tip-of-the-islamist-spear/) - [The Aga Khan, the light of
   Islam?](https://www.gnxp.com/WordPress/2007/07/07/the-aga-khan-the-light-of-islam/) - [An illiberal
   people](https://www.gnxp.com/WordPress/2011/12/03/an-illiberal-people/) - [Conservatives Democrats vs. Liberal Republicans,

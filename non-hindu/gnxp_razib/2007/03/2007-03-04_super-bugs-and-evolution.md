@@ -11,9 +11,9 @@ Super-bugs and evolution
 
 I’m generally skeptical of claims that “Big Pharma” and shadowy government figures are somehow colluding against us, but [this story](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/03/AR2007030301311.html) definitely makes me a little uncomfortable:
 
-> The government is on track to approve a new antibiotic to treat a > pneumonia-like disease in cattle, despite warnings from health groups > and a majority of the agency’s own expert advisers that the decision > will be dangerous for people. >
-> The drug, called cefquinome, belongs to a class of highly potent > antibiotics that are among medicine’s last defenses against several > serious human infections. No drug from that class has been approved in > the United States for use in animals. >
-> The American Medical Association and about a dozen other health groups > warned the Food and Drug Administration that giving cefquinome to > animals would probably speed the emergence of microbes resistant to > that important class of antibiotics, as has happened with other drugs.
+> The government is on track to approve a new antibiotic to treat a pneumonia-like disease in cattle, despite warnings from health groups and a majority of the agency’s own expert advisers that the decision will be dangerous for people. >
+> The drug, called cefquinome, belongs to a class of highly potent antibiotics that are among medicine’s last defenses against several serious human infections. No drug from that class has been approved in the United States for use in animals. >
+> The American Medical Association and about a dozen other health groups warned the Food and Drug Administration that giving cefquinome to animals would probably speed the emergence of microbes resistant to that important class of antibiotics, as has happened with other drugs.
 
 It’s obvious that wide-scale use of a new antibiotic will ramp up the frequency of resistant bacteria; these are basic evolutionary principles at work.
 

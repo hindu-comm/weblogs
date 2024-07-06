@@ -15,8 +15,8 @@ In some ways it seems that the lot of Oriental Christians, those ethno-religious
 
 Just another of the many stories of this genre you see, [Christians, in an Epochal Shift, Are Leaving the Middle East](https://www.wsj.com/articles/christians-in-an-epochal-shift-are-leaving-the-middle-east-1494597848):
 
-> The exodus leaves the Middle East overwhelmingly dominated by Islam, > whose rival sects often clash, raising the prospect that radicalism in > the region will deepen. Conflicts between Sunni and Shiite Muslims > have erupted across the Middle East, squeezing out Christians in > places such as Iraq and Syria and forcing them to carve out new lives > abroad, in Europe, the U.S. and elsewhere. >
-> “The disappearance of such minorities sets the stage for more radical > groups to dominate in society,” said Mr. Johnson of the loss of > Christians and Jews in the Middle East. “Religious minorities, at the > very least, have a moderating effect.”
+> The exodus leaves the Middle East overwhelmingly dominated by Islam, > whose rival sects often clash, raising the prospect that radicalism in > the region will deepen. Conflicts between Sunni and Shiite Muslims have erupted across the Middle East, squeezing out Christians in places such as Iraq and Syria and forcing them to carve out new lives abroad, in Europe, the U.S. and elsewhere. >
+> “The disappearance of such minorities sets the stage for more radical groups to dominate in society,” said Mr. Johnson of the loss of Christians and Jews in the Middle East. “Religious minorities, at the very least, have a moderating effect.”
 
 [![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/51eqgk4pbmL._SX331_BO1204203200_.jpg?resize=300%2C450)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/51eqgk4pbmL._SX331_BO1204203200_.jpg?resize=300%2C450)](https://www.amazon.com/exec/obidos/ASIN/B001FA0V1C/geneexpressio-20)
 

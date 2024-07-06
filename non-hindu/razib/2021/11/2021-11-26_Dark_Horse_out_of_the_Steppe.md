@@ -59,7 +59,7 @@ Share
 
 [Share](https://razib.substack.com/p/dark-horse-out-of-the-steppe?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-> Lift up a battle standard in the land. Blow a trumpet among the > nations. Consecrate the nations against her. Summon the kingdoms of > Ararat, Minni, and Ashkenaz against her. Appoint a commander against > her, bring up horses like bristling locusts.
+> Lift up a battle standard in the land. Blow a trumpet among the nations. Consecrate the nations against her. Summon the kingdoms of Ararat, Minni, and Ashkenaz against her. Appoint a commander against her, bring up horses like bristling locusts.
 
 - Jeremiah 51:27
 

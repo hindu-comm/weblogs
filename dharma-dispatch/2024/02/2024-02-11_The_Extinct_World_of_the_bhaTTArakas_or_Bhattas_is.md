@@ -85,13 +85,13 @@ However, there was another class of *Bhattas* who followed a profession that wen
 
 The earliest extant record of these *Bhattas* is available in an inscription grant that occurs in the Western Ganga dynasty dated 968 CE in the reign of Satyavakya Permmanadi. His bard Jayasena Bhatara (*Bhatta*) ruled over the Kâreya province (this roughly falls in the contemporary Mysore-Nanjanagud belt) wrote this grant which reads as follows:
 
-> Jayasêna Bhatara who was ruling Kâreya, and the bold Dandanâyaka > Bikkeya, assigned the land for cultivation for the Devigere and > Piriyakere which Nagavarma had ordered to be constructed. Jayasêna > Bhatara allowed four kaṇḍuga as rent-free land for the upkeep.
+> Jayasêna Bhatara who was ruling Kâreya, and the bold Dandanâyaka Bikkeya, assigned the land for cultivation for the Devigere and Piriyakere which Nagavarma had ordered to be constructed. Jayasêna Bhatara allowed four kaṇḍuga as rent-free land for the upkeep.
 
 One kaṇḍuga = 160 litres or its equivalent in weight.
 
 When we travel from Karnataka to Gujarat-Rajasthan, we notice the same bards performing pretty much the same functions in the 12th century. This Nadol inscription describes a solemn promise made to Maharaja Rayapala by a group of sixteen *Bhāṭs*. The inscription’s text has been paraphrased as follows:
 
-> We solemnly promise to find out, according to the customs of this > country, by means of the Caukaḍika (Panchayat) system whatever is lost > by, or snatched away from, the Bhāṭa, Bhaṭṭaputra, and others on their > way.
+> We solemnly promise to find out, according to the customs of this country, by means of the Caukaḍika (Panchayat) system whatever is lost by, or snatched away from, the Bhāṭa, Bhaṭṭaputra, and others on their way.
 
 The inscription gives the full list of all the sixteen signatories whose names are prefixed with the title *Bhaṭṭāraka.* More incredibly, these sixteen *Bhaṭṭārakas * hail from the following major regions: Nadol, Anhilwara, Baroda, Dwarka and Kathiawar. The term *Bhaṭṭaputra* is the correct linguistic form of the contemporary surname, *Barot*, who belonged to the upper echelons of professional bards and panegyrists.
 

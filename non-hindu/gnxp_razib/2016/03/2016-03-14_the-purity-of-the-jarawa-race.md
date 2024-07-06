@@ -17,12 +17,12 @@ With that, this article in *The New York Times* strikes me as tragic, and expose
 
 Here’s an important section:
 
-> Even before the police heard of the baby’s killing, the authorities on > South Andaman Island were struggling with the question of whether to > allow the Jarawas, who are classified as a “particularly vulnerable > tribal group,” more access to the world outside their reserve. >
-> The top official on the Andaman Islands, Lt. Gov. A. K. Singh, said > that upon taking up his post in 2013, he had encountered two schools > of thought. **One, held by officials and academics on the left, he > said, was that “any contact of the primitive tribe with modern > civilization has been detrimental.”** >
-> The other school questioned how the government could deny the tribe > the benefits of modern life. “Mankind has progressed by leaps and > bounds,” Mr. Singh said. “Are they to remain in that state? Have we > given them the choice?” >
+> Even before the police heard of the baby’s killing, the authorities on South Andaman Island were struggling with the question of whether to allow the Jarawas, who are classified as a “particularly vulnerable tribal group,” more access to the world outside their reserve. >
+> The top official on the Andaman Islands, Lt. Gov. A. K. Singh, said > that upon taking up his post in 2013, he had encountered two schools of thought. **One, held by officials and academics on the left, he said, was that “any contact of the primitive tribe with modern civilization has been detrimental.”** >
+> The other school questioned how the government could deny the tribe the benefits of modern life. “Mankind has progressed by leaps and bounds,” Mr. Singh said. “Are they to remain in that state? Have we given them the choice?” >
 > … >
-> Zubair Ahmed, a journalist, said the policy of minimizing interaction > with the Jarawas had run into a problem: **Members of the tribe are > curious about what surrounds them.** >
-> “We have seen them coming out, coming out on their own,” Mr. Ahmed > said. “You cannot push them back inside the forest. They want to have > a phone. They want to ride in a vehicle.”
+> Zubair Ahmed, a journalist, said the policy of minimizing interaction with the Jarawas had run into a problem: **Members of the tribe are curious about what surrounds them.** >
+> “We have seen them coming out, coming out on their own,” Mr. Ahmed said. “You cannot push them back inside the forest. They want to have a phone. They want to ride in a vehicle.”
 
 [![nihms137159f4](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/03/nihms137159f4-292x300.jpg?resize=292%2C300)![nihms137159f4](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/03/nihms137159f4-292x300.jpg?resize=292%2C300)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842210/)First, **the Jarawa uniqueness is not in their genetics, but in their culture.** The reality is that these children don’t need to be killed to maintain cultural integrity, since they are going to be raised in their mother’s culture in any case. Nepal is [80% Hindu](https://en.wikipedia.org/wiki/Nepal#Religion), but far less than 80% of its genetic character is typically South Asian (specifically, there’s a lot of Tibetan/Himalayan ancestry in many Hindu groups, including among Nepalese Brahmins). The Jarawa are not that genetically unique; they are descended from an African population that left \~50,000 years ago, just like all non-Africans are. They’re not really pure, as such, but simply isolated and moderately unique. If genetics was so important they should all get genotyped or sequenced before they are assimilated, which seems inevitable.
 
@@ -30,8 +30,8 @@ Second, if you really care about maintaining a reserve of Andamanese uniqueness 
 
 Finally, passages like this illustrate why liberal universalism (and institutional ethical religions) became ‘a thing’, so to speak:
 
-> Others go further, saying the state has no business interfering in the > tribe’s tradition of killing children of mixed blood. >
-> “Such things were usually ignored,” said Samir Acharya, an activist > with the Society for Andaman and Nicobar Ecology. “I think they have > the right to maintain the purity of their race. If they decide such a > child should be wasted, let them do it.”
+> Others go further, saying the state has no business interfering in the tribe’s tradition of killing children of mixed blood. >
+> “Such things were usually ignored,” said Samir Acharya, an activist with the Society for Andaman and Nicobar Ecology. “I think they have the right to maintain the purity of their race. If they decide such a child should be wasted, let them do it.”
 
 The Jarawa are humans, and as humans they should be subject to laws. They are not a nation-state, and live within India. Because of their vulnerability to diseases, as well as their hunter-gatherer lifestyle, there is great danger in integrating them into the modern world. **But it is their right as humans if they so choose.** And, as humans they are also subject to the same bans on activities such as infanticide.
 

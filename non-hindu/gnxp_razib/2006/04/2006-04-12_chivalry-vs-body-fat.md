@@ -11,7 +11,7 @@ Chivalry vs. Body fat
 
 [](https://www.gnxp.com/blog/uploaded_images/est-749771.JPG)In a recent post, [Steve Sailer quoted an unnamed feminist](https://isteve.blogspot.com/2006/04/feminist-admits-importance-of-human.html) as explaining the high proportion of women surviving the Titanic disaster with:
 
-> women having more body fat. Better to float and survive in the cold > with.
+> women having more body fat. Better to float and survive in the cold with.
 
 To establish if there is any truth to this thesis, it can be interesting to compare the Titanic to other sea disasters where circumstances made chivalry a non-factor. One such disaster is the loss of the M / S Estonia, which took place in the Baltic sea, on the 28:th of September 1994.
 

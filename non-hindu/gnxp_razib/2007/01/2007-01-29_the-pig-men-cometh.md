@@ -17,7 +17,8 @@ Of course, a world with pig men would be a less beauteous thing. Kind of what I 
 
 ### Related Posts:
 
-- [Horny bulls](https://www.gnxp.com/WordPress/2005/09/21/horny-bulls/) - [Sex ratio and
+- [Horny bulls](https://www.gnxp.com/WordPress/2005/09/21/horny-bulls/)
+- [Sex ratio and
   behavior](https://www.gnxp.com/WordPress/2009/06/10/sex-ratio-and-behavior/) - [Humans greedy for
   pig?](https://www.gnxp.com/WordPress/2005/03/11/humans-greedy-for-pig/) - [A few blind
   men?](https://www.gnxp.com/WordPress/2009/12/07/a-few-blind-men/) - [What are men good

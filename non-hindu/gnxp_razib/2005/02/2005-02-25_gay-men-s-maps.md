@@ -17,7 +17,8 @@ Posted by David B at [04:15 AM](https://www.gnxp.com/MT2/archives/003650.html) [
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Sex ratio and
   behavior](https://www.gnxp.com/WordPress/2009/06/10/sex-ratio-and-behavior/) - [More Fodder for the SPLC and James
   Dobson](https://www.gnxp.com/WordPress/2005/08/14/more-fodder-for-the-splc-and-james-dobson/) - [The Pig Men

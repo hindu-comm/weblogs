@@ -20,8 +20,8 @@ Indigenous DNA
 
 Now, look at this quote:
 
-> …**Geographic origin stories told by DNA can clash with long-held > beliefs, threatening a world view some indigenous leaders see as vital > to preserving their culture**.  
-> They argue that genetic ancestry information could also jeopardize > land rights and other benefits that are based on the notion that their > people have lived in a place since the beginning of time.
+> …**Geographic origin stories told by DNA can clash with long-held beliefs, threatening a world view some indigenous leaders see as vital to preserving their culture**.  
+> They argue that genetic ancestry information could also jeopardize land rights and other benefits that are based on the notion that their people have lived in a place since the beginning of time.
 
 First, does this sound familiar? Science clashing with long-head beliefs? Second, why the hell are land rights and benefits contingent upon mythologies which can be empirically debunked?
 

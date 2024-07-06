@@ -38,7 +38,8 @@ This is a potential solution to the unfair distribution of good genetic traits. 
 
 ### Related Posts:
 
-- [Aging](https://www.gnxp.com/WordPress/2005/03/09/aging/) - [Stem
+- [Aging](https://www.gnxp.com/WordPress/2005/03/09/aging/)
+- [Stem
   cells....](https://www.gnxp.com/WordPress/2005/07/28/stem-cells/) - [Stem cells
   no?](https://www.gnxp.com/WordPress/2006/08/26/stem-cells-no/) - [Studying stem cells in vivo via inter-species
   chimeras?](https://www.gnxp.com/WordPress/2008/03/04/studying-stem-cells-in-vivo-via-inter-species-chimeras/) - [Ethical stem cells,

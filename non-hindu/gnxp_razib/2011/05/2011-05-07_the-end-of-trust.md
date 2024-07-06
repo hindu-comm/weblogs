@@ -16,9 +16,9 @@ As a practical matter I understand and accepted the need to dampen the shocks of
 
 All this went through my mind as I read this account of the marginality of the Irish working class, [After Bust in Ireland, Ordinary People Make Do With Less](http://www.nytimes.com/2011/05/07/business/global/07austerity.html?partner=rss&emc=rss&pagewanted=print):
 
-> Carless, Mr. Condra spends an hour on the bus each way to and from his > job in Dublin; when he sees a politician in a shiny black sedan > through the window, he fights back his gall. He has not bought a pair > of jeans in a year, and Mrs. Condra has taken the pragmatic step of > wearing her flat wedding shoes around the house. >
-> Nearly everyone they know is underwater on their mortgage; one > neighbor expects to be foreclosed on in two weeks. And last month, > eight homes in their otherwise quiet working-class neighborhood were > burgled. >
-> Mrs. Condra agrees that Ireland has to make good on its debts. “But > they’re debts from the banks that we didn’t even know we had,” she > said. “And the people least able to afford it are paying for > everything.”
+> Carless, Mr. Condra spends an hour on the bus each way to and from his > job in Dublin; when he sees a politician in a shiny black sedan through the window, he fights back his gall. He has not bought a pair of jeans in a year, and Mrs. Condra has taken the pragmatic step of wearing her flat wedding shoes around the house. >
+> Nearly everyone they know is underwater on their mortgage; one neighbor expects to be foreclosed on in two weeks. And last month, eight homes in their otherwise quiet working-class neighborhood were burgled. >
+> Mrs. Condra agrees that Ireland has to make good on its debts. “But they’re debts from the banks that we didn’t even know we had,” she said. “And the people least able to afford it are paying for everything.”
 
 The prey are for the compost heap. The [predators](http://www.tribune.ie/article/2009/mar/01/twenty-five-people-who-had-a-role-in-irelands-rece/) live to hunt another day. I hope one day to be amused by my morbid pessimism!
 
@@ -26,7 +26,9 @@ The prey are for the compost heap. The [predators](http://www.tribune.ie/article
 
 ### Related Posts:
 
-- [Trust](https://www.gnxp.com/WordPress/2011/02/03/trust/) - [Week 6, Gene Expression Book Club - Not Born
+- [Trust](https://www.gnxp.com/WordPress/2011/02/03/trust/)
+- [Week 6, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/17/week-6-gene-expression-book-club-not-born-yesterday/) - [Diversity &
   trust](https://www.gnxp.com/WordPress/2007/06/16/diversity-trust/) - [Which nationalities are
   trusting](https://www.gnxp.com/WordPress/2009/04/23/which-nationalities-are-trusting/) - [You have no

@@ -11,7 +11,7 @@ Fat men are dumber!
 
 I have a maxim, “beware of British newspapers.” I guess I should add the BBC to that list after reading this slapdash piece, [Obese men ‘have lower IQs’](http://news.bbc.co.uk/1/hi/health/2814417.stm). Speaking as a normal weight individual with a [BMI](https://www.cdc.gov/nccdphp/dnpa/bmi/calc-bmi.htm) of 22.8 I don’t have a personal axe to grind, but this study screams **correlation does not equal causation**.
 
-> The Boston study found that men with a BMI of 30 or more scored on > average **23% lower marks in tests of mental acuity**.
+> The Boston study found that men with a BMI of 30 or more scored on average **23% lower marks in tests of mental acuity**.
 
 The authors make some noise about blood circulation, and I’m sure you can posit thousands of halfway plausible causative components, but perhaps **fat dudes are just sluggish because they just ate before the test?** Anyway, I suppose this is an example of a “contagious” meme. The science is plainly ludicrious, but it is pretty funny. And I am evil, so I guess it makes sense I would want to talk about obesity in somewhat mocking tones.  
 **Addendum:** The same researcher has [found a positive link](http://www.bu.edu/phpbin/news/releases/display.php?id=883) between high cholesterol and IQ.

@@ -11,7 +11,7 @@ Bedouin pedigree collapse?
 
 This [article](http://nytimes.com/2006/03/21/science/21bedo.html?pagewanted=2&ei=5094&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;en=6f4281d2146ce9a3&hp&ex=1142917200&partner=homepage) about Bedouin genetic diseases in Israel due to cousin marriages seems like clear cut [pedigree collapse](https://en.wikipedia.org/wiki/Pedigree_collapse) wreaking havoc. One of the most annoying things about people not knowing science is that a superficial understanding of a topic can be really problematic. Check out this article from Slate [from a few years back](http://www.slate.com/id/2064227/):
 
-> Now a study by the National Society of Genetic Counselors says that > having a child with your first cousin raises the risk of a significant > birth defect from about 3-to-4 percent to about 4-to-7 percent. > According to the authors, that difference isn’t big enough to justify > genetic testing of cousin couples, much less bans on cousin marriage.
+> Now a study by the National Society of Genetic Counselors says that > having a child with your first cousin raises the risk of a significant birth defect from about 3-to-4 percent to about 4-to-7 percent. According to the authors, that difference isn’t big enough to justify genetic testing of cousin couples, much less bans on cousin marriage.
 
 This prediction equation needs to be kept in mind by everyone:
 

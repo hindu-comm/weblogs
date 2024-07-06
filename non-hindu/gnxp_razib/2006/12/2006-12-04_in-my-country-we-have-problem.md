@@ -11,10 +11,10 @@ In my country, we have problem
 
   
 
-> When radio host Jerry Klein suggested that all Muslims in the United > States should be identified with a crescent-shape tattoo or a > distinctive arm band, the phone lines jammed instantly. >
-> The first caller to the station in Washington said that Klein must be > “off his rocker.” The second congratulated him and added: “Not only do > you tattoo them in the middle of their forehead but you ship them out > of this country … they are here to kill us.” >
-> Another said that tattoos, armbands and other identifying markers such > as crescent marks on driver’s licenses, passports and birth > certificates did not go far enough. “What good is identifying them?” > he asked. “You have to set up encampments like during World War Two > with the Japanese and Germans.” >
-> At the end of the one-hour show, rich with arguments on why visual > identification of “the threat in our midst” would alleviate the > public’s fears, Klein revealed that he had staged a hoax. It drew out > reactions that are not uncommon in post-9/11 America.
+> When radio host Jerry Klein suggested that all Muslims in the United States should be identified with a crescent-shape tattoo or a distinctive arm band, the phone lines jammed instantly. >
+> The first caller to the station in Washington said that Klein must be “off his rocker.” The second congratulated him and added: “Not only do you tattoo them in the middle of their forehead but you ship them out of this country … they are here to kill us.” >
+> Another said that tattoos, armbands and other identifying markers such > as crescent marks on driver’s licenses, passports and birth certificates did not go far enough. “What good is identifying them?” he asked. “You have to set up encampments like during World War Two with the Japanese and Germans.” >
+> At the end of the one-hour show, rich with arguments on why visual identification of “the threat in our midst” would alleviate the public’s fears, Klein revealed that he had staged a hoax. It drew out reactions that are not uncommon in post-9/11 America.
 
 From [here](http://today.reuters.com/news/articlenews.aspx?type=inDepthNews&storyID=2006-12-01T142541Z_01_N30158201_RTRUKOC_0_US-USA-MUSLIMS-FEAR.xml&pageNumber=0&imageid=&cap=&sz=13&WTModLoc=NewsArt-C1-ArticlePage3), via [Hit and Run](http://reason.com/blog).
 

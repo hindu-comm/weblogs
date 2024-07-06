@@ -11,11 +11,12 @@ Source: [here](https://www.gnxp.com/WordPress/2010/07/12/unzipped-not-the-film-a
 
 Just got notice of a new weblog, [Unzipped](http://www.genomesunzipped.org/), which I have added to my [RSS](http://feeds.feedburner.com/GenomesUnzipped) feed. One of the primary contributors is [Dr. Daniel MacArthur of *Genetic Future*](http://scienceblogs.com/geneticfuture/2010/07/announcing_genomes_unzipped_a.php) (no, he’s not leaving ScienceBlogs!). Another is the [always impressive](http://www.genetic-inference.co.uk/blog/?p=871) Luke Jostins. Here’s their *raison d’etre*:
 
-> Welcome to Genomes Unzipped, a new group blog bringing together > experts in the scientific, legal, ethical and commercial aspects of > genetics. Our goal is to provide you with independent analysis of > advances in the field of genetics, with a particular focus on > implications for the budding industry of personal genomics. We’ll also > be discussing ways in which you can make the most of your own genetic > data using online resources and techniques developed by researchers.
+> Welcome to Genomes Unzipped, a new group blog bringing together > experts in the scientific, legal, ethical and commercial aspects of > genetics. Our goal is to provide you with independent analysis of > advances in the field of genetics, with a particular focus on implications for the budding industry of personal genomics. We’ll also be discussing ways in which you can make the most of your own genetic data using online resources and techniques developed by researchers.
 
 ### Related Posts:
 
-- [Genomes Unzipped - the naked
+- [Genomes Unzipped
+- the naked
   sequence](https://www.gnxp.com/WordPress/2010/10/11/genomes-unzipped-the-naked-sequence/) - [More on the "missing heritability" and
   epistasis](https://www.gnxp.com/WordPress/2012/01/09/more-on-the-missing-heritability-and-epistasis/) - [Genomes
   Unzipped](https://www.gnxp.com/WordPress/2010/07/13/genomes-unzipped/) - [Finding "cousins" through personal

@@ -17,7 +17,7 @@ I mentioned that I was working on tooling up a more sophisticated model to do so
 
 In this post, I will give an overview of what goes into my demographic projection model, why I believe it works well enough to be *useful*, and what top-level questions we can explore using it.
 
-# Model Highlights
+## Model Highlights
 
 I won’t go into every detail on the demographic model I constructed. That’s the beauty of writing a blog post as opposed to an academic article for peer-review. I’ve had about enough of the latter in my life. But I *do* want to provide some sense of the degree of sophistication that I felt was necessary to do a semi-credible job. Feel free to skip the nerd crap and pick up again at the “Let’s Take it for a Spin” section.
 
@@ -71,7 +71,7 @@ A few other examples to match intuition: for the 2015–2020 interval, the world
 
 As for migration, this phenomenon is wrapped up into the age distributions from which I construct “survival” odds. Some regions (Northern America, for instance) show “survival” rates—by my procedure—greater than 100% at younger ages, indicating a net import of people in those age brackets. Fine. I just roll with it and as such simultaneously account for attrition and migration (whether in or out). All I care about is the resulting age distribution after the dust settles. Since in the end I add up the regions to get global population, shifting people around is a second-order effect.
 
-# Does it Work?
+## Does it Work?
 
 Most of my time as a scientist was probably spent asking: how do I know if this is right—or good enough? When working on cutting-edge research, there are no answers in the back of the book to check. So, I am accustomed to subjecting my constructions to a number of sanity-check tests. In practice, the process exposes mistakes or deficiencies that are then identified and remedied. This demographic modeling process was no different. It helps that I am not trying to be artificially and pointlessly precise about a future whose parameters could change far more drastically than my model error. At the same time, I want to get the basics working well enough that the model’s machinery is not the limiting factor: the assumptions behind it are.
 
@@ -81,13 +81,14 @@ Much can be learned from devising artificial scenarios whose outcomes are known.
 
 In any case, the demographic model I built appeared to behave reasonably, and so it was time to explore.
 
-# Let’s Take it for a Spin!
+## Let’s Take it for a Spin!
 
 Vroom, vroom! What can we do with this powerful new tool? Well, what I want to know is: what assumptions from the U.N. default model strike me as questionable enough to merit alteration, and how robust is the 2086 peak in light of loosening up the constraints?
 
 While I could conceivably play with lots of knobs, I leave most alone (like regional age distribution of women at the time they give birth). The two I explore are:
 
-1.  Time evolution of the Total Fertility Rate (TFR), regionally. 2.  Regional male/female survival as a function of age and time.
+1.  Time evolution of the Total Fertility Rate (TFR), regionally.
+2.  Regional male/female survival as a function of age and time.
 
 The first one is simple enough: conjuring a single number for each region for each year, in some continuous, seemingly sensible evolution. Here, I only employ two variants: the U.N. projection (which I questioned in [last week’s post](https://dothemath.ucsd.edu/2024/05/watching-population-bomb/)) and an alternative model I concoct (details below).
 
@@ -100,7 +101,7 @@ The second has many internal knobs one might consider, but the only one I modify
 
 My willingness to vary survival odds is my way of saying that the U.N. model is an extrapolation of a long period of stability in an age of resource abundance and ecological integrity that is not guaranteed to persist. Life expectancy is [already not monotonic in the U.S.](https://www.washingtonpost.com/opinions/2023/06/01/american-life-expectancy-decline-covid/), for instance. In truth, the situation *could* reverse much faster than the gentle mirror symmetry I explore, as 75 years of stability prior to now is not necessarily the correct mode for the next 75 years. I’m not saying that I know the answers, but that one could plausibly explore scenarios that change even *faster* than what I allow above, and could not proclaim them to be definitively wrong or even outlandish.
 
-# My TFR Model
+## My TFR Model
 
 First, a reminder of the U.N. TFR model, and what seems “off” about it:
 
@@ -134,7 +135,7 @@ Solid lines are data (past); dashed are my model projections; dotted are the UN 
 Again, I’m not foolish enough to pretend that I can predict the future: just wish to explore what things might be possible with reasonable-seeming assumptions/inputs. Is my TFR model a fantasy?
 Yes. Is the U.N.’s? Yes. Is anyone’s? Yes. Are all equally realistic? No. Might there be a broad range of possibilities that can’t easily be ruled out? Sure.
 
-# The Survival Model
+## The Survival Model
 
 I can’t easily show survival models for all the age blocks and regions, so I pick a few illustrative examples for the world as a whole.
 
@@ -158,7 +159,7 @@ In all plots, magenta represents female and blue represents male. The first plot
 
 The second plot probably illustrates the U.N. model’s optimism most clearly. Each line represents the time-evolution of survival from one age group to the next (e.g., 15–19 to 20–24), shown for four different age group transitions. Youngsters fare quite well, naturally. Someone in the 65–69 age group today has a roughly 85% chance of surviving 5 years into the 70–74 group, getting progressively lower with increasing age. But the important piece is the time evolution: **up and up**, with no end in sight! As usual in the crystal-ball business, I can’t prove this is wrong any more than others could prove that it’s right. But I view the optimistic trajectory as the conservative product of an imagined world that is based on extrapolation of a temporary context (fossil fueled modernity in a resource-rich, essentially stable world not yet expressing dire ecological peril). On the downside of material inheritance-spending and in the wake of global accumulation of ills and ecological harm, I would not expect trends of the past century to happily carry on, oblivious to a changing world brimming with more people—and their increasingly destructive habits (including advanced medical care)—than it can tolerate.
 
-# The Results
+## The Results
 
 Exploring two TFR models and three survival models produces six outcomes. For each, I report the year of the peak, peak population, and population at the year 2100. The last of these is really garbage. Once convincingly over the peak, so many things about our world could break loose that predictions become almost meaningless. But, I show the number to illustrate what *would* happen in a no-drama scenario where the demographic assumptions are simply allowed to play out, uninterrupted. The format is: year/peak/2100 (billions).
 
@@ -199,11 +200,11 @@ It is fascinating enough just to see that peak population *might well happen bef
 
 To be clear, I am hoping that current trends—reliant in part on valiant deliberate efforts at taming the explosion—continue and bring about an early peak, thus acting as a giant relief valve on our ecological impact, perhaps staving off the worst fates for humanity and the entire community of life (like a sixth mass extinction).
 
-# We’ll Know Soon Enough
+## We’ll Know Soon Enough
 
 One consequence of having such divergent outcomes is that we won’t have to wait more than a decade to find out whether a near-term peak is in the cards. If fertility rates cease their downward trend and whip up toward an asymptote in the next decade… well then hats’ off to the U.N. demographers for knowing their business. If that’s what comes to pass, I will be disappointed that the ecological disaster is all the worse for it and modernity’s crash will be from a more dangerous height. I won’t care about being “wrong,” because I don’t see what I’m doing as *prediction* so much as pointing out that predictions are hard, and that a near-term peak is not implausible given recent trends and the potential for big changes on the horizon. The world simply may not go the way modelers assume based on extrapolation of trends from decades-past that transpired in the context of a growing material footprint powered by one-time inheritance spending. The context is changing fast: it seems that population growth has already somehow gotten some version of that memo, and is busy thumbing its nose at the U.N. projections.
 
-# Postscript: Questions for U.N. Demographers
+## Postscript: Questions for U.N. Demographers
 
 I can appreciate the irritation that might be generated by amateur efforts at a complex subject. A common impulse would be blanket dismissal in classic baby/bathwater style: that’s the path of least resistance, anyway, and may even be warranted. But if willing to re-evaluate some things, here is a list of questions that might prompt a deeper dive.
 

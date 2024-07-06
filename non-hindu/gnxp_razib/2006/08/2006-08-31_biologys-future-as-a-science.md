@@ -11,17 +11,17 @@ Biology’s future as a science
 
 [Lubos Motl](https://motls.blogspot.com/2006/08/mohammed-alquraishi-on-theory-of.html) asked me to comment on this [majestic](https://motls.blogspot.com/2006/08/mohammed-alquraishi-on-theory-of.html) post by a computational biologist at Stanford. This paragraph is worth quoting:
 
-> I will enumerate three main points, all of which represent both a > challenge and an opportunity. The first will deal with a scientific > challenge of a theoretical orientation, namely the lack of a theory > for biology. The second with the sociological organization of > biologists and biology departments at the leading research > institutions. And the third will be part science, part sociology, > having to do with the focus of current experimental methods and > programs on biomedical research as opposed to basic biological > research. The challenges are listed according to my own judgment of > their importance.
+> I will enumerate three main points, all of which represent both a > challenge and an opportunity. The first will deal with a scientific > challenge of a theoretical orientation, namely the lack of a theory > for biology. The second with the sociological organization of > biologists and biology departments at the leading research > institutions. And the third will be part science, part sociology, > having to do with the focus of current experimental methods and programs on biomedical research as opposed to basic biological research. The challenges are listed according to my own judgment of their importance.
 
 Here it is an important [quote](https://www.gnxp.com/blog/2006/06/10-questions-for-david-haig.php) from [my exchange](https://www.gnxp.com/blog/2006/06/10-questions-for-david-haig.php) with theoretical evolutionary biologist David Haig in regards to theory & biology:
 
-> Question: *Do you believe most biologists, even evolutionary > biologists, appreciate formal theory?*  
-> Answer: Most biologists do not appreciate formal theory. Theory is > more respected by evolutionary biologists as a group.
+> Question: *Do you believe most biologists, even evolutionary biologists, appreciate formal theory?*  
+> Answer: Most biologists do not appreciate formal theory. Theory is more respected by evolutionary biologists as a group.
 
   
 Historians do not respect theory because it hasn’t led anywhere, Spengler and Toynbee are interesting, but their aim to construct general systems outran the reality of details. In contrast, biology does have a theory, evolution. But evolution is a theory like gravitation, of vast power and scope in aggregates, but weak in its **proximate** relevance to systems of importance like the processes and mechanisms of a 4-chambered heart. Where is the Strong Force and Weak Force of biology? Its Electromagnetism? The vision of consilience as a whole is not new, and its attainment even within biology is a long term prospect. But, I would like to emphasize Haig’s point by way of a [comment](http://www.haloscan.com/comments/lumidek/115695011877422444/#591047) on Lobus’ blog:
 
-> I just can say that it is hard to explain differential, including > nonlinear chaotic ones, (and partial diferential) equations, markov > process, maybe statistical inference, game theory, numerical methods > and so on to people who although intellligent, have decided that it is > a good idea to begin reviewing derivatives and basic integration.
+> I just can say that it is hard to explain differential, including > nonlinear chaotic ones, (and partial diferential) equations, markov process, maybe statistical inference, game theory, numerical methods and so on to people who although intellligent, have decided that it is a good idea to begin reviewing derivatives and basic integration.
 
 \[edited for clarity\]  
 1) Many biologists are mathematically averse. I once took an upper division ecology course where the instructor threw some basic algebra, calculus and baby statistics up on the board and stated baldy that anyone with problems should leave the course. You know, what is the integral of (2/5)x², I shit you not. 1/3 of the class never showed up again.  

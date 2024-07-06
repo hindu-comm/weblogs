@@ -125,7 +125,7 @@ IF WE WANT TO UNDERSTAND things in perspective, there is no better guide than Ra
 
 Oriana Fallaci has presented the scenario very well on empirical plane. Addressing those who remained indifferent or harboured illusions about the Talibani destruction of the Buddha statues in Bamiyan she asked,
 
-> “who is next, that the ‘idols’ of Bamiyan have been blown up like twin > towers? The other Unfaithful who pray Vishnu or Shiva, Brahma, > Krishna, Annapurna? …**Do they hate only the Christian and Buddhists, > those voracious sons of Allah, or do they aim to subjugate our whole > planet?”** (Emphasis added)
+> “who is next, that the ‘idols’ of Bamiyan have been blown up like twin > towers? The other Unfaithful who pray Vishnu or Shiva, Brahma, Krishna, Annapurna? …**Do they hate only the Christian and Buddhists, those voracious sons of Allah, or do they aim to subjugate our whole planet?”** (Emphasis added)
 
 Unfortunately, there are still very few scholars in the West to delve into the issue on a realistic plane.
 

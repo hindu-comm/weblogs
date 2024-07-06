@@ -13,7 +13,7 @@ Word-split or metrically split verses?
 
 I bumped into this title page (to the left) of an edition of the *Nālāyira Divya Prabandam* with the explanatory subtitle: *eḷitil paṭikka utavum vakaiyil pācuraṅkaḷ patam pirittut tarappaṭṭuḷḷaṉa.*
 
-> The *pācuram*s have been word-split in such a way that it is easy to > read them.
+> The *pācuram*s have been word-split in such a way that it is easy to read them.
 
 It got me thinking about the topic. Many editions of the *Nālāyira Divya Prabandam* have been published since the 19th c., and especially in the 20th c., as the following survey made by Maheswari (2018: 548-9) shows:
 

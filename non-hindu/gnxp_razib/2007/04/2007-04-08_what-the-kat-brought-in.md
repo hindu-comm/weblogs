@@ -13,7 +13,12 @@ What the kat brought in….
 
 ### Related Posts:
 
-- [Kat Chat](https://www.gnxp.com/WordPress/2008/01/05/kat-chat/) - [Tired Kat](https://www.gnxp.com/WordPress/2006/10/17/tired-kat/) - [Katz](https://www.gnxp.com/WordPress/2010/03/19/katz-101/) - [Katz update](https://www.gnxp.com/WordPress/2008/03/28/katz-update/) - [Bonus Kat](https://www.gnxp.com/WordPress/2008/05/11/bonus-kat-9/) - [Kat](https://www.gnxp.com/WordPress/2006/12/01/kat-6/)
+- [Kat Chat](https://www.gnxp.com/WordPress/2008/01/05/kat-chat/)
+- [Tired Kat](https://www.gnxp.com/WordPress/2006/10/17/tired-kat/)
+- [Katz](https://www.gnxp.com/WordPress/2010/03/19/katz-101/)
+- [Katz update](https://www.gnxp.com/WordPress/2008/03/28/katz-update/)
+- [Bonus Kat](https://www.gnxp.com/WordPress/2008/05/11/bonus-kat-9/)
+- [Kat](https://www.gnxp.com/WordPress/2006/12/01/kat-6/)
 
 ### *Related*
 

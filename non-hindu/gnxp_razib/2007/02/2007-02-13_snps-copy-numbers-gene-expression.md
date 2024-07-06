@@ -11,12 +11,12 @@ SNPs, copy numbers & gene expression
 
 Had to link to a paper with such a title. [Relative Impact of Nucleotide and Copy Number Variation on Gene Expression Phenotypes](http://www.sciencemag.org/cgi/content/abstract/315/5813/848):
 
-> …SNPs and CNVs captured 83.6% and 17.7% of the total detected genetic > variation in gene expression, respectively, **but the signals from the > two types of variation had little overlap….**
+> …SNPs and CNVs captured 83.6% and 17.7% of the total detected genetic variation in gene expression, respectively, **but the signals from the two types of variation had little overlap….**
 
 Here’s a quote from a popular press article:
 
-> “We’ve been able to look back into our history and find changes that > are older and likely to be shared among populations,” explained Dr > Manolis Dermitzakis, senior author and Project Leader at the Wellcome > Trust Sanger Institute. “**But we also find many that are newer and > less widespread.”**  
-> “**These are part of our recent evolution** and a step along the way > to understanding the origin and personal consequences of genetic > change, not least for our wellbeing. This is a first generation map of > biologically important DNA sequence variation”
+> “We’ve been able to look back into our history and find changes that > are older and likely to be shared among populations,” explained Dr Manolis Dermitzakis, senior author and Project Leader at the Wellcome Trust Sanger Institute. “**But we also find many that are newer and less widespread.”**  
+> “**These are part of our recent evolution** and a step along the way to understanding the origin and personal consequences of genetic change, not least for our wellbeing. This is a first generation map of biologically important DNA sequence variation”
 
 ### Related Posts:
 
@@ -34,12 +34,12 @@ Here’s a quote from a popular press article:
 
 Had to link to a paper with such a title. [Relative Impact of Nucleotide and Copy Number Variation on Gene Expression Phenotypes](http://www.sciencemag.org/cgi/content/abstract/315/5813/848):
 
-> …SNPs and CNVs captured 83.6% and 17.7% of the total detected genetic > variation in gene expression, respectively, **but the signals from the > two types of variation had little overlap….**
+> …SNPs and CNVs captured 83.6% and 17.7% of the total detected genetic variation in gene expression, respectively, **but the signals from the two types of variation had little overlap….**
 
 Here’s a quote from a popular press article:
 
-> “We’ve been able to look back into our history and find changes that > are older and likely to be shared among populations,” explained Dr > Manolis Dermitzakis, senior author and Project Leader at the Wellcome > Trust Sanger Institute. “**But we also find many that are newer and > less widespread.”** >
-> “**These are part of our recent evolution** and a step along the way > to understanding the origin and personal consequences of genetic > change, not least for our wellbeing. This is a first generation map of > biologically important DNA sequence variation”
+> “We’ve been able to look back into our history and find changes that > are older and likely to be shared among populations,” explained Dr Manolis Dermitzakis, senior author and Project Leader at the Wellcome Trust Sanger Institute. “**But we also find many that are newer and less widespread.”** >
+> “**These are part of our recent evolution** and a step along the way to understanding the origin and personal consequences of genetic change, not least for our wellbeing. This is a first generation map of biologically important DNA sequence variation”
 
 ### Related Posts:
 

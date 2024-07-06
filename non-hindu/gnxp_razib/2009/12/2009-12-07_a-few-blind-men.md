@@ -11,7 +11,7 @@ A few blind men?
 
 [Researcher Can’t Find Men Who Have Not Seen Porn](http://www.myfoxnepa.com/dpp/news/dpgo-Researcher-Cant-Find-Men-Who-Have-Not-Seen-Porn-fc-200912071260206740136):
 
-> A new study on the effects of pornography has just started, but there > is already one revealing find: the researcher could not find any men > who have not viewed pornography. The study will proceed without a > control group consisting of men who have not viewed pornography.
+> A new study on the effects of pornography has just started, but there is already one revealing find: the researcher could not find any men who have not viewed pornography. The study will proceed without a control group consisting of men who have not viewed pornography.
 
 ### Related Posts:
 

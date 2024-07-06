@@ -13,7 +13,8 @@ Bing vs. Google
 
 ### Related Posts:
 
-- [Bing](https://www.gnxp.com/WordPress/2009/06/13/bing/) - [Bing on the rise, or the diversification of
+- [Bing](https://www.gnxp.com/WordPress/2009/06/13/bing/)
+- [Bing on the rise, or the diversification of
   search?](https://www.gnxp.com/WordPress/2009/09/22/bing-on-the-rise-or-the-diversification-of-search/) - [Bing](https://www.gnxp.com/WordPress/2009/06/01/bing/) - [M\$'s IBM
   moment?](https://www.gnxp.com/WordPress/2009/07/13/ms-ibm-moment/) - [Top 25 referral sites in 2011 to
   GNXP](https://www.gnxp.com/WordPress/2011/12/31/top-25-referral-sites-in-2011-to-gnxp/) - [Daily Data Dump -

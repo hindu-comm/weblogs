@@ -17,7 +17,7 @@ Indirectly Feldman is arguably the father of much of contemporary cultural evolu
 
 As for what’s unfair in the piece, I think the below passage illustrates the method well:
 
-> “This polygenic index will be normally distributed,” Harden continues, > now disguising an assumption—that there are intrinsic cognitive and > personality traits whose distribution in a population follows a > bell-shaped curve, a founding axiom of eugenics—as an objective fact.
+> “This polygenic index will be normally distributed,” Harden continues, now disguising an assumption—that there are intrinsic cognitive and personality traits whose distribution in a population follows a bell-shaped curve, a founding axiom of eugenics—as an objective fact.
 
 Eugenics aimed to be an applied branch of hereditary science, and before the emergence of Mendelism, it was driven by ‘biometric’ thinking about continuous quantitative traits (though Francis Galton himself believed in “sports” and other noncontinuous changes). So the connection between eugenics and the normal distribution does exist…**but the fact is that the normal (Gaussian) distribution is ubiquitous in science**, and emerges out of the central limit theorem. Anyone with a cursory background in quantitative sciences won’t really associate the normal distribution with eugenics. How exactly was Harden going to write a book on behavior genetics without mentioning the normal distribution?
 
@@ -25,7 +25,7 @@ There is a lot of that sort of guilt-by-association and verbal sleight of hand. 
 
 Just to show you what I mean, let’s look at this passage. I’m going to add numbers that will help in the exegesis:
 
-> Harden condemns Jensen’s racism and rejects his assertion that social > interventions are futile, but she doesn’t question his basic claim > that genetic differences produce an \[1\] innate hierarchy of > scholastic achievement. She also doesn’t acknowledge his dependence on > fraudulent data from a 1966 paper by the English psychologist and > geneticist Cyril Burt purporting to compare identical twins raised > together and apart \[2\]. And nowhere does she cite the Princeton > psychologist Leon Kamin’s 1974 devastating debunking of Jensen and > Burt or engage with the critical problems Kamin raised there regarding > twin studies in general, because of the impossibility of isolating > genetic factors from environmental ones \[3\].
+> Harden condemns Jensen’s racism and rejects his assertion that social > interventions are futile, but she doesn’t question his basic claim > that genetic differences produce an \[1\] innate hierarchy of > scholastic achievement. She also doesn’t acknowledge his dependence on > fraudulent data from a 1966 paper by the English psychologist and > geneticist Cyril Burt purporting to compare identical twins raised > together and apart \[2\]. And nowhere does she cite the Princeton > psychologist Leon Kamin’s 1974 devastating debunking of Jensen and Burt or engage with the critical problems Kamin raised there regarding twin studies in general, because of the impossibility of isolating genetic factors from environmental ones \[3\].
 
 First, \[1\], there’s nowhere in the book that I recall Harden talking about “innate hierarchy.” One can see why Feldman and Riskin use this term, but the concept is repeated so often in the review that I believe **most readers will believe this is exactly what Harden talked about in the book.** No, it’s their interpretation and imputation. But repeated enough the allusive imputation becomes the literal fact.
 
@@ -39,7 +39,7 @@ The truth is what it is. No matter what the flock says.
 
 **Addendum:** Bert Hölldobler, a long-time collaborator of E. O. Wilson has written a [defense of him](https://michaelshermer.substack.com/p/self-righteous-vigilantism-in-science?s=r). Richard Lewontin was a great population geneticist, but I think his biggest impact will turn out to be the style of intellectual pugilism he promoted. It’s normative now among many younger academics. Here’s a section that jumped out at me:
 
-> It was a point that Dick Lewontin himself acknowledged when he showed > up at my office the next day, apparently eager to soften what he had > said. Although I respected Lewontin as a scientist and colleague at > Harvard, I did not appreciate his ideologically driven “sand box > Marxism.” When I asked why he so blithely distorted some of Ed’s > writings he responded: “Bert, you do not understand, it is a political > battle in the United States. **All means are justified to win this > battle.**”…
+> It was a point that Dick Lewontin himself acknowledged when he showed > up at my office the next day, apparently eager to soften what he had > said. Although I respected Lewontin as a scientist and colleague at > Harvard, I did not appreciate his ideologically driven “sand box > Marxism.” When I asked why he so blithely distorted some of Ed’s writings he responded: “Bert, you do not understand, it is a political battle in the United States. **All means are justified to win this battle.**”…
 
 ### Related Posts:
 

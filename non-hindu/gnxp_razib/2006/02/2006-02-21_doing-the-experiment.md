@@ -11,7 +11,7 @@ Doing the experiment
 
 Over at The American Scene Ross Douthat [offers](http://www.theamericanscene.com/2006/02/origin-of-specious-its-remarkable-how.php) his commentary on Daniel Dennett’s new book. He states:
 
-> …fortified by the dubious insights of evolutionary psychology, on the > efforts of earlier debunkers like **Sigmund Freud and H.G. Wells**….
+> …fortified by the dubious insights of evolutionary psychology, on the efforts of earlier debunkers like **Sigmund Freud and H.G. Wells**….
 
 I’m a bit frustrated by this. Over on [my other weblog](http://www.scienceblogs.com/gnxp) one reader offered a [chesnut of wisdom](http://scienceblogs.com/gnxp/2006/02/denmark_cartoons_etc_etc.php#comment-12567) in regards to religion from [James Frazer](https://en.wikipedia.org/wiki/James_Frazer). If you don’t follow the wiki link, **Frazer died in 1941**. Freud and Wells are long dead.
 

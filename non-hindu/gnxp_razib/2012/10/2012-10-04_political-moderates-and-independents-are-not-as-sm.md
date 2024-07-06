@@ -11,7 +11,7 @@ Political moderates and independents are not as smart on average
 
 Long time readers know that it’s trivially easy to extract information from the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) that political moderates and independents are not as intelligent as partisans and ideologues. New readers are not always familiar. [A comment](http://blogs.discovermagazine.com/gnxp/2012/10/who-would-vote-for-an-atheist-dems-vs-republicans/comment-page-1/#comment-164860):
 
-> \#8 Do you have something to back up the idea that independents are > less intelligent? If anything, I would’ve expected the opposite- that > independents are capable of thinking for themselves instead of > following the party line.
+> \#8 Do you have something to back up the idea that independents are less intelligent? If anything, I would’ve expected the opposite- that independents are capable of thinking for themselves instead of following the party line.
 
 First, a quick review of the data. I used two GSS variables, PARTYID and POLVIEWS, and limited the sample to non-Hispanic whites after the year 2000. I removed those of “Other party” as well. Finally, I crossed that against vocab score results, which correlates with intelligence with a value of [0.70](http://blogs.discovermagazine.com/gnxp/2010/05/wordsum-iq/). It is rather obvious that middle-of-the-roaders are not as bright:
 

@@ -15,8 +15,8 @@ Children of Eden
 
 A new paper in [*Nature Communications*](http://www.nature.com/ncomms/2015/151116/ncomms9912/fig_tab/ncomms9912_F2.html), [Upper Palaeolithic genomes reveal deep roots of modern Eurasians](http://www.nature.com/ncomms/2015/151116/ncomms9912/fig_tab/ncomms9912_F2.html), fills in some gaps in the broader picture. The figure at the top of this post illustrates the modification that these authors made to the schematic of Lazaridis et al. Iosif Lazaridis himself as weighed in on [Twitter](https://twitter.com/iosif_lazaridis/status/666355572501954560):
 
-> In Haak, Lazaridis et al. (2015) we modeled Yamnaya as EHG+Something > from the Caucasus/Near East. Quite convinced that CHG is that > something >
-> — Iosif Lazaridis (@iosif_lazaridis) [November 16, > 2015](https://twitter.com/iosif_lazaridis/status/666355572501954560)
+> In Haak, Lazaridis et al. (2015) we modeled Yamnaya as EHG+Something from the Caucasus/Near East. Quite convinced that CHG is that something >
+> — Iosif Lazaridis (@iosif_lazaridis) [November 16, 2015](https://twitter.com/iosif_lazaridis/status/666355572501954560)
 
 CHG = Caucasian hunter-gatherers. More specifically, the authors of this paper analyze two subfossils from Georgia dated to \~10 to \~13 thousand years, Kotias and Satsurblia. Kotias, at \~15x coverage (that is, each position is sampled \~15 times, so you have a good sense of variation at any given position), is particularly useful. What they found is as Lazaridis reports above: **CHG seem one of the primordial groups to give rise to the extant variation of modern Europeans, and Western Eurasians writ large.**
 

@@ -11,9 +11,9 @@ The bearableness of beta….
 
 [‘Wingman’ — How Buddies Help Alpha Males Get The Girl](http://www.sciencedaily.com/releases/2007/03/070305202635.htm):
 
-> …often than other males, but not necessarily at the same territory > where they were betas. Even when the local alpha slot was empty, some > betas moved to be helpers elsewhere rather than take over the vacant > position. >
-> “Without being an alpha, there’s essentially no chance for these males > to reproduce,” says DuVal. “My results suggest that betas could > actually benefit from staying betas for a while, for example by > gaining courtship skills during a sort of apprenticeship or by forming > alliances with other males who later act as their betas.” >
-> These results contrast with those from studies of other birds with > cooperative courtship displays: wild turkeys strut cooperatively with > close relatives, and ruffs (a shorebird) form alliances of males that > often both mate while they are partners. **These contrasts are > interesting because they show that similar behavior can result from > very different social and selective environments….**
+> …often than other males, but not necessarily at the same territory where they were betas. Even when the local alpha slot was empty, some betas moved to be helpers elsewhere rather than take over the vacant position. >
+> “Without being an alpha, there’s essentially no chance for these males > to reproduce,” says DuVal. “My results suggest that betas could actually benefit from staying betas for a while, for example by gaining courtship skills during a sort of apprenticeship or by forming alliances with other males who later act as their betas.” >
+> These results contrast with those from studies of other birds with > cooperative courtship displays: wild turkeys strut cooperatively with > close relatives, and ruffs (a shorebird) form alliances of males that often both mate while they are partners. **These contrasts are interesting because they show that similar behavior can result from very different social and selective environments….**
 
 ### Related Posts:
 

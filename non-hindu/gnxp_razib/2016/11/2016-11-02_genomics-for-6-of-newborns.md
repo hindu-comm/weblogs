@@ -13,7 +13,7 @@ Genomics for 6% of newborns?
 
 In some ways, the results were discouraging:
 
-> One thing Green hadn’t anticipated is how hard it has been to convince > new parents to do this screening in the first place. Early research > showed the majority of parents were interested in the medical > information. But 94 percent of parents Green and his team are > approaching are saying no.
+> One thing Green hadn’t anticipated is how hard it has been to convince > new parents to do this screening in the first place. Early research showed the majority of parents were interested in the medical information. But 94 percent of parents Green and his team are approaching are saying no.
 
 So that leaves 6 percent. **That’s not a trivial number.** There are about 4 million babies born per year, so that would be 240,000 newborns with their exome sequenced. And part of the balking is just fear. People will get over this. Technologies like this have an S-shaped adoption curve. It starts out low at first, and then expands to most of the population. Some portion will always opt-out, and that’s their right.
 

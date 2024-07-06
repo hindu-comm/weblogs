@@ -11,7 +11,7 @@ Tolerance of extramarital sex by sex
 
 [Are Empowered Women Driving Reduced Tolerance Of Extramarital Affairs?](http://thinkprogress.org/yglesias/2011/07/27/281183/are-empowered-women-driving-reduced-tolerance-of-extramarital-affairs/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+matthewyglesias+%28Matthew+Yglesias%29):
 
-> My girlfriend’s theory about this, which makes sense to me, is that as > women’s labor market opportunities have improved their dependency on > husbands for economic security has declined and, in turn, their > willingness to put up with misbehavior has gone down. Looking at a > gender breakdown of responses might shed some light on this, **but I > can’t figure out how to work the General Social Survey website.**
+> My girlfriend’s theory about this, which makes sense to me, is that as > women’s labor market opportunities have improved their dependency on > husbands for economic security has declined and, in turn, their willingness to put up with misbehavior has gone down. Looking at a gender breakdown of responses might shed some light on this, **but I can’t figure out how to work the General Social Survey website.**
 
 He’s talking about a chart which shows decline in tolerance of extramarital sex by education:
 

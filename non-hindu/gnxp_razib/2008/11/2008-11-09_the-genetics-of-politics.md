@@ -11,7 +11,7 @@ The genetics of politics
 
 [Political Behavior through the Lens of Behavior Genetics](https://www.gnxp.com/blog/2008/11/political-behavior-through-lens-of.php):
 
-> These are all fascinating questions and Fowler and colleagues are only > beginning to uncover the answers. I anticipate that Fowler and his > partners in crime will continue to leave a trail of evidence from > which we can build an even stronger case for a political science which > does not make assumptions that are at odds with stylized facts from > behavior genetics. Or, for that matter, at odds with facts derived > from any of the other scientific disciplines from which the > “genopolitics” crowd draw inspiration.
+> These are all fascinating questions and Fowler and colleagues are only > beginning to uncover the answers. I anticipate that Fowler and his > partners in crime will continue to leave a trail of evidence from > which we can build an even stronger case for a political science which > does not make assumptions that are at odds with stylized facts from behavior genetics. Or, for that matter, at odds with facts derived from any of the other scientific disciplines from which the “genopolitics” crowd draw inspiration.
 
 Read the [whole thing](https://www.gnxp.com/blog/2008/11/political-behavior-through-lens-of.php), as the links are worth checking out. I’ve addressed how we can and should interpret the heritability of political orientation [before](https://www.gnxp.com/MT2/archives/004096.html); suffice it to say that the key is to remember what [heritability](https://en.wikipedia.org/wiki/Heritability) really means, as opposed to transforming the descriptions of mapping from genotype to phenotype into coarse cut-outs.
 

@@ -13,7 +13,7 @@ Which religious groups are Creationist?
 ![evolutionmormon.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/evolutionmormon.jpg?resize=500%2C352)![evolutionmormon.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/evolutionmormon.jpg?resize=500%2C352)  
 The main surprise here are Mormons. I knew that they had become much more Creationist over the past 3 generations due to their identification with conservative Protestants, but I didn’t know that it went this far. In [The Creationists](https://www.amazon.com/exec/obidos/ASIN/0674023390/geneexpressio-20/) Ronald L Numbers states:
 
-> In 1935 only 36 percent of the students at the Mormons’ Brigham Young > University denied that humans had been “created in a process of > evolution from lower forms.” By 1973 the figure had risen sharply to > 81 percent.
+> In 1935 only 36 percent of the students at the Mormons’ Brigham Young University denied that humans had been “created in a process of evolution from lower forms.” By 1973 the figure had risen sharply to 81 percent.
 
 This is interesting because Mormons have no objections to evolution which are distinctively Mormon. This is why a prominent Mormon such as [Mitt Romney](http://thecaucus.blogs.nytimes.com/2007/05/11/romney-elaborates-on-evolution/) didn’t have a problem taking a relatively strong position in favor of evolution.  
 The data above was from the Pew [Religious Landscape Survey](https://religions.pewforum.org/comparisons). I decided to see how various parameters would predict acceptance of evolution for these groups.

@@ -28,7 +28,7 @@ An immediate explanation is **bad reporting.** But in all these cases? Also, hos
 
 The major result from the paper is here:
 
-> Further analysis using 2-meter (2m) temperatures from 2020 rather than > hPa temperatures yields similar results (Figure 2). In the months of > January 2020 in Wuhan and February 2020 in the other affected, **there > is a striking similarity in the measures of average temperature (5-11 > degrees C) and relative humidity (RH, 47-79%) (Table 1)**. In addition > to having similar average temperature, humidity, and latitude > profiles, these locations also exhibit a commonality in that the > timing of the outbreak coincides with a nadir in the yearly > temperature cycle, and thus with relatively stable temperatures over a > more than a one month period of time (Supplementary Figure 1). In > addition, none of the affected cities have minimum temperatures going > below 0 degree C (Supplementary Figure 1).
+> Further analysis using 2-meter (2m) temperatures from 2020 rather than > hPa temperatures yields similar results (Figure 2). In the months of > January 2020 in Wuhan and February 2020 in the other affected, **there > is a striking similarity in the measures of average temperature (5-11 > degrees C) and relative humidity (RH, 47-79%) (Table 1)**. In addition > to having similar average temperature, humidity, and latitude > profiles, these locations also exhibit a commonality in that the > timing of the outbreak coincides with a nadir in the yearly > temperature cycle, and thus with relatively stable temperatures over a more than a one month period of time (Supplementary Figure 1). In addition, none of the affected cities have minimum temperatures going below 0 degree C (Supplementary Figure 1).
 
 Here’s the figure:
 

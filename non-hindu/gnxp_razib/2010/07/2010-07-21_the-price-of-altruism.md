@@ -17,7 +17,8 @@ So I guess with that, I’m saying I highly recommend the [The Price of Altruism
 
 ### Related Posts:
 
-- [Open Thread - October 30th,
+- [Open Thread
+- October 30th,
   2010](https://www.gnxp.com/WordPress/2010/10/30/open-thread-october-30th-2010/) - [The evolution of
   morals](https://www.gnxp.com/WordPress/2010/03/21/the-evolution-of-morals/) - [Nature's Oracle finally out in
   2013](https://www.gnxp.com/WordPress/2012/09/16/natures-oracle-finally-out-in-2013/) - [The Fame of

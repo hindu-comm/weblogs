@@ -125,7 +125,7 @@ The Indian colonies in the Far East must ever remain as the high-water mark of m
 
 The Hindu cultural conquest of Southeast Asia remains unprecedented and unique in the history of human civilisation. Here is how another scholar describes the nature and impact of this conquest:
 
-> **For nearly thirteen hundred years** the Indian colonists had > persevered in adorning these far-off lands with edifices almost > unrivalled elsewhere of their class. But at the end of that time, as > happened in India, they disappear as if at the touch of a magician's > wand.
+> **For nearly thirteen hundred years** the Indian colonists had > persevered in adorning these far-off lands with edifices almost unrivalled elsewhere of their class. But at the end of that time, as happened in India, they disappear as if at the touch of a magician's wand.
 
 The most glaring proof of cultural and social triumph is when the colonised country refashions its *legal* system on the model brought in the alien invader. 
 

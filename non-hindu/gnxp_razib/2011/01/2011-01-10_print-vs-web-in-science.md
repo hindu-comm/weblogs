@@ -11,7 +11,7 @@ Print vs. web in science
 
 I have some Google Alerts set up relating to human evolution and such, and a few days ago I noticed a spike in articles about the evolution of clothing and lice. Like this: [We were all naked until 170,000 years ago](http://content.usatoday.com/communities/sciencefair/post/2011/01/we-were-all-naked-until-170000-years-ago/1). Since I blogged this in September, [The naked years](http://blogs.discovermagazine.com/gnxp/2010/09/the-naked-years/), I was confused. Here’s the explanation in *USA Today*:
 
-> The study, in this month’s **print edition** of *Molecular Biology and > Evolution*, finds that the one louse species began to diverge into two > about 170,000 years ago, 70,000 years before humans started migrating > to colder climates, which began about 100,000 years ago.
+> The study, in this month’s **print edition** of *Molecular Biology and Evolution*, finds that the one louse species began to diverge into two about 170,000 years ago, 70,000 years before humans started migrating to colder climates, which began about 100,000 years ago.
 
 The [paper](http://mbe.oxfordjournals.org/content/28/1/29.full) was on the website in early September, but didn’t make it into the print edition until 2011. I have no idea how this sort of stuff works; contrary to perceptions of many I’m not a science writer. Perhaps they blasted a new wave of press releases? Whatever they did, it worked. A huge plume of articles has been welling up over the weekend on the topic.
 

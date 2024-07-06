@@ -11,7 +11,7 @@ Brian Switek in Times Online on Ida
 
 [Brian Switek](http://scienceblogs.com/laelaps/) of [Laelaps](http://scienceblogs.com/laelaps/) has an [op-ed in on Ida](http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article6360606.ece). Here’s the conclusion:
 
-> What could have been a unique opportunity to communicate science has > quickly developed into a fiasco. Science proceeds through discovery > and debate, and hypotheses do not become accepted by flooding the > media with press releases. Scientific scrutiny of Ida has only just > begun, and regardless of who her closest living relatives are, I hope > the debate surrounding her will not sink away from sight. She truly is > an amazing find, but for now I think that she has taught us more about > science communication than our ancestry.
+> What could have been a unique opportunity to communicate science has > quickly developed into a fiasco. Science proceeds through discovery > and debate, and hypotheses do not become accepted by flooding the > media with press releases. Scientific scrutiny of Ida has only just > begun, and regardless of who her closest living relatives are, I hope the debate surrounding her will not sink away from sight. She truly is an amazing find, but for now I think that she has taught us more about science communication than our ancestry.
 
 It seems to me one of the issues with “missing links” is that they reinforce the [Great Chain of Being](https://en.wikipedia.org/wiki/Great_chain_of_being) which is implicit in the public’s understanding of evolutionary processes.
 

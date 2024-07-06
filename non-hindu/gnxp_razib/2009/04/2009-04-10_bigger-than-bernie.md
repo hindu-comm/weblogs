@@ -11,7 +11,7 @@ Bigger than Bernie
 
 Megan McArdle [notes](http://meganmcardle.theatlantic.com/archives/2009/04/the_heroes_of_financial_fraud.php):
 
-> **The scale of Bernie Madoff’s crimes has largely eclipsed the more > interesting scam that broke around the same time**: the antics of Mark > Dreier, who bilked institutional investors for millions with faked > securities. What we know about Madoff suggests that he may have become > an almost accidental crook, like many of the accounting fraudsters of > yesteryear: take big losses, cook the books to cover them until he > could “catch up”, and when you realize you’re too far behind, simply > ride the fraud as long as you can.
+> **The scale of Bernie Madoff’s crimes has largely eclipsed the more > interesting scam that broke around the same time**: the antics of Mark > Dreier, who bilked institutional investors for millions with faked > securities. What we know about Madoff suggests that he may have become > an almost accidental crook, like many of the accounting fraudsters of yesteryear: take big losses, cook the books to cover them until he could “catch up”, and when you realize you’re too far behind, simply ride the fraud as long as you can.
 
 Megan’s right. I remember Mark Dreier, Bernie broke just after him, and being an order of magnitude (or two) bigger of course the substance of Dreier’s con would fade into the shadows. But [read the whole profile](http://cnnmoney.printthis.clickability.com/pt/cpt?action=cpt&title=More+brazen+than+Madoff%3F+(pg.+4)+-+Apr.+1,+2009+&expire=-1&urlID=35050961&fb=Y&url=http://money.cnn.com/2009/03/31/news/newsmakers/parloff_dreier.fortune/index4.htm&partnerID=2200), it’s clear that Dreier’s con had a lot more style and panache. Sometimes you need to look beyond money.
 

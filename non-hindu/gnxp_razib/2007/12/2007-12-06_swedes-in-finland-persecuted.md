@@ -11,12 +11,12 @@ Swedes in Finland persecuted?
 
 [Language tensions mount in bilingual Finland](http://www.thelocal.se/9292/20071204/):
 
-> “Finland tries to teach everyone a lesson about morality **but > minorities in China are treated better**,” blasted Juhan Janhunen, an > expert on Asian languages, comparing one of the most egalitarian > countries in the world to the Communist regime.
+> “Finland tries to teach everyone a lesson about morality **but minorities in China are treated better**,” blasted Juhan Janhunen, an expert on Asian languages, comparing one of the most egalitarian countries in the world to the Communist regime.
 
 Rebuttal?
 
-> Heikki Tala, the head of the Association for Finnish Culture and > Identity, doesn’t see a problem. >
-> “Swedish speakers enjoy privileges like no other linguistic minority > in the world,” he said. >
+> Heikki Tala, the head of the Association for Finnish Culture and Identity, doesn’t see a problem. >
+> “Swedish speakers enjoy privileges like no other linguistic minority in the world,” he said. >
 > “**The 500,000 Finns in Sweden have no rights**,” he pointed out.
 
 ### Related Posts:

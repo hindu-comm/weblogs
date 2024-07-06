@@ -11,7 +11,7 @@ Where nature leads
 
 I noted a few weeks ago I read [The English Civil War](https://www.amazon.com/exec/obidos/ASIN/0465067565/geneexpressio-20). This passage struck me:
 
-> All beholders, said a Dorset draper visiting London, shed tears. There > were ironies in all this hero-worship. According to the Catholic Sir > Kenelm Digby, the godly \[Puritans\] were, hilariously, keen to gather > relics of the martyrdom, the bloody sponges and handkerchiefs: ‘**you > may see how nature leads men** to respect relics of martyrs’.
+> All beholders, said a Dorset draper visiting London, shed tears. There > were ironies in all this hero-worship. According to the Catholic Sir Kenelm Digby, the godly \[Puritans\] were, hilariously, keen to gather relics of the martyrdom, the bloody sponges and handkerchiefs: ‘**you may see how nature leads men** to respect relics of martyrs’.
 
 The key point is to note that the Puritan Protestants indulged rather quickly in the same idolatry for which they upbraided the Catholics! In the chapter on “The War Against Christmas” the proto-Benthanmite inclinations of Puritan rationalists is on full display, as the divines inveigh against saints days and other accretions upon the plain and simple Biblical faith, and not for the first time place the quasi-pagan festival of Christmas in their sights.
 

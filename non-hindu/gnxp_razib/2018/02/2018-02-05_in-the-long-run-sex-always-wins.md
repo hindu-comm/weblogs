@@ -11,8 +11,8 @@ In the long run sex always wins
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/narrow-roads-of-gene-land-vol2.jpg?resize=150%2C228&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/narrow-roads-of-gene-land-vol2.jpg?resize=150%2C228&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0198503369/geneexpressio-20/ref=as_at?creativeASIN=0198503369&linkCode=w61&imprToken=ycUMYHVwxFwq6of86p23tQ&slotNum=124)Carl Zimmer has an incredible piece up, [This Mutant Crayfish Clones Itself, and It’s Taking Over Europe](https://www.nytimes.com/2018/02/05/science/mutant-crayfish-clones-europe.html):
 
-> All the marbled crayfish Dr. Lyko’s team studied were almost > genetically identical to one another. Yet that single genome has > allowed the clones to thrive in all manner of habitats — from > abandoned coal fields in Germany to rice paddies in Madagascar. >
-> In their new study, published in the journal Nature Ecology and > Evolution, the researchers show that the marbled crayfish has spread > across Madagascar at an astonishing pace, across an area the size of > Indiana in about a decade.
+> All the marbled crayfish Dr. Lyko’s team studied were almost genetically identical to one another. Yet that single genome has allowed the clones to thrive in all manner of habitats — from abandoned coal fields in Germany to rice paddies in Madagascar. >
+> In their new study, published in the journal Nature Ecology and Evolution, the researchers show that the marbled crayfish has spread across Madagascar at an astonishing pace, across an area the size of Indiana in about a decade.
 
 Basically, it looks like a crayfish mutated and now is able to reproduce clonally. That is, it’s asexual. Also, because of its chromosomal structure, it’s no longer inter-fertile with the species from which it emerged.
 

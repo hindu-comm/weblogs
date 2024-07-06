@@ -27,7 +27,7 @@ P(D\|T) is the power, and P(D\|t) is the p-value. Clearly, both are relevant her
 
 \[3\] As the authors note,
 
-> A key point from both perspectives is that interpreting the strength > of evidence in an association study depends on the likely number of > true associations, and the power to detect them which, in turn, > depends on effect sizes and sample size. In a less-well-powered study > it would be necessary to adopt more stringent thresholds to control > the false-positive rate. Thus, when comparing two studies for a > particular disease, with a hit with the same MAF and P value for > association, the likelihood that this is a true positive will in > general be greater for the study that is better powered, typically the > larger study. **In practice, smaller studies often employ less > stringent P-value thresholds, which is precisely the opposite of what > should occur**.
+> A key point from both perspectives is that interpreting the strength > of evidence in an association study depends on the likely number of > true associations, and the power to detect them which, in turn, > depends on effect sizes and sample size. In a less-well-powered study > it would be necessary to adopt more stringent thresholds to control > the false-positive rate. Thus, when comparing two studies for a > particular disease, with a hit with the same MAF and P value for > association, the likelihood that this is a true positive will in > general be greater for the study that is better powered, typically the larger study. **In practice, smaller studies often employ less stringent P-value thresholds, which is precisely the opposite of what should occur**.
 
 ### Related Posts:
 

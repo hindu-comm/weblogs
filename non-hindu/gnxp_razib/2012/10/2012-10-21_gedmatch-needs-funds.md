@@ -17,7 +17,8 @@ In any case, if you have used GEDmatch and wish to give, [this would be a good t
 
 ### Related Posts:
 
-- [GEDmatch](https://www.gnxp.com/WordPress/2012/05/22/gedmatch/) - [The importance of open data in genomics (and in
+- [GEDmatch](https://www.gnxp.com/WordPress/2012/05/22/gedmatch/)
+- [The importance of open data in genomics (and in
   everything!)](https://www.gnxp.com/WordPress/2013/01/27/the-importance-of-open-data-in-genomics-and-in-everything/) - [The oracle of personal
   genomics](https://www.gnxp.com/WordPress/2012/05/01/the-oracle-of-personal-genomics/) - [Forensic genetics after Golden State
   Killer](https://www.gnxp.com/WordPress/2019/12/02/forensic-genetics-after-golden-state-killer/) - [Razib Khan 30x whole-genome sequence

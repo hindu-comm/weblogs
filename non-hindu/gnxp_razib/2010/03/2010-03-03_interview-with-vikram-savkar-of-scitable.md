@@ -26,7 +26,8 @@ Interestingly enough, though I too thought when we launched that I would see som
 
 ### Related Posts:
 
-- [Scitable](https://www.gnxp.com/WordPress/2009/05/28/scitable/) - [Scitable, Nature as king of all science
+- [Scitable](https://www.gnxp.com/WordPress/2009/05/28/scitable/)
+- [Scitable, Nature as king of all science
   media?](https://www.gnxp.com/WordPress/2009/05/28/scitable-nature-as-king-of-all-science-media/) - [A letter to a non-prominent science
   blogger](https://www.gnxp.com/WordPress/2011/11/06/a-letter-to-a-non-prominent-science-blogger/) - [The perils of
   Wikipedia](https://www.gnxp.com/WordPress/2006/08/26/the-perils-of-wikipedia/) - [Election 2010

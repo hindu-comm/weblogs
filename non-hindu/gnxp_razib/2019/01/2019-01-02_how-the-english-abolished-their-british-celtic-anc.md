@@ -11,7 +11,7 @@ How the English abolished their British (Celtic) ancestors
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/fallofrome.jpeg?resize=184%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/fallofrome.jpeg?resize=184%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0192807285/geneexpressio-20?imprToken=ph0wgOO4zzPZNfWj2WXVAw&slotNum=32&imprToken=JiURbiAZj8h.e8EqZBmxzQ&slotNum=0&creativeASIN=0060556579&linkCode=w61&imprToken=8GdZQXFnf2mivgZdLDQPZw&slotNum=233)Reading both Bryan Ward-Perkins’ 2000 paper [Why did the Anglo-Saxons not become more British?](https://watermark.silverchair.com/513.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkIwggI-BgkqhkiG9w0BBwagggIvMIICKwIBADCCAiQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMZGdQHVLcIseDr1h0AgEQgIIB9fns0EfCGaof3k6PgiA4mntnq4UbP23Dci4C2FZOC3hxS01E0DYq-tfrEakPx1l5RLIF1qfgaBfwFIVSOW_ITWx5Ls7IUtevXVaQNXxBMZ-msb9P7Fktf4WwUaZ2RUND1hJCMmwvRTuJ9ttTzskQsXk3kxZ6qe4wqftyYq8Hy5IqFxNIeqI3NN-tulOAVzvZiuY8gFDUXL-QrC4qY1-C4qyA-mjprRByBCrrwdAVSKsjwir17kfYZUAigxZnRZUEzZvRX6QU6W_PNayzhI7nhXOr366r2tldRaj7LFO1Zule4b4EON8DOi3bVqINxA73ORxA7YUCQqtZz7GxhQTH8zx5dp-sf67cZfqH-XvbNIUTAj1VMPIHwhr3kRivdKRPGZslhO8An4ioKs83DI2IZUxn1G9mypZNy36BAkHfQcoIGNMqLVc2cYMFXXWbGCWHDta4T9ZEq8FR7o0SvY6qXwo3cpz4P75QA0RUkQNittxOEoSx1nI3I_euxggRxVxAg3_31y1BGCzLtmhukgw1T166REhV7FtAaHm0WdfP4_nCJvSpDR20CDUdsZVPb4ZvNabzgUXJawvp3l8KM9vLnUQWFSuAxZ32p3D3GMwfbEp8MIVCO8_c0qc1mcylgE-uSIrkuA36ohShFqdXuDxOlaeNp3QIxQ) and [The fine scale genetic structure of the British population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4632200/), published in 2015, is interesting. To date, this second paper is probably the “best of breed” when it comes to estimating Anglo-Saxon admixture into the British population in the 5th to 7th centuries (confirmed with a [smaller sample ancient DNA](https://www.ncbi.nlm.nih.gov/pubmed/26783965) publication). The authors conclude that:
 
-> Two separate analyses (ancestry profiles and GLOBETROTTER) show clear > evidence in modern England of the Saxon migration, but each limits the > proportion of Saxon ancestry, clearly excluding the possibility of > long-term Saxon replacement. We estimate the proportion of Saxon > ancestry in C./S England as very likely to be under 50%, and most > likely in the range 10%-40%.
+> Two separate analyses (ancestry profiles and GLOBETROTTER) show clear > evidence in modern England of the Saxon migration, but each limits the > proportion of Saxon ancestry, clearly excluding the possibility of long-term Saxon replacement. We estimate the proportion of Saxon ancestry in C./S England as very likely to be under 50%, and most likely in the range 10%-40%.
 
 The ancient DNA paper gives an estimate of \~38% Anglo-Saxon (German) for the “East English.” So the two seem roughly in line. The C./S. England cluster refers to the genealogical network of the lowlands of central and eastern England.
 
@@ -35,7 +35,8 @@ There is also a general insight. How can a people “forget” their past origin
 
 ### Related Posts:
 
-- [Celts and Anglo-Saxons - part n +
+- [Celts and Anglo-Saxons
+- part n +
   1](https://www.gnxp.com/WordPress/2006/07/19/celts-and-anglo-saxons-part-n-1/) - [No Anglo-Saxon
   Apartheid?](https://www.gnxp.com/WordPress/2008/04/23/no-anglo-saxon-apartheid/) - [Blood of the
   Isles](https://www.gnxp.com/WordPress/2007/02/03/blood-of-the-isles/) - [The Anglo-Saxonization of England happened through a

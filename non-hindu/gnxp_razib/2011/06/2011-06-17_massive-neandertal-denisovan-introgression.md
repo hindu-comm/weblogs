@@ -34,7 +34,8 @@ Finally, a special shout out to [Greg Cochran](https://www.amazon.com/exec/obido
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - ["One of the
   two"](https://www.gnxp.com/WordPress/2006/11/08/one-of-the-two/) - [Introgression, the
   sequel](https://www.gnxp.com/WordPress/2006/12/18/introgression-the-sequel/) - [Recent human evolution in

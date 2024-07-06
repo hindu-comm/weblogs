@@ -11,7 +11,7 @@ Neandertal – the Rubin paper
 
 [A post](https://www.gnxp.com/blog/2006/11/neandertal-dna-take-ii.php) on [my other blog](https://www.gnxp.com/blog/2006/11/neandertal-dna-take-ii.php) from p-ter on the second Neandertal genomics paper. Here is the important conclusion:
 
-> …expect some big papers on “sexy” genes like > [ASPM](https://www.gnxp.com/blog/2005/09/this-is-bruce-lahns-brain-on-aspm-and.php), > [microcephalin](https://www.gnxp.com/blog/2005/09/this-is-bruce-lahns-brain-on-aspm-and.php), > and [FOXP2 in the coming > years.](http://www.evolutionpages.com/FOXP2_language.htm)
+> …expect some big papers on “sexy” genes like > [ASPM](https://www.gnxp.com/blog/2005/09/this-is-bruce-lahns-brain-on-aspm-and.php), [microcephalin](https://www.gnxp.com/blog/2005/09/this-is-bruce-lahns-brain-on-aspm-and.php), and [FOXP2 in the coming years.](http://www.evolutionpages.com/FOXP2_language.htm)
 
 Remember “Netscape time.” Feels like genetics is approaching that in the Post-genomic era….
 

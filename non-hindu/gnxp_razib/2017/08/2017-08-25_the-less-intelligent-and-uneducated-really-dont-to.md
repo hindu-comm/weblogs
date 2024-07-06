@@ -11,8 +11,8 @@ The less intelligent and uneducated really don’t tolerate unpopular views
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-fcontent/uploads/2017/08/speakingof.jpeg?resize=183%2C275)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-fcontent/uploads/2017/08/speakingof.jpeg?resize=183%2C275)](https://www.amazon.com/exec/obidos/ASIN/0814730906/geneexpressio-20)When looking at the [General Social Survey](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss16) one of the most striking things is how much more the more educated and intelligent are in terms of accepting unpopular views. Since 2008 and the SPKMSLM variable has asked about anti-American hatred preached by Muslim clerics in the United States:
 
-> … consider a Muslim clergyman who preaches hatred of the United > States. >
-> If such a person wanted to make a speech in your community preaching > hatred of the United States, should he be allowed to speak, or not?
+> … consider a Muslim clergyman who preaches hatred of the United States. >
+> If such a person wanted to make a speech in your community preaching hatred of the United States, should he be allowed to speak, or not?
 
 The ideological breakdown is what you’d expect it to be, and tolerance for this sort of speech is low, at about 40% of Americans.
 

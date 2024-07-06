@@ -11,7 +11,7 @@ The genomes of Indians
 
 A new paper is getting a lot of press, [Reconstructing Indian population history](http://www.nature.com/nature/journal/v461/n7263/full/nature08365.html). I will probably have something up on ScienceBlogs tomorrow (have to read the supplements). But I thought I’d highlight a paragraph in the text:
 
-> We warn that ‘models’ in population genetics should be treated with > caution. Although they provide an important framework for testing > historical hypotheses, they are oversimplifications. **For example, > the true ancestral populations of India were probably not homogeneous > as we assume in our model, but instead were probably formed by > clusters of related groups that mixed at different times.** However, > modelling them as homogeneous fits the data and seems to capture > meaningful features of history.
+> We warn that ‘models’ in population genetics should be treated with > caution. Although they provide an important framework for testing > historical hypotheses, they are oversimplifications. **For example, > the true ancestral populations of India were probably not homogeneous > as we assume in our model, but instead were probably formed by clusters of related groups that mixed at different times.** However, modelling them as homogeneous fits the data and seems to capture meaningful features of history.
 
 This caution did not percolate to the level of the press releases from what I can gather. [John Hawks](http://johnhawks.net/weblog/reviews/genomics/variation/reich-2009-india-population-genetics.html) has some criticisms up….
 

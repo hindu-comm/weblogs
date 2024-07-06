@@ -13,7 +13,8 @@ What is the good life for you?
 
 ### Related Posts:
 
-- [Living Neandertals - visual "evidence"
+- [Living Neandertals
+- visual "evidence"
   (?)](https://www.gnxp.com/WordPress/2006/11/09/living-neandertals-visual-evidence/) - ["You are not the
   father"](https://www.gnxp.com/WordPress/2006/12/02/you-are-not-the-father/) - [Whatever happened to "synthetic
   life"?](https://www.gnxp.com/WordPress/2010/03/11/whatever-happened-to-synthetic-life/) - [Minor note on "the

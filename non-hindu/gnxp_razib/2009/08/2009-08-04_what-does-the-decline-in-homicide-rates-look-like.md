@@ -48,7 +48,8 @@ I’m up for a math modeling jam session if anyone else is. I remember seeing OD
 
 ### Related Posts:
 
-- [Open Thread - December 4th,
+- [Open Thread
+- December 4th,
   2010](https://www.gnxp.com/WordPress/2010/12/04/open-thread-december-4th-2010/) - [There is no society, just homicidal
   individuals](https://www.gnxp.com/WordPress/2009/12/01/there-is-no-society-just-homicidal-individuals/) - [But peace does
   reign!](https://www.gnxp.com/WordPress/2011/10/08/but-peace-does-reign/) - [Your generation was more

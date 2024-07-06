@@ -11,8 +11,8 @@ The software distribution revolution
 
 [Apple’s Game Changer, Downloading Now](http://www.nytimes.com/2009/12/06/technology/06apps.html?pagewanted=print):
 
-> The way the industry once operated, “Each handset company would come > up with its latest iterations and maybe have the hottest device of the > season or not,” says Ms. Huberty, the Morgan Stanley analyst. “Enter > apps into the equation, and that changes. It goes from being a product > cycle game to a platform game.”  
-> “People will look back on the iPhone as a turning point in the > industry,” says Craig Moffett, a telecom analyst with Sanford C. > Bernstein. “The iPhone will be remembered as the first true handheld > computer.
+> The way the industry once operated, “Each handset company would come > up with its latest iterations and maybe have the hottest device of the season or not,” says Ms. Huberty, the Morgan Stanley analyst. “Enter apps into the equation, and that changes. It goes from being a product cycle game to a platform game.”  
+> “People will look back on the iPhone as a turning point in the industry,” says Craig Moffett, a telecom analyst with Sanford C. Bernstein. “The iPhone will be remembered as the first true handheld computer.
 
 ### Related Posts:
 

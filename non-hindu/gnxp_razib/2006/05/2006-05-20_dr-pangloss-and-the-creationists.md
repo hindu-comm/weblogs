@@ -12,7 +12,7 @@ Dr. Pangloss and the Creationists
 In the comments below Jason Malloy took issue with John Hawks’ contention that Creationists “will now cite Eric Lander in support of the idea that hominid fossils are not transitional between apes and humans, but instead are hybrids of apes and humans.”  
 I don’t know. Here is a short passage from Scott Atran’s [In Gods We Trust](https://www.amazon.com/exec/obidos/ASIN/0195149300/geneexpressio-20/102-2074290-6839350):
 
-> …after reading a bogus article on a new finding from the Dead Sea > Scrolls that seemed to contradict Christian doctrine, religious > respondents **who also believed the story** reported their religious > beliefs reinforced (Batson 1975)….
+> …after reading a bogus article on a new finding from the Dead Sea Scrolls that seemed to contradict Christian doctrine, religious respondents **who also believed the story** reported their religious beliefs reinforced (Batson 1975)….
 
   
 My first reaction, from the gut, is to explode about “God-idiots” in a [Raving Atheist](http://ravingatheist.com/) fashion. I mean, a) these people believe that that the Dead Sea Scroll fabrications are actually accurate b) but they still aver a belief that they should **logically** see is untenable. Frankly, the subjects of these studies remind me of the moronic undecided voters who grin about how they “just can’t pick” because “they aren’t hearing the issues.” Usually, if you are watching them on TV you probably think, “Damnit, tell them that they’re fucking toothless morons with only a few spare neurons, and that’s why they can’t make up their ‘minds.'”  

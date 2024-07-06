@@ -13,7 +13,7 @@ Human CCR5 knockout
 
 It’s just a single patient, and I somehow doubt this is a viable option for HIV treatment, but still, this is pretty impressive:
 
-> In our patient, transplantation led to complete chimerism, and the > patient’s peripheral-blood monocytes changed from a heterozygous to a > homozygous genotype regarding the CCR5 delta32 allele. **Although the > patient had nonâ€“CCR5-tropic X4 variants and HAART was discontinued > for more than 20 months, HIV-1 virus could not be detected in > peripheral blood, bone marrow, or rectal mucosa,** as assessed with > RNA and proviral DNA PCR assays. For as long as the viral load > continues to be undetectable, this patient will not require > antiretroviral therapy.
+> In our patient, transplantation led to complete chimerism, and the > patient’s peripheral-blood monocytes changed from a heterozygous to a > homozygous genotype regarding the CCR5 delta32 allele. **Although the > patient had nonâ€“CCR5-tropic X4 variants and HAART was discontinued > for more than 20 months, HIV-1 virus could not be detected in > peripheral blood, bone marrow, or rectal mucosa,** as assessed with RNA and proviral DNA PCR assays. For as long as the viral load continues to be undetectable, this patient will not require antiretroviral therapy.
 
 ### Related Posts:
 

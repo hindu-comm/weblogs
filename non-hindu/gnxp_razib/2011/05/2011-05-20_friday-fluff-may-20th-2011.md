@@ -18,7 +18,7 @@ Friday Fluff – May 20th, 2011
 
 3\) **Comment of the week**, in response to [“Fixing science, in part”](http://blogs.discovermagazine.com/gnxp/2011/05/fixing-science-in-part/#comment-71353):
 
-> In one of Ben Goldacre’s books he cites a study about publication bias > which shows that there’s a publication bias in studies about > publication bias. Given reasonable assumptions about distributions, > people aren’t publishing studies which would show only a small bias. I > don’t k now if this is hilarious or just demonstrates how severe a > problem publication bias is.
+> In one of Ben Goldacre’s books he cites a study about publication bias > which shows that there’s a publication bias in studies about > publication bias. Given reasonable assumptions about distributions, people aren’t publishing studies which would show only a small bias. I don’t k now if this is hilarious or just demonstrates how severe a problem publication bias is.
 
 4\) And finally, your weekly **fluff fix**:
 
@@ -28,7 +28,8 @@ Friday Fluff – May 20th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - August 26th,
+- [Friday Fluff
+- August 26th,
   2011](https://www.gnxp.com/WordPress/2011/08/26/friday-fluff-august-26th-2011/) - [Friday Fluff - July 8th,
   2011](https://www.gnxp.com/WordPress/2011/07/08/friday-fluff-july-8th-2011/) - [Psychiatric genetics out of the file
   drawer](https://www.gnxp.com/WordPress/2016/03/17/psychiatric-genetics-out-of-the-file-drawer/) - [Friday Fluff - April 29th,

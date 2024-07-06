@@ -11,7 +11,7 @@ Da Vinci & DNA – Jesus with the XX male syndrome?
 
 Since I’m on a *Dumb* Vinci Code kick today, check out this [amusing article](http://www.philly.com/mld/inquirer/living/health/14636646.htm) about the genetics of Jesus! Check it:
 
-> In humans, females package some of their DNA in two matched X > chromosomes, males in a single X and Y. So if you’re a male, there’s > only one way you could have gotten your Y chromosome, and that’s from > your biological father.  
+> In humans, females package some of their DNA in two matched X chromosomes, males in a single X and Y. So if you’re a male, there’s only one way you could have gotten your Y chromosome, and that’s from your biological father.  
 > Where would Jesus have gotten his Y?
 
 Where indeed. Perhaps Jesus Christ was an [XX male](http://www.bookrags.com/sciences/genetics/xx-male-syndrome-wog.html)? In other words, he was a clone of Mary that was miraculously possessed of an [SRY](https://en.wikipedia.org/wiki/SRY).

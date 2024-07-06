@@ -11,10 +11,10 @@ Hobbits and humans and giants … oh my!
 
   
 
-> [**Giant ape lived alongside > humans**](http://dailynews.mcmaster.ca/story.cfm?id=3637) >
-> A gigantic ape, measuring about 10 feet tall and weighing up to 1,200 > pounds, co-existed alongside humans, a geochronologist at McMaster > University has discovered. >
-> Using a high-precision absolute-dating method (techniques involving > electron spin resonance and uranium series), Jack Rink, associate > professor of geography and earth sciences at McMaster, has determined > that Gigantopithecus blackii, **the largest primate that ever lived, > roamed southeast Asia for nearly a million years before the species > died out 100,000 years ago. This was known as the Pleistocene period, > by which time humans had already existed for a million years.** >
-> “A missing piece of the puzzle has always focused on pin-pointing when > Gigantopithecus existed,” explains Rink. **“This is a primate that > co-existed with humans at a time when humans were undergoing a major > evolutionary change. Guangxi province in southern China, where the > Gigantopithecus fossils were found, is the same region where some > believe the modern human race originated.”**
+> [**Giant ape lived alongside humans**](http://dailynews.mcmaster.ca/story.cfm?id=3637) >
+> A gigantic ape, measuring about 10 feet tall and weighing up to 1,200 pounds, co-existed alongside humans, a geochronologist at McMaster University has discovered. >
+> Using a high-precision absolute-dating method (techniques involving > electron spin resonance and uranium series), Jack Rink, associate > professor of geography and earth sciences at McMaster, has determined > that Gigantopithecus blackii, **the largest primate that ever lived, roamed southeast Asia for nearly a million years before the species died out 100,000 years ago. This was known as the Pleistocene period, by which time humans had already existed for a million years.** >
+> “A missing piece of the puzzle has always focused on pin-pointing when > Gigantopithecus existed,” explains Rink. **“This is a primate that > co-existed with humans at a time when humans were undergoing a major evolutionary change. Guangxi province in southern China, where the Gigantopithecus fossils were found, is the same region where some believe the modern human race originated.”**
 
 ### Related Posts:
 

@@ -11,7 +11,7 @@ Interesting twist in the Sullivan-Harris debate
 
 [Sam Harris and Andrew Sullivan have been debating religion.](http://www.beliefnet.com/story/209/story_20904.html) Here’s an interesting excerpt from [Sullivan’s Feb 14 entry](http://andrewsullivan.theatlantic.com/the_daily_dish/2007/02/the_unclean_gla_1.html):
 
-> …That is because I have never met a human being or a human mind that > is “contingency-free”, and never will. **No child grows up without the > contingent facts of their family, place, genes, and any number of > details that make us who we are. You and I would be very different > people if we had different contingent genetics and different > contingent histories.** This is the experience of being human, an > experience eternally different from the dream of your new, unfettered, > purely rational “education,” where the young are severed from the > toxins of contingent culture and faith and family….
+> …That is because I have never met a human being or a human mind that > is “contingency-free”, and never will. **No child grows up without the > contingent facts of their family, place, genes, and any number of > details that make us who we are. You and I would be very different > people if we had different contingent genetics and different > contingent histories.** This is the experience of being human, an experience eternally different from the dream of your new, unfettered, purely rational “education,” where the young are severed from the toxins of contingent culture and faith and family….
 
 ### Related Posts:
 

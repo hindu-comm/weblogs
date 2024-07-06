@@ -11,7 +11,7 @@ Fate vs. Control by nation
 
 The World Values Survey has a question of the form:
 
-> Some people believe that individuals can decide their own destiny, > while others think that it is impossible to escape a predetermined > fate. Please tell me which comes closest to your view on this scale on > which 1 means “everything in life is determined by fate,” and 10 means > that “people shape their fate themselves.”
+> Some people believe that individuals can decide their own destiny, > while others think that it is impossible to escape a predetermined fate. Please tell me which comes closest to your view on this scale on which 1 means “everything in life is determined by fate,” and 10 means that “people shape their fate themselves.”
 
 Below the fold are the percentages in selected nations which picked “10,” which is basically the least fatalistic position.
 

@@ -11,7 +11,7 @@ Ask a ScienceBlogger – Underfunded?
 
 This week’s Ask a ScienceBlogger:
 
-> What’s the most underfunded scientific field that shouldn’t be > underfunded?…
+> What’s the most underfunded scientific field that shouldn’t be underfunded?…
 
 **I’ll say old fashioned [biological anthropology](https://en.wikipedia.org/wiki/Biological_anthropology).** There’s a reason that a pall was cast over thsi field after World War II, but we need to start pushing an analysis of man the animal on all levels again, as the post-genomic era is starting with an explosion centered on the most important animal of all, and the moment is ripe for the re-emergence of complementary fields.
 

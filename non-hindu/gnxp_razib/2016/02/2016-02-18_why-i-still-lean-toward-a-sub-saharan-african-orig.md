@@ -11,8 +11,8 @@ Why I still lean toward a Sub-Saharan African origin for modern humanity
 
 [Dienekes argues](https://dienekes.blogspot.com/2016/02/ancestors-of-eastern-neandertals.html?showComment=1455799736617#c575846562392603469):
 
-> Yes, it’s possible that the divergence event happened in Africa.It’s > also possible that it happened in Asia. I see no reason to prefer one > or the other. After all, the main piece of evidence in favor of > Out-of-Africa is that Eurasians are nested within African genetic > variation. >
-> If this paper is right, this is no longer the case: Africans are > nested in Eurasian variation as a whole, inclusive of both modern > Eurasians and the mystery population.
+> Yes, it’s possible that the divergence event happened in Africa.It’s > also possible that it happened in Asia. I see no reason to prefer one or the other. After all, the main piece of evidence in favor of Out-of-Africa is that Eurasians are nested within African genetic variation. >
+> If this paper is right, this is no longer the case: Africans are nested in Eurasian variation as a whole, inclusive of both modern Eurasians and the mystery population.
 
 I’m not sure that this is the main piece, though it was a major reason. Here are two other reasons:
 

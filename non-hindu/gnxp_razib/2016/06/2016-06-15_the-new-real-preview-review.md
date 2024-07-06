@@ -9,12 +9,12 @@ Source: [here](https://www.gnxp.com/WordPress/2016/06/15/the-new-real-preview-re
 
 The New Real Preview Review
 
-> Pregnancy has been socially gendered as feminine > <https://t.co/UeDvV25wIk> > [pic.twitter.com/sdjsC2zKb9](https://t.co/sdjsC2zKb9) >
-> — New Real Peer Review (@RealPeerReview) [June 14, > 2016](https://twitter.com/RealPeerReview/status/742593681262149632)
+> Pregnancy has been socially gendered as feminine <https://t.co/UeDvV25wIk> [pic.twitter.com/sdjsC2zKb9](https://t.co/sdjsC2zKb9) >
+> — New Real Peer Review (@RealPeerReview) [June 14, 2016](https://twitter.com/RealPeerReview/status/742593681262149632)
 
 If you aren’t following the [New Real Peer Review](https://twitter.com/RealPeerReview), you should. Endless enjoyment. What happened to the “old” Twitter account? [The Daily Caller](http://dailycaller.com/2016/06/11/social-justice-warriors-declare-battle-on-colleague-for-exposing-their-research/) has an [article](http://dailycaller.com/2016/06/11/social-justice-warriors-declare-battle-on-colleague-for-exposing-their-research/) about it, [Social Justice Warriors Declare Battle On Colleague For Exposing Their ‘Research’](http://dailycaller.com/2016/06/11/social-justice-warriors-declare-battle-on-colleague-for-exposing-their-research/). Aristotle may be a dead white male, but he had these people dead his sights:
 
-> Hence it is evident that the state is a creation of nature, and that > **man is by nature a political animal.** And he who by nature and not > by mere accident is without a state, is either above humanity, or > below it; he is the ‘Tribeless, lawless, hearthless one,’ whom Homera > denounces—the outcast who is a lover of war; he may be compared to a > bird which flies alone.
+> Hence it is evident that the state is a creation of nature, and that > **man is by nature a political animal.** And he who by nature and not > by mere accident is without a state, is either above humanity, or below it; he is the ‘Tribeless, lawless, hearthless one,’ whom Homera denounces—the outcast who is a lover of war; he may be compared to a bird which flies alone.
 
 Scientists are political too. But their object of study is real, and imposes the ultimate veto, that of the truth test. Critical Theory in contrast is fiction, and of a socially destructive rather than edifying sort.
 

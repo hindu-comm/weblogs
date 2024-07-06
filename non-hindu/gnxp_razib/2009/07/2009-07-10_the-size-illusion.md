@@ -11,9 +11,9 @@ The size illusion
 
 [As nation gains, ‘overweight’ is relative](http://www.cnn.com/2009/HEALTH/07/10/attitudes.overweight/index.html):
 
-> The little number on the tag on a pair of pants that indicates size > can mean a lot to a person, and retailers know it. >
-> That’s why, in recent years, as the American population has become > generally more overweight, **brands from the luxury names to the mass > retail chains have scaled down the size labels on their clothing.** >
-> “You may actually be a size 14 and, according to whatever particular > store you’re in, you come out a size 10,” said Natalie Nixon, > associate professor of fashion industry management at Philadelphia > University. “It’s definitely to make the consumer feel good.”
+> The little number on the tag on a pair of pants that indicates size can mean a lot to a person, and retailers know it. >
+> That’s why, in recent years, as the American population has become generally more overweight, **brands from the luxury names to the mass retail chains have scaled down the size labels on their clothing.** >
+> “You may actually be a size 14 and, according to whatever particular store you’re in, you come out a size 10,” said Natalie Nixon, associate professor of fashion industry management at Philadelphia University. “It’s definitely to make the consumer feel good.”
 
 When I was in high school one particularly dumb classmate was very excited to learn that one’s [weight](https://en.wikipedia.org/wiki/Weight) is marginally lower at higher elevations. She gave me a blank look when I pointed out that mass remains the same. I tactfully left out the fact that there wouldn’t be a change in volume or surface area either….
 

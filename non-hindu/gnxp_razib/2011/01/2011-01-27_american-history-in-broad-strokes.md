@@ -33,7 +33,8 @@ I’m game for recommendations! I had a relatively traditional education in Amer
 
 ### Related Posts:
 
-- [Open Thread - August 30th,
+- [Open Thread
+- August 30th,
   2010](https://www.gnxp.com/WordPress/2010/08/30/open-thread-august-30th-2010/) - [The four culture model of American
   history](https://www.gnxp.com/WordPress/2008/11/06/the-four-culture-model-of-american-history/) - [The genes in those Albion's
   seeds](https://www.gnxp.com/WordPress/2017/02/19/the-genes-in-those-albions-seeds/) - [On theoretical evolutionary

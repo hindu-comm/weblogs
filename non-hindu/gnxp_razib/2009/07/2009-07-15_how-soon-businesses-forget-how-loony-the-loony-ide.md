@@ -21,15 +21,15 @@ First, here are two graphs showing the popularity of the idea in the mainstream 
 [](http://farm3.static.flickr.com/2588/3726067242_5496097c5d.jpg)  
 The first epidemic is easy enough to understand — after languishing in academia during the mid-1980s through the mid-1990s, the ideas of path dependence, lock-in, and first-mover advantage caught on among the business world with the surge of the tech bubble. When it became apparent that the dot-coms weren’t as solid as was believed (to put it lightly), everyone realized how phony the theory supporting the bubble had been. Here’s [a typical remark from 2001](http://www.nytimes.com/2001/03/19/business/e-commerce-report-finally-some-self-service-sites-are-providing-detailed-answers.html):
 
-> WHEN they were not promoting the now-laughable myth of ”first mover > advantage,” early e-commerce proponents proffered the idea that > self-service Web sites could essentially run themselves, with little > or no overhead.
+> WHEN they were not promoting the now-laughable myth of ”first mover advantage,” early e-commerce proponents proffered the idea that self-service Web sites could essentially run themselves, with little or no overhead.
 
 But clear-headedness eventually wears off, and when another bubble comes along, we can’t help but feel exuberant again and take another swig of the stuff that made us feel all tingly inside before. Here’s [a nugget of wisdom from 2006](http://www.nytimes.com/2006/10/15/business/yourmoney/15frenzy.html):
 
-> Media chieftains may be kicking themselves a few years from now > because they didn’t step up to pay whatever it took to own the > emergent first mover in online video.
+> Media chieftains may be kicking themselves a few years from now because they didn’t step up to pay whatever it took to own the emergent first mover in online video.
 
 And a similar non-derogatory, non-ironic [use of the phrase from 2007](http://www.nytimes.com/2007/12/15/opinion/15oreilly.html):
 
-> For the current generation of Internet applications, sometimes > referred to as “Web 2.0,” the data collected from users is the true > source of competitive advantage. And the first movers, the companies > that understand and apply this insight, have services that get better > fast enough that their competition never catches up.
+> For the current generation of Internet applications, sometimes > referred to as “Web 2.0,” the data collected from users is the true source of competitive advantage. And the first movers, the companies that understand and apply this insight, have services that get better fast enough that their competition never catches up.
 
 Thankfully we’ve been hearing less and less of this stupid idea ever since the housing bubble peaked, and at least the most recent peak was lower than the first one, but we can still expect to hear something like this during whatever the next bubble is. Note that the first-mover-wins idea wasn’t even being applied primarily to real estate during the housing bubble — the exuberance in one domain carried over into a completely unrelated domain where it had flourished before. So, if you’re at all involved in the tech industry, be very wary during the next bubble of claims that “first mover wins” — it wasn’t true then (or then, or then), and it won’t be true now.
 

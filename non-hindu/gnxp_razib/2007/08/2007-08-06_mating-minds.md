@@ -11,11 +11,11 @@ Mating minds?
 
 The Economist has [a review](http://www.economist.com/science/displaystory.cfm?story_id=9581656) of a paper [briefly mentioned](https://www.gnxp.com/blog/2007/07/quick-links.php) here on “conspicuous altruism” and signaling. It’s a good account of the research, but I feel like some of the ideas are getting mixed up. The Economist sums up Geoff Miller’s “mating mind” theory thusly:
 
-> Dr Miller, who works at the University of New Mexico, thinks that > mental processes which are uniquely human, such as language and the > ability to make complicated artefacts, evolved originally for sexual > display.
+> Dr Miller, who works at the University of New Mexico, thinks that mental processes which are uniquely human, such as language and the ability to make complicated artefacts, evolved originally for sexual display.
 
 The experiments then described don’t really have much to do with that theory, as far as I can tell. Here’s the summary of the results:
 
-> The sexes do, indeed, have different strategies for showing off. > Moreover, they do not waste their resources by behaving like that all > the time. Only when it counts sexually are men profligate and women > helpful…Romantically primed men wanted to buy items that they could > wear or drive, rather than things to be kept at home. Their motive, > therefore, was not mere acquisitiveness. Similarly, romantically > primed women volunteered for activities such as working in a shelter > for the homeless, rather than spending an afternoon alone picking up > rubbish in a park. For both sexes, however, those in an unromantic > mood were indifferent to the public visibility of their choices.
+> The sexes do, indeed, have different strategies for showing off. > Moreover, they do not waste their resources by behaving like that all > the time. Only when it counts sexually are men profligate and women > helpful…Romantically primed men wanted to buy items that they could > wear or drive, rather than things to be kept at home. Their motive, > therefore, was not mere acquisitiveness. Similarly, romantically > primed women volunteered for activities such as working in a shelter for the homeless, rather than spending an afternoon alone picking up rubbish in a park. For both sexes, however, those in an unromantic mood were indifferent to the public visibility of their choices.
 
 This is an interesting result, but what does it have to do with the evolution of language or “human-ness”?
 

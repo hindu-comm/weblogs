@@ -13,7 +13,7 @@ No more “observational studies”!!!!
 
 Now, [Red Meat Increases Risk of Dying From 9 Diseases](https://www.nytimes.com/2017/05/15/well/eat/red-meat-increases-risk-of-dying-from-9-diseases.html?mabReward=CTM2&recp=1&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine):
 
-> **“This is an observational study,”** said the lead author, Arash > Etemadi, an epidemiologist with the National Cancer Institute, “and we > can’t determine whether red meat is responsible for these > associations. But we have a 16-year follow-up, and we had the numbers > to look at different causes, and we can see that it’s happening” for > many causes of death.
+> **“This is an observational study,”** said the lead author, Arash > Etemadi, an epidemiologist with the National Cancer Institute, “and we > can’t determine whether red meat is responsible for these associations. But we have a 16-year follow-up, and we had the numbers to look at different causes, and we can see that it’s happening” for many causes of death.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/41WL2k247L._SX334_BO1204203200_.jpg?resize=150%2C223)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/41WL2k247L._SX334_BO1204203200_.jpg?resize=150%2C223)](https://www.amazon.com/exec/obidos/ASIN/046502324X/geneexpressio-20)You lost me at observational study. Observational studies are fine in theory. But in practice in fields like nutrition they’re worthless, because it’s all about making news, or pushing a particular health agenda.
 

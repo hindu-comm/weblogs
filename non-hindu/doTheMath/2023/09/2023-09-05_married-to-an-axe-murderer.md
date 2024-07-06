@@ -48,7 +48,11 @@ Anyway, it’s a bit of a sad confirmation of our culture’s human supremacist 
 
 I’ll say this: after the ordeal with the axe-murderer is over, you’ll ask better questions on future first dates! In the post-modernity case, those questions might be:
 
-1.  Do you elevate humans above the rest of nature, or put the entire community of life first? 2.  Are you more attracted to hubris or to humility? 3.  Do you promote growth, or place more value on long-term sustainability? 4.  What are your control issues? Do you seek ultimate mastery or do you humbly accept limits? 5.  Do you support legal ownership of land (and its life and resources), or see Earth as a gift to the entire community of life, to be shared?
+1.  Do you elevate humans above the rest of nature, or put the entire community of life first?
+2.  Are you more attracted to hubris or to humility?
+3.  Do you promote growth, or place more value on long-term sustainability?
+4.  What are your control issues? Do you seek ultimate mastery or do you humbly accept limits?
+5.  Do you support legal ownership of land (and its life and resources), or see Earth as a gift to the entire community of life, to be shared?
 
 Any affirmation of the first halves should constitute instant disqualification. No more monsters!
 

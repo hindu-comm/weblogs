@@ -13,8 +13,8 @@ The law of reversion to type as cultural illusion
 
 A [comment below](http://blogs.discovermagazine.com/gnxp/2012/08/open-thread-882012/#comment-148735):
 
-> Does the higher genetic diversity in sub-Saharan Africans explain > **why mixed children of blacks + other couples usually look more black > than anything?** >
-> As in, the higher number of genetic characteristics overwhelms those > of the other parent and allows them to be present in the child.
+> Does the higher genetic diversity in sub-Saharan Africans explain **why mixed children of blacks + other couples usually look more black than anything?** >
+> As in, the higher number of genetic characteristics overwhelms those of the other parent and allows them to be present in the child.
 
 But this makes you ask: is the assumption that people with some African heritage tend to exhibit that heritage disproportionately even true? From an American perspective the answer is obviously yes. But from a non-American perspective [not always](http://scienceblogs.com/gnxp/2007/11/26/mixedrace-but-homogeneous-appe/). Why? Doe the laws of genetics operate differently for Americans and non-Americans? I doubt t. Rather, [hypodescent](https://en.wikipedia.org/wiki/Hypodescent), and its undergirding principle of the “reversion to the primitive type” are still background assumptions of American culture. In fact today [black Americans](http://abcnews.go.com/Health/halle-berry-cites-drop-rule-daughter-black-white/story?id=12869789) are perhaps most aggressive and explicit in outlining the logic and implications of the “one drop rule,” though non-blacks tend to accept it as an operative principle as well.
 
@@ -40,7 +40,8 @@ The moral of the story is that when we talk about human population differences w
 
 ### Related Posts:
 
-- [African IQs](https://www.gnxp.com/WordPress/2007/03/07/african-iqs/) - [Is Barack
+- [African IQs](https://www.gnxp.com/WordPress/2007/03/07/african-iqs/)
+- [Is Barack
   black?](https://www.gnxp.com/WordPress/2007/02/12/is-barack-black/) - [Who are the cultural
   integrators?](https://www.gnxp.com/WordPress/2009/06/02/who-are-the-cultural-integrators/) - [Copy Number Variation in African
   Americans](https://www.gnxp.com/WordPress/2009/03/30/copy-number-variation-in-african-americans/) - [The mixed race

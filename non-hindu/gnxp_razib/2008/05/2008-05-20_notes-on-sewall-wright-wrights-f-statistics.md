@@ -11,7 +11,7 @@ Notes on Sewall Wright: Wright’s F-statistics
 
 [Notes on Sewall Wright: Wright’s F-statistics](https://www.gnxp.com/blog/2008/05/notes-on-sewall-wright-wrights-f.php):
 
-> A preliminary question is one of terminology. What, if anything, does > the letter ‘F’ stand for? One plausible answer is that it stands for > ‘fixation’, since among other things the F-statistics can be used to > measure the rate at which alleles tend to be ‘fixed’. Wright himself > in his later writings sometimes refers to F as an ‘index of fixation’.
+> A preliminary question is one of terminology. What, if anything, does > the letter ‘F’ stand for? One plausible answer is that it stands for ‘fixation’, since among other things the F-statistics can be used to measure the rate at which alleles tend to be ‘fixed’. Wright himself in his later writings sometimes refers to F as an ‘index of fixation’.
 
 Believe it or not, F_(st) is one of thos population genetic concepts you’ve almost certainly encountered no matter your background.  
 **Related:** [On Reading Wright](https://www.gnxp.com/blog/2007/03/on-reading-wright.php), [Notes on Sewall Wright: Path Analysis](https://www.gnxp.com/blog/2008/03/notes-on-sewall-wright-path-analysis.php) and [Notes on Sewall Wright: the Measurement of Kinship](https://www.gnxp.com/blog/2008/04/notes-on-sewall-wright-measurement-of.php).

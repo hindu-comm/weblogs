@@ -11,7 +11,7 @@ Correlation between wine quality and price negative?
 
 A new working paper, [Do More Expensive Wines Taste Better? Evidence from a Large Sample of Blind Tastings](http://ageconsearch.umn.edu/bitstream/37328/2/AAWE_WP16.pdf). After some regressions:
 
-> In sum, in a large sample of blind tastings, we find that the > correlation between price and overall rating is small and negative. > Unless they are experts, individuals on average enjoy more expensive > wines slightly less. Our results suggest that both price tags and > expert recommendations may be poor guides for non-expert wine > consumers who care about the intrinsic qualities of the wine.
+> In sum, in a large sample of blind tastings, we find that the > correlation between price and overall rating is small and negative. > Unless they are experts, individuals on average enjoy more expensive wines slightly less. Our results suggest that both price tags and expert recommendations may be poor guides for non-expert wine consumers who care about the intrinsic qualities of the wine.
 
 You already know this, but can’t hurt to repeat in these times when we are all aware of the economic reality of scarcity…. (H/T [Robin Hanson).](http://www.overcomingbias.com/2008/11/cheap-wine-tast.html)
 

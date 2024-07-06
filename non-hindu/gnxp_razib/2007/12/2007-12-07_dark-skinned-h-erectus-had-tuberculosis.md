@@ -11,11 +11,11 @@ Dark-skinned H. erectus had tuberculosis?
 
 [Most ancient case of tuberculosis found in 500,000-year-old human; points to modern health issues](http://www.eurekalert.org/pub_releases/2007-12/uota-mac120407.php):
 
-> Although most scientists believe tuberculosis emerged only several > thousand years ago, new research from The University of Texas at > Austin reveals the most ancient evidence of the disease **has been > found in a 500,000-year-old human fossil from Turkey.**  
+> Although most scientists believe tuberculosis emerged only several thousand years ago, new research from The University of Texas at Austin reveals the most ancient evidence of the disease **has been found in a 500,000-year-old human fossil from Turkey.**  
 > …  
-> The research team identified two shared characteristics in the > communities: a path of migration from low, tropical latitudes to > northern temperate regions and darker skin color.  
-> People with dark skin produce less vitamin D because the skin pigment > melanin blocks ultraviolet light. And, when they live in areas with > lower ultraviolet radiation such as Europe, **their immune systems can > be compromised.**  
-> **It is likely that Homo erectus had dark skin because it evolved in > the tropics, Kappelman explained.** After the species moved north, it > had to adapt to more seasonal climates. The researchers hypothesize > the young male’s body produced less vitamin D and this deficiency > weakened his immune system, opening the door to tuberculosis.
+> The research team identified two shared characteristics in the communities: a path of migration from low, tropical latitudes to northern temperate regions and darker skin color.  
+> People with dark skin produce less vitamin D because the skin pigment melanin blocks ultraviolet light. And, when they live in areas with lower ultraviolet radiation such as Europe, **their immune systems can be compromised.**  
+> **It is likely that Homo erectus had dark skin because it evolved in > the tropics, Kappelman explained.** After the species moved north, it had to adapt to more seasonal climates. The researchers hypothesize the young male’s body produced less vitamin D and this deficiency weakened his immune system, opening the door to tuberculosis.
 
   
 The point about dark-skinned people and weaker immune systems due to Vitamin D deficiency is well taken. I’ve [blogged](https://www.google.com/search?q=vitamin+D+deficiency&btnG=Search!&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) Vitamin D deficiency before. I find it interesting because I am curious about its role in the [evolution of human skin color](https://www.google.com/search?hl=en&domains=scienceblogs.com%2Fgnxp&q=skin+color&btnG=Search&sitesearch=scienceblogs.com%2Fgnxp). It seems that many Eurasian populations have become much lighter skinned within the last 10,000, and I’ve wondered why. For example, imagine that infectious diseases became a bigger selective pressure as population densities increased due to agriculture. Additionally, with agriculture the range of nutrient deficiencies, including of Vitamin D, would also loom larger with a less varied diet. Perhaps this was a selective environment which shifted these populations toward rapid depigmentation as an adaptive response?  
@@ -25,7 +25,8 @@ But, I do have to offer that the hypothesis that Eurasian *Homo erectus* suffere
 
 ### Related Posts:
 
-- [Maybe it's agriculture - skin color
+- [Maybe it's agriculture
+- skin color
   edition....](https://www.gnxp.com/WordPress/2007/10/02/maybe-its-agriculture-skin-color-edition/) - [Genghis Khan and his hordes of Mycobacterium
   tuberculosis](https://www.gnxp.com/WordPress/2005/09/27/genghis-khan-and-his-hordes-of-mycobacterium-tuberculosis/) - [Skin color & sexual
   selection](https://www.gnxp.com/WordPress/2006/04/20/skin-color-sexual-selection/) - [Vitamin D: why evolution may

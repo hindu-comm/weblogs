@@ -11,7 +11,7 @@ The Bush Boom: How a Misunderestimated President Fixed a Broken Economy
 
 One of the great things about the internet is that you can always look back. See the [5 star reviews](https://www.amazon.com/Bush-Boom-Misunderestimated-President-Economy/review/product/1594670870/ref=cm_cr_dp_hist_5?ie=UTF8&showViewpoints=0&filterBy=addFiveStar) for [The Bush Boom: How a Misunderestimated President Fixed a Broken Economy](https://www.amazon.com/exec/obidos/ASIN/1594670870/geneexpressio-20). Pretty funny. Here’s a sample:
 
-> Jeff and Larry have written a volume destined to stand alongside “The > Hoover Miracle” and “Lyndon Johnson: Triumph in Vietnam”. If you have > to buy one book about a nonexistent phenonmenon this year, this is it. > In the bizarro world there really is a Bush boom. But over there Larry > Kudlow is a vegan with a ponytail delivering tofu pizzas for minimum > wage.
+> Jeff and Larry have written a volume destined to stand alongside “The > Hoover Miracle” and “Lyndon Johnson: Triumph in Vietnam”. If you have > to buy one book about a nonexistent phenonmenon this year, this is it. In the bizarro world there really is a Bush boom. But over there Larry Kudlow is a vegan with a ponytail delivering tofu pizzas for minimum wage.
 
 That’s a review which came out when the book was published in October of 2003, so this isn’t second-guessing.
 

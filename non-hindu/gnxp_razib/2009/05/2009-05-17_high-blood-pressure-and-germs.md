@@ -11,7 +11,7 @@ High blood pressure and germs?
 
 [High Blood Pressure Could Be Caused By A Common Virus, Study Suggests](http://www.sciencedaily.com/releases/2009/05/090514221915.htm):
 
-> A new study suggests for the first time that cytomegalovirus (CMV), a > common viral infection affecting between 60 and 99 percent of adults > worldwide, is a cause of high blood pressure, a leading risk factor > for heart disease, stroke and kidney disease.
+> A new study suggests for the first time that cytomegalovirus (CMV), a common viral infection affecting between 60 and 99 percent of adults worldwide, is a cause of high blood pressure, a leading risk factor for heart disease, stroke and kidney disease.
 
 Interesting in light of [Jean-Laurent Casanova’s](http://www.hhmi.org/research/scholars/casanova.html) research program on genetic susceptibilities to infectious disease. The original paper is [here](http://www.plospathogens.org/article/info:doi/10.1371/journal.ppat.1000427). If many more diseases turn out to be contingent upon infection can the hypochondriacs please get a little more sympathy?
 

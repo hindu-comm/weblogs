@@ -89,13 +89,13 @@ The Sevuna attack against Ucchangi kept rankling in Vira Someshwara’s mind. Wh
 
 However, it was Kunjanambi Setti’s timely and virtuous intervention that averted this potential battle and prevented further, needless Hindu bloodshed. More than his skill and knowledge and business acumen, this singular act of refined diplomacy earned him universal acclaim. This is how the inscription praises him:
 
-> Pleasing both the Hoysala emperor in the south, and Sevuna himself in > the north, he formed an alliance between the two kings which was > universally praised, and obtained credit in negotiating for peace and > war. He was an embodiment of perfect truth (satyavakya) and an > ornament of mercy. Kunjanambi was a Vidyadhara in counsel.
+> Pleasing both the Hoysala emperor in the south, and Sevuna himself in > the north, he formed an alliance between the two kings which was universally praised, and obtained credit in negotiating for peace and war. He was an embodiment of perfect truth (satyavakya) and an ornament of mercy. Kunjanambi was a Vidyadhara in counsel.
 
 The term *Vidyādhara* literally means “wisdom-holder.” In the Sanatana epic and Puranic literature, Vidyādharas are a group of supernatural beings (what are known as demigods or *Upa-devās*) who possess magical powers. Their traits typically include gazing at human prowess with astonishment, strewing flowers while watching a combat and rejoicing with music and laughter. They are crowned with wreaths and are universally praised for being the “doers of good and devoted to *Ananda* or joy.”
 
 Whether or not Kunjanambi Setti was endowed with magical powers, his diplomatic triumph was certainly exemplary. Sadly, no details of *how* he accomplished the feat are available in the inscription. A measure of the esteem that Vira Someshwara held him in can be gleaned from this gushing mention:
 
-> He obtained extensive merit, so that no Setti was equal to Kunjanambi > throughout the Hoysala kingdom. An emperor of justice, honoured in the > great Hoysala kingdom, of kind speech, a tree of plenty in natural > wisdom, delighting in truth, thus did all the world unceasingly extol > Kunjanambi-Setti as a collection of unnumbered good qualities.
+> He obtained extensive merit, so that no Setti was equal to Kunjanambi > throughout the Hoysala kingdom. An emperor of justice, honoured in the great Hoysala kingdom, of kind speech, a tree of plenty in natural wisdom, delighting in truth, thus did all the world unceasingly extol Kunjanambi-Setti as a collection of unnumbered good qualities.
 
 Neither was Kunjanambi alone in this exceeding virtue. His entire family and lineage outdid one another in piety and righteousness.
 
@@ -120,7 +120,7 @@ And all the Brahmanas of the Damodara-Agrahāra, which is Nāgarahaḷḷi, made
 
 Kandanambi Setti’s daughter Chandavve, was appointed as the *Oḍeyaḷu* (chief trustee) of the temple in an elaborate ceremony. The ceremonial details are noteworthy. Chandavve was granted a *Hombaḷi* land (tax-free land such as an endowment, etc) and the transaction was ratified with
 
-> …pouring of water in the presence of the God…and in the presence of > Rudrasakti, the Raja-Guru of Dorasamudra, the capital of Tribhuvana > \[i.e., the Three Worlds\] and in the presence of the Kampanacharya of > the 120 temple priests and of numberless Mahāgaṇaṅgaḷu \[i.e., > Shaiva-Jangamas\] and in the presence of all the subjects, farmers and > priests of Muttana-Hosavūru.The Raja-Guru, the 120 temple priests and > the numberless Mahāgaṇaṅgaḷu and all the people of Arasiyakere, in a > unified voice, bound upon Chandavve the Vibhūti-paṭṭa or crown of > authority. She was given the rank of a Gaṇa-Kumari \[literally, > “princess or daughter of the Gaṇas\]. She was also granted the Maṭha > dues and all the other dues payable to this temple, free of all > imposts, to continue as long as the sun, moon and sky.
+> …pouring of water in the presence of the God…and in the presence of > Rudrasakti, the Raja-Guru of Dorasamudra, the capital of Tribhuvana > \[i.e., the Three Worlds\] and in the presence of the Kampanacharya of > the 120 temple priests and of numberless Mahāgaṇaṅgaḷu \[i.e., > Shaiva-Jangamas\] and in the presence of all the subjects, farmers and > priests of Muttana-Hosavūru.The Raja-Guru, the 120 temple priests and > the numberless Mahāgaṇaṅgaḷu and all the people of Arasiyakere, in a > unified voice, bound upon Chandavve the Vibhūti-paṭṭa or crown of > authority. She was given the rank of a Gaṇa-Kumari \[literally, “princess or daughter of the Gaṇas\]. She was also granted the Maṭha dues and all the other dues payable to this temple, free of all imposts, to continue as long as the sun, moon and sky.
 
 The temple is known as the Kunjeshwara Temple.
 
@@ -132,13 +132,13 @@ Muttana-hosavūru is the Hiriyur village, about 12 kilometres from Arasikere.
 
 HERE IS THE PORTRAIT of Muttana-hosavūru as described by the inscription:
 
-> In the Hoysala country which was daily increasing in prosperity, a > place of great good fortune was Muttana-Hosavūru. There hunger was > unknown to the people, so abundant were the crops. The bees knew not > hunger, such were the bountiful flowers. The birds knew no hunger on > account of the abundance of woods. This was the favourable residence > known as Muttana-Hosavūru. Its moat was as deep as the Serpent King’s > city, and its golden fort walls rose higher than the clouds — what can > I say of its glory? Equal to Indra’s town, or to Dhanada’s city > (Kubera’s Capital), or to Vishnu’s town, was Muttana-Hosavūru with > lines of lofty houses and many different temples.
+> In the Hoysala country which was daily increasing in prosperity, a > place of great good fortune was Muttana-Hosavūru. There hunger was > unknown to the people, so abundant were the crops. The bees knew not > hunger, such were the bountiful flowers. The birds knew no hunger on > account of the abundance of woods. This was the favourable residence > known as Muttana-Hosavūru. Its moat was as deep as the Serpent King’s > city, and its golden fort walls rose higher than the clouds — what can I say of its glory? Equal to Indra’s town, or to Dhanada’s city (Kubera’s Capital), or to Vishnu’s town, was Muttana-Hosavūru with lines of lofty houses and many different temples.
 
 Today it is a decrepit village, sharing its neglected fate of being one among the countless meaningless dots on a map. Its name, Hiriyur (literally, “elder or big town”) too, has been overshadowed by its namesake near Chitradurga.
 
 As for the Kunjeshwara Temple, its most recent mention that I was able to find was in an *Indian Archaeology Review* dated 1978-79. This is how it reads:
 
-> Three temples, of which the Kunjesvara temple, built in A.D. 1255, > consisting of two garbhagrihas, navaranga and mukhamandapa and a small > shrine by the side of it and Siddhesvara temple of tri-kuta type with > three garbhagrihas and a navaranga, and three inscriptions, all > belonging to Hoysala period, were noticed at Hiruyur, a prosperous > town in the Hoysala period and known as Muttana-Hosavuru in Arsikere > Taluk of District Hassan.
+> Three temples, of which the Kunjesvara temple, built in A.D. 1255, > consisting of two garbhagrihas, navaranga and mukhamandapa and a small > shrine by the side of it and Siddhesvara temple of tri-kuta type with > three garbhagrihas and a navaranga, and three inscriptions, all belonging to Hoysala period, were noticed at Hiruyur, a prosperous town in the Hoysala period and known as Muttana-Hosavuru in Arsikere Taluk of District Hassan.
 
 I am unsure if the temple still stands there and I’d be more than delighted to learn that it does still stand.
 

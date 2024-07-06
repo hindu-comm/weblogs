@@ -554,25 +554,36 @@ The more small bets, the longer the Survivorship runway. The more solid network 
 
 🔸 We also have an exciting lineup of live guest classes coming up in the coming weeks. These are all 100% free for all [members](https://www.smallbets.co/) of the community:
 
--   Mar 17 - [Benjamin Carlson](https://twitter.com/bfcarlson) - **How
+-   Mar 17
+- [Benjamin Carlson](https://twitter.com/bfcarlson)
+- **How
     to Get The Attention of Highly Influential People**
 
--   Mar 23 - [Daniel Vassallo](https://twitter.com/dvassallo) -
+-   Mar 23
+- [Daniel Vassallo](https://twitter.com/dvassallo) -
     **Gumroad Crash Course**
 
--   Mar 28 - [Catherine Cusick](https://twitter.com/CusickCatherine) -
+-   Mar 28
+- [Catherine Cusick](https://twitter.com/CusickCatherine) -
     **What to expect when you go self-employed**
 
--   Apr 3 - [Espree Devora](https://twitter.com/EspreeDevora) - **The
+-   Apr 3
+- [Espree Devora](https://twitter.com/EspreeDevora)
+- **The
     Art of Podcasting**
 
--   Apr 5 - [Sean O'Dowd](https://twitter.com/SeanODowd15) - **Make $500
+-   Apr 5
+- [Sean O'Dowd](https://twitter.com/SeanODowd15)
+- **Make $500
     on Upwork by Monday**
 
--   Apr 11 - [Peter Askew](https://twitter.com/searchbound) - **Domain
+-   Apr 11
+- [Peter Askew](https://twitter.com/searchbound)
+- **Domain
     First Development**
 
--   Apr 25 - [Justin Welsh](https://twitter.com/thejustinwelsh) -
+-   Apr 25
+- [Justin Welsh](https://twitter.com/thejustinwelsh) -
     **Understanding LinkedIn**
 
 <div>

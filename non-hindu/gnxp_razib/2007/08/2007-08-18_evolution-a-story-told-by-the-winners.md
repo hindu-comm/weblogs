@@ -13,7 +13,7 @@ I had what I seemed to me like an interesting thought when I read [this](http://
 
 From [the link](http://scienceblogs.com/gnxp/2007/08/grandfather_hypothesis_rejecte.php):
 
-> *Finally, that we failed to find a significant grandfather effect in > our monogamous society in which we restricted our data to those men > who married only once in their lifetimes (and hence could only gain > fitness by grandfathering after the menopause of their wife) strongly > suggests that the evolution of prolonged life in men cannot be > explained by the selective benefits of grandfathering.*
+> *Finally, that we failed to find a significant grandfather effect in > our monogamous society in which we restricted our data to those men > who married only once in their lifetimes (and hence could only gain fitness by grandfathering after the menopause of their wife) strongly suggests that the evolution of prolonged life in men cannot be explained by the selective benefits of grandfathering.*
 
 My thought, as I expressed in the comments of that post, was that average fitness is not particularly meaningful, since a relatively small number of males at the top of the social pyramid probably had a disproportionate evolutionary impact – what really counts is the grandfather effect among *them*. I can easily imagine a scenario where grandfathers decrease fertility of ordinary families (another mouth to feed…), but increase it among the rich. The long-term fitness impact of grandfathers could well be positive, even though the average impact is negative, since the rich have the biggest long-term evolutionary impact.
 

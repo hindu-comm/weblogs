@@ -11,7 +11,7 @@ I don't get political punditry
 
 [Palin’s Move Shocks G.O.P. and Leaves Future Unclear](http://www.nytimes.com/2009/07/04/us/politics/04palin.html?hp=&pagewanted=print):
 
-> Many Republican strategists have argued that **it would be difficult > for someone to run for governor in 2010 and turn around immediately, > while running a state, and run for president in 2012.** Gov. Tim > Pawlenty of Minnesota announced last month that he would not seek > re-election when his term expired in 2010, as he considers a race for > president.
+> Many Republican strategists have argued that **it would be difficult > for someone to run for governor in 2010 and turn around immediately, > while running a state, and run for president in 2012.** Gov. Tim Pawlenty of Minnesota announced last month that he would not seek re-election when his term expired in 2010, as he considers a race for president.
 
 George W. Bush was reelected in Texas in 1998 and ran for president in 2000. Is that so exceptional? Or are there other variables at play? And if so, why is this variable so important? (I’ve seen this assertion elsewhere) I’m not steeped in political history, but I note that [F.D.R.](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt#Governor_of_New_York.2C_1929.E2.80.931932) won the governor’s mansion of New York in 1930, before running for president in 1932.  
 It seems in regard to Sarah Palin no one really knows what’s going on right now. So all the speculation and analysis reminds me of someone who didn’t do background reading for their final in class bluebook test and is producing a stream of total crap in the hopes that the professor will deign to pass them.

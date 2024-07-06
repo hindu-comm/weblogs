@@ -13,7 +13,7 @@ In my last piece on Vivien Leigh (a few entries below) I suggested that the key 
 
 In comments on my post there were some genealogy links, and in one of these I noticed the variant spelling Yackchee. That led me to this entry for a wedding in Bengal in 1911:
 
-> COOK – YACKCHEE, March 22nd 1911, at St Thomas Church Middleton R W., > by the Rev Fr Van-de-Murgal S.J., Henry Mitton Cook, of Mitcham, > Surrey, England to Ellen Maude, youngest daughter of J.P. Yakchee, > late Registrar, Board of Revenue, L.P. 32 Theatre Road, Calcutta.
+> COOK – YACKCHEE, March 22nd 1911, at St Thomas Church Middleton R W., by the Rev Fr Van-de-Murgal S.J., Henry Mitton Cook, of Mitcham, Surrey, England to Ellen Maude, youngest daughter of J.P. Yakchee, late Registrar, Board of Revenue, L.P. 32 Theatre Road, Calcutta.
 
 But I noticed that in this entry the name was also spelled Yakchee, so I Googled on that spelling and immediately got numerous results.
 

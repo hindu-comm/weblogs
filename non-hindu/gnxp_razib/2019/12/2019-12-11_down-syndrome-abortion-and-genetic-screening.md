@@ -15,7 +15,7 @@ Well, Antonio Regalado was on it, and he came back with this: [Here are some act
 
 Nevertheless, some people still worried about a “slippery slope.” **To me, this whole discussion is very bizarre in light of the widespread abortion of fetuses which come back with positive tests for Down syndrome *right now*.** These screens are so ubiquitous that the majority of the women who receive them in the United States are now under the age of 35. [Maternal age trends support uptake of non-invasive prenatal testing (NIPT) in the low-risk population](https://www.tandfonline.com/doi/full/10.1080/14767058.2018.1481033?af=R):
 
-> There was a significant increase in the proportion of specimens > submitted by patients under 35, from 47.3% in 2014 to 60.3% in 2017 > (Chi-square test, p \< .001).
+> There was a significant increase in the proportion of specimens submitted by patients under 35, from 47.3% in 2014 to 60.3% in 2017 (Chi-square test, p \< .001).
 
 Ariosa Diagnostics alone received over 900,000 samples over a 4-year period from 65 countries. Some nations, such as [Denmark](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/aogs.13273), now have universal screening for Down syndrome.
 

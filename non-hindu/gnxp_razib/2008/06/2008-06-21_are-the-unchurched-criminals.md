@@ -11,7 +11,7 @@ Are the unchurched criminals?
 
 [43% of young men who never go to church have a record](https://inductivist.blogspot.com/2008/06/43-of-young-men-who-never-go-to-church.html), according to the [Inductivist](https://inductivist.blogspot.com/2008/06/43-of-young-men-who-never-go-to-church.html):
 
-> The same kind of pattern holds here. For men, 43% of those who never > go to church have been arrested, while only 13% of the most frequent > attenders have. The corresponding percentages for females is 14% and > 8%.
+> The same kind of pattern holds here. For men, 43% of those who never go to church have been arrested, while only 13% of the most frequent attenders have. The corresponding percentages for females is 14% and 8%.
 
 The results are from the GSS. The main question I would have are the affects of the background environment; in many socially conservative environments the expectation of involvement in a church is very strong and unchurched status could be a signal for anti-social tendencies. I know whereof I speak, I grew up for a while in a 3/4 Republican 99% white region of the Mountain West and those who were unchurched were often those who were “up to no good” (a small minority were secular liberals, but only a very small minority). My own prediction would be that this would be a more common phenomenon in a very religious country like the United States.
 

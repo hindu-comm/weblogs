@@ -15,17 +15,17 @@ I don’t care about Strunk & White
 Here’s a recent comment that I trashed:
 
 > Dear Mr Khan: >
-> I offer to you this friendly advice: Proofread your work much more > slowly and carefully than you do now. You are doubtless an intelligent > man, but your English (clearly not your mother tongue, as one would > expect of a South Asian) needs a lot more polishing than you seem to > think. >
+> I offer to you this friendly advice: Proofread your work much more > slowly and carefully than you do now. You are doubtless an intelligent man, but your English (clearly not your mother tongue, as one would expect of a South Asian) needs a lot more polishing than you seem to think. >
 > Cases in point:  
 > “Lines on a map does \[sic\] not an equivalency make.”  
 > “…in the states of Punjab, West Bengali \[sic\]…”  
-> “…the fertility in the BIMARU states is in the range as \[sic\] > Pakistan…”  
-> “…Guanyin is pervasive across Chinese the breadth of civilization > \[sic\]…”  
+> “…the fertility in the BIMARU states is in the range as \[sic\] Pakistan…”  
+> “…Guanyin is pervasive across Chinese the breadth of civilization \[sic\]…”  
 > “This does not mean that modeling them in \[sic\] intractable…”  
-> “…it manifests in more conventional class, sect, and ethnic lines > \[sic\]…”  
+> “…it manifests in more conventional class, sect, and ethnic lines \[sic\]…”  
 > “…and it is disappears \[sic\] without the foundational support.”  
 > “…even though though \[sic\] it is embedded in their customs.” >
-> Not to be too cruel, but your writing suffers a bit from the > all-too-Indian vice of excessive wordiness: Why use fifteen words > where twenty will serve as well? Betake thyself unto a used book store > in the Amazon; there seek and find Strunk and White’s Elements of > Style (it’s time someone clued you in). >
+> Not to be too cruel, but your writing suffers a bit from the > all-too-Indian vice of excessive wordiness: Why use fifteen words where twenty will serve as well? Betake thyself unto a used book store in the Amazon; there seek and find Strunk and White’s Elements of Style (it’s time someone clued you in). >
 > Warmest regards, >
 > Mr Chips
 

@@ -22,7 +22,9 @@ Posted by A. Beaujean at [09:27 PM](https://www.gnxp.com/MT2/archives/004001.htm
 
 ### Related Posts:
 
-- [Ivory Cower](https://www.gnxp.com/WordPress/2005/09/27/ivory-cower/) - ["Diversity"](https://www.gnxp.com/WordPress/2006/11/10/diversity/) - [Diversity Training in
+- [Ivory Cower](https://www.gnxp.com/WordPress/2005/09/27/ivory-cower/)
+- ["Diversity"](https://www.gnxp.com/WordPress/2006/11/10/diversity/)
+- [Diversity Training in
   Action](https://www.gnxp.com/WordPress/2006/11/05/diversity-training-in-action/) - [Is 50% "mostly" in journalism
   school?](https://www.gnxp.com/WordPress/2014/06/27/is-50-mostly-in-journalism-school/) - [Daily Data Dump -
   Monday](https://www.gnxp.com/WordPress/2010/07/26/daily-data-dump-monday-10/) - [Tenure and the intellectual

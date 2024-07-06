@@ -20,7 +20,7 @@ You can find the [files here](ftp://ftp.cephb.fr/hgdp_supp10/), at <ftp://ftp.ce
 
 Finally, Nick adds an important caution:
 
-> We hope that this array, and the HGDP data we have produced will be a > major resource for population genetic studies. The data are > undoubtedly complicated, (13 different ascertainment schemes (!)) and > users should read the technical documentation, and especially the > short readme file. In particular note that the ancient DNA alleles are > not high quality (especially the Neandertal) and there are numerous > potential traps in analysis
+> We hope that this array, and the HGDP data we have produced will be a > major resource for population genetic studies. The data are > undoubtedly complicated, (13 different ascertainment schemes (!)) and > users should read the technical documentation, and especially the short readme file. In particular note that the ancient DNA alleles are not high quality (especially the Neandertal) and there are numerous potential traps in analysis
 
 ### Related Posts:
 

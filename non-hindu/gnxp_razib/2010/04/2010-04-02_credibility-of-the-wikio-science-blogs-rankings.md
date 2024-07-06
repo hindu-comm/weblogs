@@ -38,7 +38,8 @@ First, where’s [Pharyngula](http://scienceblogs.com/pharyngula/)? Like him or 
 
 ### Related Posts:
 
-- [Wikio](https://www.gnxp.com/WordPress/2009/08/05/wikio/) - [What do science bloggers blog
+- [Wikio](https://www.gnxp.com/WordPress/2009/08/05/wikio/)
+- [What do science bloggers blog
   about](https://www.gnxp.com/WordPress/2010/08/30/what-do-science-bloggers-blog-about/) - [Wired Science, a new science blogs
   network](https://www.gnxp.com/WordPress/2010/09/14/wired-science-a-new-science-blogs-network/) - [ScienceBlogs is shutting down at the end of the
   month](https://www.gnxp.com/WordPress/2017/10/22/scienceblogs-is-shutting-down-at-the-end-of-the-month/) - [Sheril Kirshenbaum's lateral meme

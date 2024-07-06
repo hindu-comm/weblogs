@@ -11,7 +11,7 @@ Who's your daddy???
 
 Via [Genetics and Health](http://www.geneticsandhealth.com/) I came across [this story](http://www.nytimes.com/2007/04/10/us/10dna.html?_r=1&oref=slogin&pagewanted=all):
 
-> But modern-day science often unearths secrets long buried. When the > DNA results landed on Isaac Owusu’s dinner table here last year, they > showed that only one of the four boys – the oldest – was his > biological child….
+> But modern-day science often unearths secrets long buried. When the DNA results landed on Isaac Owusu’s dinner table here last year, they showed that only one of the four boys – the oldest – was his biological child….
 
 I’m not interested in the details of the story (immigrants who find out their putative children aren’t their biological issue). Rather, whenever I bring up paternity I do note angry comments seem to emerge unbidden from regular readers who ordinarily seem placid. Why? The reality in the United States is that it is in the “child’s best interest” to have a father, and whoever gets “tagged” with fatherhood has a lifetime’s worth of bills. But I’m interested in some more “deep time” questions, because the issue of paternity is important to two threads we’ve discussed on this weblog of late: **facultative homosexuality and selection in pre and post Neolithic societies**.
 

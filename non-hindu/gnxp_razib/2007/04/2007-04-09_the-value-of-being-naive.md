@@ -11,8 +11,8 @@ The Value of Being Naive
 
 Go read [Hawks on Nisbet & Mooney](http://johnhawks.net/weblog/topics/meta/framing_laden_mooney_nisbet_2007.html):
 
-> This kind of cynical strategy is the province of used car salesmen and > other charlatans. And it’s easily exposed by any clever critic who > happens to be watching . . . >
-> My point isn’t that these critics are right, but that such criticisms > pretty much write themselves! A scientist trying to “frame” in this > way is going to end up discredited unless they retreat to the facts > anyway. This is, after all, why scientists are typically so cautious > in print — because they work in a field where bad arguments are > quickly torn apart by their critics. Why in the world would anyone > think politics would be any easier?
+> This kind of cynical strategy is the province of used car salesmen and other charlatans. And it’s easily exposed by any clever critic who happens to be watching . . . >
+> My point isn’t that these critics are right, but that such criticisms > pretty much write themselves! A scientist trying to “frame” in this > way is going to end up discredited unless they retreat to the facts > anyway. This is, after all, why scientists are typically so cautious in print — because they work in a field where bad arguments are quickly torn apart by their critics. Why in the world would anyone think politics would be any easier?
 
 This is pretty much right, and I just want to add that this is especially bad advice to give to scientists, because *scientists wouldn’t be scientists if they were really good salespeople*. Spinning is not their comparative advantage, and “fight the enemy on his own turf” is awful tactical advice. Scientists owe whatever respect and deference they’re given to the fact that they’re percieved as being interested primarily in the truth: their reputation for earnestness and lack of guile is a big part of their cred. The best way to get people to regard you as honest is to really be naively honest.
 

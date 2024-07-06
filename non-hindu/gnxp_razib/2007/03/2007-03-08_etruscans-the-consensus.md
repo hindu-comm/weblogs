@@ -13,17 +13,18 @@ As some of you know [I’ve lately posted](http://scienceblogs.com/gnxp/fastsear
 
 Page 44:
 
-> Virtually all archaeologists now agree that the evidence is > overwhelmingly in favour of the ‘indigenous’ theory of Etruscan > origins….
+> Virtually all archaeologists now agree that the evidence is overwhelmingly in favour of the ‘indigenous’ theory of Etruscan origins….
 
 Page 83:
 
-> …The overwhelming evidence of the archaeological record is that the > origins of Etruscan society lie fundamentally in the later prehistoric > communities of Etruria….
+> …The overwhelming evidence of the archaeological record is that the origins of Etruscan society lie fundamentally in the later prehistoric communities of Etruria….
 
 One book is not definitive, but, it is in keeping with the general bias of late 20th century archaeologist, and, what I have read in the historical literature. Myself, I assumed that the indigenous theory was of a higher likelihood until the recent data, and certainly the Etruscans were a hybrid peoples, genetically and culturally, even assuming an exogenous element (though the exogenous female lineages imply a folk wandering of some scale). But in any case, I do have to wonder about the abusive commenter. Either they were stupid, of they were lying. Or, Barker and Rasmussen don’t report the consensus accurately. I’ll probably look at a few other books just to make sure, but I can’t communicate how enraged I get at righteous commenters that either lie or don’t know they’re talking about. It wastes everyone’s time.
 
 ### Related Posts:
 
-- [Etruscans](https://www.gnxp.com/WordPress/2007/02/18/etruscans/) - [Etruscan genetics, a few nails in the
+- [Etruscans](https://www.gnxp.com/WordPress/2007/02/18/etruscans/)
+- [Etruscan genetics, a few nails in the
   coffin....](https://www.gnxp.com/WordPress/2008/12/03/etruscan-genetics-a-few-nails-in-the-coffin/) - [The Etruscans were
   indigenous](https://www.gnxp.com/WordPress/2021/09/24/the-etruscans-were-indigenous/) - [Lydians &
   Etruscans](https://www.gnxp.com/WordPress/2007/06/19/lydians-etruscans/) - [An Indo-Europeanist on

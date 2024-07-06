@@ -15,7 +15,8 @@ A very good read.
 
 ### Related Posts:
 
-- [Ivory Cower](https://www.gnxp.com/WordPress/2005/09/27/ivory-cower/) - [Steelers
+- [Ivory Cower](https://www.gnxp.com/WordPress/2005/09/27/ivory-cower/)
+- [Steelers
   win!](https://www.gnxp.com/WordPress/2009/02/01/steelers-win/) - [Molecular
   Genetics](https://www.gnxp.com/WordPress/2005/11/05/molecular-genetics/) - [True fact: white people tend to hang around other
   white…](https://www.gnxp.com/WordPress/2014/09/11/true-fact-white-people-tend-to-hang-around-other-white-people/) - [The Kindle

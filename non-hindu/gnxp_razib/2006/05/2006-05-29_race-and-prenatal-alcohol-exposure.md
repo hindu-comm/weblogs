@@ -13,11 +13,11 @@ A [new study](http://today.reuters.com/news/newsArticle.aspx?type=healthNews&sto
 
 Light to moderate drinking during the second trimester led to the most pronounced cognitive deficits at age 10. The catch is the effect was found only for the African-Americans in the study and not for the white children, suggesting that race differences may make alcohol drinking more harmful for the babies of African-American mothers:
 
-> No such association was found for Caucasian children in the study. > “This racial difference could not be explained by the amount or > pattern of drinking during pregnancy or socioeconomic factors,” > \[study chief Dr. Jennifer A.\] Willford told Reuters Health. This > suggests that genetics play a role in these racial differences, the > investigators add.
+> No such association was found for Caucasian children in the study. > “This racial difference could not be explained by the amount or > pattern of drinking during pregnancy or socioeconomic factors,” \[study chief Dr. Jennifer A.\] Willford told Reuters Health. This suggests that genetics play a role in these racial differences, the investigators add.
 
 [Also](http://www.eurekalert.org/pub_releases/2006-05/ace-lpa051806.php):
 
-> “Our study also showed that prenatal alcohol exposure was associated > with lower IQ for African-American but not Caucasian children, said > Willford. “Importantly, we know that this racial difference was not > due to differences in the amount or pattern of alcohol use during > pregnancy or by differences in socioeconomic status. We cannot say why > the racial difference exists, but laboratory animal and human studies > show that it may be partly explained by genetic factors.”
+> “Our study also showed that prenatal alcohol exposure was associated > with lower IQ for African-American but not Caucasian children, said > Willford. “Importantly, we know that this racial difference was not > due to differences in the amount or pattern of alcohol use during pregnancy or by differences in socioeconomic status. We cannot say why the racial difference exists, but laboratory animal and human studies show that it may be partly explained by genetic factors.”
 
 Levitt and Fryer type [sophism](http://www.marginalrevolution.com/marginalrevolution/2006/03/freaknomics_stu.html) using motor development scales aside, cognitive differences between African American and white children show up *very* early, and persist in a number of [transracial adoption studies](https://www.gnxp.com/MT2/archives/004064.html) (I’m collecting this research into an Ebook that I’ll release here on gnxp when it can be finished). So studies like this are at least getting warmer than “acting white” type mythologies.
 

@@ -369,24 +369,24 @@ This then, will give us a strong foundation to establish the aims of a mixed gov
 
 Now Aristotle holds these to be the definitions of liberty:
 
-> “A basic principle of the democratic constitution is liberty. People > constantly make this statement, implying that only in this > constitution do men share in liberty; for every democracy, they say, > has liberty for its aim. 'Ruling and being ruled in turn' is one > element in liberty, and the democratic idea of justice is in fact > numerical equality, not equality based on merit; and when this idea of > what is just prevails, the multitude must be sovereign, and whatever > the majority decides is final and constitutes justice. For, they say, > there must be equality for each of the citizens. The result is that in > democracies the poor have more sovereign power than the rich; for they > are more numerous, and the decisions of the majority are sovereign. So > this is one mark of liberty, one which all democrats make a definitive > principle of their constitution. Another is to live as you like. For > this, they say, is a function of being free, since its opposite, > living not as you like, is the function of one enslaved. This is the > second defining principle of democracy, and from it has come the ideal > of 'not being ruled', not by anyone at all if possible, or at least > only in alternation. This is a contribution towards that liberty which > is based on equality.” >
+> “A basic principle of the democratic constitution is liberty. People > constantly make this statement, implying that only in this > constitution do men share in liberty; for every democracy, they say, > has liberty for its aim. 'Ruling and being ruled in turn' is one > element in liberty, and the democratic idea of justice is in fact > numerical equality, not equality based on merit; and when this idea of > what is just prevails, the multitude must be sovereign, and whatever > the majority decides is final and constitutes justice. For, they say, > there must be equality for each of the citizens. The result is that in > democracies the poor have more sovereign power than the rich; for they > are more numerous, and the decisions of the majority are sovereign. So > this is one mark of liberty, one which all democrats make a definitive > principle of their constitution. Another is to live as you like. For > this, they say, is a function of being free, since its opposite, > living not as you like, is the function of one enslaved. This is the > second defining principle of democracy, and from it has come the ideal of 'not being ruled', not by anyone at all if possible, or at least only in alternation. This is a contribution towards that liberty which is based on equality.” >
 > -Aristotle, Politics, Book 6
 
 From these, we get three elements in liberty: To live as one likes, to not be ruled, and to rule and be ruled in turn. We shall see the last when we discourse about equality, but for now, let us turn to the first of these.
 
 Now to live as one likes means to not be impeded or compelled, as Epictetus puts it in his Discourses, beautifully illustrating it with the metaphor of the caged bird, which tries to escape its captivity, and in this process, injures itself or dies. Liberty is said to be something one guards with his life and if a free man is faced with inevitable servitude, he prefers to die than be subject to such a state, and these are the words he employs:
 
-> Now consider in the case of animals, how we employ the notion of > liberty. Men keep tame lions shut up, and feed them, and some take > them about; and who will say that this lion is free? Is it not the > fact that the more he lives at his ease, so much the more he is in a > slavish condition? and who if he had perception and reason would wish > to be one of these lions? Well, these birds when they are caught and > are kept shut up, how much do they suffer in their attempts to escape? > And some of them die of hunger rather than submit to such a kind of > life. And as many of them as live, hardly live and with suffering pine > away; and if they ever find any opening, they make their escape. So > much do they desire their natural liberty, and to be independent and > free from hindrance. And what harm is there to you in this? What do > you say? I am formed by nature to fly where I choose, to live in the > open air, to sing when I choose: you deprive me of all this, and say, > what harm is it to you? For this reason we shall say that those > animals only are free, which cannot endure capture, but as soon as > they are caught. escape from captivity by death. So Diogenes also > somewhere says that there is only one way to freedom, and that is to > die content: and he writes to the Persian king. You cannot enslave the > Athenian state any more than you can enslave fishes. How is that? > cannot I catch them? If you catch them, says Diogenes, they will > immediately leave you, as fishes do; for if you catch a fish, it dies; > and if these men that are caught shall die, of what use to you is the > preparation for war? These are the words of a free man who had > carefully examined the thing, and, as was natural, had discovered it. > But if you look for it in a different place from where it is, what > wonder if you never find it? >
+> Now consider in the case of animals, how we employ the notion of > liberty. Men keep tame lions shut up, and feed them, and some take > them about; and who will say that this lion is free? Is it not the > fact that the more he lives at his ease, so much the more he is in a > slavish condition? and who if he had perception and reason would wish > to be one of these lions? Well, these birds when they are caught and > are kept shut up, how much do they suffer in their attempts to escape? > And some of them die of hunger rather than submit to such a kind of > life. And as many of them as live, hardly live and with suffering pine > away; and if they ever find any opening, they make their escape. So > much do they desire their natural liberty, and to be independent and > free from hindrance. And what harm is there to you in this? What do > you say? I am formed by nature to fly where I choose, to live in the > open air, to sing when I choose: you deprive me of all this, and say, > what harm is it to you? For this reason we shall say that those > animals only are free, which cannot endure capture, but as soon as > they are caught. escape from captivity by death. So Diogenes also > somewhere says that there is only one way to freedom, and that is to > die content: and he writes to the Persian king. You cannot enslave the > Athenian state any more than you can enslave fishes. How is that? > cannot I catch them? If you catch them, says Diogenes, they will > immediately leave you, as fishes do; for if you catch a fish, it dies; > and if these men that are caught shall die, of what use to you is the > preparation for war? These are the words of a free man who had carefully examined the thing, and, as was natural, had discovered it. But if you look for it in a different place from where it is, what wonder if you never find it? >
 > Epictetus, Discourses, Book 4
 
 Such is agreed to by Sallust as well, in the conspiracy of Catiline:
 
-> “We desire only our liberty, which no honorable man relinquishes but > with life. We therefore conjure you and the senate to befriend your > unhappy fellow-citizens; to restore us the protection of the law, > which the injustice of the prætor has taken from us; and not to lay on > us the necessity of considering how we may perish, so as best to > avenge our blood." >
+> “We desire only our liberty, which no honorable man relinquishes but > with life. We therefore conjure you and the senate to befriend your > unhappy fellow-citizens; to restore us the protection of the law, which the injustice of the prætor has taken from us; and not to lay on us the necessity of considering how we may perish, so as best to avenge our blood." >
 > -Sallust, The Catiline Conspiracy
 
 Strabo, in his geography, tells us that:
 
-> The law-giver, says Ephorus, seems to lay, as the foundation of his > constitution, the greatest good that states can enjoy, namely, > liberty; for it is this alone which makes the property of every kind > which a man possesses his own; in a state of slavery it belongs to the > governor, and not to the governed. >
+> The law-giver, says Ephorus, seems to lay, as the foundation of his > constitution, the greatest good that states can enjoy, namely, liberty; for it is this alone which makes the property of every kind which a man possesses his own; in a state of slavery it belongs to the governor, and not to the governed. >
 > -Strabo, Geography, Book 10, Chapter 4
 
 Now it is held by some that liberty causes degeneration and that it has a licentious air to it. They hold that liberty causes communities to die out, that it causes individuals to become separated from their fellows, atomized and isolated.
@@ -397,31 +397,31 @@ Now, knowing that men are political animals since they live in states, forming a
 
 For this, Aristotle says:
 
-> “Whereas without free population and wealth there cannot be a state at > all, without justice and virtue it cannot be managed well” >
+> “Whereas without free population and wealth there cannot be a state at all, without justice and virtue it cannot be managed well” >
 > -Aristotle, Politics, Book 3
 
-> “What has come to prevail in democracies is the very reverse of > beneficial, in those, that is, which are regarded as the most > democratically run. The reason for this lies in the failure to > properly define liberty. For there are two marks by which democracy is > thought to be defined: 'sovereignty of the majority' and 'liberty'. > 'Just' is equated with what is equal, and the decision of the majority > as to what is equal is regarded as sovereign; and liberty is seen in > terms of doing what one wants. So in such a democracy each lives as he > likes and for his 'fancy of the moment', as Euripides says. This is > bad. It ought not to be regarded as slavery to live according to the > constitution, but rather as self-preservation.” >
+> “What has come to prevail in democracies is the very reverse of > beneficial, in those, that is, which are regarded as the most > democratically run. The reason for this lies in the failure to > properly define liberty. For there are two marks by which democracy is > thought to be defined: 'sovereignty of the majority' and 'liberty'. > 'Just' is equated with what is equal, and the decision of the majority > as to what is equal is regarded as sovereign; and liberty is seen in > terms of doing what one wants. So in such a democracy each lives as he likes and for his 'fancy of the moment', as Euripides says. This is bad. It ought not to be regarded as slavery to live according to the constitution, but rather as self-preservation.” >
 > Aristotle, Politics, Book 5
 
 Now from this, we see that maintaining a populace in liberty means having a statesman's rule over them, and not a master's or tyrant's rule, as Demosthenes tells us in the fourth Philippic. He differentiates despotic rule from statesman's rule, saying that in Athens, the men do not accept slavery over themselves, and they do not wish to be despots over others either, but wish to live in liberty and equality under the state. But, license is different from this, since as Aristotle tells us, the failure to properly define liberty leads to democratic constitutions being the opposite of beneficial, and why this happens, is a result of the education which is given to the members, and such bad examples that come from an ill considered education make all liberty look like license.
 
 Now on such examples, Machiavelli tells us that:
 
-> “Good examples arise from Good education, Good education from Good > laws, and Good laws from tumults that many inconsiderately damn” >
+> “Good examples arise from Good education, Good education from Good laws, and Good laws from tumults that many inconsiderately damn” >
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 4
 
 Of the tumults, we may speak at another time, but from his words, Machiavelli demonstrates that Rome, with her education, could produce a multitude of great men, and this education arises from good laws.
 
 But the question of education and laws may be held to be a chicken and egg situation, since Aristotle says this:
 
-> "It is useless to have the most beneficial laws, fully agreed upon by > all who are members of the constitution, if they are not going to be > trained and have their habits formed in the spirit of that > constitution - in a democratic spirit, that is, if the laws are > democratic, but oligarchically if they are oligarchic; for as one > individual may be morally incapable, so may a whole state. Now to have > been educated for the constitution does not mean simply doing the > things that members of an oligarchy or democratically minded people > enjoy doing, but doing what will enable them to live as oligarchs or > as democrats, as the case may be" >
+> "It is useless to have the most beneficial laws, fully agreed upon by > all who are members of the constitution, if they are not going to be > trained and have their habits formed in the spirit of that > constitution - in a democratic spirit, that is, if the laws are > democratic, but oligarchically if they are oligarchic; for as one > individual may be morally incapable, so may a whole state. Now to have > been educated for the constitution does not mean simply doing the things that members of an oligarchy or democratically minded people enjoy doing, but doing what will enable them to live as oligarchs or as democrats, as the case may be" >
 > -Aristotle, Politics, Book 5
 
 But on closer examination, it may be said that both form a feedback loop, and while laws give rise to the form of education, education upholds the laws by forming such citizens who uphold the constitution.
 
 But it remains to see how education itself may be established, and for this Machiavelli tells us again, in the Discourses, that:
 
-> “For as good customs have need of laws to maintain themselves, so laws > have need of good customs so as to be observed.” >
+> “For as good customs have need of laws to maintain themselves, so laws have need of good customs so as to be observed.” >
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 18
 
 Now from the words of Cicero in his orations, we see that the foundations of liberty and justice are the laws of the state, and without them, there is no liberty possible. He says that the Romans are slaves to the law, only to be able to be free men. He says that the liberty of the Romans is based on the laws. Citizenship and liberty are coterminous and if one goes, the other will as well. Liberty means the rights of citizenship. The foundation of liberty is also the ability of a citizen to retain or abandon his privileges. The citizen can not be deprived of his citizenship against his will, not even by a vote of the people.
@@ -454,17 +454,17 @@ Let these be enough to show us what the form of liberty shall be, in a democrati
 
 On equality, we should take the words of Aristotle as being sufficiently demonstrative of how it works:
 
-> "Now all men believe that justice means equality in some sense, and > they are in limited agreement with the philosophy of justice which I > explained in my Ethics: They hold that justice is some entity which is > relative to persons, and that equality must be equal for equals. The > question we must keep in mind is, equality or inequality in what sort > of thing?” >
+> "Now all men believe that justice means equality in some sense, and > they are in limited agreement with the philosophy of justice which I > explained in my Ethics: They hold that justice is some entity which is relative to persons, and that equality must be equal for equals. The question we must keep in mind is, equality or inequality in what sort of thing?” >
 > Aristotle, Politics, Book 3
 
 This last bit is what we must remember, for it holds the key to understanding what the nature of equality is in a democracy, and it must also be known that neither equality or inequality can be absolute, as Aristotle tells us, once again:
 
-> "Since those who are equal in one particular ought not to enjoy > equality in all things, nor those who are unequal in one respect have > inequality in all, it follows that all constitutions in which such a > state of affairs prevails must be deviations." >
+> "Since those who are equal in one particular ought not to enjoy equality in all things, nor those who are unequal in one respect have inequality in all, it follows that all constitutions in which such a state of affairs prevails must be deviations." >
 > -Aristotle, Politics, Book 3
 
 Now to conclusively answer the question of the basis of equality, we have the words of Aristotle once again:
 
-> "There are the three grounds for claiming equality in a constitution, > freedom, wealth and virtue (a fourth claim, called 'good birth', > arises out of the two last of these three, for good birth is wealth > plus virtue going back to one's forbears)" >
+> "There are the three grounds for claiming equality in a constitution, freedom, wealth and virtue (a fourth claim, called 'good birth', arises out of the two last of these three, for good birth is wealth plus virtue going back to one's forbears)" >
 > -Aristotle, Politics, Book 4
 
 Now in a democratic form, mixed or pure, the equality is based on being born free, or as written above, freedom, though this can also vary among democracies, for some accept no freeborn immigrants into the citizen body, while the others accept them, though the scale of acceptance may vary, and also, any property qualification could mean an inability for some to participate in government, though acquisition of the qualification threshold could restore rights in such a system.
@@ -573,7 +573,7 @@ Now membership of the polity, or better stated as citizenship, is decided on the
 
 On virtue, Kauṭilya gives us some elements, in the Arthaśāstra, while deliberating on the qualities of magistrates:
 
-> “Well trained in arts, possessed of foresight, wise, of strong memory, > bold, eloquent, skillful, intelligent, possessed of enthusiasm, > dignity, and endurance, pure in character, affable, firm in loyal > devotion, endowed with excellent conduct, strength, health and > bravery, free from procrastination and ficklemindedness, affectionate, > and free from such qualities as excite hatred and enmity.” >
+> “Well trained in arts, possessed of foresight, wise, of strong memory, > bold, eloquent, skillful, intelligent, possessed of enthusiasm, > dignity, and endurance, pure in character, affable, firm in loyal devotion, endowed with excellent conduct, strength, health and bravery, free from procrastination and ficklemindedness, affectionate, and free from such qualities as excite hatred and enmity.” >
 > -Kauṭilya's Arthaśāstra, Book 1, Chapter 9
 
 Such is the list of virtues of magistrates in the Indian tradition, and one sees that virtue is only cultivated through education, in all nations, and never through instinct alone.
@@ -586,11 +586,11 @@ But what of gender? Given our times in which we have given the franchise to wome
 
 To this, the words of Aristotle may point to what we must do:
 
-> The deliberative faculty in the soul is not present at all in a slave; > in a female it is present but ineffective, in a child present but > undeveloped. >
-> Between male and female, the former is by nature superior and ruler, > the latter inferior and subject. And this must hold good of mankind in > general. >
+> The deliberative faculty in the soul is not present at all in a slave; in a female it is present but ineffective, in a child present but undeveloped. >
+> Between male and female, the former is by nature superior and ruler, the latter inferior and subject. And this must hold good of mankind in general. >
 > Over a wife, rule is as by a statesman. >
-> For the male is more fitted to rule than the female, unless conditions > are quite contrary to nature. >
-> It is true that in most cases of rule by statesmen there is an > interchange of the role of ruler and ruled, which aims to preserve > natural equality and non-differentiation; nevertheless, so long as one > is ruling and the other is being ruled, the ruler seeks to mark > distinctions in outward dignity, in style of address, and in honours > paid. >
+> For the male is more fitted to rule than the female, unless conditions are quite contrary to nature. >
+> It is true that in most cases of rule by statesmen there is an > interchange of the role of ruler and ruled, which aims to preserve > natural equality and non-differentiation; nevertheless, so long as one is ruling and the other is being ruled, the ruler seeks to mark distinctions in outward dignity, in style of address, and in honours paid. >
 > As between male and female this kind of relationship is permanent. >
 > -Aristotle, Politics, Book 1
 
@@ -602,8 +602,8 @@ But this last one is the safest, for even if a woman has a great power of reason
 
 The next is free birth, and this means that one is not born a slave. In our age, this is redundant, for most are born free, but the slave mindset is different from institutionalised slavery, for there are marks of inherent slavery in peoples, and such marks are suggested by Aristotle:
 
-> Whenever there is the same wide discrepancy between human beings as > there is between soul and body or between man and beast, then those > whose condition is such that their function is the use of their bodies > and nothing better can be expected of them, those, I say, are slaves > by nature. It is better for them, just as in the cases mentioned, to > be ruled thus. For the slave by nature is he that can and therefore > does belong to another, and he that participates in reason so far as > to recognise it but not so as to possess it. The use made of slaves > hardly differs at all from that of tame animals: they both help with > their bodies to supply our essential needs. >
-> While it is not invariably true that slaves are slaves by nature and > others free, yet this distinction does in some cases actually > prevail - cases where it is expedient for the one to be master, the > other to be the slave. Whereas the one must be ruled, the other should > exercise the rule for which he is fitted by nature, thus being the > master. For, if the work of being a master is badly done, that is > contrary to the interest of both parties; for the part and the whole, > the soul and the body, have identical interests; and the slave is in a > sense a part of his master, a living but separate part of his body. >
+> Whenever there is the same wide discrepancy between human beings as > there is between soul and body or between man and beast, then those > whose condition is such that their function is the use of their bodies > and nothing better can be expected of them, those, I say, are slaves > by nature. It is better for them, just as in the cases mentioned, to > be ruled thus. For the slave by nature is he that can and therefore > does belong to another, and he that participates in reason so far as to recognise it but not so as to possess it. The use made of slaves hardly differs at all from that of tame animals: they both help with their bodies to supply our essential needs. >
+> While it is not invariably true that slaves are slaves by nature and > others free, yet this distinction does in some cases actually > prevail - cases where it is expedient for the one to be master, the > other to be the slave. Whereas the one must be ruled, the other should > exercise the rule for which he is fitted by nature, thus being the > master. For, if the work of being a master is badly done, that is contrary to the interest of both parties; for the part and the whole, the soul and the body, have identical interests; and the slave is in a sense a part of his master, a living but separate part of his body. >
 > -Aristotle, Politics, Book 1,
 
 Now from this, we understand that free birth alone does not mean anything, for if one can only have the use of his body, and not have anything in faculties of reason, such a man is not fit to be a free man, but a slave. On the contrary, if a man is born in servitude, but has the power of reason, he deserves to be manumitted, and made a liberated man.

@@ -21,8 +21,8 @@ A few years ago *PLoS Medicine* published [Eight Americas: Investigating Mortali
 That’s a 13.8 year difference between inner city blacks and Asian Americans.  
 Now, from [The health and welfare of Australia’s Aboriginal and Torres Strait Islander peoples 2003](http://www.aihw.gov.au/publications/index.cfm/title/9226):
 
-> …Indigenous life expectancy at birth is 20 years less than for the > total  
-> population, 56 years for Indigenous males compared to 77 years for > all  
+> …Indigenous life expectancy at birth is 20 years less than for the total  
+> population, 56 years for Indigenous males compared to 77 years for all  
 > Australian males and 63 years for Indigenous females compared to  
 > 82 years for all Australian females for the period 1999-2001….
 

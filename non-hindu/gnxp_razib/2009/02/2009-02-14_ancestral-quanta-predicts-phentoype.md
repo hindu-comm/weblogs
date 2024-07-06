@@ -11,11 +11,11 @@ Ancestral quanta predicts phentoype?
 
 [ScienceDaily](http://www.sciencedaily.com/releases/2009/02/090214162756.htm) has a report on a presentation Mark Shriver gave at AAAS meething this year:
 
-> “We started with 22 landmarks on the faces that could be accurately > located in all the images,” said Shriver.  
-> These landmarks might be the tip of the nose, the tip of the chin, the > outer corner of the eye or other repeatable locations. They then > recorded the distances between all the points in all directions, so > they had a distance map of each of the faces.  
-> From their DNA profiles, Shriver could determine the admixture > percentages of each individual, how much of their genetic make up came > from each group. He could then compare the genetically determined > admixture to the facial feature differences and determine the relative > differences from the parental populations.  
-> “This type of study, done on admixed populations shows that each > person is a composite of their ancestors and that the range of facial > features is a continuum,” says Shriver.  
-> **Shriver found that there was a very strong statistical correlation > between the amounts of admixture and the facial traits.**
+> “We started with 22 landmarks on the faces that could be accurately located in all the images,” said Shriver.  
+> These landmarks might be the tip of the nose, the tip of the chin, the outer corner of the eye or other repeatable locations. They then recorded the distances between all the points in all directions, so they had a distance map of each of the faces.  
+> From their DNA profiles, Shriver could determine the admixture > percentages of each individual, how much of their genetic make up came from each group. He could then compare the genetically determined admixture to the facial feature differences and determine the relative differences from the parental populations.  
+> “This type of study, done on admixed populations shows that each person is a composite of their ancestors and that the range of facial features is a continuum,” says Shriver.  
+> **Shriver found that there was a very strong statistical correlation between the amounts of admixture and the facial traits.**
 
 Black Americans are on the order of 20-25% European in ancestry and 75-80% West African. But these proportions are average over the whole population. Individuals vary in blood quanta:
 
@@ -25,7 +25,8 @@ Common sense would tell us that the more ancestry one has from a population, the
 
 ### Related Posts:
 
-- [Separability](https://www.gnxp.com/WordPress/2006/02/10/separability/) - [The Future is
+- [Separability](https://www.gnxp.com/WordPress/2006/02/10/separability/)
+- [The Future is
   Kennedy](https://www.gnxp.com/WordPress/2010/08/15/the-future-is-kennedy/) - [Genes and facial
   features](https://www.gnxp.com/WordPress/2008/09/25/genes-and-facial-features/) - [Open Thread,
   11/24/2014](https://www.gnxp.com/WordPress/2014/11/24/open-thread-11242014/) - [SpaceMix](https://www.gnxp.com/WordPress/2015/01/09/spacemix/) - [Too much prosopagnosia - personal

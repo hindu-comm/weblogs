@@ -11,7 +11,7 @@ Speech and motor feedback
 
 I am really enjoying [Buzsaki’s book](http://www.oup.com/us/catalog/general/subject/Medicine/Neuroscience/%7E%7E/dmlldz11c2EmY2k9OTc4MDE5NTMwMTA2OQ==). The chapter I’m in now is about perturbations of the intrinsic network activity of the nervous system. He examines some of the earliest developing examples of intrinsic neural activity: self-generated activities that help organize the retina to visual cortex mapping and the twitches and kicks of the developing fetus. He is building the point that a nervous system that cannot generate motor output cannot really perceive the world in a meaningful way.
 
-> “Only through movement can distances be measured and incorporated into > our sensory scheme. For an immobile observer, direction, distance, and > location of sensory information are incomprehensible and meaningless > concepts.”
+> “Only through movement can distances be measured and incorporated into our sensory scheme. For an immobile observer, direction, distance, and location of sensory information are incomprehensible and meaningless concepts.”
 
 At another level of analysis he notes that a baby’s babbles are self-organized output that is then perturbed by parents via their reaction to babbles that chance upon parts of their own words. Perturbation can reshape the weights of the network and organize them in terms of experience.
 

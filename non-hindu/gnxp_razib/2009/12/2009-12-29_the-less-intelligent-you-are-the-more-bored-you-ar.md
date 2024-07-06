@@ -11,7 +11,7 @@ The less intelligent you are, the more bored you are
 
 [The Audacious Epigone](https://anepigone.blogspot.com/2009/12/burden-of-boredom-borne-by-blockheads_27.html) has an interesting post up, [Burden of boredom borne by blockheads](https://anepigone.blogspot.com/2009/12/burden-of-boredom-borne-by-blockheads_27.html):
 
-> This isn’t just me speaking from personal experience–the data confirm > it. The GSS asked respondents in 1982 and again in 2004 how often they > have time on their hands that they don’t know what to do with. Using > the familiar categorization method employed here before\*, the > following table shows the percentage of each group’s members who > reported to “almost never” be without something worthwhile to do in > their free time:
+> This isn’t just me speaking from personal experience–the data confirm > it. The GSS asked respondents in 1982 and again in 2004 how often they > have time on their hands that they don’t know what to do with. Using > the familiar categorization method employed here before\*, the following table shows the percentage of each group’s members who reported to “almost never” be without something worthwhile to do in their free time:
 
 He presented his data in tabular format. I decided to use the variables he kindly provided and produce some charts. Below are the frequency bored from lowest WORDSUM score, 0, to highest, 10. 0 meaning 0 out of 10 words correct on a vocabulary test, and 10 meaning 10 out of 10 correct. I also checked degree attainment. For those who have a hard time making out the legend, the darker the shading, the more bored the class.
 

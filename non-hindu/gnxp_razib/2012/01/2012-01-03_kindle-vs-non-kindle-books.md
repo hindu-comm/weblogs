@@ -17,7 +17,8 @@ Out of curiosity, how many readers are switching mostly to Kindle books? I mysel
 
 ### Related Posts:
 
-- [Kindle Cool](https://www.gnxp.com/WordPress/2009/02/24/kindle-cool/) - [The Kindle
+- [Kindle Cool](https://www.gnxp.com/WordPress/2009/02/24/kindle-cool/)
+- [The Kindle
   price](https://www.gnxp.com/WordPress/2012/11/20/the-kindle-price/) - [Kindle books outsell print books on
   Amazon](https://www.gnxp.com/WordPress/2011/05/19/kindle-books-outsell-print-books-on-amazon/) - [The substrate is
   immaterial](https://www.gnxp.com/WordPress/2013/01/09/the-substrate-is-immaterial/) - [Open Thread,

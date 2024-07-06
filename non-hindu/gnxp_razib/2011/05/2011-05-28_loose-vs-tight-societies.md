@@ -11,16 +11,16 @@ Loose vs. tight societies
 
 [![ResearchBlogging.org](https://i0.wp.com/www.researchblogging.org/public/citation_icons/rb2_large_gray.png?w=640)![ResearchBlogging.org](https://i0.wp.com/www.researchblogging.org/public/citation_icons/rb2_large_gray.png?w=640)](http://www.researchblogging.org)A new [paper](http://www.sciencemag.org/content/332/6033/1100.abstract) in *Science*, [Differences Between Tight and Loose Cultures: A 33-Nation Study](http://www.sciencemag.org/content/332/6033/1100.abstract), is making the media rounds. Here’s [NPR](http://www.npr.org/2011/05/27/136679024/of-war-and-kisses-how-adversity-shapes-culture):
 
-> …The idea for this study really dates to the 1960s. Back then, an > anthropologist decided to evaluate a few dozen obscure cultures and > see if he could rank them on a scale from “tight” to “loose.” He > defined tight cultures as having a lot of rules, which people violate > at their peril. Loose cultures are more relaxed in their expectations, > and more forgiving of people who deviate. >
+> …The idea for this study really dates to the 1960s. Back then, an > anthropologist decided to evaluate a few dozen obscure cultures and > see if he could rank them on a scale from “tight” to “loose.” He defined tight cultures as having a lot of rules, which people violate at their peril. Loose cultures are more relaxed in their expectations, and more forgiving of people who deviate. >
 > **The Tightness Scale** >
 > … >
-> “So for example, you might have been asked, how appropriate is it to > curse in the bank or kiss in a public park, or eat or read a newspaper > in a classroom? And we were able to derive scores of how constrained, > in general situations, they are, versus how much they have latitude in > different countries.” >
+> “So for example, you might have been asked, how appropriate is it to > curse in the bank or kiss in a public park, or eat or read a newspaper in a classroom? And we were able to derive scores of how constrained, in general situations, they are, versus how much they have latitude in different countries.” >
 > … >
-> “Some of the cultures that are quite tight in our sample include > places like Singapore, Japan, Pakistan,” Gelfand says. “Whereas many > loose societies include countries like New Zealand, the Netherlands, > the United States.”
+> “Some of the cultures that are quite tight in our sample include places like Singapore, Japan, Pakistan,” Gelfand says. “Whereas many loose societies include countries like New Zealand, the Netherlands, the United States.”
 
 The abstract from the paper is a little harder to parse:
 
-> With data from 33 nations, we illustrate the differences between > cultures that are tight (have many strong norms and a low tolerance of > deviant behavior) versus loose (have weak social norms and a high > tolerance of deviant behavior). Tightness-looseness is part of a > complex, loosely integrated multilevel system that comprises distal > ecological and historical threats (e.g., high population density, > resource scarcity, a history of territorial conflict, and disease and > environmental threats), broad versus narrow socialization in societal > institutions (e.g., autocracy, media regulations), the strength of > everyday recurring situations, and micro-level psychological > affordances (e.g., prevention self-guides, high regulatory strength, > need for structure). This research advances knowledge that can foster > cross-cultural understanding in a world of increasing global > interdependence and has implications for modeling cultural change.
+> With data from 33 nations, we illustrate the differences between > cultures that are tight (have many strong norms and a low tolerance of > deviant behavior) versus loose (have weak social norms and a high > tolerance of deviant behavior). Tightness-looseness is part of a > complex, loosely integrated multilevel system that comprises distal > ecological and historical threats (e.g., high population density, > resource scarcity, a history of territorial conflict, and disease and > environmental threats), broad versus narrow socialization in societal > institutions (e.g., autocracy, media regulations), the strength of > everyday recurring situations, and micro-level psychological > affordances (e.g., prevention self-guides, high regulatory strength, need for structure). This research advances knowledge that can foster cross-cultural understanding in a world of increasing global interdependence and has implications for modeling cultural change.
 
 This schematic from the paper illustrates the general model of how differences in “tightness” emerge:
 
@@ -104,8 +104,8 @@ Notice the difference between population density in 1500 vs. population density 
 
 As for the tightness measure itself, there’s some strangeness here. On the one hand, some if it makes sense. But scores for other nations surprising, as noted by the authors. For example, Israel. But that just leads to ad hoc explanations:
 
-> …Gelfand was surprised to find that Israel — which is under threat > from its neighbors and its desert environment — is still culturally > loose. Gelfand suspects that’s in part because lots of Israelis came > from relatively loose cultures in Eastern Europe. >
-> “It’s also a culture of argumentation, debate, dissent, that really is > very much consistent with Judaism. And these things all promote > looseness,” she says.
+> …Gelfand was surprised to find that Israel — which is under threat from its neighbors and its desert environment — is still culturally loose. Gelfand suspects that’s in part because lots of Israelis came from relatively loose cultures in Eastern Europe. >
+> “It’s also a culture of argumentation, debate, dissent, that really is very much consistent with Judaism. And these things all promote looseness,” she says.
 
 There are two points here. I’ll address the second first: **the time depth of the culture of disputation in Judaism is something I’ll actually *dispute*.** One can make the case that as a generality this is very much a feature of *modern* Ashkenazi Jewish culture, with the opening of the public debate to all sectors of society. Of course I grant that disputation between eminent rabbis occurred in the past, but pre-modern Jewry was run like most pre-modern societies, there were authorities on on high who dictated what was, and wasn’t, permissible. European Jewish communities were run as corporate subnational entities before their liberation in the wake of the Enlightenment. The expulsion of Baruch Spinoza from the Sephardic Jewish community of the Netherlands illustrates the nature of pre-modern Jewish, and gentile, society on the cusp (by this, I mean that the religiously plural Netherlands of the period exhibited a cohabitation between pre-modern exclusiveness and parochialism, and post-modern pluralism). Modern day stereotypes and generalizations are often very much the result of modern day conditions.
 
@@ -121,7 +121,8 @@ The future direction of this sort of research will be in the direction of gene-c
 
 ### Related Posts:
 
-- [Sunday Stuff - October 16th,
+- [Sunday Stuff
+- October 16th,
   2011](https://www.gnxp.com/WordPress/2011/10/16/sunday-stuff-october-16th-2011/) - [Technology that brought down
   civilization](https://www.gnxp.com/WordPress/2012/06/26/technology-that-brought-down-civilization/) - [Friday Fluff - October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [D.I.Y. genome-wide

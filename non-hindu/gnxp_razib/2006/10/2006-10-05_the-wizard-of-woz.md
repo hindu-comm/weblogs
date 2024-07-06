@@ -13,7 +13,8 @@ Steve Wozniak (inventor of the personal computer) was [interviewed today](http:/
 
 ### Related Posts:
 
-- [Nerds](https://www.gnxp.com/WordPress/2007/07/28/nerds-2/) - [I might be on Radio Open
+- [Nerds](https://www.gnxp.com/WordPress/2007/07/28/nerds-2/)
+- [I might be on Radio Open
   Source](https://www.gnxp.com/WordPress/2006/10/11/i-might-be-on-radio-open-source/) - [Daily Data
   Dump](https://www.gnxp.com/WordPress/2010/04/07/daily-data-dump-3/) - [Ali on the
   radio](https://www.gnxp.com/WordPress/2006/12/29/ali-on-the-radio/) - [The Genetics of Genealogy on Radio Open

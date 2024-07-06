@@ -13,7 +13,9 @@ I guess this is taking “world music” to the next level, going back to the an
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Turtleneck & Chain - geekcore
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Turtleneck & Chain
+- geekcore
   extraordinaire](https://www.gnxp.com/WordPress/2011/05/11/turtleneck-chain-geekcore-extraordinaire/) - [Who We Are and How We Got Here, a book worth
   reading](https://www.gnxp.com/WordPress/2018/02/28/who-we-are-and-how-we-got-here-a-book-worth-reading/) - [Shameless
   Plug](https://www.gnxp.com/WordPress/2009/07/01/shameless-plug/) - [40 hits in 40

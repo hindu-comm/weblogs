@@ -11,9 +11,9 @@ The Lost White Civilization of China
 
 [The Dead Tell a Tale China Doesn’t Care to Listen To](http://www.nytimes.com/2008/11/19/world/asia/19mummy.html?_r=1&hp=&pagewanted=all):
 
-> An exhibit on the first floor of the museum here gives the > government’s unambiguous take on the history of this border region: > “Xinjiang has been an inalienable part of the territory of China,” > says one prominent sign.  
-> But walk upstairs to the second floor, and the ancient corpses on > display seem to tell a different story.  
-> One called the Loulan Beauty lies on her back with her shoulder-length > hair matted down, her lips pursed in death, her high cheekbones and > **long nose the most obvious signs that she is not what one thinks of > as Chinese.**
+> An exhibit on the first floor of the museum here gives the government’s unambiguous take on the history of this border region: “Xinjiang has been an inalienable part of the territory of China,” says one prominent sign.  
+> But walk upstairs to the second floor, and the ancient corpses on display seem to tell a different story.  
+> One called the Loulan Beauty lies on her back with her shoulder-length hair matted down, her lips pursed in death, her high cheekbones and **long nose the most obvious signs that she is not what one thinks of as Chinese.**
 
   
 Like many headlines this is one really isn’t accurate, **both the Chinese government and the indigenous Uighurs are playing games with history.** The modern Uighurs, a Turkic speaking Muslim population which resides around the oases of the Tarim basis, are a recent hybrid population genetically. By recent, I mean within the last 2-3,000 years. The ethnogenesis of the Uighers (more properly, East Turks) was a process whereby groups expanding from greater Mongolia culturally assimilated the indigenous Indo-European speaking people of the oases in the years before 1000 AD. It was part of the broader migration of Turks west from the trans-Siberian borderlands north of China. These peoples were not from the west, rather, they were from the north and east, and genetically were closer to the Han peoples of China proper. This is why the Uighurs exhibit affinity to both the populations of eastern and western Eurasia. If the Han overwhelmed the Uighur culturally and assimilated them genetically, they would be recapitulating the process which resulted in the emergence of the Uighurs of!  

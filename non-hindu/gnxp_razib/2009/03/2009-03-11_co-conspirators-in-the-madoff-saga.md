@@ -11,7 +11,7 @@ Co-conspirators in the Madoff Saga
 
 [The Next Targets in the Madoff Case](http://www.thedailybeast.com/blogs-and-stories/2009-03-10/the-next-targets-in-the-madoff-case/full/):
 
-> One source said that eventually, many members of Madoff’s family will > either be indicted by the US attorney’s office for the Southern > District of New York or cop a plea. “You have to look at the fact that > Peter and \[his daughter\] Shana were compliance officers; they were > supposed to look at all the statements to see if they were right,” the > source said. “Either they asked no questions, turned a blind eye, or > they could not help but see the falsified trade tickets of blue-chip > companies sent to clients.”
+> One source said that eventually, many members of Madoff’s family will > either be indicted by the US attorney’s office for the Southern > District of New York or cop a plea. “You have to look at the fact that > Peter and \[his daughter\] Shana were compliance officers; they were > supposed to look at all the statements to see if they were right,” the source said. “Either they asked no questions, turned a blind eye, or they could not help but see the falsified trade tickets of blue-chip companies sent to clients.”
 
 ### Related Posts:
 

@@ -11,7 +11,7 @@ Roland Fryer is back!
 
 Harvard economist [Roland Fryer](https://en.wikipedia.org/wiki/Roland_G._Fryer_Jr.) has an op-ed in *The Wall Street Journal*, [How to Make Up the Covid Learning Loss: Paying students for attendance, behavior and homework can boost achievement](https://www.wsj.com/articles/how-to-make-up-the-covid-learning-loss-pay-homework-zoom-deficit-reading-math-11653923529?st=1njeewfad8osluw&reflink=desktopwebshare_twitter). I wasn’t excited about the op-ed specifically, as opposed to what you see at the bottom:
 
-> Mr. Fryer is the **John A. Paulson Fellow at the Manhattan Institute** > and professor of economics at Harvard University, and founder of > [Equal Opportunity Ventures](https://www.eoventures.com/about).
+> Mr. Fryer is the **John A. Paulson Fellow at the Manhattan Institute** and professor of economics at Harvard University, and founder of [Equal Opportunity Ventures](https://www.eoventures.com/about).
 
 [John Paulson](https://en.wikipedia.org/wiki/John_Paulson) is the conservative billionaire who made his fortune off the financial crisis of 2008. If he wants to back Fryer, he has the resources, and backing Fryer is a good thing.
 
@@ -35,7 +35,8 @@ Finally, let’s give it up to the Manhattan Institute, what they did here was a
 
 ### Related Posts:
 
-- [NYT - Toward a Unified Theory of Black
+- [NYT
+- Toward a Unified Theory of Black
   America](https://www.gnxp.com/WordPress/2005/03/21/nyt-toward-a-unified-theory-of-black-america/) - [Harlem Children's
   Zone](https://www.gnxp.com/WordPress/2009/05/11/harlem-children-s-zone/) - [Is this profiting on stupidity
   bad?](https://www.gnxp.com/WordPress/2009/01/13/is-this-profiting-on-stupidity-bad/) - [More Roland

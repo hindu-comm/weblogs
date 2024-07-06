@@ -13,7 +13,7 @@ The Harappa Civilization may have deep roots in India
 
 I say sort of because 1) a lot of archaeology is impenetrable to me 2) everything is about climate change. What is interesting to me is that these researchers seem to favor **an old date for origins of the Harappan civilization within India**. Here’s the relevant section:
 
-> At Bhirrana the earliest level has provided mean 14C age of > 8.35 ± 0.14 ka BP (8597 to 8171 years BP8). The successive cultural > levels at Bhirrana, as deciphered from archeological artefacts along > with these 14C ages, are Pre-Harappan Hakra phase (\~9.5–8 ka BP), > **Early Harappan (\~8–6.5 ka BP)**, Early mature Harappan (\~6.5–5 ka > BP) and mature Harappan (\~5–2.8 ka BP8,17,18,20,34).
+> At Bhirrana the earliest level has provided mean 14C age of > 8.35 ± 0.14 ka BP (8597 to 8171 years BP8). The successive cultural > levels at Bhirrana, as deciphered from archeological artefacts along with these 14C ages, are Pre-Harappan Hakra phase (\~9.5–8 ka BP), **Early Harappan (\~8–6.5 ka BP)**, Early mature Harappan (\~6.5–5 ka BP) and mature Harappan (\~5–2.8 ka BP8,17,18,20,34).
 
 Setting the Hakra culture to the side, Early Harappan at 6,000 BC suggests to me that the demographic parameters which led to the creation of the ANI-ASI genetic complex may already have been present then. If, the ASI are intrusive to the subcontinent it may even be that the Early Harappan were more West Asian than the final late stage Harappans.
 

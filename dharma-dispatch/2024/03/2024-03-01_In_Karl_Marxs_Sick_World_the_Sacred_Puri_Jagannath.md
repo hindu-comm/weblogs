@@ -397,7 +397,7 @@ Our Marxists have done this deliberately so that the common Indian readers might
 
 For example, no Indian Marxist writer or historian will include in his book the fact that *Karl Marx intensely hated Hindu Dharma, philosophy and traditions*. He did it out of total ignorance but the fact remains that his hatred was real. This is not connected with the avowed atheism of Marx. The issue is that in Marx’s opinion, Hinduism was so degenerate and hateful that he criticized the English rulers for not giving the Christian missionaries a freer hand in their work of converting Hindus and destroying Hinduism. This is how Karl Marx scolds the British Government:
 
-> **"did they \[the British\], who combated the French revolution under > the pretext of defending “our holy religion”, not forbid at the same > time, Christianity to be propagated in India, and did they not, in > order to make money out of the pilgrims streaming to the temples in > Orissa and Bengal, take up the trade in the murder and prostitution > perpetrated in the temple of Juggernaut?"**
+> **"did they \[the British\], who combated the French revolution under > the pretext of defending “our holy religion”, not forbid at the same > time, Christianity to be propagated in India, and did they not, in order to make money out of the pilgrims streaming to the temples in Orissa and Bengal, take up the trade in the murder and prostitution perpetrated in the temple of Juggernaut?"**
 
 This is the opinion of the great Karl Marx! He not only wanted a massive expansion of Christianity in India *but also believed that the famous Jagannath temple was mainly a centre of ‘murder and prostitution.’*
 

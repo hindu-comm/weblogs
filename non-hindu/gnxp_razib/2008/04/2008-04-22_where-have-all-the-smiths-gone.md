@@ -11,10 +11,10 @@ Where have all the Smiths gone?
 
 [Statistical Modeling, Causal Inference, and Social Science](http://www.stat.columbia.edu/%7Ecook/movabletype/archives/2008/04/the_case_of_the.html) asks where [asks where all the Smiths](http://www.stat.columbia.edu/%7Ecook/movabletype/archives/2008/04/the_case_of_the.html) have gone:
 
-> Sam Roberts > [writes](http://www.nytimes.com/2007/11/17/us/17surnames.html), >
-> > In 1984, according to the Social Security Administration, nearly 3.4 > > million Smiths lived in the United States. In 1990, the census > > counted 2.5 million. By 2000, the Smith population had declined to > > fewer than 2.4 million. >
-> Where did all the Smiths go from 1984 to 1990? I can believe it > flatlined after 1990, but it’s hard to believe that the count could > have changed so much in 6 years. >
-> Perhaps it’s the difference between the SSA and Census methods of > counting
+> Sam Roberts [writes](http://www.nytimes.com/2007/11/17/us/17surnames.html), >
+> > In 1984, according to the Social Security Administration, nearly 3.4 > > million Smiths lived in the United States. In 1990, the census > counted 2.5 million. By 2000, the Smith population had declined to fewer than 2.4 million. >
+> Where did all the Smiths go from 1984 to 1990? I can believe it flatlined after 1990, but it’s hard to believe that the count could have changed so much in 6 years. >
+> Perhaps it’s the difference between the SSA and Census methods of counting
 
 Here’s another explanation, it’s the inverse of the [phenomenon](http://www.nativevillage.org/Messages%20from%20the%20People/Population%20statistics.htm) of those claiming Native American ancestry in the United States doubling in 10 years. Many Smiths were at one point Schmidts, who knows if some of them didn’t revert now that WASP surnames aren’t as value-added? I strongly suspect that the number of ethnic whites in the USA is overstated because those with mixed-ancestry emphasize the most non-traditional quanta of their heritage. That means if someone is 1/4 German & 3/4 English they might declare their ethnicity as German. I’ll probably have to look up some social science on this question at some point….
 

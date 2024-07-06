@@ -11,13 +11,13 @@ Average male IQ greater than average female IQ
 
 [From BBC News](http://news.bbc.co.uk/2/hi/uk_news/education/4183166.stm):
 
-> Academics in the UK claim their research shows that men are more > intelligent than women. >
-> A study to be published later this year in the British Journal of > Psychology says that men are on average five points ahead on IQ tests. >
-> Paul Irwing and Professor Richard Lynn claim the difference grows when > the highest IQ levels are considered. >
-> Their research was based on IQ tests given to 80,000 people and a > further study of 20,000 students. >
+> Academics in the UK claim their research shows that men are more intelligent than women. >
+> A study to be published later this year in the British Journal of Psychology says that men are on average five points ahead on IQ tests. >
+> Paul Irwing and Professor Richard Lynn claim the difference grows when the highest IQ levels are considered. >
+> Their research was based on IQ tests given to 80,000 people and a further study of 20,000 students. >
 > ‘Widening gap’ >
-> Dr Irwing, a senior lecturer in organisational psychology at > Manchester University, told the Today programme on BBC Radio Four the > study showed that, up to the age of 14, there was no difference > between the IQs of boys and girls. >
-> “But beyond that age and into adulthood there is a difference of five > points, which is small but it can have important implications,” he > said.
+> Dr Irwing, a senior lecturer in organisational psychology at Manchester University, told the Today programme on BBC Radio Four the study showed that, up to the age of 14, there was no difference between the IQs of boys and girls. >
+> “But beyond that age and into adulthood there is a difference of five points, which is small but it can have important implications,” he said.
 
 Seems that the paper will be published later, so details will have to come from the press.
 

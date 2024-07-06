@@ -11,8 +11,8 @@ Black girls more likely to be bulimic?
 
 [Black Girls Are 50 Percent More Likely To Be Bulimic Than White Girls](http://www.sciencedaily.com/releases/2009/03/090318140532.htm):
 
-> Rather, girls who are African American are 50 percent more likely than > girls who are white to be bulimic, the researchers found, and girls > from families in the lowest income bracket studied are 153 percent > more likely to be bulimic than girls from the highest income > bracket.  
-> “As it turns out, we learned something surprising from our data about > who bulimia actually affects, not just who is diagnosed,” says USC > economist Michelle Goeree.
+> Rather, girls who are African American are 50 percent more likely than > girls who are white to be bulimic, the researchers found, and girls from families in the lowest income bracket studied are 153 percent more likely to be bulimic than girls from the highest income bracket.  
+> “As it turns out, we learned something surprising from our data about who bulimia actually affects, not just who is diagnosed,” says USC economist Michelle Goeree.
 
 Surprised me. Then again, whenever when I watched Law & Order on the airplane I’m shocked at how many white people who live in the Upper East Side are suffering from crime in New York City….
 

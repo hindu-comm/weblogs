@@ -13,7 +13,8 @@ For [Mad Dog Liquid Fire](http://www.cosmicchile.com/site/mad-dog-liquid-fire.ht
 
 ### Related Posts:
 
-- [Day 7 of hot sauce - Mad Dog's Revenge Habanero &
+- [Day 7 of hot sauce
+- Mad Dog's Revenge Habanero &
   Chile…](https://www.gnxp.com/WordPress/2007/04/03/day-7-of-hot-sauce-mad-dogs-revenge-habanero-chile-extract/) - [Day 2 of hot sauce - Ass in
   Space](https://www.gnxp.com/WordPress/2007/03/28/day-2-of-hot-sauce-ass-in-space/) - [Day 6 of hot sauce - Ass in the
   Tub](https://www.gnxp.com/WordPress/2007/04/01/day-6-of-hot-sauce-ass-in-the-tub/) - [Seven hot sauces, many

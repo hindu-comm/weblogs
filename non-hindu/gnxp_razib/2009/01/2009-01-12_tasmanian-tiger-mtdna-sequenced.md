@@ -11,11 +11,11 @@ Tasmanian Tiger mtDNA sequenced?
 
 More ancient DNA, [Hair Of Tasmanian Tiger Yields Genes Of Extinct Species](http://www.sciencedaily.com/releases/2009/01/090112201131.htm):
 
-> All the genes that the exotic Tasmanian Tiger inherited only from its > mother will be revealed by an international team of scientists in a > research paper to be published on 13 January 2009 in the online > edition of Genome Research. The research marks the first successful > sequencing of genes from this carnivorous marsupial, which looked like > a large tiger-striped dog and became extinct in 1936.  
+> All the genes that the exotic Tasmanian Tiger inherited only from its > mother will be revealed by an international team of scientists in a > research paper to be published on 13 January 2009 in the online edition of Genome Research. The research marks the first successful sequencing of genes from this carnivorous marsupial, which looked like a large tiger-striped dog and became extinct in 1936.  
 > …  
-> … “I want to learn as much as I can about why large mammals become > extinct because all my friends are large mammals,” Miller said. > **“However, I am expecting that publication of this paper also will > reinvigorate discussions about possibly bringing the extinct Tasmanian > Tiger back to life.”**  
+> … “I want to learn as much as I can about why large mammals become > extinct because all my friends are large mammals,” Miller said. **“However, I am expecting that publication of this paper also will reinvigorate discussions about possibly bringing the extinct Tasmanian Tiger back to life.”**  
 > …  
-> The scientists sequenced all the DNA in the hair samples from the two > Tasmanian Tigers, including mitochondrial DNA, which is the focus of > the Genome Research paper, **and nuclear DNA, which the team plans to > analyze in future work.** “This study, in which we sequenced the > complete mitochondrial genome of the thylacine species, also shows > that it is feasible to sequence its complete nuclear genome,” Schuster > said.
+> The scientists sequenced all the DNA in the hair samples from the two > Tasmanian Tigers, including mitochondrial DNA, which is the focus of > the Genome Research paper, **and nuclear DNA, which the team plans to > analyze in future work.** “This study, in which we sequenced the complete mitochondrial genome of the thylacine species, also shows that it is feasible to sequence its complete nuclear genome,” Schuster said.
 
 We’ve already talked abut resurrecting ancient extinct megafauna before.
 

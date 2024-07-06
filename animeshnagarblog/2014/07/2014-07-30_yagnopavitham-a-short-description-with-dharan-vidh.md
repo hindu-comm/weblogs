@@ -27,7 +27,11 @@ versions as to what the three represent – ***Sat-Chit-Aanandam;
 Sathwa-Rajas-Thamo Gunams; Brahmaavu-Vishnu- Maheswaran;
 Jnaana-Itchha-Kriyas; Bhoor-Bhuva-Swar Lokams, etc.*** Each of the three
 has nine strands representing nine ***Devans : 1. Pranavam (Omkaaram),
-2. Agni, 3. Naagam ( sarpam ), 4. Soman, 5. Pithru, 6. Prajaapathi, 7.
+2. Agni,
+3. Naagam ( sarpam ),
+4. Soman,
+5. Pithru,
+6. Prajaapathi, 7.
 Vasu, 8. Yaman, and 9. Vishve devtas,the rest of the Devathas.***
 
 Wearers of ***Yajnopaveetham*** shall have control over their mind, word

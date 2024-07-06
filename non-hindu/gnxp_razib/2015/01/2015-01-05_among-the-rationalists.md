@@ -13,7 +13,7 @@ Among the Rationalists
 
 *Harpers* has an interesting article up, *Come With Us If You Want To Live: Among the apocalyptic libertarians of Silicon Valley*. Here’s an [ungated version](https://pdf.yt/d/-jQQX6XY9dU0LN4G). There’s a lot of space given over to the musings of my long-time friend [Michael Vassar](https://en.wikipedia.org/wiki/Michael_Vassar). I have to admit that the writer does impart effectively the Michael’s general affect. To me this quote from Michael is very important:
 
-> “The current ecosystem is so totally fucked up,” Vassar said. “But if > you have conversations here”—he gestured at the hotel—“**people change > their mind** and learn and update and change their behaviors in > response to the things they say and learn. That never happens anywhere > else.”
+> “The current ecosystem is so totally fucked up,” Vassar said. “But if > you have conversations here”—he gestured at the hotel—“**people change their mind** and learn and update and change their behaviors in response to the things they say and learn. That never happens anywhere else.”
 
 This is true. Not as true as you would hope, but it happens. The fact that you could change someone’s mind in one single conversation is the reason I spent a fair amount of time with the “Less Wrong community” between 2008 and 2011, and still consider many of them friends and acquaintances (I’ve drifted a bit since starting grad school in 2011, but I keep in touch and see them whenever I’m in SF or NYC).
 

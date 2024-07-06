@@ -13,7 +13,7 @@ Free Exchange has a comment on a comment on an article about the ability of geno
 
 An interesting point though re: insuring the poor. Probably you’ve all thought of it this way before:
 
-> But what about the poor? It is hard to see any reason why insurance > companies should subsidize them. If society thinks that poor families > should have insurance, then society should pay for it through the tax > code, not slap regulations on insurance companies to keep information > from reaching the market.
+> But what about the poor? It is hard to see any reason why insurance > companies should subsidize them. If society thinks that poor families should have insurance, then society should pay for it through the tax code, not slap regulations on insurance companies to keep information from reaching the market.
 
 In a related note, there is a [Google Techtalk](https://video.google.com/videoplay?docid=5976890974902036286&q=Google+techtalks) available featuring Russ B. Altman, the guy heading PharmGKB, an ambitious project to link SNPs to pharmacological outcomes. As a for instance, something like 7% of people have SNPs that disable the enzyme that turns codeine into morphine, so they get no pain relief from Tylenol 3. So let’s not waste the insurance money buying them that medication.
 

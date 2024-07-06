@@ -11,9 +11,9 @@ Tasmanian devils won’t go extinct! (probably)
 
 ![taz.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/taz.jpg?resize=200%2C163)![taz.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/taz.jpg?resize=200%2C163)We’ve [talked before on ScienceBlogs](https://www.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q=tasmanian&sa.x=0&sa.y=0&sa=search) about the [extinction risk](https://en.wikipedia.org/wiki/Tasmanian_Devil#Devil_facial_tumour_disease) to Tasmanian Devils because of contagious cancer. Well, perhaps there’s a light at the end of this population tunnel, [Hope over Tasmanian Devil cancer](http://news.bbc.co.uk/2/hi/asia-pacific/7323794.stm):
 
-> The world’s largest marsupial carnivore is facing extinction from a > mystery facial cancer.  
-> But scientists say Cedric appears to be naturally resistant to the > contagious tumours which have killed half the devil population in > Tasmania.  
-> Cedric is the first Tasmanian Devil to have shown any immunity from > the disfiguring disease.
+> The world’s largest marsupial carnivore is facing extinction from a mystery facial cancer.  
+> But scientists say Cedric appears to be naturally resistant to the contagious tumours which have killed half the devil population in Tasmania.  
+> Cedric is the first Tasmanian Devil to have shown any immunity from the disfiguring disease.
 
   
 I’ll be entirely honest here: **I’m not surprised.** I just had a hard time believing that a species with a conservative census size of 20,000 didn’t have enough extant genetic variation potentiality to come up with an evolutionary response. I’ve talked about the decimation of Native Americans due to disease, but even in this extreme case residual populations remained. A great deal of Native genetic material was also passed on to mestizo populations.  

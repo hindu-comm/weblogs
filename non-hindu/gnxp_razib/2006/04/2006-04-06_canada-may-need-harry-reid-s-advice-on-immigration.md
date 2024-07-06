@@ -11,15 +11,15 @@ Canada May Need Harry Reid's Advice on Immigration
 
 The Democratic Minority Leader Harry Reid blocked an amendment which would have made illegal aliens who were [convicted felons](http://www.washingtontimes.com/national/20060404-105601-5010r.htm) from being eligible for citizenship:
 
-> Senate Democrats refused to allow consideration of an amendment > yesterday that would bar illegal aliens convicted of felonies from > obtaining U.S. citizenship. >
-> Democrats said the amendment would “gut” the immigration bill under > consideration in the Senate and refused to allow a vote on it. . . . >
-> “I do not have to explain in any more detail than what I have as why I > don’t want to move forward,” Mr. Reid said. “I don’t agree with the > amendment. I don’t think it’s going to benefit this legislation that > is pending before the Senate and I’m going to do what I can to prevent > a vote on it.”
+> Senate Democrats refused to allow consideration of an amendment yesterday that would bar illegal aliens convicted of felonies from obtaining U.S. citizenship. >
+> Democrats said the amendment would “gut” the immigration bill under consideration in the Senate and refused to allow a vote on it. . . . >
+> “I do not have to explain in any more detail than what I have as why I > don’t want to move forward,” Mr. Reid said. “I don’t agree with the amendment. I don’t think it’s going to benefit this legislation that is pending before the Senate and I’m going to do what I can to prevent a vote on it.”
 
 Meanwhile, across the norther border those uncouth Canadians seem to have missed the memo on how [convicted felons](http://www.cbc.ca/story/canada/national/2006/04/06/deport-fuqra.html) are good prospective citizens:
 
-> Three men convicted of planning to bomb a Hindu temple in Toronto more > than a decade ago were deported on Wednesday. >
-> Barry Adams, Amir Mohammed Ahmed and Abdul Baqqer were arrested in > 1991 while crossing the border from the United States. They were > convicted in 1994 of conspiring to bomb a temple and an East Indian > movie theatre. . . . >
-> A spokesperson with Canada Border Services Agency said the men were > kicked out of the country as soon as their 12-year prison sentences > were completed.
+> Three men convicted of planning to bomb a Hindu temple in Toronto more than a decade ago were deported on Wednesday. >
+> Barry Adams, Amir Mohammed Ahmed and Abdul Baqqer were arrested in 1991 while crossing the border from the United States. They were convicted in 1994 of conspiring to bomb a temple and an East Indian movie theatre. . . . >
+> A spokesperson with Canada Border Services Agency said the men were kicked out of the country as soon as their 12-year prison sentences were completed.
 
 Imagine holding the opinion that some people just aren’t worth having as fellow citizens.
 

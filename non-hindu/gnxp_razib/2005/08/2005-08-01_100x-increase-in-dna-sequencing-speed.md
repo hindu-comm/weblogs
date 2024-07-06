@@ -11,11 +11,11 @@ Source: [here](https://www.gnxp.com/WordPress/2005/08/01/100x-increase-in-dna-se
 
 Nature News reports on the successful application of a new sequencing technology:
 
-> Writing in Nature, Marcel Margulies, Michael Egholm and colleagues > describe a method that they say reads genomes 100 times faster than > the current technology, which is based on a tried and true technique > called the Sanger method. >
-> Machines based on the Sanger method typically read 67,000 letters of > the DNA code, also known as bases, in an hour; Rothberg says his > method can decipher more than 6 million bases in the same time. >
-> “We’re a hundred times faster than Sanger, and we’re just getting > started,” says Rothberg. >
-> The 454 method is quick thanks to automation: the entire process from > the initial multiplication of segments of DNA through to their > sequencing is done using microfluidic technologies. It also analyses > thousands of DNA molecules simultaneously. In contrast, Sanger > sequencing takes many steps, and technicians are required to move the > DNA from one stage to the next (see ‘Cutting corners’). >
-> Using the 454 technique, one person using one machine could easily > sequence the 3 billion base pairs in the human genome in a hundred > days, Rothberg says.
+> Writing in Nature, Marcel Margulies, Michael Egholm and colleagues describe a method that they say reads genomes 100 times faster than the current technology, which is based on a tried and true technique called the Sanger method. >
+> Machines based on the Sanger method typically read 67,000 letters of the DNA code, also known as bases, in an hour; Rothberg says his method can decipher more than 6 million bases in the same time. >
+> “We’re a hundred times faster than Sanger, and we’re just getting started,” says Rothberg. >
+> The 454 method is quick thanks to automation: the entire process from > the initial multiplication of segments of DNA through to their > sequencing is done using microfluidic technologies. It also analyses thousands of DNA molecules simultaneously. In contrast, Sanger sequencing takes many steps, and technicians are required to move the DNA from one stage to the next (see ‘Cutting corners’). >
+> Using the 454 technique, one person using one machine could easily sequence the 3 billion base pairs in the human genome in a hundred days, Rothberg says.
 
 There are still important caveats with the current state of this new technology, but it’s exciting nonetheless.
 
@@ -23,7 +23,7 @@ The cost/speed of sequencing technology has increased exponentially since its in
 
 [A 2004 review gives some perspective](http://www.nature.com/nrg/journal/v5/n5/abs/nrg1325_fs.html):
 
-> The dark-blue plot indicates the Kurzweil/Moore’s Law108: it describes > the doubling of computer instructions per second per US dollar (IPS/US > \$) that has been occurring approximately every 18 months since 1900. > The magenta plot indicates an exponential growth in the number of base > pairs of accurate DNA sequence per unit cost (bp/US \$) as a function > of time1. To some extent, the doubling time for DNA mimics the IPS/US > \$ curve because it is dependent on it. An even steeper segment occurs > in the orange curve; this depicts the number of web sites (doubling > time of four months)109 and shows how quickly a technology can explode > when a protocol that can be shared spreads through an existing > infrastructure. The turquoise plot is an ‘Open Source’ case study of > ‘FLUORESCENT IN SITU SEQUENCING’ with polonies40 (see main text for > details of this DNA-sequencing technology) in bp/min on simple test > templates (doubling time of one month).
+> The dark-blue plot indicates the Kurzweil/Moore’s Law108: it describes > the doubling of computer instructions per second per US dollar (IPS/US > \$) that has been occurring approximately every 18 months since 1900. > The magenta plot indicates an exponential growth in the number of base > pairs of accurate DNA sequence per unit cost (bp/US \$) as a function > of time1. To some extent, the doubling time for DNA mimics the IPS/US > \$ curve because it is dependent on it. An even steeper segment occurs > in the orange curve; this depicts the number of web sites (doubling > time of four months)109 and shows how quickly a technology can explode > when a protocol that can be shared spreads through an existing > infrastructure. The turquoise plot is an ‘Open Source’ case study of ‘FLUORESCENT IN SITU SEQUENCING’ with polonies40 (see main text for details of this DNA-sequencing technology) in bp/min on simple test templates (doubling time of one month).
 
 ### Related Posts:
 

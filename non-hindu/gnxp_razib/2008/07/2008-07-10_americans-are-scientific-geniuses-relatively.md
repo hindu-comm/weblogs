@@ -11,7 +11,7 @@ Americans are scientific geniuses (relatively)
 
 I’ve already posted on GSS results on science knowledge. But what about the international context? Th working paper [Civic Scientific Literacy in Europe and the United States](http://www.arcsfoundation.org/Pittsburgh/JMiller.pdf) has some interesting data which has international comparisons. Here’s an interesting fact regarding “scientific literacy”:
 
-> This confirmatory factor analysis demonstrates that all 32 of these > items reflect a common factor. The uniformly high factor loadings > suggest that many of these items are interchangeable and that would be > possible to use a subset of these items if one needed a measure of > civic scientific literacy and could not collect a set of 32 items.
+> This confirmatory factor analysis demonstrates that all 32 of these > items reflect a common factor. The uniformly high factor loadings suggest that many of these items are interchangeable and that would be possible to use a subset of these items if one needed a measure of civic scientific literacy and could not collect a set of 32 items.
 
 In short, the data here suggests to me that the stupid within a population are less scientifically literate. That’s probably the single factor which explains most of the variation. But note the factor loadings on specific questions:
 

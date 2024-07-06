@@ -19,13 +19,13 @@ Why is Duffy different? Obviously it could be random. Assuming you have a polymo
 
 This is probably not the case with Duffy. I’ll quote from Wikipedia:
 
-> The Duffy antigen is located on the surface of red blood cells, and is > named after the patient in which it was discovered. The protein > encoded by this gene is a glycosylated membrane protein and a > non-specific receptor for several chemokines. The protein is also the > receptor for the human malarial parasites *Plasmodium vivax* and > *Plasmodium knowlesi*. Polymorphisms in this gene are the basis of the > Duffy blood group system.
+> The Duffy antigen is located on the surface of red blood cells, and is > named after the patient in which it was discovered. The protein > encoded by this gene is a glycosylated membrane protein and a > non-specific receptor for several chemokines. The protein is also the receptor for the human malarial parasites *Plasmodium vivax* and *Plasmodium knowlesi*. Polymorphisms in this gene are the basis of the Duffy blood group system.
 
 [![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/03/51-SOICQfSL._SX334_BO1204203200_.jpg?resize=250%2C371)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/03/51-SOICQfSL._SX334_BO1204203200_.jpg?resize=250%2C371)](https://www.amazon.com/exec/obidos/ASIN/0471409510/geneexpressio-20)Malaria is one of the strongest selection pressures known to humanity. The balancing selection which results in [sickle-cell disease](https://en.wikipedia.org/wiki/Sickle-cell_disease#Genetics) is well known even among the general public. But the likely selection pressures due to the*vivax*variety are well commonly talked about, partly because they don’t as a side-effect induce a serious disease. Duffy may be canonical if you are a human population geneticist, but it is of less interest more generally.
 
 But a recent paper in*PLOS GENETICS*shows just how dynamic the evolutionary genetic past of our species was, through the lens of the Duffy system, [Population genetic analysis of the DARC locus (Duffy) reveals adaptation from standing variation associated with malaria resistance in humans](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006560). Here’s the author summary:
 
-> Infectious diseases have undoubtedly played an important role in > ancient and modern human history. Yet, **there are relatively few > regions of the genome involved in resistance to pathogens that show a > strong selection signal in current genome-wide searches for this kind > of signal**. We revisit the evolutionary history of a gene associated > with resistance to the most common malaria-causing parasite, > *Plasmodium* *vivax*, and show that it is one of regions of the human > genome that has been under strongest selective pressure in our > evolutionary history (selection coefficient: 4.3%). Our results are > consistent with a complex evolutionary history of the locus involving > selection on a mutation that was at a very low frequency in the > ancestral African population (standing variation) and subsequent > differentiation between European, Asian and African populations.
+> Infectious diseases have undoubtedly played an important role in > ancient and modern human history. Yet, **there are relatively few > regions of the genome involved in resistance to pathogens that show a > strong selection signal in current genome-wide searches for this kind > of signal**. We revisit the evolutionary history of a gene associated > with resistance to the most common malaria-causing parasite, > *Plasmodium* *vivax*, and show that it is one of regions of the human > genome that has been under strongest selective pressure in our > evolutionary history (selection coefficient: 4.3%). Our results are > consistent with a complex evolutionary history of the locus involving selection on a mutation that was at a very low frequency in the ancestral African population (standing variation) and subsequent differentiation between European, Asian and African populations.
 
 Why is it that regions of the genome subject to selection due to co-evolution with pathogens are hard to detect in relation to selection? **My response would be that it’s because selection and adaptation are always happening in these regions, constantly erasing its footprints in these regions of the genome**.
 
@@ -53,7 +53,8 @@ If I had to guess I suspect that the ancestors of the Khoisan as we understand t
 
 ### Related Posts:
 
-- [Correct me?](https://www.gnxp.com/WordPress/2006/03/29/correct-me/) - [Evolution, a reason for the African HIV
+- [Correct me?](https://www.gnxp.com/WordPress/2006/03/29/correct-me/)
+- [Evolution, a reason for the African HIV
   epidemic?](https://www.gnxp.com/WordPress/2008/07/16/evolution-a-reason-for-the-african-hiv-epidemic/) - [HIV susceptibility, a "black" thing, not a Duffy
   thing?](https://www.gnxp.com/WordPress/2008/07/19/hiv-susceptibility-a-black-thing-not-a-duffy-thing/) - [More complex than simple
   addition](https://www.gnxp.com/WordPress/2006/12/26/more-complex-than-simple-addition/) - [Selection swimming against the genomic

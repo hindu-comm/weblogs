@@ -11,9 +11,9 @@ Nature Precedings closes up shop
 
 Here’s the [announcement](http://precedings.nature.com/):
 
-> As of April 3rd 2012, we will cease to accept submissions to Nature > Precedings. Nature Precedings will then be archived, and the archive > will be maintained by NPG, while all hosted content will remain freely > accessible to all. >
-> Looking forward, NPG remains committed to exploring ways to help > researchers, funders, and institutions manage data and best practices > in data management, and we plan to introduce new services in this > area. >
-> We have truly valued your contributions as authors and users to Nature > Precedings and hope that you will actively participate in this > research and development with us.”
+> As of April 3rd 2012, we will cease to accept submissions to Nature Precedings. Nature Precedings will then be archived, and the archive will be maintained by NPG, while all hosted content will remain freely accessible to all. >
+> Looking forward, NPG remains committed to exploring ways to help researchers, funders, and institutions manage data and best practices in data management, and we plan to introduce new services in this area. >
+> We have truly valued your contributions as authors and users to Nature Precedings and hope that you will actively participate in this research and development with us.”
 
 This comes on the heels of [Dr. Joseph Pickrell’s](http://www.genomesunzipped.org/2012/03/identifying-targets-of-natural-selection-in-human-and-dog-evolution.php) first author submission of a [preprint](http://precedings.nature.com/documents/6956/version/1). Correlation? Yes. Coincidence? I’ll let you decide.
 

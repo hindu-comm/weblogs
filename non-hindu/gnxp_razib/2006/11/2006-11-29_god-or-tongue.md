@@ -11,7 +11,7 @@ God or tongue?
 
 Over at [Michael Brendan Dougherty’s place](http://surfeited.net/) a [debate broke out](http://surfeited.net/blog/the-cayucos-in-spain-fall-mainly.html#comments) over the relative importance of language vs. religion in the Irish identity. This could perhaps be abstracted and extrapolated to many peoples and nations. In the comments [Daniel Larison](http://larison.org/) offered:
 
-> But then I also think that Catholicism in Ireland predates the 19th > century and has more to do with Irish culture than a nearly dead > Celtic language that was mostly revived by modern nationalists.
+> But then I also think that Catholicism in Ireland predates the 19th century and has more to do with Irish culture than a nearly dead Celtic language that was mostly revived by modern nationalists.
 
 Larison is no idiot, a Ph.D. candidate in Byzantine Studies he certainly has the sense and knowledge to take the long view, but this seemed a rather peculiar and flip comment to me (I’m being Christian here).  
 1) I was to understand [Gaelic](https://en.wikipedia.org/wiki/Goidelic_language#Irish) was the dominant language in Ireland until the 1840s.  
@@ -20,7 +20,8 @@ My own interest in the topic is derived in part from my own background as a [Ben
 
 ### Related Posts:
 
-- [The American Scene - part
+- [The American Scene
+- part
   II](https://www.gnxp.com/WordPress/2007/06/26/the-american-scene-part-ii/) - [A request for bloggingheads.tv - Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Do you like the sound of your own
   voice?](https://www.gnxp.com/WordPress/2008/10/21/do-you-like-the-sound-of-your-own-voice/) - [Daniel Larison & the

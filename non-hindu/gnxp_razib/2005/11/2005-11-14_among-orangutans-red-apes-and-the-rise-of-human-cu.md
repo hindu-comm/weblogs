@@ -11,8 +11,8 @@ Source: [here](https://www.gnxp.com/WordPress/2005/11/14/among-orangutans-red-ap
 
 Short but interesting [interview](http://www.nytimes.com/2005/11/15/science/15conv.html) with [Carel van Schaik](http://www.research-projects.unizh.ch/math/unit70200/area63/) (orangutan researcher) in the NYT:
 
-> Q. So your discovery that the orangutans learned tool use from one > another explains “the rise of human culture” part of your book’s > subtitle? >
-> A. Well, yes. Orangutans split off from the African lineage some 14 > million years ago. If both chimps and orangutans make tools, our > common great ape ancestor probably had the capacity for culture.
+> Q. So your discovery that the orangutans learned tool use from one another explains “the rise of human culture” part of your book’s subtitle? >
+> A. Well, yes. Orangutans split off from the African lineage some 14 million years ago. If both chimps and orangutans make tools, our common great ape ancestor probably had the capacity for culture.
 
 ### Related Posts:
 

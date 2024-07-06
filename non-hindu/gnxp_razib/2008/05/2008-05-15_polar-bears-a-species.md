@@ -16,7 +16,8 @@ Since everyone is talking about the fact that the [Polar Bear how become a prote
 
 ### Related Posts:
 
-- [Pizzly shot](https://www.gnxp.com/WordPress/2008/05/26/pizzly-shot/) - [Example of an
+- [Pizzly shot](https://www.gnxp.com/WordPress/2008/05/26/pizzly-shot/)
+- [Example of an
   ecotype](https://www.gnxp.com/WordPress/2006/11/16/example-of-an-ecotype/) - [Of Polar Bears &
   People](https://www.gnxp.com/WordPress/2010/03/01/of-polar-bears-people/) - [Woman attacked by polar bear (live
   footage)](https://www.gnxp.com/WordPress/2009/04/12/woman-attacked-by-polar-bear-live-footage/) - [Polar bear woman was

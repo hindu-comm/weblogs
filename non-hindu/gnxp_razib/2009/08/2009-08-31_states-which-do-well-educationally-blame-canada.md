@@ -11,10 +11,10 @@ States which do well educationally, blame Canada!
 
 [Mike the Mad Biologist](http://scienceblogs.com/mikethemadbiologist/2009/08/zomg_teh_kidz_dont_know_scient.php) points out that Massachusetts, New Jersey, Minnesota and New Hampshire do better on math scores for elementary age students than most of Europe, and are competitive with Asia. Here are Mike’s factors for why this might be:
 
-> -Low child poverty rates as measured by school lunch subsidies (a > common proxy for poverty).  
+> -Low child poverty rates as measured by school lunch subsidies (a common proxy for poverty).  
 > -Low divorce rates.  
-> -Effective public health departments. MA, NJ, and MN have very good > public health systems, and NH has some excellent programs (e.g., > electronic syndromic surveillance)  
-> -High incomes. Overall, these are healthy state economies (as good as > one can get anyway).  
+> -Effective public health departments. MA, NJ, and MN have very good public health systems, and NH has some excellent programs (e.g., electronic syndromic surveillance)  
+> -High incomes. Overall, these are healthy state economies (as good as one can get anyway).  
 > -Educated adult populations.
 
 I’ll add a sixth: they’re all close to Canada. I pointed out last year that being close to Canada also prevents murder. Being close to [Canada also persuaded whites to vote for Barack Obama](https://www.gnxp.com/blog/2009/08/non-black-voting-democrat-in-2008.php). It even seems to have a salubrious effect on [life expectancy](https://www.gnxp.com/blog/2009/07/dont-blame-canada.php). I wonder if American xenophobia can explain the long neglect of the critical “Canada factor” in our social outcomes? And why aren’t Canadians trumpeting the positive social effect of their proximity? Is it because they want to maintain relative advantages and prevent possible overcrowding on the Canadian border? Isn’t it a bit suspicious that Vermont, New Hampshire, Maine and North Dakota are so underpopulated? That Potsdam is dwarfed by New York City?

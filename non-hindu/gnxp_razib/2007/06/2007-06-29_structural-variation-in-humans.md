@@ -13,7 +13,8 @@ Nature Genetics has a [free supplement](http://www.nature.com/ng/journal/v39/n7s
 
 ### Related Posts:
 
-- [Beyond SNPs - Structural variation in the human
+- [Beyond SNPs
+- Structural variation in the human
   genome](https://www.gnxp.com/WordPress/2006/01/23/beyond-snps-structural-variation-in-the-human-genome/) - [Common structural variants are like
   SNPs](https://www.gnxp.com/WordPress/2006/05/11/common-structural-variants-are-like-snps/) - [Structural polymorphisms and
   SNPs](https://www.gnxp.com/WordPress/2006/06/30/structural-polymorphisms-and-snps/) - [The alpha of the pack once

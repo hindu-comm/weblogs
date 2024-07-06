@@ -11,9 +11,9 @@ Men’s language and women’s language
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2021/05/wanderskingsmerchants.jpeg?resize=178%2C284&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2021/05/wanderskingsmerchants.jpeg?resize=178%2C284&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B091CYW65Z/geneexpressio-20)[Indian English is a Prakrit, not a creole, says linguist Peggy Mohan](https://www.thehindu.com/society/history-and-culture/indian-english-is-a-prakrit-not-a-creole-says-linguist-peggy-mohan/article34615674.ece). This part jumped out at me:
 
-> **You mention that women were likely barred from writing Vedic poetry. > But weren’t there some Vedic poetesses?** >
-> \[Philologist\] Michael Witzel thinks no. It’s possible, but we do > know that women were not allowed to speak Sanskrit after some time. > Witzel says they were men speaking as women. It fits the pattern of > women being different, speaking an earlier language. >
-> In Vedic ceremonies, their role is extremely limited. **It’s almost > like the women were a separate ethnic group.** And they had to be > tolerated because there would be no children without them, but they > were the people who, on another day, you were fighting on the > battlefield.
+> **You mention that women were likely barred from writing Vedic poetry. But weren’t there some Vedic poetesses?** >
+> \[Philologist\] Michael Witzel thinks no. It’s possible, but we do know that women were not allowed to speak Sanskrit after some time. Witzel says they were men speaking as women. It fits the pattern of women being different, speaking an earlier language. >
+> In Vedic ceremonies, their role is extremely limited. **It’s almost > like the women were a separate ethnic group.** And they had to be tolerated because there would be no children without them, but they were the people who, on another day, you were fighting on the battlefield.
 
 The latest work I’ve seen shows even in northern Pakistani groups [steppe-derived mtDNA](https://www.nature.com/articles/s41431-021-00829-6) is present at around 10% of the total. You can look at the raw results for the Sintashta in [Narasimhan et al.](https://science.sciencemag.org/content/sci/suppl/2019/09/04/365.6457.eaat7487.DC1/aat7487_Narasimhan_SM.pdf), and the discontinuity in the Y vs. mtDNA is striking.
 

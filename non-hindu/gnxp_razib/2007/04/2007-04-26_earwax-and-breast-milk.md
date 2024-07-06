@@ -11,7 +11,7 @@ Earwax and breast milk
 
 Miura, Yoshiura, Miura, Shimada, Yamasaki, Yoshida, et al. [A strong association between human earwax-type and apocrine colostrum secretion from the mammary gland.](https://dx.doi.org/10.1007/s00439-007-0356-9) Human Genetics.
 
-> Here we provided the first genetic evidence for an association between > the degree of [apocrine](https://en.wikipedia.org/wiki/Apocrine) > [colostrum](https://en.wikipedia.org/wiki/Colostrum) secretion and > human earwax type. Genotyping at the earwax-type locus, rs17822931 > within the ABCC11 gene, revealed that 155 of 225 Japanese women were > dry-type and 70 wet-type. Frequency of women without colostrum among > dry-type women was significantly higher than that among wet-type women > (P \< 0.0002), and the measurable colostrum volume in dry-type women > was significantly smaller than in wet-type women (P = 0.0341).
+> Here we provided the first genetic evidence for an association between > the degree of [apocrine](https://en.wikipedia.org/wiki/Apocrine) > [colostrum](https://en.wikipedia.org/wiki/Colostrum) secretion and > human earwax type. Genotyping at the earwax-type locus, rs17822931 > within the ABCC11 gene, revealed that 155 of 225 Japanese women were > dry-type and 70 wet-type. Frequency of women without colostrum among dry-type women was significantly higher than that among wet-type women (P \< 0.0002), and the measurable colostrum volume in dry-type women was significantly smaller than in wet-type women (P = 0.0341).
 
 **Related from Razib:** Here are [two](http://scienceblogs.com/gnxp/2006/01/wet_or_dry_ear_wax.php) [posts](http://scienceblogs.com/gnxp/2006/02/ear_wax_table.php) from me on earwax distributions worldwide.
 

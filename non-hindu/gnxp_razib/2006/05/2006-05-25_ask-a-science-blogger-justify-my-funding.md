@@ -11,7 +11,7 @@ Ask a Science Blogger – “Justify my funding”
 
 This week’s “Ask a Science Blogger” is:
 
-> Since they’re funded by taxpayer dollars (through the NIH, NSF, and so > on), should scientists have to justify their research agendas to the > public, rather than just grant-making bodies?
+> Since they’re funded by taxpayer dollars (through the NIH, NSF, and so on), should scientists have to justify their research agendas to the public, rather than just grant-making bodies?
 
   
 This question is loaded because how you interpret it really colors how you respond. I would say, **no**, the public doesn’t really understand any specific science, just as physicists and biologists (or biochemists and population geneticists) don’t really understand the particulars of other fields. Unfortunately, science is the domain of specialists, even across and within disciplines. This isn’t a good thing, but I don’t have a magic potion to cure it, so until we find a better solution peers are the only judge we have of quality of work besides reality. If the public had a *direct* input I’m afraid astrophysists would be submitting proposals to “know the mind of god” and biologists would start picking model organisms based on how cute they were (though they might pussyfoot around with what they’d have to do to those organisms), and god knows how many doctors would want to study the effect of prayer on mortality (seriously, if only a small % of grant applications get approved, would no one take the low road if popular vote counted?).  

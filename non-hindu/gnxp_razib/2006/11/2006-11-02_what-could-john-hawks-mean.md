@@ -11,7 +11,7 @@ What could John Hawks mean….(?)
 
 John Hawks [says](http://johnhawks.net/weblog/site/traffic_update_nov_2006.html):
 
-> So keep on coming by — I guarantee there will be some very interesting > stuff in the next two months.
+> So keep on coming by — I guarantee there will be some very interesting stuff in the next two months.
 
 Things that make you go hhhmmm….  
 Well, go this symposium:  

@@ -11,7 +11,7 @@ Band of Brothers
 
 At Cognitive Daily, [Men often treat their friends better than women do](http://scienceblogs.com/cognitivedaily/2009/11/men_arent_always_less_sociable.php?utm_source=selectfeed&utm_medium=rss):
 
-> The researchers say these three studies show that men are more > tolerant of their friends’ failings than women. Does this mean that > men are more “sociable”? That’s less certain. After all, it could be > that women value the friendships more, and so are harsher judges when > they perceive a betrayal. Regardless of your interpretation of these > results, however, it seems that the stereotype of “men harsh, women > friendly” is not always valid. In many cases, it can be said that > women are less tolerant than men.
+> The researchers say these three studies show that men are more > tolerant of their friends’ failings than women. Does this mean that > men are more “sociable”? That’s less certain. After all, it could be > that women value the friendships more, and so are harsher judges when > they perceive a betrayal. Regardless of your interpretation of these results, however, it seems that the stereotype of “men harsh, women friendly” is not always valid. In many cases, it can be said that women are less tolerant than men.
 
 The research focused on college roommates. The only area where males were harsher than females in evaluating their roommates was in hygiene. In any case, there’s other research which [I’ve drawn upon](http://scienceblogs.com/gnxp/2006/09/why_patriarchy.php) to suggest that males are much better are scaling up in terms of social units capable of “collective action” than females.
 

@@ -27,7 +27,9 @@ Some links on the [Substack](https://razib.substack.com/p/rkul-a-little-light-re
 
 ### Related Posts:
 
-- [Open Thread - 10/01/2021 - Gene
+- [Open Thread
+- 10/01/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/10/01/open-thread-10-01-2021-gene-expression/) - [Unsupervised Learning Podcast
   reviews](https://www.gnxp.com/WordPress/2021/02/22/unsupervised-learning-podcast-reviews/) - [Open Thread - 07/09/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/07/09/open-thread-07-09-2021-gene-expression/) - [Ungated Unsupervised Learning

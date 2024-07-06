@@ -15,7 +15,7 @@ Now *Science* has a commentary out, [Crowdsourced genealogies and genomes](https
 
 This fact from that piece is really illustrative of what’s happening today:
 
-> As the number of customers of whole-genome DTC genetic testing just > crossed 16 million, **it is worth noting that almost two-thirds of > them joined since the beginning of 2017** \[19\]. Based on current > rates, this number of customers is predicted to be close to 100 > million by end of 2020.
+> As the number of customers of whole-genome DTC genetic testing just > crossed 16 million, **it is worth noting that almost two-thirds of them joined since the beginning of 2017** \[19\]. Based on current rates, this number of customers is predicted to be close to 100 million by end of 2020.
 
 ### Related Posts:
 

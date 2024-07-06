@@ -11,7 +11,7 @@ Battle of the disciplines
 
 I’m conflicted, [Discovering functional relationships: biochemistry versus genetics](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TCY-4GGWG4P-1&_user=10&_handle=V-WA-A-W-AA-MsSAYWA-UUA-U-AAWCUBVAUZ-AAWWZAVEUZ-WVEEUAWDY-AA-U&_fmt=full&_coverDate=08%2F31%2F2005&_rdoc=3&_orig=browse&_srch=%23toc%235183%232005%23999789991%23602039%21&_cdi=5183&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=232da1748dd14b6246d581d5f19165fd):
 
-> Biochemists and geneticists, represented by Doug and Bill in classic > essays, have long debated the merits of their methods. We revisited > this issue using genomic data from the budding yeast, Saccharomyces > cerevisiae, and found that genetic interactions outperformed protein > interactions in predicting functional relationships between genes. > However, when combined, these interaction types yielded superior > performance, convincing Doug and Bill to call a truce.
+> Biochemists and geneticists, represented by Doug and Bill in classic > essays, have long debated the merits of their methods. We revisited > this issue using genomic data from the budding yeast, Saccharomyces > cerevisiae, and found that genetic interactions outperformed protein interactions in predicting functional relationships between genes. However, when combined, these interaction types yielded superior performance, convincing Doug and Bill to call a truce.
 
 I’ve cut & pasted the text below, it works out in the end.
 

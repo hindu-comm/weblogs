@@ -25,7 +25,8 @@ Posted by razib at [06:27 PM](https://www.gnxp.com/MT2/archives/003869.html) [](
 
 ### Related Posts:
 
-- [Flu - Remember
+- [Flu
+- Remember
   SARS?](https://www.gnxp.com/WordPress/2005/10/19/flu-remember-sars/) - [Flu, evolution and
   Ewald](https://www.gnxp.com/WordPress/2005/11/11/flu-evolution-and-ewald/) - [Avian Flu
   Hysteria](https://www.gnxp.com/WordPress/2005/10/18/avian-flu-hysteria/) - [Birds not so 'bird-brained' after

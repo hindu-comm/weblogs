@@ -12,7 +12,7 @@ There were giants in the earth in those days
 [![horsewheellanguage](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/01/horsewheellanguage-197x300.gif?resize=197%2C300)![horsewheellanguage](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/01/horsewheellanguage-197x300.gif?resize=197%2C300)](https://www.amazon.com/exec/obidos/ASIN/B003TSEL1Y/geneexpressio-20)  
 **Update:** The [preprint is out](http://biorxiv.org/content/biorxiv/early/2015/02/10/013433.full.pdf). **End update**
 
-> … and also after that, when the sons of God came in unto the daughters > of men, and they bare children to them, the same became mighty men > which were of old, men of renown.
+> … and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
 *Genesis, 6:4*
 

@@ -11,9 +11,9 @@ Increased rates of sexually transmitted diseases amongst the older
 
 [Doubling Of Sexually Transmitted Infections Among Over-45s In Under A Decade](http://www.sciencedaily.com/releases/2008/06/080629191247.htm). Dare we say an “epidemic???” If you want to push the envelope of course, [She was 82. He was 95. They had dementia. They fell in love. And then they started having sex.](http://www.slate.com/id/2192178/) In any case:
 
-> While the numbers of infections identified in younger age groups rose > 97% during the period of the study, those identified in the over 45s > rose 127%.  
+> While the numbers of infections identified in younger age groups rose 97% during the period of the study, those identified in the over 45s rose 127%.  
 > …  
-> “Indeed, it may be argued that older people are more susceptible \[to > sexually transmitted infections\] as they are less likely to use > condoms than younger people,” they say, adding that as successive > waves of people with more liberal sexual attitudes and behaviours age, > the problem is likely to worsen.
+> “Indeed, it may be argued that older people are more susceptible \[to > sexually transmitted infections\] as they are less likely to use condoms than younger people,” they say, adding that as successive waves of people with more liberal sexual attitudes and behaviours age, the problem is likely to worsen.
 
 I guess the “safe sex” message just isn’t getting through to the less young.
 

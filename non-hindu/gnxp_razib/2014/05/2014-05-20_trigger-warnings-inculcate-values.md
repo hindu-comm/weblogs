@@ -15,7 +15,7 @@ There’s been a lot of discussion over the past few days about “trigger warni
 
 From *The New York Times* piece:
 
-> “Be aware of racism, classism, sexism, heterosexism, cissexism, > ableism, and other issues of privilege and oppression,” the guide > said. “Realize that all forms of violence are traumatic, and that your > students have lives before and outside your classroom, experiences you > may not expect or understand.” For example, it said, while “Things > Fall Apart” by Chinua Achebe — a novel set in colonial-era Nigeria — > is a “triumph of literature that everyone in the world should read,” > it could “trigger readers who have experienced racism, colonialism, > religious persecution, violence, suicide and more.”
+> “Be aware of racism, classism, sexism, heterosexism, cissexism, > ableism, and other issues of privilege and oppression,” the guide > said. “Realize that all forms of violence are traumatic, and that your > students have lives before and outside your classroom, experiences you > may not expect or understand.” For example, it said, while “Things > Fall Apart” by Chinua Achebe — a novel set in colonial-era Nigeria — is a “triumph of literature that everyone in the world should read,” it could “trigger readers who have experienced racism, colonialism, religious persecution, violence, suicide and more.”
 
 The new is always old. Kevin Drum’s [mild critique](http://www.motherjones.com/kevin-drum/2014/05/whats-end-game-trigger-warning-movement) of triggering could be about Christian colleges.
 

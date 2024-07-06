@@ -11,12 +11,13 @@ The consequences of sex selective abortion?
 
 [India: Rural villagers say, “no toilet, no bride”](http://tiny.cc/KTkYT):
 
-> In Ladravan, a village of farms and brick kilns about an hour’s drive > from Delhi international airport, one bride has already divorced her > groom when she learned that his family lied about having a toilet, > says Anil Kumar Chhikara, one of the village leaders. Another young > woman, Monica, says of any potential suitor, “I’ll be asking him to > build a toilet.” And if he doesn;t? “Then I won;t marry him.” >
-> Women have more clout these days in the village, says Mr. Chhikara, > because years of selective-sex abortions have left more bachelors than > potential brides.
+> In Ladravan, a village of farms and brick kilns about an hour’s drive > from Delhi international airport, one bride has already divorced her > groom when she learned that his family lied about having a toilet, says Anil Kumar Chhikara, one of the village leaders. Another young woman, Monica, says of any potential suitor, “I’ll be asking him to build a toilet.” And if he doesn;t? “Then I won;t marry him.” >
+> Women have more clout these days in the village, says Mr. Chhikara, because years of selective-sex abortions have left more bachelors than potential brides.
 
 ### Related Posts:
 
-- [Nerd humor](https://www.gnxp.com/WordPress/2006/08/15/nerd-humor/) - [Twins in
+- [Nerd humor](https://www.gnxp.com/WordPress/2006/08/15/nerd-humor/)
+- [Twins in
   Kerala](https://www.gnxp.com/WordPress/2010/03/16/twins-in-kerala/) - [Pro forma hand
   wringing?](https://www.gnxp.com/WordPress/2007/05/12/pro-forma-hand-wringing/) - [Pro forma hand
   wringing?](https://www.gnxp.com/WordPress/2007/05/12/pro-forma-hand-wringing/) - [Women care more about abortion

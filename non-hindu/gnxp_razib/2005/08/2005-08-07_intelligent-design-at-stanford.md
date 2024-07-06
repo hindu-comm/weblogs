@@ -11,9 +11,9 @@ Intelligent Design at Stanford
 
 [Debate on evolution begins to flare in the Bay Area](http://www.mercurynews.com/mld/mercurynews/news/local/states/california/peninsula/12324516.htm):
 
-> “While evolution is a viable theory in many people’s research, it > should be considered what it is — a theory,” said Steve Stenstrom, an > intelligent-design backer and former Stanford University quarterback > who played for the Chicago Bears and San Francisco 49ers. >
-> “We need to recognize we still don’t have answers to a lot of > questions about creation. We need to be honest about that and not just > throw intelligent design out because it might cause people to believe > in God.” >
-> Stenstrom helped students organize the first conference on intelligent > design last year while he was an adviser for Mosaic, a coalition of > Christian groups at Stanford, and Cardinal Life, a Christian group for > athletes in which he was an active member as a student 11 years ago.
+> “While evolution is a viable theory in many people’s research, it should be considered what it is — a theory,” said Steve Stenstrom, an intelligent-design backer and former Stanford University quarterback who played for the Chicago Bears and San Francisco 49ers. >
+> “We need to recognize we still don’t have answers to a lot of questions about creation. We need to be honest about that and not just throw intelligent design out because it might cause people to believe in God.” >
+> Stenstrom helped students organize the first conference on intelligent design last year while he was an adviser for Mosaic, a coalition of Christian groups at Stanford, and Cardinal Life, a Christian group for athletes in which he was an active member as a student 11 years ago.
 
 ### Related Posts:
 

@@ -12,7 +12,7 @@ Nearly 20% of McDonald’s will have electronic kiosks by the end of 2017
   
 [McDonald’s hits all-time high as Wall Street cheers replacement of cashiers with kiosks](http://www.cnbc.com/2017/06/20/mcdonalds-hits-all-time-high-as-wall-street-cheers-replacement-of-cashiers-with-kiosks.html/):
 
-> Andrew Charles from Cowen cited plans for the restaurant chain to roll > out mobile ordering across 14,000 U.S. locations by the end of 2017. > The technology upgrades, part of what McDonald’s calls “Experience of > the Future,” includes digital ordering kiosks that will be offered in > 2,500 restaurants by the end of the year and table delivery.
+> Andrew Charles from Cowen cited plans for the restaurant chain to roll > out mobile ordering across 14,000 U.S. locations by the end of 2017. The technology upgrades, part of what McDonald’s calls “Experience of the Future,” includes digital ordering kiosks that will be offered in 2,500 restaurants by the end of the year and table delivery.
 
 There are 14,500 locations. Right now 500 stores have kiosks.
 

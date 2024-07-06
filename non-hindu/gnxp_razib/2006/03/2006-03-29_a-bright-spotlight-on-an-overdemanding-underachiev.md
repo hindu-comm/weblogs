@@ -11,9 +11,9 @@ A Bright Spotlight On An OverDemanding UnderAchiever
 
 [Moebius Stripper](http://talldarkandmysterious.ca/archives/2006/03/22/your-stupid-misconceptions-addressed/) responds to a comment left on her blog by a student (not her student though) who wants to set Moebius straight about the grand purpose of education. Some highlights:
 
-> – From my experience, the real learning does not take place in school > anyways. >
-> – Then, what’s the real point of going to university or college? > learning? well, maybe, a little bit. I don’t think that learning > something in three months and then getting tested on it(whether it’s > math or statistics) can make one more educated. >
-> – I have found, from my undergraduate experience, that professors and > TA’s can be totally unreasonable and unfair when marking students’ > tests. I can understand that from a teacher’s point of view, you may > not think you have done anything wrong. But from the students’ point > of view, we have not done anything wrong neither. And there is no > reason why you must be absolutely right, and we must be absolutely > wrong.
+> – From my experience, the real learning does not take place in school anyways. >
+> – Then, what’s the real point of going to university or college? learning? well, maybe, a little bit. I don’t think that learning something in three months and then getting tested on it(whether it’s math or statistics) can make one more educated. >
+> – I have found, from my undergraduate experience, that professors and > TA’s can be totally unreasonable and unfair when marking students’ > tests. I can understand that from a teacher’s point of view, you may > not think you have done anything wrong. But from the students’ point of view, we have not done anything wrong neither. And there is no reason why you must be absolutely right, and we must be absolutely wrong.
 
 I really can’t do justice to what Moebius Stripper has written. Go read the whole thing.
 

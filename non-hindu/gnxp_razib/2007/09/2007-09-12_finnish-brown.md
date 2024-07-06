@@ -11,11 +11,11 @@ Finnish brown
 
 This is a really strange story, [Finland lures hi-end Indian tourists for winter experience](http://www.indiaprwire.com/businessnews/20070911/24419.htm):
 
-> Finland is wooing hi-end Indian travellers for a winter experience > ‘that rejuvenates the mind and body’, includes a meeting with Santa > Claus and a visit to the world’s northernmost zoo in the Arctic > Circle.\`
+> Finland is wooing hi-end Indian travellers for a winter experience ‘that rejuvenates the mind and body’, includes a meeting with Santa Claus and a visit to the world’s northernmost zoo in the Arctic Circle.\`
 
 More seriously, [India growth story charms Nokia-land](http://www.hinduonnet.com/thehindu/holnus/006200709121021.htm):
 
-> Though the current volume of trade between the two countries at 490 > million euros hardly sounds happy, Finland — from which the markets of > Nordic and Baltic countries as well as Russia can be accessed — is > showcasing itself as the land of business opportunity. **Or “India’s > gateway to Europe”**, as the Finns love to point out.
+> Though the current volume of trade between the two countries at 490 > million euros hardly sounds happy, Finland — from which the markets of Nordic and Baltic countries as well as Russia can be accessed — is showcasing itself as the land of business opportunity. **Or “India’s gateway to Europe”**, as the Finns love to point out.
 
 Gateway to Europe? Perhaps I’m Anglo-centric, but such a gateway seems like a case of rear entry here….
 

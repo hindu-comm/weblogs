@@ -11,7 +11,7 @@ Atheist vs. Attend Religious Services Once a Week
 
 A comment:
 
-> In Canada, places in the far west like Alberta and British Columbia > contain a higher percentage of atheists and other non-religious, but > also a higher percentage of evangelical Christians.
+> In Canada, places in the far west like Alberta and British Columbia contain a higher percentage of atheists and other non-religious, but also a higher percentage of evangelical Christians.
 
 This is true in the USA to some extent…but I didn’t want to compare to “evangelical Christians” because the relatively low proportions of evangelicals in the Mountain West and the Northeast are historical artifacts due to their particular religious demography. So I used the same methodology as earlier and plotted the proportion of atheists vs. those who attend religious services at least once a week.  
 ![attendence.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/attendence.jpg?resize=500%2C474)![attendence.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/attendence.jpg?resize=500%2C474)

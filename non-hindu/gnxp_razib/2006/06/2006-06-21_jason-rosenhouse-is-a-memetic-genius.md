@@ -11,7 +11,7 @@ Jason Rosenhouse is a memetic genius!
 
 A few weeks ago [Evolgen](http://scienceblogs.com/evolgen/) expressed irritation that people kept [confusing his blog](http://scienceblogs.com/evolgen/2006/05/once_twice_three_times_a_name.php) with Jason Rosenhouse’s [Evolution Blog](http://www.scienceblogs.com/evolutionblog/). Well, [check this](https://monado2.blogspot.com/):
 
-> Razib at **Evolutionblog** has asked contributors to try defining > evolution in ten words or fewer.
+> Razib at **Evolutionblog** has asked contributors to try defining evolution in ten words or fewer.
 
 The title “Evolution Blog” must be cognitively “sticky” or something! Jason did [link](http://scienceblogs.com/evolutionblog/2006/06/conservatives_against_id.html) to me recently, so I suspect this is where the memory leakage and conflation came into play….
 

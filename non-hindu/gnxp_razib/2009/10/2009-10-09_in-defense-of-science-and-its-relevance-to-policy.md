@@ -11,7 +11,7 @@ In defense of science and its relevance to policy
 
 [Copenhagen dreaming: In defense of the scientific method](http://blog.beliefnet.com/cityofbrass/2009/10/copenhagen-dreaming-in-defense.html):
 
-> As the Copenhagen conference on the successor to the Kyoto Protocol > draws near, I want to lay some meta-thoughts out about the scientific > method which I think are important, as a context for my general > support of the theory of global warrming and the need for decisive > action by our own nation to reduce carbon emissions and embrace > alternative forms of energy (including nuclear). The next post in this > series will then lay out my position on global warming specifically.
+> As the Copenhagen conference on the successor to the Kyoto Protocol > draws near, I want to lay some meta-thoughts out about the scientific > method which I think are important, as a context for my general > support of the theory of global warrming and the need for decisive action by our own nation to reduce carbon emissions and embrace alternative forms of energy (including nuclear). The next post in this series will then lay out my position on global warming specifically.
 
 ### Related Posts:
 

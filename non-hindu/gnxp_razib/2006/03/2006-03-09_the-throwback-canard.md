@@ -16,7 +16,8 @@ By now some of you have [heard of the family that walks on all fours](https://ne
 
 ### Related Posts:
 
-- [The Family That Walks on All Fours - on
+- [The Family That Walks on All Fours
+- on
   PBS](https://www.gnxp.com/WordPress/2006/11/14/the-family-that-walks-on-all-fours-on-pbs/) - [The Family that Walks on All
   Fours](https://www.gnxp.com/WordPress/2006/03/18/the-family-that-walks-on-all-fours/) - [Tit-for-Tat](https://www.gnxp.com/WordPress/2009/07/10/tit-for-tat/) - [Dispute over longevity research getting more
   coverage](https://www.gnxp.com/WordPress/2010/07/10/dispute-over-longevity-research-getting-more-coverage/) - [Family on all

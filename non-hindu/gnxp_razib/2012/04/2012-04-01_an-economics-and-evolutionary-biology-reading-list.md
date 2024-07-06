@@ -17,7 +17,8 @@ I am interested in suggestions from gnxp readers, so please let me know if you h
 
 ### Related Posts:
 
-- [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/) - [List of top 10 evolutionary biologists in
+- [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/)
+- [List of top 10 evolutionary biologists in
   history](https://www.gnxp.com/WordPress/2017/03/29/list-of-top-10-evolutionary-biologists-in-history/) - ["Third culture" summer reading
   list....](https://www.gnxp.com/WordPress/2005/07/15/third-culture-summer-reading-list/) - [Razib
   abroad](https://www.gnxp.com/WordPress/2006/01/06/razib-abroad/) - [The follies of

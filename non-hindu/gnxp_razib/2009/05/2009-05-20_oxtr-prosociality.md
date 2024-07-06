@@ -11,7 +11,7 @@ OXTR & prosociality
 
 [The Oxytocin Receptor (OXTR) Contributes to Prosocial Fund Allocations in the Dictator Game and the Social Value Orientations Task](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0005535):
 
-> The demonstration that genetic polymorphisms for the OXTR are > associated with human prosocial decision making converges with a large > body of animal research showing that oxytocin is an important social > hormone across vertebrates including Homo sapiens. Individual > differences in prosocial behavior have been shown by twin studies to > have a substantial genetic basis and the current investigation > demonstrates that common variants in the oxytocin receptor gene, an > important element of mammalian social circuitry, underlie such > individual differences.
+> The demonstration that genetic polymorphisms for the OXTR are > associated with human prosocial decision making converges with a large > body of animal research showing that oxytocin is an important social > hormone across vertebrates including Homo sapiens. Individual > differences in prosocial behavior have been shown by twin studies to > have a substantial genetic basis and the current investigation demonstrates that common variants in the oxytocin receptor gene, an important element of mammalian social circuitry, underlie such individual differences.
 
 Here’s a figure from the paper:
 

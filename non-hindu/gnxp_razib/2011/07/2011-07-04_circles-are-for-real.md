@@ -11,7 +11,7 @@ Circles are for real!
 
 [Google Circles knockoff hits Facebook courtesy of unofficial plug-in](http://www.engadget.com/2011/07/04/google-circles-knockoff-hits-facebook-courtesy-of-unofficial-plu/):
 
-> …Circle Hack is a self-described “one-night experiment with > Javascript” created by a few Facebook engineers in a non-affiliated > capacity, which unofficially brings Google Circles-like functionality > to the top social network. The creators of the Facebook plug-in have > borrowed liberally from Google on this one (turnabout is fair play, > perhaps)….
+> …Circle Hack is a self-described “one-night experiment with > Javascript” created by a few Facebook engineers in a non-affiliated > capacity, which unofficially brings Google Circles-like functionality to the top social network. The creators of the Facebook plug-in have borrowed liberally from Google on this one (turnabout is fair play, perhaps)….
 
 This is great. At a minimum Google+ could become like the Chrome browser. It might not attain a dominant market share position (though Chrome already has a higher share than IE on this site, and [others](http://www.w3schools.com/browsers/browsers_stats.asp), with a tech-savvy audience), **but it could push the edge of innovation.** I don’t have a problem with Facebook, but with the collapse of MySpace years ago it has had a de facto monopoly in the general social networking space.
 

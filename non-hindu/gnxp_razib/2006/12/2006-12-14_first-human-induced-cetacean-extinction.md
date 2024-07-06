@@ -13,7 +13,8 @@ First human induced cetacean extinction
 
 ### Related Posts:
 
-- [On ENCODE](https://www.gnxp.com/WordPress/2012/09/05/on-encode/) - [Lost World,
+- [On ENCODE](https://www.gnxp.com/WordPress/2012/09/05/on-encode/)
+- [Lost World,
   2009](https://www.gnxp.com/WordPress/2009/09/08/lost-world-2009/) - [Evolutionary biology in the 21st-century: from big
   theories…](https://www.gnxp.com/WordPress/2019/08/27/evolutionary-biology-in-the-21st-century-from-big-theories-to-big-facts/) - [The few and the
   many](https://www.gnxp.com/WordPress/2010/01/18/the-few-and-the-many/) - [What's your

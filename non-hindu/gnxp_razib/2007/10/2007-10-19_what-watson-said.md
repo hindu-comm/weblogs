@@ -17,7 +17,7 @@ In the interests of public information, [here](http://comment.independent.co.uk/
 
 **Added on Sunday 21 October:** The author of the Sunday Times article, the improbably named Charlotte Hunt-Grubbe, has a follow-up [here](http://www.timesonline.co.uk/tol/global/article2704730.ece) in today’s issue. An interesting extract:
 
-> After a long day of conversation the topic of racial inequality was > broached. It seemed an important extension to words he had written in > his book. I would never have written something that I thought he would > not be prepared to defend. I am not trying to destroy a brilliant > scientist and I am genuinely horrified by the response. We need to > squeeze every last drop of brilliance from this man if we are to > continue hoping to unravel the genetic causes of disease. He strives > to help young people in their careers. My biggest concern is that, by > helping me, he has damaged himself. I could not hope more, that I am > wrong.
+> After a long day of conversation the topic of racial inequality was > broached. It seemed an important extension to words he had written in > his book. I would never have written something that I thought he would > not be prepared to defend. I am not trying to destroy a brilliant > scientist and I am genuinely horrified by the response. We need to > squeeze every last drop of brilliance from this man if we are to > continue hoping to unravel the genetic causes of disease. He strives to help young people in their careers. My biggest concern is that, by helping me, he has damaged himself. I could not hope more, that I am wrong.
 
 ### Related Posts:
 

@@ -11,12 +11,12 @@ Reality check on American "hunger"
 
 [Hunger here vs. hunger there](http://blog.givewell.net/?p=471):
 
-> There has been a fair amount of buzz lately (examples here, here, > here, here) about “food insecurity” in the U.S. According to the > Reuters headline, one in seven Americans is short of food. In looking > into the data, what has surprised us is how different the meaning of > “hunger” is when we’re talking about the U.S. vs. the developing > world. >
+> There has been a fair amount of buzz lately (examples here, here, > here, here) about “food insecurity” in the U.S. According to the > Reuters headline, one in seven Americans is short of food. In looking into the data, what has surprised us is how different the meaning of “hunger” is when we’re talking about the U.S. vs. the developing world. >
 > **Developing-world hunger: 30% of children underweight** >
 > … >
-> The “food insecurity” categories are derived from people’s answers to > questions like “We worried about whether our food would run out before > we got money to buy more” and “We couldn’t afford to eat balanced > meals” (full list on pg 3). The details of the answers are found on > page 45: >
+> The “food insecurity” categories are derived from people’s answers to > questions like “We worried about whether our food would run out before we got money to buy more” and “We couldn’t afford to eat balanced meals” (full list on pg 3). The details of the answers are found on page 45: >
 > … >
-> Note in particular the difference regarding children. In the > developing world, as shown above, severe child hunger is rampant. In > the U.S., even in “food insecure” families, it’s extraordinarily rare > for children to go hungry even temporarily. And indeed, **World Bank > data estimates that 1.3% of U.S. children under 5 are “underweight” – > less than the 2.3% that would be expected in a fully normal > distribution.**
+> Note in particular the difference regarding children. In the > developing world, as shown above, severe child hunger is rampant. In > the U.S., even in “food insecure” families, it’s extraordinarily rare > for children to go hungry even temporarily. And indeed, **World Bank data estimates that 1.3% of U.S. children under 5 are “underweight” – less than the 2.3% that would be expected in a fully normal distribution.**
 
 On the one hand the poor supposedly live in “food deserts” and so get fat. On the other hand, there’s a lot of hunger in America. Something doesn’t make sense. As someone whose family is from Bangladesh I have seen plenty of hungry people face to face. **They look really hungry.** If you’re really chronically hungry you can’t mask it with a stiff upper lip, you just look starved out, and a bowl of rice with salt is a luxury. They’re really short too. When I went to Bangladesh in the late 1980s for a visit I was much taller than many adult beggars despite being a pre-teen, and I was always around the 50th percentile on the height distributions in elementary school.
 

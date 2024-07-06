@@ -21,7 +21,7 @@ This is the second in the [Metastatic Modernity video series](https://dothemath.
 
 <div class="player-unavailable">
 
-# An error occurred.
+## An error occurred.
 
 <div class="submessage">
 
@@ -39,11 +39,11 @@ As will be the custom for the series, I provide a stand-alone companion piece in
 
 The write-up that follows is arranged according to “chapters” in the video, navigable via links in the YouTube description field.
 
-# Introduction
+## Introduction
 
 This just names the series and myself, acknowledging my professional connection to the topic at hand.
 
-# The Big Bang
+## The Big Bang
 
 The Big Bang happened 13.8 billion years ago, which created our space and time. We are not geared to think about a beginning of time and non-existence of space, but that’s what the Big Bang is about. The universe did not “explode” into a pre-existing space, the way our brains are hard-wired to picture any explosion. Space itself is the very thing that was (and is) exploding.
 
@@ -53,7 +53,7 @@ These analogies fail to capture the full essence because our 3-D mental model as
 
 Early on, when the universe *was* tiny, it was also very hot: too hot for atoms or even nuclei to exist—essentially boiled into a plasma soup of quarks, gluons, and electrons. As the universe rapidly expanded and cooled (spreading the same energy over a larger volume), nuclei condensed out of the soup (called Big-Bang Nucleosynthesis, or BBN). This happened within the first 20 minutes after the Big Bang—we can’t accuse it of laziness! About 400,000 years later, it was finally cool enough for electrons to stay put around nuclei, forming neutral atoms and allowing the universe to finally become transparent to the propagation of light (called the epoch of recombination).
 
-# Galaxies
+## Galaxies
 
 Gravity brought friendly atoms together to make dust, planets, stars, and galaxies. We all are personally familiar with the first three of these entities. Galaxies are gravitationally-bound collections of stars (and gas and dust and mostly dark matter, in fact). Our galaxy, the Milky Way, contains about 100 billion stars.
 
@@ -61,7 +61,7 @@ Gravity brought friendly atoms together to make dust, planets, stars, and galaxi
 
 I show an image from the Hubble Space Telescope called the eXtreme Deep Field (XDF) that is littered with galaxies to the edge of our vision. Only one star appears, along the bottom edge toward the right (given away by the diffraction spikes that are apparent from a point source but not from fuzzy things).
 
-# Our Sun
+## Our Sun
 
 Our sun and solar system are roughly 4.5 billion years old—about a third the age of the universe. As mentioned above, it is just one of approximately 100 billion in our galaxy, and it’s not a particularly special or bright one.
 
@@ -96,25 +96,25 @@ I picked 2,000 stars rather than the 6,000 often cited (based on the aspirationa
 
 Most of this detail was skipped in the video, but the main point is: our sun is no super-star: just one of 100 billion and at the tail end of prominence. Our sun would not be on the list above for anyone beyond about 40 light years: very close compared to the 100,000 light years that our galaxy spans.
 
-# Scale of the Solar System
+## Scale of the Solar System
 
 Adding insult to injury, we now compare our insignificant sun to a mere chickpea! A chickpea is about a centimeter across, as demonstrated in the video using the enviable MATH RULER. Earth would be about 100 times smaller, or about the diameter of a human hair—which I attach to a piece of tape for demonstration. Holding these two a meter apart—harder than it sounds in a non-mirrored display—captures the scale of the Earth–Sun system. Earth is a mere dust speck that would be hard to even see/notice.
 
 Jupiter is a one-millimeter sand grain that would be 5 meters away. The solar system would require something like a football field (whichever way you wish to define “football”) to accommodate. It’s mostly very extremely empty. The sun itself accounts for 99.85% of the mass in the solar system. Add Jupiter and we’re up to 99.95%. Saturn, Uranus and Neptune account for 80% of the remainder, leaving 0.01% for all the dust specks including Earth. Think about a football field with one very bright (and too hot to touch) chickpea, one grain of sand, three other barely-visible grains, and the rest (including Earth) basically too small to notice. Everything in between in this lush oasis is empty, empty, empty.
 
-# Interstellar Emptiness
+## Interstellar Emptiness
 
 The next star from our sun (another chickpea) would be 300 kilometers away. More typically in our region off the Milky Way, it’s about 1,000 km between stars as big/bright as the sun, and 500 km [between the puniest barely-stars](https://dothemath.ucsd.edu/2024/05/how-far-are-stars/). So our nearest neighbor is atypically close (4.4 light years but would normally be 15 before getting something as big/bright).
 
 In any case, interstellar space makes the football-field solar system look like a hoarder-house, crammed with a few specks as it is. Spend a moment trying to imagine traveling hundreds of kilometers between two chickpeas, with **nothing** to run across in between! On this scale, our galaxy would be about a thousand times larger than Earth—itself hard to grasp even in this dramatically-shrunken (100-billion-fold) scale.
 
-# Galaxy Collision
+## Galaxy Collision
 
 ![This image from the Gemini North telescope in Hawai‘i reveals a pair of interacting spiral galaxies — NGC 4568 (bottom) and NGC 4567 (top) — as they begin to clash and merge. The galaxies will eventually form a single elliptical galaxy in around 500 million years.](https://dothemath.ucsd.edu/wp-content/uploads/2024/07/NGC4568-crop-1024x577.jpg)
 
 So empty is interstellar space that when two galaxies, each containing 100 billion stars, collide with each other—as shown in the image of NGC 4567 and 4568—chances are that **not a single star strikes another**. That’s how empty galaxies are, and how tiny stars are compared to their separations. And galaxies are dense concentrations—swarms—of stars on the scale of the universe. I will note that in a galaxy collision (something I worked on for [my PhD project](https://iopscience.iop.org/article/10.1086/322321)), clouds of gas and dust *do* slam into one another, so that the overall encounter is not frictionless.
 
-# Copernicus to the Fifth
+## Copernicus to the Fifth
 
 Part of the reason we go through all this is to give a sense of scale but also of insignificance. The Copernican revolution was very important in shaping our views and shaking the foundations of how important we thought we were. We still continue that journey to this day. Tying some of the previous steps together with some new ones, I can formulate five layers to Copernican-like revolutions of insignificance.
 
@@ -150,11 +150,11 @@ The clarification of the visible universe above did the heavy lifting for this s
 
 The final step is a recognition that our universe may not be the only one. In fact, it would be rather odd for this to be true. Quantum mechanics, inflation cosmology, and string theory are supportive of multiverse notions. According to the string theory Landscape idea, most instances likely don’t share our exact physics and may not even be able to form stable atoms—let alone stars, planets, and life. But some get “lucky,” and by pure selection effect we’d have to find ourselves in one of those (see post on the [Anthropic Principle](https://iopscience.iop.org/article/10.1086/322321)).
 
-# It’s Not About Us!
+## It’s Not About Us!
 
 The point of going through all this is that **it’s not about us**. The universe isn’t here for us. We’re an insignificant component of life on an insignificant speck orbiting an insignificant star in an insignificant galaxy within an insignificant sector of the universe which itself might be an insignificant member of a large collection of disconnected universes.
 
-# Wrap-up & Supplements
+## Wrap-up & Supplements
 
 That, I think, is an important perspective and forms one component of what I wanted to share in the overall series. If this expression of our insignificance is in any way unsettling to you, then I strongly recommend pondering why it would be. Doing so may reveal a critical disconnect in myth vs. reality.
 
@@ -162,12 +162,3 @@ The next episode will look at early life on Earth and the degree to which we sti
 
 Views: 265
 
-<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom">
-
-<div class="a2a_kit a2a_kit_size_32 addtoany_list" a2a-title="MM #2: Cosmology" a2a-url="https://dothemath.ucsd.edu/2024/07/mm-2-cosmology/">
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2024%2F07%2Fmm-2-cosmology%2F&linkname=MM%20%232%3A%20Cosmology "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2024%2F07%2Fmm-2-cosmology%2F&linkname=MM%20%232%3A%20Cosmology "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2024%2F07%2Fmm-2-cosmology%2F&linkname=MM%20%232%3A%20Cosmology "Email")[](https://www.addtoany.com/share)
-
-</div>
-
-</div>

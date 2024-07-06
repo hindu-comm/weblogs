@@ -11,7 +11,7 @@ Localizing recent adaptive evolution in the human genome
 
 Just out in *PLOS Genetics*, [Localizing recent adaptive evolution in the human genome](http://genetics.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pgen.0030090.eor). This has been accepted, but not reedited. Here’s part of the abstract:
 
-> Within these regions, genes of biological interest include genes in > pigmentation pathways, components of the dystrophin protein complex, > clusters of olfactory receptors, genes involved in nervous system > development and function, immune system genes, and heat shock genes. > We also observe consistent evidence of selective sweeps in centromeric > regions. In general we find that recent adaptation is strikingly > pervasive in the human genome, with as much as 10% of the genome > affected by linkage to a selective sweep.
+> Within these regions, genes of biological interest include genes in > pigmentation pathways, components of the dystrophin protein complex, > clusters of olfactory receptors, genes involved in nervous system > development and function, immune system genes, and heat shock genes. > We also observe consistent evidence of selective sweeps in centromeric regions. In general we find that recent adaptation is strikingly pervasive in the human genome, with as much as 10% of the genome affected by linkage to a selective sweep.
 
 If you read the paper you’ll note that they claim to be able to detect sweeps near fixation.
 

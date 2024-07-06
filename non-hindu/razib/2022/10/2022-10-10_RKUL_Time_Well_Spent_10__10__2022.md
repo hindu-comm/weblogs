@@ -121,7 +121,7 @@ There’s still no free lunch, free subscribers; my most in-depth pieces for thi
 
 From the first piece on Anatolia: [Ararat’s long shadow: Asia Minor’s major impact on humanity](https://razib.substack.com/p/ararats-long-shadow-asia-minors-major):
 
-> The empire of the Anatolian farmers who constructed the first > megaliths in Asia 11,500 years ago and whose descendants went on to > erect Europe’s stone-age monuments from the vast temple complexes of > Malta to Stonehenge more than 5,000 years ago, has faded from memory > over the millennia. But the way of life they introduced persists; > wheat remains Europe’s staff of life, and pastoralism with cattle, > sheep and goat dominates much of the uplands of the continent, while > the largest proportion of ancestry in Southern Europe still derives > from these early Anatolians. Though they are gone as a coherent > cultural group or genetic cluster, their enduring legacy can be > detected wherever Europeans go, whether it be Bronze-Age Indo-Aryans > that were 20% descended from Anatolians, or Iberians during the Age of > Discovery who brought their nearly 50% Anatolian heritage to the > deepest jungles of South America.
+> The empire of the Anatolian farmers who constructed the first > megaliths in Asia 11,500 years ago and whose descendants went on to > erect Europe’s stone-age monuments from the vast temple complexes of > Malta to Stonehenge more than 5,000 years ago, has faded from memory > over the millennia. But the way of life they introduced persists; > wheat remains Europe’s staff of life, and pastoralism with cattle, > sheep and goat dominates much of the uplands of the continent, while > the largest proportion of ancestry in Southern Europe still derives > from these early Anatolians. Though they are gone as a coherent > cultural group or genetic cluster, their enduring legacy can be > detected wherever Europeans go, whether it be Bronze-Age Indo-Aryans that were 20% descended from Anatolians, or Iberians during the Age of Discovery who brought their nearly 50% Anatolian heritage to the deepest jungles of South America.
 
 If you want to browse my more geographically focused pieces, [Dry.io](https://dry.io/) has created an [interactive map](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) of them. We’ll keep adding to that [page](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) over time. Also, [Dry.io](https://dry.io/) set up a nice skin for my [pinboard bookmarks](https://unsupervisedlearning.dry.io/v?t=tsr&oc=$5hodbpn3bqsbe&st=$5dwav6axuh9ad) and a page for reader-submitted links.
 
@@ -135,7 +135,8 @@ Here are my guests (and now, occasional monologues) since the last Time Well Spe
   Massachusetts - Is the American way the New England
   way?](https://razib.substack.com/p/kerry-of-mary-lincolniana-america#details)
 
-- [Richard Hanania: markets in every prediction - Why decision and
+- [Richard Hanania: markets in every prediction
+- Why decision and
   prediction-making need to
   change](https://razib.substack.com/p/richard-hanania-markets-in-every#details)
 
@@ -147,7 +148,8 @@ Here are my guests (and now, occasional monologues) since the last Time Well Spe
   understanding political beliefs through philosophy to being far too
   online](https://razib.substack.com/p/oliver-traldi-welcome-to-the-intellectual#details)
 
-- [Religion in China, India and the West - The different role of
+- [Religion in China, India and the West
+- The different role of
   religion in different world
   civilizations](https://razib.substack.com/p/religion-in-china-india-and-the-west#details)
 
@@ -198,8 +200,8 @@ You’ll find links to the few different podcasts I’ve contributed to or run, 
 
 [Septimius Severus Was Not Black, Who Cares?](https://www.gnxp.com/WordPress/2022/09/13/septimius-severus-was-not-black-who-cares/)
 
-> The job of scholars in the modern West is to tell the truth and > represent facts as they are. They may miss the mark often, but they > should aim as best as they can. The problem with classicists over the > last few years is they temporize, equivocate, and intentionally > mislead their audiences when they very well know that the North > African people that suggest “may have been black” were likely no more > black than the typical West Asian. This is not to say they were > “white” (though many people from the MENA do identify as such today > and did in the past), but scholars should have the courage to admit > that the past was not black and white, and it does not always easily > fit in our narratives, whether we are 19th-century Victorian white > supremacists or 21st-century anti-racists.
-> > I write this in 2022 with the clear understanding that the lie will > likely become the truth. But some of you will remember the truth, and > the more I write and talk about this, the more the truth shall not > die. The day will come when the darkness will lift, and we or our > descendants should be prepared to remember the world as it was rather > than only have the understanding of priests who preach how it should > have been.
+> The job of scholars in the modern West is to tell the truth and > represent facts as they are. They may miss the mark often, but they > should aim as best as they can. The problem with classicists over the > last few years is they temporize, equivocate, and intentionally > mislead their audiences when they very well know that the North > African people that suggest “may have been black” were likely no more > black than the typical West Asian. This is not to say they were > “white” (though many people from the MENA do identify as such today > and did in the past), but scholars should have the courage to admit that the past was not black and white, and it does not always easily fit in our narratives, whether we are 19th-century Victorian white supremacists or 21st-century anti-racists.
+> > I write this in 2022 with the clear understanding that the lie will > likely become the truth. But some of you will remember the truth, and > the more I write and talk about this, the more the truth shall not > die. The day will come when the darkness will lift, and we or our descendants should be prepared to remember the world as it was rather than only have the understanding of priests who preach how it should have been.
 
 ### **Over to you**
 

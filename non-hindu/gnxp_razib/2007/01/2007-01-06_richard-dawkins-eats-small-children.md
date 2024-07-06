@@ -15,7 +15,7 @@ So the internets are abuzz about [Richard Dawkins’s op-ed](http://www.latimes.
 
 John Hawks’s final point is perhaps the most relevant:
 
-> I guess the reason why I am so revulsed is that Dawkins explicitly > sets his interest in scientific inquiry above the cause of justice…I’d > say that far more important to our future is the value of justice over > science. Certainly, many people believe that Saddam’s execution did > not serve justice. But scientific value should not be part of that > calculation
+> I guess the reason why I am so revulsed is that Dawkins explicitly > sets his interest in scientific inquiry above the cause of justice…I’d > say that far more important to our future is the value of justice over science. Certainly, many people believe that Saddam’s execution did not serve justice. But scientific value should not be part of that calculation
 
 That’s a valid objection, but I’m not sure I entirely agree. The problem is that justice can be served in a number of ways. Imgaine a less incendiary example: there are 1000 people convicted of drug related crimes who, according to the law, must be punished. Now there are a couple ways the punishment can be meted out– a certain amount of time in prison, for example, or treatment for drug abuse in some clinic. There’s a scientfic question to be asked there: which punishment has the best outcome, i.e. which reduces the future probability of being arrested the most. The experiment is obvious– assign 500 people to each punishment and follow them for X number of years, but it implies that scientific questions are considered in the selection of the punishment.
 

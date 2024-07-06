@@ -11,7 +11,7 @@ On the fundaments of fantasy
 
 Fantasy-nerd in-chief at *The New York Times*, [Ross Douthat](http://douthat.blogs.nytimes.com/2010/03/04/in-search-of-a-jewish-narnia/) points me to an essay, [Why is there no Jewish Narnia?](http://www.jewishreviewofbooks.com/publications/detail/why-there-is-no-jewish-narnia) As [others have pointed out](http://fjm.livejournal.com/907353.html) there are plenty of Jewish fantasy writers, including perhaps the most prominent mainstream fantasist today, Neil Gaiman. But this part caught my attention:
 
-> …and whether it is called Perelandra, Earthsea, Amber, or Oz, this > world must be a truly alien place. As Ursula K. Leguin says: “The > point about Elfland is that you are not at home there. It’s not > Poughkeepsie.”
+> …and whether it is called Perelandra, Earthsea, Amber, or Oz, this world must be a truly alien place. As Ursula K. Leguin says: “The point about Elfland is that you are not at home there. It’s not Poughkeepsie.”
 
 Amber refers to Roger Zelazny’s [Amber series](https://en.wikipedia.org/wiki/The_Chronicles_of_Amber). Roger Zelazny’s father was an immigrant from Poland, Joseph Frank Zelazny. I can’t figure out whether Joseph Zelazny was Catholic or Jewish, but I think one can’t assume he was necessarily a gentile. [Earthsea](https://en.wikipedia.org/wiki/Earthsea) refers to Ursula K. Le Guin’s fantasy world. She was born Ursula Kroeber, her father being the prominent cultural anthropologist Alfred Kroeber, who grew up in New York City’s German Jewish community. Of the few secondary worlds the author names, turns out several may have been created by people of Jewish background.
 

@@ -109,7 +109,7 @@ Such an inquiry at the level of the spirit and fundamental human impulses will r
 
 However, the fundamental difference between Gandhian and Indira Gandhian dictatorship was this: she singlehandedly annihilated the ethical foundations of India by corrupting them at the very apex—in her own office and home. At the height of her power, it was commonplace to see scores of fat suitcases filled with hard cash in the Prime Minister’s house. Nobody batted an eyelid. Few if any, newspapers reported it. This phenomenon preceded the Emergency by several years. In Dr. S.L. Bhyrappa’s memorable words,
 
-> *Every tactic that Indira Gandhi used, every political caper she > launched only annihilated the ethical edifice of an ancient > civilization and provoked the worst tendencies of human nature. In the > Bharata of my time, she was the deadliest ethics-destroying force that > ever arose.*
+> *Every tactic that Indira Gandhi used, every political caper she > launched only annihilated the ethical edifice of an ancient civilization and provoked the worst tendencies of human nature. In the Bharata of my time, she was the deadliest ethics-destroying force that ever arose.*
 
 THE EMERGENCY WAS THE BRUTAL CLIMAX, a desperate strategy to normalize this national downfall that she had singlehandedly inaugurated and mercilessly accomplished.
 

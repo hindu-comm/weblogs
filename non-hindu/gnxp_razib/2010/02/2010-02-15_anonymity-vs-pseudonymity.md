@@ -11,11 +11,11 @@ Anonymity vs. Pseudonymity
 
 This [comment by Lassi Hippeläinen](http://scienceblogs.com/ethicsandscience/2010/02/anonymity_real_names_and_dialo.php#comment-2270906) deserves notice:
 
-> Sorry if I sound pedantic – I worked many years as a system architect > in computer secutiry – but this argument will not go anywhere, unless > its basic terminology is clear. **More specifically, there are two > concepts that are getting mixed up all the time: anonymity and > pseudonymity.**  
-> Pseudonyms are stable, used by the same person(s) all the time. They > have Internet credibility, even if the real name is not publicly > known. Therefore even pseudonymous writers tend to behave civilly. > “Anonymous” bloggers are in fact pseudonymous.  
-> Anonyms are unstable. They can be created and disposed at a whim. Next > time they might be used by some other persons. Anonymous commenters > don’t have to worry about credibility. They can shoot from the hip, > and be fraudulent.  
-> The real problem is anonymity, not pseudonymity. Without anonymity > there wouldn’t be astroturfing or sock puppetry either.  
-> Even Nisbet is unclear about the difference. Concluding from his text, > he only wants to block anonymous, not pseudonymous comments. He > accepts a Facebook identity, which from the technical point of view is > a pseudonym, because he has no way of confirming that the name belongs > to the person who created the account.  
+> Sorry if I sound pedantic – I worked many years as a system architect > in computer secutiry – but this argument will not go anywhere, unless its basic terminology is clear. **More specifically, there are two concepts that are getting mixed up all the time: anonymity and pseudonymity.**  
+> Pseudonyms are stable, used by the same person(s) all the time. They have Internet credibility, even if the real name is not publicly known. Therefore even pseudonymous writers tend to behave civilly. “Anonymous” bloggers are in fact pseudonymous.  
+> Anonyms are unstable. They can be created and disposed at a whim. Next time they might be used by some other persons. Anonymous commenters don’t have to worry about credibility. They can shoot from the hip, and be fraudulent.  
+> The real problem is anonymity, not pseudonymity. Without anonymity there wouldn’t be astroturfing or sock puppetry either.  
+> Even Nisbet is unclear about the difference. Concluding from his text, > he only wants to block anonymous, not pseudonymous comments. He accepts a Facebook identity, which from the technical point of view is a pseudonym, because he has no way of confirming that the name belongs to the person who created the account.  
 > Whistleblowing does not require anonymity, only pseudonymity.
 
 From the mouth of Finns!

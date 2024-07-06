@@ -11,7 +11,7 @@ Intelligence and Self-Deception?
 
 A friend and I were discussing the [eventual ubiquity of lie detection technology](http://www.futurepundit.com/archives/003548.html), and what sorts of social ramifications it would have. I made the point that this would immediately create greater selection pressure for self-deception, since “lie detectors” are better referred to as “sincerity detectors,” and as Trivers points out the liar who believes his own bull is the most effective kind. (I now notice that one of Parker’s commentors at the link above made the same point, but I thought of it on my own, really!) My friend then mused thusly:
 
-> I’d like to see a study of self-deception v. g and some correlation > with careers. If self-deception is highest among those with the lowest > g, it might not be worth it because the cost of deception is likely to > be rather low. I don’t think it’s a completely implausible hypothesis: > religious belief is correlated negatively with intelligence. While it > might be somewhat offensive, much of religious belief does seem > predicated on self-deception…
+> I’d like to see a study of self-deception v. g and some correlation > with careers. If self-deception is highest among those with the lowest > g, it might not be worth it because the cost of deception is likely to > be rather low. I don’t think it’s a completely implausible hypothesis: religious belief is correlated negatively with intelligence. While it might be somewhat offensive, much of religious belief does seem predicated on self-deception…
 
 My initial reaction was that while plausible, this could go either way. Ceteris paribus, the smarter you are the easier it is to concoct believeable bullshit stories on the fly. If there \*is\* a negative correlation between g and self-deception, it’s probably because on the other side of things increased intelligence also makes it harder to fool yourself. There could be something of an internal arms race, and the net effect could be a wash.
 
@@ -19,7 +19,8 @@ So, does anybody here know of any studies that have looked for correlations betw
 
 ### Related Posts:
 
-- [Week 6, Gene Expression Book Club - Not Born
+- [Week 6, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/17/week-6-gene-expression-book-club-not-born-yesterday/) - [Evolutionary psychology, technology, and virtual
   sex](https://www.gnxp.com/WordPress/2007/01/20/evolutionary-psychology-technology-and-virtual-sex/) - [Harvard vs.
   MIT](https://www.gnxp.com/WordPress/2006/01/25/harvard-vs-mit/) - [The evolutionary necessity of

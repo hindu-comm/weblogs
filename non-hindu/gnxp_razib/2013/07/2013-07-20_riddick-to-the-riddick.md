@@ -15,7 +15,8 @@ My personal preference would have been that they somehow extend the plot line of
 
 ### Related Posts:
 
-- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/) - [Brian Switek in Times Online on
+- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/)
+- [Brian Switek in Times Online on
   Ida](https://www.gnxp.com/WordPress/2009/05/25/brian-switek-in-times-online-on-ida/) - [Superman
   Returns](https://www.gnxp.com/WordPress/2005/11/18/superman-returns/) - [Contingency &
   evolution](https://www.gnxp.com/WordPress/2007/10/23/contingency-evolution/) - [Tonal languages, perfect pitch, and

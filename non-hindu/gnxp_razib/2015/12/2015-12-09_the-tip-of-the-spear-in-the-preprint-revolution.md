@@ -11,8 +11,8 @@ The tip of the spear in the preprint revolution
 
 The top four are the areas of biology which are my stomping ground….
 
-> Also nice to see preprints coming into bioRxiv from many areas of > biology [pic.twitter.com/26osqimHvq](https://t.co/26osqimHvq) >
-> — Richard Sever (@cshperspectives) [December 9, > 2015](https://twitter.com/cshperspectives/status/674617083796189189)
+> Also nice to see preprints coming into bioRxiv from many areas of biology [pic.twitter.com/26osqimHvq](https://t.co/26osqimHvq) >
+> — Richard Sever (@cshperspectives) [December 9, 2015](https://twitter.com/cshperspectives/status/674617083796189189)
 
 ### Related Posts:
 

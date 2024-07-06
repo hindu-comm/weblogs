@@ -15,7 +15,8 @@ Update: It has been brought to my attention that 1) Miss Finland might be of Swe
 
 ### Related Posts:
 
-- [Gött(ess)erdämmerung!](https://www.gnxp.com/WordPress/2005/05/16/g-ouml-tt-ess-erd-auml-mmerung/) - [Swedes in Finland
+- [Gött(ess)erdämmerung!](https://www.gnxp.com/WordPress/2005/05/16/g-ouml-tt-ess-erd-auml-mmerung/)
+- [Swedes in Finland
   persecuted?](https://www.gnxp.com/WordPress/2007/12/06/swedes-in-finland-persecuted/) - [Miss Universe
   contestants](https://www.gnxp.com/WordPress/2006/05/20/miss-universe-contestants/) - [The genetics of
   Fenno-Scandinavia](https://www.gnxp.com/WordPress/2008/09/15/the-genetics-of-fenno-scandinavia/) - [Still the

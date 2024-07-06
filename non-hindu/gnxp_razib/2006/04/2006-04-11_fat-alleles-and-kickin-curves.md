@@ -11,7 +11,7 @@ Fat alleles (and kickin' curves)
 
 [Genes Predict Body Shape and Fatness](http://www.livescience.com/humanbiology/060411_fat_genes.html):
 
-> Three genes-named **Tbx15, Gpc4, and HoxA5**-express themselves so > distinctly that the differences can be used to predict a person’s body > mass index (BMI) and waist-to-hip ratio.
+> Three genes-named **Tbx15, Gpc4, and HoxA5**-express themselves so distinctly that the differences can be used to predict a person’s body mass index (BMI) and waist-to-hip ratio.
 
 The study is supposed to over at the [PNAS](http://www.pnas.org/) website as of yesterday, but as usual their webmaster is a lazy ass and hasn’t put it up (I can’t find it in PUBMED either). What I would like to know about are alleles which have strong life history effects, I know way too many people who had “fast metabolisms” into their twenties and just blew up because they didn’t change their eating habits to track the change in their caloric burn rate.
 

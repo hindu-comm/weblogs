@@ -18,7 +18,7 @@ Friday Fluff – July 15th, 2011
 
 3\) **Comment of the week**, in response to [“What one (or more) genomes can tell us”](http://blogs.discovermagazine.com/gnxp/2011/07/what-one-or-more-genomes-can-tell-us/#comment-78609):
 
-> An important constraint on mutation rate shifts is that chimpanzees > and humans are almost exactly equally diverged from Gorilla (and > Orang-Utan). As the mutation rate varies with generation time, this > suggests that the mean generation time of humans and chimps since the > split can’t be hugely different, and strongly argues against major > mutation rate changes in our ancestors of the last few million years.
+> An important constraint on mutation rate shifts is that chimpanzees > and humans are almost exactly equally diverged from Gorilla (and > Orang-Utan). As the mutation rate varies with generation time, this suggests that the mean generation time of humans and chimps since the split can’t be hugely different, and strongly argues against major mutation rate changes in our ancestors of the last few million years.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/07/katstuff.jpg?resize=446%2C423)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/07/katstuff.jpg?resize=446%2C423)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/07/katstuff.jpg)

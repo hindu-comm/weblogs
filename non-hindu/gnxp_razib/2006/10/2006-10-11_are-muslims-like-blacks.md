@@ -19,7 +19,8 @@ Muslims wish to roll back the understanding between religion and reason forged d
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Scientific American
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Scientific American
   blogs](https://www.gnxp.com/WordPress/2011/07/05/scientific-american-blogs/) - [Would you kill a
   child?](https://www.gnxp.com/WordPress/2006/04/02/would-you-kill-a-child/) - [British Muslims: the new
   Victorians](https://www.gnxp.com/WordPress/2009/05/07/british-muslims-the-new-victorians/) - [The Chinese

@@ -11,12 +11,12 @@ MP3 Breast Implants
 
 The beauty of capitalism is that market niches are always being identified. You know those breast implants woman are getting, well they’re so unitary in purpose just hanging there on display. Wouldn’t it be better to [implant an MP3 player](http://www.ananova.com/news/story/sm_1570835.html?menu=news.quirkies) into one breast and the music collection into the other?
 
-> Computer chips that store music could soon be built into a woman’s > breast implants. >
-> One boob could hold an MP3 player and the other the person’s whole > music collection. >
-> BT futurology, who have developed the idea, say it could be available > within 15 years. >
-> BT Laboratories’ analyst Ian Pearson said flexible plastic electronics > would sit inside the breast. A signal would be relayed to headphones, > while the device would be controlled by Bluetooth using a panel on the > wrist. >
-> According to The Sun he said: “It is now very hard for me to thing of > breast implants as just decorative. If a woman has something implanted > permanently, it might as well do something useful.” >
-> The sensors around the body linked through the electrical impulses in > the chips may also be able to warn wearers about heart murmurs, blood > pressure increases, diabetes and breast cancer.
+> Computer chips that store music could soon be built into a woman’s breast implants. >
+> One boob could hold an MP3 player and the other the person’s whole music collection. >
+> BT futurology, who have developed the idea, say it could be available within 15 years. >
+> BT Laboratories’ analyst Ian Pearson said flexible plastic electronics would sit inside the breast. A signal would be relayed to headphones, while the device would be controlled by Bluetooth using a panel on the wrist. >
+> According to The Sun he said: “It is now very hard for me to thing of breast implants as just decorative. If a woman has something implanted permanently, it might as well do something useful.” >
+> The sensors around the body linked through the electrical impulses in the chips may also be able to warn wearers about heart murmurs, blood pressure increases, diabetes and breast cancer.
 
 Note the less appealing secondary uses they invision.
 

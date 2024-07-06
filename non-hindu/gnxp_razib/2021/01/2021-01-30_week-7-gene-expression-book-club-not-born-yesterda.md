@@ -25,7 +25,8 @@ You use your brain and roll your eyes.
 
 ### Related Posts:
 
-- [Week 8, Gene Expression Book Club - Not Born
+- [Week 8, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/30/week-8-gene-expression-book-club-not-born-yesterday/) - [The end for Dan
   Ariely](https://www.gnxp.com/WordPress/2021/08/17/the-end-for-dan-ariely/) - [Week 4, Gene Expression Book Club - Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/10/week-4-gene-expression-book-club-not-born-yesterday/) - [Week 5, Gene Expression Book Club - Not Born

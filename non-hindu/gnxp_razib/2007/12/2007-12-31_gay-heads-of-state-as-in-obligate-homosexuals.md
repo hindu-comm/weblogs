@@ -14,7 +14,8 @@ So, I just found out that [Sayyed Qaboos bin Sa’id Al ‘Bu Sa’id](https://e
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Gay in the Arab
   world](https://www.gnxp.com/WordPress/2006/12/07/gay-in-the-arab-world/) - ["Gay gene part n": Biology !=
   Genetics](https://www.gnxp.com/WordPress/2007/11/08/gay-gene-part-n-biology-genetics/) - [George Lakoff's The Political

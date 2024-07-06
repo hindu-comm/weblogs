@@ -17,7 +17,8 @@ Update from Razib: Hat-tip to a reader, [Genetic royal cheats in leaf-cutting an
 
 ### Related Posts:
 
-- [Ant fiction](https://www.gnxp.com/WordPress/2010/01/18/ant-fiction/) - [One gene controlling ant
+- [Ant fiction](https://www.gnxp.com/WordPress/2010/01/18/ant-fiction/)
+- [One gene controlling ant
   behavior?](https://www.gnxp.com/WordPress/2009/03/30/one-gene-controlling-ant-behavior/) - [Dawkins on Kin Selection: A
   Correction](https://www.gnxp.com/WordPress/2005/09/21/dawkins-on-kin-selection-a-correction/) - [Gene wars across the
   generations](https://www.gnxp.com/WordPress/2009/09/14/gene-wars-across-the-generations/) - [The genetical evolution of social behaviour -

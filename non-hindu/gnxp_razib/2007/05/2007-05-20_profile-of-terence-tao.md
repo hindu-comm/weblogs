@@ -19,7 +19,7 @@ Profile of Terence Tao
 
 [Terence Tao](https://en.wikipedia.org/wiki/Terence_tao) is a 2006 recipient of the Fields Medal. He scored a 760 on the SAT-Math at the age of 8 and reportedly has an IQ exceeding 220. He is probably best known for proving the Green-Tao Theorem:
 
-> **It is always possible to find, somewhere in the infinity of > integers, a progression of prime numbers of equal spacing and any > length.**
+> **It is always possible to find, somewhere in the infinity of integers, a progression of prime numbers of equal spacing and any length.**
 
 I just came across [this absorbing profile](http://www.gt-cybersource.org/Record.aspx?NavID=2_0&rid=11273) of Tao as a young boy. One impression that I take away from this piece is that Tao was blessed with good parents (in many senses).  
 

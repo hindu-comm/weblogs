@@ -17,7 +17,8 @@ The main reason I post is that I don’t think that intuitively people have a go
 
 ### Related Posts:
 
-- [Maybe it's agriculture - skin color
+- [Maybe it's agriculture
+- skin color
   edition....](https://www.gnxp.com/WordPress/2007/10/02/maybe-its-agriculture-skin-color-edition/) - [Latitudes and
   continents](https://www.gnxp.com/WordPress/2010/11/28/latitudes-and-continents/) - [Most Canadian Non-whites have Vitamin D
   deficiency](https://www.gnxp.com/WordPress/2007/12/23/most-canadian-non-whites-have-vitamin-d-deficiency/) - [Lactase persistence, pastoralism in Africa, don't

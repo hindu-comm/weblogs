@@ -13,7 +13,7 @@ Twin studies have somewhat fallen out of favor in genetics– instead of estimat
 
 A [new article](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TCY-4JXRWXF-2&_user=10&_handle=V-WA-A-W-AU-MsSAYVA-UUA-U-AACCZAEDZW-AACBWUUCZW-BDVAACE-AU-U&_fmt=summary&_coverDate=07%2F31%2F2006&_rdoc=2&_orig=browse&_srch=%23toc%235183%232006%23999779992%23627395!&_cdi=5183&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=ce20cf3753caceaedc3cff0bad36d32d) in Trends in Genetics highlights another use for twin studies– research in epigenetics. From the abstract:
 
-> Analyses of epigenetic twin differences and similarities might yet > challenge the fundamental principles of complex biology, primarily the > dogma that complex phenotypes result from DNA sequence variants > interacting with the environment
+> Analyses of epigenetic twin differences and similarities might yet challenge the fundamental principles of complex biology, primarily the dogma that complex phenotypes result from DNA sequence variants interacting with the environment
 
 One could argue that epigenetics might turn out to be the mechanism by which the environment interacts with genetics, rather than an entirely new paradigm, but this is definitely an area to watch.
 

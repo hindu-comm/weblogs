@@ -129,7 +129,7 @@ The integration of foreign elites into the Roman people was part of a trend that
 > That race I principally wish to flee, I’ll swiftly reveal, >
 > And without embarrassment. My friends, I can’t stand >
 > A Rome full of Greeks, yet few of the dregs are Greek! >
-> For the Syrian [Orontes](https://en.wikipedia.org/wiki/Orontes_River) > has long since polluted the > [Tiber](https://en.wikipedia.org/wiki/Tiber), >
+> For the Syrian [Orontes](https://en.wikipedia.org/wiki/Orontes_River) has long since polluted the [Tiber](https://en.wikipedia.org/wiki/Tiber), >
 > Bringing its language and customs, pipes and harp-strings, >
 > And even their native timbrels are dragged along too, >
 > And the girls forced to offer themselves in the Circus. >

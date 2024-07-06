@@ -11,8 +11,8 @@ By other means necessary?
 
 My friend Aziz Poonawalla has a post up, [is evolution sufficient?](http://blog.beliefnet.com/cityofbrass/2009/01/is-evolution-sufficient.html) No, it’s not the standard Creationist cant:
 
-> The implication of such rapid evolution is that we should actually > notice it on human timescales. And that there is actually is some > mechanism of action that is actually driving the mutations themselves > – cosmic rays? transcription errors? normal statistical variance?  
-> It seems that if we aren’t mutating at a rate comparable to above, > then some sort of alternative mechanism must also be operating to > accelerate the changes in DNA required to evolve from one species to > another. **There’s certainly some evidence that there are such > “neo-Lamarckian” processes at work**, The case of the humble > water-flea certainly is not explicable by normal Darwinian processes.
+> The implication of such rapid evolution is that we should actually notice it on human timescales. And that there is actually is some mechanism of action that is actually driving the mutations themselves – cosmic rays? transcription errors? normal statistical variance?  
+> It seems that if we aren’t mutating at a rate comparable to above, > then some sort of alternative mechanism must also be operating to > accelerate the changes in DNA required to evolve from one species to another. **There’s certainly some evidence that there are such “neo-Lamarckian” processes at work**, The case of the humble water-flea certainly is not explicable by normal Darwinian processes.
 
 The general question is tackled in 10,000 Year Explosion. I haven’t kept up on the literature of human evolution in the context of our separation from the lineage that led up to chimpanzees to comment in detail, but the big issue I would say to a physicist like Aziz is that **there more degrees of freedom in biology than can imagined in your philosophy my friend!** Leave a comment over at Aziz’s.  
 **Related:** Also at [Talk Islam](http://talkislam.info/2009/01/30/is-dna-really-read-only-i-explore-the-q/).

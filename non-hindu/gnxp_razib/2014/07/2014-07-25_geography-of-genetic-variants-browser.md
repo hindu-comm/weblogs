@@ -13,7 +13,7 @@ Geography of Genetic Variants Browser
 
 [Jonathan Novembre’s lab](http://jnpopgen.org/) has released a new toy web 2.0 toy which you might find of interest. From an announcement on the lab’s website:
 
-> We have released a new teaching/research tool. [The Geography of > Genetic Variants browser](http://popgen.uchicago.edu/ggv). This is > the hard work of our “programmer-at-large” Joe Marcus. It’s also a > **pilot project for a grant** we submitted earlier this summer to work > on challenges that arise visualizing population structure in > genomic-scale variation data.
+> We have released a new teaching/research tool. [The Geography of > Genetic Variants browser](http://popgen.uchicago.edu/ggv). This is > the hard work of our “programmer-at-large” Joe Marcus. It’s also a **pilot project for a grant** we submitted earlier this summer to work on challenges that arise visualizing population structure in genomic-scale variation data.
 
 This is ***very beta***. E.g. “More features are on the way…scaled circles as alternates to pie charts, computing a bounding box for regional datasets, pdf export for publication quality figures, and search by *rsID* or tables of markers. Contact us with any ideas!” I’d like rsID in particular, since that’s what I know off the top of my head for variants of specific interest.
 

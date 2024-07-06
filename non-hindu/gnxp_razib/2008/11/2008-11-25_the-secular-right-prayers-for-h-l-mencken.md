@@ -11,8 +11,8 @@ The Secular Right & prayers for H. L. Mencken.
 
 Since the Right is roiling with faction, I thought I’d point you to a new weblog, [Secular Right](http://secularright.org/). No need to explain what it’s about, the title says it all. John Derbyshire [recounts an interesting experience at the H. L. Mencken Club](http://secularright.org/wordpress/?p=19):
 
-> Well, so there I was sitting down to dinner on the first evening of > this Menckenfest. Seeing a plate of salad in front of me, I applied > some condiments and started eating. In between the second and third > mouthfuls I heard an amplified voice coming from the speakers’ tables: > “All right, everybody, we shall now say Grace. Bless us O Lord and > these thy gifts …” I felt as if I’d been caught picking my nose on > live TV.  
-> Somewhat later I got into conversation with the lady who had given out > the Grace. She was very charming and friendly, and had been > instrumental in getting the conference organized, so is obviously very > capable. **It emerged, however, in the course of our conversation, > that she is a Young Earth Creationist!**
+> Well, so there I was sitting down to dinner on the first evening of > this Menckenfest. Seeing a plate of salad in front of me, I applied > some condiments and started eating. In between the second and third > mouthfuls I heard an amplified voice coming from the speakers’ tables: “All right, everybody, we shall now say Grace. Bless us O Lord and these thy gifts …” I felt as if I’d been caught picking my nose on live TV.  
+> Somewhat later I got into conversation with the lady who had given out > the Grace. She was very charming and friendly, and had been instrumental in getting the conference organized, so is obviously very capable. **It emerged, however, in the course of our conversation, that she is a Young Earth Creationist!**
 
 In case you don’t know, H. L. Mencken was the basis for the skeptical reporter in [Inherit the Wind](https://en.wikipedia.org/wiki/Inherit_the_Wind). Aside from being an infamous atheist, Mencken was also a lion of the Old Right, explaining the fondness many conservatives have for him today.
 

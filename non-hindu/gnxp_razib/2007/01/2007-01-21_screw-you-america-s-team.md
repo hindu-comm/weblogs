@@ -13,7 +13,8 @@ Screw you, "America's team"
 
 ### Related Posts:
 
-- [Living Neandertals - visual "evidence"
+- [Living Neandertals
+- visual "evidence"
   (?)](https://www.gnxp.com/WordPress/2006/11/09/living-neandertals-visual-evidence/) - ["You are not the
   father"](https://www.gnxp.com/WordPress/2006/12/02/you-are-not-the-father/) - [Open thread on "the good
   life"](https://www.gnxp.com/WordPress/2006/02/22/open-thread-on-the-good-life/) - [Minor note on "the

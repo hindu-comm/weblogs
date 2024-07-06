@@ -17,7 +17,8 @@ Do readers have any experiences with canned jackfruit?
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Louisiana Habanero Hot
   Sauce...again!](https://www.gnxp.com/WordPress/2020/06/19/louisiana-habanero-hot-sauce-again/) - [Tomatoes!](https://www.gnxp.com/WordPress/2012/06/28/tomatoes/) - [The bearable taste of
   Bobo](https://www.gnxp.com/WordPress/2006/08/24/the-bearable-taste-of-bobo/) - [Home labs](https://www.gnxp.com/WordPress/2007/01/31/home-labs/) - [Seven hot sauces, many

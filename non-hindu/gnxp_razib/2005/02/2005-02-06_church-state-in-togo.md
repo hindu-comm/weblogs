@@ -21,7 +21,8 @@ Posted by razib at [10:04 PM](https://www.gnxp.com/MT2/archives/003566.html) [](
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Less religion = more religious
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Less religion = more religious
   activism?](https://www.gnxp.com/WordPress/2009/12/22/less-religion-more-religious-activism/) - [Religious freedom in
   2009](https://www.gnxp.com/WordPress/2009/10/26/religious-freedom-in-2009/) - [No
   compulsion?](https://www.gnxp.com/WordPress/2006/08/29/no-compulsion/) - [Israeli Jews think that Judaism is closer to

@@ -419,7 +419,7 @@ The other vulture was Alexander Duff, the first overseas missionary of the Churc
 
 *Men of Might in India Missions* was an instant success when it was published. It was highly lauded in missionary circles and copies sold in record numbers. Helen Holcomb makes no secret about the book’s agenda and purpose. In fact, she gloats about and glorifies bigotry in her dedication:
 
-> *To the young men and maidens whose hearts God has touched, and who in > life's fair morning, looking out over the world's great harvest-field, > are asking, " Lord, what wilt thou have me to do?" This volume is > dedicated with the prayer that some of those who read these pages, > hearing the voice of the Lord saying as He did to His prophet Isaiah, > " Whom shall I send, and who will go for us?" may answer as did the > prophet, " Here am I; send me."*
+> *To the young men and maidens whose hearts God has touched, and who in > life's fair morning, looking out over the world's great harvest-field, > are asking, " Lord, what wilt thou have me to do?" This volume is > dedicated with the prayer that some of those who read these pages, hearing the voice of the Lord saying as He did to His prophet Isaiah, " Whom shall I send, and who will go for us?" may answer as did the prophet, " Here am I; send me."*
 
 Clearly, India was that great harvest-field, and according to Helen Holcomb, the soul-vultures she has profiled became “men of might” because “God intended India to be evangelised,” and “God’s purpose could not be thwarted.” She calls Serampore as “as one of the most sacred spots in India” for missionary activity. Likewise, she mentions the Bombay Presidency and Tharangambadi (Tranquebar) as one of the virgin fields which witnessed impressive success in soul-harvesting.   
 

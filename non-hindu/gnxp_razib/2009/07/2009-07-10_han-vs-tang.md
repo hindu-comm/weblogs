@@ -21,7 +21,7 @@ I would like to hear from Chinese readers or those who live in China as the plau
 
 **Note:** The World Values Survey can be broken down by language spoken at home. I see no great difference between dialect groups and Mandarin speakers in regards to national pride. Also, here are [supposed numbers](http://www.omniglot.com/writing/mandarin.htm) for the number of people in China who speak Mandarin:
 
-> Just over 53% of the population of China or 690 million people are > able to speak Mandarin, according to the Xinhua news agency. In > China’s cities, about 66% speak Mandarin, while only 45% speak it in > the countryside. Around 70% of people between the ages of 15 and 29 > speak the language, while only 30% of those over 60 can speak it.
+> Just over 53% of the population of China or 690 million people are > able to speak Mandarin, according to the Xinhua news agency. In China’s cities, about 66% speak Mandarin, while only 45% speak it in the countryside. Around 70% of people between the ages of 15 and 29 speak the language, while only 30% of those over 60 can speak it.
 
 The numbers seem a littler lower than others online. Additionally, Mandarin is not a regional identity, while in contrast Cantonese is a dialect with a strong regional association. Here is a [map of dialect groups](https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_sinitic_languages-en.svg).
 

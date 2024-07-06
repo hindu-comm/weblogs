@@ -13,8 +13,8 @@ Fear not the gene!
 
 Meanwhile, as some are expressing worry, [technology keeps pushing forward](http://www.nature.com/news/rapid-test-pinpoints-newborns-genetic-diseases-in-days-1.11527):
 
-> A faster DNA sequencing machine and streamlined analysis of the > results can diagnose genetic disorders in days rather than weeks, as > reported today in Science Translational Medicine. >
-> Up to a third of the babies admitted to neonatal intensive care units > have a genetic disease. Although symptoms may be severe, the genetic > cause can be hard to pin down. Thousands of genetic diseases have been > described, but relatively few tests are available, and even these may > detect only the most common mutations.
+> A faster DNA sequencing machine and streamlined analysis of the results can diagnose genetic disorders in days rather than weeks, as reported today in Science Translational Medicine. >
+> Up to a third of the babies admitted to neonatal intensive care units > have a genetic disease. Although symptoms may be severe, the genetic cause can be hard to pin down. Thousands of genetic diseases have been described, but relatively few tests are available, and even these may detect only the most common mutations.
 
 ### Related Posts:
 

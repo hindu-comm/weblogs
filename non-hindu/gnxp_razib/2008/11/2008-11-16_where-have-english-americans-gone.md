@@ -13,7 +13,8 @@ Elsewhere, I reiterate the common sense case that the [decline in the proportion
 
 ### Related Posts:
 
-- [Germania](https://www.gnxp.com/WordPress/2009/11/16/germania/) - [Where have all the English Americans gone?
+- [Germania](https://www.gnxp.com/WordPress/2009/11/16/germania/)
+- [Where have all the English Americans gone?
   Nowhere....](https://www.gnxp.com/WordPress/2008/11/16/where-have-all-the-english-americans-gone-nowhere/) - [On being
   foreign](https://www.gnxp.com/WordPress/2007/06/02/on-being-foreign/) - [Who can "pass" as
   white](https://www.gnxp.com/WordPress/2009/05/15/who-can-pass-as-white/) - [Words trump

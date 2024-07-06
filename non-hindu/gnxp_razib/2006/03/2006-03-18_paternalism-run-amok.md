@@ -13,21 +13,21 @@ I think that it’s about time that the Woman’s Movement start mooting legisla
 
 Back in 1991, in order to advance the Women’s Movement agenda of convicting more men for the crime of rape, the Canadian Justice Minister, Kim Campbell introduced Bill C-49 in which Section 273.1 enshrined the prinicple that women who were intoxicated were incapable of giving consent to a sexual act and that a man could not use his own intoxication as an excuse for thinking that she was equally capable of granting consent. In other words, men were held to a higher standard than were women. The [commentary](http://www.bccla.org/positions/dueprocess/92rapeshield.html) that followed this proposed legislation was instructive:
 
-> However, it is not uncommon for persons to engage in consensual sexual > activity while very drunk-the presumption being that both are capable > of consenting while very drunk. If the drafters of the bill intended a > “virtually comatose” criterion, then they should make that explicit in > the bill, so as to give clear direction to the courts. If, on the > other hand, the drafters intended that those who are merely very drunk > are thereby incapable of consenting, then the Board strongly opposes > the subsection.
+> However, it is not uncommon for persons to engage in consensual sexual > activity while very drunk-the presumption being that both are capable > of consenting while very drunk. If the drafters of the bill intended a > “virtually comatose” criterion, then they should make that explicit in > the bill, so as to give clear direction to the courts. If, on the other hand, the drafters intended that those who are merely very drunk are thereby incapable of consenting, then the Board strongly opposes the subsection.
 
 Common sense prevailed and the feminist revisions were [amended](http://www.diemer.ca/Docs/Diemer-YesMeansNo.htm):
 
-> It should also not be the business of the law to legislate a > paternalistic double standard by holding that a woman is no longer > capable of distinguishing between “Yes” and “No” if she has been > drinking, while a man remains capable of telling the difference when > he has been drinking. There may be times when there is guilt or regret > afterwards about the decision to engage in sex, but if there has been > no coercion, that too should not be a matter for the law. Justice > Minister Campbell has therefore acted correctly in removing the > “intoxication” provision from Bill C-49.
+> It should also not be the business of the law to legislate a > paternalistic double standard by holding that a woman is no longer > capable of distinguishing between “Yes” and “No” if she has been > drinking, while a man remains capable of telling the difference when > he has been drinking. There may be times when there is guilt or regret > afterwards about the decision to engage in sex, but if there has been no coercion, that too should not be a matter for the law. Justice Minister Campbell has therefore acted correctly in removing the “intoxication” provision from Bill C-49.
 
 So, a bad idea was quashed, but that doesn’t stop the bad ideas from popping up elsewhere. This is precisely what is happening in the UK. The [BBC reports](http://news.bbc.co.uk/1/hi/uk/4780992.stm) that there is a great concern about the low conviction rate of men charged with rape:
 
-> Mike O’Brien, the solicitor general, told BBC Radio 4’s File on 4 the > law “may need some clarification” to allow a jury to decide whether > the woman was too drunk to be capable of consenting, and whether she > did consent. >
-> Mr O’Brien said if the law were to be redrafted, he expected the > number of rape convictions to increase. >
-> A recent study by the Metropolitan Police revealed that more than a > third of women who reported being raped had consumed alcohol > immediately before the alleged attack.
+> Mike O’Brien, the solicitor general, told BBC Radio 4’s File on 4 the law “may need some clarification” to allow a jury to decide whether the woman was too drunk to be capable of consenting, and whether she did consent. >
+> Mr O’Brien said if the law were to be redrafted, he expected the number of rape convictions to increase. >
+> A recent study by the Metropolitan Police revealed that more than a third of women who reported being raped had consumed alcohol immediately before the alleged attack.
 
 Hopefully reason will prevail and this proposed law will go no further. However if the law is not implemented the UK will still have to contend with a low conviction rate for the charge of rape. Clearly feminists are interested in insuring more men are held responsible for the crime of rape but they are stymied when the victims have hazy recollections, or none at all, of the alleged crime.
 
-> “And the judge stopped me and said, ‘So, it’s possible you were > actually making advances to the defendant during this period?’ and I > said ‘All I’ve told you is from the moment of sitting on the couch to > the moment of waking up I don’t remember anything.'”
+> “And the judge stopped me and said, ‘So, it’s possible you were actually making advances to the defendant during this period?’ and I said ‘All I’ve told you is from the moment of sitting on the couch to the moment of waking up I don’t remember anything.'”
 
 What we’re dealing with here is the comatose distinction that the Canadian civil liberties critics raised in their objections. There are two ways for feminists to arrive at their preferred endstate of increased rape convictions:
 

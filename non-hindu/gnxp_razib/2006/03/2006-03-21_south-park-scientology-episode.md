@@ -13,7 +13,8 @@ You can watch the whole [South Park episode](http://www.thesuperficial.com/archi
 
 ### Related Posts:
 
-- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/) - [South Park + 300 =\>
+- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/)
+- [South Park + 300 =\>
   genius!!!!](https://www.gnxp.com/WordPress/2007/04/11/south-park-300-genius/) - [Finland narks on Earth in South
   Park](https://www.gnxp.com/WordPress/2009/04/16/finland-narks-on-earth-in-south-park/) - [A very problematic South
   Park](https://www.gnxp.com/WordPress/2015/09/19/a-very-problematic-south-park/) - [Important

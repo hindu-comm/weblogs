@@ -11,8 +11,8 @@ Testosterone leading to more autism?
 
 [Foetal testosterone linked to autistic traits](http://www.nature.com/news/2007/070910/full/070910-3.html):
 
-> This latest update on their progress, presented by Simon Baron-Cohen > and Bonnie Auyeung at the British Association’s Festival of Science in > York today, shows that the correlation between foetal hormone levels > and autistic-trait behaviour continues as the children grow up.  
-> …Baby boys produce more testosterone in the womb, **which means they > can also expose a non-identical female twin to higher levels of the > hormone**. But other genetic and environmental factors are thought to > also play a role.
+> This latest update on their progress, presented by Simon Baron-Cohen and Bonnie Auyeung at the British Association’s Festival of Science in York today, shows that the correlation between foetal hormone levels and autistic-trait behaviour continues as the children grow up.  
+> …Baby boys produce more testosterone in the womb, **which means they can also expose a non-identical female twin to higher levels of the hormone**. But other genetic and environmental factors are thought to also play a role.
 
 This is of course part of Simon Baron-Cohen’s research program on [empathizers and systemizers](https://www.gnxp.com/MT2/archives/004009.html)….
 

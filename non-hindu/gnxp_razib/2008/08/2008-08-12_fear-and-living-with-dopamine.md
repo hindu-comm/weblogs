@@ -25,7 +25,8 @@ Related: [Optimal personality and way of life](https://www.gnxp.com/blog/2008/06
 
 ### Related Posts:
 
-- [COMT & Fear](https://www.gnxp.com/WordPress/2009/03/10/comt-fear/) - [More dopamine
+- [COMT & Fear](https://www.gnxp.com/WordPress/2009/03/10/comt-fear/)
+- [More dopamine
   (DRD2)](https://www.gnxp.com/WordPress/2007/10/08/more-dopamine-drd2/) - [Selection speculation: CLOCK and reward-dependence
   in…](https://www.gnxp.com/WordPress/2008/06/02/selection-speculation-clock-and-reward-dependence-in-africans/) - [Red hair and rotten
   teeth](https://www.gnxp.com/WordPress/2009/07/31/red-hair-and-rotten-teeth/) - [Genetically profiling the brain: it all ends with

@@ -11,7 +11,7 @@ The new eugenics isn't about reason
 
 [Genetic Future](http://scienceblogs.com/geneticfuture/2009/03/allowing_children_to_be_born_w.php) has a post which [mulls over the idea that not screening for particular diseases is similar to child abuse](http://scienceblogs.com/geneticfuture/2009/03/allowing_children_to_be_born_w.php). I was interested in this last comment:
 
-> Naturally there are objections to embryo screening among religious > conservatives who believe that inflicting severe disease on children > is the will of God – but why does the prospect raise such unease among > even the secular community? I share Le Page’s puzzlement on this > question, **and would invite opponents to lay out any *well-reasoned > arguments*** against routine screening in the comments below.
+> Naturally there are objections to embryo screening among religious > conservatives who believe that inflicting severe disease on children > is the will of God – but why does the prospect raise such unease among even the secular community? I share Le Page’s puzzlement on this question, **and would invite opponents to lay out any *well-reasoned arguments*** against routine screening in the comments below.
 
 Religious conservatives, particularly Roman Catholics, do have well-reasoned arguments once you grant their premises. But I would like to take a step back and suggest that though reason is the “front side of the house” in this discussion, the real work is being done by intuition in concert with social consensus in the kitchen. I think this is even true for religious conservatives at the end of the day; today some religious couples who receive fertility treatment thank God for their multiple births.
 

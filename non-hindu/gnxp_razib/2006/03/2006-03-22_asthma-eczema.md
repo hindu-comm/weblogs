@@ -11,7 +11,7 @@ Asthma & eczema
 
 [Common loss-of-function variants of the epidermal barrier protein filaggrin are a major predisposing factor for atopic dermatitis](http://www.nature.com/ng/journal/vaop/ncurrent/abs/ng1767.html):
 
-> Filaggrin is a key protein that facilitates terminal differentiation > of the epidermis and formation of the skin barrier. Here we show that > two independent loss-of-function genetic variants (R510X and 2282del4) > in the gene encoding filaggrin (FLG) are very strong predisposing > factors for atopic dermatitis. These variants are carried by \~9% of > people of European origin. **These variants also show highly > significant association with asthma occurring in the context of atopic > dermatitis**.
+> Filaggrin is a key protein that facilitates terminal differentiation > of the epidermis and formation of the skin barrier. Here we show that > two independent loss-of-function genetic variants (R510X and 2282del4) > in the gene encoding filaggrin (FLG) are very strong predisposing > factors for atopic dermatitis. These variants are carried by \~9% of people of European origin. **These variants also show highly significant association with asthma occurring in the context of atopic dermatitis**.
 
 This hits close to home, asthma and eczema both run in my family (atopic dermatitis). Now, why would a loss-of-function genetic variation exist at such a high frequency? One could posit that functional constraint was removed…but I can tell you from personal experiences that neither asthma nor eczema are “neutral.” Of course, in the pre-modern world the environmental factors which result in the expression of both phenotypes might not have been present….
 

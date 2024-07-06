@@ -123,11 +123,11 @@ This flattering letter was addressed to Raja Hindu Rao, brother-in-law of Mahara
 
 But Syed Ahamad revealed his true intent in another letter addressed to a Muslim businessman.
 
-> **My real object is the establishment of jihãd against the Sikhs of > the Punjab** and not to stay in the countries of Afghanistan and > Yagistan. **The long-haired infidels who have seized sovereignty over > Punjab** are very experienced, clever and deceitful. The ill-natured > Sikhs and the ill-fated polytheists have gained control over the > Western parts of India from the banks of Indus to the capital city of > Delhi. (Emphasis added)
+> **My real object is the establishment of jihãd against the Sikhs of > the Punjab** and not to stay in the countries of Afghanistan and > Yagistan. **The long-haired infidels who have seized sovereignty over > Punjab** are very experienced, clever and deceitful. The ill-natured Sikhs and the ill-fated polytheists have gained control over the Western parts of India from the banks of Indus to the capital city of Delhi. (Emphasis added)
 
 In his inimitable style, this is how Sita Ram Goel characterises Syed Ahmad Barelvi:
 
-> Such a combination of scoundrelism and self-righteousness is rare even > among Muslim theologians and missionaries.
+> Such a combination of scoundrelism and self-righteousness is rare even among Muslim theologians and missionaries.
 
 Syed Ahmad achieved impressive success in his bigoted endeavours. By 1824-5, he had amassed a huge fortune and recruited thousands of Mujahideens for his cause. They were thoroughly brainwashed and battle-ready. To reinforce their commitment and psychological and religious preparedness, he made them sing war-songs infused with bloodcurdling messages rooted in Islamic theology. Here is one such song titled *Risala Jihad:*
 

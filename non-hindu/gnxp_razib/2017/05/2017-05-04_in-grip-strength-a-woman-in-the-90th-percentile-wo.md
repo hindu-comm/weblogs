@@ -28,7 +28,7 @@ Many people will find this post a bit ridiculous. Who doesn’t know that men ar
 
 First, there are some academics who believe that increased training will allow women to converge with men in strength, and therefore they propose to end sex segregation in sports. Proponents of [this view](https://howwegettonext.com/is-gender-segregation-in-sports-necessary-dc188150f242) say thinks like this:
 
-> Could that change? Could women start catching up with men again? After > all, people used to say **women were unable to handle political > office**. **Even the slowest-converging lines eventually do merge**; > the truth is nobody knows for sure if that’s the case here. The > history of women in sports is a history of being gradually allowed > access to social privileges which have made them better athletes, and > there could yet be undiscovered factors at play that could make the > gap smaller.
+> Could that change? Could women start catching up with men again? After > all, people used to say **women were unable to handle political > office**. **Even the slowest-converging lines eventually do merge**; > the truth is nobody knows for sure if that’s the case here. The > history of women in sports is a history of being gradually allowed access to social privileges which have made them better athletes, and there could yet be undiscovered factors at play that could make the gap smaller.
 
 There’s no comparison between political office and athletic performance. Second, the slowest converging lines do not eventually merge by necessity.
 

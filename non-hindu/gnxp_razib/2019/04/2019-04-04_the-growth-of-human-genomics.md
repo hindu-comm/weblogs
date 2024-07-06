@@ -17,7 +17,8 @@ Also, looks like [my son is about the 10,000th person](https://www.technologyrev
 
 ### Related Posts:
 
-- [Ask GNXP - personal genome
+- [Ask GNXP
+- personal genome
   sequence](https://www.gnxp.com/WordPress/2006/07/25/ask-gnxp-personal-genome-sequence/) - [How many human genomes have been
   sequenced?](https://www.gnxp.com/WordPress/2011/11/07/how-many-human-genomes-have-been-sequenced/) - [The sequenced
   generation](https://www.gnxp.com/WordPress/2016/09/22/the-sequenced-generation/) - [MIT Technology Review on my son's whole genome

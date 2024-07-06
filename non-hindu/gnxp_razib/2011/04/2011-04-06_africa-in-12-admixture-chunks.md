@@ -63,8 +63,8 @@ As always we need to remember that these probably aren’t pure concrete real an
 
 Here’s Wikipedia on the [Sandawe](https://en.wikipedia.org/wiki/Sandawe_people):
 
-> The Sandawe are an agricultural ethnic group based in the Kondoa > district of Dodoma Region in central Tanzania. In 2000 the Sandawe > population was estimated to number 40,000. >
-> The Sandawe language is a tonal language with clicks, apparently > related to the Khoe languages of southern Africa. Recent research > suggests that the ancestors of the Khoe were pastoralists, and > migrated into southern Africa from the northeast, perhaps from the > region of the modern Sandawe.
+> The Sandawe are an agricultural ethnic group based in the Kondoa district of Dodoma Region in central Tanzania. In 2000 the Sandawe population was estimated to number 40,000. >
+> The Sandawe language is a tonal language with clicks, apparently > related to the Khoe languages of southern Africa. Recent research suggests that the ancestors of the Khoe were pastoralists, and migrated into southern Africa from the northeast, perhaps from the region of the modern Sandawe.
 
 But the Sandawe don’t seem to be that close to the South African Bushmen samples. Here’s a multidimensional scaling of the Fst relationships of selected inferred ancestral African groups (weight the x-axis more):
 

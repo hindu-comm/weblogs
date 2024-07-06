@@ -11,15 +11,16 @@ Aurochs resurrection project
 
 [Breeding Ancient Cattle Back from Extinction](http://www.time.com/time/health/article/0,8599,1961918,00.html):
 
-> The only place to see an aurochs in nature these days? A cave > painting. The enormous wild cattle that once roamed the European > plains have been extinct since 1627, when the last survivor died in a > Polish nature reserve. But this could soon change thanks to the work > of European preservationists who are hoping they can make the great > beast walk again. If they succeed — through a combination of modern > genetic expertise and old-fashioned breeding — it would be the first > time an animal has been brought back from extinction and released into > the wild.  
+> The only place to see an aurochs in nature these days? A cave > painting. The enormous wild cattle that once roamed the European > plains have been extinct since 1627, when the last survivor died in a > Polish nature reserve. But this could soon change thanks to the work > of European preservationists who are hoping they can make the great > beast walk again. If they succeed — through a combination of modern genetic expertise and old-fashioned breeding — it would be the first time an animal has been brought back from extinction and released into the wild.  
 > …  
-> The current effort isn’t the first attempt to resurrect the ancient > cattle. The aurochs played an important role in early German culture, > and in the early 20th century the Nazi government funded an attempt to > breed them back as part of its propaganda effort. The result, known as > Heck cattle, may to some extent resemble the ancient aurochs, says > Kerkdijk, but they’re genetically quite different. “**We want a breed > that resembles the aurochs, not only in phenotype, but in genotype**,” > he says. Heck cattle, for example, are more aggressive than aurochs > because they were bred, in part, using Spanish fighting bulls. “They > will attack without a prior threat display,” says Kerkdijk. “When I’m > in Africa, herbivores won’t attack me. They give some type of warning: > Back off, one step further or you’re dead meat.”
+> The current effort isn’t the first attempt to resurrect the ancient > cattle. The aurochs played an important role in early German culture, > and in the early 20th century the Nazi government funded an attempt to > breed them back as part of its propaganda effort. The result, known as > Heck cattle, may to some extent resemble the ancient aurochs, says > Kerkdijk, but they’re genetically quite different. “**We want a breed > that resembles the aurochs, not only in phenotype, but in genotype**,” > he says. Heck cattle, for example, are more aggressive than aurochs > because they were bred, in part, using Spanish fighting bulls. “They will attack without a prior threat display,” says Kerkdijk. “When I’m in Africa, herbivores won’t attack me. They give some type of warning: Back off, one step further or you’re dead meat.”
 
 Sounds like they do want the phenotype, but the behavioral phenotype. There are of course auroch genetic material preserved in museums because they went extinct so recently, so they’ll use those sequences and to hunt for the variants in modern cattle strains. Once the preliminary analysis of what they want is done, it’ll be old-fashioned animal breeding it seems….
 
 ### Related Posts:
 
-- [Horny bulls](https://www.gnxp.com/WordPress/2005/09/21/horny-bulls/) - [When "Europeans" almost went
+- [Horny bulls](https://www.gnxp.com/WordPress/2005/09/21/horny-bulls/)
+- [When "Europeans" almost went
   extinct](https://www.gnxp.com/WordPress/2015/03/30/when-europeans-almost-went-extinct/) - [DNA ancestry testing-- a uniter, not a
   divider?](https://www.gnxp.com/WordPress/2007/03/14/dna-ancestry-testing-a-uniter-not-a-divider/) - [The few and the
   many](https://www.gnxp.com/WordPress/2010/01/18/the-few-and-the-many/) - [A bioartistic project for the Long Now

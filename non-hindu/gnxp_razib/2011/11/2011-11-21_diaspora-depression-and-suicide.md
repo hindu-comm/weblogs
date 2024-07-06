@@ -11,7 +11,7 @@ Diaspora, depression, and suicide
 
 [What We Don’t Know About Suicide](http://www.forbes.com/sites/matthewherper/2011/11/14/what-we-dont-know-about-suicide/):
 
-> CNNMoney reports that Ilya Zhitomirskiy, one of four co-founders of > the social networking site Diaspora, died over the weekend, and that > suicide was the likely cause of death. He was 22.
+> CNNMoney reports that Ilya Zhitomirskiy, one of four co-founders of the social networking site Diaspora, died over the weekend, and that suicide was the likely cause of death. He was 22.
 
 I gave some money to Diaspora. It seems like it didn’t pan out. So? But that’s easy for me to say, I just gave a little money. I suspect many of us have faced with panic the likelihood of failure. Personalities differ in how we can process that failure. I remember in college reading the story of a kid who killed himself because of shame over a credit card debt on the order of a few thousand dollars! We make a big deal today about how failure is critical to ultimate success, but we don’t put enough spotlight on the day to day toll that failure necessarily takes on many people….
 

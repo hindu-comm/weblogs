@@ -29,7 +29,8 @@ Now, I don’t think that this is a new phenomenon at all. Back in hunter-gather
 
 I leave it as an exercise to the reader to show how the Universal Law of Interpersonal Dynamics predicts the following:
 
-1.  All institutions will tend to be dominated by the P-adept 2.  All institutions that have no in-built exogenous criteria for
+1.  All institutions will tend to be dominated by the P-adept
+2.  All institutions that have no in-built exogenous criteria for
     measuring its members’ status will **inevitably** be dominated by
     the P-adept 3.  Universities will inevitably be dominated by the P-adept 4.  Within a university, humanities and social sciences will be more
     dominated by the P-adept than natural sciences 5.  Within a university, humanities and social sciences will politically

@@ -11,8 +11,8 @@ Coffee is not measured by its price
 
 [![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/41J0js7LJcL._SY344_BO1204203200_.jpg?resize=175%2C261)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/41J0js7LJcL._SY344_BO1204203200_.jpg?resize=175%2C261)](https://www.amazon.com/exec/obidos/ASIN/0393066320/geneexpressio-20)An interesting piece on a \$1 coffee joint, [Has Coffee Gotten Too Fancy?](https://www.nytimes.com/2017/04/10/dining/coffee-locol-restaurant-one-dollar-cup.html):
 
-> Mr. Konecny’s ambitions for Yes Plz go beyond selling a high-quality > cup of coffee at that magic price point, though he knows that it sends > a powerful message. What he wants to do is shift the very nature of > coffee culture. He has no patience for what he calls the “culinary > burlesque” of pour-over bars, with their solemn baristas and potted > succulents. “It’s dress-up,” he said.  
-> Those settings and presentations, he said, send the wrong message: > that **good coffee** must also be expensive and fetishized.
+> Mr. Konecny’s ambitions for Yes Plz go beyond selling a high-quality > cup of coffee at that magic price point, though he knows that it sends > a powerful message. What he wants to do is shift the very nature of coffee culture. He has no patience for what he calls the “culinary burlesque” of pour-over bars, with their solemn baristas and potted succulents. “It’s dress-up,” he said.  
+> Those settings and presentations, he said, send the wrong message: that **good coffee** must also be expensive and fetishized.
 
 ![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/coffee-calories.jpg?resize=150%2C100)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/coffee-calories.jpg?resize=150%2C100)I drink a lot of coffee. At work I’m known to drink 40 or 60 ounces in a day. I also like specialty coffees, dating back to when I lived in Portland and patronized the [Stumptown](https://www.amazon.com/exec/obidos/ASIN/B008J4WEBM/geneexpressio-20) on Belmont.
 

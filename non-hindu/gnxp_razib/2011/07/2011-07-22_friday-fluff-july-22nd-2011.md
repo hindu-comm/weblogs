@@ -18,7 +18,7 @@ Friday Fluff – July 22nd, 2011
 
 3\) **Comment of the week**, in response to [“Neanderthal-human mating, months later….”](http://blogs.discovermagazine.com/gnxp/2011/07/neanderthal-human-mating-months-later/comment-page-1/#comment-79482):
 
-> Humans mating with Neanderthals? Hmmm, could this be the first > evidence of alcohol use?
+> Humans mating with Neanderthals? Hmmm, could this be the first evidence of alcohol use?
 
 4\) And finally, your weekly **fluff fix**:
 
@@ -26,7 +26,8 @@ Friday Fluff – July 22nd, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - July 8th,
+- [Friday Fluff
+- July 8th,
   2011](https://www.gnxp.com/WordPress/2011/07/08/friday-fluff-july-8th-2011/) - [Friday Fluff - July 1st,
   2011](https://www.gnxp.com/WordPress/2011/07/01/friday-fluff-july-1st-2011/) - [Friday Fluff - March 4th,
   2011](https://www.gnxp.com/WordPress/2011/03/04/friday-fluff-march-4th-2011/) - [Friday Fluff - August 26th,

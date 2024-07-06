@@ -28,7 +28,8 @@ These trend lines also validate the urban-wisdom that becoming the “Person of 
 
 ### Related Posts:
 
-- [Collapse, stagnation, and explosion - Myspace, Yahoo!,
+- [Collapse, stagnation, and explosion
+- Myspace, Yahoo!,
   and,…](https://www.gnxp.com/WordPress/2010/12/06/collapse-stagnation-and-explosionmyspace-yahoo-and-facebook/) - [Circles are for
   real!](https://www.gnxp.com/WordPress/2011/07/04/circles-are-for-real/) - [Google+, very different from
   Facebook](https://www.gnxp.com/WordPress/2011/09/15/google-very-different-from-facebook/) - [Peak

@@ -24,7 +24,8 @@ As you can see, I got the [DonorsChoose](http://www.donorschoose.org/donors/view
 
 ### Related Posts:
 
-- [DonorsChoose Challenge 2010 - It's
+- [DonorsChoose Challenge 2010
+- It's
   On!](https://www.gnxp.com/WordPress/2010/10/13/donorschoose-challenge-2010-its-on/) - [Finland narks on Earth in South
   Park](https://www.gnxp.com/WordPress/2009/04/16/finland-narks-on-earth-in-south-park/) - [Jersey Shore coming
   back](https://www.gnxp.com/WordPress/2010/01/31/jersey-shore-coming-back/) - [Don't hit the white

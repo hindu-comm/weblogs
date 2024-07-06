@@ -13,7 +13,7 @@ A quick personal story. I have a treatable autosomal dominant condition. For the
 
 Though the doctor was skeptical of the effectiveness of the test at this age, she also (according to my wife) decided to give my wife a lecture on the appropriateness of testing. Here’s what my wife emailed me:
 
-> “she then spent a lot of time educating me about how you (read SHE) > wouldn’t ever want to know the status on something like that that you > knew was a distinct genetic possibility up until right at the moment > when you were going to take a therapeutic or preventative step if the > status was positive.”
+> “she then spent a lot of time educating me about how you (read SHE) > wouldn’t ever want to know the status on something like that that you knew was a distinct genetic possibility up until right at the moment when you were going to take a therapeutic or preventative step if the status was positive.”
 
 God knows how the doctor would treat someone who was from a less socially advantaged group, or who was not college educated (and wasn’t married to someone who knows a bit about medical genetics).
 

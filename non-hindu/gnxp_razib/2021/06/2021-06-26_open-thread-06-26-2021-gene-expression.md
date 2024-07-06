@@ -33,8 +33,8 @@ Speaking of Patrick, [David Anthony on his podcast](https://podcasts.podinstall.
 
 [Quest for Fire](https://en.wikipedia.org/wiki/Quest_for_Fire_(film)). Is this a documentary now?
 
-> All known archaic groups with ancient DNA evidence interbred. > Repeatedly. Seemingly every time they came into contact. Three > distinct groups of Denisovans, all known from their ancient > interbreeding with modern people. So. Much. Interbreeding. > [pic.twitter.com/AkZkSjacUF](https://t.co/AkZkSjacUF) >
-> — John Hawks (@johnhawks) [June 25, > 2021](https://twitter.com/johnhawks/status/1408470323511664642?ref_src=twsrc%5Etfw)
+> All known archaic groups with ancient DNA evidence interbred. > Repeatedly. Seemingly every time they came into contact. Three distinct groups of Denisovans, all known from their ancient interbreeding with modern people. So. Much. Interbreeding. [pic.twitter.com/AkZkSjacUF](https://t.co/AkZkSjacUF) >
+> — John Hawks (@johnhawks) [June 25, 2021](https://twitter.com/johnhawks/status/1408470323511664642?ref_src=twsrc%5Etfw)
 
 [SIA: Selection Inference Using the Ancestral Recombination Graph](https://www.biorxiv.org/content/10.1101/2021.06.22.449427v2).
 
@@ -42,7 +42,8 @@ Speaking of Patrick, [David Anthony on his podcast](https://podcasts.podinstall.
 
 ### Related Posts:
 
-- [Open Thread - 08/01/2021 -
+- [Open Thread
+- 08/01/2021 -
   GNXP](https://www.gnxp.com/WordPress/2021/08/01/open-thread-08-01-2021-gnxp/) - [Open Thread – 11/07/2021 – Gene
   Expression](https://www.gnxp.com/WordPress/2021/11/07/open-thread-11-07-2021-gene-expression/) - [Open Thread - 9/12/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/09/12/open-thread-9-12-2021-gene-expression/) - [Open Thread - 05/10/2021 -

@@ -15,7 +15,8 @@ There’s a reason that [The Lonely Island](http://www.npr.org/2011/05/08/136056
 
 ### Related Posts:
 
-- [Turtleneck & Chain - geekcore
+- [Turtleneck & Chain
+- geekcore
   extraordinaire](https://www.gnxp.com/WordPress/2011/05/11/turtleneck-chain-geekcore-extraordinaire/) - [British Army Music
   Video](https://www.gnxp.com/WordPress/2005/07/25/british-army-music-video/) - [Religion &
   loneliness](https://www.gnxp.com/WordPress/2008/02/17/religion-loneliness/) - [Putting Humpty Dumpty back

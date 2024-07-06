@@ -18,15 +18,16 @@ Friday Fluff – June 10th, 2011
 
 3\) **Comment of the week**, in response to \<a href="http://blogs.discovermagazine.com/gnxp/2011/06/dances-with-dragons-t-minus-month/#comment-74748Dances with Dragons, t-minus \~ 1 month":
 
-> Maybe I’m a terrible person but I’m waiting for GRRM to either finish > the series or die. I don’t want to get sucked into several thousand > pages and then have to wait years for more of the story.  
-> I recently read all 21 Aubrey/Maturin books and they were wonderful — > but looking at the copyrights I can’t imagine having read them > contemporaneously and having to go years between installments. I guess > I am a terrible person, or at least a terrible book lover.
+> Maybe I’m a terrible person but I’m waiting for GRRM to either finish the series or die. I don’t want to get sucked into several thousand pages and then have to wait years for more of the story.  
+> I recently read all 21 Aubrey/Maturin books and they were wonderful — but looking at the copyrights I can’t imagine having read them contemporaneously and having to go years between installments. I guess I am a terrible person, or at least a terrible book lover.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/greenRecycleCat.jpg?resize=600%2C800)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/greenRecycleCat.jpg?resize=600%2C800)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/greenRecycleCat.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - April 1st,
+- [Friday Fluff
+- April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff – February 4th,
   2011](https://www.gnxp.com/WordPress/2011/02/04/friday-fluff-february-4th-2011/) - [Friday Fluff - April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff - July 8th,

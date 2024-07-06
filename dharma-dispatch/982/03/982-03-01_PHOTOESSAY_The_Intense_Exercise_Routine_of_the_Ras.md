@@ -497,7 +497,7 @@ To make this scene more vivid, let’s consider the *Chakravyuha,* arguably the 
 
 Thus, when we refer back to the inscription, this is what we get: the five cuts or attacks made with *thirty-two* different kinds of weapons takes the number to 160. When we multiply it by two—for left and right sides, the number stands at 320. Our inscription gives the number as 338: the additional moves can be factored in for variations in the actual style or variety of cuts. Which is precisely what Ratta-Kandarpadeva does:
 
-> Indraraja in this manner, attacking the chakrayuha like a > Chakra-bearer \[literally, Vishnu\] by going round it, leaping on it, > penetrating it here and there, he was unequalled in receiving no > injury.
+> Indraraja in this manner, attacking the chakrayuha like a Chakra-bearer \[literally, Vishnu\] by going round it, leaping on it, penetrating it here and there, he was unequalled in receiving no injury.
 
 The inscription also mentions how “*Elevabedanga* alone in the world knows how to make with ease such difficult and astonishing movements in *Vyuhas* such as *mandala-maale* \[garland of the circular array\], *tri-mandala* \[three circular arrays\], *yamaka-mandala* \[two circular arrays\], *ardha-chandra* \[half-moon formation\], *sarvatobhadra* \[heavy deployment of forces on all sides, a defensive formation.\], and *Chakravyuha.*”
 

@@ -11,9 +11,9 @@ Fat and tuberculosis
 
 [Obesity May Have Offered Edge Over TB](http://www.nytimes.com/2009/06/24/health/research/24fat.html?ref=health):
 
-> Over the course of human evolution, people with excess stores of fat > have been more likely to survive famines, many scientists believe, > living on to pass their genes to the next generation.  
-> But these days, obesity is thought to be harmful, leading to chronic > inflammation and metabolic disorders that set the stage for heart > disease. So what went awry? When did excess fat stop being a > protective mechanism that assured survival and instead become a > liability?  
-> A provocative new hypothesis suggests that in some people, fat not > only stores energy but also revs up the body’s immune system. This > subgroup may have enjoyed a survival advantage in the 1800s, when > people were plagued by a disease that decimated Europe: tuberculosis.
+> Over the course of human evolution, people with excess stores of fat have been more likely to survive famines, many scientists believe, living on to pass their genes to the next generation.  
+> But these days, obesity is thought to be harmful, leading to chronic > inflammation and metabolic disorders that set the stage for heart disease. So what went awry? When did excess fat stop being a protective mechanism that assured survival and instead become a liability?  
+> A provocative new hypothesis suggests that in some people, fat not only stores energy but also revs up the body’s immune system. This subgroup may have enjoyed a survival advantage in the 1800s, when people were plagued by a disease that decimated Europe: tuberculosis.
 
 The original paper is [here](http://jama.ama-assn.org/cgi/content/short/301/24/2586). I’m skeptical, but I’d like people who know more about the history and distribution of tuberculosis to weigh in. My working assumption is that excess fat was helpful in most pre-modern contexts (i.e., female fertility) and obesity wasn’t common and simply a modern overshoot.
 
@@ -33,9 +33,9 @@ The original paper is [here](http://jama.ama-assn.org/cgi/content/short/301/24/2
 
 [Obesity May Have Offered Edge Over TB](http://www.nytimes.com/2009/06/24/health/research/24fat.html?ref=health):
 
-> Over the course of human evolution, people with excess stores of fat > have been more likely to survive famines, many scientists believe, > living on to pass their genes to the next generation. >
-> But these days, obesity is thought to be harmful, leading to chronic > inflammation and metabolic disorders that set the stage for heart > disease. So what went awry? When did excess fat stop being a > protective mechanism that assured survival and instead become a > liability? >
-> A provocative new hypothesis suggests that in some people, fat not > only stores energy but also revs up the body’s immune system. This > subgroup may have enjoyed a survival advantage in the 1800s, when > people were plagued by a disease that decimated Europe: tuberculosis.
+> Over the course of human evolution, people with excess stores of fat have been more likely to survive famines, many scientists believe, living on to pass their genes to the next generation. >
+> But these days, obesity is thought to be harmful, leading to chronic > inflammation and metabolic disorders that set the stage for heart disease. So what went awry? When did excess fat stop being a protective mechanism that assured survival and instead become a liability? >
+> A provocative new hypothesis suggests that in some people, fat not only stores energy but also revs up the body’s immune system. This subgroup may have enjoyed a survival advantage in the 1800s, when people were plagued by a disease that decimated Europe: tuberculosis.
 
 The original paper is [here](http://jama.ama-assn.org/cgi/content/short/301/24/2586). I’m skeptical, but I’d like people who know more about the history and distribution of tuberculosis to weigh in. My working assumption is that excess fat was helpful in most pre-modern contexts (i.e., female fertility) and obesity wasn’t common and simply a modern overshoot.
 

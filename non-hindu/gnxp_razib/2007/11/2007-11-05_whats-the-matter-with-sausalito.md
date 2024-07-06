@@ -11,7 +11,7 @@ What’s the matter with Sausalito?
 
 [Statistical Modeling, Causal Inference, and Social Science](http://www.stat.columbia.edu/~cook/movabletype/archives/2007/11/income_religiou_1.html) has an interesting post up, [Income, religious attendance, and voting](http://www.stat.columbia.edu/~cook/movabletype/archives/2007/11/income_religiou_1.html):
 
-> Church attendance is a strong predictor of how high-income people > vote, not such a good predictor for low-income voters.
+> Church attendance is a strong predictor of how high-income people vote, not such a good predictor for low-income voters.
 
 Why? I think the most likely explanation is that cultural considerations become more salient as one increases up the income ladder. Check out [their chart](http://www.stat.columbia.edu/~cook/movabletype/mlm/religion.png).
 

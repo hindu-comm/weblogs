@@ -437,21 +437,21 @@ We will narrate the story of the first here.
 
 Sometime during his tenure, P.V. Narasimha Rao embarked on a trip abroad. As was customary in those days, his office drew up a list of editors and journalists who would accompany the PM. The list then reached the table of the PM’s media advisor for his approval. Let’s hear what happened next in the media advisor’s own words.
 
-> …*In* \[the list\]*, I ran into the name of a journalist, of whom > somebody had made a mention to me earlier. She was being considered to > accompany the PM in his press party on behalf of an Urdu newspaper. > Assailed by a doubt, I wrote on the file, “Find out whether she knows > Urdu.” Information Department officials deleted her name from the list > without responding to my query.*
+> …*In* \[the list\]*, I ran into the name of a journalist, of whom > somebody had made a mention to me earlier. She was being considered to > accompany the PM in his press party on behalf of an Urdu newspaper. Assailed by a doubt, I wrote on the file, “Find out whether she knows Urdu.” Information Department officials deleted her name from the list without responding to my query.*
 
 It is reasonable to say that the twist in the tale or said disgruntlement occurs at this juncture related to the alleged Urdu journalist as we shall see. P.V. Narasimha Rao’s media advisor continues.
 
-> *Strangely, a few weeks after that, the journalist **Vir Sanghvi** > wrote an article in…a magazine depicting me as a “joker” who stood in > the way of journalists.* >
-> *Only then, I was informed by the official of the Information > Department that the so-called Urdu journalist deleted from the list > following my query was **Sanghvi’s wife**. *\[Emphasis added\]
+> *Strangely, a few weeks after that, the journalist **Vir Sanghvi** wrote an article in…a magazine depicting me as a “joker” who stood in the way of journalists.* >
+> *Only then, I was informed by the official of the Information Department that the so-called Urdu journalist deleted from the list following my query was **Sanghvi’s wife**. *\[Emphasis added\]
 
 Your guess is correct. P.V. Narasimha Rao’s media advisor was that rare IAS officer, P.V.R.K. Prasad who has rendered such signal service at Tirumala among his other accomplishments. His autobiography, *Naaham Karta Hari Karta* is a highly recommended read.
 
 And to repeat the obvious, the veteran journalist “of consequence” is Vir Sanghvi whose role in the outrageous Radia Tapes scandal is perhaps the best advertisement of his notion of journalism. The condescension and ire that Sanghvi has towards Prasad and Narasimha Rao is best revealed in his venomous own words. Written in the defunct *Sunday* news magazine, 15-21 January 1995.
 
-> *…poor Prasad…has no time for the media. He knows few journalists > well…and **is not particularly well-placed to either monitor or > influence coverage of the Prime Minister**…I am perturbed by the > spectacle of the Prime Minister’s clueless media advisers running > around like headless chickens.* >
-> *It may make sense to have such people if you don’t care about the > media; but if you do care, **then it is suicidal to continue to depend > on them**…* >
-> ***The Prime Minister's men, it is now clear, are incapable** of doing > anything to change this…* >
-> *Perhaps, it is now time for* \[the Prime Minister\] *to take charge > of his own image He needs to communicate… As a man who stood up for > his vision of India. And not as **an arrogant old bore who entrusted > his image to a bunch of jokers**. *\[Emphasis added\]
+> *…poor Prasad…has no time for the media. He knows few journalists > well…and **is not particularly well-placed to either monitor or influence coverage of the Prime Minister**…I am perturbed by the spectacle of the Prime Minister’s clueless media advisers running around like headless chickens.* >
+> *It may make sense to have such people if you don’t care about the media; but if you do care, **then it is suicidal to continue to depend on them**…* >
+> ***The Prime Minister's men, it is now clear, are incapable** of doing anything to change this…* >
+> *Perhaps, it is now time for* \[the Prime Minister\] *to take charge of his own image He needs to communicate… As a man who stood up for his vision of India. And not as **an arrogant old bore who entrusted his image to a bunch of jokers**. *\[Emphasis added\]
 
 **This** passed off as journalism and informed opinion for the longest time in India since “independence.” Had P.V.R.K. Prasad not written his side of the event, a person who reads Vir Sanghvi's column even today will have no reason to doubt it.
 

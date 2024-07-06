@@ -99,7 +99,7 @@ Late one evening, Krishnadevaraya was strolling the streets of Vijayanagara inco
 > kādanigīdani vādaku voste kaṭakaṃdākā māderā \|\|  
 >   
 > Kondavīdu is ours, Kondapalli is ours  
-> If anyone dares to argue against it, we will declare that the entire > region including kaṭakaṃ is also ours \|\|
+> If anyone dares to argue against it, we will declare that the entire region including kaṭakaṃ is also ours \|\|
 
 *kaṭakaṃ* stands for present-day Cuttack in Odisha.
 

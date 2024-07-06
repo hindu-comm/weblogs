@@ -47,7 +47,8 @@ I could list more. And probably five out of these ten would switch if I made a n
 
 ### Related Posts:
 
-- [Open Thread - August 30th,
+- [Open Thread
+- August 30th,
   2010](https://www.gnxp.com/WordPress/2010/08/30/open-thread-august-30th-2010/) - ["Third culture" summer reading
   list....](https://www.gnxp.com/WordPress/2005/07/15/third-culture-summer-reading-list/) - [Boredom](https://www.gnxp.com/WordPress/2009/09/27/boredom/) - [Carthage (and others) must be
   read](https://www.gnxp.com/WordPress/2018/07/07/carthage-and-others-must-be-read/) - [Open Thread,

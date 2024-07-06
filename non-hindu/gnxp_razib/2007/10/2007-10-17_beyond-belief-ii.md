@@ -13,7 +13,8 @@ Beyond Belief II
 
 ### Related Posts:
 
-- [Beyond Belief 3 - Candles in the
+- [Beyond Belief 3
+- Candles in the
   Dark](https://www.gnxp.com/WordPress/2008/11/11/beyond-belief-3-candles-in-the-dark/) - [Beyond Belief 3 - Candles in the
   Dark](https://www.gnxp.com/WordPress/2008/11/11/beyond-belief-3-candles-in-the-dark/) - [Peter Turchin @ Beyond
   Belief](https://www.gnxp.com/WordPress/2009/03/05/peter-turchin-beyond-belief/) - [Beyond Belief

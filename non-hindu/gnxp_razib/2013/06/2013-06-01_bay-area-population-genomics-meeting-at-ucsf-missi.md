@@ -12,9 +12,9 @@ Bay Area Population Genomics meeting at UCSF (Mission Bay)
 Since the [last post](https://blogs.discovermagazine.com/gnxp/2013/06/wdsit-plink-but-better/) on genomic tools was a bit parochial, I figure it’s acceptable to put up [this notice](http://cteg.berkeley.edu/~nielsen/2013/register-for-bay-area-population-genomics/) for the **Bay Area Population Genomics** meeting on June 8th. [Registration](https://tinyurl.com/a8h6uo8) closes on June 3rd (that is, Monday). Here’s the announcement:
 
 > Hello Everyone, >
-> We are excited to be hosting the 8th meeting of the Bay Area > Population Genomics group at UCSF Mission Bay on June 8th! Thanks to > support from Ancestry.com and the Institute for Quantitative > Biosciences (QB3 @ UCSF), this conference will include breakfast and > lunch. In addition, we will also have a reception during the poster > session, so we highly encourage you to preview your work at BAPG > before heading out to summer conferences. >
-> Please register at > [http://tinyurl.com/a8h6uo8](https://tinyurl.com/a8h6uo8), and sign up > to give a talk or poster. Registration is again free, but required by > June 3rd. >
-> There is paid parking in the lot/garage at the corner of 4th and 16th > streets, and we have a limited number of parking passes for people > that sign up to present and/or make a strong effort to carpool (please > email me for details). >
+> We are excited to be hosting the 8th meeting of the Bay Area > Population Genomics group at UCSF Mission Bay on June 8th! Thanks to > support from Ancestry.com and the Institute for Quantitative > Biosciences (QB3 @ UCSF), this conference will include breakfast and lunch. In addition, we will also have a reception during the poster session, so we highly encourage you to preview your work at BAPG before heading out to summer conferences. >
+> Please register at [http://tinyurl.com/a8h6uo8](https://tinyurl.com/a8h6uo8), and sign up to give a talk or poster. Registration is again free, but required by June 3rd. >
+> There is paid parking in the lot/garage at the corner of 4th and 16th streets, and we have a limited number of parking passes for people that sign up to present and/or make a strong effort to carpool (please email me for details). >
 > We are very much looking forward to seeing you at UCSF in a few weeks! >
 > Best, >
 > Ryan

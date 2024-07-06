@@ -11,7 +11,7 @@ Obesity as morality and health
 
 Normally I don’t post “read the whole thing,” but this really applies in the case of Virginia Hughes’ new piece in *Nature*, [The big fat truth](http://www.nature.com/news/the-big-fat-truth-1.13039). The ‘counter-intuitive’ finding is that in some age groups the slightly overweight have the lowest mortality rates. This is not totally surprising news, though there has been a long term debate on whether this is an artifact or not. Hughes notes:
 
-> If the obesity-paradox studies are correct, the issue then becomes how > to **convey their nuances.** A lot of excess weight, in the form of > obesity, is clearly bad for health, and most young people are better > off keeping trim. But that may change as they age and develop > illnesses.
+> If the obesity-paradox studies are correct, the issue then becomes how > to **convey their nuances.** A lot of excess weight, in the form of obesity, is clearly bad for health, and most young people are better off keeping trim. But that may change as they age and develop illnesses.
 
 The key here is that one-size-fits-all public health jeremiads are probably counter-productive in the long term. The question isn’t whether to present nuances, it is **how to do it well.** It doesn’t seem the status quo is working out so well after all.
 

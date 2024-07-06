@@ -73,7 +73,7 @@ In more impolite terms, this was the origin of how Nawab Nehru became a prized, 
 
 Indeed, Philip Spratt was bang on target. In 1929, the very next year, Nawab Nehru found the perfect opportunity and position of power to radicalise the Congress: he was elected its President. He wrote exultingly:
 
-> The All India Trade Union Congress was meeting at Nagpur and, as > president for the year, I had to preside over it. It was very unusual > for the same person to preside over both the National Congress and the > Trade Union Congress… **I had hoped that I might be a link between the > two and bring them closer to each other**…**the Congress to become > more socialistic, more proletarian** and organised Labour to join the > national struggle…**nationalism can only go far in a socialistic or > proletarian direction by ceasing to be nationalism**. Yet I felt that, > **bourgeois as the outlook of the National Congress was**, it did > represent the only effective revolutionary force in the country…**I > hoped that the course of events and the participation in direct action > would inevitably drive the Congress to a more radical ideology…in this > this matter, as in many others, my sympathies were with the Left.** > \[Emphasis added\]
+> The All India Trade Union Congress was meeting at Nagpur and, as > president for the year, I had to preside over it. It was very unusual > for the same person to preside over both the National Congress and the > Trade Union Congress… **I had hoped that I might be a link between the > two and bring them closer to each other**…**the Congress to become > more socialistic, more proletarian** and organised Labour to join the > national struggle…**nationalism can only go far in a socialistic or > proletarian direction by ceasing to be nationalism**. Yet I felt that, > **bourgeois as the outlook of the National Congress was**, it did > represent the only effective revolutionary force in the country…**I > hoped that the course of events and the participation in direct action would inevitably drive the Congress to a more radical ideology…in this this matter, as in many others, my sympathies were with the Left.** \[Emphasis added\]
 
 Naturally, this was sweet music to the Communist International (Comintern) masterminded from Soviet Russia, which ordered its cadre in India to support the Congress. A significant outcome of this and many other factors eventually led to the creation of something called the Congress Socialist Party, a separate wing inside the Congress to eat it from within. Nawab Nehru was its unofficial leader.
 
@@ -85,7 +85,7 @@ When he returned to India the same year, he was elected Congress President once 
 
 An alarmed Congress wasted no time in condemning these dangerous plans and declared its overwhelming opposition to Nehru who felt cornered. Continues Sitaramaiah:
 
-> **\[Nehru’s\] address pleaded for pure communism in a country which > had had its traditions built up through at least a hundred and thirty > centuries of progress, and a social structure which had, through these > long ages, withstood the buffets of time**…” \[Emphasis added\]
+> **\[Nehru’s\] address pleaded for pure communism in a country which had had its traditions built up through at least a hundred and thirty centuries of progress, and a social structure which had, through these long ages, withstood the buffets of time**…” \[Emphasis added\]
 
 Indeed, the Congress thought Nehru was insane to promote communism in an ancient and Dharmic country like India whose soul and life was informed by far gentler and profounder tenets than an Asuric world-conquering cult like Communism.
 
@@ -137,7 +137,7 @@ Nehru, being a communist and a coward, he will readily succumb to Sino-Soviet ma
 
 All along, the root of Nehru’s fear was that the CPI would poison the ears of the USSR against him. On this, we have his own admission in a letter he wrote to his sister, Vijayalakshmi Pandit, then the Ambassador to Russia:
 
-> *…the Communist Party of India has recently changed its policy again > and is now against the Government which is dubbed as just a > camp-follower of Anglo-Americans… **many people in Russia may form > their opinions from reports of the Communist Party of India**.* > \[Emphasis added\]
+> *…the Communist Party of India has recently changed its policy again > and is now against the Government which is dubbed as just a camp-follower of Anglo-Americans… **many people in Russia may form their opinions from reports of the Communist Party of India**.* \[Emphasis added\]
 
 Little did he know that the CPI was merely following the script authored in the USSR. Indeed, few things terrified Nehru as much as the disapproval of Moscow and its Great World Leader, “Marshal” Stalin.
 

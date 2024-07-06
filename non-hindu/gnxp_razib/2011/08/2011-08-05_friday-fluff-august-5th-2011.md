@@ -18,17 +18,18 @@ Friday Fluff – August 5th, 2011
 
 3\) Please note that I don’t endorse the views of the “comment of the week”! **Comment of the week**, in response to [“1 in 3 Iranian men ‘gay’?”](http://blogs.discovermagazine.com/gnxp/2011/08/1-out-of-3-young-iranian-men-gay/#comment-80762):
 
-> I think you are a bunch of idiots trying to judge everything with your > nonsensical mindset. >
-> I am a man and have fucked boys in Iran when I was at high school. > They were supposedly gay and we used to call them sissy boys. So, will > that make me gay? No! I did that because girls were not accessible. > Also at a younger age \`fucking somebody’ meant \`proving your > superiority’. Even now, I would happily fuck you mf\* to show who has > the upper hand! >
-> But this sort of affairs would mostly happen between bullies and > sissies. The rest 90% of children were immune of such activities. > Those of us who did such things a couple of times also gave up doing > so as we became more mature. I think you are out of your mind if you > think 30% of men are gay or those unmarried are involved with other > men!! You come up with such ideas only because your fucked-up society > is so obsessed with gays, gayness, gay rights, etc. >
-> As Ahmadinejad said, “we don’t have gays in Iran”! But we are happy to > export our sissy boys to your fucked-up societies, as I am sure you > will enjoy their company, since you new-generation nerdish westerners > have turned gays yourselves.
+> I think you are a bunch of idiots trying to judge everything with your nonsensical mindset. >
+> I am a man and have fucked boys in Iran when I was at high school. > They were supposedly gay and we used to call them sissy boys. So, will > that make me gay? No! I did that because girls were not accessible. Also at a younger age \`fucking somebody’ meant \`proving your superiority’. Even now, I would happily fuck you mf\* to show who has the upper hand! >
+> But this sort of affairs would mostly happen between bullies and > sissies. The rest 90% of children were immune of such activities. > Those of us who did such things a couple of times also gave up doing > so as we became more mature. I think you are out of your mind if you think 30% of men are gay or those unmarried are involved with other men!! You come up with such ideas only because your fucked-up society is so obsessed with gays, gayness, gay rights, etc. >
+> As Ahmadinejad said, “we don’t have gays in Iran”! But we are happy to export our sissy boys to your fucked-up societies, as I am sure you will enjoy their company, since you new-generation nerdish westerners have turned gays yourselves.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/snooze2.jpg?resize=600%2C469)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/snooze2.jpg?resize=600%2C469)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/snooze2.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - August 26th,
+- [Friday Fluff
+- August 26th,
   2011](https://www.gnxp.com/WordPress/2011/08/26/friday-fluff-august-26th-2011/) - [Friday Fluff - April 7th,
   2011](https://www.gnxp.com/WordPress/2011/04/08/friday-fluff-april-7th-2011/) - [Friday Fluff - April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff – February 18th,

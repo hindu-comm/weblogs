@@ -11,7 +11,7 @@ Raw material matters….
 
 From [Sons of the Conquerors: The Rise of the Turkic World](https://www.amazon.com/exec/obidos/redirect?link_code=ur2&camp=1789&tag=geneexpressio-20&amp;creative=9325&path=tg/detail/-/1585676411/qid=1122144297/sr=8-1/ref=sr_8_xs_ap_i1_xgl14?v=glance%26s=books%26n=507846):
 
-> …The German Turks in my queue for a 1998 workers’ charter flight to > Berlin seemed a tribe apart from other queues filled with more > sophisticated-looking Istanbul businessmen and holiday-makers. They > were indeed of different origin, since Turkey had sent village folk to > work in Germany, wanting to give industrial training to is rural > underclass…The men were short, stock Anatolian types, wearing baggy > trousers, clipped beards and gruff expressions, a pre-1980 rural > style….
+> …The German Turks in my queue for a 1998 workers’ charter flight to > Berlin seemed a tribe apart from other queues filled with more > sophisticated-looking Istanbul businessmen and holiday-makers. They > were indeed of different origin, since Turkey had sent village folk to > work in Germany, wanting to give industrial training to is rural underclass…The men were short, stock Anatolian types, wearing baggy trousers, clipped beards and gruff expressions, a pre-1980 rural style….
 
 ### Related Posts:
 

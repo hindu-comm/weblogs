@@ -11,7 +11,7 @@ Most people understand independence (probability)
 
 The GSS has a variable, ODDS1, which represents the question:
 
-> Now, think about this situation. A doctor tells a couple that their > genetic makeup means that they’ve got one in four chances of having a > child with an inherited illness. Does this mean that if their first > child has the illness, the next three will not have the illness?
+> Now, think about this situation. A doctor tells a couple that their genetic makeup means that they’ve got one in four chances of having a child with an inherited illness. Does this mean that if their first child has the illness, the next three will not have the illness?
 
 The obvious answer is that each child is an independent “trial,” and so has a 1 out of 4 chance. Only 10% of the respondents answered incorrectly. Below are the frequencies against some variables of interest (whites only, sample sizes 1500-2500).
 

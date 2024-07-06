@@ -23,7 +23,7 @@ Enough with the apologies, already. Apart from the usual selectivity of such ges
 
 Also in the **Observer**, **Jasper Gerard** has some nice comments on the difficulty of finding ‘moderate’ Muslim spokespersons:
 
-> Like a famous Belgian, a moderate Muslim is devilishly elusive… Every > time we anoint some cove the ‘voice of moderation’ he turns out > quietly to favour female genital mutilation or a spot of light > bombing.
+> Like a famous Belgian, a moderate Muslim is devilishly elusive… Every time we anoint some cove the ‘voice of moderation’ he turns out quietly to favour female genital mutilation or a spot of light bombing.
 
 Gerard also has a comment on **Kate Moss’s** [comedy turn](https://images.google.com/imgres?imgurl=http://newsimg.bbc.co.uk/media/images/42347000/jpg/_42347862_littlebrit_pa203b.jpg&imgrefurl=http://news.bbc.co.uk/2/hi/entertainment/6175608.stm&h=300&w=203&sz=15&hl=en&start=1&tbnid=L1wCn57vugkINM:&tbnh=111&tbnw=75&prev=/images%3Fq%3D%2522kate%2Bmoss%2522%2B%2522little%2Bbritain%2522%26svnum%3D10%26hl%3Den%26lr%3D%26ie%3DUTF-8%26oe%3DISO-8859-1%26c2coff%3D1%26safe%3Doff%26sa%3DG) for charity with **Matt Lucas** last week. But there seems to be a conflict of reports on the wording of Kate’s best line. Some say it was ‘I’ll do anything for a bag of Quavers’ (a popular snack), and others ‘I’m anybody’s for a bag of Quavers’. But Gerard has it as ‘I’ll give you a gob job for a bag of Quavers’. This has the ring of authenticity, but does anyone know the truth? Anyway, expect the sales of Quavers to rocket.
 
@@ -31,7 +31,8 @@ PS: in case anyone is wondering if I’ll ever write anything about genes again,
 
 ### Related Posts:
 
-- [Tit-for-Tat](https://www.gnxp.com/WordPress/2009/07/10/tit-for-tat/) - [Steve Jones
+- [Tit-for-Tat](https://www.gnxp.com/WordPress/2009/07/10/tit-for-tat/)
+- [Steve Jones
   Article](https://www.gnxp.com/WordPress/2007/07/17/steve-jones-article/) - [Global Warming: Cool
   It!](https://www.gnxp.com/WordPress/2006/05/27/global-warming-cool-it/) - [Celts and Anglo-Saxons, part n +
   2](https://www.gnxp.com/WordPress/2006/07/23/celts-and-anglo-saxons-part-n-2/) - [Sunday

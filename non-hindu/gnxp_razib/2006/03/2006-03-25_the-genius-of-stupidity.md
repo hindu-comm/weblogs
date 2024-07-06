@@ -11,7 +11,7 @@ The genius of stupidity
 
 [John Lynch](http://scienceblogs.com/strangerfruit/) comments on an impending [list of Ph.D. scientists](http://scienceblogs.com/strangerfruit/2006/03/i_just_dont_care.php) who dissent from Darwin. He doesn’t care, and neither do I, ho hum. As [I’ve noted in the past](https://www.gnxp.com/MT2/archives/001423.html) (and plenty of others have) these lists are usually stacked with physical scientists, and within the life sciences they are slim on individuals from [integrative fields](https://en.wikipedia.org/wiki/Systems_biology) where evolution plays a large role. Rosters of scholars who dissent from Darwin is part of a public relations ploy meant to leverage the fact that most humans don’t have a great grasp on the specificity and the specialization which a course of scientific work entails. Been there, done that. But, another thing I want to comment on is a [comment](http://scienceblogs.com/strangerfruit/2006/03/i_just_dont_care.php#comment-43654) on John’s blog:
 
-> Mathematicians have this strange weakness, wherein they think they’re > well-qualified to make judgments in fields outside their own. I catch > myself doing it, too; I think it’s an unintentional side-effect of our > training. Or maybe we just secretly think we’re much smarter than > everyone else.
+> Mathematicians have this strange weakness, wherein they think they’re > well-qualified to make judgments in fields outside their own. I catch myself doing it, too; I think it’s an unintentional side-effect of our training. Or maybe we just secretly think we’re much smarter than everyone else.
 
   
 I would grant that mathematicians in particular do have *some* ground to be a bit imperialistic, their field of study suffuses the reality we see around us and undergirds our most precise and predictive sciences. I would also grant that mathematicians are, on average, perhaps the brightest individuals on this planet when it comes to pure rationality. **But being smart does not mean you are necessarily wise**. Wisdom is a hard thing to nail down, and I’m not old enough to speak much about it from personal experience, but I know it when I see it. Without wisdom smart people can do and say very stupid things, only faster and more efficiently than the less intelligent. Wisdom is like being able to see the dire consequences of computationally intensive loops strewn within [sphagetti code](https://en.wikipedia.org/wiki/Spaghetti_code), a faster CPU does not necessarily mean that the problem can be avoided. You are shit out of luck if you lack a higher level *gestalt* perception of the potential pitfalls of not thinking beyond your specific line of code, subroutine or object.¹  
@@ -23,7 +23,8 @@ A toolkit is rendered moot without intent and ends suitable to its utilization. 
 
 ### Related Posts:
 
-- [Family Connections - part
+- [Family Connections
+- part
   n](https://www.gnxp.com/WordPress/2006/07/22/family-connections-part-n/) - [My Darwin, right or
   wrong?](https://www.gnxp.com/WordPress/2009/06/07/my-darwin-right-or-wrong/) - [Post-Darwinian
   evolution?](https://www.gnxp.com/WordPress/2009/02/10/post-darwinian-evolution/) - [Darwin, still

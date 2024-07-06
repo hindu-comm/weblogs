@@ -11,8 +11,8 @@ Ashkenazi women to pay more for BRCA tests
 
 This news article on [New Scientist](http://www.newscientist.com/channel/opinion/mg18725073.300) references a patent awarded on July 1 for a specific mutation of the BRCA breast cancer gene that mostly affects Ashkenazi Jews. Note the strange legal twist where supplimentary royalty fees are only due for testing if you fess up to knowing your Ashenazi ancestry…
 
-> Myriad Genetics of Salt Lake City won a European patent on 1 July > covering a specific mutation in the BRCA2 gene, which increases the > risk of breast cancer. The mutation is found in 1 in 100 women of > Ashkenazi Jewish descent. The ruling means that doctors offering tests > for BRCA2 mutations are now legally obliged to ask women if they are > Ashkenazi Jews. If they say they are, doctors must pay a licence fee > to Myriad. No fee is due if a patient says she does not know. >
-> “We believe there is something fundamentally wrong if one ethnic group > can be singled out by patenting,” says Gert Matthijs of the Catholic > University of Leuven (KUL) in Belgium, a member of the European > Society of Human Genetics. “It means that someone is exploring the > limits of what is acceptable legally and ethically.”
+> Myriad Genetics of Salt Lake City won a European patent on 1 July > covering a specific mutation in the BRCA2 gene, which increases the > risk of breast cancer. The mutation is found in 1 in 100 women of > Ashkenazi Jewish descent. The ruling means that doctors offering tests for BRCA2 mutations are now legally obliged to ask women if they are Ashkenazi Jews. If they say they are, doctors must pay a licence fee to Myriad. No fee is due if a patient says she does not know. >
+> “We believe there is something fundamentally wrong if one ethnic group > can be singled out by patenting,” says Gert Matthijs of the Catholic University of Leuven (KUL) in Belgium, a member of the European Society of Human Genetics. “It means that someone is exploring the limits of what is acceptable legally and ethically.”
 
 ### Related Posts:
 

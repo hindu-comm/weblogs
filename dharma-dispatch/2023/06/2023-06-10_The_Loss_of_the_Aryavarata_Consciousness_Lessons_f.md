@@ -77,7 +77,7 @@ were rooted in the Vedas, revealed by the Devatas themselves.*
 
 Even worse, these Hindu kingdoms naively, literally, and *foolishly* took for granted, for example, Medhatithi’s dictum that
 
-> *Aryavarta was so called because the Aryas sprang up in it again and > again. Even if it was overrun by the mlechchhas, they could never > abide there for long.*
+> *Aryavarta was so called because the Aryas sprang up in it again and again. Even if it was overrun by the mlechchhas, they could never abide there for long.*
 
 Apart from Medhatithi, there was also the widespread belief among Hindu rulers (and the general populace) that ‘whenever a crisis arose, a *chakravartin*, a world-emperor, would rise in the land and re-establish Dharma.’ In the 10^(th) Century, this belief was a precursor to the pervasive fatalism that afflicted the Hindu psyche across large parts of an India under a five-century Muslim domination.
 

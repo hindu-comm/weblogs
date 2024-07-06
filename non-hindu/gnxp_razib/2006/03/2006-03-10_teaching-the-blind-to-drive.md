@@ -11,18 +11,18 @@ Teaching the Blind to Drive
 
 When some school administrators say that all students have the same potential, they evidently really do believe this to be true. How else to explain this report from the [Chicago Tribune:](http://www.chicagotribune.com/news/local/chi-0603100180mar10,1,7954861.story?coll=chi-news-hed&ctrack=1&cset=true)
 
-> Mayra Ramirez scored an A in driver’s education this year, but sitting > through the 10-week class felt like a bad joke to the Curie > Metropolitan High School sophomore. >
-> Ramirez is blind. She knows she’s never going to drive. She can think > of a lot of things she’d rather be studying than rules of the road, > but she didn’t have a choice. >
-> Chicago Public Schools requires all sophomores to take the class and > pass a written road-rules exam–a graduation requirement that affects > about 30 blind and visually impaired students in specialized programs > at Curie and Payton College Preparatory High. >
+> Mayra Ramirez scored an A in driver’s education this year, but sitting through the 10-week class felt like a bad joke to the Curie Metropolitan High School sophomore. >
+> Ramirez is blind. She knows she’s never going to drive. She can think of a lot of things she’d rather be studying than rules of the road, but she didn’t have a choice. >
+> Chicago Public Schools requires all sophomores to take the class and pass a written road-rules exam–a graduation requirement that affects about 30 blind and visually impaired students in specialized programs at Curie and Payton College Preparatory High. >
 > \[ . . . . \] >
-> District officials said Thursday **that they would be willing to > consider a change in the policy** and give students the opportunity to > earn credits in another course. >
-> By law, any parent can ask for a change in a disabled student’s > individualized education plan, or IEP, which could exempt a student > from driver’s education as a graduation requirement. **But this option > is rarely, if ever, outlined to blind students in Chicago, who are > told that they have to take the class if they want to graduate,** > students and teachers said. >
-> **“I can’t explain why up to this point no one has raised the issue** > and suggested a better way for visually impaired students to opt out > of driver’s ed,” said school system spokesman Michael Vaughn. **“They > have to make a really strong case for modifying their IEP** because we > want the students to take a full course load. But \[blindness\] … is a > compelling reason.” >
+> District officials said Thursday **that they would be willing to consider a change in the policy** and give students the opportunity to earn credits in another course. >
+> By law, any parent can ask for a change in a disabled student’s > individualized education plan, or IEP, which could exempt a student > from driver’s education as a graduation requirement. **But this option is rarely, if ever, outlined to blind students in Chicago, who are told that they have to take the class if they want to graduate,** students and teachers said. >
+> **“I can’t explain why up to this point no one has raised the issue** > and suggested a better way for visually impaired students to opt out > of driver’s ed,” said school system spokesman Michael Vaughn. **“They have to make a really strong case for modifying their IEP** because we want the students to take a full course load. But \[blindness\] … is a compelling reason.” >
 > \[ . . . . \] >
-> “Why should we have to memorize how a street sign looks when we are > never going to see them while driving?” Booker wrote in a letter to > Ald. Howard Brookins Jr. (21st). >
+> “Why should we have to memorize how a street sign looks when we are never going to see them while driving?” Booker wrote in a letter to Ald. Howard Brookins Jr. (21st). >
 > \[ . . . . \] >
 > One teacher argued that the lessons aren’t a waste of time. >
-> “I don’t think you can ever get enough traffic safety … and we do a > lot on how to make good decisions,” said Brent Johnston, a Hinsdale > South High School teacher and a chairman of the Illinois High > School/College Driver’s Education Association. “Still, this shouldn’t > be the school’s decision; it should be mom and dad’s decision. A > little common sense would go a long way.”
+> “I don’t think you can ever get enough traffic safety … and we do a > lot on how to make good decisions,” said Brent Johnston, a Hinsdale > South High School teacher and a chairman of the Illinois High School/College Driver’s Education Association. “Still, this shouldn’t be the school’s decision; it should be mom and dad’s decision. A little common sense would go a long way.”
 
 Notice the ass-covering going on here. For years, blind students have had to enroll in this class and this isn’t news to the school officials, yet they’re saying that they’d be willing to modify the requirements if only some parent would step forward and battle the school bureaucracy and “make a good case” for exempting blind students from learning how to drive. Why even the teacher thinks it’s a great idea to teach blind students how to read road signs translated into braille.
 

@@ -11,8 +11,8 @@ Google books developments
 
 [Google’s Plan for Out-of-Print Books Is Challenged](http://www.nytimes.com/2009/04/04/technology/internet/04books.html?ref=global-home&pagewanted=print):
 
-> The settlement, which covers all books protected by copyright in the > United States, allows Google to vastly expand what it can do with > digital copies of books, whether they are orphans or not. >
-> Google will be allowed to show readers in the United States as much as > 20 percent of most copyrighted books, and will sell access to the > entire collection to universities and other institutions. Public > libraries will get free access to the full texts for their patrons at > one computer, and individuals will be able to buy online access to > particular books.
+> The settlement, which covers all books protected by copyright in the United States, allows Google to vastly expand what it can do with digital copies of books, whether they are orphans or not. >
+> Google will be allowed to show readers in the United States as much as > 20 percent of most copyrighted books, and will sell access to the > entire collection to universities and other institutions. Public libraries will get free access to the full texts for their patrons at one computer, and individuals will be able to buy online access to particular books.
 
 I know some people complain that we don’t live in the world of [The Jetsons](https://en.wikipedia.org/wiki/The_Jetsons), but I’m sure many readers remember the convenience of owning a set of encyclopedias.
 

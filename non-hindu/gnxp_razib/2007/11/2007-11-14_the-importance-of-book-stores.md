@@ -13,7 +13,8 @@ With [AbeBooks](http://www.abebooks.com/) and access to massive university libra
 
 ### Related Posts:
 
-- [Libraries](https://www.gnxp.com/WordPress/2005/01/14/libraries/) - [Two Books by John Emerson
+- [Libraries](https://www.gnxp.com/WordPress/2005/01/14/libraries/)
+- [Two Books by John Emerson
   Published](https://www.gnxp.com/WordPress/2007/07/17/two-books-by-john-emerson-published/) - [Darwin's Origin: the Variorum
   Edition](https://www.gnxp.com/WordPress/2007/03/29/darwin-s-origin-the-variorum-edition/) - [The Starbucks
   effect?](https://www.gnxp.com/WordPress/2007/06/16/the-starbucks-effect/) - [A positive rate of rate of

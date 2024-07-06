@@ -11,7 +11,7 @@ Tocharians within the last 6,000 years?
 
 From [Different Matrilineal Contributions to Genetic Structure of Ethnic Groups in the Silk Road Region in China](http://mbe.oxfordjournals.org/cgi/content/full/21/12/2265):
 
-> Although our samples were from the same geographic location, a > decreasing tendency of the western Eurasian-specific haplogroup > frequency was observed, with the highest frequency present in **Uygur > (42.6%)** and Uzbek (41.4%) samples, followed by Kazak (30.2%), > Mongolian (14.3%), and Hui (6.7%).
+> Although our samples were from the same geographic location, a > decreasing tendency of the western Eurasian-specific haplogroup frequency was observed, with the highest frequency present in **Uygur (42.6%)** and Uzbek (41.4%) samples, followed by Kazak (30.2%), Mongolian (14.3%), and Hui (6.7%).
 
 The paper supports the idea that Uyghurs are an admixed population from Western and Eastern sources. But is this just an ancient cline of allele frequencies? In other words, are Uyghur lineage frequencies simply a function of their geographical position between East and West?
 

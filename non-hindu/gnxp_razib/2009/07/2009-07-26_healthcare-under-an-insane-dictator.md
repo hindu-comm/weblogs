@@ -11,7 +11,7 @@ Healthcare under an insane dictator
 
 Turkmenistan had a bizarre dictator as its ruler until 2006, [Saparmurat Niyazov](https://en.wikipedia.org/wiki/Saparmurat_Niyazov). Here’s a sample of his [healthcare initiatives](http://www.foreignpolicy.com/articles/2009/07/22/the_list_the_world_s_worst_healthcare_reforms?page=0,2):
 
-> So, in a frankly insane healthcare reform effort, he restricted the > public’s access to care by replacing up to 15,000 doctors and nurses > with unqualified military conscripts. The next year, he ordered > hospitals and clinics outside of the capital, Ashgabat, to close — > even though the vast proportion of Turkmenistan’s population lives in > rural areas. The BBC quoted him as saying, “Why do we need such > hospitals? If people are ill, they can come to Ashgabat.” He also > implemented fees and created an “unofficial” ban on the diagnosis of > certain communicable diseases, like hepatitis.
+> So, in a frankly insane healthcare reform effort, he restricted the > public’s access to care by replacing up to 15,000 doctors and nurses > with unqualified military conscripts. The next year, he ordered > hospitals and clinics outside of the capital, Ashgabat, to close — > even though the vast proportion of Turkmenistan’s population lives in > rural areas. The BBC quoted him as saying, “Why do we need such hospitals? If people are ill, they can come to Ashgabat.” He also implemented fees and created an “unofficial” ban on the diagnosis of certain communicable diseases, like hepatitis.
 
 ### Related Posts:
 

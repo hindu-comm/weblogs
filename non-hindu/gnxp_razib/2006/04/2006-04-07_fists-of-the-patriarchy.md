@@ -21,7 +21,7 @@ In other words, size matters, but it isn’t the end of the story. When you read
 
 What does this have to do with [No Two Alike](https://www.amazon.com/exec/obidos/ASIN/0393059480/geneexpressio-20/102-9239820-5488135) you ask? From page 214:
 
-> During middle childhood-what Freud called the “latency period”-girls > and boys spontaneously separate into single-sex groups. As > developmentalists have observed, boys’ groups tend to be larger (girls > often split up into pairs or trios) and more hierarchical, or at least > more overtly hierarchical. Boys appear to be more concerned about > competition and status and their play is rougher….
+> During middle childhood-what Freud called the “latency period”-girls > and boys spontaneously separate into single-sex groups. As > developmentalists have observed, boys’ groups tend to be larger (girls often split up into pairs or trios) and more hierarchical, or at least more overtly hierarchical. Boys appear to be more concerned about competition and status and their play is rougher….
 
 \[the reference is Maccoby 1995 for those curious\]
 

@@ -11,7 +11,7 @@ Teenagers: innocent, or evil?
 
 [Be Good Now, Or Else](http://sciencenow.sciencemag.org/cgi/content/full/2007/1003/3?rss=1):
 
-> Neuroscientists have taken a step closer to a physiological > explanation of why some people work and play well with others. **Two > areas in the brain appear to have key roles in how people conform with > social norms.** These parts of the brain mature slowly, which may help > explain why adolescents are less easily cowed by the threat of > punishment than are adults.
+> Neuroscientists have taken a step closer to a physiological > explanation of why some people work and play well with others. **Two > areas in the brain appear to have key roles in how people conform with social norms.** These parts of the brain mature slowly, which may help explain why adolescents are less easily cowed by the threat of punishment than are adults.
 
 [Chris](http://scienceblogs.com/mixingmemory/) likes to joke that cognitive neuroscience basically tells us that “stuff happens in the brain.” There’s some truth in that, but I still think that methods like fMRI are going to be an important piece of the bigger jigsaw puzzle that is human nature. For example, variation in fMRI combined with [behavior genetic](https://www.gnxp.com/blog/2007/10/heritability-of-ultimatum-game.php) expectation that said variation should have a biological (genetic) underpinning seems a lot more compelling than either datum alone.
 

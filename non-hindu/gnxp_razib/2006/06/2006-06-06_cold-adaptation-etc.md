@@ -11,8 +11,8 @@ Cold adaptation, etc.
 
 A few weeks ago I mentioned differences in response to cold as a function of population. Well, I found this article, [Pleistocene migration routes into the Americas: Human biological adaptations and environmental constraints,](http://www3.interscience.wiley.com/cgi-bin/abstract/109580707/ABSTRACT) which hits most of the major points. First, there are non-heritable development aspects to cold tolerance. Individuals can acclimatize in a few weeks to different temperatures, more or less. There also seems to be a developmental window of acclimatization, so that families who live in Peru in Cuzco vs. Lima and only recently separated show varied rates and magnitudes of cold tolerance as adults, implying that a development window had closed (e.g., uncle & aunt move to Lima and have children there, those children are less cold tolerant than their cousins in Cuzco). Finally, there is the heritable element, where northern peoples to be more cold tolerant than southern peoples. In any case, snips of interest:
 
-> …No groups of soldiers were totally predisposed to or protected from > frostbite, but significant statistical differences indicated the > existence of immediate, developmental and hereditary apadations. The > soldiers who were least subject to frostbite had European ancestry, > had spent their childhood in the north, and had previously served in > Alaska. >
-> …modern northern samples of Alaskan native, Aleutian, and Saami > populations, whose limb proportions approach those of Neandertals.
+> …No groups of soldiers were totally predisposed to or protected from > frostbite, but significant statistical differences indicated the > existence of immediate, developmental and hereditary apadations. The > soldiers who were least subject to frostbite had European ancestry, had spent their childhood in the north, and had previously served in Alaska. >
+> …modern northern samples of Alaskan native, Aleutian, and Saami populations, whose limb proportions approach those of Neandertals.
 
 ### Related Posts:
 

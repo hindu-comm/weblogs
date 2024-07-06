@@ -11,8 +11,8 @@ Drinking in Europe
 
 Nothing too surprising in this [story](http://news.bbc.co.uk/2/hi/uk_news/7093143.stm) about attitudes toward alcohol in Europe. From Finland:
 
-> Since the government cut tax on alcohol by one third in March 2004, > deaths and diseases from alcohol have all jumped by similar amounts in > hard-drinking Finland. >
-> The cut was made due to cheap alcohol imports from neighbouring > Estonia.
+> Since the government cut tax on alcohol by one third in March 2004, deaths and diseases from alcohol have all jumped by similar amounts in hard-drinking Finland. >
+> The cut was made due to cheap alcohol imports from neighbouring Estonia.
 
 People respond to tax incentives!
 

@@ -29,11 +29,12 @@ That was always my goal. Whether I succeeded or not is a different matter, thoug
 
 I am the father of two young sons. Men who will grow up in this century, nurtured by its cultures, tempered by its traumas. I worry about them. And yet sometimes I think of someone like Poitier, who experienced a level of racism simply due to his physical appearance that we couldn’t even imagine, and yet who became something of a role model and figure of admiration, even to brown children of immigrants new to this country.
 
-> Let your bearing be reverent when you are at leisure, be respectfully > attentive in managing affairs, and be loyal towards others. Though you > be among barbarians, these may never be cast aside.
+> Let your bearing be reverent when you are at leisure, be respectfully attentive in managing affairs, and be loyal towards others. Though you be among barbarians, these may never be cast aside.
 
 ### Related Posts:
 
-- [Friday Fluff - June 24th,
+- [Friday Fluff
+- June 24th,
   2011](https://www.gnxp.com/WordPress/2011/06/24/friday-fluff-june-24th-2011/) - [Pagan &
   Christian](https://www.gnxp.com/WordPress/2006/04/20/pagan-christian/) - [Won't hold Natalie Portman's
   hand???](https://www.gnxp.com/WordPress/2008/03/17/wont-hold-natalie-portmans-hand/) - [Open Thread -

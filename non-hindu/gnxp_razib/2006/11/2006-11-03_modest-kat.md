@@ -16,7 +16,9 @@ Modest Kat
 
 ### Related Posts:
 
-- [Katz update](https://www.gnxp.com/WordPress/2008/03/28/katz-update/) - [Katz](https://www.gnxp.com/WordPress/2010/03/19/katz-101/) - [What the kat brought
+- [Katz update](https://www.gnxp.com/WordPress/2008/03/28/katz-update/)
+- [Katz](https://www.gnxp.com/WordPress/2010/03/19/katz-101/)
+- [What the kat brought
   in....](https://www.gnxp.com/WordPress/2007/04/08/what-the-kat-brought-in/) - [Veiling,
   again](https://www.gnxp.com/WordPress/2006/11/02/veiling-again/) - [A fell wind
   stirs....](https://www.gnxp.com/WordPress/2006/03/25/a-fell-wind-stirs/) - [Tired Kat](https://www.gnxp.com/WordPress/2006/10/17/tired-kat/)

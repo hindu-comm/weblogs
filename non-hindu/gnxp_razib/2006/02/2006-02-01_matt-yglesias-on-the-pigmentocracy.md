@@ -15,7 +15,7 @@ He proceeds to build a case and states: “If it’s wrong for the dark-skinned 
 
 His conclusion:
 
-> My point is a more far-reaching one. Some people are smarter than > others. Some people are less smart. The less smart don’t just deserve > a “fair chance” to succeed, a chance they’re bound to squander due to > lesser ability. Instead, insofar as they’re willing to work hard, > contribute to society as best they can, and abide by the rules of the > game, they deserve a fair share of society’s wealth — the highest > standard of living we can manage to arrange for them.
+> My point is a more far-reaching one. Some people are smarter than > others. Some people are less smart. The less smart don’t just deserve > a “fair chance” to succeed, a chance they’re bound to squander due to > lesser ability. Instead, insofar as they’re willing to work hard, contribute to society as best they can, and abide by the rules of the game, they deserve a fair share of society’s wealth — the highest standard of living we can manage to arrange for them.
 
 This whole argument goes off the rails by ignoring an elementary difference between the two examples he’s using as counterpoints. In a meritocracy, your intelligence, skill, talent, work ethic or other attributes that lead to success are judged to be of worth to others in the marketplace and what you create with your talents benefit others so that they are willing to reward you for your efforts.
 
@@ -30,12 +30,13 @@ Simply put, your talent will enrich my life, but your pigmentation won’t, so I
 
 [Bell Curve for Doctors.](https://www.gnxp.com/MT2/archives/003384.html) Here is a medical system run on pigmentocracy:
 
-> From the beginning, King/Drew was to be something special â€” a > hospital that reflected African American achievement and power, a > model for urban hospitals nationwide. >
-> But within three years, it had become clear that, for all the > aspirations the hospital represented, it was falling far short. At > times, instead of healing its patients â€” almost all of them black > and Latino â€” it was killing and maiming them….
+> From the beginning, King/Drew was to be something special â€” a hospital that reflected African American achievement and power, a model for urban hospitals nationwide. >
+> But within three years, it had become clear that, for all the aspirations the hospital represented, it was falling far short. At times, instead of healing its patients â€” almost all of them black and Latino â€” it was killing and maiming them….
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [A New Yorker in
   Finland](https://www.gnxp.com/WordPress/2008/12/09/a-new-yorker-in-finland/) - [Matt Yglesias just can't shut
   up](https://www.gnxp.com/WordPress/2013/03/06/matt-yglesias-just-cant-shut-up/) - [Really Evil

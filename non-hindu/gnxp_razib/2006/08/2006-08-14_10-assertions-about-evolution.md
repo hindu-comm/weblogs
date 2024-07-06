@@ -51,7 +51,11 @@ keep going….
 keep going….  
 **Here they are**:
 
-1.  The difference between micro & macroevolution is semantic 2.  Adaptive evolution is attributable to selection 3.  Neutral evolution via drift occurs mostly on molecular level 4.  Selection occurs mostly on the level of the individual 5.  The rate of evolution is sensitive to precise parameters 6.  Size of population does not alter selection strength 7.  Size of population modulates drift strength 8.  Size of population does not alter neutral substitution rate 9.  “Species” is an imprecise category 10. Humans are still evolving
+1.  The difference between micro & macroevolution is semantic 2.  Adaptive evolution is attributable to selection 3.  Neutral evolution via drift occurs mostly on molecular level 4.  Selection occurs mostly on the level of the individual 5.  The rate of evolution is sensitive to precise parameters 6.  Size of population does not alter selection strength
+7.  Size of population modulates drift strength
+8.  Size of population does not alter neutral substitution rate
+9.  “Species” is an imprecise category
+10. Humans are still evolving
 
 ### Related Posts:
 

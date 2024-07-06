@@ -11,7 +11,7 @@ The great rollback
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/discoverthenews.jpeg?resize=178%2C284)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/discoverthenews.jpeg?resize=178%2C284)](https://www.amazon.com/exec/obidos/ASIN/B001F0RL6K/geneexpressio-20)Derek Thompson in *The Atlantic* has a piece up, [How to Survive the Media Apocalypse](https://www.theatlantic.com/business/archive/2017/11/media-apocalypse/546935/), which gets at something I’ve come to believe:
 
-> Advertising has been critical to the affordable distribution of news > for a century and a half in the U.S. Today’s media companies don’t > have to reach all the way **back to the early 1800s** for a business > plan, to when newspapers were an elite product, selling at the > prohibitive price of six pennies per bundle. But they are going back > in time, in a way, **and excavating a dusty business model that relies > more on readers**, and less on advertisers, than the typical online > publisher….
+> Advertising has been critical to the affordable distribution of news > for a century and a half in the U.S. Today’s media companies don’t > have to reach all the way **back to the early 1800s** for a business > plan, to when newspapers were an elite product, selling at the > prohibitive price of six pennies per bundle. But they are going back in time, in a way, **and excavating a dusty business model that relies more on readers**, and less on advertisers, than the typical online publisher….
 
 There are two groups of people who as readers truly value the truth in anything but the workaday (e.g., weather, traffic reports, etc.): **nerds and those with money on the line.**
 

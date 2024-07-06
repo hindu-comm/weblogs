@@ -11,8 +11,8 @@ Jugs & Jargon
 
 A [comment on another weblog](http://snippy.livejournal.com/263651.html):
 
-> I sometimes wonder if the main reason the men at Gene Expression > \*really\* started their blog was so they could post pictures of > beautiful women of mixed genetic ancestry (because there are no such > thing as races, right?). >
-> This blog is often over my head, full of jargon I don’t know, > references I don’t get, and an academic style of writing that is > impenetrable to my non-college-educated (yet) perception. But when > they do get through to me, it’s invaribly interesting.
+> I sometimes wonder if the main reason the men at Gene Expression \*really\* started their blog was so they could post pictures of beautiful women of mixed genetic ancestry (because there are no such thing as races, right?). >
+> This blog is often over my head, full of jargon I don’t know, references I don’t get, and an academic style of writing that is impenetrable to my non-college-educated (yet) perception. But when they do get through to me, it’s invaribly interesting.
 
 On the first point, well, not really. On the second point, what jargon is confusing??? I’ll be away from the computer this weekend, but I’m curious as to what comments about confusing jargon are offered in the discussion thread….
 

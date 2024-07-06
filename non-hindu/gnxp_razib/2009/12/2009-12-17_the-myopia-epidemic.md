@@ -12,9 +12,9 @@ The myopia epidemic!
 [Increased Prevalence of Myopia in the United States Between 1971-1972 and 1999-2004](http://archopht.ama-assn.org/cgi/content/short/127/12/1632):
 
 > **Results**  
-> Using the 1971-1972 method, the estimated prevalence of myopia in > persons aged 12 to 54 years was significantly higher in 1999-2004 than > in 1971-1972 (41.6% vs 25.0%, respectively; P \< .001). Prevalence > estimates were higher in 1999-2004 than in 1971-1972 for black > individuals (33.5% vs 13.0%, respectively; P \< .001) and white > individuals (43.0% vs 26.3%, respectively; P -2.0 diopters \[D\]: > 17.5% vs 13.4%, respectively \[P -7.9 D: 22.4% vs 11.4%, respectively > \[P \< .001\]; -7.9 D: 1.6% vs 0.2%, respectively \[P \< .001\]).  
+> Using the 1971-1972 method, the estimated prevalence of myopia in > persons aged 12 to 54 years was significantly higher in 1999-2004 than > in 1971-1972 (41.6% vs 25.0%, respectively; P \< .001). Prevalence > estimates were higher in 1999-2004 than in 1971-1972 for black > individuals (33.5% vs 13.0%, respectively; P \< .001) and white individuals (43.0% vs 26.3%, respectively; P -2.0 diopters \[D\]: 17.5% vs 13.4%, respectively \[P -7.9 D: 22.4% vs 11.4%, respectively \[P \< .001\]; -7.9 D: 1.6% vs 0.2%, respectively \[P \< .001\]).  
 > **Conclusions**  
-> When using similar methods for each period, the prevalence of myopia > in the United States appears to be substantially higher in 1999-2004 > than 30 years earlier. Identifying modifiable risk factors for myopia > could lead to the development of cost-effective interventional > strategies.
+> When using similar methods for each period, the prevalence of myopia > in the United States appears to be substantially higher in 1999-2004 than 30 years earlier. Identifying modifiable risk factors for myopia could lead to the development of cost-effective interventional strategies.
 
 Here are some tables:
 

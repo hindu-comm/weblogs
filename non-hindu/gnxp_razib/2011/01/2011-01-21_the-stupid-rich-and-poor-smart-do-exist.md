@@ -21,8 +21,8 @@ Of those with low income, about 1 out of 5 are smart. And of those who are smart
 
 In any case, I began to think of this after a recent post by the quant-blogger [Audacious Epigone](https://anepigone.blogspot.com/2011/01/average-iq-by-occupation-estimated-from.html), [Average IQ by occupation (estimated from median income)](https://anepigone.blogspot.com/2011/01/average-iq-by-occupation-estimated-from.html). This is what he did:
 
-> …It’s not supposed to be an exact measure of IQ by profession by any > means, as it is based entirely on average annual income figures. In > other words, it’s an income table with the values converted to IQ > scores…. >
-> …the following table estimates average IQ scores by occupation solely > on the basis of the Career Cast mid-level income figures. The median > salary (of a paralegal assistant) is taken to correspond to an IQ of > 100. One standard deviation is assumed to be 15 IQ points….
+> …It’s not supposed to be an exact measure of IQ by profession by any means, as it is based entirely on average annual income figures. In other words, it’s an income table with the values converted to IQ scores…. >
+> …the following table estimates average IQ scores by occupation solely on the basis of the Career Cast mid-level income figures. The median salary (of a paralegal assistant) is taken to correspond to an IQ of 100. One standard deviation is assumed to be 15 IQ points….
 
 You can see the full list at the [Audacious Epigone](https://anepigone.blogspot.com/2011/01/average-iq-by-occupation-estimated-from.html)‘s place, but here’s a selection I found of interest:
 

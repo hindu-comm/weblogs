@@ -11,13 +11,13 @@ Achievement Beyond IQ: A Genetic Story
 
 It’s nice to see a bad idea demolished. And that’s what Greven, et al. do in “[More than just IQ](http://www3.interscience.wiley.com/journal/122386058/abstract).” Their subtitle tells most of the story:
 
-> School achievement is predicted by self-perceived abilities (SPAs)–but > for genetic rather than environmental reasons.
+> School achievement is predicted by self-perceived abilities (SPAs)–but for genetic rather than environmental reasons.
 
 So asking kids “Are you good at math and English?” is indeed a good way to find out who is good at math and English; and basic twin-study methods show that the answers to those questions are in fact genetically-driven, with heritability of 51% and family environment explaining 2%.
 
 Another family environment channel shot down. The authors drive that fact home:
 
-> Despite the fact that **not a single twin or adoption study** has > investigated the genetic and environmental etiologies of SPAs, > researchers have cited environmental factors as a leading causal > explanation for constructs related to SPAs, such as self-efficacy…and > self-concept….. Moreover, one of the most established theories of SPAs > assumes that the development of individual differences in SPAs is > shaped primarily by parents’ beliefs, expectations, attitudes, and > behaviors…
+> Despite the fact that **not a single twin or adoption study** has > investigated the genetic and environmental etiologies of SPAs, > researchers have cited environmental factors as a leading causal > explanation for constructs related to SPAs, such as self-efficacy…and > self-concept….. Moreover, one of the most established theories of SPAs assumes that the development of individual differences in SPAs is shaped primarily by parents’ beliefs, expectations, attitudes, and behaviors…
 
 Of course, the bulk of the academic literature will surely go right on assuming that self-construct is driven by shared environment: “Surely, you don’t mean to imply that an entire field of research was a waste of time, do you?” And in the policy and non-profit worlds these results won’t stop those “[Book in Every Home](https://www.google.com/search?hl=en&site=book%2Bin%2Bevery%2Bhome%2522%2Bcampaign%26aq%3Df%26oq%3D%26aqi%3D&q=%22book+in+every+home%22+campaign)” campaigns. Alas….
 

@@ -10,7 +10,7 @@ Source: [here](https://www.gnxp.com/WordPress/2017/11/16/pca-remains-the-swiss-a
 PCA remains the swiss-army-knife to explore population structure
 
 > genotype-based methods? >
-> — Razib Khan (@razibkhan) [November 15, > 2017](https://twitter.com/razibkhan/status/930828965916311553?ref_src=twsrc%5Etfw)
+> — Razib Khan (@razibkhan) [November 15, 2017](https://twitter.com/razibkhan/status/930828965916311553?ref_src=twsrc%5Etfw)
 
   
 I put up a poll without context yesterday to gauge people about what methods they preferred when it came to population genetic structure.\* **PCA came out on top by a plural majority.** More explicitly model-based methods, such as Structure/Admixture, come in right behind them. Curiously, the oldest method, pairwise Fst comparisons (greater Fst means more variance partitioned between the groups), and Treemix, the newest method, have lower proportions of adherence.

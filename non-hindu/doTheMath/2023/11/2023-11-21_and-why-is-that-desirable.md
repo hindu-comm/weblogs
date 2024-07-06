@@ -123,7 +123,8 @@ As an afterthought, it might be instructive to tackle this exercise from an Indi
 
 But a whole different kind of statement could unleash deep passions. For example, let’s try the statement: “The honorable harvest takes only what we need, removes no more than half of what’s there, and does not disturb the first one found.” Why is that desirable? This time, the modern response might be “it’s not,” while the Indigenous person might say:
 
-- It leaves some for the critters; it keeps the resource healthy. - Because the critters are our kin, and need to thrive; this helps
+- It leaves some for the critters; it keeps the resource healthy.
+- Because the critters are our kin, and need to thrive; this helps
   everyone into the future. - This world is a gift to all of us, and ceases to work if all are not
   able to thrive. - Life, in all its diversity, is amazing, and holds the ultimate value.
 

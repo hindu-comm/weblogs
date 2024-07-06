@@ -17,9 +17,9 @@ One of the reasons I [post](http://blogs.discovermagazine.com/gnxp/2011/10/mixed
 Here’s the jump off point of the piece:
 
 > “How come she’s so white and you’re so dark?” >
-> The question tore through Heather Greenwood as she was about to check > out at a store here one afternoon this summer. Her brown hands were > pushing the shopping cart that held her babbling toddler, Noelle, all > platinum curls, fair skin and ice-blue eyes. >
-> The woman behind Mrs. Greenwood, who was white, asked once she > realized, by the way they were talking, that they were mother and > child. **“It’s just not possible,”** she charged indignantly. “You’re > so…dark!” >
-> It was not the first time someone had demanded an explanation from > Mrs. Greenwood about her biological daughter, but it was among the > more aggressive….
+> The question tore through Heather Greenwood as she was about to check out at a store here one afternoon this summer. Her brown hands were pushing the shopping cart that held her babbling toddler, Noelle, all platinum curls, fair skin and ice-blue eyes. >
+> The woman behind Mrs. Greenwood, who was white, asked once she realized, by the way they were talking, that they were mother and child. **“It’s just not possible,”** she charged indignantly. “You’re so…dark!” >
+> It was not the first time someone had demanded an explanation from Mrs. Greenwood about her biological daughter, but it was among the more aggressive….
 
 Of course it’s possible. The science behind this is trivially plain. The biological mother has alleles which code phenotypes distinctive of Europeans and Africans. Because her father is African American she is even likely to have more European ancestry than African ancestry (median African American is \~80% African and \~20% European). Genes which control variation in skin pigmentation at the scale of racial differences are distributed across half a dozen loci, but with blue vs. brown eye color there’s really only one locus which explains most (though not all) of the variation. That probably explains how both the daughters have blue eyes. The mother is probably a heteozygote, and the father is a homozygote. That means that any one of their children has a \~50% chance of having blue eyes and a \~50% chance of having brown eyes. So the chance of both daughters turning out to have blue eyes is \~25%. But obviously the science isn’t the meat of the piece. I just wish they’d given a quick explicit nod to it so that people would know why the outcome is as it is. It’s not rocket science.
 

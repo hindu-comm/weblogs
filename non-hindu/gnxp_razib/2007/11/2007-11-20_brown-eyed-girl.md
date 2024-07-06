@@ -11,7 +11,7 @@ Brown eyed girl?
 
 Peter Frost [states](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/4384952691905502325/?src=hsr#1971281):
 
-> I suspect there is some incipient sex-linkage, i.e., European women > may be somewhat likelier to have non-brown eyes and non-black hair. If > this sex-linkage is mediated by prenatal estrogenization there may > also be some impact on personality and temperament. But I really > donâ€™t know, and unfortunately there are still more questions than > answers.
+> I suspect there is some incipient sex-linkage, i.e., European women > may be somewhat likelier to have non-brown eyes and non-black hair. If > this sex-linkage is mediated by prenatal estrogenization there may also be some impact on personality and temperament. But I really donâ€™t know, and unfortunately there are still more questions than answers.
 
 [](https://www.gnxp.com/blog/uploaded_images/criki-723836.jpg)I’ve read Peter’s book, [Fair Women, Dark men](https://www.amazon.com/exec/obidos/ASIN/1877275727/geneexpressio-20), and it is a great collection of data. Also, he has theorized that European color variation is a [byproduct of selection selection](http://pages.globetrotter.net/peter_frost61z/European-hair-and-eye-color.htm). So I have been primed to look for a trend where women seem to express blondism or light eye color at higher frequencies. But I just haven’t found anything like that. In fact, [I’ve found data](http://scienceblogs.com/gnxp/2007/07/how_swarth_are_the_sami.php) which goes in the other direction, that is, females have a higher frequency of brown eyes! But this really clinched it for me:
 

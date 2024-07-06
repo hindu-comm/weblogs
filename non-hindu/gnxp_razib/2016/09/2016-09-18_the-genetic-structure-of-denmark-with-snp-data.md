@@ -17,7 +17,7 @@ The first author of the *Genetics* paper, [Yorgos Athanasiadis](http://www.mailu
 
 This portion jumped out at me:
 
-> The six Danish regions showed highest affinity with a cluster that we > call BRI(tish), because it’s mostly made up by British samples, > followed by the NOR(wegian) and SWE(dish) clusters. This is not to say > that Danes are about 40% made up by British DNA, as some enthusiastic > twitters have mentioned. The BRI cluster also includes German, Belgian > and Dutch samples, meaning that it might as well be reflecting some > other ethnic component; in lack of a better name, we called it BRI. > Another interesting fact is that because of the presence of this > cluster, haplotype sharing with other Scandinavians was about 40%….
+> The six Danish regions showed highest affinity with a cluster that we > call BRI(tish), because it’s mostly made up by British samples, > followed by the NOR(wegian) and SWE(dish) clusters. This is not to say > that Danes are about 40% made up by British DNA, as some enthusiastic > twitters have mentioned. The BRI cluster also includes German, Belgian > and Dutch samples, meaning that it might as well be reflecting some other ethnic component; in lack of a better name, we called it BRI. Another interesting fact is that because of the presence of this cluster, haplotype sharing with other Scandinavians was about 40%….
 
 I think the implications of this are something I’m going to have to chew on for a while. Some of these genetics results aren’t straightforward in terms of what they mean in a vacuum, though the historical inference is obvious.
 

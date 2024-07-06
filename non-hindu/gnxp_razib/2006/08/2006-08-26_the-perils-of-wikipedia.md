@@ -20,14 +20,15 @@ d) But there is a problem, **the set of all studies relating to hypothesis/asser
 e) So, two things, the citations need to be unbiased and representative of the totality of the scholarship. And second, **you need to actually know something about the field or the topic so you can use google intelligently**. Most people who I have had this issue with are offering up an unrepresentative sample without knowing because they don’t know the shape of the distribution *a priori*.  
 **Update:** From the comments:
 
-> A citation or link to Wikipedia should be in citation format — which > means its unchangeable.  
-> For instance, http://en.wikipedia.org/wiki/Rowan_Oak takes you to the > ever changing (or not) description of Faulkner’s home.  
-> Conversely, > http://en.wikipedia.org/w/index.php?title=Rowan_Oak&oldid=71987882 > takes you to a time/date frozen version which will never change.  
-> To get the citation link, click on the “cite this article” link under > the search box when viewing the main article.
+> A citation or link to Wikipedia should be in citation format — which means its unchangeable.  
+> For instance, http://en.wikipedia.org/wiki/Rowan_Oak takes you to the ever changing (or not) description of Faulkner’s home.  
+> Conversely, http://en.wikipedia.org/w/index.php?title=Rowan_Oak&oldid=71987882 takes you to a time/date frozen version which will never change.  
+> To get the citation link, click on the “cite this article” link under the search box when viewing the main article.
 
 ### Related Posts:
 
-- [Say what?](https://www.gnxp.com/WordPress/2007/04/10/say-what/) - [The other
+- [Say what?](https://www.gnxp.com/WordPress/2007/04/10/say-what/)
+- [The other
   Romana](https://www.gnxp.com/WordPress/2012/08/12/the-other-romana/) - [Lynn Margulis,
   1938-2011](https://www.gnxp.com/WordPress/2011/11/26/lynn-margulis-1938-2011/) - [Genetics of Cape
   Coloureds](https://www.gnxp.com/WordPress/2009/06/30/genetics-of-cape-coloureds/) - [Asian Nazis](https://www.gnxp.com/WordPress/2006/10/30/asian-nazis/) - [The utility and reality of

@@ -11,8 +11,8 @@ The First Human
 
 *The San Jose Mercury News* has a [review](http://www.mercurynews.com/mld/mercurynews/entertainment/books/14410720.htm) up of Ann Gibbons’ [The First Human: The Race to Discover Our Earliest Ancestors](https://www.amazon.com/exec/obidos/ASIN/0385512260/geneexpressio-20/). It concludes:
 
-> But too many pieces are still missing from the puzzle — including > fossils of the ancestors of our closest relatives, chimpanzees and > gorillas — to allow for a clear picture of the evolutionary lineage.  
-> So in the end, “The First Human” is a bit like a detective story > without a conclusion, or like a detective story that puts Sherlock > Holmes, Hercule Poirot, Sam Spade, V.I. Warshawski, Easy Rawlins and > Gil Grissom all in the same room, gives them a handful of clues, and > lets them argue endlessly about the solution. The characters in > Gibbons’ book are almost as colorful and cantankerous as those > fictional sleuths. Science writing is rarely this entertaining.
+> But too many pieces are still missing from the puzzle — including fossils of the ancestors of our closest relatives, chimpanzees and gorillas — to allow for a clear picture of the evolutionary lineage.  
+> So in the end, “The First Human” is a bit like a detective story > without a conclusion, or like a detective story that puts Sherlock > Holmes, Hercule Poirot, Sam Spade, V.I. Warshawski, Easy Rawlins and > Gil Grissom all in the same room, gives them a handful of clues, and lets them argue endlessly about the solution. The characters in Gibbons’ book are almost as colorful and cantankerous as those fictional sleuths. Science writing is rarely this entertaining.
 
 Bones will not tell the whole story. Expect a different sort of excavation, that is, inferences from the genes of humans alive today, to bring to light a lot of the tale in the next few years.
 

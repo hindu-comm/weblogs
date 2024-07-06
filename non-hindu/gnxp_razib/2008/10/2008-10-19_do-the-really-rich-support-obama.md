@@ -11,10 +11,10 @@ Do the really rich support Obama?
 
 A commenter points me to a [post](http://blogs.wsj.com/wealth/2008/10/13/the-rich-support-mccain-the-super-rich-support-obama/) by [Robert Frank](https://www.amazon.com/exec/obidos/ASIN/0307339262/geneexpressio-20), [The Rich Support McCain, the Super-Rich Support Obama](http://blogs.wsj.com/wealth/2008/10/13/the-rich-support-mccain-the-super-rich-support-obama/):
 
-> More than three quarters of those worth \$1 million to \$10 million > plan to vote for Sen. McCain. Only 15% plan to vote for Sen. Obama > (the rest are undecided). Of those worth more than \$30 million, > two-thirds support Sen. Obama, while one third support Sen. McCain.  
+> More than three quarters of those worth \$1 million to \$10 million plan to vote for Sen. McCain. Only 15% plan to vote for Sen. Obama (the rest are undecided). Of those worth more than \$30 million, two-thirds support Sen. Obama, while one third support Sen. McCain.  
 > …  
-> Among Lower Richistani’s, 88% cited tax policies as being “important” > in making their decision. Only 11% cited the environment, 22% cited > health care and 45% cited social issues.  
-> Among the Upper Richistani’s supporting Sen. Obama, tax policies > ranked last, with only 16% citing them as important. “Social issues” > ranked first, with “policies dealing with wars” ranking second (67%) > and Supreme Court nominations and health-care issues ranking next.
+> Among Lower Richistani’s, 88% cited tax policies as being “important” in making their decision. Only 11% cited the environment, 22% cited health care and 45% cited social issues.  
+> Among the Upper Richistani’s supporting Sen. Obama, tax policies ranked last, with only 16% citing them as important. “Social issues” ranked first, with “policies dealing with wars” ranking second (67%) and Supreme Court nominations and health-care issues ranking next.
 
   
 This is a survey of 493 families, so one wonders about the power of the sample size as well as representativeness. *But*, the difference between the two groups is very large. Does this pass the smell test? To some extent I think it does when it is noted that social issues is one area where the wealthy tend to be much more libertarian than the American public, on average. The same magazine which reported that most CEOs support John McCain also noted that 4 years ago executives preferred that Republicans [stay away from social issues](http://findarticles.com/p/articles/mi_qa5372/is_/ai_n21357834).  

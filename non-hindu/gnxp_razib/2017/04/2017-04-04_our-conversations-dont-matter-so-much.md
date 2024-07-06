@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2017/04/04/our-conversations-dont-
 
 Our conversations don’t matter so much
 
-> From almost nobody to over 3 billion: Internet users by world region > from 1995 to 2015 <https://t.co/IkvOD2dRM2> >
-> — Max Roser (@MaxCRoser) [April 3, > 2017](https://twitter.com/MaxCRoser/status/848963471748329473)
+> From almost nobody to over 3 billion: Internet users by world region from 1995 to 2015 <https://t.co/IkvOD2dRM2> >
+> — Max Roser (@MaxCRoser) [April 3, 2017](https://twitter.com/MaxCRoser/status/848963471748329473)
 
 One of the things about being on the internet is your local social and communication network looms really large. Controversies or concerns in your part of the pool seem to take up all your energy and attention. But it’s a big world out there. I’ve been using the internet since 1994, and one of the aspects I’ve observed is **how geographically insulated we are.** Back then I remember being excited to have an e-mail exchange with a sysadmin in Oxford or a high school student in Quito (real examples). Today my conversations are much more narrowcast. Yet the internet is so much more diverse and there are billions instead of tens of millions conversing every day.
 

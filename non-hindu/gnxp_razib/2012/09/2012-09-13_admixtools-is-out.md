@@ -15,7 +15,7 @@ If you are confused as to why this is a big deal, please [see my post](http://bl
 
 **Update:** From the comments:
 
-> For future googlers, the only thing you need to do to compile on a mac > (Mac OS X 10.6.8) is add a single line to the Makefile. Replace: >
+> For future googlers, the only thing you need to do to compile on a mac (Mac OS X 10.6.8) is add a single line to the Makefile. Replace: >
 > libnick.a: dirs tables \$(OBJ)  
 > ar -r libnick.a \$(OBJ) >
 > with >

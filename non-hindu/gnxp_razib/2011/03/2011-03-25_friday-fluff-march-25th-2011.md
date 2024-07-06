@@ -19,14 +19,15 @@ Friday Fluff – March 25th, 2011
 3\) **Comment of the week**, in response to [“Puzzling the odds of disease risk”](http://blogs.discovermagazine.com/gnxp/2011/03/puzzling-the-odds-of-disease-risk/#comment-61035):
 
 > What would be interesting (and very simple) to see is this: >
-> Take DNA of all the dead people with good medical history and see if > aggregate of all the various risks predicts time and/or cause of death > with any reliability. \$200K buys N=2,000 which is not unreasonable > for entities that have access to lots of dead peoples’ DNA.
+> Take DNA of all the dead people with good medical history and see if aggregate of all the various risks predicts time and/or cause of death with any reliability. \$200K buys N=2,000 which is not unreasonable for entities that have access to lots of dead peoples’ DNA.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/green.jpg?resize=600%2C408)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/green.jpg?resize=600%2C408)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/green.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - April 15th,
+- [Friday Fluff
+- April 15th,
   2011](https://www.gnxp.com/WordPress/2011/04/15/friday-fluff-april-14th-2011/) - [Friday Fluff - April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff - March 18th,
   2011](https://www.gnxp.com/WordPress/2011/03/18/friday-fluff-march-18th-2011/) - [Friday Fluff - March 4th,

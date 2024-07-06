@@ -11,7 +11,7 @@ The Oscillator
 
 Interesting new ScienceBlog, [Oscillator](http://scienceblogs.com/oscillator/). From the about page:
 
-> A collection of notes, thoughts, and news about synthetic biology and > biologically inspired engineering in principle and in practice.
+> A collection of notes, thoughts, and news about synthetic biology and biologically inspired engineering in principle and in practice.
 
 ### Related Posts:
 

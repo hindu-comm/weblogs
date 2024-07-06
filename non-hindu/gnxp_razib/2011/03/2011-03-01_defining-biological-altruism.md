@@ -54,7 +54,8 @@ As already noted, the net benefit to the altruist from its own actions is 1. The
 
 ### Related Posts:
 
-- [Open Thread - October 30th,
+- [Open Thread
+- October 30th,
   2010](https://www.gnxp.com/WordPress/2010/10/30/open-thread-october-30th-2010/) - [The Price of
   Altruism](https://www.gnxp.com/WordPress/2010/07/21/the-price-of-altruism/) - [Altruism in Persistent
   Groups](https://www.gnxp.com/WordPress/2011/03/24/altruism-in-persistent-groups/) - [The West

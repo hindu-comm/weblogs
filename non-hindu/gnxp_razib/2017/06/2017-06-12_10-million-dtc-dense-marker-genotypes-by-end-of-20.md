@@ -20,8 +20,8 @@ But though sequencing is the cutting edge, the final frontier and terminal techn
 
 Here’s a slide from Spencer:
 
-> This is a slide I’ve used in presentations in the past – needs to be > updated w/ current numbers, but the discussion is around the > inflection [pic.twitter.com/Vj9XNb4Exq](https://t.co/Vj9XNb4Exq) >
-> — Spencer Wells (@spwells) [June 12, > 2017](https://twitter.com/spwells/status/874356332807294976)
+> This is a slide I’ve used in presentations in the past – needs to be updated w/ current numbers, but the discussion is around the inflection [pic.twitter.com/Vj9XNb4Exq](https://t.co/Vj9XNb4Exq) >
+> — Spencer Wells (@spwells) [June 12, 2017](https://twitter.com/spwells/status/874356332807294976)
 
 I suspect genotyping will go [S-shaped](https://en.wikipedia.org/wiki/Sigmoid_function) before 2025 after explosive growth in genotyping. Some people will opt-out. A minority of the population, but a substantial proportion. At the other extreme of the preference distribution you will have those who will start getting sequenced. Researchers will begin talk about genotyping platforms like they talk about microarrays (yes, I know at places like the Broad they already talk about genotyping like that, but we can’t all be like the Broad!).
 

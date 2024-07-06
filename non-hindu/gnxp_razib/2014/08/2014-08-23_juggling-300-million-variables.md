@@ -25,7 +25,8 @@ So where does this leave us in relation to the Islamic State? Does genocide hist
 
 ### Related Posts:
 
-- [Ask a Science Blogger - June
+- [Ask a Science Blogger
+- June
   15](https://www.gnxp.com/WordPress/2006/06/15/ask-a-science-blogger-june-15/) - [A symbiotic social
   organism?](https://www.gnxp.com/WordPress/2007/10/08/a-symbiotic-social-organism/) - [Variability and
   determinism](https://www.gnxp.com/WordPress/2006/12/17/variability-and-determinism/) - [The Islamic State Is Right About Some

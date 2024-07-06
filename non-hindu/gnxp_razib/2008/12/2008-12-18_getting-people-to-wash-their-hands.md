@@ -11,11 +11,11 @@ Getting people to wash their hands?
 
 [‘Gross’ Messaging Used To Increases Handwashing, Fight Norovirus](http://www.sciencedaily.com/releases/2008/12/081215184341.htm):
 
-> In fall quarter 2007, researchers posted messages in the bathrooms of > two DU undergraduate residence halls. The messages said things like, > “Poo on you, wash your hands” or “You just peed, wash your hands,” and > contained **vivid graphics and photos.** The messages resulted in > increased handwashing among females by 26 percent and among males by 8 > percent.
+> In fall quarter 2007, researchers posted messages in the bathrooms of > two DU undergraduate residence halls. The messages said things like, > “Poo on you, wash your hands” or “You just peed, wash your hands,” and contained **vivid graphics and photos.** The messages resulted in increased handwashing among females by 26 percent and among males by 8 percent.
 
 Most human cognition is implicit, and we’re really not as amenable to rational appeals we like to think we are. Remember this [research](http://journals.royalsociety.org/content/652w0277316j5v42/fulltext.pdf)?:
 
-> We examined the effect of an image of a pair of eyes on contributions > to an honesty box used to collect money for drinks in a university > coffee room. People paid nearly three times as much for their drinks > when eyes were displayed rather than a control image. This finding > provides the first evidence from a naturalistic setting of the > importance of cues of being watched, and hence reputational concerns, > on human cooperative behaviour.
+> We examined the effect of an image of a pair of eyes on contributions > to an honesty box used to collect money for drinks in a university > coffee room. People paid nearly three times as much for their drinks > when eyes were displayed rather than a control image. This finding provides the first evidence from a naturalistic setting of the importance of cues of being watched, and hence reputational concerns, on human cooperative behaviour.
 
 ### Related Posts:
 

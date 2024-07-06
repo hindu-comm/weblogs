@@ -11,7 +11,7 @@ Steps toward radical transparency
 
 [Netherlands: Caught in World Wide Web](http://www.nytimes.com/2009/06/20/world/europe/20briefs-Netherlandsbrf.html?src=sch):
 
-> Two men who robbed a 14-year-old of cash and a cellphone in September > were arrested after the victim spotted them in a photo on Google Maps, > the Dutch police said Friday. The victim contacted investigators in > Groningen in March after he found a photograph in the mapping site’s > Street View function showing him and his assailants moments before the > robbery. “As the faces were unrecognizable, police made contact with > Google in the United States and received the original photograph by > mail in June,” a police statement said. “An investigator immediately > recognized one of the suspects.” One man confessed, the police said.
+> Two men who robbed a 14-year-old of cash and a cellphone in September > were arrested after the victim spotted them in a photo on Google Maps, > the Dutch police said Friday. The victim contacted investigators in > Groningen in March after he found a photograph in the mapping site’s > Street View function showing him and his assailants moments before the > robbery. “As the faces were unrecognizable, police made contact with Google in the United States and received the original photograph by mail in June,” a police statement said. “An investigator immediately recognized one of the suspects.” One man confessed, the police said.
 
 ### Related Posts:
 

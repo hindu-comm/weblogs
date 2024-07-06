@@ -11,10 +11,10 @@ Finns encouraging hittin' it?
 
 [Finnish Parliament debates proposal for “love vacations”](http://www.hs.fi/english/article/Finnish+Parliament+debates+proposal+for+love+vacations+/1135234799696):
 
-> A proposal by MP Tommy Tabermann (SDP) to grant all employees a paid > 7-day “love vacation” once a year led to an exceptionally colourful > debate in Parliament on Thursday evening. >
-> According to Tabermann, the purpose of such vacations would be to > prevent relations from disintegrating and the spouses from drifting > apart. >
-> During the seven days, couples could devote themselves to each other > “both at an erotic and emotional level” and “find their way back to > the path of love in order to find the wellspring of love again”. >
-> Some MPs suspected that the proposal might discriminate against single > persons, but others said that a love vacation would be the privilege > of all, even the singles and the single parents.
+> A proposal by MP Tommy Tabermann (SDP) to grant all employees a paid 7-day “love vacation” once a year led to an exceptionally colourful debate in Parliament on Thursday evening. >
+> According to Tabermann, the purpose of such vacations would be to prevent relations from disintegrating and the spouses from drifting apart. >
+> During the seven days, couples could devote themselves to each other “both at an erotic and emotional level” and “find their way back to the path of love in order to find the wellspring of love again”. >
+> Some MPs suspected that the proposal might discriminate against single persons, but others said that a love vacation would be the privilege of all, even the singles and the single parents.
 
 [Tommy Tabermann](https://youtube.com/watch?v=fNGY4GR24IY) is a poet, but I don’t think he’s working on a follow up to the [Kalevala](https://en.wikipedia.org/wiki/Kalevala).
 

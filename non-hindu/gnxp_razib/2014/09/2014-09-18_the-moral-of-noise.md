@@ -13,13 +13,14 @@ The moral of noise
 
 But it’s the last paragraph which really jumped out at me as notable:
 
-> Genetic determinism is the view that our genes make us who we are. > Popular articles abound describing genes for daredevilishness, > creativity, empathy, even being a Republican. Futurists and > science-fiction authors predict that genetic engineering will someday > allow designer children, built to order, with whatever smarts, looks, > and personalities their parents prefer. But biology’s new recognition > of the role of noise in development gives us one more reason to think > that this simply isn’t going to happen. Gene mapping can’t tell you > whether or not your kid will be a skydiver or a conservative, because > gene expression is a far more complex phenomenon than biologists long > imagined. Even if we can get the genes right, and somehow completely > control environments, there will always be noise to make life richly > unpredictable.
+> Genetic determinism is the view that our genes make us who we are. > Popular articles abound describing genes for daredevilishness, > creativity, empathy, even being a Republican. Futurists and > science-fiction authors predict that genetic engineering will someday > allow designer children, built to order, with whatever smarts, looks, > and personalities their parents prefer. But biology’s new recognition > of the role of noise in development gives us one more reason to think > that this simply isn’t going to happen. Gene mapping can’t tell you > whether or not your kid will be a skydiver or a conservative, because > gene expression is a far more complex phenomenon than biologists long imagined. Even if we can get the genes right, and somehow completely control environments, there will always be noise to make life richly unpredictable.
 
 As I said above I’d take issue with the style of the exposition, as it makes the discovery of noise far more sensational and amazing to contemporary biologists than it is. But much of the substance, down to the illustration of randomness via *elegans*, I’m wholly on board with. **But the author of the *Slate* piece leaves us with a very different moral than I usually do.** She seems positively desirous of the rich creativity energy which noise injects into the developmental process. For me, on the contrary, the power of noise to mess with our expectations means that you have to emphasize even more those variables which have some understanding of. Genes.
 
 ### Related Posts:
 
-- [Noise](https://www.gnxp.com/WordPress/2005/10/03/noise/) - [Hawks on
+- [Noise](https://www.gnxp.com/WordPress/2005/10/03/noise/)
+- [Hawks on
   Noise](https://www.gnxp.com/WordPress/2006/05/25/hawks-on-noise/) - [Judith Rich Harris
   responds](https://www.gnxp.com/WordPress/2006/04/16/judith-rich-harris-responds/) - [Genomic noise and individual
   variation](https://www.gnxp.com/WordPress/2008/01/26/genomic-noise-and-individual-variation/) - [Just because it's not hereditary does not mean you

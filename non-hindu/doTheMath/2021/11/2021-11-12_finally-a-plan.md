@@ -22,7 +22,8 @@ Step 2 was to create a website, which is at [planetarylimits.net](https://planet
 
 Step 3 is recruitment. We have two roles for the website:
 
-1.  **Subscriber**: For those who would like occasional updates on what PLAN is doing and access to some of the (eventual) website content. 2.  **Member**: For active academics/scholars who are engaged in production of scholarly work (peer-reviewed publications, for instance) and could potentially collaborate in scholarly pursuits relating to PLAN interests. It does not matter if these individuals have not published in this space before: that’s part of what PLAN aims to change.
+1.  **Subscriber**: For those who would like occasional updates on what PLAN is doing and access to some of the (eventual) website content.
+2.  **Member**: For active academics/scholars who are engaged in production of scholarly work (peer-reviewed publications, for instance) and could potentially collaborate in scholarly pursuits relating to PLAN interests. It does not matter if these individuals have not published in this space before: that’s part of what PLAN aims to change.
 
 A third role of Collaborator is available for committed members who intend to be active contributors to new “scholarly” products, and will be able to (eventually) search for and contact other Collaborators based on concerns, field of study, and other criteria.
 

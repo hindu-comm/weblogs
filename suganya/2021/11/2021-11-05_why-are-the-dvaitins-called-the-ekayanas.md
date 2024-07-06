@@ -21,7 +21,7 @@ Eureka! That’s why the *dvaitin*s are called the *ekāyana*s, as they don’t 
 
 \[In an email after this post was published, Marion sent me the exact passage from PBA Swami’s writing, and the context is the same:\]
 
-> *ekāyanā mādhvāḥ. tanmate viṣṇur eva prāpyaḥ. na tu lakṣmīviśiṣṭa iti. > śrīsampradāye tu śrīviśiṣṭa eva prāpya iti vaiśiṣṭyam.*
+> *ekāyanā mādhvāḥ. tanmate viṣṇur eva prāpyaḥ. na tu lakṣmīviśiṣṭa iti. śrīsampradāye tu śrīviśiṣṭa eva prāpya iti vaiśiṣṭyam.*
 
 Hey, wait a minute! Why is this word associated with Pāñcarātra?
 

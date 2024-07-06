@@ -18,14 +18,15 @@ Friday Fluff – July 1st, 2011
 
 3\) **Comment of the week**, in response to [“Reify my genes!”](http://blogs.discovermagazine.com/gnxp/2011/06/reify-my-genes/#comment-77217):
 
-> I’m going to venture a guess that 12 and 29 are a wildly attractive > and completely anonymous white female and Indian male.
+> I’m going to venture a guess that 12 and 29 are a wildly attractive and completely anonymous white female and Indian male.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/07/fan.jpg?resize=600%2C726)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/07/fan.jpg?resize=600%2C726)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/07/fan.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - July 8th,
+- [Friday Fluff
+- July 8th,
   2011](https://www.gnxp.com/WordPress/2011/07/08/friday-fluff-july-8th-2011/) - [Friday Fluff - April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff - July 22nd,
   2011](https://www.gnxp.com/WordPress/2011/07/22/friday-fluff-july-22nd-2011/) - [Friday Fluff – January 28th,

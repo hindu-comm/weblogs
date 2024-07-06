@@ -81,15 +81,15 @@ But before we actually begin examining the topic, it will be instructive to read
 
 Sri Dharampal noted with great regret that after Independence, our political leaders told our people:
 
-> Your job is over. Now, go back to your daily life. We will run the > country. Sadly, our political leadership did not invite the masses to > join in the great task of national reconstruction. Thus, people stayed > afar, they continue to stay afar.
+> Your job is over. Now, go back to your daily life. We will run the country. Sadly, our political leadership did not invite the masses to join in the great task of national reconstruction. Thus, people stayed afar, they continue to stay afar.
 
 The reason for this attitude of our political leadership at the dawn of independence was a deep sense of psychological colonization that they had imbibed under British rule. Sri Dharampal stands perhaps tallest among all the savants and luminaries who untiringly worked for all-round decolonization of the Indian mind and thereby the Indian society. He had chosen a deep and sustained study of how our society functioned and how our institutions operated for millennia until the British systematically dismantled the native mind. This is what Dharampal says:
 
-> A big evidence of colonialism is the stagnation of our country’s > economy and society. from time to time, our country’s original spirt > and energy did renew itself. The first war of independence in 1857 was > once such epoch. That war was far more crucial and important than the > freedom struggle of our own century. Its foundational inspiration was > more natural. However, after 1857, our society’s collective mind set > began to steadily decline.
+> A big evidence of colonialism is the stagnation of our country’s > economy and society. from time to time, our country’s original spirt > and energy did renew itself. The first war of independence in 1857 was > once such epoch. That war was far more crucial and important than the freedom struggle of our own century. Its foundational inspiration was more natural. However, after 1857, our society’s collective mind set began to steadily decline.
 
 More profoundly, he also writes:
 
-> In order to understand how our society was structured in the past, we > need utmost humility. If we go forth with a truthful attitude of > learning, people will come forward to share their knowledge. However, > if we go with a know-it-all arrogance, people won’t share their > knowledge freely. This is but natural.
+> In order to understand how our society was structured in the past, we > need utmost humility. If we go forth with a truthful attitude of learning, people will come forward to share their knowledge. However, if we go with a know-it-all arrogance, people won’t share their knowledge freely. This is but natural.
 
 The Dharma Dispatch Digest is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
@@ -97,7 +97,7 @@ Subscribe
 
 Continuing further, he offers us a rather startling but actually, a common sense verdict about British rule when we think about it now.
 
-> Rank materialism was the only yardstick that the British colonialists > had used to assess India’s civilization. The system of taking bribes > that we condemn today had been an accepted social system in England > over several centuries past. They had prepared an elaborate system > that neatly explained its foundational ideology and justification. > There was \[a\] marked difference between the British and us. They had > institutionalized deception, trickery and treachery in commercial > transactions to the status of an art form. We continued to remain > naïve.
+> Rank materialism was the only yardstick that the British colonialists > had used to assess India’s civilization. The system of taking bribes > that we condemn today had been an accepted social system in England > over several centuries past. They had prepared an elaborate system > that neatly explained its foundational ideology and justification. > There was \[a\] marked difference between the British and us. They had institutionalized deception, trickery and treachery in commercial transactions to the status of an art form. We continued to remain naïve.
 
 Indeed, an honest study of the comprehensive history of India—especially, our institutional, social, and commercial aspects must begin in the pre-British era. Unfortunately, the exact opposite has occurred. Most Indian historians who studied these aspects of our past, especially our society, culture and commerce, took the British description of our past as the starting point, if not its premise. These historians perhaps subconsciously believed that the picture of our society that the colonial British scholars and European researchers gave was its true reflection.
 
@@ -105,11 +105,11 @@ The reality however, is the exact opposite. *The picture of India that the Briti
 
 The chief culprit who propagated this false *premise* of India was James Mill in his *The History of British India* in three fat volumes. Here is a sample of his description of the Hindu society in a section explicitly titled, *Of the Hindus:*
 
-> Under the glossing exterior of the Hindu, lies a general disposition > to deceit and perfidy…the same insincerity, mendacity, and perfidy; > the same indifference to the feelings of others; the same prostitution > and venality…in truth, the Hindoo like the eunuch, excels in the > qualities of a slave…in physical sense, the Hindoos are disgustingly > unclean in their persons and houses.
+> Under the glossing exterior of the Hindu, lies a general disposition > to deceit and perfidy…the same insincerity, mendacity, and perfidy; > the same indifference to the feelings of others; the same prostitution and venality…in truth, the Hindoo like the eunuch, excels in the qualities of a slave…in physical sense, the Hindoos are disgustingly unclean in their persons and houses.
 
 If you start with this premise, it becomes a breeze to justify British colonial oppression of India, which is exactly what James Mill does:
 
-> Even the utmost abuse of European power is better, we are persuaded, > than the most temperate exercise of Oriental despotism.
+> Even the utmost abuse of European power is better, we are persuaded, than the most temperate exercise of Oriental despotism.
 
 Quite obviously, Mill’s*History of India*is a textual reflection of his putrid psyche. But his vile tomes became mandatory reading for every colonial British bureaucrat who wanted a stint in India. But as horrid as it was, the greater tragedy occurred after Independence. It might sound surprising but even today, significant portions of these third-rated, racist volumes have been retained in their essentials, and Mill’s diagnosis and conclusions about India are uncritically accepted as valid by our IAS class. Small wonder that even today we have IAS officers who nonchalantly walk into a wedding and disrupt it in a[manner](https://m.youtube.com/watch?v=6jcGk_dfuVA)that puts goondas as to shame.
 

@@ -11,13 +11,13 @@ Chicks dig dorks?
 
 The most recent Current Opinion in Genetics and Development has a number of articles grouped around the theme “The sex chromosomes and human disease”. A bit that might be of interest from [this one](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VS0-4JVSWJK-D&_user=10&_coverDate=06%2F30%2F2006&_rdoc=6&_fmt=summary&_orig=browse&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=7d2955535beebf10d681146244551b26):
 
-> The accumulation of intelligence (i.e. MRX) genes on the X might have > occurred as the result of sexual selection – the choice of smart males > by choosy females. Given that sexual selection is extremely rapid, > this could explain the huge enlargement of the hominid brain over the > past million years.
+> The accumulation of intelligence (i.e. MRX) genes on the X might have > occurred as the result of sexual selection – the choice of smart males by choosy females. Given that sexual selection is extremely rapid, this could explain the huge enlargement of the hominid brain over the past million years.
 
 I’d heard the sexual selection argument for brain size before, but never in the context of genes for intelligence on the X chromosome. Apparently I should have, though, because they reference an [article from 2001](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TCY-44FBRWW-P&_user=10&_coverDate=12%2F01%2F2001&_rdoc=9&_fmt=summary&_orig=browse&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=128e02b6733535ff8b9f4a108616860f) as their source.
 
 Here’s the original hypothesis:
 
-> Therefore, regarding human evolution we propose the following model: > one of the most important factors contributing to the uniqueness of > human evolution is that at some point human females decided to select > males according to their advanced cognitive abilities. The same > cognitive abilities are selected for in the struggle for survival. In > humans, the development of the mating characteristic is augmented by > natural selection. This is an ongoing process with exponential > acceleration, which will propel the development of general cognitive > abilities in humans into areas we cannot imagine now
+> Therefore, regarding human evolution we propose the following model: > one of the most important factors contributing to the uniqueness of > human evolution is that at some point human females decided to select > males according to their advanced cognitive abilities. The same > cognitive abilities are selected for in the struggle for survival. In > humans, the development of the mating characteristic is augmented by natural selection. This is an ongoing process with exponential acceleration, which will propel the development of general cognitive abilities in humans into areas we cannot imagine now
 
 I think everyone can agree that the last bit about “exponential acceleration…into areas we can’t imagine” is laughable, but what about the rest? Anything there?
 

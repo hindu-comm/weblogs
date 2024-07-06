@@ -11,9 +11,9 @@ Source: [here](https://www.gnxp.com/WordPress/2008/07/30/science-and-technology-
 
 [Tyler](http://www.marginalrevolution.com/marginalrevolution/2008/07/the-ancient-gre.html) points to a [new story](http://www.nytimes.com/2008/07/31/science/31computer.html?_r=1&hp&oref=slogin) in The New York Times highlighting discoveries about the [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism):
 
-> The new findings, reported Wednesday in the journal Nature, also > suggested that the mechanism’s concept originated in the colonies of > Corinth, possibly Syracuse, in Sicily. The scientists said this > implied a likely connection with the great Archimedes. >
+> The new findings, reported Wednesday in the journal Nature, also suggested that the mechanism’s concept originated in the colonies of Corinth, possibly Syracuse, in Sicily. The scientists said this implied a likely connection with the great Archimedes. >
 > … >
-> “We believe that this mechanism cannot have been the first such device > since it is so sophisticated and complex,” Dr. Freeth said. “And we > don’t understand why this extraordinary technology apparently > disappeared for several hundred years, later to emerge in the great > astronomical clocks of the 14th century onwards.”
+> “We believe that this mechanism cannot have been the first such device > since it is so sophisticated and complex,” Dr. Freeth said. “And we don’t understand why this extraordinary technology apparently disappeared for several hundred years, later to emerge in the great astronomical clocks of the 14th century onwards.”
 
 My explanation: **the ancients had scientists and technologists, but they did not have *Science and Technology***. In other words, science and technology as we understand it today in the age of scientific industry is a cultural complex which has attained critical mass and is self-perpetuating. One does not need to manifest the brilliance of Isaac Newton to stand upon his shoulders, the sociocultural framework takes Newtonianism as a given. There were scientists in ancient Greece, in the Islamic world, China, India, etc., of various sorts. But these people lacked a cultural framework in terms of a critical mass of numbers which arose in the West sometime between 1600 and 1900 as a cumulative process.\*
 

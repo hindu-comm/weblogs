@@ -115,10 +115,10 @@ By giving the example of the behaviour that takes place between father and son, 
 
 In the same way, Machiavelli shows, that the people are also deceived, by things which outwardly benefit, but beneath, there is harm and danger, and also in the cases of things which seem to harm outwardly, but beneath, is benefit.
 
-> Many times, deceived by a false image of good, the people desires its > own ruin; and if it is not made aware that that is bad and what the > good is, by someone in whom it has faith, infinite dangers and harms > are brought into republics. >
+> Many times, deceived by a false image of good, the people desires its own ruin; and if it is not made aware that that is bad and what the good is, by someone in whom it has faith, infinite dangers and harms are brought into republics. >
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 53
 
-> And when gain is seen in the things that are put before the people, > even though there is loss concealed underneath, and when it appears > spirited, even though there is the ruin of the republic concealed > underneath, it will always be easy to persuade the multitude of it; > and likewise it may always be difficult to persuade it of these > policies if either cowardice or loss might appear, even though safety > and gain might be concealed underneath. >
+> And when gain is seen in the things that are put before the people, > even though there is loss concealed underneath, and when it appears > spirited, even though there is the ruin of the republic concealed > underneath, it will always be easy to persuade the multitude of it; and likewise it may always be difficult to persuade it of these policies if either cowardice or loss might appear, even though safety and gain might be concealed underneath. >
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 53
 
 From this, we may conclude, that to take no regard for outer appearances, and to consider inner feelings and qualities as the primary mode in which to judge people, is the best, for without this, one becomes a victim to deception.

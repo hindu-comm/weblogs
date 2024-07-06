@@ -25,7 +25,9 @@ Does, on the whole, Bill Maher express obnoxious and superficial opinions? Proba
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Freedom](https://www.gnxp.com/WordPress/2006/02/09/freedom/) - [Sorry for the light
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Freedom](https://www.gnxp.com/WordPress/2006/02/09/freedom/)
+- [Sorry for the light
   posting](https://www.gnxp.com/WordPress/2016/09/28/sorry-for-the-light-posting/) - [Aslan's in the
   house!](https://www.gnxp.com/WordPress/2005/12/28/aslan-s-in-the-house/) - [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Inside the Dar
   al-Islam](https://www.gnxp.com/WordPress/2014/08/08/inside-the-dar-al-islam/)

@@ -11,7 +11,7 @@ D. S. Falconer Obit
 
 Anyone trying to understand heritability, or other aspects of quantitative genetics, is likely to rely heavily on **D. S. Falconer’s** **Introduction to Quantitative Genetics**. I find that Falconer died a few years ago, and there is a fine Obituary by W. G. Hill available [here](http://www.genetics.org/cgi/content/full/167/4/1529). I love this anecdote from Falconer about D’Arcy Thompson:
 
-> I asked him at the beginning for recommendations as to what to read > and he said ‘Just browse, my boy, just browse.’ So I worked away on my > own … and at the end of the year he came along to me and said ‘Well, > Douglas, my boy, you’re a very good lad and I don’t think we need give > you an examination this year.’
+> I asked him at the beginning for recommendations as to what to read > and he said ‘Just browse, my boy, just browse.’ So I worked away on my own … and at the end of the year he came along to me and said ‘Well, Douglas, my boy, you’re a very good lad and I don’t think we need give you an examination this year.’
 
 They don’t make them like that any more.
 

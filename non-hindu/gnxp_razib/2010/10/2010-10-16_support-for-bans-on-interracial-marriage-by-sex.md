@@ -11,7 +11,7 @@ Support for bans on interracial marriage by sex
 
 A quick follow-up to [my previous post](http://blogs.discovermagazine.com/gnxp/2010/10/female-race-consciousness-as-prudence/) which points to the data that women tend to be more race-conscious in dating than men. There’s a variable in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) which asks if you support a ban on interracial marriage, RACMAR. Here’s the question itself:
 
-> Do you think there should be laws against marriages between > (Negroes/Blacks/African-Americans) and whites?
+> Do you think there should be laws against marriages between (Negroes/Blacks/African-Americans) and whites?
 
 There isn’t much surprising in the results for this variable. It was asked between 1972 and 2002, and support for a ban on interracial marriages dropped over time. Whites, old people, conservatives, and less educated people, tended to support these bans, as well as Southerners. But what about men vs. women? I’ve never actually looked at that. I limited the sample to whites; the number of blacks in the sample is small and wouldn’t alter the result, but I figured I’d control for race anyway. Support for such laws is in the 35-40% range for whites in 1972, before dropping off to 5-15% in 2002.
 

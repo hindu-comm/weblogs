@@ -11,7 +11,7 @@ Japan's end of history
 
 A rather depressing piece in *The New York Times*, [Japan, Once Dynamic, Is Disheartened by Decline](http://www.nytimes.com/2010/10/17/world/asia/17japan.html?ref=global-home&pagewanted=print):
 
-> But perhaps the most noticeable impact here has been Japan’s crisis of > confidence. Just two decades ago, this was a vibrant nation filled > with energy and ambition, proud to the point of arrogance and eager to > create a new economic order in Asia based on the yen. Today, those > high-flying ambitions have been shelved, replaced by weariness and > fear of the future, and an almost stifling air of resignation. Japan > seems to have pulled into a shell, content to accept its slow fade > from the global stage.
+> But perhaps the most noticeable impact here has been Japan’s crisis of > confidence. Just two decades ago, this was a vibrant nation filled > with energy and ambition, proud to the point of arrogance and eager to > create a new economic order in Asia based on the yen. Today, those > high-flying ambitions have been shelved, replaced by weariness and fear of the future, and an almost stifling air of resignation. Japan seems to have pulled into a shell, content to accept its slow fade from the global stage.
 
 Yet Japan’s demographic and economic stagnation seems to be the ultimate likely outcome if [Z.P.G.](https://en.wikipedia.org/wiki/Zero_population_growth) activists get their way. All things equal if I had to pick between being a citizen of a dynamic but poor society or a stagnant but rich one, I’d go with the latter. The moral of the article is that Japan’s fate may await Western nations, but is affluent ennui *that* bad? Perhaps we are destined to become as the citizens of [Diaspar](https://en.wikipedia.org/wiki/The_City_and_the_Stars).
 
@@ -19,7 +19,8 @@ Yet Japan’s demographic and economic stagnation seems to be the ultimate likel
 
 ### Related Posts:
 
-- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/) - [Sex ratio &
+- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/)
+- [Sex ratio &
   preferences](https://www.gnxp.com/WordPress/2007/12/22/sex-ratio-preferences/) - [Japan &
   religion](https://www.gnxp.com/WordPress/2006/09/14/japan-religion/) - ["India's" population bomb isn't
   rocket…](https://www.gnxp.com/WordPress/2010/08/21/indias-population-bomb-isnt-rocket-science/) - [Communism was an absolute disaster, and its shadow haunts

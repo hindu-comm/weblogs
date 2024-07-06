@@ -177,7 +177,8 @@ I hope you’ve been checking out the [Just Science](http://www.justscience.net/
 - [\[ I’m a chordata, urochordata!
   \]](http://convoluta.ucdavis.edu/research/ "Collections of notes, ideas, and thoughts of a marine community ecologist with a fondness for ascidians (that's sea squirts, to you!)")
 
-- - - [Just
+- -
+- [Just
       Science](https://www.gnxp.com/WordPress/2007/02/04/just-science/)
     - [Just
       Science](https://www.gnxp.com/WordPress/2007/02/04/just-science/)

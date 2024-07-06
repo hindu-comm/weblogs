@@ -11,7 +11,7 @@ Sometimes it just tastes good Felix
 
 [The more you know, the better it tastes](http://blogs.reuters.com/felix-salmon/2010/07/06/the-more-you-know-the-better-it-tastes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+felix-all+(Felix+Salmon+-+All)&utm_content=Google+Feedfetcher):
 
-> People like LaForge don’t want altitude information on their coffee > because they prefer 1700m coffee to 1400m coffee. Instead, > **Intelligentsia is supplying something much more important and > valuable:** a unique narrative. It’s the same thing that’s going on in > the wine world….
+> People like LaForge don’t want altitude information on their coffee > because they prefer 1700m coffee to 1400m coffee. Instead, **Intelligentsia is supplying something much more important and valuable:** a unique narrative. It’s the same thing that’s going on in the wine world….
 
 I agree that the “story” or our understanding of something (e.g., whether it’s \$100 or \$10) can affect our perception of the hedonic experience. But sometimes **coffee just tastes better.** So the first time I had a [Stumptown roast](http://www.stumptowncoffee.com/) I was blown away, without knowing anything of the roaster’s history or reputation (it has a good reputation). I wasn’t even much of a coffee snob then (and really, I’m not much now). Though I think that [the narrative of civet coffee](https://en.wikipedia.org/wiki/Kopi_Luwak) might make me avoid it, even I if accept that objectively it has a better taste.
 

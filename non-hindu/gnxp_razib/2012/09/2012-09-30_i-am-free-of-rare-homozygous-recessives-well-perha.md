@@ -11,8 +11,8 @@ I am free of rare homozygous recessives! (well, perhaps)
 
 I got a notification today from Ian Logan that he [set up a page on my genotype](http://www.ianlogan.co.uk/23andme/23andMe_opensnp.htm) using a method which detects rare homozygous SNPs in the \~1 million markers I put up from my 23andMe results. My [raw data is online](http://blogs.discovermagazine.com/gnxp/2011/04/razib-khans-23andme-v3-genotype/), so anyone can analyze it. Here is the summary of my results:
 
-> The program finds about 50 ‘rare/uncommon’ SNPs from the 900,000+ > tested by 23andMe. >
-> The are no ‘homozygous-recessive’ results (surprisingly, as 1-2 might > be expected).
+> The program finds about 50 ‘rare/uncommon’ SNPs from the 900,000+ tested by 23andMe. >
+> The are no ‘homozygous-recessive’ results (surprisingly, as 1-2 might be expected).
 
 There are a list [other individuals](http://www.ianlogan.co.uk/23andme/23andMe_opensnp.htm), and sure enough most of them do have a rare recessive homozygous locus or two. I assume that ascertainment bias (the technology finding variation in Europeans better than non-Europeans in most cases) wouldn’t result in my case, because I should have less variation, not more (less variation would presumably result in more homozygous recessives). So I am thinking it may simply be that because I’m from a population with greater genetic variation (South Asians) I am less likely to yield a homozygous recessive.
 

@@ -13,7 +13,8 @@ The usual. Links, questions, etc.
 
 ### Related Posts:
 
-- [Open Thread - July 23rd,
+- [Open Thread
+- July 23rd,
   2010](https://www.gnxp.com/WordPress/2010/07/23/open-thread-july-23rd-2010/) - [7/5/2010 Open
   Thread](https://www.gnxp.com/WordPress/2010/07/05/752010-open-thread/) - [Open thread - July 12th,
   2010](https://www.gnxp.com/WordPress/2010/07/12/open-thread-july-12th-2010/) - [Open thread - August 8th,

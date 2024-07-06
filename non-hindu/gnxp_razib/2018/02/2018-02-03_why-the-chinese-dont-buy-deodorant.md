@@ -16,10 +16,10 @@ My wife and I are both heterozygotes. This is not too surprising. The derived va
 
 This genetic story came to my mind again because of this article in *The New York Times*, [Aiming at China’s Armpits: When Foreign Brands Misfire](https://www.nytimes.com/2018/02/02/business/china-consumers-deodorant.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below):
 
-> There’s another reason few Chinese consumers buy deodorant: basic > biology. >
-> Scientists in recent years have shown that many East Asians, a group > that includes China’s ethnic Han majority, have a gene that lowers the > likelihood of a strong “human axillary odor” — scientist-speak for > body stink. >
-> That lowers the likelihood that they will use deodorant to begin with, > according to a 2013 study by researchers at the University of Bristol > and Brunel University in Britain, after a survey of nearly 6,500 women > of various backgrounds. >
-> “It is likely that deodorant usage is not widely adopted because there > is, for much of the East Asia population, no need for it,” it said. > (For those curious about such matters, that same genetic difference > also leads to drier earwax.)
+> There’s another reason few Chinese consumers buy deodorant: basic biology. >
+> Scientists in recent years have shown that many East Asians, a group that includes China’s ethnic Han majority, have a gene that lowers the likelihood of a strong “human axillary odor” — scientist-speak for body stink. >
+> That lowers the likelihood that they will use deodorant to begin with, according to a 2013 study by researchers at the University of Bristol and Brunel University in Britain, after a survey of nearly 6,500 women of various backgrounds. >
+> “It is likely that deodorant usage is not widely adopted because there is, for much of the East Asia population, no need for it,” it said. (For those curious about such matters, that same genetic difference also leads to drier earwax.)
 
 A friend of mine in undergrad of East Asian background told me once that she had never worn deodorant. So this shouldn’t be very surprising.
 
@@ -33,7 +33,7 @@ The chart below makes the association obvious:
 
 In regards to the genotype proportions the authors observe:
 
-> The excessive heterozygosity observed in AO individuals is probably > due to the effect of selection, particularly nonrandom mating against > AO phenotype.
+> The excessive heterozygosity observed in AO individuals is probably due to the effect of selection, particularly nonrandom mating against AO phenotype.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/human_evolutionary_genetics.jpeg?resize=196%2C257&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/human_evolutionary_genetics.jpeg?resize=196%2C257&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0815341482/geneexpressio-20/ref=as_at?creativeASIN=0060932902&linkCode=w61&imprToken=0oW24r-a4nykuXkcX-LChQ&slotNum=9)This doesn’t make sense to me. Wouldn’t people who have body odor tend to pair up in a society where they are a minority? The authors note that the excess of heterozygotes was observed in earlier studies too.
 

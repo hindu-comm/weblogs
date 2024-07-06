@@ -11,9 +11,9 @@ Amy Bishop's husband, creepy dude
 
 [Papers Link Husband of Professor to ’93 Threat](http://www.nytimes.com/2010/02/24/us/24bishop.html?pagewanted=print):
 
-> The husband of the neuroscientist accused of killing three colleagues > at the University of Alabama in Huntsville told a witness he wanted to > harm a Harvard professor who was later mailed a pipe bomb in 1993, > according to newly released federal documents.  
-> James Anderson Jr., the husband of Amy Bishop, wanted to “shoot,” > “stab” or “strangle” the professor, Paul Rosenberg, according to > documents released Tuesday by the Bureau of Alcohol, Tobacco, Firearms > and Explosives.  
-> Dr. Bishop had worked for Dr. Rosenberg in the neurobiology lab of > Children’s Hospital in Boston, but resigned because Dr. Rosenberg felt > that she “could not meet the standards required for the work,” > according to the documents, first reported by The Boston Globe. Dr. > Bishop was “reportedly upset” and “on the verge of a nervous > breakdown,” according to the documents, which cited interviews with > witnesses.
+> The husband of the neuroscientist accused of killing three colleagues at the University of Alabama in Huntsville told a witness he wanted to harm a Harvard professor who was later mailed a pipe bomb in 1993, according to newly released federal documents.  
+> James Anderson Jr., the husband of Amy Bishop, wanted to “shoot,” “stab” or “strangle” the professor, Paul Rosenberg, according to documents released Tuesday by the Bureau of Alcohol, Tobacco, Firearms and Explosives.  
+> Dr. Bishop had worked for Dr. Rosenberg in the neurobiology lab of > Children’s Hospital in Boston, but resigned because Dr. Rosenberg felt > that she “could not meet the standards required for the work,” > according to the documents, first reported by The Boston Globe. Dr. Bishop was “reportedly upset” and “on the verge of a nervous breakdown,” according to the documents, which cited interviews with witnesses.
 
 ### Related Posts:
 

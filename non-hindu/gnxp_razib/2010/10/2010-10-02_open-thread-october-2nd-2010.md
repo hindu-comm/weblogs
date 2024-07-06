@@ -38,13 +38,13 @@ I thought that today I would outline some implicit rules-of-thumb for comments o
 
 I obviously am heavily involved in the comments of this weblog. I at least skim every single comment. I learn a lot from many commenters, but I also get frustrated with time wasted. I will give you an example of the sort of thing which I sometimes encounter that makes me somewhat impatient, and probably explains my short fuse with some commenters. Last spring I posted on Jewish genetics, and made a comment about the indigenous Syrian Jewish liturgy being extinct. A woman of Syrian Jewish background left this comment:
 
-> I think the HUGE population of Syrian Jews would be very surprised to > find that “The native Syrian liturgical tradition apparently persisted > down into the modern period before its recent extinction.” Their > liturgical tradition is most certainly alive and well!
+> I think the HUGE population of Syrian Jews would be very surprised to find that “The native Syrian liturgical tradition apparently persisted down into the modern period before its recent extinction.” Their liturgical tradition is most certainly alive and well!
 
 I responded like so:
 
 > michelle, please read this: >
 > http://en.wikipedia.org/wiki/Syrian_Jews#Liturgy >
-> please clarify your comment with more detail as you may know more than > this entry in wikipedia, or, if you don’t know more than this, never > comment again because your comment had very little value-add.
+> please clarify your comment with more detail as you may know more than this entry in wikipedia, or, if you don’t know more than this, never comment again because your comment had very little value-add.
 
 Comments automatically close after two weeks. “michelle” saw my snippy response a few months later and emailed me to complain about my condescending tone and proceeded to again reiterate her point. We corresponded more as she tried to educate me, and I asked her a specific question about the date of the extinction of the non-Sephardic Syrian liturgy. She then forwarded my question to someone who was more well versed in these things than she, and that individual confirmed exactly what I had said. After another email michelle & I realized something: **I had found the fact about the extinction of the non-Sephardic Syrian liturgy on a Wikipedia entry about Syrian Jews which had obviously been edited by the individual whom michelle consulted on the history of her people.** In other words, the original comment I made which offended michelle was rooted in information that her intellectual mentor had inserted into Wikipedia.
 

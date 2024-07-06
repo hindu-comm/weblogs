@@ -11,7 +11,7 @@ Rate of Evolution in Brain-Expressed Genes in Humans and Other Primates
 
 [Rate of Evolution in Brain-Expressed Genes in Humans and Other Primates](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0050013):
 
-> Our analyses of the rates of protein evolution in these species > suggest that genes expressed in the human brain have in fact slowed > down in their evolution since the split between human and chimpanzee, > contrary to some previously published reports. We suggest that > advanced brains are driven primarily by the increasing complexity in > the network of gene interactions. **As a result, brain-expressed genes > are constrained in their sequence evolution, although their expression > levels may change rapidly**.
+> Our analyses of the rates of protein evolution in these species > suggest that genes expressed in the human brain have in fact slowed > down in their evolution since the split between human and chimpanzee, > contrary to some previously published reports. We suggest that > advanced brains are driven primarily by the increasing complexity in the network of gene interactions. **As a result, brain-expressed genes are constrained in their sequence evolution, although their expression levels may change rapidly**.
 
 …we’ve always told you that “gene expression” is where it’s at 🙂 It’s PLOS, so go read the whole thing for free.
 

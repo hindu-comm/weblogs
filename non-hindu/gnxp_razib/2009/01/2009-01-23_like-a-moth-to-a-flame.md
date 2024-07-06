@@ -11,9 +11,9 @@ Like a moth to a flame?
 
 [Arnold Kling](http://econlog.econlib.org/archives/2009/01/urban_death_tra.html) comments about my assertion that until recently cities were genetic black holes:
 
-> Today,. we think of cities as places where people come to thrive. > Wealth is higher in cities than in small towns and rural areas. > Richard Florida tells us that the creative class is to be found in > cities. >
+> Today,. we think of cities as places where people come to thrive. Wealth is higher in cities than in small towns and rural areas. Richard Florida tells us that the creative class is to be found in cities. >
 > … >
-> I wonder: who came to cities? Was it people without land? Were cities > like an awful lottery that people would play when they had no other > choice? A bunch of landless people gathered together to prey on one > another, with the winners thriving (moving to the country as soon as > they could afford it) and the losers enduring a Hobbesian existence, > where life was nasty, brutish and short?
+> I wonder: who came to cities? Was it people without land? Were cities > like an awful lottery that people would play when they had no other > choice? A bunch of landless people gathered together to prey on one another, with the winners thriving (moving to the country as soon as they could afford it) and the losers enduring a Hobbesian existence, where life was nasty, brutish and short?
 
 My comment was a contention in relation to **reproductive fitness**; not quality of life or satisfaction (H/T to Greg Cochran for the observation). In the comments I cite a paper which suggests that city and rural divide in mortality favored the rural until around 1900 in the United States. The divide does not exist in large part due to proactive public health measures. Needless to say, though there were variations (e.g., compare 18th century London to Tokyo/Edo), in the pre-modern context public health was much more primitive.
 

@@ -13,7 +13,8 @@ Just thought I would mention that a few days ago the weblog *Gene Expression* ha
 
 ### Related Posts:
 
-- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/) - [Another
+- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/)
+- [Another
   subweblog](https://www.gnxp.com/WordPress/2005/08/10/another-subweblog/) - [Gene Expression Facebook
   group](https://www.gnxp.com/WordPress/2010/03/18/gene-expression-facebook-group/) - [It was a good decade
   (UPDATE)](https://www.gnxp.com/WordPress/2012/04/01/the-end-of-razib-khan-gene-expression/) - [Asian & African

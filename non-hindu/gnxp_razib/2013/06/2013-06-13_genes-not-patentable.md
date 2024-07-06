@@ -11,8 +11,8 @@ Genes not patentable
 
 [Supreme Court Rules Human Genes May Not Be Patented](http://www.nytimes.com/2013/06/14/us/supreme-court-rules-human-genes-may-not-be-patented.html?ref=global-home&_r=0&pagewanted=print):
 
-> “A naturally occurring DNA segment is a product of nature and not > patent eligible merely because it has been isolated,” Justice Clarence > Thomas **wrote for a unanimous court**. But manipulating a gene to > create something not found in nature is an invention eligible for > patent protection. >
-> The case concerned patents held by Myriad Genetics, a Utah company, on > genes that correlate with increased risk of hereditary breast and > ovarian cancer.
+> “A naturally occurring DNA segment is a product of nature and not > patent eligible merely because it has been isolated,” Justice Clarence Thomas **wrote for a unanimous court**. But manipulating a gene to create something not found in nature is an invention eligible for patent protection. >
+> The case concerned patents held by Myriad Genetics, a Utah company, on genes that correlate with increased risk of hereditary breast and ovarian cancer.
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2013/06/Gene-300x240.png?resize=300%2C240 "Gene")![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2013/06/Gene-300x240.png?resize=300%2C240 "Gene")](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2013/06/Gene.png)Believe it or not [USA Today](http://www.usatoday.com/story/news/nation/2013/06/13/supreme-court-gene-breast-ovarian-cancer-patent/2382053/) was out fast with a long story on this issue with quotes and everything. [**Here’s the full text of the decision**](http://www.supremecourt.gov/opinions/12pdf/12-398_8njq.pdf). Needless to say this is a pretty big deal, and I’m somewhat surprised this was a unanimous decision. Perhaps the justices actually listen to scientists and their bleating sometimes?
 

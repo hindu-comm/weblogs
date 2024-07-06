@@ -17,8 +17,8 @@ Of course, I’ve long been more and more partial to the [Scottish Enlightenment
 
 Seth Largo distills may of my core intuitions:
 
-> There is no such thing as moral arcs or progress. But there is tech > progress. It's not "better angels of our nature" so much as tech > taming the devils of our nature. Either way, I'm glad Pinker is around > to make a needed counter-statement to gloom. >
-> — Seth Largo (@SethLargo) [February 11, > 2018](https://twitter.com/SethLargo/status/962729575712256001?ref_src=twsrc%5Etfw)
+> There is no such thing as moral arcs or progress. But there is tech progress. It's not "better angels of our nature" so much as tech taming the devils of our nature. Either way, I'm glad Pinker is around to make a needed counter-statement to gloom. >
+> — Seth Largo (@SethLargo) [February 11, 2018](https://twitter.com/SethLargo/status/962729575712256001?ref_src=twsrc%5Etfw)
 
 ### Related Posts:
 

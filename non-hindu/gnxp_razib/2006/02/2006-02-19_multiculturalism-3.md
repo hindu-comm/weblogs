@@ -30,7 +30,8 @@ Update: The Guardian has an [interview/profile](http://www.guardian.co.uk/commen
 
 ### Related Posts:
 
-- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/) - [Possibly of
+- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/)
+- [Possibly of
   Interest](https://www.gnxp.com/WordPress/2006/10/08/possibly-of-interest/) - [Our civilization's Ottoman
   years](https://www.gnxp.com/WordPress/2017/07/09/our-civilizations-ottoman-years/) - [The Islamic
   race](https://www.gnxp.com/WordPress/2007/11/26/the-islamic-race/) - [Against multiculturalism

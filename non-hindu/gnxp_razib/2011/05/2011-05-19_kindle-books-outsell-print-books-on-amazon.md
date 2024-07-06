@@ -14,7 +14,8 @@ Amazon: Kindle books outselling all print books](http://news.cnet.com/amazon-kin
 
 ### Related Posts:
 
-- [Kindle Cool](https://www.gnxp.com/WordPress/2009/02/24/kindle-cool/) - [The Kindle
+- [Kindle Cool](https://www.gnxp.com/WordPress/2009/02/24/kindle-cool/)
+- [The Kindle
   price](https://www.gnxp.com/WordPress/2012/11/20/the-kindle-price/) - [The substrate is
   immaterial](https://www.gnxp.com/WordPress/2013/01/09/the-substrate-is-immaterial/) - [Kindle vs. non-kindle
   books](https://www.gnxp.com/WordPress/2012/01/03/kindle-vs-non-kindle-books/) - [Google books

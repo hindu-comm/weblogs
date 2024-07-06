@@ -13,7 +13,8 @@ We’ll never have utopia. A world in which in many nations it is normal for the
 
 ### Related Posts:
 
-- [We live in utopia - part
+- [We live in utopia
+- part
   n](https://www.gnxp.com/WordPress/2010/11/01/we-live-in-utopia-part-n/) - [The follies of
   economics?](https://www.gnxp.com/WordPress/2008/12/24/the-follies-of-economics/) - [An economics and evolutionary biology reading
   list](https://www.gnxp.com/WordPress/2012/04/01/an-economics-and-evolutionary-biology-reading-list/) - [We live in

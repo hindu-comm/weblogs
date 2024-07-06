@@ -31,8 +31,8 @@ So we have greater output, lower prices, and greater productivity. What about ha
 
 But are the big bad companies even driving the little guy out of business? In my quick search, I didn’t find data for this year, but a press release on [the state of US agriculture in 2007](http://www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB?contentidonly=true&contentid=2009/02/0036.xml) says that it’s the middle-sized farms that are getting cleared out, suggesting greater specialization (like Wal-Marts co-existing with tiny local boutiques):
 
-> The latest census figures show a continuation in the trend towards > more small and very large farms and fewer mid-sized operations. > Between 2002 and 2007, the number of farms with sales of less than > \$2,500 increased by 74,000. The number of farms with sales of more > than \$500,000 grew by 46,000 during the same period. >
-> Census results show that the majority of U.S. farms are smaller > operations.
+> The latest census figures show a continuation in the trend towards > more small and very large farms and fewer mid-sized operations. Between 2002 and 2007, the number of farms with sales of less than \$2,500 increased by 74,000. The number of farms with sales of more than \$500,000 grew by 46,000 during the same period. >
+> Census results show that the majority of U.S. farms are smaller operations.
 
 Granted, this is for all farms, not just dairy farms, but I’d be surprised if the pattern were in the other direction for the subset of dairy farms. Again, even if it were, that might make us feel bad about small farmers going out of business, but it would not be evidence of monopoly, anti-competition, or whatever else. Output and productivity are going up, and prices are going down. It doesn’t get any simpler than that.
 

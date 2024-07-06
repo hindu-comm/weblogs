@@ -46,7 +46,8 @@ k \~ 4 means that they estimate from the variance of effects there are 4 genes. 
 
 ### Related Posts:
 
-- [Skin color loci - older
+- [Skin color loci
+- older
   work](https://www.gnxp.com/WordPress/2005/12/02/skin-color-loci-older-work/) - [Copy Number Variation in African
   Americans](https://www.gnxp.com/WordPress/2009/03/30/copy-number-variation-in-african-americans/) - [Luca Cavalli-Sforza
   biography](https://www.gnxp.com/WordPress/2005/11/21/luca-cavalli-sforza-biography/) - [Hair Color and Skin Pigmentation in

@@ -11,13 +11,13 @@ Humans: nothin' special?
 
 The abstract for [this](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VJ1-4KB10W5-2&_coverDate=10%2F31%2F2006&_alid=450872449&_rdoc=1&_fmt=&_orig=search&_qd=1&_cdi=6081&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=61c644fc51a1688fa52274338c4fb98b) article by Adam Eyre-Walker (whose work I’ve quibbled with [before](https://www.gnxp.com/blog/2006/05/fitness-and-disease-ii.php)) caught my eye:
 
-> The role of positive darwinian selection in evolution at the molecular > level has been keenly debated for many years, with little resolution. > However, a recent increase in DNA sequence data and the development of > new methods of analysis have finally made this question tractable. > Here, I review the current state-of-play of the field. Initial > estimates in Drosophila suggest that about 50% of all amino acid > substitutions, and a substantial fraction of substitutions in > non-coding DNA, have been fixed as a consequence of adaptive > evolution. Estimates in microorganisms are even higher. **By contrast, > there is little evidence of widespread adaptive evolution in our own > species.**
+> The role of positive darwinian selection in evolution at the molecular > level has been keenly debated for many years, with little resolution. > However, a recent increase in DNA sequence data and the development of > new methods of analysis have finally made this question tractable. > Here, I review the current state-of-play of the field. Initial > estimates in Drosophila suggest that about 50% of all amino acid > substitutions, and a substantial fraction of substitutions in > non-coding DNA, have been fixed as a consequence of adaptive evolution. Estimates in microorganisms are even higher. **By contrast, there is little evidence of widespread adaptive evolution in our own species.**
 
 …\[double take\]…huh?
 
 Or how about this:
 
-> A few years ago, there was great optimism that, by looking for the > signature of selective sweeps, it might be possible to use genomic > scans of DNA diversity to identify regions of the genome that had > recently undergone adaptive evolution. Unfortunately, this program of > research has not proved as fruitful as had been hoped.
+> A few years ago, there was great optimism that, by looking for the > signature of selective sweeps, it might be possible to use genomic scans of DNA diversity to identify regions of the genome that had recently undergone adaptive evolution. Unfortunately, this program of research has not proved as fruitful as had been hoped.
 
 The [Voight et al.](http://biology.plosjournals.org/perlserv?request=get-document&doi=10.1371/journal.pbio.0040072) paper familiar to most readers does get a mention, but [Wang et al.](http://www.pnas.org/cgi/content/short/103/1/135) doesn’t. These two results, along with an [excess of linkage disequilibrium](https://www.gnxp.com/blog/2006/09/more-positive-selection.php) in genes in human compared to non-genic regions, certainly suggests widespread selection, though perhaps this selction is not detected using traditional methods.
 

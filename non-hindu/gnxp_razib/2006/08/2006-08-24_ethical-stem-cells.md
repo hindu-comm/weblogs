@@ -13,7 +13,8 @@ You’ve probably heard about the new technique to facilitate the use of embryon
 
 ### Related Posts:
 
-- [Stem cells - having your embryo and not eating it
+- [Stem cells
+- having your embryo and not eating it
   too?](https://www.gnxp.com/WordPress/2006/08/24/stem-cells-having-your-embryo-and-not-eating-it-too/) - [Ethical stem cells,
   II](https://www.gnxp.com/WordPress/2006/11/22/ethical-stem-cells-ii/) - [Stem cells
   no?](https://www.gnxp.com/WordPress/2006/08/26/stem-cells-no/) - [Germ cells from stem

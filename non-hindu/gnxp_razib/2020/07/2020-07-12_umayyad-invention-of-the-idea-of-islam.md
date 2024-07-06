@@ -31,7 +31,8 @@ To recap:
 
 ### Related Posts:
 
-- [Open Thread - July 5th,
+- [Open Thread
+- July 5th,
   2020](https://www.gnxp.com/WordPress/2020/07/05/open-thread-july-5th-2020/) - [The gay Muslim Roman
   Emperor](https://www.gnxp.com/WordPress/2021/05/14/the-gay-muslim-roman-emperor/) - [Cancel
   Muhammad?](https://www.gnxp.com/WordPress/2020/07/09/cancel-muhammad/) - [Was the Prophet Muhammad a

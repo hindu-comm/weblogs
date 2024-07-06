@@ -13,7 +13,8 @@ Source: [here](https://www.gnxp.com/WordPress/2008/10/31/phoenician-dna/).
 
 ### Related Posts:
 
-- [Etruscans](https://www.gnxp.com/WordPress/2007/02/18/etruscans/) - [Case closed, Etruscans are
+- [Etruscans](https://www.gnxp.com/WordPress/2007/02/18/etruscans/)
+- [Case closed, Etruscans are
   Lydian](https://www.gnxp.com/WordPress/2007/02/15/case-closed-etruscans-are-lydian/) - [Etruscan genetics, a few nails in the
   coffin....](https://www.gnxp.com/WordPress/2008/12/03/etruscan-genetics-a-few-nails-in-the-coffin/) - [Etruscan update - more
   evidence](https://www.gnxp.com/WordPress/2007/02/17/etruscan-update-more-evidence/) - [Historical population genetics @

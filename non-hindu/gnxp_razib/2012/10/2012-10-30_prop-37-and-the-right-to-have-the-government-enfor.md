@@ -12,10 +12,10 @@ Prop 37 and the right to have the government enforce your right to know
 With the election coming up,[California Proposition 37, Mandatory Labeling of Genetically Engineered Food](http://ballotpedia.org/wiki/index.php/California_Proposition_37,_Mandatory_Labeling_of_Genetically_Engineered_Food_(2012)), is on my mind. From Ballotpedia:
 
 > If Proposition 37 is approved by voters, it will: >
-> \* Require labeling on raw or processed food offered for sale to > consumers if the food is made from plants or animals with genetic > material changed in specified ways. >
+> \* Require labeling on raw or processed food offered for sale to consumers if the food is made from plants or animals with genetic material changed in specified ways. >
 > \* Prohibit labeling or advertising such food as “natural.” >
-> \* Exempt from this requirement foods that are “certified organic; > unintentionally produced with genetically engineered material; made > from animals fed or injected with genetically engineered material but > not genetically engineered themselves; processed with or containing > only small amounts of genetically engineered ingredients; administered > for treatment of medical conditions; sold for immediate consumption > such as in a restaurant; or alcoholic beverages.” >
-> James Wheaton, who filed the ballot language for the initiative, > refers to it as “The California Right to Know Genetically Engineered > Food Act.”
+> \* Exempt from this requirement foods that are “certified organic; > unintentionally produced with genetically engineered material; made > from animals fed or injected with genetically engineered material but > not genetically engineered themselves; processed with or containing only small amounts of genetically engineered ingredients; administered for treatment of medical conditions; sold for immediate consumption such as in a restaurant; or alcoholic beverages.” >
+> James Wheaton, who filed the ballot language for the initiative, refers to it as “The California Right to Know Genetically Engineered Food Act.”
 
 Michael Eisen has [two](http://www.michaeleisen.org/blog/?p=1210) [posts](http://www.michaeleisen.org/blog/?p=1114)up on this which get the meat of the issue for me. I disagree with Prop 37, though on first blush I think the idea of transparency is radically empowering. Before I get to my reasoning, I want to set aside some ancillary considerations. Some are voting for the measure because they oppose agribusiness in general, or have a particular bone to pick with the way that some firms enforce their intellectual property on seed lines. These are fine critiques, but I’m not going to address them, **because I think they’re separate from the science**.
 

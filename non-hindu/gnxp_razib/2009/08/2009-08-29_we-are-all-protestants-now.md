@@ -15,9 +15,9 @@ A very similar process occurred with American Jews, though due to their small nu
 
 The Japanese Americans who remain Buddhists (most of the community converted to Christian or are secular) adhere to the Buddhists Churches of America. And so on. Now the same with Hinduism, [Old Faith Innovates in a New Land](http://www.nytimes.com/2009/08/28/nyregion/28choir.html):
 
-> Ganesha is revered as the remover of obstacles, and his festival is > considered an auspicious time to begin new endeavors, not least an > experiment in adapting an old religion for a new land. And of the > singers, most of whom grew up in India, none had ever heard of a Hindu > choir before.  
+> Ganesha is revered as the remover of obstacles, and his festival is > considered an auspicious time to begin new endeavors, not least an experiment in adapting an old religion for a new land. And of the singers, most of whom grew up in India, none had ever heard of a Hindu choir before.  
 > …  
-> Choirs are virtually unheard of in temples in India because worshipers > tend not to cohere into anything resembling an attentive congregation, > said Vasudha Narayanan, a professor of religion and the director of > the Center for the Study of Hindu Traditions at the University of > Florida.
+> Choirs are virtually unheard of in temples in India because worshipers > tend not to cohere into anything resembling an attentive congregation, said Vasudha Narayanan, a professor of religion and the director of the Center for the Study of Hindu Traditions at the University of Florida.
 
 Some religious people get offended when I contend that it is the fate of all American religions to turn Protestant (non-Protestants that is). But unless you seal yourself off such as the Amish and Hasidic Jews have done to various extents, or replenish yourself with unassimilated immigrants, this is what simply happens. As someone not invested in any particular religious belief I generally think it best that the religions of the United States operate in a common cultural currency, the currency of confessional denominationalism. Even religions devoid of a creed such as Unitarian-Universalism wear their New England Congregationalist (ergo, Protestant Christian) origins on their sleeve.
 

@@ -139,5 +139,6 @@ worthy of consideration in their own right. Disagreement with their
 interpretation of their predecessors does not have to mean disagreement
 with the content of their thought.
 
-1. Tull, Herman W. 1991. “F. Max Muller and A.B. Keith: ‘twaddle’, the
+1. Tull, Herman W.
+1991. “F. Max Muller and A.B. Keith: ‘twaddle’, the
 ‘stupid’ myth, and the disease of Indology.” *Numen* 38(1): 27-58.

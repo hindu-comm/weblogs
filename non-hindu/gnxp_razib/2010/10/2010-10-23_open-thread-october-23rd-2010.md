@@ -15,7 +15,8 @@ The fresco to the left is the cover jacket illustration for [Why we’re all Rom
 
 ### Related Posts:
 
-- [Open Thread - July 23rd,
+- [Open Thread
+- July 23rd,
   2010](https://www.gnxp.com/WordPress/2010/07/23/open-thread-july-23rd-2010/) - [Open Thread,
   09/01/2013](https://www.gnxp.com/WordPress/2013/09/01/open-thread-09012013/) - [Open Thread - October 30th,
   2010](https://www.gnxp.com/WordPress/2010/10/30/open-thread-october-30th-2010/) - [Merry

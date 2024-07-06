@@ -13,14 +13,14 @@ Help me out here. A year or so ago the blogosphere was abuzz about a blog post s
 
 I’m reminded of this story by a [comment](http://www.haloscan.com/comments/echidne/112683504228306243/?a=17158#142553) at the feminist blog, [Echidne of the Snakes](https://www.echidneofthesnakes.blogspot.com/):
 
-> I am afraid that the New – New Orleans will come to resemble the early > days of rock and roll. Black culture/music subsumed and regurgitated > by whitey for the consumption of uber-whitey. >
-> **That is why I find myself in the uncomfortable position of mourning > the loss of crack-addicts, poverty pockets and the like. They made a > poignant and effective buffer against the blanc-mange gentrification > of everything with soul.** >
-> No matter how “negative” you might find that “social capital”, **it is > infused with deep spiritual and artistic depths as is abundantly clear > to anyone who has enjoyed (and LOVED) the amazing music and the > confluence of Christian and Santaria spirituality.** >
-> **We need to keep the magical, ethnic stamp on that city.** The Wild > Tchoupatoulas should not be replaced by Abercrombie and Fitch and the > “second line” should not be replaced by the “bottom line”.
+> I am afraid that the New – New Orleans will come to resemble the early days of rock and roll. Black culture/music subsumed and regurgitated by whitey for the consumption of uber-whitey. >
+> **That is why I find myself in the uncomfortable position of mourning the loss of crack-addicts, poverty pockets and the like. They made a poignant and effective buffer against the blanc-mange gentrification of everything with soul.** >
+> No matter how “negative” you might find that “social capital”, **it is infused with deep spiritual and artistic depths as is abundantly clear to anyone who has enjoyed (and LOVED) the amazing music and the confluence of Christian and Santaria spirituality.** >
+> **We need to keep the magical, ethnic stamp on that city.** The Wild Tchoupatoulas should not be replaced by Abercrombie and Fitch and the “second line” should not be replaced by the “bottom line”.
 
 **Update:** Ok, we found (thanks Razib) two more examples, beyond the excellent pointers in the comments section, that touch on this issue, but still not the one that I remember. [Conrad](http://web.archive.org/web/20041026043737/gweilodiaries.com/archives2/000654.html#000654) noted Ian Mote’s insights about North Korea:
 
-> It was nice to see no Starbucks there, no advertising, no branding…. > They were completely shut out and were self-reliant, and I have > certain respect of their determination of their ideology.
+> It was nice to see no Starbucks there, no advertising, no branding…. They were completely shut out and were self-reliant, and I have certain respect of their determination of their ideology.
 
 Check out some of the [comments](http://web.archive.org/web/20041117101905/gweilodiaries.com/mt2/mt-comments.cgi?entry_id=654) that follow:
 
@@ -30,9 +30,9 @@ Check out some of the [comments](http://web.archive.org/web/20041117101905/gweil
 
 Once again [Conrad](https://www.gnxp.com/MT2/archives/001253.html) mines this rich vein, but much closer to home with this report: (Here’s the [original post](http://web.archive.org/web/20031206214735/http://www.gweilodiaries.com/archives/000471.html) – this is a rant that you’ve got to read to believe, and the comments are something else too.)
 
-> This left me deeply moved, and in love with Cambodia. Completely > different from Thailand where, as in Europe, everyone is too rich , > too congested with people, and ignores you. >
+> This left me deeply moved, and in love with Cambodia. Completely different from Thailand where, as in Europe, everyone is too rich , too congested with people, and ignores you. >
 > \[. . . .\] >
-> They live more in communities, and haven’t had their soul sucked away > by television, and by more wealth than they know how to organise as a > society in a sensible way. All the travellers seem to like the > countries which aren’t developed more than those that are, because of > this warmth and friendliness. What are we developing?
+> They live more in communities, and haven’t had their soul sucked away > by television, and by more wealth than they know how to organise as a society in a sensible way. All the travellers seem to like the countries which aren’t developed more than those that are, because of this warmth and friendliness. What are we developing?
 
 Godless’ comment at the end of the post captures this type of thinking spot-on:
 

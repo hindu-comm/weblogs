@@ -29,7 +29,8 @@ Mitchell KJ (2011). The miswired brain: making connections from neurodevelopment
 
 ### Related Posts:
 
-- [Mad Mice](https://www.gnxp.com/WordPress/2010/04/20/mad-mice/) - [Is Mental Illness Good For
+- [Mad Mice](https://www.gnxp.com/WordPress/2010/04/20/mad-mice/)
+- [Is Mental Illness Good For
   You?](https://www.gnxp.com/WordPress/2010/05/06/is-mental-illness-good-for-you/) - [Somatic mutations make twins' brain less
   similar](https://www.gnxp.com/WordPress/2011/05/25/somatic-mutations-make-twins-brain-less-similar/) - [Beyond SNPs - Structural variation in the human
   genome](https://www.gnxp.com/WordPress/2006/01/23/beyond-snps-structural-variation-in-the-human-genome/) - [Searching for a needle in a

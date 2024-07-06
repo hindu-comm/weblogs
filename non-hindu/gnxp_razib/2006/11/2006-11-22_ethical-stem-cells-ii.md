@@ -13,7 +13,8 @@ Nick Anthis, he of the fake British accent, has a [follow up post](http://scienc
 
 ### Related Posts:
 
-- [Stem cells - having your embryo and not eating it
+- [Stem cells
+- having your embryo and not eating it
   too?](https://www.gnxp.com/WordPress/2006/08/24/stem-cells-having-your-embryo-and-not-eating-it-too/) - [Ethical stem
   cells](https://www.gnxp.com/WordPress/2006/08/24/ethical-stem-cells/) - [Stem cells
   no?](https://www.gnxp.com/WordPress/2006/08/26/stem-cells-no/) - [Stem

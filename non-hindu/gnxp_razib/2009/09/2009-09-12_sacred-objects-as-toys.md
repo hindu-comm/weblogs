@@ -11,11 +11,11 @@ Sacred objects as toys
 
 [Dienekes](https://dienekes.blogspot.com/) points me to an interesting [article](https://dienekes.blogspot.com/2009/09/mother-goddess-figurines-theory.html), [Ancient figurines were toys not mother goddess statues, say experts as 9,000-year-old artefacts are discovered](https://dienekes.blogspot.com/2009/09/mother-goddess-figurines-theory.html):
 
-> Made by Neolithic farmers thousands of years before the creation of > the pyramids or Stonehenge, they depict tiny cattle, crude sheep and > flabby people.  
-> In the 1960s, some researchers claimed the more rotund figures were of > a mysterious large breasted and big bellied “mother goddess”, > prompting a feminist tourism industry that thrives today. >
+> Made by Neolithic farmers thousands of years before the creation of the pyramids or Stonehenge, they depict tiny cattle, crude sheep and flabby people.  
+> In the 1960s, some researchers claimed the more rotund figures were of a mysterious large breasted and big bellied “mother goddess”, prompting a feminist tourism industry that thrives today. >
 > But modern day experts disagree. >
-> They say the “mother goddess” figures – which were buried among the > rubbish of the Stone Age town – are unlikely to be have been religious > icons.  
-> Many of the figures thought to have been women in the 1960s, are just > as likely to be men.
+> They say the “mother goddess” figures – which were buried among the rubbish of the Stone Age town – are unlikely to be have been religious icons.  
+> Many of the figures thought to have been women in the 1960s, are just as likely to be men.
 
 It’s old joke that when archaeologists can’t find a utilitarian slot to put an object, it becomes “sacred” or a religious object. The nature of the sacredness or religiosity of an object as it is perceived may tell us more about the culture in which the archaeologist lives than the ancient society itself (remember those peaceful Maya?).
 

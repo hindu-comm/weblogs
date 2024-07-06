@@ -11,7 +11,7 @@ Make love & not war?
 
 [Slashdot](http://science.slashdot.org/article.pl?sid=06/11/08/2316217) now has a [post](http://science.slashdot.org/article.pl?sid=06/11/08/2316217) on Neandertal introgression:
 
-> While modern day eugenicists might all too eagerly read into these > findings to draw their own politically biased conclusions, people such > as myself, who happen to be of northern European ancestry, may find it > fascinating that somewhere in our lineage **ancient humans and > Neanderthals decided to make love and not war** on the ancient plains > of Eurasia.”
+> While modern day eugenicists might all too eagerly read into these > findings to draw their own politically biased conclusions, people such > as myself, who happen to be of northern European ancestry, may find it fascinating that somewhere in our lineage **ancient humans and Neanderthals decided to make love and not war** on the ancient plains of Eurasia.”
 
 There’s a problem with this: sex is not always a gentle act, and can occur via force. Neandertals were a [robust](https://en.wikipedia.org/wiki/Neandertal#Anatomy) people, powerfully built. Am I the only one who has watched or read [The Clan of the Cave Bear](https://en.wikipedia.org/wiki/Clan_of_the_Cave_Bear)? No need to romanticize this, it isn’t an either or situation. The prominence of female Amerindian and male Iberian lineages in Latin America was not just a function of the love between [Malinche](https://en.wikipedia.org/wiki/Malinche) and [Hernán Cortés](https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s), there were broader sociohistorical forces which drove the pairing of native women and European men.
 

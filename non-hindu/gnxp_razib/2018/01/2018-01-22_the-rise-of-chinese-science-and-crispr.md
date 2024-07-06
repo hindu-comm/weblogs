@@ -17,8 +17,8 @@ Honestly how quickly the Chinese are moving in human trials is alarming. Then ag
 
 In any case, this comment jumped out at me:
 
-> In traditional drug development, too, human-trial rules can differ > among countries. But China’s foray into human Crispr trials has some > Western scientists concerned about the unintended consequences of > using the wholly new tool—such as harm to patients—which could set > back the field for everyone. >
-> Western scientists the Journal interviewed **didn’t suggest America’s > stringent requirements should be weakened. Instead, many advocate an > international consensus** on ethical issues around a science that > makes fundamental changes to human DNA yet still isn’t completely > understood.
+> In traditional drug development, too, human-trial rules can differ > among countries. But China’s foray into human Crispr trials has some Western scientists concerned about the unintended consequences of using the wholly new tool—such as harm to patients—which could set back the field for everyone. >
+> Western scientists the Journal interviewed **didn’t suggest America’s > stringent requirements should be weakened. Instead, many advocate an international consensus** on ethical issues around a science that makes fundamental changes to human DNA yet still isn’t completely understood.
 
 As a descriptive matter, I am highly skeptical of the possibility that “international standards” is going to involve the Chinese adhering to Western standards. If a genuine international consensus is going to emerge there has to be a **give and take**, which means that the very high threshold set for safety in human trials in the West may not apply in China.
 

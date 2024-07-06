@@ -15,7 +15,7 @@ I collected a bunch of data about a month ago and planned on doing some time ser
 
 Before getting to the data, though, how far back does the “porn has become mainstream” meme go? I didn’t conduct an exhaustive search, but I found a [1990 letter-to-the-editor](http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD6173DF937A35752C1A966958260) in the NYT, as well as a [1998 news story](http://www.time.com/time/magazine/article/0,9171,989038,00.html) in Time, so it’s hardly new. It’s interesting to note that most such articles feature [a quote like this one](http://nymag.com/nymetro/news/trends/n_9349/) from New York Magazine in 2003:
 
-> Over beers recently, a 26-year-old businessman friend shocked me by > casually remarking, “Dude, all of my friends are so obsessed with > Internet porn that they can’t sleep with their girlfriends unless they > act like porn stars.”
+> Over beers recently, a 26-year-old businessman friend shocked me by casually remarking, “Dude, all of my friends are so obsessed with Internet porn that they can’t sleep with their girlfriends unless they act like porn stars.”
 
 The grave implication is: “Just think of what young people who grow up with this will expect!” But a moment’s reflection tells us that the same is true of men who visit prostitutes, who’ve been around forever. And yet men haven’t come to expect their wives to behave like wild whores inside or outside the bedroom — again, except for the handful of 20-something losers who New York Magazine manages to mine such embarrassing quotes from. Indeed, the universal Madonna / Whore dichotomy tells us that most men will continue to prefer their flings to act like call girls, pornstars, strippers, etc., while preferring their gfs and wives to act not whorish.
 

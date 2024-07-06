@@ -13,7 +13,7 @@ David Goldstein and collegues report today [the results of a genome-wide associa
 
 One twist is that the authors identify two presumably causal variants in the gene–one a nonsynonymous SNP, and the other a SNP falling in a splice site. The authors make the following point:
 
-> Two related features of these observations are worth emphasizing. > **First, the ITPA variants constitute a clear example of a synthetic > association** in which the effects of rarer functional variants are > observed as an association for a more common variant present on a > whole-genome genotyping chip: indeed, the minor-allele frequency is > higher for the top-associated SNP rs6051702 (19.4%) than for the > causal variants rs1127354 (7.6%) and rs7270101 (12.3%) in > European-Americans
+> Two related features of these observations are worth emphasizing. > **First, the ITPA variants constitute a clear example of a synthetic > association** in which the effects of rarer functional variants are > observed as an association for a more common variant present on a > whole-genome genotyping chip: indeed, the minor-allele frequency is higher for the top-associated SNP rs6051702 (19.4%) than for the causal variants rs1127354 (7.6%) and rs7270101 (12.3%) in European-Americans
 
 Some readers will recall the paper recently published by this group on “[synthetic associations](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1000294)“, where they posited a model for common diseases in which multiple rare (\< 5% minor allele frequency) SNPs in a gene can lead to identification of as association with a common allele. Now, it appears, any gene with more than one functional variant, rare or not, fits their model!
 

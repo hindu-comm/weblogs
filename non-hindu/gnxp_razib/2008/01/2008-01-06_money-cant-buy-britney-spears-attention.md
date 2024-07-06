@@ -11,7 +11,7 @@ Money can’t buy Britney Spears attention
 
 [K-Fed’s call to cops: ‘Britney’s got a gun’](http://www.newsoftheworld.co.uk/0601_britney.shtml):
 
-> Our source said: “Jamie’s new-found publicity enraged jealous Britney. > And after calling Kevin that night she rang Jamie and told her, > **‘You’re not going to be the only f\*\*\*ing Spears on the front > cover of a magazine next week!’** and then hung up.” Meanwhile Britney > lost it when Kevin’s lawyer Mark Kaplan showed up at the house and > tried to talk her round.
+> Our source said: “Jamie’s new-found publicity enraged jealous Britney. > And after calling Kevin that night she rang Jamie and told her, > **‘You’re not going to be the only f\*\*\*ing Spears on the front cover of a magazine next week!’** and then hung up.” Meanwhile Britney lost it when Kevin’s lawyer Mark Kaplan showed up at the house and tried to talk her round.
 
 ### Related Posts:
 

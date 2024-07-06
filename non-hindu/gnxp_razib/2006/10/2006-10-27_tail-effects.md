@@ -13,7 +13,7 @@ There’s another [article in Science](http://www.sciencemag.org/cgi/content/sum
 
 It appears to consist predominately of (1) rebuttals to straw-men arguments and (2) Lewontin-like claims that we’re all the same despite our differences. A great deal of the text deals with describing (without much detail) male-female differences on a variety of criteria.
 
-> The magnitude of each gender difference was measured using the d > statistic (6), d = (MM – MF)/sw,where MM is the mean score for males, > MF is the mean score for females, and sw is the pooled within-sex > standard deviation. The d statistic measures the distance between male > and female means, in standard deviation units.
+> The magnitude of each gender difference was measured using the d > statistic (6), d = (MM – MF)/sw,where MM is the mean score for males, MF is the mean score for females, and sw is the pooled within-sex standard deviation. The d statistic measures the distance between male and female means, in standard deviation units.
 
 They list a variety of metrics on which the sex-difference (measured in d) is small. They fail to mention the male advantage in spatial ability, but do mention the male advantage(?) in aggression. While focusing on differences in measures of ability among children, they relegate discussion of tail effects to the supplemental online text. There they mention tail effects as an effect of differences in variance, but ignore the fact that mean differences also cause tail effects.
 

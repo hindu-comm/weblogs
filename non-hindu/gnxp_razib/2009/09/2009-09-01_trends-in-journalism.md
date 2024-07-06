@@ -11,9 +11,9 @@ Trends in journalism
 
 [The Worst NYT Trend Story of the Year?](http://business.theatlantic.com/2009/09/the_worst_nyt_trend_story_of_the_year.php):
 
-> Here’s an early autumnal contender: Virginia Heffernan’s entirely > anecdotal story about a massive Facebook Exodus. How serious is this > Facebook exodus? Heffernan explains: >
+> Here’s an early autumnal contender: Virginia Heffernan’s entirely anecdotal story about a massive Facebook Exodus. How serious is this Facebook exodus? Heffernan explains: >
 > > The exodus is not evident from the site’s overall numbers. >
-> *The exodus is not evident from the site’s overall numbers!* Some > trend!
+> *The exodus is not evident from the site’s overall numbers!* Some trend!
 
 This is a serious problem. Anecdotes add spice to real data. As illustrations of something **real.** Too often journalism involves finding five people on the street who can agree with whatever “trend” you’ve made up. This reminds of how I was taught to write essays in Middle School, make up a thesis and find **n** facts to support the thesis. Who cares if those facts are representative of the distribution of facts in the real world! You got your thesis and you know what you are looking for. And secondarily, there is the problem of [trends](https://www.gnxp.com/blog/2008/06/your-generation-was-sluttier.php) [are](https://www.gnxp.com/blog/2008/06/your-generation-was-more-violent.php) so widely accepted as to become background assumptions, **but which turn out to be false upon even cursory examination.**
 

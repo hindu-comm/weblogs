@@ -137,11 +137,11 @@ The banana rind was used in some regions of India as a dye to give a black colou
 
 The banana was also a popular and inexpensive vehicle especially in Bengal. Scores of plantain stems were joined together and made into rafts. It would easily accommodate tens of people who floated on it on the river, from town to town. R.C. Majumdar narrates his childhood experience of this mode of travel.
 
-> In those days, there were neither buses nor trains; there were not > even the roads. So learning swimming was inevitable. No need for fuel, > no need to stand in the line, just jump into the water and swim to the > destination! **When we went to school we used to make rafts from the > banana tree stumps** or hollow palm logs to stay dry. (Emphasis > added) 
+> In those days, there were neither buses nor trains; there were not > even the roads. So learning swimming was inevitable. No need for fuel, > no need to stand in the line, just jump into the water and swim to the destination! **When we went to school we used to make rafts from the banana tree stumps** or hollow palm logs to stay dry. (Emphasis added) 
 
 If plantain leaves were used as plates in South India, they were used as substitutes for paper in Bengal. Both Indian and British records describe how “advanced students” in the traditional village schools of Bengal used plantain leaf for writing.
 
-> At the beginning they learn to write the alphabet on the floor, or on > a wooden board, with a piece of chalk. When they have had sufficient > practice in this mode of writing, they next use palm-leaves. Writing > on palm-leaves , they learn the alphabet and make some progress in > arithmetic. The next step is the plantain leaf, and lastly paper.
+> At the beginning they learn to write the alphabet on the floor, or on > a wooden board, with a piece of chalk. When they have had sufficient practice in this mode of writing, they next use palm-leaves. Writing on palm-leaves , they learn the alphabet and make some progress in arithmetic. The next step is the plantain leaf, and lastly paper.
 
 The creativity of Bengalis vis a vis the banana was almost limitless. In villages, dry plantain leaves were burnt, and its ash was used to wash clothes: a banana detergent if you will. 
 

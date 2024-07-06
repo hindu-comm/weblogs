@@ -11,7 +11,7 @@ How stupid do they think we are?
 
 Over at *Slate* [Jack Shafer talks about Gerald Posner’s plagiarism](http://www.slate.com/id/2244430/). Weirdly Posner seems to be positing an “efficient markets” model of why he couldn’t be a plagiarist:
 
-> Clearly, if I were a serial plagiarizer, I would have scanned my own > drafts with such \[plagiarism detection\] software before submitting > to the Beast.
+> Clearly, if I were a serial plagiarizer, I would have scanned my own drafts with such \[plagiarism detection\] software before submitting to the Beast.
 
 The [Ben Domenech case](https://en.wikipedia.org/wiki/Ben_Domenech) actually shows that yes, internet-age plagiarists can be pathologically dumb. There are plenty of cases of small-time plagiarists; my friend [Randall Parker](http://www.futurepundit.com/) of [FuturePundit](http://www.futurepundit.com/) was pointed to another blogger who was copying his posts almost verbatim. Small potatoes. But if you’re a professional journalist, **you’re going to get caught if you have *any* prominence if people can compare the text on the internet.**  
 I think catching people plagiarizing like this is a good sign that there are some mental peculiarities at work here; cognitive biases if you will. This isn’t cheating on college papers, unethical as it is, this is being unethical for short-term gains when there’s a very high probability that you’ll be caught and humiliated in public in the long -term.

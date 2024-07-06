@@ -11,10 +11,10 @@ Not the real Canada?
 
 Amusing. [Some Fans in Canada See Vancouver as Foreign](http://www.nytimes.com/2011/05/15/sports/hockey/vancouver-canucks-may-not-be-canadas-team.html?ref=global-home&pagewanted=print):
 
-> If you are American, you might think that the Vancouver Canucks are > now Canada’s team because they are the last Canada-based club standing > among the final four in the Stanley Cup playoffs. Well, think again. >
-> “Dear rest of Canada — please get your own hockey team” was the > headline to an opinion article last week in The Vancouver Sun, > encapsulating the leave-us-alone attitude many Canucks fans are taking > in the face of a roiling swelling of both affection and, more often, > revulsion for their team across the country. >
-> The columnist, Pete McMartin, cited the mounting evidence of recent > days that Canadians had turned on the Canucks for having several top > players who are American or Swedish, and playing in Vancouver, > traditionally derided as a mild-weather Lotus Land by those from east > of British Columbia. >
-> He cited the hundreds of “virulently anti-Canuck” messages on a > Calgary Web site posted during the Canucks-Predators series; an > interview in an Edmonton paper with a Finnish hockey writer based in > Vancouver who said: “How Canadian a city is Vancouver to start with? > It never snows. It never freezes”; and various pronouncements from > writers and bloggers across Canada disavowing any support for the > Canucks in the quest for the first Stanley Cup in their 40 years of > existence.
+> If you are American, you might think that the Vancouver Canucks are now Canada’s team because they are the last Canada-based club standing among the final four in the Stanley Cup playoffs. Well, think again. >
+> “Dear rest of Canada — please get your own hockey team” was the > headline to an opinion article last week in The Vancouver Sun, encapsulating the leave-us-alone attitude many Canucks fans are taking in the face of a roiling swelling of both affection and, more often, revulsion for their team across the country. >
+> The columnist, Pete McMartin, cited the mounting evidence of recent > days that Canadians had turned on the Canucks for having several top players who are American or Swedish, and playing in Vancouver, traditionally derided as a mild-weather Lotus Land by those from east of British Columbia. >
+> He cited the hundreds of “virulently anti-Canuck” messages on a > Calgary Web site posted during the Canucks-Predators series; an > interview in an Edmonton paper with a Finnish hockey writer based in > Vancouver who said: “How Canadian a city is Vancouver to start with? > It never snows. It never freezes”; and various pronouncements from writers and bloggers across Canada disavowing any support for the Canucks in the quest for the first Stanley Cup in their 40 years of existence.
 
 (click to trigger video)
 

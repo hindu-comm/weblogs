@@ -11,7 +11,7 @@ Mike Duvall, "It wasn't me!"
 
 [Disgraced California lawmaker denies affairs](https://www.google.com/hostednews/ap/article/ALeqM5gogMox_dSaDYvRr9NtuG4xBn0lvAD9AKLGO80):
 
-> A pro-family values California lawmaker who resigned after being > caught on tape boasting about his sexual conquests denied Thursday > that he had extramarital affairs, saying “my offense was engaging in > inappropriate storytelling.
+> A pro-family values California lawmaker who resigned after being caught on tape boasting about his sexual conquests denied Thursday that he had extramarital affairs, saying “my offense was engaging in inappropriate storytelling.
 
   
 [Shaggy-It wasn’t me](http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=34959611)

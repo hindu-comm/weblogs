@@ -13,7 +13,8 @@ Scientific American link round up on Bruce Lahn
 
 ### Related Posts:
 
-- [Bruce Lahn - single
+- [Bruce Lahn
+- single
   guy](https://www.gnxp.com/WordPress/2006/06/15/bruce-lahn-single-guy/) - [Bruce Lahn, gene thug strikes
   again](https://www.gnxp.com/WordPress/2006/12/22/bruce-lahn-gene-thug-strikes-again/) - [Thug
   geneticist?](https://www.gnxp.com/WordPress/2006/08/02/thug-geneticist/) - [10 Questions for Bruce

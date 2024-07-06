@@ -11,7 +11,7 @@ Norm of reaction and Williams Syndrome
 
 [Cite](http://www.sciencedaily.com/releases/2007/01/070125110741.htm):
 
-> Despite the differences in upbringing, in both countries children with > Williams syndrome were rated significantly higher in global > sociability and their tendency to approach strangers than were their > typically developing counterparts. But cultural expectations clearly > influenced social behavior, **since the sociability of normal American > kids was on par with Japanese Williams syndrome kids**, whose social > behavior is considered out of bounds in their native country.
+> Despite the differences in upbringing, in both countries children with > Williams syndrome were rated significantly higher in global > sociability and their tendency to approach strangers than were their > typically developing counterparts. But cultural expectations clearly influenced social behavior, **since the sociability of normal American kids was on par with Japanese Williams syndrome kids**, whose social behavior is considered out of bounds in their native country.
 
 [Norm of reaction](https://en.wikipedia.org/wiki/Norm_of_reaction) “describes the pattern of phenotypic expression of a **single genotype** across a range of environments.” So it seems there is a weakness in this study: Americans (mostly of European ancestry) do not share the same genetic background as Japanese. So a better test would be Japanese American children with Williams Syndrome vs. Japanese.
 

@@ -11,10 +11,10 @@ Skull Shape-Shifters
 
 The UK **Times** today has a short [report](http://www.timesonline.co.uk/tol/news/uk/science/article2324459.ece) into some surprising research findings. The main text is as follows:
 
-> A study into the mysterious changing skull shape of medieval man casts > serious doubt on current theories. >
-> The peculiar shift from long narrow heads to those of a rounder shape, > and back again, which took place between the 11th and 13th centuries, > has been noted at sites throughout western Europe. But a study of > skulls found at the deserted village of Wharram Percy, near Malton, > North Yorkshire, suggests that the anatomical blip was not down to an > influx of Norman immigrants, or climate change, English Heritage has > said. >
-> It examined nearly 700 skeletons recovered from the village. Unlike > other research, data from the Wharram site traces the change to a > single, indigenous community which has been radiocarbon-dated. >
-> Simon Mays, a skeletal biologist, said: “Our work has yielded few > clues on why skulls changed, but we have cast serious doubt on some of > the current theories. Despite the best efforts of science, we’re still > in the dark to explain why it happened.”
+> A study into the mysterious changing skull shape of medieval man casts serious doubt on current theories. >
+> The peculiar shift from long narrow heads to those of a rounder shape, > and back again, which took place between the 11th and 13th centuries, > has been noted at sites throughout western Europe. But a study of > skulls found at the deserted village of Wharram Percy, near Malton, North Yorkshire, suggests that the anatomical blip was not down to an influx of Norman immigrants, or climate change, English Heritage has said. >
+> It examined nearly 700 skeletons recovered from the village. Unlike other research, data from the Wharram site traces the change to a single, indigenous community which has been radiocarbon-dated. >
+> Simon Mays, a skeletal biologist, said: “Our work has yielded few clues on why skulls changed, but we have cast serious doubt on some of the current theories. Despite the best efforts of science, we’re still in the dark to explain why it happened.”
 
 Another [report](http://www.guardian.co.uk/science/2007/aug/25/1?gusrc=rss&feed=science), in the **Guardian**, has more detail, including the important point that the changes are only found in male skulls.
 

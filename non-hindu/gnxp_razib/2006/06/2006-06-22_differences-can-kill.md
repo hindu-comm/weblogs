@@ -11,7 +11,7 @@ Differences can kill
 
 [Three human gene variants appear to influence tb susceptibility](http://www.eurekalert.org/pub_releases/2006-06/hsop-thg062206.php):
 
-> Approximately one-third of the world’s population is thought to be > infected with the M. tuberculosis pathogen, yet only about 10 percent > becomes ill with the active disease. Researchers suspect that a > variety of factors interplay to determine who develops the full-blown > disease. For example, in February 2006 Harvard School of Public Health > (HSPH) researchers were part of a team that identified a mechanism > that explains why people of African descent may be more vulnerable to > the disease.
+> Approximately one-third of the world’s population is thought to be > infected with the M. tuberculosis pathogen, yet only about 10 percent > becomes ill with the active disease. Researchers suspect that a > variety of factors interplay to determine who develops the full-blown > disease. For example, in February 2006 Harvard School of Public Health (HSPH) researchers were part of a team that identified a mechanism that explains why people of African descent may be more vulnerable to the disease.
 
 The paper is reputedly in the [*PNAS* – Early Edition](http://www.pnas.org/papbyrecent.shtml) section.
 

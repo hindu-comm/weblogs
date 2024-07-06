@@ -14,7 +14,8 @@ Via [Kambiz](http://anthropology.net/user/kambiz_kamrani/blog/2006/11/22/genghis
 
 ### Related Posts:
 
-- [Day 6 of hot sauce - Ass in the
+- [Day 6 of hot sauce
+- Ass in the
   Tub](https://www.gnxp.com/WordPress/2007/04/01/day-6-of-hot-sauce-ass-in-the-tub/) - [Meat & trade & per capita income of the Roman
   Empire](https://www.gnxp.com/WordPress/2008/03/15/meat-trade-per-capita-income-of-the-roman-empire/) - [Romans in
   China](https://www.gnxp.com/WordPress/2007/02/03/romans-in-china/) - [My new blog about health, nutrition, and

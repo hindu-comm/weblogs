@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2017/07/25/on-the-precipice-of-the
 
 On the precipice of the Kali Yuga
 
-> priests are boring & teens aren’t invested in their faith, said no one > who has ever been to a Saturday night at > [@go2steubenville](https://twitter.com/go2steubenville) > [\#SteubieOTL](https://twitter.com/hashtag/SteubieOTL?src=hash) > [pic.twitter.com/9wq03CYuGZ](https://t.co/9wq03CYuGZ) >
-> — KatiePrejean McGrady (@KatiePrejean) [July 23, > 2017](https://twitter.com/KatiePrejean/status/889115800904380416)
+> priests are boring & teens aren’t invested in their faith, said no one > who has ever been to a Saturday night at [@go2steubenville](https://twitter.com/go2steubenville) [\#SteubieOTL](https://twitter.com/hashtag/SteubieOTL?src=hash) [pic.twitter.com/9wq03CYuGZ](https://t.co/9wq03CYuGZ) >
+> — KatiePrejean McGrady (@KatiePrejean) [July 23, 2017](https://twitter.com/KatiePrejean/status/889115800904380416)
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/07/xunzicomplete.jpeg?resize=182%2C277)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/07/xunzicomplete.jpeg?resize=182%2C277)](https://www.amazon.com/exec/obidos/ASIN/B00KUCTP2M/geneexpressio-20)The idea of decline is an old one. See [The Idea of Decline in Western History](https://www.amazon.com/exec/obidos/ASIN/B003ODIRMS/geneexpressio-20) for a culturally delimited view. But whether it is Pandora opening her box or Eve biting the apple, the concept of an idyllic past and the ripeness of imminent decline seems baked into the cake of human cultural cognition. **It was *always* better in the good old days.**
 

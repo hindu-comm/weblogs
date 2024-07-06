@@ -11,8 +11,8 @@ Parents matter…and they don't
 
 First, [Daddies’ girls choose men just like their fathers](http://www.eurekalert.org/pub_releases/2007-06/du-dgc061107.php):
 
-> Women who enjoy good childhood relationships with their fathers are > more likely to select partners who resemble their dads research > suggests. In contrast, the team of psychologists from Durham > University and two Polish institutions revealed that women who have > negative or less positive relationships were not attracted to men who > looked like their male parents. >
-> Due to be published in the July issue of Evolution and Human > Behaviour, the study investigated evidence of parental sexual > imprinting, the sexual preference for individuals possessing parental > characteristics, in women. The team used facial measurements to give a > clear view of how fathers’ facial features relate directly to the > features of faces their daughters find attractive.
+> Women who enjoy good childhood relationships with their fathers are > more likely to select partners who resemble their dads research > suggests. In contrast, the team of psychologists from Durham University and two Polish institutions revealed that women who have negative or less positive relationships were not attracted to men who looked like their male parents. >
+> Due to be published in the July issue of Evolution and Human > Behaviour, the study investigated evidence of parental sexual > imprinting, the sexual preference for individuals possessing parental characteristics, in women. The team used facial measurements to give a clear view of how fathers’ facial features relate directly to the features of faces their daughters find attractive.
 
 This comes *very close* in my book to “they had to do a study on that???” That being said, it is somewhat interesting in light of the finding that [daughters](http://scienceblogs.com/gnxp/2006/05/fathers_allele_knows_best.php) [prefer men](http://scienceblogs.com/gnxp/2006/05/fathers_allele_knows_best.php) who smell like dad (MHC).
 

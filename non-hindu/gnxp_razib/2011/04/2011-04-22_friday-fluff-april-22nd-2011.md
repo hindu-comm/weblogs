@@ -18,14 +18,15 @@ Friday Fluff – April 22nd, 2011
 
 3\) **Comment of the week**, in response to [“Two opinions on D.T.C. personal genomic testing”](http://blogs.discovermagazine.com/gnxp/2011/04/two-opinions-on-d-t-c-personal-genomic-testing/#comment-65037):
 
-> I say go further. Ban all medical-related information from the > internet (nobody knows what patients might be dangerously > misunderstanding about their diseases) and refashion MDs as Rightful > Medical Elders (or Gurus). Books for the specialists only please. An > idea would be rewriting them all in some hard to learn obscure > language for better protection of the innocent. Enough of this > knowledge nonsense – everybody knows already knowledge is only there > to be abused in ways harmful to poor defenseless intellect-deprived > people, threatening the stability of society as a whole.
+> I say go further. Ban all medical-related information from the > internet (nobody knows what patients might be dangerously > misunderstanding about their diseases) and refashion MDs as Rightful > Medical Elders (or Gurus). Books for the specialists only please. An > idea would be rewriting them all in some hard to learn obscure > language for better protection of the innocent. Enough of this knowledge nonsense – everybody knows already knowledge is only there to be abused in ways harmful to poor defenseless intellect-deprived people, threatening the stability of society as a whole.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/stalker.jpg?resize=600%2C322)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/stalker.jpg?resize=600%2C322)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/stalker.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - April 29th,
+- [Friday Fluff
+- April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff - April 15th,
   2011](https://www.gnxp.com/WordPress/2011/04/15/friday-fluff-april-14th-2011/) - [Friday Fluff - July 22nd,
   2011](https://www.gnxp.com/WordPress/2011/07/22/friday-fluff-july-22nd-2011/) - [Friday Fluff - April 1st,

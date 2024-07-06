@@ -9,21 +9,23 @@ Source: [here](https://www.gnxp.com/WordPress/2017/12/12/most-people-say-they-th
 
 Most people say they think nurture is more important than nature, especially white Americans
 
-> It’s very hard to know what Americans think about nature vs. nurture, > but I heavily suspect that many or most casually believe that nature > is all-important. > [pic.twitter.com/OLeTrbQDgI](https://t.co/OLeTrbQDgI) >
-> — Noah Smith (@Noahpinion) [December 12, > 2017](https://twitter.com/Noahpinion/status/940625925997133826?ref_src=twsrc%5Etfw)
+> It’s very hard to know what Americans think about nature vs. nurture, but I heavily suspect that many or most casually believe that nature is all-important. [pic.twitter.com/OLeTrbQDgI](https://t.co/OLeTrbQDgI) >
+> — Noah Smith (@Noahpinion) [December 12, 2017](https://twitter.com/Noahpinion/status/940625925997133826?ref_src=twsrc%5Etfw)
 
   
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/blankslate.jpeg?resize=180%2C279)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/blankslate.jpeg?resize=180%2C279)](https://www.amazon.com/exec/obidos/ASIN/0670031518/geneexpressio-20)There was a discussion on Twitter about the belief in nature vs. nurture among the American populace. The [General Social Survey](sda.berkeley.edu/sdaweb/analysis?dataset=gss16) actually has some questions related to this. They are the variables: GENENVO1, GENENVO2, GENENVO3 and GENENVO4.
 
 These all ask the following question about different scenarios:
 
-> Character, personality, and many types of behavior are influenced both > by the genes people inherit from their parents and by what they learn > and experience as they grow up. For each of the following > descriptions, we would like you to indicate what percent of the > person’s behavior you believe is influenced by the genes they inherit, > and what percent is influenced by their learning and experience and > other aspects of their environment. The boxes on handcard D1 are > arranged so that the first box on the LEFT (which is numbered 1) > represents 100% genetic influence (and 0% environment). **The next box > (numbered 2) represents 95% genes (and 5% environment), and so on. The > RIGHTMOST box (numbered 21) represents 100% environmental influence > (and no genetic influence).** After each description, please type the > number of the box that comes closest to your answer. Please use the > numbered scale on handcard D1 to indicate, FOR EACH OF THE BEHAVIORS > DESCRIBED, what percent of the person’s behavior you think is > influenced by the genes they inherit, and what percent is influenced > by their learning and experience. After each question, type the number > of the box that comes closest to your answer. Remember, the higher the > number, the more you think the behavior is influenced by learning and > experience; the lower the number, the more you think it is influenced > by genes
+> Character, personality, and many types of behavior are influenced both > by the genes people inherit from their parents and by what they learn > and experience as they grow up. For each of the following > descriptions, we would like you to indicate what percent of the > person’s behavior you believe is influenced by the genes they inherit, > and what percent is influenced by their learning and experience and > other aspects of their environment. The boxes on handcard D1 are > arranged so that the first box on the LEFT (which is numbered 1) > represents 100% genetic influence (and 0% environment). **The next box > (numbered 2) represents 95% genes (and 5% environment), and so on. The > RIGHTMOST box (numbered 21) represents 100% environmental influence > (and no genetic influence).** After each description, please type the > number of the box that comes closest to your answer. Please use the > numbered scale on handcard D1 to indicate, FOR EACH OF THE BEHAVIORS > DESCRIBED, what percent of the person’s behavior you think is > influenced by the genes they inherit, and what percent is influenced > by their learning and experience. After each question, type the number > of the box that comes closest to your answer. Remember, the higher the number, the more you think the behavior is influenced by learning and experience; the lower the number, the more you think it is influenced by genes
 
 I decided to convert the 1-21 scale into quartiles. So that instead of 21 categories there were 4, defined as people who think it is 75-100% genes, 50-75%, 25-50% genes, and 0-25% genes (lower numbers equals “more blank slate”). I also decided to control for demography. For sample size reasons I created two ethno-racial categories, black and white, for non-Hispanics. I divided these into those with high school educations or less, or college educations or more. These questions were asked in 2004.
 
 Some generalizations:
 
-- Americans believe more in nurture than nature. - Educated Americans believe more in nurture, not nature. - White Americans believe more in nurture, not nature.
+- Americans believe more in nurture than nature.
+- Educated Americans believe more in nurture, not nature.
+- White Americans believe more in nurture, not nature.
 
 None of this is surprising to me. I was in graduate school studying genetics, and I can tell you that on behavioral stuff most geneticists believe nurture is dominant (with the exception of those who study behavioral stuff).
 

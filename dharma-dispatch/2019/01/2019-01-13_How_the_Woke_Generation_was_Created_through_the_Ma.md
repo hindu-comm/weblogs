@@ -71,11 +71,11 @@ Exactly a century later, the aborted experiment of the Hungarian Marxist pervert
 
 In 2019, more than two hundred and forty primary schools in England introduced a lesson titled *All About Me* taught to kids aged six to ten. As part of this, teachers were given a manual which has a section titled, *The Rules of Self-Stimulation.* Its excerpts make for chilling reading:
 
-> Lots of people like to tickle or stroke themselves as it might feel > nice. They might play with their hair, stroke their skin, or they may > even touch their private parts. This is really very normal. However, > some people…say that it is dirty. This is strange as it is very > normal, however, it is not polite to do it when other people are > about. It is something we should only do when we are alone, perhaps in > the bath or shower or bed, a bit like picking your nose, it is > certainly not polite to do it in class when everyone is watching.
+> Lots of people like to tickle or stroke themselves as it might feel > nice. They might play with their hair, stroke their skin, or they may > even touch their private parts. This is really very normal. However, > some people…say that it is dirty. This is strange as it is very > normal, however, it is not polite to do it when other people are about. It is something we should only do when we are alone, perhaps in the bath or shower or bed, a bit like picking your nose, it is certainly not polite to do it in class when everyone is watching.
 
 And then, the California Education Board informs us what kids of this age bracket should be taught in school: public school teachers should teach children about gender identity and the most effective ways to have safe sex. Here is another excerpt.
 
-> It gives tips for discussing masturbation with middle-schoolers, > including telling them it is not physically harmful.
+> It gives tips for discussing masturbation with middle-schoolers, including telling them it is not physically harmful.
 
 Outraged parents immediately hit back correctly claiming that pornography was being taught to kids in the guise of sex education. Which brings us back to the aforementioned Marxist pervert, György Lukács, one of the pioneers of the notorious Frankfurt School and cultural Marxism.
 
@@ -91,7 +91,7 @@ A hundred yards from where I write this, 12-year-old prostitutes often stand und
 
 Theodore Dalrymple, one of the finest minds of our time, wrote these lines in the summer of 2000 sitting at his desk in London. As terrible as this is, it is not the whole story. The whole story is the attitude of both the British government and the society it supposedly governs. Here is another slice of that society.
 
-> The local health authorities send a van round several times at night > to distribute condoms to the girls, the main official concern being to > ensure that the sex in which the girls take part is safe… It is the > authorities' proud boast that 100 percent of local prostitutes now > routinely use condoms, at a cost to the city's taxpayers of \$135,000 > a year, soon to be increased by the employment of a further outreach > worker, whose main qualification…will be "an ability to work > non-judgmentally"—that is, TO HAVE NO MORAL QUALMS ABOUT AIDING AND > ABETTING CHILD PROSTITUTION.
+> The local health authorities send a van round several times at night > to distribute condoms to the girls, the main official concern being to > ensure that the sex in which the girls take part is safe… It is the > authorities' proud boast that 100 percent of local prostitutes now > routinely use condoms, at a cost to the city's taxpayers of \$135,000 > a year, soon to be increased by the employment of a further outreach worker, whose main qualification…will be "an ability to work non-judgmentally"—that is, TO HAVE NO MORAL QUALMS ABOUT AIDING AND ABETTING CHILD PROSTITUTION.
 
 But then, Theodore Dalrymple was only describing an outcome which was foreseen decades ago when sex education in schools was first introduced in the West. A fine essay on the subject is by the British child psychologist, Louise Eickhoff who wrote in the September 19, 1970 issue of the *The Guardian.* The following are some excerpts from that essay, relevant even today. Emphases have been added.
 

@@ -11,11 +11,11 @@ Microsoft myths that won't die
 
 At the end of an otherwise good reflection in the WSJ on [where Google can go from here](http://online.wsj.com/article/SB125114360900554725.html), we read the following:
 
-> It would be foolish to predict that Google won’t have another business > success, of course. Microsoft managed to leverage its strength in PC > operating systems into a stranglehold over the word-processing and > spreadsheet applications.
+> It would be foolish to predict that Google won’t have another business success, of course. Microsoft managed to leverage its strength in PC operating systems into a stranglehold over the word-processing and spreadsheet applications.
 
 Stan Liebowitz and Stephen Margolis debunked this at least 10 years ago in their book [Winners, Losers, and Microsoft](https://www.amazon.com/exec/obidos/ASIN/0945999844/geneexpressio-20/), and probably earlier, though I can’t recall which journal article it originally appeared in. Scroll down to [Figure 8.18 at Liebowitz’s website](http://www.utdallas.edu/~liebowit/book/wordprocessor/word.html), which shows the market share of Excel and Word in the Macintosh vs. Windows markets. They conclude:
 
-> Examination of Figure 8.18 reveals that Microsoft achieved very high > market shares in the Macintosh market even while it was still > struggling in the PC market. On average, Microsoft’s market share was > about forty to sixty percentage points higher in the Macintosh market > than in the PC market in the 1988-1990 period. It wasn’t until 1996 > that Microsoft was able to equal in the PC market its success in the > Macintosh market. These facts can be used to discredit a claim > sometime heard that Microsoft only achieved success in applications > because it owned the operating system, since Apple, not Microsoft, > owned the Macintosh operating system and Microsoft actually competed > with Apple products in these markets.
+> Examination of Figure 8.18 reveals that Microsoft achieved very high > market shares in the Macintosh market even while it was still > struggling in the PC market. On average, Microsoft’s market share was > about forty to sixty percentage points higher in the Macintosh market > than in the PC market in the 1988-1990 period. It wasn’t until 1996 > that Microsoft was able to equal in the PC market its success in the > Macintosh market. These facts can be used to discredit a claim > sometime heard that Microsoft only achieved success in applications because it owned the operating system, since Apple, not Microsoft, owned the Macintosh operating system and Microsoft actually competed with Apple products in these markets.
 
 ### Related Posts:
 

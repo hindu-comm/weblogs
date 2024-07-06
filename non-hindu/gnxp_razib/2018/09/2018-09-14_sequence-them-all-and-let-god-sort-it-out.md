@@ -11,10 +11,10 @@ Sequence them all and let God sort it out!
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/09/the_gene.jpeg?resize=177%2C284&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/09/the_gene.jpeg?resize=177%2C284&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B017I25DCC/geneexpressio-20/ref=as_at/?imprToken=Jq8d5if2Gritxc0D.HmJ7g&slotNum=47&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)[Researchers reboot ambitious effort to sequence all vertebrate genomes, but challenges loom](http://www.sciencemag.org/news/2018/09/researchers-reboot-ambitious-effort-sequence-all-vertebrate-genomes-challenges-loom):
 
-> In a bid to garner more visibility and support, researchers eager to > sequence the genomes of all vertebrates today officially launched the > Vertebrate Genomes Project (VGP), releasing 15 very high quality > genomes of 14 species. But the group remains far short of raising the > funds it will need to document the genomes of the estimated 66,000 > vertebrates living on Earth. >
-> The project, which has been underway for 3 years, is a revamp and > renaming of an effort begun in 2009 called the Genome 10K Project > (G10K), which aimed to decipher the genomes of 10,000 vertebrates. > G10K produced about 100 genomes, but they were not very detailed, in > part because of the cost of sequencing. Now, however, the cost of > high-quality sequencing has dropped to less than \$15,000 per billion > DNA bases… >
+> In a bid to garner more visibility and support, researchers eager to > sequence the genomes of all vertebrates today officially launched the > Vertebrate Genomes Project (VGP), releasing 15 very high quality genomes of 14 species. But the group remains far short of raising the funds it will need to document the genomes of the estimated 66,000 vertebrates living on Earth. >
+> The project, which has been underway for 3 years, is a revamp and > renaming of an effort begun in 2009 called the Genome 10K Project > (G10K), which aimed to decipher the genomes of 10,000 vertebrates. > G10K produced about 100 genomes, but they were not very detailed, in part because of the cost of sequencing. Now, however, the cost of high-quality sequencing has dropped to less than \$15,000 per billion DNA bases… >
 > … >
-> Funding remains an obstacle. To date, the VGP has raised \$2.5 million > of the \$6 million needed to sequence a representative species from > each of the 260 major branches of the vertebrate family tree. To reach > the goal of all 66,000 vertebrates **will require about \$600 > million**, Jarvis says.
+> Funding remains an obstacle. To date, the VGP has raised \$2.5 million > of the \$6 million needed to sequence a representative species from each of the 260 major branches of the vertebrate family tree. To reach the goal of all 66,000 vertebrates **will require about \$600 million**, Jarvis says.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/09/13059_2018_1506_Fig1_HTML-2.jpg?resize=300%2C222&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/09/13059_2018_1506_Fig1_HTML-2.jpg?resize=300%2C222&ssl=1)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1506-1)Though a lot of the details are different (sequencing vs. genotyping, vertebrates vs. humans), many of the general issues that David Mittelman and I brought up in our *Genome Biology* comment, [Consumer genomics will change your life, whether you get tested or not](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1506-1), apply. That is, **to some extent this is an area of science where technology and economics are just as important as science in driving progress**.
 
@@ -22,8 +22,8 @@ I remember back in graduate school that people were talking about sequencing hun
 
 And yet this brings up a reasonable question from many scientists who came up in an era of more data scarcity: **what are the questions we’re trying to answer here?**
 
-> Challenges include justifying sequencing all these crappy genomes > without research communities behind them <https://t.co/HjpIlhXDSu> >
-> — Andrew Kern (@pastramimachine) [September 14, > 2018](https://twitter.com/pastramimachine/status/1040569608049049600?ref_src=twsrc%5Etfw)
+> Challenges include justifying sequencing all these crappy genomes without research communities behind them <https://t.co/HjpIlhXDSu> >
+> — Andrew Kern (@pastramimachine) [September 14, 2018](https://twitter.com/pastramimachine/status/1040569608049049600?ref_src=twsrc%5Etfw)
 
 Science involves people. It’s not an abstraction. Throwing a whole lot of data out there does not mean that someone will be there to analyze it, or, that we’ll get interesting insights. To be frank, the original Human Genom Project project should probably tell us that, as its short-termbenefitswere clearly oversold.
 

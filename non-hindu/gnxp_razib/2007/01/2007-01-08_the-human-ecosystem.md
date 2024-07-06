@@ -11,7 +11,7 @@ The human ecosystem
 
 [Bacteria treat pain](http://www.nature.com/nm/journal/v13/n1/abs/nm1521.html)?
 
-> Abdominal pain is common in the general population and, in patients > with irritable bowel syndrome, is attributed to visceral > hypersensitivity. We found that oral administration of specific > Lactobacillus strains induced the expression of mu-opioid and > cannabinoid receptors in intestinal epithelial cells, and mediated > analgesic functions in the gutâ€”similar to the effects of morphine. > These results suggest that **the microbiology of the intestinal tract > influences our visceral perception**, and suggest new approaches for > the treament of abdominal pain and irritable bowel syndrome
+> Abdominal pain is common in the general population and, in patients > with irritable bowel syndrome, is attributed to visceral > hypersensitivity. We found that oral administration of specific > Lactobacillus strains induced the expression of mu-opioid and > cannabinoid receptors in intestinal epithelial cells, and mediated > analgesic functions in the gutâ€”similar to the effects of morphine. These results suggest that **the microbiology of the intestinal tract influences our visceral perception**, and suggest new approaches for the treament of abdominal pain and irritable bowel syndrome
 
 ### Related Posts:
 

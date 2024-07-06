@@ -11,7 +11,7 @@ A moral instinct?
 
 Steven Pinker has a new essay in *The New York Times Magazine*, [The Moral Instinct](http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?pagewanted=all). Chris of [Mixing Memory](http://scienceblogs.com/mixingmemory/) is critical of Pinker when he goes outside of his specialization in the psychology of language…but I did enjoy the ending:
 
-> Far from debunking morality, then, the science of the moral sense can > advance it, by allowing us to see through the illusions that evolution > and culture have saddled us with and to focus on goals we can share > and defend. As Anton Chekhov wrote, “Man will become better when you > show him what he is like.”
+> Far from debunking morality, then, the science of the moral sense can > advance it, by allowing us to see through the illusions that evolution and culture have saddled us with and to focus on goals we can share and defend. As Anton Chekhov wrote, “Man will become better when you show him what he is like.”
 
 Knowledge is power.
 

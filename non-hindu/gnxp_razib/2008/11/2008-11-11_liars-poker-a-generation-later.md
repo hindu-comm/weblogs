@@ -11,11 +11,11 @@ Liar’s Poker a generation later
 
 Michael Lewis has a [very long piece](http://www.portfolio.com/news-markets/national-news/portfolio/2008/11/11/The-End-of-Wall-Streets-Boom?print=true) up sketching out the fever dream that was the late great Wall Street:
 
-> This was what they had been waiting for: total collapse. “The > investment-banking industry is fucked,” Eisman had told me a few weeks > earlier. “These guys are only beginning to understand how fucked they > are. **It’s like being a Scholastic, prior to Newton. Newton comes > along, and one morning you wake up: ‘Holy shit, I’m wrong!’ ”** Now > Lehman Brothers had vanished, Merrill had surrendered, and Goldman > Sachs and Morgan Stanley were just a week away from ceasing to be > investment banks. The investment banks were not just fucked; they were > extinct.
+> This was what they had been waiting for: total collapse. “The > investment-banking industry is fucked,” Eisman had told me a few weeks > earlier. “These guys are only beginning to understand how fucked they > are. **It’s like being a Scholastic, prior to Newton. Newton comes > along, and one morning you wake up: ‘Holy shit, I’m wrong!’ ”** Now > Lehman Brothers had vanished, Merrill had surrendered, and Goldman Sachs and Morgan Stanley were just a week away from ceasing to be investment banks. The investment banks were not just fucked; they were extinct.
 
 I of course enjoyed the scientific analogy. The smarter an individual is the better the approximation of the “rational actor,” [H. economicus](https://en.wikipedia.org/wiki/Homo_economicus). But, smart people are also often much better at executing really stupid or irresponsible actions. e.g.:
 
-> … It specialized in asking home owners with bad credit and no proof of > income to put no money down and defer interest payments for as long as > possible. In Bakersfield, California, **a Mexican strawberry picker > with an income of \$14,000 and no English was lent every penny he > needed to buy a house for \$720,000.**
+> … It specialized in asking home owners with bad credit and no proof of > income to put no money down and defer interest payments for as long as possible. In Bakersfield, California, **a Mexican strawberry picker with an income of \$14,000 and no English was lent every penny he needed to buy a house for \$720,000.**
 
 ### Related Posts:
 

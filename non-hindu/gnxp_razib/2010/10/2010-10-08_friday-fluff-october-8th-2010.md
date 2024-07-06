@@ -17,7 +17,7 @@ Friday Fluff – October 8th, 2010
 
 3\. **Comment of the week**, in response to [Things are looking up for the world’s poor!](http://blogs.discovermagazine.com/gnxp/2010/10/things-are-looking-up-for-the-worlds-poor/#comment-42031):
 
-> These are all percentages, and the rates of increases are generally > lower than the population increases in poor parts of the world. So > while the percentage of malnutrition, for example, may be increasing > by 3% per decade, the total number of malnurished people is still > increasing due to the increase in population.
+> These are all percentages, and the rates of increases are generally > lower than the population increases in poor parts of the world. So while the percentage of malnutrition, for example, may be increasing by 3% per decade, the total number of malnurished people is still increasing due to the increase in population.
 
 A perfect illustration of the dynamic noted [earlier](http://blogs.discovermagazine.com/gnxp/2010/10/things-are-looking-up-for-the-worlds-poor/#comment-41949) (as a factual matter the comment above may, or may not, be correct by the way; depends on the statistics you look at. Though a true pessimistic can point out that there are hundreds of millions of more malnourished people alive today than in 1700).
 
@@ -30,7 +30,8 @@ A perfect illustration of the dynamic noted [earlier](http://blogs.discovermagaz
 
 ### Related Posts:
 
-- [Friday Fluff - October 29th,
+- [Friday Fluff
+- October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [Friday Fluff - September 24th,
   2010](https://www.gnxp.com/WordPress/2010/09/24/friday-fluff-september-24th-2010/) - [Friday Fluff – November 19th,
   2010](https://www.gnxp.com/WordPress/2010/11/19/friday-fluff-november-19th-2010/) - [Friday Fluff - September 17th,

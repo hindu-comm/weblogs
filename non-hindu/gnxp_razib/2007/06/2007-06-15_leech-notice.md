@@ -16,7 +16,9 @@ Pathetic.
 
 ### Related Posts:
 
-- [Admin, etc.](https://www.gnxp.com/WordPress/2007/02/20/admin-etc/) - [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/) - [Notes on the
+- [Admin, etc.](https://www.gnxp.com/WordPress/2007/02/20/admin-etc/)
+- [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/)
+- [Notes on the
   future](https://www.gnxp.com/WordPress/2011/01/27/notes-on-the-future/) - [First among
   "equals"?](https://www.gnxp.com/WordPress/2007/05/10/first-among-equals/) - [Who manages PNAS'
   site?](https://www.gnxp.com/WordPress/2006/06/28/who-manages-pnas-site/) - [Template

@@ -11,9 +11,9 @@ Hobbit horizons…
 
 For those of you in the UK, check out [BBC’s Horizon](http://news.bbc.co.uk/1/hi/sci/tech/4268122.stm) **tonight** for more on the Flores “[microcephaly or not](http://www.corante.com/loom/archives/2005/04/29/hobbits_alive.php)” question. (More here: [Hobbit hhhmm….](https://www.gnxp.com/MT2/archives/003940.html))
 
-> *Professor Bob Martin, one of the team that is set to publish new > evidence challenging the discovery team’s original interpretation, > says the Hobbit’s brain is “worryingly” small and contradicts a > fundamental law of biology.* >
-> *“What this law says in simple terms is that if you halve body size, > brain size is only reduced by 15%,” he told the BBC’s Horizon > programme.* >
-> *“So if you halve body size you don’t halve brain size, the brain is > reduced far less than that.”*
+> *Professor Bob Martin, one of the team that is set to publish new evidence challenging the discovery team’s original interpretation, says the Hobbit’s brain is “worryingly” small and contradicts a fundamental law of biology.* >
+> *“What this law says in simple terms is that if you halve body size, brain size is only reduced by 15%,” he told the BBC’s Horizon programme.* >
+> *“So if you halve body size you don’t halve brain size, the brain is reduced far less than that.”*
 
 ### Related Posts:
 

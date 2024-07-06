@@ -11,12 +11,12 @@ Male dominance not all that?
 
 [Tyler](http://www.marginalrevolution.com/) points me to a new paper coming out in PNAS, *Male dominance rarely skews the frequency distribution of Y chromosome haplotypes in human populations*. It isn’t on the site yet, but [New Scientist](http://www.newscientist.com/article/dn14467-male-dominance-is-no-guarantee-of-genetic-success.html?DCMP=ILC-hmts&nsref=news7_head_dn14467) has a write up:
 
-> To determine whether dominance could last more than a couple > generations, Watkins and a team of anthropologists and geneticists > sifted through the DNA of 1269 males from 41 Indonesian communities.  
+> To determine whether dominance could last more than a couple generations, Watkins and a team of anthropologists and geneticists sifted through the DNA of 1269 males from 41 Indonesian communities.  
 > …  
-> Out of 41 communities, from Bali to Borneo to mainland Indonesia, only > five showed evidence of long-term dominance by a few male lines.  
+> Out of 41 communities, from Bali to Borneo to mainland Indonesia, only five showed evidence of long-term dominance by a few male lines.  
 > …  
-> Of course, Genghis Khan proves that some powerful males can ensure > their lineage – if not through prosperity, then promiscuity – but such > men are rare, Watkins says. >
-> “If I were to take 100 random Mongolians and follow their family > lines, I wouldn’t have seen anything special.”
+> Of course, Genghis Khan proves that some powerful males can ensure their lineage – if not through prosperity, then promiscuity – but such men are rare, Watkins says. >
+> “If I were to take 100 random Mongolians and follow their family lines, I wouldn’t have seen anything special.”
 
 How does Wilkins know this about Mongolians? Perhaps there’s some empirical data in the paper he isn’t reporting re: Mongolia, but it seems that one must be cautious about extrapolating from Indonesia. As most of you know, Indonesia is an archipelago, and water tends to be really good at bottling up gene flow.
 

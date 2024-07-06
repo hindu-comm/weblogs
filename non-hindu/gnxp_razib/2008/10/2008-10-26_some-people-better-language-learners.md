@@ -11,7 +11,7 @@ Some people better language learners?
 
 Well, I assume most people probably accept that some people are better than average at learning languages, while others are not as good. But the reasons for this aren’t quite clear. *PNAS* has a paper out on this topic, [Brain potentials to native phoneme discrimination reveal the origin of individual differences in learning the sounds of a second language](http://www.pnas.org/content/105/42/16083). I find the *ScienceDaily* [summary](http://www.sciencedaily.com/releases/2008/10/081023101345.htm) comprehensible, and one of the researchers says:
 
-> “Therefore, these results show that there is a positive correlation > between specific speech discrimination abilities and the ability to > learn a second language, which means that the individual ability to > distinguish the specific phonemes of the language, both in the case of > the mother tongue and in the case of other languages, is, without a > doubt, a decisive factor in the learning process, and the ability to > speak and master other languages,” concludes Begona Diaz.
+> “Therefore, these results show that there is a positive correlation > between specific speech discrimination abilities and the ability to > learn a second language, which means that the individual ability to > distinguish the specific phonemes of the language, both in the case of the mother tongue and in the case of other languages, is, without a doubt, a decisive factor in the learning process, and the ability to speak and master other languages,” concludes Begona Diaz.
 
 ### Related Posts:
 

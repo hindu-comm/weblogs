@@ -12,12 +12,12 @@ Knowledge of heritability, ignorance of genes
 [  
 Does the Slut Gene Exist?](http://www.thedailybeast.com/blogs-and-stories/2010-12-07/does-the-slut-gene-exist/):
 
-> The DRD4 study isn’t an isolated case of shaky genetic science. In > fact, it joins a cadre of questionable scientific assertions that link > single genes to much broader patterns of behavior. >
-> The last decade has witnessed an explosion in genetics studies, and > with it, a proliferation of sensational study results that run the > gamut from disingenuous pop-science to borderline science fiction. In > the past 10 years, we’ve heard about the God gene that allegedly > explains religiosity; the warrior gene that supposedly makes those who > have it more aggressive when provoked; and the liberalism gene, a > single gene that, we’re told, predisposes a person toward joining a > particular political party.
+> The DRD4 study isn’t an isolated case of shaky genetic science. In fact, it joins a cadre of questionable scientific assertions that link single genes to much broader patterns of behavior. >
+> The last decade has witnessed an explosion in genetics studies, and > with it, a proliferation of sensational study results that run the > gamut from disingenuous pop-science to borderline science fiction. In > the past 10 years, we’ve heard about the God gene that allegedly > explains religiosity; the warrior gene that supposedly makes those who have it more aggressive when provoked; and the liberalism gene, a single gene that, we’re told, predisposes a person toward joining a particular political party.
 
 Fair points. See [my post](http://blogs.discovermagazine.com/gnxp/2010/12/the-cultural-construction-of-truth/) from yesterday. But I’m not sure about this:
 
-> “There are economists publishing papers saying whether you’re > conservative or liberal is an inherited trait. It reminds me of the > old eugenics trope which was, poverty is inherited. Well, of course!” > says Misha Angrist, the author of a new book….
+> “There are economists publishing papers saying whether you’re conservative or liberal is an inherited trait. It reminds me of the old eugenics trope which was, poverty is inherited. Well, of course!” says Misha Angrist, the author of a new book….
 
 There’s a subtle point here. Economists may assert that political disposition is [heritable](https://en.wikipedia.org/wiki/Heritability), which is a subset of the inheritance you receive from your parents. It is the component which can be attributable to variation in genes, even if we don’t know the genes in question. There is no “height gene.” But we can agree that in the United States most of the variation in height is due to variation in genes (\~80-90%).
 

@@ -11,8 +11,8 @@ Just pushing buttons
 
 [Mike the Mad Biologist](http://scienceblogs.com/mikethemadbiologist/), whose bailiwick is the [domain of the small](http://scienceblogs.com/mikethemadbiologist/microbiome/), asks in the [comments](http://blogs.discovermagazine.com/gnxp/2010/08/genetic-variation-within-africa-and-the-world/#comment-32269):
 
-> I don’t mean to bring up a tangential point to the post, but why does > the field of human genetics use PCA to visualize relationships? When I > see plots like those shown here that have a ‘geometric pattern’ to > them (the sharp right angles; another common pattern is a Y-shape), > that tells me that there are lots of samples with zeros for many of > the Y-variables (i.e., alleles that are unique to certain > populations). Thus, the spatial arrangement of the points is largely > an artifact of an inappropriate method: how does one calculate a > correlation matrix when many of things one is correlating have values > of zero? >
-> If one really was keen on using PCA, one could calculate a pairwise > distance matrix and then use that instead of the correlation matrix > (Principal Coordinates Analysis).
+> I don’t mean to bring up a tangential point to the post, but why does > the field of human genetics use PCA to visualize relationships? When I > see plots like those shown here that have a ‘geometric pattern’ to > them (the sharp right angles; another common pattern is a Y-shape), > that tells me that there are lots of samples with zeros for many of > the Y-variables (i.e., alleles that are unique to certain > populations). Thus, the spatial arrangement of the points is largely an artifact of an inappropriate method: how does one calculate a correlation matrix when many of things one is correlating have values of zero? >
+> If one really was keen on using PCA, one could calculate a pairwise distance matrix and then use that instead of the correlation matrix (Principal Coordinates Analysis).
 
 Since I know some human geneticists do read this weblog, I thought it was worth throwing the question out there.
 

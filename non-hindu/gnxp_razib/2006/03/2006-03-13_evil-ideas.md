@@ -13,7 +13,8 @@ I [throw out](http://scienceblogs.com/gnxp/2006/03/recent_human_evolution.php) s
 
 ### Related Posts:
 
-- [I am evil](https://www.gnxp.com/WordPress/2006/03/28/i-am-evil/) - [Why adaptive evolution is not
+- [I am evil](https://www.gnxp.com/WordPress/2006/03/28/i-am-evil/)
+- [Why adaptive evolution is not
   evolution](https://www.gnxp.com/WordPress/2007/12/22/why-adaptive-evolution-is-not-evolution/) - [Living Neandertals & another idea about the
   Hobbits](https://www.gnxp.com/WordPress/2006/04/21/living-neandertals-another-idea-about-the-hobbits/) - [Fair &
   balanced](https://www.gnxp.com/WordPress/2007/03/04/fair-balanced/) - [Do no evil??? Bad

@@ -13,7 +13,8 @@ Look below the fold, don’t know how long it will be around (H/T [Ross Doutht](
 
 ### Related Posts:
 
-- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/) - [Star Trek, Here I
+- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/)
+- [Star Trek, Here I
   Stand](https://www.gnxp.com/WordPress/2009/05/12/star-trek-here-i-stand/) - [Too Much Time On My
   Hands](https://www.gnxp.com/WordPress/2006/07/26/too-much-time-on-my-hands/) - [Superman
   Returns](https://www.gnxp.com/WordPress/2005/11/18/superman-returns/) - [Transformers: Revenge of the

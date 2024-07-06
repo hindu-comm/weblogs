@@ -11,7 +11,7 @@ Good godists
 
 Rob Knop, physicist and Christian, offers us [his ruminations on religion](http://brahms.phy.vanderbilt.edu/~rknop/blog/?p=42). But Rob is not an “orthodox” Christian from what I can tell, he [says in a follow up post](http://brahms.phy.vanderbilt.edu/~rknop/blog/?p=43):
 
-> …do I really believe that Jesus was really bodily resurrected, in > contrast to everything we have observed, and everything we know and > understand about human physiology and the decay that happens even > shortly after death?  
+> …do I really believe that Jesus was really bodily resurrected, in contrast to everything we have observed, and everything we know and understand about human physiology and the decay that happens even shortly after death?  
 > Let me give you a wholly unsatisfactory answer: **probably not**.
 
 There you have it, he believes that the balance of the evidence leans against the resurrection of Jesus Christ. That being said, I’m a big believer in *vox populi, vox Dei* (“he voice of the people is the voice of God”). As an atheist I don’t believe in “God’s Book” where all truths are inscribed, and I don’t believe in one definition for Christianity. More power to people like Rob who would make the world a better place for the likes of I. Rob may **label** himself a Christian, and so slot into the same general category as Jerry Falwell, but I wouldn’t be surprised if **cognitively** on most characters Rob and I have more in common than we do with Falwell, despite the nominal differences between us.
@@ -27,7 +27,9 @@ My point here is that sometimes I suspect we atheists feel toward liberal and mo
 
 ### Related Posts:
 
-- [Belief-O-Matic](https://www.gnxp.com/WordPress/2006/11/16/belief-o-matic/) - [Da Vinci & DNA - Jesus with the XX male
+- [Belief-O-Matic](https://www.gnxp.com/WordPress/2006/11/16/belief-o-matic/)
+- [Da Vinci & DNA
+- Jesus with the XX male
   syndrome?](https://www.gnxp.com/WordPress/2006/05/22/da-vinci-dna-jesus-with-the-xx-male-syndrome/) - [America has had 'non-Christian'
   presidents!](https://www.gnxp.com/WordPress/2011/10/26/america-has-had-non-christian-presidents/) - [Jesus Christ was my great-great...grandfather,
   and…](https://www.gnxp.com/WordPress/2006/03/17/jesus-christ-was-my-great-great-grandfather-and-great-great-uncle-etc/) - [The season needs no

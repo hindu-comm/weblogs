@@ -11,15 +11,15 @@ The Age of Fetal Genomics
 
 ![220px-Fetus_3\_months](https://i0.wp.com/www.unz.com/wp-content/uploads/2014/05/220px-Fetus_3_months.jpg?resize=220%2C278)![220px-Fetus_3\_months](https://i0.wp.com/www.unz.com/wp-content/uploads/2014/05/220px-Fetus_3_months.jpg?resize=220%2C278)[Signature Genomic Laboratories to close by mid-2014](http://www.spokesman.com/stories/2014/apr/30/signature-genomic-laboratories-to-close-by-mid/):
 
-> Signature Genomic Laboratories, a pioneering Spokane-based tech > company that once had 120 workers, will close by mid-2014. >
-> Tuesday’s announcement by parent company PerkinElmer means the > company, formed in 2003, will shut its doors and lay off around 80 > employees. >
-> The north Spokane company provides scientific, DNA-based tests to > identify genetic disorders in embryos or babies. >
-> PerkinElmer, based in Massachusetts, paid \$90 million for Signature > Genomics in 2010, and said it’s halting future tests by the Spokane > firm at the end of the week. >
-> An email from PerkinElmer’s communications company said: “Changing > market conditions, including a highly unfavorable reimbursement > environment, **combined with a significant decline in demand for > invasive procedures due to the uptake of non-invasive prenatal > testing, contributed to this decision.”**
+> Signature Genomic Laboratories, a pioneering Spokane-based tech company that once had 120 workers, will close by mid-2014. >
+> Tuesday’s announcement by parent company PerkinElmer means the company, formed in 2003, will shut its doors and lay off around 80 employees. >
+> The north Spokane company provides scientific, DNA-based tests to identify genetic disorders in embryos or babies. >
+> PerkinElmer, based in Massachusetts, paid \$90 million for Signature Genomics in 2010, and said it’s halting future tests by the Spokane firm at the end of the week. >
+> An email from PerkinElmer’s communications company said: “Changing > market conditions, including a highly unfavorable reimbursement environment, **combined with a significant decline in demand for invasive procedures due to the uptake of non-invasive prenatal testing, contributed to this decision.”**
 
 The last paragraph:
 
-> Newer tests developed by a variety of other companies now use blood > draws for DNA testing. While noninvasive, those blood based tests are > limited to identifying far fewer conditions than the more than 100 > that microarray tests cover.
+> Newer tests developed by a variety of other companies now use blood draws for DNA testing. While noninvasive, those blood based tests are limited to identifying far fewer conditions than the more than 100 that microarray tests cover.
 
 This event shows you how fast genomics is moving. Signature actually does have a chip that includes [SNPs](http://www.signaturegenomics.com/signaturechipOS.html) as well, but only 60,000 to look for absence of heterozygosity. I know for a fact that they amplify enough DNA from [CVS](http://www.webmd.com/baby/chorionic-villus-sampling-cvs) procedures that they could run a much denser SNP-chip, or even do whole genome sequencing. But really that’s not where the low hanging fruit is. Rather, most of the worry from parents has to do with karyotype abnormalities, and the non-invasive methods which involve a blood draw are sufficient for that. But that doesn’t mean that that will be the end of the story. I imagine that whole genome sequencing of fetuses from DNA derived from blood draws from the mother will be totally conventional within 10 years. **The future is here. Deal with it**
 

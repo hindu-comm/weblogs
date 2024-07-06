@@ -12,10 +12,10 @@ America is turning into India: our coming “caste wars”
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2023/02/Screenshot-2023-02-23-at-1.01.46-AM.jpg?resize=640%2C478&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2023/02/Screenshot-2023-02-23-at-1.01.46-AM.jpg?resize=640%2C478&ssl=1)](https://apnews.com/article/seattle-discrimination-india-religion-49843c779c8f3d60720bc1e2c71a952a)  
 [Seattle may become the first U.S. city to outlaw caste](https://apnews.com/article/seattle-discrimination-india-religion-49843c779c8f3d60720bc1e2c71a952a):
 
-> One of Kshama Sawant’s earliest memories of the caste system was > hearing her grandfather — a man she “otherwise loved very much” — > utter a slur to summon their lower-caste maid. >
-> The Seattle City Council member, raised in an upper-caste Hindu > Brahmin household in India, was 6 when she asked her grandfather why > he used that derogatory word when he knew the girl’s name. He > responded that his granddaughter “talked too much.” >
-> Now 50, and an elected official in a city far from India, Sawant has > proposed an ordinance to add caste to Seattle’s anti-discrimination > laws. If her fellow council members approve it Tuesday, Seattle will > become the first city in the United States to specifically outlaw > caste discrimination. >
-> In India, the origins of the caste system can be traced back 3,000 > years as a social hierarchy based on one’s birth. While the definition > of caste has evolved over the centuries, under both Muslim and British > rule, the suffering of those at the bottom of the caste pyramid – > known as Dalits, which in Sanskrit means “broken” — has continued.
+> One of Kshama Sawant’s earliest memories of the caste system was hearing her grandfather — a man she “otherwise loved very much” — utter a slur to summon their lower-caste maid. >
+> The Seattle City Council member, raised in an upper-caste Hindu Brahmin household in India, was 6 when she asked her grandfather why he used that derogatory word when he knew the girl’s name. He responded that his granddaughter “talked too much.” >
+> Now 50, and an elected official in a city far from India, Sawant has > proposed an ordinance to add caste to Seattle’s anti-discrimination laws. If her fellow council members approve it Tuesday, Seattle will become the first city in the United States to specifically outlaw caste discrimination. >
+> In India, the origins of the caste system can be traced back 3,000 > years as a social hierarchy based on one’s birth. While the definition of caste has evolved over the centuries, under both Muslim and British rule, the suffering of those at the bottom of the caste pyramid – known as Dalits, which in Sanskrit means “broken” — has continued.
 
 Sawant is a socialist, and she believes in social justice. Her family’s background is Tamil Brahmin, like Kamala Harris’ mother. Though currently married to Calvin Priest, Sawant’s surname is from her first Indian husband (who was not Brahmin).
 
@@ -23,7 +23,7 @@ Caste is a big deal in India, both socially and genetically. My [two](https://ra
 
 [Caste in California: Tech giants confront ancient Indian hierarchy](https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/):
 
-> The update came after the tech sector – which counts India as its top > source of skilled foreign workers – received a wake-up call in June > 2020 when California’s employment regulator sued Cisco Systems > (CSCO.O) on behalf of **a low-caste engineer** who accused two > higher-caste bosses of blocking his career.
+> The update came after the tech sector – which counts India as its top > source of skilled foreign workers – received a wake-up call in June 2020 when California’s employment regulator sued Cisco Systems (CSCO.O) on behalf of **a low-caste engineer** who accused two higher-caste bosses of blocking his career.
 
 Most media write-ups and social justice activism around caste focus on this **single** ***alleged* case.** Was this person discriminated against based on caste? We don’t know. Could he have been? Sure.
 
@@ -49,7 +49,7 @@ On the left is Rho Khanna, a Punjabi Hindu. On the right is Nikki Haley, a Punja
 
 But wait, it gets more complicated. Here is the Wikipedia entry on Jats:
 
-> Jats are classified as Other Backward Class (OBC) in seven of India’s > thirty-six States and UTs, namely Rajasthan, Himachal Pradesh, Delhi, > Uttarakhand, Uttar Pradesh, Madhya Pradesh and Chhattisgarh. However, > only the Jats of Rajasthan – excluding those of Bharatpur district and > Dholpur district – are entitled to reservation of central government > jobs under the OBC reservation. In 2016, the Jats of Haryana organized > massive protests demanding to be classified as OBC in order to obtain > such affirmative action benefits.
+> Jats are classified as Other Backward Class (OBC) in seven of India’s > thirty-six States and UTs, namely Rajasthan, Himachal Pradesh, Delhi, > Uttarakhand, Uttar Pradesh, Madhya Pradesh and Chhattisgarh. However, > only the Jats of Rajasthan – excluding those of Bharatpur district and > Dholpur district – are entitled to reservation of central government jobs under the OBC reservation. In 2016, the Jats of Haryana organized massive protests demanding to be classified as OBC in order to obtain such affirmative action benefits.
 
 In the state of Punjab, where Haley’s parents are from, Jats are the dominant caste politically and in terms of land ownership. But in other states, they are not so powerful, so their status within the caste hierarchy is conditional on where they are. Regarding religious status, there are arguments about the Jats, but most would argue that they are Sudras, the lowest of the official castes (Dalits are outside of the caste system). But in many parts of India, ritually Sudra castes are the dominant ones politically and regarding rural land ownership (Patels, who are quite prospery in the US, are ritual Sudras).
 

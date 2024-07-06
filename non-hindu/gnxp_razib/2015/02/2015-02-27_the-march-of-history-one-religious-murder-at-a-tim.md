@@ -19,7 +19,7 @@ But this isn’t just a matter of sentiments on high. Rather, the reserves of se
 
 Writing about the [modest protests](https://www.theguardian.com/world/2015/feb/27/bangladeshi-protests-over-of-atheist-writer-avijit-roy) *The Guardian* notes:
 
-> The attacks starkly underline an increasing gulf between secular > bloggers and conservative Islamic groups, often covertly connected > with Islamist parties. Secularists have urged authorities to ban > religion-based politics, while Islamists have pressed for blasphemy > laws to prevent criticism of their faith.
+> The attacks starkly underline an increasing gulf between secular > bloggers and conservative Islamic groups, often covertly connected with Islamist parties. Secularists have urged authorities to ban religion-based politics, while Islamists have pressed for blasphemy laws to prevent criticism of their faith.
 
 It is important to note that despite the groundswell of anger from the usual suspects among Muslims, there is still a strong enough secular liberal *intelligentsia* in Bangladesh which can speak in favor of someone as religiously marginal as an atheist from a Hindu background. The murder is a tragedy, but the reaction is to some extent heartening, and I hope heralds a future where social conflict can give way to the driving of religion into the private sphere (I think banning religious parties is usually counterproductive, for the record. I’d also oppose banning them on principle even if it was productive).
 

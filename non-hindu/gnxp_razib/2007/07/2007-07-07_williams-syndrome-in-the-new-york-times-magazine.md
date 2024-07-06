@@ -13,7 +13,7 @@ David Dobbs has an [interesting article](http://www.nytimes.com/2007/07/08/magaz
 
 Inverted: [Hidden Smarts: Abstract thought trumps IQ scores in autism](http://www.sciencenews.org/articles/20070707/fob4.asp):
 
-> There’s more to the intelligence of autistic people than meets the IQ. > Unlike most individuals, children and adults diagnosed as autistic > often score much higher on a challenging, nonverbal test of abstract > reasoning than they do on a standard IQ test, say psychologist Laurent > Mottron of Hopital Riviere-des-Prairies in Montreal and his > colleagues.
+> There’s more to the intelligence of autistic people than meets the IQ. > Unlike most individuals, children and adults diagnosed as autistic > often score much higher on a challenging, nonverbal test of abstract reasoning than they do on a standard IQ test, say psychologist Laurent Mottron of Hopital Riviere-des-Prairies in Montreal and his colleagues.
 
 ### Related Posts:
 

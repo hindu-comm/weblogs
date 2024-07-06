@@ -11,7 +11,7 @@ Dolphin Chi
 
 Not only do Dolphins have the ability to use [marine sponges as foraging tools](http://www.pnas.org/content/102/25/8939.full), they now also emit [Chi](https://en.wikipedia.org/wiki/Qi) according to [a BBC article](http://news.bbc.co.uk/1/hi/magazine/8572855.stm):
 
-> Humans do seem to feel a sense of kinship with dolphins, intelligent, > playful, talkative creatures that they are. And separate research > shows people feel the benefit from getting up close and personal with > dolphins, says Dr Dobbs. **This is because dolphins are thought to > emanate “chi” – the essential life force in Chinese medicine – and the > basis of various therapies for clinical depression, autism and brain > damage.**
+> Humans do seem to feel a sense of kinship with dolphins, intelligent, > playful, talkative creatures that they are. And separate research > shows people feel the benefit from getting up close and personal with > dolphins, says Dr Dobbs. **This is because dolphins are thought to emanate “chi” – the essential life force in Chinese medicine – and the basis of various therapies for clinical depression, autism and brain damage.**
 
 I’m eagerly awaiting the discovery that Dolphins rearrange the ocean floor according to the principles of [feng shui](https://en.wikipedia.org/wiki/Feng_shui).
 

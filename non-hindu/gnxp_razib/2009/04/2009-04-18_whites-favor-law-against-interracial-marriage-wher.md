@@ -12,7 +12,7 @@ Whites favor law against interracial marriage where?
 **Update:** Readers pointed out that these results are from the **cumulative data set from 1972-2002.** So the % who favored laws against interracial marriage were \~40% in 1972, and \~10% in 2002, averaging out to \~25% across the years. The relative differences though seem to remain the same across categories. The nature of party identification in the 1970s also likely explains the peculiar results there.**End Update**  
 The [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) has a question of the form:
 
-> Do you think there should be laws against marriages between > (Negroes/Blacks/African-Americans) and whites?
+> Do you think there should be laws against marriages between (Negroes/Blacks/African-Americans) and whites?
 
 The sample sizes are huge for this question, on the order of N = 25,000. So I decided to break down the opinions of American whites on these types of laws (which were the norm two generations ago). The question in the title is answered below the fold (no surprise).
 

@@ -43,7 +43,7 @@ Comparing best-fit performance (lines) to the manufacturer’s values (dots), it
 
 I calculated my average daily cycle depth to be 31%, and from [cycle curves](http://www.mpoweruk.com/life.htm "lead acid battery life cycle curves"), expected 2000 cycles at this depth. But 995 days after installation, battery E fell off the cliff. So much for my rosy statement in September:
 
-> At this point, I have sourced 1686kWh from my four batteries in 30 > months, or 422kWh each. At a de-rated 1.5kWh per battery, I have > gone through 281 full-depth equivalent cycles. In about 915 days, this > means my average cycle depth is 31% and I might expect 2000 such > cycles (5.5 years; 620 full-depth equivalent cycles) at this level. So > judging by this, I’m almost halfway done.
+> At this point, I have sourced 1686kWh from my four batteries in 30 > months, or 422kWh each. At a de-rated 1.5kWh per battery, I have > gone through 281 full-depth equivalent cycles. In about 915 days, this means my average cycle depth is 31% and I might expect 2000 such cycles (5.5 years; 620 full-depth equivalent cycles) at this level. So judging by this, I’m almost halfway done.
 
 Oh that it were true.
 

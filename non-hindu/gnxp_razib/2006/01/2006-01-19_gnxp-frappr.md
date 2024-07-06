@@ -13,7 +13,8 @@ I made a [GNXP Frappr site](http://www.frappr.com/geneexpression).
 
 ### Related Posts:
 
-- [Clustrmaps](https://www.gnxp.com/WordPress/2006/05/30/clustrmaps/) - [Leech
+- [Clustrmaps](https://www.gnxp.com/WordPress/2006/05/30/clustrmaps/)
+- [Leech
   Notice](https://www.gnxp.com/WordPress/2007/06/15/leech-notice/) - [How We
   Evolve](https://www.gnxp.com/WordPress/2008/09/09/how-we-evolve/) - [Hi](https://www.gnxp.com/WordPress/2006/09/13/hi/) - [Trends in
   journalism](https://www.gnxp.com/WordPress/2009/09/01/trends-in-journalism/) - [Only half of the traffic on this website is from a

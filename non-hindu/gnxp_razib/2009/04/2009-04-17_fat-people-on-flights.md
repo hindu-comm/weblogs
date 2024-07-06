@@ -11,7 +11,7 @@ Fat people on flights
 
 [Charge the Large](http://www.slate.com/id/2216304/pagenum/all/#p2):
 
-> United Airlines has just implemented a tough policy for fat people: If > you’re too big to fit in a coach seat on a full plane, you’ll have to > pay for a first-class seat or two adjacent coach seats. And if those > options are sold out, you’ll be bumped from the flight.
+> United Airlines has just implemented a tough policy for fat people: If you’re too big to fit in a coach seat on a full plane, you’ll have to pay for a first-class seat or two adjacent coach seats. And if those options are sold out, you’ll be bumped from the flight.
 
 The author, William Saletan, notes that there are less onerous ways that tall people can get some leg room and only a moderately increase the damage, so why not charge by the inch? I think the background issue is that the larger tend to weigh more and that has an impact on the amount of fuel a plane needs (this includes tall people obviously too). Why not start weighing all people and charging them premium based on size?
 

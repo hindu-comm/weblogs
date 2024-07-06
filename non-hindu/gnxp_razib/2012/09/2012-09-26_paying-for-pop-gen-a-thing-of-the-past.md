@@ -12,7 +12,7 @@ Paying for pop gen a thing of the past?
 Via [Haldane’s Sieve](http://haldanessieve.org/2012/09/26/announcement-genetics-prepublication-policy/), [Genetics](http://www.genetics.org/site/misc/ifora.xhtml#AFTER%20YOUR%20ARTICLE%20HAS%20BEEN%20ACCEPTED) has a new preprint policy:
 
 > **POLICY ON PRE-PRINT DEPOSITS** >
-> **GENETICS allows authors to deposit manuscripts (currently under > review or those for intended submission to GENETICS) in > non-commercial, pre-print servers such as ArXiv.** Upon final > publication in GENETICS, authors should insert a journal reference > (including DOI), and link to the published article on the GENETICS > website, and include the acknowledgment: “The published article is > available at www.genetics.org.” See http://arxiv.org/help/jref for > details.
+> **GENETICS allows authors to deposit manuscripts (currently under > review or those for intended submission to GENETICS) in > non-commercial, pre-print servers such as ArXiv.** Upon final > publication in GENETICS, authors should insert a journal reference > (including DOI), and link to the published article on the GENETICS website, and include the acknowledgment: “The published article is available at www.genetics.org.” See http://arxiv.org/help/jref for details.
 
 [Here’s a more thorough list of preprint guidelines by journal](https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy). For all practical purposes this means that **population genetics can now percolate more freely among the masses.** Many of the differences between “draft” preprints and the final manuscript have to do with formatting, etc., from what I have seen. So the content shall flow!
 

@@ -11,9 +11,9 @@ The cultural revolution that will happen in China
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-7-1.jpeg?resize=150%2C112)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-7-1.jpeg?resize=150%2C112)](https://www.technologyreview.com/s/608086/baby-genome-sequencing-for-sale-in-china/?utm_campaign=add_this&utm_source=twitter&utm_medium=post)If you’ve been hiding under a rock, please see[Baby Genome Sequencing for Sale in China](https://www.technologyreview.com/s/608086/baby-genome-sequencing-for-sale-in-china/?utm_campaign=add_this&utm_source=twitter&utm_medium=post):
 
-> A Boston-based DNA sequencing company is offering to decode the > complete genomes of newborns in China, leading some to ask how much > parents should know about their children’s genes at birth. >
-> Veritas Genetics says the test, ordered by a doctor, will report back > on 950 serious early- and later-life disease risks, 200 genes > connected to drug reactions, and more than 100 physical traits a child > is likely to have. >
-> Called myBabyGenome, the service costs \$1,500 and could help identify > serious hidden problems in newborns, the company says.
+> A Boston-based DNA sequencing company is offering to decode the complete genomes of newborns in China, leading some to ask how much parents should know about their children’s genes at birth. >
+> Veritas Genetics says the test, ordered by a doctor, will report back on 950 serious early- and later-life disease risks, 200 genes connected to drug reactions, and more than 100 physical traits a child is likely to have. >
+> Called myBabyGenome, the service costs \$1,500 and could help identify serious hidden problems in newborns, the company says.
 
 Obviously a \$1,500 price point is beyond most Chinese. But the total fertility rate in China today is 1.56, and almost certainly lower among urban elites who could actually afford this service. Considering that genome is with you for life, more or less, \$1,500 isn’t really that much.
 
@@ -21,8 +21,8 @@ For years there have been many fly by night genetics companies who have some pre
 
 Of course there is skepticism. Fortunately the piece doesn’t talk much to people who express Leon Kass style [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt). The objections are scientific:
 
-> But some doctors say the plan is a huge overstep. “I think it’s vastly > premature to peddle a completely unproven set of data, especially to a > vulnerable population like neonates,” says Jim Evans, a professor of > genetics at the University of North Carolina Chapel Hill. >
-> The problem is that the risk posed by many disease genes remains > uncertain. Even if a child has a mutation in a gene, he or she may > never be affected, prompting debate among doctors about whether it’s > useful to inform parents.
+> But some doctors say the plan is a huge overstep. “I think it’s vastly premature to peddle a completely unproven set of data, especially to a vulnerable population like neonates,” says Jim Evans, a professor of genetics at the University of North Carolina Chapel Hill. >
+> The problem is that the risk posed by many disease genes remains uncertain. Even if a child has a mutation in a gene, he or she may never be affected, prompting debate among doctors about whether it’s useful to inform parents.
 
 These are real points, but I don’t see why sequencing should not be allowed as a choice by parents nevertheless. **And widespread adoption of sequencing would actually allow us to start obtaining more data that we could use to make better decisions in the future.** The genomics space for a while has had a bit of a chicken & egg problem. The sequencing is starting to get there, but we still need to get phenotypes. And this seems like one way to get the public involved and feel like they have a stake.
 
@@ -34,8 +34,8 @@ For years may people have speculated that genetic testing technology will really
 
 This is perhaps the most important point:
 
-> But Veritas will not reveal everything, in recognition that not all > the information in the genome is appropriate to give parents right > away. For instance, it won’t tell them about a gene that can strongly > predispose people to Alzheimer’s in old age. >
-> Instead, Veritas says, **it will retain the rest of a newborn’s genome > data and let parents purchase further information at a later date.**
+> But Veritas will not reveal everything, in recognition that not all the information in the genome is appropriate to give parents right away. For instance, it won’t tell them about a gene that can strongly predispose people to Alzheimer’s in old age. >
+> Instead, Veritas says, **it will retain the rest of a newborn’s genome data and let parents purchase further information at a later date.**
 
 I think this may be more common than we think. Most people don’t want to deal with a \~3 GB text file. That being said, I think they should in the future have an option for people to buy their data outright.
 

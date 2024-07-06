@@ -15,7 +15,7 @@ The [post below](http://blogs.discovermagazine.com/gnxp/2011/09/a-college-degree
 
 In any case, Angela M. Cable [asks](http://blogs.discovermagazine.com/gnxp/2011/09/a-college-degree-as-contraceptive/#comment-91834):
 
-> Has it not occurred to anyone that perhaps the more educated a woman > is, the less she \*wants\* children. How do we know these women are > not child-free as opposed to child-less?
+> Has it not occurred to anyone that perhaps the more educated a woman is, the less she \*wants\* children. How do we know these women are not child-free as opposed to child-less?
 
 If I was Angela **I would go look for the literature on this.** I’m not one to ask questions imperiously without taking the time out to actually do some legwork. But I’m a peculiar beast. Let’s satisfy Ms. Cable’s curiosity, which probably remains unsated by any compulsion to find out the truth of the matter. The [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) has a variable which **asks the ideal number of children an individual would like to have.** Let’s replicate the analysis with that variable, and look at the difference between ideal and realized number of children.
 

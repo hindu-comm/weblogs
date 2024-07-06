@@ -32,7 +32,7 @@ A separate dynamic is that once people stop acting in a way that indicates that 
 
 I think the first two factors in the list above explain the low but consistent basal rate of atheists and heterodox thinkers across history. One thousand years ago in Syria the poet [Al-Ma’arri](https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri)made statements such as below:
 
-> Do not suppose the statements of the prophets to be true; they are all > fabrications. Men lived comfortably till they came and spoiled life. > The sacred books are only such a set of idle tales as any age could > have and indeed did actually produce.
+> Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.
 
 Al-Ma’arri was a brilliant eccentric, so he was tolerated. Some of his quips prefigure H. L. Mencken’s, as when he said that “The inhabitants of the earth are of two sorts: those with brains, but no religion, and those with religion, but no brains.”
 

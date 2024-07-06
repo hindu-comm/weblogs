@@ -11,7 +11,7 @@ The Pleistocene was more interesting than we think
 
 [Late Pleistocene/Early Holocene sites in the montane forests of New Guinea yield early record of cassowary hunting and egg harvesting](https://www.pnas.org/content/118/40/e2100117118):
 
-> Eggshell is an understudied archaeological material with potential to > clarify past interactions between humans and birds. We apply an > analytical method to legacy collections of Late Pleistocene to > mid-Holocene cassowary eggshell and demonstrate that early foragers in > the montane rainforests of New Guinea preferentially collected eggs in > late stages of embryonic growth. This finding suggests that foragers > regulated the exploitation of cassowaries and may have hatched eggs to > rear chicks. The montane rainforests of New Guinea may thus present > the earliest known evidence of human management of avian breeding.
+> Eggshell is an understudied archaeological material with potential to > clarify past interactions between humans and birds. We apply an > analytical method to legacy collections of Late Pleistocene to > mid-Holocene cassowary eggshell and demonstrate that early foragers in > the montane rainforests of New Guinea preferentially collected eggs in > late stages of embryonic growth. This finding suggests that foragers regulated the exploitation of cassowaries and may have hatched eggs to rear chicks. The montane rainforests of New Guinea may thus present the earliest known evidence of human management of avian breeding.
 
 Related, [Why Civilization Is Older Than We Thought](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/).
 

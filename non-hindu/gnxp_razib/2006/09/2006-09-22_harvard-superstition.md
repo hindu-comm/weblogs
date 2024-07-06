@@ -11,7 +11,7 @@ Harvard superstition
 
 [Jonah Lehrer](http://scienceblogs.com/cortex/2006/09/voodoo_religion_and_faulty_cau.php) on the origins of magical thinking:
 
-> What’s the moral? Magical thinking is built into our brain at a pretty > basic level. Although these Harvard students don’t really believe in > Voodoo, **a few experimental tricks can seduce them into delusion**. A > similar psychology probably explains why the vast majority of > Americans (between 70 and 85 percent) believe that their prayers are > being answered. Reality has a way of tricking the mind.
+> What’s the moral? Magical thinking is built into our brain at a pretty > basic level. Although these Harvard students don’t really believe in > Voodoo, **a few experimental tricks can seduce them into delusion**. A similar psychology probably explains why the vast majority of Americans (between 70 and 85 percent) believe that their prayers are being answered. Reality has a way of tricking the mind.
 
 Harvard students all have IQs above 130. Most Americans do not.
 

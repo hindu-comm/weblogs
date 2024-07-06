@@ -11,10 +11,10 @@ Average female/varied male phenotype
 
 To google with love, from godless capitalist:
 
-> Molecular mechanism \[reduced female variance\] is most likely > [barr-body](https://en.wikipedia.org/wiki/Barr_body) mediated > mosaicism in female somatic cells. I’ve seen some data in the past > that points to this. >
-> In other words, the random inactivation of one of the X chromosomes in > each cell means that females experience “averaging”. >
-> Males have only one X chromosome, and do not experience this > averaging. >
-> As the X chromosome has lots of transcription factors (as one might > expect), the simple averaging of dosage levels and so on between cells > via random X inactivation is likely to reduce phenotypic variance for > most characteristics.
+> Molecular mechanism \[reduced female variance\] is most likely [barr-body](https://en.wikipedia.org/wiki/Barr_body) mediated mosaicism in female somatic cells. I’ve seen some data in the past that points to this. >
+> In other words, the random inactivation of one of the X chromosomes in each cell means that females experience “averaging”. >
+> Males have only one X chromosome, and do not experience this averaging. >
+> As the X chromosome has lots of transcription factors (as one might expect), the simple averaging of dosage levels and so on between cells via random X inactivation is likely to reduce phenotypic variance for most characteristics.
 
 ### Related Posts:
 

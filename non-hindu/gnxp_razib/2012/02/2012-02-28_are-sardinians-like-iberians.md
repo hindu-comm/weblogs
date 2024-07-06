@@ -11,7 +11,7 @@ Are Sardinians like Iberians?
 
 Dienekes [asks](https://dienekes.blogspot.com/2012/02/complete-genome-of-tyrolean-iceman.html):
 
-> In terms of autosomal DNA, the Iceman clearly clusters with modern > Sardinians, and also appears slightly more removed than them compared > to continental Europeans. Interestingly, at least as far as the PC > analyssi shows, Sardinians appear to be intermediate between the > Iceman and SW Europeans, rather than Italians. Perhaps, this makes > sense if the Paleo-Sardinian language is indeed related to languages > of Iberia.
+> In terms of autosomal DNA, the Iceman clearly clusters with modern > Sardinians, and also appears slightly more removed than them compared > to continental Europeans. Interestingly, at least as far as the PC > analyssi shows, Sardinians appear to be intermediate between the Iceman and SW Europeans, rather than Italians. Perhaps, this makes sense if the Paleo-Sardinian language is indeed related to languages of Iberia.
 
 This trend aroused a little curiosity in me too. I’m sure Dienekes & company will be probing these issues a lot in the near future, but I couldn’t wait. I took the IBS data set, which includes a lot of individuals from various areas of Spain, the Sardinians, French and French Basque from the HGDP, and the Tuscans from the HapMap, and threw them together into a pot. I added HGDP Russians & Orcadians (the latter a British group) to make sure there was a North European “outgroup.” In terms of technical details the combined data set had \~220,000 SNPs, not too shabby. Additionally, I decided to run a PCA, where this number of SNPs is more than sufficient.
 

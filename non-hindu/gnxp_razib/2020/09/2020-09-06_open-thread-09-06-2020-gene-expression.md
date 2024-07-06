@@ -29,7 +29,9 @@ Brandon Sanderson has [book 4](https://www.amazon.com/exec/obidos/ASIN/076532638
 
 ### Related Posts:
 
-- [Open Thread - 09/16/2020 - Gene
+- [Open Thread
+- 09/16/2020
+- Gene
   Expression](https://www.gnxp.com/WordPress/2020/09/15/open-thread-09-16-2020-gene-expression/) - [The genomics of the Viking
   Age](https://www.gnxp.com/WordPress/2019/07/17/the-genomics-of-the-viking-age/) - [All your GWAS belong to
   us](https://www.gnxp.com/WordPress/2018/12/21/all-your-gwas-belong-to-us/) - [Got milk long before genes for

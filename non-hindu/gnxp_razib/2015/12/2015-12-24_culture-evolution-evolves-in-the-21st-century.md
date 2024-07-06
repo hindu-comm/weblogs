@@ -13,7 +13,7 @@ Culture Evolution evolves in the 21st century
 
 Though we often think of evolutionary processes as either matters of bones (i.e., paleontology) and genes (i.e., evolutionary genetics), that is not strictly true. There are other domains of study where evolutionary thinking and frameworks have been applied. **In particular I’m thinking of evolutionary thought in the context of culture.** This has a long history, and evolutionary models as metaphors are commonly bandied about, from Herbert Spencer to Richard Dawkins. But the reality is that there is little systematic and formal investigation of the topic. In the late 1970s to the middle 1980s six scholars attempted to change this. First, E. O. Wilson and Charles Lumsden in [Genes, Mind, And Culture: The Coevolutionary Process](https://www.amazon.com/exec/obidos/ASIN/9812562745/geneexpressio-20). Arguably the most ambitious of the projects, Wilson and Lumsden have moved onto other things. Next you have L. L. Cavalli-Sforza and Marcus Feldman with [Cultural Transmission and Evolution](https://www.amazon.com/exec/obidos/ASIN/0691082839/geneexpressio-20). By and large both authors have moved onto other things, though Feldman at least still produces some research in the area of cultural evolution. I asked Cavalli-Sforza about cultural anthropology’s reaction to this book [in 2006](https://www.gnxp.com/blog/2006/08/10-questions-for-luigi-luca-cavalli.php). He responded:
 
-> I entirely agree that the average quality of anthropological research, > especially of the cultural type, is kept extremely low by lack of > statistical knowledge and of hypothetical deductive methodology. At > the moment there is no indication that the majority of cultural > anthropologists accept science – the most vocal of them still choose > to deny that anthropology is science. They are certainly correct for > what regards most of their work.
+> I entirely agree that the average quality of anthropological research, > especially of the cultural type, is kept extremely low by lack of > statistical knowledge and of hypothetical deductive methodology. At > the moment there is no indication that the majority of cultural anthropologists accept science – the most vocal of them still choose to deny that anthropology is science. They are certainly correct for what regards most of their work.
 
 His pessimism about cultural anthropology was warranted in my opinion.
 
@@ -25,7 +25,8 @@ I sincerely hope more students interested in evolution will begin to look to cul
 
 ### Related Posts:
 
-- [For shame - "Evolutionary
+- [For shame
+- "Evolutionary
   Genetics"](https://www.gnxp.com/WordPress/2006/06/12/for-shame-evolutionary-genetics/) - [Evolution in
   everything](https://www.gnxp.com/WordPress/2013/03/30/evolution-in-everything/) - [Evolution on
   film](https://www.gnxp.com/WordPress/2006/10/02/evolution-on-film/) - [The rate of cultural evolution, jerky or

@@ -13,7 +13,8 @@ Thai pepper
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Why I rock](https://www.gnxp.com/WordPress/2006/08/30/why-i-rock/) - [Medium rare steak flank with habanero
   paste](https://www.gnxp.com/WordPress/2007/04/08/medium-rare-steak-flank-with-habanero-paste/) - [Why some like it hot:
   awesomeness](https://www.gnxp.com/WordPress/2011/11/30/why-some-like-it-hot-awesomeness/) - [Pleasure through

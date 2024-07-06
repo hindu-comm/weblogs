@@ -22,7 +22,8 @@ My overall point is not to confuse causes here, the extreme altruism of some Chr
 
 ### Related Posts:
 
-- [Altruism - the great
+- [Altruism
+- the great
   puzzle](https://www.gnxp.com/WordPress/2006/08/26/altruism-the-great-puzzle/) - ["Altruism" (by
   nation)](https://www.gnxp.com/WordPress/2006/08/24/altruism-by-nation/) - [On other
   blog](https://www.gnxp.com/WordPress/2006/08/25/on-other-blog/) - [Cultural

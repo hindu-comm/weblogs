@@ -11,8 +11,8 @@ The team draft
 
 [Echoes of Terror Case Haunt California Pakistanis](http://www.nytimes.com/2007/04/27/us/27lodi.html?_r=1&hp&oref=slogin). From the article:
 
-> Lodi, a city of 62,000 people 72 miles east of San Francisco, is > something of an anomaly among Pakistani immigrants. Most come to the > United States to pursue professional careers, to become doctors or > academics in large cities. But mainly rural peasants started coming to > Lodi around 1920, and residents say 80 percent of the town’s 2,500 > Muslims are Pakistanis. >
-> They came as agricultural laborers and never really assimilated, > preserving their traditional ways by dispatching the young back home > for arranged marriages.
+> Lodi, a city of 62,000 people 72 miles east of San Francisco, is > something of an anomaly among Pakistani immigrants. Most come to the > United States to pursue professional careers, to become doctors or academics in large cities. But mainly rural peasants started coming to Lodi around 1920, and residents say 80 percent of the town’s 2,500 Muslims are Pakistanis. >
+> They came as agricultural laborers and never really assimilated, preserving their traditional ways by dispatching the young back home for arranged marriages.
 
 I don’t really need to offer further comment on this. The culture described in the article seems more reminiscent of European Islam than American Islam, except that the Pakistanis in Lodi seem more gainfully employed. In much of Europe the local Muslim community consists of a monoculture derived from peasant immigrants (e.g., the Turks in German y, the Pakistanis of northern England). In the United States Muslims are [ethnically diverse](http://www.cair-net.org/asp/populationstats.asp) and subject to selective immigration policies which skews the migration stream toward [professional elites](http://www.cair.com/pdf/American_Muslim_Voter_Survey_2006.pdf) (PDF). Lodi seems to resemble Europe….
 

@@ -73,11 +73,11 @@ Before we look at the inscription & samba purANa account, a prefatory note is ne
 
 The saamba purANa story goes that saamba gets sick (kuShTharoga or leprosy) due to a curse given by his father kR^iShNa and is told to do sUryopAsana (sun worship) to get healed. He goes to chandrabhAgA river (modern day Chenab in Punjab) & does tapasyA. Now, sUrya cures him & tells him to install an idol of him on the Chenab. He also gives him a boon that this city will be renowned as sAmbapura.
 
-> ज्ञात्वा संतारयामास चन्द्रभागां महानदीम् ।। ततो मित्रवनं गत्वा तीर्थं त्रैलोक्य > विश्रुतम् । उपवासकृशः साम्बः शुष्को धमनि सन्ततः ।आराधनार्थ सूर्यस्य गुह्यं स्तोत्रमिदं > जगौ । तन्मुमोच मलं शाम्बो देहात्वचमिवोरगः । ततो लब्धवरः शाम्बो रूपवांश्चाभवत्पुनः > ।। स्थापयस्व च मामास्मिंश्चन्द्रभागातटे शुभे । त्वत्समानमिंद चापि पुरं शाम्ब ! भविष्यति > ।।
+> ज्ञात्वा संतारयामास चन्द्रभागां महानदीम् ।। ततो मित्रवनं गत्वा तीर्थं त्रैलोक्य > विश्रुतम् । उपवासकृशः साम्बः शुष्को धमनि सन्ततः ।आराधनार्थ सूर्यस्य गुह्यं स्तोत्रमिदं जगौ । तन्मुमोच मलं शाम्बो देहात्वचमिवोरगः । ततो लब्धवरः शाम्बो रूपवांश्चाभवत्पुनः ।। स्थापयस्व च मामास्मिंश्चन्द्रभागातटे शुभे । त्वत्समानमिंद चापि पुरं शाम्ब ! भविष्यति ।।
 
 Not sure about the identity of mitravana here ( ततो मित्रवनं गत्वा), could be Multan? or some other place. Another clue lies here, leprosy was a disease the Persians thought to be a curse of the sun. So as to not get cursed, solar worship was necessary. We see Herodotus make a mention of this:
 
-> ὃςἂνδὲτῶνἀστῶνλέπρηνἢλεύκηνἔχῃ,ἐςπόλινοὗτοςοὐκατέρχεταιοὐδὲσυμμίσγεταιτοῖσιἄλλοισιΠέρσῃσι:φασὶδέμινἐςτὸνἥλιονἁμαρτόντατιταῦταἔχειν > (Histories 1.138)
+> ὃςἂνδὲτῶνἀστῶνλέπρηνἢλεύκηνἔχῃ,ἐςπόλινοὗτοςοὐκατέρχεταιοὐδὲσυμμίσγεταιτοῖσιἄλλοισιΠέρσῃσι:φασὶδέμινἐςτὸνἥλιονἁμαρτόντατιταῦταἔχειν (Histories 1.138)
 
 Regardless, The Mbh (vulgate text) reference to them and says that in the island of Shakadvipa, (likely Sistan in Iran or Sakastan – land of the Scythians) one of the four classes are Magas who are Brahmins.
 
@@ -89,11 +89,11 @@ Interestingly enough, a nearly identical account exists in the brahma purANa (Ch
 
 The sAmba purANa account now mentions that one day, an idol of sUrya turns up on the banks of the river that sAmba notices, picks up and installs it in mitravana. Then we are told vishwakarma made the mUrti from the wood of the kalpavR^ikSha. Finally, sUrya commands sAmba to bring his worshippers (magas) from shakadvipa & sAmba brings 18 families of magas.
 
-> सतु गृह्य ततस्तानि दश चाष्टौ कुलानि च । मम पूजाकश ह्येते प्रजानां शान्तिकारकाः । मम > पूजाविधानोक्तां करिष्यन्ति मनोऽनुगाम ।। प्राप्य शाकद्वीपमनु संप्रहृष्टतनूरूहः । > तत्रापश्यद्यथो द्दिष्टान् साम्बस्तेजस्विनोमगान् ।।
+> सतु गृह्य ततस्तानि दश चाष्टौ कुलानि च । मम पूजाकश ह्येते प्रजानां शान्तिकारकाः । मम पूजाविधानोक्तां करिष्यन्ति मनोऽनुगाम ।। प्राप्य शाकद्वीपमनु संप्रहृष्टतनूरूहः । तत्रापश्यद्यथो द्दिष्टान् साम्बस्तेजस्विनोमगान् ।।
 
 Finally, we take a look at the Govindapur inscription. The text is a bit broken but general meaning can be understood. Attached below will be an English translation from Epigraphica Indica.
 
-> देवो जोयात्रिलोकीमणिरयमरणो यन्निवासेन पुण्यः शाकद्वीप दुग्धाम्बु निधिवलयितो यत्र > विग्रे मगाख्या । वंशस्तव ” द्विजानां भ्रमिलिखिततनो (र्ब्भा )स्वतः स्वाङ्ग
+> देवो जोयात्रिलोकीमणिरयमरणो यन्निवासेन पुण्यः शाकद्वीप दुग्धाम्बु निधिवलयितो यत्र विग्रे मगाख्या । वंशस्तव ” द्विजानां भ्रमिलिखिततनो (र्ब्भा )स्वतः स्वाङ्ग
 
 “*Hail to that gem of the thre worlds, the divine Aruņa,” whose presence sanctifies the milk-ocean-encircled Shakadvipa where the Brahmans are named Magas! There a race of twice-born \[sprang\] from the sun’s own body, grazed by the lathe,“ whom Sâmba himself brought bither. Glorious are they, honoured in the world ! The first of them was an abode of all vedic lore and of the knowledge of the supreme soul, and wholly occupied in thoughts” familiar with every sacrificial rite, that sage Bharadvaja whose penance could both deliver and destroy the world, and in , like a garland of the great race of the Maga twice-born*“
 

@@ -16,7 +16,8 @@ And this is where [**2*s***](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=2
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [John Hawks on
   introgression](https://www.gnxp.com/WordPress/2006/12/18/john-hawks-on-introgression/) - [Neandertal introgression &
   SEED](https://www.gnxp.com/WordPress/2006/11/10/neandertal-introgression-seed/) - [Introgression, the

@@ -11,8 +11,8 @@ Hitch on Drugs
 
 Via [Drug WarRant](http://blogs.salon.com/0002762/2007/04/25.html#a2228), Hitchens is playin’ my tune lately:
 
-> An excerpt from his [21 Solutions to Save the > World](http://www.foreignpolicy.com/users/login.php?story_id=3790&URL=http://www.foreignpolicy.com): >
-> > The largest single change for the better in U.S. foreign policy, and > > one that could be accomplished simply by an act of political will, > > would be the abandonment of the socalled War on Drugs. This last > > relic of the Nixon era has long been a laughingstock within the > > borders of the United States itself (where narcotics are freely > > available to anybody who wants them and where the only guarantee is > > that all the money goes straight into criminal hands). But the same > > diminishing returns are now having a deplorable effect on America’s > > international efforts.
+> An excerpt from his [21 Solutions to Save the World](http://www.foreignpolicy.com/users/login.php?story_id=3790&URL=http://www.foreignpolicy.com): >
+> > The largest single change for the better in U.S. foreign policy, and > > one that could be accomplished simply by an act of political will, > > would be the abandonment of the socalled War on Drugs. This last > > relic of the Nixon era has long been a laughingstock within the > > borders of the United States itself (where narcotics are freely > > available to anybody who wants them and where the only guarantee is > > that all the money goes straight into criminal hands). But the same > diminishing returns are now having a deplorable effect on America’s international efforts.
 
 ### Related Posts:
 

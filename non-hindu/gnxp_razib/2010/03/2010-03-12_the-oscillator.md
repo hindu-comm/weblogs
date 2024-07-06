@@ -13,7 +13,7 @@ I’ve already linked to this blog on ScienceBlogs, but I thought I might as wel
 
 **Update:** Carl Zimmer [asks](http://scienceblogs.com/gnxp/2010/03/whatever_happened_to_synthetic.php#comment-2343665):
 
-> And he performed the first genome transplant and figured out how to > make yeast churn out entire genomes of bacteria If this is limbo, it’s > a pretty productive place to be. If Venter does manage to pull this > project off in 2014, will history really care much that he was off by > 5 years?
+> And he performed the first genome transplant and figured out how to > make yeast churn out entire genomes of bacteria If this is limbo, it’s a pretty productive place to be. If Venter does manage to pull this project off in 2014, will history really care much that he was off by 5 years?
 
 My response: No. But if he keeps saying it’ll happen “this year” until he gets it done in 2014, that should reduce our confidence that he can get it done between this date and that date. In fact, it should reduce his own confidence too I would think if he’s being sincere, since it indicates that his model at any given moment of what’s going on has serious holes which he can’t account for.
 

@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2018/01/28/the-rapid-fading-of-inf
 
 The rapid fading of information
 
-> If you’ve used Storify in the past, it’s time to save your stories > before they shut down in May <https://t.co/KQfOPZGhgL> >
-> — Carl Zimmer (@carlzimmer) [January 28, > 2018](https://twitter.com/carlzimmer/status/957648313716822017?ref_src=twsrc%5Etfw)
+> If you’ve used Storify in the past, it’s time to save your stories before they shut down in May <https://t.co/KQfOPZGhgL> >
+> — Carl Zimmer (@carlzimmer) [January 28, 2018](https://twitter.com/carlzimmer/status/957648313716822017?ref_src=twsrc%5Etfw)
 
   
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/friday.jpg?resize=199%2C300&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/friday.jpg?resize=199%2C300&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B077H1HVK9/geneexpressio-20)In Robert Heinlein’s uneven late work [Friday](https://www.amazon.com/exec/obidos/ASIN/B077H1HVK9/geneexpressio-20) the mentor of the protagonist mentions that because of a possible collapse of technological civilization he maintains a collection of paper books.

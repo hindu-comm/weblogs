@@ -103,7 +103,7 @@ Tiruvalluvar in his *Kural*, the storehouse of early Tamil wisdom, counts writin
 
 We may now take leave of Tiruvalluvar with one final citation from his sayings on the value of a true education:
 
-> The penury of the learned is better than the affluence of the > ignorant; a truly learned man does not lose his soul on account of > poverty, whereas wealth controlled by an uncultured person may result > in much social evil.
+> The penury of the learned is better than the affluence of the ignorant; a truly learned man does not lose his soul on account of poverty, whereas wealth controlled by an uncultured person may result in much social evil.
 
 Read this **[truly elevating essay in full](https://www.dharmadispatch.in/culture/the-profound-philosophy-of-education-in-the-medieval-tamil-desham)**!
 

@@ -13,7 +13,8 @@ The usual. If it’s off topic, etc., leave it here.
 
 ### Related Posts:
 
-- [Open thread - August 8th,
+- [Open thread
+- August 8th,
   2010](https://www.gnxp.com/WordPress/2010/08/08/open-thread-2/) - [Open thread
   7/25/2012](https://www.gnxp.com/WordPress/2012/07/25/open-thread-7252012/) - [Open Thread, July 31st,
   2010](https://www.gnxp.com/WordPress/2010/07/31/open-thread-july-31st-2010/) - [7/5/2010 Open

@@ -11,7 +11,7 @@ Does heritability of political orientation matter?
 
 At [The Intersection](http://blogs.discovermagazine.com/intersection/2011/06/16/is-politics-partly-guided-by-our-genes/) Chris Mooney points to new research which reiterates that 1) political ideology exhibits some heritability, 2) and, there are associations between political ideology and specific genes. I’ll set \#2 aside for now, because this is a classic “more research needed” area at this point. But as I mentioned in the comments the heritability of political ideology is well known and robust. From what I can gather most people assume it’s mediated through personality traits. In the [comments](http://blogs.discovermagazine.com/intersection/2011/06/16/is-politics-partly-guided-by-our-genes/#comment-105168) Chris asks:
 
-> That sounds sensible. What i find amazing is that if the heritability > of politics is so robust–and I agree, it would happen via > personality–why is this so widely ignored?
+> That sounds sensible. What i find amazing is that if the heritability of politics is so robust–and I agree, it would happen via personality–why is this so widely ignored?
 
 There are I think several issues at work. First, many people are not comfortable within imagining that beliefs which they attribute to their conscious rational choice are not only subject to social inculcation, but that may also have an element of genetic disposition. Second, most people have a poor grasp of what [heritability](https://en.wikipedia.org/wiki/Heritability) implies. Take a look at some of Chris’ commenters. The response is generally in the “not even wrong” class. Finally, **what’s the *actionable* component to this?** In other words, what are people going to do with this sort of information?
 

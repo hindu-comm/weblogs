@@ -185,7 +185,8 @@ renewed invasion in western Kanarese districts where the nayaks who had
 earlier accepted suzerainty of Adil Shah rebelled against the Sultan and
 joined Venkata’s army in conquering Bankapur and adjoining areas (lost
 in the reign of Tirumala Raya). Venkatapati Deva Raya ruled from 1586 to
-1614. We do not find any Muslim invasion of his dominions post 1595. He
+1614. We do not find any Muslim invasion of his dominions post
+1595. He
 achieved what Krishna Deva Raya achieved – putting an end to the annual
 jihads. Where Krishna Raya had a strong empire bequeathed to him and
 built upon the edifice further; Venkatapati was handed a weak empire

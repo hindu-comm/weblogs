@@ -95,11 +95,11 @@ But how did these ancient civilisations disappear? The answer is well-known: the
 
 But to understand this phenomenon in more contemporary terms, let’s briefly look at something called the American civilization. Think about who first coined the term “American civilization.” Answer: the Americans themselves. Oscar Wilde gives perhaps the best description:
 
-> America is the only country that went from barbarism to decadence > without civilization in between.
+> America is the only country that went from barbarism to decadence without civilization in between.
 
 So, what *is* the American “civilization?” The blunt but honest answer: it is a black hole of deranged materialism where no enduring civilization can be created because money has supplanted the spiritual yearning innate in humans. At the turn of the twentieth century, the sagely W.T. Stead predicted the makings of this black hole in beautiful phraseology:
 
-> A young and vigorous race has been let loose among the incalculable > treasures of a virgin continent…The American tendency is to consume > the whole of our powers in the process, leaving none for the > cultivation of the higher soul. This is an unlovely spectacle, very > much like a vision of hell.
+> A young and vigorous race has been let loose among the incalculable > treasures of a virgin continent…The American tendency is to consume the whole of our powers in the process, leaving none for the cultivation of the higher soul. This is an unlovely spectacle, very much like a vision of hell.
 
 Yet, the same America is deeply Christian and vast sections of its political spectrum zealously guard this Christian element. Its founding fathers were committed Christian fundamentalists in the most genuine sense of the term.
 
@@ -107,7 +107,7 @@ To look at this Christian element in our current setting, let’s consider somet
 
 The origins of the National Prayer Breakfast can be traced to 1953. It was the culmination of the dogged and sustained efforts spanning a quarter century of an American Methodist minister, Abram Vereide, originally from Norway. An inveterate Christian fundamentalist, Abram had a grand vision for America where “every Christian \[is\] a leader, every leader a Christian.” A veteran US investigative journalist chillingly describes this vision:
 
-> …this ruling class of Christ-committed men \[would be\] bound in a > fellowship of the anointed, the chosen, key men in a voluntary > dictatorship of the divine.
+> …this ruling class of Christ-committed men \[would be\] bound in a fellowship of the anointed, the chosen, key men in a voluntary dictatorship of the divine.
 
 Abram wildly succeeded. Every President from Eisenhower up to Biden has attended the National Prayer Breakfast. Over time, the NPB steadily extended its tentacles pulling more and more powerful people into its embrace. The more significant fact is that right from the beginning, the NPB continues to be sponsored by Congress, that is, the US taxpayer pays for spreading Christian fundamentalism, helping it to acquire greater power. One of its prized captives was a filthy rich oil baron named George W. Bush who in 1985 discovered his faith through a Community Bible Study.
 
@@ -115,7 +115,7 @@ Subscribe
 
 On average, the NPB is attended by 3000 grandees drawn from a cross section of society including powerful Church heads, corporate leaders, and representatives of various nations. In 2007, the entry ticket costed \$ 425 per attendee. The following is a typical scene at an NPB meeting described by the aforementioned journalist:
 
-> For most, “breakfast is just that, muffins and prayer, but some stay > on for days of seminars organized around Christ’s messages for > particular industries. In years past, the Family organized such events > for executives in oil, defense, insurance, and banking. The 2007 event > drew, among others, a contingent of aid-hungry defense ministers from > Eastern Europe, Pakistan’s famously corrupt Benazir Bhutto, and a > Sudanese general linked to genocide in Darfur.
+> For most, “breakfast is just that, muffins and prayer, but some stay > on for days of seminars organized around Christ’s messages for > particular industries. In years past, the Family organized such events > for executives in oil, defense, insurance, and banking. The 2007 event drew, among others, a contingent of aid-hungry defense ministers from Eastern Europe, Pakistan’s famously corrupt Benazir Bhutto, and a Sudanese general linked to genocide in Darfur.
 
 And now, let’s return to India and ask a straightforward question: *can you even **imagine** the heads of all Hindu Mathas and other traditional Hindu institutions sitting with the Prime Minister and President for breakfast once a year?*
 
@@ -131,7 +131,7 @@ But if we regard the macro picture, at its heart, the so-called American civiliz
 
 Let’s also look at one of the most brilliant descriptions of the Sanatana civilization and culture given by the towering scholar, Dr. S. Srikanta Sastri.
 
-> The civilization and culture of India, like the country itself, is > indivisible and timeless. Just like its indivisible geography that > stretches from Kashmir to Kanyakumari, from Vishweshwara to > Rameshwara, from Bindu Madhava to Sethu Madhava, Indian culture too > represents this indivisible continuum from the Rishis of the Vedas all > the way up to Ramakrishna Paramahamsa. The spiritual outlook that lies > at the heart of Indian culture is the reason it is still alive and > flourishing in the world. It is also the reason every single facet of > Indian culture—food, social customs, business ethics, philosophy, > aesthetics, investigations into the nature of truth and beauty—holds a > special distinction. Not only does Indian culture embody universal > values, it has also infused its unique value system both at the level > of the individual and the society.
+> The civilization and culture of India, like the country itself, is > indivisible and timeless. Just like its indivisible geography that > stretches from Kashmir to Kanyakumari, from Vishweshwara to > Rameshwara, from Bindu Madhava to Sethu Madhava, Indian culture too > represents this indivisible continuum from the Rishis of the Vedas all > the way up to Ramakrishna Paramahamsa. The spiritual outlook that lies > at the heart of Indian culture is the reason it is still alive and > flourishing in the world. It is also the reason every single facet of > Indian culture—food, social customs, business ethics, philosophy, > aesthetics, investigations into the nature of truth and beauty—holds a special distinction. Not only does Indian culture embody universal values, it has also infused its unique value system both at the level of the individual and the society.
 
 And when we take away the “Sanatana” or “Hindu” component, India will instantly cease to be a civilization: at best, it will resemble any of the soulless Western materialisms and at worst, fanatical Islamic despotisms constantly at war with each other.
 

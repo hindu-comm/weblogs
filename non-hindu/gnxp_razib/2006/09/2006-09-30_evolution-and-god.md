@@ -11,7 +11,7 @@ Evolution and God
 
 [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss04) SCITEST4 asks
 
-> In your opinion, how true is this? … D. Human beings developed from > earlier species of animals.
+> In your opinion, how true is this? … D. Human beings developed from earlier species of animals.
 
 **Frequency Distribution**
 

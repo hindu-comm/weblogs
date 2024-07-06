@@ -27,8 +27,8 @@ Remember, you only need to read one book. But really both are doable. I’m goin
 
 As for why I’m doing the book club and just totally pessimistic about Western civilization:
 
-> So now a professor can be canceled for posing the question: “Do the > positives of the Columbian Exchange outweigh the negatives?” Appalling > behavior by > [@StJohnsU](https://twitter.com/StJohnsU?ref_src=twsrc%5Etfw). Thank > heavens for > [@TheFIREorg](https://twitter.com/TheFIREorg?ref_src=twsrc%5Etfw): > <https://t.co/iBUrGYhiAt> >
-> — Niall Ferguson (@nfergus) [October 8, > 2020](https://twitter.com/nfergus/status/1314327641336344576?ref_src=twsrc%5Etfw)
+> So now a professor can be canceled for posing the question: “Do the > positives of the Columbian Exchange outweigh the negatives?” Appalling > behavior by > [@StJohnsU](https://twitter.com/StJohnsU?ref_src=twsrc%5Etfw). Thank heavens for [@TheFIREorg](https://twitter.com/TheFIREorg?ref_src=twsrc%5Etfw): <https://t.co/iBUrGYhiAt> >
+> — Niall Ferguson (@nfergus) [October 8, 2020](https://twitter.com/nfergus/status/1314327641336344576?ref_src=twsrc%5Etfw)
 
 There are barbarians all around us. Just look. These people are no different than censorious religious radicals in the past. Except for religious radicals at least had some notional broader vision of the world and the good. These people only care about their own individual feels. Power uber alles.
 

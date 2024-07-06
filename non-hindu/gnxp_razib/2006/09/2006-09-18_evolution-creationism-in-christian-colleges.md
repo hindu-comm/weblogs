@@ -11,7 +11,7 @@ Evolution & Creationism in Christian colleges
 
 Interesting [article](http://www.jacksonvilleprogress.com/religion/local_story_258154638.html?keyword=topstory) about the teaching of evolution in a United Methodist affiliated college, and Creationism in a Baptist one. From the Creationist:
 
-> “At the time of the Big Bang, evolutionists believe there was all this > matter out there, where did that matter come from? At the time of the > Big Bang, how did the Earth end up getting all of the water and the > air and the life-forms? Everything from as simple as bacteria to as > complicated as people — no life-forms have ever been found anywhere > else,” Wilbanks said. “We hear that all life-forms are progressing > from one life-form to another, but yet in the world we do not have any > life-forms that are between forms. The fossil record has never shown > anything to be in a transition state, going from this form to that > form.”
+> “At the time of the Big Bang, evolutionists believe there was all this > matter out there, where did that matter come from? At the time of the > Big Bang, how did the Earth end up getting all of the water and the > air and the life-forms? Everything from as simple as bacteria to as > complicated as people — no life-forms have ever been found anywhere > else,” Wilbanks said. “We hear that all life-forms are progressing > from one life-form to another, but yet in the world we do not have any life-forms that are between forms. The fossil record has never shown anything to be in a transition state, going from this form to that form.”
 
 If up is down, and black is white, so be it. The question: how to constrain the contagion?
 

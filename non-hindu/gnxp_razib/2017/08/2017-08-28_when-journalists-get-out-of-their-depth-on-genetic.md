@@ -19,9 +19,9 @@ Marks seems well respected in anthropology from what I can tell, but he’s also
 
 Marks’ quotes wouldn’t be much of an issue if Kolata could figure out when he’s making sense, and when he’s just bullshitting. But she can’t. For example:
 
-> …“tells me I’m 95 percent Ashkenazi Jewish and 5 percent Korean, is > that really different from 100 percent Ashkenazi Jewish and zero > percent Korean?” >
+> …“tells me I’m 95 percent Ashkenazi Jewish and 5 percent Korean, is that really different from 100 percent Ashkenazi Jewish and zero percent Korean?” >
 > … >
-> The precise numbers offered by some testing services raise eyebrows > among genetics researchers. “It’s all privatized science, and the > algorithms are not generally available for peer review,” Dr. Marks > said.
+> The precise numbers offered by some testing services raise eyebrows among genetics researchers. “It’s all privatized science, and the algorithms are not generally available for peer review,” Dr. Marks said.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/exploringpersonalgenomics.jpeg?resize=196%2C257)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/exploringpersonalgenomics.jpeg?resize=196%2C257)](https://www.amazon.com/exec/obidos/ASIN/B00C7S753I/geneexpressio-20)The part about precise numbers is an issue, though a lot less of an issue with high density SNP-chips (the real issue is sensitivity to reference population and other such parameters). But if a modern test says you are 95 percent Ashkenazi Jewish and 5 percent Korean **it really is different from 100% Ashkenazi.**Someone who comes up as 5% Korean against an Ashkenazi Jewish background **is most definitely of some East Asian heritage**. In the early 2000s with ancestrally informative markers and microsatellite based tests you’d get somewhat weird results like this, but with the methods used by the major DTC companies (and in academia) today these sorts of proportions are just not reported as false positives. Marks may not know because this isn’t his area, but Pickrell would have. Kolata probably did not think to double-check with him, but that’s because she isn’t able to smell out tendentious assertions. She has no feel for the science, and is flying blind.
 
@@ -31,7 +31,7 @@ You can find a [white paper](https://permalinks.23andme.com/pdf/23-16_ancestry_c
 
 Then Marks says this really weird thing:
 
-> “That’s why their ads always specify that this is for recreational > purposes only: lawyer-speak for, ‘These results have no scientific > standing.’”
+> “That’s why their ads always specify that this is for recreational purposes only: lawyer-speak for, ‘These results have no scientific standing.’”
 
 Actually, it’s lawyer-speak for “do not sue us, as we aren’t providing you actionable information.” **Perhaps I’m ignorant, but lawyers don’t get to define “scientific standing”.**
 
@@ -39,7 +39,7 @@ The problem, which is real, **is that the public is sometimes not entirely clear
 
 Earlier Kolata states:
 
-> Scientists simply do not have good data on the genetic characteristics > of particular countries in, say, East Africa or East Asia. Even in > more developed regions, distinguishing between Polish and, for > instance, Russian heritage is inexact at best.
+> Scientists simply do not have good data on the genetic characteristics of particular countries in, say, East Africa or East Asia. Even in more developed regions, distinguishing between Polish and, for instance, Russian heritage is inexact at best.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/the_gene.jpeg?resize=182%2C277)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/the_gene.jpeg?resize=182%2C277)](https://www.amazon.com/exec/obidos/ASIN/B017I25DCC/geneexpressio-20)This is not totally true. We have good data now on China and Japan. Korea also has some data. Using haplotype-based methods you can do a lot of interesting things, **including distinguish someone who is Polish from Russian**. But these methods are computationally expensive and require lots of information on the reference samples ([Living DNA](https://www.livingdna.com/en-us?ref=google&gclid=Cj0KCQjw_o7NBRDgARIsAKvAgt2gJmBgDTC0FrRv-cS0pnCCgp2-5mduzyCBo_vLOxoPBUab9koMAHIaAq_CEALw_wcB) does this for British people). The point is that the science is there. Reading this sort of article is just going to confuse people.
 

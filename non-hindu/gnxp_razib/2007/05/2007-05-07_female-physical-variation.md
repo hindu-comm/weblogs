@@ -13,7 +13,8 @@ Most of the [delegates for Miss Universe 2007](http://www.missuniverse.com/deleg
 
 ### Related Posts:
 
-- [Gött(ess)erdämmerung!](https://www.gnxp.com/WordPress/2005/05/16/g-ouml-tt-ess-erd-auml-mmerung/) - [Muslim women in
+- [Gött(ess)erdämmerung!](https://www.gnxp.com/WordPress/2005/05/16/g-ouml-tt-ess-erd-auml-mmerung/)
+- [Muslim women in
   2-pieces](https://www.gnxp.com/WordPress/2006/07/14/muslim-women-in-2-pieces/) - [She is trying to look like Angelina Jolie,
   no?](https://www.gnxp.com/WordPress/2006/07/04/she-is-trying-to-look-like-angelina-jolie-no/) - [Miss Universe
   contestants](https://www.gnxp.com/WordPress/2006/05/20/miss-universe-contestants/) - [Miss Universe happens

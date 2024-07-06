@@ -87,17 +87,17 @@ Share
 
 BRANON PARKER American from the USA living in Hawaii islands. He has great interest in the Indian history. He has also lived and studied in India. After reading all sorts of strange things about Indian history in the American schools, Parker began his independent research. Ultimately he reached the conclusion that *most of the wrong information about India’s past has reached America via Indian authors themselves, especially through the books penned by Romila Thapar*. Which is why Parker felt annoyed when, in April 2003, the US Congress Library appointed Thapar to its prestigious Kluge Center for research on the awareness of history in ancient India. After all, he is himself an American and not an Indian. He resented such waste of public money. He did not think it fit to remain silent. He wrote a letter to the US Congress.
 
-> What Romila Thapar will present after research is already clear. She > is obsessed with anti-Hindu and Marxist ideologies and has already > spread much confusion about India. Then why waste public money for a > determined Marxist onslaught on the Hindu civilisation? Hindu > civilisation is the most ancient and most important civilisation in > the world and much can be learnt from it. Why justify dishonouring it? > As a friend of India I oppose it.
+> What Romila Thapar will present after research is already clear. She > is obsessed with anti-Hindu and Marxist ideologies and has already > spread much confusion about India. Then why waste public money for a > determined Marxist onslaught on the Hindu civilisation? Hindu civilisation is the most ancient and most important civilisation in the world and much can be learnt from it. Why justify dishonouring it? As a friend of India I oppose it.
 
 By the US standards, it was an ordinary matter. But not for our beleaguered Marxists who are obsessed with a destructive passion: *if we are finished we'll ensure that even you won't survive as well.* So they invented a Hindu conspiracy behind Parker’s protest in the distant USA. With the help of their foreign cohorts, they started denigrating Parker as an agent of Hindu nationalists on a website called South Asia Citizens Web (http://www.sacw.net/).
 
 Parker was astonished. To those who had started the propaganda against him, Parker said
 
-> The fact is you are acting fanatically and your reaction is very > revealing. How many times have innocent people been demonised by your > inappropriate name-calling? Are there people with a vested interest in > denigrating Hinduism based on a need to create a more conducive > atmosphere for conversion to Christianity? More converts, more money?
+> The fact is you are acting fanatically and your reaction is very > revealing. How many times have innocent people been demonised by your inappropriate name-calling? Are there people with a vested interest in denigrating Hinduism based on a need to create a more conducive atmosphere for conversion to Christianity? More converts, more money?
 
 What Parker told his accusers is applicable to most Marxists including Ms Thapar. Dr Karan Singh, then a senior Minister in Prime Minister Indira Gandhi’s cabinet once accused that
 
-> Romila Thapar, as a supporter of secularism, is destroying India” with > “her interpretations of Indian history.
+> Romila Thapar, as a supporter of secularism, is destroying India” with “her interpretations of Indian history.
 
 In fact, any Indian who knows the true history of his own country, who knows the basics of Hinduism and the Indian tradition should have been as disturbed as Dr Singh. However, due to the indifferent attitude of the Hindu urban classes, they generally did not react to the writings of Romila Thapar. Many of our good scholars were even unconcerned about what she wrote. Those who did see what she wrote could obviously understand the innately political reasons behind such writings.
 
@@ -111,7 +111,7 @@ HOWEVER, THE FIRST blows of disaster struck when the overtly political aim of st
 
 The psyche of our upper and educated class of *Hindus* is such that it accepts as true anything reflected back from the Western world. But, if we try to reach the root source by picking any thread as Parker did, *we invariably find that the false impression of ‘Hindu intolerance’ and ‘Hindu Fascism’ has spread in the Western world only through the dirty propaganda done by Marxist historians*. For example, another Marxist historian Irfan Habib states that
 
-> The Hindu nationalism of the RSS is close to (Hitler’s) Nazism than > real Hindu nationalism”.
+> The Hindu nationalism of the RSS is close to (Hitler’s) Nazism than real Hindu nationalism”.
 
 This has been repeated by him and other Marxist historians at various forums. Because they hold high chairs and are politically influential, such propaganda is routinely publicised by the media and has become accepted ‘facts’ in the Western world. **But these worthies have never undertaken a serious study of either Nazism or the Hindu nationalism of the RSS**. For example, the Marxist Party, still decorates its offices or congregations with the photographs of Stalin. **No Hindu nationalist organisation has been observed using the picture of any Nazi leader**. They never swear by any such figure. Nor their literature reveals any such material. Thus, Irfan Habib’s propaganda is entirely baseless.
 

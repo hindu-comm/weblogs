@@ -17,7 +17,7 @@ They speculate that the amino acid changes they find might lead to downregulatio
 
 **Update from Razib:** First,
 
-> In general, any mutations that increase the binding affinity between > the propeptide and the mature peptide could generate a relative > deficiency of myostatin activity. One of the many possible adaptive > implications of such an effect could be protection from muscle-wasting > in times of famine, a potentially recurrent phenomenon for early > agricultural societies.
+> In general, any mutations that increase the binding affinity between > the propeptide and the mature peptide could generate a relative > deficiency of myostatin activity. One of the many possible adaptive implications of such an effect could be protection from muscle-wasting in times of famine, a potentially recurrent phenomenon for early agricultural societies.
 
 ***Weak!!!*** If protection against famine is where its at how about some buff-luv for the brownz???
 

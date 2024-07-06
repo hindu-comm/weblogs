@@ -15,7 +15,7 @@ Over the past two days I’ve posted about the problems with Vitamin D deficienc
 
 The argument I made earlier was that the Sami did not become very light because selective pressure was far weaker upon them than upon the Finns to their south. But this anecdote suggests that rickets is a problem for the Sami. What gives? A little searching led me to [this story](http://dl1.yukoncollege.yk.ca/agraham/2007/06/09#a4337) about the Inuit of Canada:
 
-> **But as the Arctic has changed, so have eating habits**. While seal > and char are still staples in Nunavut’s isolated communities, walrus > and whale consumption have been in decline for 30 years. The result is > vitamin D deficiency, which surfaces as rickets, a disease most > Canadians might be surprised to hear still exists in Canada. > Thirty-one new cases of rickets were discovered in the first five > years of Nunavut’s creation.
+> **But as the Arctic has changed, so have eating habits**. While seal > and char are still staples in Nunavut’s isolated communities, walrus > and whale consumption have been in decline for 30 years. The result is > vitamin D deficiency, which surfaces as rickets, a disease most Canadians might be surprised to hear still exists in Canada. Thirty-one new cases of rickets were discovered in the first five years of Nunavut’s creation.
 
 So that might explain the Sami cases of rickets, a transition from their traditional diet to a more “modern” one. Step away from the [ruisleipä](https://www.google.com/search?hl=en&safe=off&q=ruisleip%C3%A4&btnG=Search) now!
 

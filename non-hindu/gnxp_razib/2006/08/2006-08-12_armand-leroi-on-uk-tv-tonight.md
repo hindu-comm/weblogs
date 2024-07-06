@@ -14,7 +14,7 @@ A reminder to UK readers that **Armand Leroi** (see his 10 questions on the side
 **Update from Razib:** From the comment boards:
 
 > <http://www.mininova.org/tor/395390> >
-> I am currently the only seed but I have uploaded the torrent at a > number of profile sites to maximise visibility so speed should pick up > as interest and swarm builds. Hope it’s good. Bruce Lahn is featured > btw.
+> I am currently the only seed but I have uploaded the torrent at a number of profile sites to maximise visibility so speed should pick up as interest and swarm builds. Hope it’s good. Bruce Lahn is featured btw.
 
 ### Related Posts:
 

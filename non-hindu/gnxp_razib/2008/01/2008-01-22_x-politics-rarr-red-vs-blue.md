@@ -11,14 +11,14 @@ $$$ X Politics ⇒ Red vs. Blue
 
 The always interesting Andrew Gelman, [Rich state, poor state, red-state, blue-state: it’s all about the rich](http://www.stat.columbia.edu/%7Ecook/movabletype/archives/2008/01/rich_state_poor_1.html):
 
-> Thus, the familiar “red America, blue America” pattern, the “culture > war” between red and blue states, is really something happening at the > higher range of incomes.
+> Thus, the familiar “red America, blue America” pattern, the “culture war” between red and blue states, is really something happening at the higher range of incomes.
 
 I believe that the details of history are always driven by battles between the elites….
 
 **Update:** zeil asks if this is a race effect. From [Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?](http://www.stat.columbia.edu/%7Egelman/research/published/rb_qjps.pdf):
 
-> Could the varying income effects we have shown be merely a proxy for > race? This is a potentially plausible story. Perhaps the high slope in > Mississippi reflects poor black Democrats and rich white Republicans, > while Connecticut’s flatter slope arises from its more racially > homogeneous population. To test this, we replicate our analysis, > dropping all Africanâ€“American respondents. This reduces our key > pattern by about half. For example, in a replication of Figure 5, the > slopes for income remain higher in poor states than in rich states, > but these slopes now go from about 0.2 to 0 rather than from 0.4 to 0. >
-> To see if the income patterns could be explained by other demographic > variables, we went back to the full dataset for the Annenberg surveys > in 2000 and 2004 and added individual-level predictors for female, > black, four age categories, and four education categories; and > group-level predictors for percent black and average education in each > state. After controlling for all these, the patterns for income > remained: within states, the coefficient for individual income on > probability of Republican vote was positive, with steeper slopes in > poorer states; after controlling for the individual and group-level > predictors, richer states supported the Democrats.
+> Could the varying income effects we have shown be merely a proxy for > race? This is a potentially plausible story. Perhaps the high slope in > Mississippi reflects poor black Democrats and rich white Republicans, > while Connecticut’s flatter slope arises from its more racially > homogeneous population. To test this, we replicate our analysis, > dropping all Africanâ€“American respondents. This reduces our key pattern by about half. For example, in a replication of Figure 5, the slopes for income remain higher in poor states than in rich states, but these slopes now go from about 0.2 to 0 rather than from 0.4 to 0. >
+> To see if the income patterns could be explained by other demographic > variables, we went back to the full dataset for the Annenberg surveys > in 2000 and 2004 and added individual-level predictors for female, > black, four age categories, and four education categories; and > group-level predictors for percent black and average education in each > state. After controlling for all these, the patterns for income > remained: within states, the coefficient for individual income on probability of Republican vote was positive, with steeper slopes in poorer states; after controlling for the individual and group-level predictors, richer states supported the Democrats.
 
 ### Related Posts:
 

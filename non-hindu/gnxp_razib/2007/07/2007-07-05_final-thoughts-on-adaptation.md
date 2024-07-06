@@ -11,7 +11,7 @@ Final thoughts on adaptation
 
 Larry Moran has [responded again](https://sandwalk.blogspot.com/2007/07/richard-dawkins-on-visible-changes-and.html) on adaptation, disapprovingly quoting Dawkins, who writes:
 
-> Natural selection is all-powerful with respect to those visible > changes that affect survival and reproduction. Natural selection is > the only explanation we know for the functional beauty and apparently > “designed” complexity of living things. But if there are any changes > that have no visible effect-changes that pass right under natural > selection’s radar-they can accumulate in the gene pool with impunity > and may supply just what we need for an evolutionary clock.
+> Natural selection is all-powerful with respect to those visible > changes that affect survival and reproduction. Natural selection is > the only explanation we know for the functional beauty and apparently > “designed” complexity of living things. But if there are any changes that have no visible effect-changes that pass right under natural selection’s radar-they can accumulate in the gene pool with impunity and may supply just what we need for an evolutionary clock.
 
 Besides the possibly questionable use of the term “all-powerful”, that sounds about right. The extraordinary power of the neutral theory to explain certain parts of molecular evolution cannot be denied (nor should anyone want to–it’s quite elegant!). Yet the power of natural selection on the phenotypic level is becoming clear from molecular evidence, even if it wasn’t already clear from simple observation (John Hawks provides a [couple](http://johnhawks.net/weblog/topics/evolution/neutral_not/non-neutral_2_papilio_snake_caterpillar.html) [pictures](http://johnhawks.net/weblog/topics/evolution/neutral_not/non-neutral_1_bee_orchid.html) to “frame” the debate, so to speak).
 
@@ -19,7 +19,7 @@ It’s worth pointing out that evolution is stochastic– most beneficial mutati
 
 In any case, Larry also has an [interesting post](https://sandwalk.blogspot.com/2007/07/mutation-rates.html) up on mutation rates, in which he concludes:
 
-> With a population of 6 billion individuals on the planet, there will > be 120 x 6 x 109 = 7.2 x 10^11 new mutations in the population every > generation. This means that **every single nucleotide in our genome > will be mutated in the human population every 20 years or so.**
+> With a population of 6 billion individuals on the planet, there will be 120 x 6 x 109 = 7.2 x 10^11 new mutations in the population every generation. This means that **every single nucleotide in our genome will be mutated in the human population every 20 years or so.**
 
 Now *that’s* something to think about.
 

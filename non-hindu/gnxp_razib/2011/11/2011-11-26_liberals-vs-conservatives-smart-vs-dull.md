@@ -53,7 +53,8 @@ I’ll give you the results without comment.
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Men and women really don't differ in the generality
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Men and women really don't differ in the generality
   on…](https://www.gnxp.com/WordPress/2020/09/21/me-and-women-really-dont-differ-in-the-generality-on-abortion/) - [Women care more about abortion
   rights](https://www.gnxp.com/WordPress/2008/08/29/women-care-more-about-abortion-rights/) - [Americans don't like the word
   liberal](https://www.gnxp.com/WordPress/2009/03/11/americans-dont-like-the-word-liberal/) - [Predicting the past from the present

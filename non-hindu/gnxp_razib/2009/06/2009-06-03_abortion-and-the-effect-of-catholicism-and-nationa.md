@@ -52,7 +52,8 @@ As you can see, most of the variation is **between** nations, not within them. I
 
 ### Related Posts:
 
-- [Abortion & religion - an international
+- [Abortion & religion
+- an international
   view](https://www.gnxp.com/WordPress/2009/06/06/abortion-religion-an-international-view/) - [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Who would abort a defective
   fetus?](https://www.gnxp.com/WordPress/2008/09/23/who-would-abort-a-defective-fetus/) - [The bleeding of American
   Catholicism](https://www.gnxp.com/WordPress/2009/09/29/the-bleeding-of-american-catholicism/) - [Men and women really don't differ in the generality

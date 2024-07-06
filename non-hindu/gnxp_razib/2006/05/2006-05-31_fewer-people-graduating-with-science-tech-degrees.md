@@ -11,7 +11,7 @@ Fewer people graduating with science & tech degrees
 
 [Percentage of Students Earning Degrees in Science and Math Has Fallen, GAO Tells Lawmakers](http://chronicle.com/daily/2006/05/2006050401n.htm) (\$\$\$), but this is all you need to know:
 
-> The GAO reported that 27 percent of students obtained degrees in those > fields, which are known as the STEM disciplines, in the 2003-4 > academic year, compared with 32 percent in 1994-95. It also noted that > the number of degrees obtained in engineering, the biological > sciences, and certain technical fields declined in the past decade. > The number of graduate degrees awarded in the STEM fields also > declined, it said.
+> The GAO reported that 27 percent of students obtained degrees in those > fields, which are known as the STEM disciplines, in the 2003-4 > academic year, compared with 32 percent in 1994-95. It also noted that > the number of degrees obtained in engineering, the biological sciences, and certain technical fields declined in the past decade. The number of graduate degrees awarded in the STEM fields also declined, it said.
 
 *Percentage* is crucial. More & more people go college, but it may simply be that the inclination and aptitude for technical disciplines was long ago tapped out. And frankly, my personal experience is that many of the “Studies” (but not all) are joke degrees. A friend who did biochemistry and international studies told me that the latter felt like what she could have learned in coffee shop bull sessions.
 

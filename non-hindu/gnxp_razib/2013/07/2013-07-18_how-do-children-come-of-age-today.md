@@ -31,7 +31,8 @@ Every generation thinks that it is the last **and** first in some deep fundament
 
 ### Related Posts:
 
-- [Boyhood](https://www.gnxp.com/WordPress/2014/09/07/boyhood/) - [The Golden
+- [Boyhood](https://www.gnxp.com/WordPress/2014/09/07/boyhood/)
+- [The Golden
   Compass](https://www.gnxp.com/WordPress/2007/12/08/the-golden-compass/) - ["Doctors don't cure
   nothing"](https://www.gnxp.com/WordPress/2012/01/01/doctors-dont-cure-nothing/) - ["Counterintuitive" social science finding of
   the…](https://www.gnxp.com/WordPress/2010/04/02/counterintuitive-social-science-finding-of-the-day/) - [A note on "Science

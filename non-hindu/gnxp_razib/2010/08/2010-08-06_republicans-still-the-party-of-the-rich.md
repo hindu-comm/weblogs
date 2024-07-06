@@ -11,8 +11,8 @@ Republicans still the party of the rich
 
 I notice that [Roger L. Simon](http://pajamasmedia.com/rogerlsimon/2010/08/01/the-party-of-the-rich/) has an uninformed post up, [The Party of the Rich](http://pajamasmedia.com/rogerlsimon/2010/08/01/the-party-of-the-rich/), where he says:
 
-> Back when I was a kid, we used to assume the Republicans were the > party of the rich. It was a given — all those plutocrats with > chauffeurs shuttling them between the penthouse in Sutton Place and > the weekend manse in Southampton. >
-> Of course that was pretty idiotic then (a Kennedy was in the White > House), **but it’s outright moronic now.**
+> Back when I was a kid, we used to assume the Republicans were the party of the rich. It was a given — all those plutocrats with chauffeurs shuttling them between the penthouse in Sutton Place and the weekend manse in Southampton. >
+> Of course that was pretty idiotic then (a Kennedy was in the White House), **but it’s outright moronic now.**
 
 There are some isolated data that the *super*-rich may now be more favorable to Democrats than Republicans, but by and large the classes with capital remain Republican. I looked at the [American National Election Studies](http://www.electionstudies.org/) data set for [2008](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+nes08new). Since minorities voted overwhelmingly for Obama I limited the sample to whites. Then I broke it down by income and looked at who they voted for and which party they identified with. The data seem to indicate that Roger L. Simon should not be throwing around terms like “moronic,” as he lives in quite the glass house.
 

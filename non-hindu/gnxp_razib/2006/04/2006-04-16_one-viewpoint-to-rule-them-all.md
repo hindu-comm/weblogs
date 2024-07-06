@@ -11,7 +11,7 @@ One viewpoint to rule them all
 
 I just [read](http://scienceblogs.com/dispatches/2006/04/follow_up_2_on_the_northern_ke.php) Ed Brayton’s commentary about an [attack](http://news.nky.com/apps/pbcs.dll/article?AID=/AB/20060414/NEWS0103/604140420) on a pro-life display on the campus of the University of Northern Kentucky. The professor who seems to have encouraged this is quoted as saying:
 
-> “Any violence perpetrated against that silly display was minor > compared to how I **felt** when I saw it. Some of my students **felt** > the same way, just outraged,” Jacobsen said.
+> “Any violence perpetrated against that silly display was minor compared to how I **felt** when I saw it. Some of my students **felt** the same way, just outraged,” Jacobsen said.
 
 First, great job on on refuting the stereotype that women think with their hearts rather than their head Herr Professor! “Outrage” or “repugnance,” Left or Right, it doesn’t matter. Affairs of the heart have a role to play in focusing the sights, but the trigger finger must be connected to the head.
 

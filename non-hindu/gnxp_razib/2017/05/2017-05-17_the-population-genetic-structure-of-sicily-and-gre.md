@@ -18,7 +18,7 @@ The authors confirm what I reported over two years ago on this blog: mainland an
 
 One has to be careful about dates inferred from genetic patterns. For example:
 
-> Significant admixture events successfully dated by ALDER reveal that > all Southern Italian and Balkan groups received contributions from > populations bearing a Continental European ancestry between 3.0 and > 1.5 kya
+> Significant admixture events successfully dated by ALDER reveal that all Southern Italian and Balkan groups received contributions from populations bearing a Continental European ancestry between 3.0 and 1.5 kya
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/heb02871.0001.001.jpg?resize=160%2C248)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/heb02871.0001.001.jpg?resize=160%2C248)](https://www.amazon.com/exec/obidos/ASIN/0804726302/geneexpressio-20)The beginning of folk wanderings in the Balkans which reshaped its ethnographic landscape really dates to the later 6th century, when the proto-Byzantines began to divert all its resources to the eastern front with Persia, and abandoned the hinterlands beyond the Mediterranean coast in Europe to shift its focus toward the Anatolian core of the empire. The Slavic migrations were such that there were tribes resident in the area of Sparta in the early medieval period. Presumably because they were not a seafaring folk they don’t seem to have had much impact on the islands.
 

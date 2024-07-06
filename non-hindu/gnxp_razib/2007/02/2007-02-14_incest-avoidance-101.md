@@ -11,15 +11,15 @@ Incest Avoidance 101
 
 A key part of the [kin selection](https://en.wikipedia.org/wiki/Kin_selection) theory of altruism is, well, that people can differentiate between “kin” and “not kin”. A [new paper](http://www.nature.com/nature/journal/v445/n7129/abs/nature05510.html) gives a model for how kinship is calculated:
 
-> As predicted, the kin detection system uses two distinct, ancestrally > valid cues to compute relatedness: the familiar other’s perinatal > association with the individual’s biological mother, and duration of > sibling coresidence.
+> As predicted, the kin detection system uses two distinct, ancestrally valid cues to compute relatedness: the familiar other’s perinatal association with the individual’s biological mother, and duration of sibling coresidence.
 
 That is, the kinship detector goes off if someone spends a lot of time with your mom, or if you’ve lived together for a while. The methods used to determine the level of “kinship” you feel for your sibling are the perfect Valentine’s day reading material:
 
 > Instrument 3: disgust imagining sexual acts with a sibling (Likert) >
-> Subjects were asked how disgusting they would find engaging in various > sexual and nonsexual behaviours on a 7-point Likert-like scale (0, not > disgusting at all; 6, extremely disgusting). Among these were sexual > acts with particular opposite sex siblings. For each opposite sex > sibling, independent ratings for passionately kissing, and having sex > with ‘your sibling’ were summed to produce a dependent variable, > sexual disgust (Likert).  
+> Subjects were asked how disgusting they would find engaging in various > sexual and nonsexual behaviours on a 7-point Likert-like scale (0, not > disgusting at all; 6, extremely disgusting). Among these were sexual > acts with particular opposite sex siblings. For each opposite sex sibling, independent ratings for passionately kissing, and having sex with ‘your sibling’ were summed to produce a dependent variable, sexual disgust (Likert).  
 > …  
 > Instrument 4: disgust imagining sexual acts with a sibling (rank) >
-> A subset of participants who completed Instrument 3 also completed > Instrument 4 (N = 375), which asked participants to assign a unique > rank of disgust from 1 (not disgusting at all) to 50 (extremely > disgusting) to eight acts, some of which involved sexual contact with > a family member, short of intercourse. Using the rank of the sexual > act involving a sibling, a variable, sexual disgust (rank), was > constructed (women, mean = 47.36, s.d. = 3.99; men, mean = 45.51, s.d. > = 9.91).
+> A subset of participants who completed Instrument 3 also completed > Instrument 4 (N = 375), which asked participants to assign a unique > rank of disgust from 1 (not disgusting at all) to 50 (extremely > disgusting) to eight acts, some of which involved sexual contact with > a family member, short of intercourse. Using the rank of the sexual act involving a sibling, a variable, sexual disgust (rank), was constructed (women, mean = 47.36, s.d. = 3.99; men, mean = 45.51, s.d. = 9.91).
 
 ### Related Posts:
 

@@ -11,11 +11,11 @@ The genetics of music?
 
 [Genes For Musical Aptitude In Finnish Families Located](http://www.sciencedaily.com/releases/2008/05/080519104624.htm):
 
-> Researchers from Finland and USA have identified one major and several > potential loci associated with musical aptitude in the human genome. > The results raise an interesting question about common evolutionary > background of music and language faculties.
+> Researchers from Finland and USA have identified one major and several potential loci associated with musical aptitude in the human genome. The results raise an interesting question about common evolutionary background of music and language faculties.
 
 The paper is open access, [Genome wide linkage scan for loci of musical aptitude in Finnish families:Evidence for a major locus at 4q22](http://jmg.bmj.com/cgi/content/abstract/jmg.2007.056366v1):
 
-> The heritability estimates were 42% for KMT, 57% for SP, 21% for ST > and 48% for the combined music test scores. Significant evidence of > linkage was obtained on chromosome 4q22 > ([LOD](https://en.wikipedia.org/wiki/Genetic_linkage) 3.33) and > suggestive evidence of linkage at 8q13-21 (LOD 2.29) with the combined > music test scores using variance component (VC) linkage analyses. The > major contribution for the 4q22 locus was obtained with KMT (LOD > 2.91). Interestingly, a positive LOD score of 1.69 was shown at 18q, a > region previously linked to dyslexia (DYX6), using combined music test > scores.
+> The heritability estimates were 42% for KMT, 57% for SP, 21% for ST > and 48% for the combined music test scores. Significant evidence of > linkage was obtained on chromosome 4q22 > ([LOD](https://en.wikipedia.org/wiki/Genetic_linkage) 3.33) and > suggestive evidence of linkage at 8q13-21 (LOD 2.29) with the combined > music test scores using variance component (VC) linkage analyses. The > major contribution for the 4q22 locus was obtained with KMT (LOD 2.91). Interestingly, a positive LOD score of 1.69 was shown at 18q, a region previously linked to dyslexia (DYX6), using combined music test scores.
 
 ### Related Posts:
 

@@ -29,7 +29,7 @@ At any rate, we see that, just as with their theoretical badges, academics make 
 
 The data only go up through 2001. Just eyeballing it, it’s conceivable that by 2025, these three Modernists won’t be given more respect than established authors like Jane Austen, and of course some may see their popularity plummet further to zero. This is a separate question from their artistic merit, obviously. For example, here’s some insight into the popularity of Shakespeare in [Samuel Pepys’ London](http://www.pepysdiary.com/archive/1662/09/29/):
 
-> \[A\]nd then to the King’s Theatre, where we saw “Midsummer’s Night’s > Dream,” which I had never seen before, nor shall ever again, for it is > the most insipid ridiculous play that ever I saw in my life. I saw, I > confess, some good dancing and some handsome women, which was all my > pleasure.
+> \[A\]nd then to the King’s Theatre, where we saw “Midsummer’s Night’s > Dream,” which I had never seen before, nor shall ever again, for it is the most insipid ridiculous play that ever I saw in my life. I saw, I confess, some good dancing and some handsome women, which was all my pleasure.
 
 A devil’s advocate would say that academics gradually stopped writing about these authors because they’d exhausted what there is to say about them. But that’s not true: the trajectories are too similar. They just happened to decide “we’ve gotten all we can” from all three authors at more or less the same time? That sounds, instead, like they just grew bored of the Modernists in general and only wore them out to formal events where they’re de rigueur, rather than show them off to every stranger they chatted up at a cocktail party, academic conference, or public restroom.
 

@@ -15,7 +15,7 @@ A contrasting strategy would be to allow guest workers to arrive without extensi
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/westerncanon.jpeg?resize=183%2C275)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/westerncanon.jpeg?resize=183%2C275)](https://www.amazon.com/exec/obidos/ASIN/1573225142/geneexpressio-20)If we are going to have a points system we need to think about what we prioritize in potential migrants. Recently on Twitter the prominent public intellectual and astrophysicist Sean Carroll [expressed](https://twitter.com/seanmcarroll/status/900541403834404865) this opinion:
 
-> The idea that a science degree should count more than a humanities > degree toward being allowed to immigrate is dopey. -Signed, a > scientist.
+> The idea that a science degree should count more than a humanities degree toward being allowed to immigrate is dopey. -Signed, a scientist.
 
 As of this writing that tweet received 150+ retweets and 500+ likes. It’s a popular view. **I also disagree with it.** That is, I think those with legitimate STEM educational and professional backgrounds should definitely get preference over those with non-STEM backgrounds, and in particular those with humanities degrees. There are two primary reasons I will give for this.
 

@@ -13,7 +13,9 @@ I can understand the lure of going off grid in countries like England.Quite apar
 
 Here is a rough idea of energy and water usage in our four bedroom cottage, with the four of us plus a lodger:
 
-- Electricity: about 8,000 kwh at £1,400 p/a - Oil: about 3,000 litres at £1,000 p/a - Water (including mains sewage): about 168,000 litres at £780 p/a
+- Electricity: about 8,000 kwh at £1,400 p/a
+- Oil: about 3,000 litres at £1,000 p/a
+- Water (including mains sewage): about 168,000 litres at £780 p/a
 
 Total: £3,180, almost ten times our total annual utility spend in our three bedroom flat in Bangalore
 

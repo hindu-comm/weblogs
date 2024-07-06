@@ -15,7 +15,7 @@ Data in this area is hard to come by. Luckily, expression microarrays have put a
 
 The authors propogated a number of these lines for 4000 generations, then assayed gene expression to see which genes had diverged in expression, and by how much. The results are somewhat intuitive– they find that gene expression evolvability is correlated with trans-mutational target size (as judged by expression profiling of knockout strains) and the presence of a particular promoter sequence. This is a small step in out understanding of regulatory evolution, but an important one. They conclude:
 
-> We show that not all genes are equally sensitive to the effects of > random spontaneous mutations and identify structural properties > (presence of a TATA box and trans-mutational target sizes) that > greatly influence a gene’s potential to undergo regulatory change. > These determinants provide a mechanistic basis to serve as a > foundation for more-realistic models of gene expression evolution that > account for levels of polymorphism and divergence in cis and trans > gene regulation.
+> We show that not all genes are equally sensitive to the effects of > random spontaneous mutations and identify structural properties > (presence of a TATA box and trans-mutational target sizes) that > greatly influence a gene’s potential to undergo regulatory change. > These determinants provide a mechanistic basis to serve as a foundation for more-realistic models of gene expression evolution that account for levels of polymorphism and divergence in cis and trans gene regulation.
 
 ### Related Posts:
 

@@ -13,7 +13,15 @@ It is always surreal to remember a time when a lot of what we now know about anc
 
 Table of Contents & Links
 
-- [Background](#Background) - [William Jones & the Asiatic Society of Bengal](#William-Jones) - [Understanding the Motives](#Understanding-Motives) - [The Breakthrough](#Breakthrough) - [The Decline of Pāṭaliputra](#Decline) - [Identifying Palibothra](#Identifying-Palibothra) - [Identifying Sandracottus](#Identifying-Sandracottus) - [Conclusion](#Conclusion) - [Bibliography](#Bibliography)
+- [Background](#Background)
+- [William Jones & the Asiatic Society of Bengal](#William-Jones)
+- [Understanding the Motives](#Understanding-Motives)
+- [The Breakthrough](#Breakthrough)
+- [The Decline of Pāṭaliputra](#Decline)
+- [Identifying Palibothra](#Identifying-Palibothra)
+- [Identifying Sandracottus](#Identifying-Sandracottus)
+- [Conclusion](#Conclusion)
+- [Bibliography](#Bibliography)
 
 ![](https://cestlaviepriya.files.wordpress.com/2022/11/chandragupta-receiving-megasthenes.jpg?w=1024)
 
@@ -59,7 +67,7 @@ Pāṭaliputra’s development from a small village settlement to being the capi
 
 By the time of the Maurya-s the name Pāṭaliputra had become the most commonly used. Megasthenes, who arrived in Magadha at the court of Chandragupta Maurya as an ambassador from Seleucucs Nikator gave a vivid description of the city, which he called as Palibothra, a Greek rendition of the Sanskrit Pāṭaliputra. Information from Megasthenes was to prove extremely helpful when attempts were made to locate Pāṭaliputra in the modern times. Interesting to note that the city had already been surrounded by what Patil calls ‘a halo of antiquity’ in Megasthenes’ time, though it was hardly 200 years old then for he ascribed its origin to a divine founder Heracles (to be identified either by Balarāma or Kṛṣṇa), under whom the superhuman beings were commissioned to build its palaces and buildings (Patil, 1963: 374).
 
-> Aśoka also mentioned it explicitly as the capital of his vast empire > in his rock edicts like the Girnār Rock Edict though the older names > like Kusumapura / Puśpapura were not forgotten. >
+> Aśoka also mentioned it explicitly as the capital of his vast empire in his rock edicts like the Girnār Rock Edict though the older names like Kusumapura / Puśpapura were not forgotten. >
 > **(Patil, 1963: 374)**
 
 However, when Xuanzang (Hiuen Tsang), the famous Chinese Buddhist monk and traveler visited Pāṭaliputra in \~ 635 CE, he found that the city had been long deserted with its ruins still standing and occupying an area neatly 70 li or 12 miles in extent – a small town of hardly a thousand houses (Patil, 1963: 376). And apparently not much had changed during the Pāla period as well. According to Patil, very little of Pāla remains were discovered at Paṭnā vis-à-vis other sites in the region. Even the name Pāṭaliputra seems to no longer be in common use. As per some Nālandā seals that were discovered, the small town or village which may have continued to exist at the site (Patil, 1963: 377) was seemingly called Śrīnagara or Nagara, which represented the ancient Pāṭaliputra in the Pāla period (Patil, 1963: 377).

@@ -15,7 +15,8 @@ Watson genome sequenced
 
 ### Related Posts:
 
-- [Ask GNXP - personal genome
+- [Ask GNXP
+- personal genome
   sequence](https://www.gnxp.com/WordPress/2006/07/25/ask-gnxp-personal-genome-sequence/) - [On the personal genomics turning
   point](https://www.gnxp.com/WordPress/2010/05/18/on-the-personal-genomics-turning-point/) - [MIT Technology Review on my son's whole genome
   sequencing](https://www.gnxp.com/WordPress/2014/06/13/mit-technology-review-on-my-sons-whole-genome-sequencing/) - [Tasmanian Tiger mtDNA

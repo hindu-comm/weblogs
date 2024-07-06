@@ -34,11 +34,11 @@ At this point you can see where Sullivan’s book is going, mixing a loosely wor
 
 I suspect most readers can connect the dots here. People may accept a religious precept which implies behavior in contradiction with the laws of the state. Additionally, religious precepts of different religions also often conflict and jockey for primacy in the public space. As an unbeliever, it does irritate to some extent that by the very nature of an action being condoned by a religion, that action is often acceptable, or at least within the field of play, when in a non-religious context there would be no argument. For example, [consider this practice](http://www.nytimes.com/2005/08/26/nyregion/26circumcise.html?ex=1282708800&en=c0c371a2c1343a00&ei=5090&partner=rssuserland&emc=rss):
 
-> The practice is known as oral suction \[redacted\]: after removing the > foreskin of the penis \[of an infant\], the practitioner \[redacted\] > sucks the blood from the wound to clean it.
+> The practice is known as oral suction \[redacted\]: after removing the foreskin of the penis \[of an infant\], the practitioner \[redacted\] sucks the blood from the wound to clean it.
 
 Now, with the full context:
 
-> The practice is known as oral suction, or in Hebrew, metzitzah b’peh: > after removing the foreskin of the penis, the practitioner, or mohel, > sucks the blood from the wound to clean it.
+> The practice is known as oral suction, or in Hebrew, metzitzah b’peh: after removing the foreskin of the penis, the practitioner, or mohel, sucks the blood from the wound to clean it.
 
 There is an implicit operation, (act or belief) X (religion) = lower threshold of outrage and incredulity. In previous times, and different places, the operation is more like so, (act or belief) X (my religion) = lower threshold of outrage and incredulity. For some Westerners the operation has been transformed in the following fashion: (act or belief) X (!my culture) = lower threshold of outrage and incredulity. An an unbeliever I am not happy about this situation, but as a realist I accept it as the way the world works. When the Mongol hordes were sweeping across Eurasia their leaders explicitly gave religious officials protection. Since the Mongols during this period did not adhere to a specific religious tradition, they were simply currying the favor of the gods of the conquered nations, but no doubt there was a utilitarian benefit in exempting the priests and turning them to Mongol purposes when it came to mollifying and controlling a restless population.
 
@@ -46,7 +46,7 @@ Sullivan does a good job placing the peculiarity of American elite religion in i
 
 In 1850 Archbishop of New York, [John Hughes](http://www.newadvent.org/cathen/07516a.htm), stated:
 
-> …all Pagan nations, and all Protestant nations, even England with her > proud Parliament…Everybody should know that we have for our mission to > convert the world-including the inhabitants of the United States-the > people of the cities, and the people of the country, the Officers of > the Navy and the Marines, commander of the Army, and the legislatures, > the Senate, the Cabinet, the President and all.
+> …all Pagan nations, and all Protestant nations, even England with her > proud Parliament…Everybody should know that we have for our mission to > convert the world-including the inhabitants of the United States-the people of the cities, and the people of the country, the Officers of the Navy and the Marines, commander of the Army, and the legislatures, the Senate, the Cabinet, the President and all.
 
 (source, [American Catholic](https://www.amazon.com/exec/obidos/ASIN/0679742212/geneexpressio-20/002-9044617-8757634))
 

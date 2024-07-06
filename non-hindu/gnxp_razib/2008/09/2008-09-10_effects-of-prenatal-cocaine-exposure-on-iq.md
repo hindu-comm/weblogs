@@ -11,7 +11,7 @@ Effects of Prenatal Cocaine Exposure on IQ
 
 In Obama’s [unexciting review](https://www.gnxp.com/blog/2008/09/barack-obama-on-bell-curve.php) of the Bell Curve, he remarked:
 
-> no one disputes that children whose mothers smoke crack when they’re > pregnant are going to have developmental problems.
+> no one disputes that children whose mothers smoke crack when they’re pregnant are going to have developmental problems.
 
 The relevant studies reveal a more complex picture, though. The effects of prenatal cocaine exposure on IQ remain heavily contested to this day. However, [recent evidence from Bennett et al](http://www.ncbi.nlm.nih.gov/pubmed/18605824) points to a 3 to 5 IQ point drop, on average. This is the most recent study on this subject that I’m aware of.
 

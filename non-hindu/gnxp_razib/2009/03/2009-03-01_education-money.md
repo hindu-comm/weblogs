@@ -11,18 +11,18 @@ Education & money
 
 [About His Deposit…](http://www.nytimes.com/2009/03/01/fashion/01private.html?src=SkimME&pagewanted=print):
 
-> Caroline Hall was supposed to sign the contract a month ago > guaranteeing a kindergarten spot for her son at an Upper East Side > private school. He had already spent two happy years attending its > early-childhood program. >
-> But Ms. Hall, a corporate counsel, began ducking the school’s calls. > Where was her deposit toward the \$22,000 tuition? The school had an > eager waiting list.
+> Caroline Hall was supposed to sign the contract a month ago guaranteeing a kindergarten spot for her son at an Upper East Side private school. He had already spent two happy years attending its early-childhood program. >
+> But Ms. Hall, a corporate counsel, began ducking the school’s calls. Where was her deposit toward the \$22,000 tuition? The school had an eager waiting list.
 
 Related, [Privileged children excel, even at low-performing comprehensives](http://www.timesonline.co.uk/tol/life_and_style/education/article3405934.ece):
 
-> Middle-class parents obsessed with getting their children into the > best schools may be wasting their time and money, academics say today. >
-> They found that children from privileged backgrounds excelled when > they were deliberately sent to inner-city comprehensives by parents > opposed to private schooling. >
-> Most of the children “performed brilliantly” at GCSE and A level and > 15 per cent of those who went on to university took places at Oxford > or Cambridge.
+> Middle-class parents obsessed with getting their children into the best schools may be wasting their time and money, academics say today. >
+> They found that children from privileged backgrounds excelled when they were deliberately sent to inner-city comprehensives by parents opposed to private schooling. >
+> Most of the children “performed brilliantly” at GCSE and A level and 15 per cent of those who went on to university took places at Oxford or Cambridge.
 
 See [The Nurture Assumption: Why Children Turn Out the Way They Do](https://www.amazon.com/exec/obidos/ASIN/0684857073/geneexpressio-20). Also this Bryan Caplan [post](http://econlog.econlib.org/archives/2009/02/food_and_the_fa.html):
 
-> The bottom line for parents, as usual, is: Chill out. Your kid will > probably do fine whatever you do. And even if he does badly, your > parenting is unlikely to help.
+> The bottom line for parents, as usual, is: Chill out. Your kid will probably do fine whatever you do. And even if he does badly, your parenting is unlikely to help.
 
 Reminder: **these are behavior genetic insights.** Parents presumably have more information about their individual child; i.e, how susceptible your offspring might be to retarded peer pressure. I had many friends with whom I played b-ball as a teenager who would laugh at the fact that I read books for fun and talked shit about it, but that has pretty much zero impact on me. The esteem of my fellow man has always been rather low on the pecking order of my values (this somewhat autistic tendency explains my youthful flirtation is hardcore libertarianism).
 

@@ -11,10 +11,10 @@ Different Neandertal strokes
 
 John Hawks, [Europe and China have different Neandertal genes](http://johnhawks.net/weblog/reviews/neandertals/neandertal_dna/europe-china-neandertal-comparisons-2011.html):
 
-> This is very striking. China and Europe by and large have different > Neandertal-derived haplotypes. Haplotypes from Neandertals that are > common in Europe — say, with more than two or three copies — are > mostly rare in China. And vice-versa; haplotypes that are common in > CHB are rare in CEU. >
-> Why should this be? Green and colleagues…hypothesized an early > population mixture of Africans and Neandertals in West Asia, before > that population dispersed throughout the rest of Eurasia. This > hypothesis was meant to explain why China and Europe have the same > proportion of Neandertal genes. >
-> I think that is also consistent with the fact that China and Europe > have different Neandertal genes. If the population mixture was > followed by substantial genetic drift as the West Asian population > dispersed in different geographic directions, drift would randomly > increase the frequency of some haplotypes in one direction, others in > the other direction. Europe and China would end up with the same > proportion of Neandertal ancestry, but it would be distributed very > differently among loci. >
-> **Next, we’ll examine whether this pattern is the same for the rest of > the chromosomes. Or maybe something even more interesting…**
+> This is very striking. China and Europe by and large have different > Neandertal-derived haplotypes. Haplotypes from Neandertals that are common in Europe — say, with more than two or three copies — are mostly rare in China. And vice-versa; haplotypes that are common in CHB are rare in CEU. >
+> Why should this be? Green and colleagues…hypothesized an early > population mixture of Africans and Neandertals in West Asia, before that population dispersed throughout the rest of Eurasia. This hypothesis was meant to explain why China and Europe have the same proportion of Neandertal genes. >
+> I think that is also consistent with the fact that China and Europe > have different Neandertal genes. If the population mixture was > followed by substantial genetic drift as the West Asian population > dispersed in different geographic directions, drift would randomly > increase the frequency of some haplotypes in one direction, others in the other direction. Europe and China would end up with the same proportion of Neandertal ancestry, but it would be distributed very differently among loci. >
+> **Next, we’ll examine whether this pattern is the same for the rest of the chromosomes. Or maybe something even more interesting…**
 
 Guesses? I’m assuming it has something to do with adaptation.
 

@@ -15,7 +15,7 @@ This puts the public, and those who serve them in a peculiar position. Last year
 
 Now researchers are going back to the original studies which supported modern orthodoxy, and finding results that are surprising. [Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)](http://www.bmj.com/content/353/bmj.i1246). Here is the conclusion:
 
-> Available evidence from randomized controlled trials shows that > replacement of saturated fat in the diet with linoleic acid > effectively lowers serum cholesterol but does not support the > hypothesis that this translates to a lower risk of death from coronary > heart disease or all causes. Findings from the Minnesota Coronary > Experiment add to growing evidence that incomplete publication has > contributed to overestimation of the benefits of replacing saturated > fat with vegetable oils rich in linoleic acid.
+> Available evidence from randomized controlled trials shows that > replacement of saturated fat in the diet with linoleic acid > effectively lowers serum cholesterol but does not support the > hypothesis that this translates to a lower risk of death from coronary > heart disease or all causes. Findings from the Minnesota Coronary Experiment add to growing evidence that incomplete publication has contributed to overestimation of the benefits of replacing saturated fat with vegetable oils rich in linoleic acid.
 
 The whole story is told over at [Scientific American](https://www.scientificamerican.com/article/records-found-in-dusty-basement-undermine-decades-of-dietary-advice/?WT.mc_id=SA_FB_HLTH_NEWS).
 

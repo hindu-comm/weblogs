@@ -19,7 +19,7 @@ Since the early 2000s *[FOXP2](http://www.nytimes.com/2002/08/15/us/language-gen
 
 It isn’t difficult to connect the dots here. From 2002:
 
-> Dr. Paabo says this date fits with the theory advanced by **Dr. Klein > to account for the sudden appearance of novel behaviors 50,000 years > ago**, including art, ornamentation and long distance trade. Human > remains from this period are physically indistinguishable from those > of 100,000 years ago, leading Dr. Klein to propose that some > genetically based cognitive change must have prompted the new > behaviors. The only change of sufficient magnitude, in his view, is > acquisition of language.
+> Dr. Paabo says this date fits with the theory advanced by **Dr. Klein > to account for the sudden appearance of novel behaviors 50,000 years > ago**, including art, ornamentation and long distance trade. Human > remains from this period are physically indistinguishable from those > of 100,000 years ago, leading Dr. Klein to propose that some genetically based cognitive change must have prompted the new behaviors. The only change of sufficient magnitude, in his view, is acquisition of language.
 
 Klein’s thesis, advanced in [The Dawn of Human Culture](https://www.amazon.com/exec/obidos/ASIN/0471252522/geneexpressio-20), is that a singular genetic change resulted in some sort of developmental cascade that allowed for the emergence of syntactically rich recursive language. And from language comes culture, and from culture comes world domination.
 
@@ -29,7 +29,7 @@ But *FOXP2* keeps coming back. Why? It is an important gene. But another issue i
 
 A new preprint (which is somewhat peculiarly formatted), takes another look at *FOXP2*, [Human-specific changes in two functional enhancers of FOXP2](http://www.biorxiv.org/content/early/2017/06/28/157016):
 
-> Two functional enhancers of FOXP2, a gene important for language > development and evolution, exhibit several human-specific changes > compared to extinct hominins that are located within the binding site > for different transcription factors. Specifically, Neanderthals and > Denisovans bear the ancestral allele in one position within the > binding site for SMARCC1, involved in brain development and vitamin D > metabolism. This change might have resulted in a different pattern of > FOXP2 expression in our species compared to extinct hominins.
+> Two functional enhancers of FOXP2, a gene important for language > development and evolution, exhibit several human-specific changes > compared to extinct hominins that are located within the binding site > for different transcription factors. Specifically, Neanderthals and > Denisovans bear the ancestral allele in one position within the binding site for SMARCC1, involved in brain development and vitamin D metabolism. This change might have resulted in a different pattern of FOXP2 expression in our species compared to extinct hominins.
 
 The big picture is now the authors are focusing on **gene expression levels as what might allow for modern human traits to be distinctive.** Basically the DNA does not magically turn into protein. Biological machinery has to transcribe the sequence, and to transcribe it it has to bind to a particular region, a transcription factor binding site.
 

@@ -13,9 +13,9 @@ Wired has an [article](http://www.wired.com/science/discoveries/news/2007/10/dna
 
 The science is banal. The politics, less so. For example:
 
-> Besides the expense, many people who might benefit from DNAWitness > either don’t know it exists or are extremely skeptical that it works. > William C. Thompson, Chair of the Department of Criminology, Law & > Society at UC Irvine is a prominent expert on the use of DNA in > criminal trials but was only marginally familiar with this technology. > **When I tried to describe how it works, he literally screamed at me, > calling Frudakis a hack and a charlatan who obviously did not > understand statistics**.  
+> Besides the expense, many people who might benefit from DNAWitness > either don’t know it exists or are extremely skeptical that it works. > William C. Thompson, Chair of the Department of Criminology, Law & > Society at UC Irvine is a prominent expert on the use of DNA in > criminal trials but was only marginally familiar with this technology. **When I tried to describe how it works, he literally screamed at me, calling Frudakis a hack and a charlatan who obviously did not understand statistics**.  
 > …  
-> But even the people one might think should be his biggest allies > aren’t supporting that, including Tony Clayton, the special prosecutor > who tried one of the Baton Rouge murder cases. Clayton, who is black, > admits that he initially dismissed Frudakis as some white guy trying > to substantiate his racist views. He no longer believes that and says > “had it not been for Frudakis, we would still be looking for the white > guy in the white pick-up truck.” But then he adds, **“We’ve been > taught that we’re all the same, that we bleed the same blood. If you > subscribe to the (Frudakis) theory, you’re saying we are inherently > unequal.”**
+> But even the people one might think should be his biggest allies > aren’t supporting that, including Tony Clayton, the special prosecutor > who tried one of the Baton Rouge murder cases. Clayton, who is black, > admits that he initially dismissed Frudakis as some white guy trying > to substantiate his racist views. He no longer believes that and says > “had it not been for Frudakis, we would still be looking for the white > guy in the white pick-up truck.” But then he adds, **“We’ve been taught that we’re all the same, that we bleed the same blood. If you subscribe to the (Frudakis) theory, you’re saying we are inherently unequal.”**
 
 [William C. Thompson](http://socialecology.uci.edu/faculty/thompson/) has written about forensic DNA evidence in his research, so his anger must not have been driven by ignorance. And as for the idea that because two populations have different genetic profiles that means that they are “inherently unequal,” that’s depends on what metric you’re using as a measure. A lawyer should know that all Americans have the same rights and equal worth before the law whether they are good at digesting lactose or tall, both by the grace of genes.
 
@@ -25,7 +25,8 @@ Finally, there is the issue of the practical use of these tests. As noted in the
 
 ### Related Posts:
 
-- [Eye color](https://www.gnxp.com/WordPress/2006/05/10/eye-color/) - [How different are gene expression levels between
+- [Eye color](https://www.gnxp.com/WordPress/2006/05/10/eye-color/)
+- [How different are gene expression levels between
   Europeans…](https://www.gnxp.com/WordPress/2008/12/06/how-different-are-gene-expression-levels-between-europeans-and-africans/) - [Obesity inversely correlated with European ancestry
   among…](https://www.gnxp.com/WordPress/2009/05/22/obesity-inversely-correlated-with-european-ancestry-among-african-americans/) - [Gene expression, African Americans &
   Europeans](https://www.gnxp.com/WordPress/2008/12/08/gene-expression-african-americans-europeans/) - [Obesity & ancestry in African

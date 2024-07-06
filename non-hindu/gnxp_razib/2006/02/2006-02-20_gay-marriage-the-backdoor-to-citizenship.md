@@ -11,10 +11,10 @@ Gay Marriage: The Backdoor to Citizenship
 
 Remember the [Canadian hoax](http://angrygwn.mu.nu/archives/111250.php) last summer that involved two straight guys, Bryan Pinn and Bill Dalrymple, who decided to try out Canada’s new fangled gay marriage law solely for the benefits that they would get from taking the plunge? Their’s was an entirely feasible plan because the law doesn’t require consummation in order to be valid. Well, Britain’s civil partnership law also doesn’t require consummation and enterprising immigration lawyers are advising their foreign clients of these [nuances](http://www.timesonline.co.uk/article/0,,2087-2047390,00.html):
 
-> Undercover reporters were told by six different firms of solicitors > how to exploit a loophole in the civil partnership rules to get > passports. >
-> Immigrants face less rigorous tests if they seek to gain British > citizenship through a civil partnership than through a heterosexual > marriage. >
-> Under laws that took effect last December, gay people have the same > immigration rights as married people – and may secure a full passport > after two years in the country. >
-> However, while marriages have to be consummated to qualify there is no > such requirement on couples in a civil partnership. It is thus not > illegal for two heterosexual friends to form a civil partnership and > then to “divorce” after two years once the foreigner has gained > British citizenship.
+> Undercover reporters were told by six different firms of solicitors how to exploit a loophole in the civil partnership rules to get passports. >
+> Immigrants face less rigorous tests if they seek to gain British citizenship through a civil partnership than through a heterosexual marriage. >
+> Under laws that took effect last December, gay people have the same immigration rights as married people – and may secure a full passport after two years in the country. >
+> However, while marriages have to be consummated to qualify there is no > such requirement on couples in a civil partnership. It is thus not illegal for two heterosexual friends to form a civil partnership and then to “divorce” after two years once the foreigner has gained British citizenship.
 
 ### Related Posts:
 

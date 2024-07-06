@@ -11,7 +11,7 @@ Europe and alcoholism
 
 [Genetic Variability, Economic Behavior and the Formation of Social Norms: The Case of European Alcohol Consumption](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=639045)
 
-> Alcohol consumption patterns vary across Europe. Northern Europeans > frequently engage in excessive drinking in social situations (EDSS), > behavior less common in southern Europe. We develop a model to explore > whether these behavioral differences could be rooted in genetic > variations across Europe and then compounded by social reinforcement > mechanisms. Our results suggest conditions exist in which EDSS can > emerge as a strategy in a larger fraction of the population than is > genetically predisposed to EDSS. Implications for the current effort > to harmonize alcohol policy across the European Union are explored.
+> Alcohol consumption patterns vary across Europe. Northern Europeans > frequently engage in excessive drinking in social situations (EDSS), > behavior less common in southern Europe. We develop a model to explore > whether these behavioral differences could be rooted in genetic > variations across Europe and then compounded by social reinforcement > mechanisms. Our results suggest conditions exist in which EDSS can emerge as a strategy in a larger fraction of the population than is genetically predisposed to EDSS. Implications for the current effort to harmonize alcohol policy across the European Union are explored.
 
 You can read the [full working paper](http://www-sekon.slu.se/%7Ebkr/ulv04naevdal.pdf) yourself. They don’t seem to take into account superior southern European alcohol metabolization, but they do point out that northern Europeans are likely to be innately shyer. Alternative title: “Why Finns get shit-faced.”
 

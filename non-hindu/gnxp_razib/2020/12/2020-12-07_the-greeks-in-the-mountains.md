@@ -19,13 +19,14 @@ Because the piece has Reich and his lab spotlighted, they allude to the controve
 
 Here’s why he’s a mensch:
 
-> Still, some anthropologists, social scientists, and even geneticists > are deeply uncomfortable with any research that explores the > hereditary differences among populations. Reich is insistent that race > is an artificial category rather than a biological one, but maintains > that “substantial differences across populations” exist. He thinks > that it’s not unreasonable to investigate those differences > scientifically, although he doesn’t undertake such research himself. > “Whether we like it or not, people are measuring average differences > among groups,” he said. “We need to be able to talk about these > differences clearly, whatever they may be. Denying the possibility of > substantial differences is not for us to do, given the scientific > reality we live in.”
+> Still, some anthropologists, social scientists, and even geneticists > are deeply uncomfortable with any research that explores the > hereditary differences among populations. Reich is insistent that race > is an artificial category rather than a biological one, but maintains > that “substantial differences across populations” exist. He thinks > that it’s not unreasonable to investigate those differences > scientifically, although he doesn’t undertake such research himself. > “Whether we like it or not, people are measuring average differences > among groups,” he said. “We need to be able to talk about these differences clearly, whatever they may be. Denying the possibility of substantial differences is not for us to do, given the scientific reality we live in.”
 
 This is, in 2020, is an old-fashioned view. There are now young American researchers who frankly express disquiet and discomfort at the idea of studying human population genetic variation, period. Including people who themselves have studied topics such as polygenic adaptation in humans. This would be a very strange view for older researchers, but it’s not totally out of the norm today, so expect someone like Reich to be viewed as quite the dinosaur in a decade. It seems ridiculous to say, but I do wonder if we’re seeing the end of the “humans as a model organism” era. Lots of ppl are not happy with the new atmosphere, but lots of people just keep quiet and go along.
 
 ### Related Posts:
 
-- [The Greeks](https://www.gnxp.com/WordPress/2007/03/18/the-greeks/) - [The origins of
+- [The Greeks](https://www.gnxp.com/WordPress/2007/03/18/the-greeks/)
+- [The origins of
   China](https://www.gnxp.com/WordPress/2009/08/23/the-origins-of-china/) - [Australia on
   fire](https://www.gnxp.com/WordPress/2011/10/13/australia-on-fire/) - [Indra is absolved: The "caste system" predates
   the…](https://www.gnxp.com/WordPress/2022/08/15/indra-is-absolved-the-caste-system-predates-the-indo-aryans/) - [Our ancestors are part us...or the other way

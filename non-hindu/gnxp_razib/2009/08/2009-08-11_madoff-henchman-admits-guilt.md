@@ -11,10 +11,10 @@ Madoff henchman admits guilt
 
 [‘It Was All Fake,’ Madoff Aide Tells Court](http://www.nytimes.com/2009/08/12/business/12madoff.html?src=sch):
 
-> Frank DiPascali was an 18-year-old “kid from Queens” with a high > school education when he landed a job with a rising star on Wall > Street named Bernard L. Madoff.  
+> Frank DiPascali was an 18-year-old “kid from Queens” with a high school education when he landed a job with a rising star on Wall Street named Bernard L. Madoff.  
 > …  
-> “No purchases or sales of securities were actually taking place in > their accounts,” Mr. DiPascali said. “It was all fake. It was all > fictitious. It was wrong, and I knew it was wrong at the time.”  
-> He said he used data from the Internet to create fake trade blotters, > sent out fraudulent account statements to clients and carried out wire > transfers between Mr. Madoff’s London and New York offices to create > the impression that the firm was earning commissions from stock > trades.
+> “No purchases or sales of securities were actually taking place in their accounts,” Mr. DiPascali said. “It was all fake. It was all fictitious. It was wrong, and I knew it was wrong at the time.”  
+> He said he used data from the Internet to create fake trade blotters, > sent out fraudulent account statements to clients and carried out wire transfers between Mr. Madoff’s London and New York offices to create the impression that the firm was earning commissions from stock trades.
 
 ### Related Posts:
 

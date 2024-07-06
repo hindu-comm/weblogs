@@ -17,22 +17,22 @@ Josh Green [reminisces](http://www.theatlantic.com/culture/archive/2010/11/how-t
 
 Cultures differ. Check out the [definition for ‘Islamophobia’](http://www.islamophobia-watch.com/islamophobia-a-definition/). Now read this article, [Palestinian held for Facebook criticism of Islam](https://www.google.com/hostednews/ap/article/ALeqM5iGirFhfPS8mc9cj0KHaAaLW5yk2A?docId=800adda8d2fb477abefa7df790b2e655):
 
-> Residents of Qalqiliya say they had no idea that Walid Husayin — the > 26-year-old son of a Muslim scholar — was leading a double life. >
-> Known as a quiet man who prayed with his family each Friday and spent > his evenings working in his father’s barbershop, Husayin was secretly > posting anti-religion rants on the Internet during his free time. >
-> Now, he faces a potential life prison sentence on heresy charges for > “insulting the divine essence.” **Many in this conservative Muslim > town say he should be killed for renouncing Islam, and even family > members say he should remain behind bars for life.** >
-> “He should be burned to death,” said Abdul-Latif Dahoud, a 35-year-old > Qalqiliya resident. The execution should take place in public “to be > an example to others,” he added. >
-> Over several years, Husayin is suspected of posting arguments in favor > of atheism on English and Arabic blogs, where he described the God of > Islam as having the attributes of a “primitive Bedouin.” **He called > Islam a “blind faith that grows and takes over people’s minds where > there is irrationality and ignorance.”** >
-> If that wasn’t enough, he is also suspected of creating three Facebook > groups in which he sarcastically declared himself God and ordered his > followers, among other things, to smoke marijuana in verses that spoof > the Muslim holy book, the Quran. At its peak, **Husayin’s > Arabic-language blog had more than 70,000 visitors, overwhelmingly > from Arab countries.** >
+> Residents of Qalqiliya say they had no idea that Walid Husayin — the 26-year-old son of a Muslim scholar — was leading a double life. >
+> Known as a quiet man who prayed with his family each Friday and spent his evenings working in his father’s barbershop, Husayin was secretly posting anti-religion rants on the Internet during his free time. >
+> Now, he faces a potential life prison sentence on heresy charges for “insulting the divine essence.” **Many in this conservative Muslim town say he should be killed for renouncing Islam, and even family members say he should remain behind bars for life.** >
+> “He should be burned to death,” said Abdul-Latif Dahoud, a 35-year-old Qalqiliya resident. The execution should take place in public “to be an example to others,” he added. >
+> Over several years, Husayin is suspected of posting arguments in favor > of atheism on English and Arabic blogs, where he described the God of Islam as having the attributes of a “primitive Bedouin.” **He called Islam a “blind faith that grows and takes over people’s minds where there is irrationality and ignorance.”** >
+> If that wasn’t enough, he is also suspected of creating three Facebook > groups in which he sarcastically declared himself God and ordered his > followers, among other things, to smoke marijuana in verses that spoof the Muslim holy book, the Quran. At its peak, **Husayin’s Arabic-language blog had more than 70,000 visitors, overwhelmingly from Arab countries.** >
 > … >
-> Husayin is the first to be arrested in the West Bank for his religious > views, said Tayseer Tamimi, the former chief Islamic judge in the > area. >
-> **The Western-backed Palestinian Authority is among the more > religiously liberal Arab governments in the region**. It is dominated > by secular elites and has frequently cracked down on hardline Muslims > and activists connected to its conservative Islamic rival, Hamas. >
-> Husayin’s high public profile and prickly style, however, left > authorities no choice but to take action. >
+> Husayin is the first to be arrested in the West Bank for his religious views, said Tayseer Tamimi, the former chief Islamic judge in the area. >
+> **The Western-backed Palestinian Authority is among the more religiously liberal Arab governments in the region**. It is dominated by secular elites and has frequently cracked down on hardline Muslims and activists connected to its conservative Islamic rival, Hamas. >
+> Husayin’s high public profile and prickly style, however, left authorities no choice but to take action. >
 > … >
-> Instead, he began going to an Internet cafe — a move that turned out > to be a costly mistake. The owner, Ahmed Abu-Asal, **said the blogger > aroused suspicion by spending up to seven hours a day in a corner > booth.** After several months, a cafe worker supplied captured > snapshots of his Facebook pages to Palestinian intelligence officials. >
+> Instead, he began going to an Internet cafe — a move that turned out > to be a costly mistake. The owner, Ahmed Abu-Asal, **said the blogger aroused suspicion by spending up to seven hours a day in a corner booth.** After several months, a cafe worker supplied captured snapshots of his Facebook pages to Palestinian intelligence officials. >
 > … >
-> He could face a life sentence if he’s found guilty, depending on how > harshly the judge thinks he attacked Islam and how widely his views > were broadcast, said Islamic scholar Tamimi. >
-> Even so, a small minority has questioned whether the government went > too far. >
-> Zainab Rashid, a liberal Palestinian commentator, wrote in an online > opinion piece that Husayin has made an important point: **“that > criticizing religious texts for their (intellectual) weakness can only > be combatted by … oppression, prison and execution.”**
+> He could face a life sentence if he’s found guilty, depending on how harshly the judge thinks he attacked Islam and how widely his views were broadcast, said Islamic scholar Tamimi. >
+> Even so, a small minority has questioned whether the government went too far. >
+> Zainab Rashid, a liberal Palestinian commentator, wrote in an online opinion piece that Husayin has made an important point: **“that criticizing religious texts for their (intellectual) weakness can only be combatted by … oppression, prison and execution.”**
 
 – I think many readers of this weblog could sympathize Walid Husayin. He seems to have been an “internet atheist,” obsessed with the rejection of theism which was so strongly normative in the world around him. Because of the familial expectations he clearly had to live a lie in public, so he took out his angst in private. We’re not talking [Michael Servetus](https://en.wikipedia.org/wiki/Michael_Servetus) here, we’re talking an angry 15 year old on LiveJournal (no offense, but in societies where men live with their families deep into their 20s they are usually psychologically teenagers in my experience).
 
@@ -42,7 +42,7 @@ Cultures differ. Check out the [definition for ‘Islamophobia’](http://www.is
 
 – The blog [Breaking Spells](http://breakingspells.net/the-spell-of-islam-difficult-to-break/) asserts:
 
-> Regardless, only the most backward of societies -the most primitive of > this world- would still have the barbaric and mindless law which > allows a death sentence for blasphemy….
+> Regardless, only the most backward of societies -the most primitive of this world- would still have the barbaric and mindless law which allows a death sentence for blasphemy….
 
 Here’s a map of the UN’s Human Development Index (black is the lowest category, but lighter blue shades are lower):
 

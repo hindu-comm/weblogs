@@ -11,7 +11,7 @@ Are agnostics pu**ies?
 
 A friend of mine, a biology graduate student, emailed me the following:
 
-> i did recently get in an argument with a fellow student (and friend) > because he said he thought he was verging on being a **militant > agnostic eugenicist**, but i said being a militant agnostic was > idiotic because agnostics are just pussies. That got a big response > from a few people around me.
+> i did recently get in an argument with a fellow student (and friend) > because he said he thought he was verging on being a **militant agnostic eugenicist**, but i said being a militant agnostic was idiotic because agnostics are just pussies. That got a big response from a few people around me.
 
 I laughed for a while at that. Sometimes I feel decisively ambivalent.  
 **Postscript:** Just a note to those who find the use of the term “pussies” offensive and sexist, my correspondent is female. And one bad-ass-bitch at that.

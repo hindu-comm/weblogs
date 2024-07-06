@@ -32,7 +32,8 @@ While I sympathize with this mentality, I can’t agree with it. The Man has tak
 
 ### Related Posts:
 
-- [Boredom](https://www.gnxp.com/WordPress/2009/09/27/boredom/) - [Bobby Jindal: Creationist
+- [Boredom](https://www.gnxp.com/WordPress/2009/09/27/boredom/)
+- [Bobby Jindal: Creationist
   (???)...Politician!!!!](https://www.gnxp.com/WordPress/2008/06/16/bobby-jindal-creationist-politician/) - [Tis the Season to Learn
   Better](https://www.gnxp.com/WordPress/2005/12/23/tis-the-season-to-learn-better/) - [Bringing back street
   kids](https://www.gnxp.com/WordPress/2017/08/22/bringing-back-street-kids/) - [2006 Darwin

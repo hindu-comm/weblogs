@@ -18,8 +18,8 @@ Friday Fluff – January 21st, 2011
 3\) **Comment of the week**, in response to [The Assyrians and Jews: 3,000 years of common history](http://blogs.discovermagazine.com/gnxp/2011/01/the-assyrians-and-jews-3000-years-of-common-history/#comment-56893):
 
 > Dear Discover Magazine Editor, >
-> I am writing to you to inform you that Razib Khan, the author of your > Gene Expression Blog, has used ideas from my linearpopulation blog > without citing my work. >
-> His January 17th article “Assyrians and Jews: 3000 years of common > history” is only one of the latest examples. In it, he and David > Wesolowski, whom he cites, have used material from my articles, > including: >
+> I am writing to you to inform you that Razib Khan, the author of your Gene Expression Blog, has used ideas from my linearpopulation blog without citing my work. >
+> His January 17th article “Assyrians and Jews: 3000 years of common history” is only one of the latest examples. In it, he and David Wesolowski, whom he cites, have used material from my articles, including: >
 > Ashkenazi and Syrian Jews:  
 > http://linearpopulationmodel.blogspot.com/2010/12/ashkenazi-and-syrian-jews.html >
 > Eurogenes K10 Middle East Admixture Results:  
@@ -28,9 +28,9 @@ Friday Fluff – January 21st, 2011
 > http://linearpopulationmodel.blogspot.com/2010/11/assyrians.html >
 > Syria to Assyria: 3500 years of Demic Diffusion  
 > http://linearpopulationmodel.blogspot.com/2010/11/syria-to-assyria-3500-years-of-demic.html >
-> In addition to lacking a citation for these articles, he has used > material from numerous other articles on my blog without citation. >
-> I trust that you will help Razib tighten up his attention to > citation.  
-> Should he fail to do this, I have sufficient evidence to proceed with > this matter further. >
+> In addition to lacking a citation for these articles, he has used material from numerous other articles on my blog without citation. >
+> I trust that you will help Razib tighten up his attention to citation.  
+> Should he fail to do this, I have sufficient evidence to proceed with this matter further. >
 > Sincerely,  
 > Marnie Dunsmore  
 > Author: linear population model blog

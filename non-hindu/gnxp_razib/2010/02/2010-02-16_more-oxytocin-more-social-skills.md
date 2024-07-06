@@ -11,7 +11,7 @@ More oxytocin = more social skills?
 
 Ed Yong [reviews a new paper](http://scienceblogs.com/notrocketscience/2010/02/can_a_sniff_of_oxytocin_improve_the_social_skills_of_autisti.php?utm_source=selectfeed&utm_medium=rss):
 
-> The social interactions that come naturally to most people are > difficult for people with autism and Asperger syndrome. Simple matters > like making eye contact, reading expressions and working out what > someone else is thinking can be big challenges, even for > “high-functioning” and intelligent individuals. **Now, a preliminary > study of 13 people suggests that some of these social difficulties > could be temporarily relieved by inhaling a hormone called oxytocin.**
+> The social interactions that come naturally to most people are > difficult for people with autism and Asperger syndrome. Simple matters > like making eye contact, reading expressions and working out what > someone else is thinking can be big challenges, even for “high-functioning” and intelligent individuals. **Now, a preliminary study of 13 people suggests that some of these social difficulties could be temporarily relieved by inhaling a hormone called oxytocin.**
 
 Only 13 individuals. That being said, since we’re a medicated nation we might as well consider all possibilities….
 

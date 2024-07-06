@@ -11,7 +11,7 @@ Socialized personal genomics?
 
 [Norway to bring cancer-gene tests to the clinic](http://www.nature.com/news/norway-to-bring-cancer-gene-tests-to-the-clinic-1.9949):
 
-> Norway is set to become the first country to incorporate genome > sequencing into its national health-care system. The Scandinavian > nation, which has a population of 4.8 million, will use > ‘next-generation’ DNA sequencers to trawl for mutations in tumours > that might reveal which cancer treatments would be most effective.
+> Norway is set to become the first country to incorporate genome > sequencing into its national health-care system. The Scandinavian nation, which has a population of 4.8 million, will use ‘next-generation’ DNA sequencers to trawl for mutations in tumours that might reveal which cancer treatments would be most effective.
 
 The consensus seems to be that \~2000 the main proponents of human genomics oversold the short-term biomedical yield on this line of inquiry. But one rule of thumb is that the consequences of novel technologies are often misunderstood; overestimated in straightforward ways in the short-term, but underestimated in unexpected ways over the long-term. To get a sense, you can reread some of the science fiction of the 1950s inspired by [UNIVAC](https://en.wikipedia.org/wiki/UNIVAC_I). These mass pushes for nation-wide human genomics projects have a comprehensible headline intent. But I wonder if the real results are going to be something we can’t anticipate.
 

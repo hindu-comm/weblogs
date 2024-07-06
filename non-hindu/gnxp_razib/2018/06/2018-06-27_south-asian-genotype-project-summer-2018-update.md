@@ -16,7 +16,10 @@ Again, if you are interested:**send me a 23andMe, Ancestry, MyHeritage, Family T
 
 In the subject please put:
 
-1.  “South Asian Genotype Project” 2.  The state/province your family is from 3.  Ethnolinguistic group 4.  If applicable, caste
+1.  “South Asian Genotype Project”
+2.  The state/province your family is from
+3.  Ethnolinguistic group
+4.  If applicable, caste
 
 I decided to some poking around with some of the higher quality samples people have given me. 180,000 SNPs with almost no genotyping missing rate. I also removed “relatives.” That means that a lot of Muslim groups from Pakistan had individuals dropping out. In the PCA above you can see 4 Burushos left! Not too many Pathans either.
 

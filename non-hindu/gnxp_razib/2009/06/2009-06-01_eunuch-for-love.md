@@ -11,7 +11,7 @@ Eunuch for love
 
 [Family axes wedding plans, Egyptian cuts off organ](https://www.google.com/hostednews/ap/article/ALeqM5jkQeFfl3y8YnKolTFhvdjo1IpAogD98HFSUG0):
 
-> A 25-year-old Egyptian man cut off his own penis to spite his family > after he was refused permission to marry a girl from a lower class > family, police reported Sunday.
+> A 25-year-old Egyptian man cut off his own penis to spite his family after he was refused permission to marry a girl from a lower class family, police reported Sunday.
 
 This kind of reminds me of self-castration for [religious reasons](https://en.wikipedia.org/wiki/Eunuch#Religious_castration). It is a reality that in many parts of the world children are property a very tangible way. Their marriages are arranged for the benefit of the lineage, as determined by the *pater familias*. [Honor killings](https://en.wikipedia.org/wiki/Honor_killing#As_a_cultural_practice) in fact show a face of this reality which comports with the most grisly functions of the classical Roman Republican ideal, where the *pater familias* had the power of life and death over his children.  
 H/T [Talk Islam](http://talkislam.info/2009/05/31/when-parents-have-too-much-power-egypti/)

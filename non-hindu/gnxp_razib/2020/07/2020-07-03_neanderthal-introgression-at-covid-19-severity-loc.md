@@ -15,7 +15,7 @@ But there are exceptions to this, whether through natural selection (the Neander
 
 Svante Paabo’s group has discovered a new candidate for introgression with a newsy twist, [The major genetic risk factor for severe COVID-19 is inherited from Neandertals](https://www.biorxiv.org/content/10.1101/2020.07.03.186296v1):
 
-> A recent genetic association study (Ellinghaus et al. 2020) identified > a gene cluster on chromosome 3 as a risk locus for respiratory failure > in SARS-CoV-2. Recent data comprising 3,199 hospitalized COVID-19 > patients and controls reproduce this and find that it is the major > genetic risk factor for severe SARS-CoV-2 infection and > hospitalization (COVID-19 Host Genetics Initiative). Here, we show > that the risk is conferred by a genomic segment of \~50 kb that is > inherited from Neandertals and occurs at a frequency of \~30% in south > Asia and \~8% in Europe.
+> A recent genetic association study (Ellinghaus et al. 2020) identified > a gene cluster on chromosome 3 as a risk locus for respiratory failure > in SARS-CoV-2. Recent data comprising 3,199 hospitalized COVID-19 > patients and controls reproduce this and find that it is the major > genetic risk factor for severe SARS-CoV-2 infection and > hospitalization (COVID-19 Host Genetics Initiative). Here, we show that the risk is conferred by a genomic segment of \~50 kb that is inherited from Neandertals and occurs at a frequency of \~30% in south Asia and \~8% in Europe.
 
 First, they need to change the title. From “The” to “a”. The study they’re piggybacking off of, [Genomewide Association Study of Severe Covid-19 with Respiratory Failure](https://www.nejm.org/doi/full/10.1056/NEJMoa2020283), found in several thousand **Spanish and Italian** individuals that a particular SNP that Paabo’s group found to be embedded in a haplotype of Neanderthal origin was a risk variant. There are other genetic risk locations, probably in Africans, and non-Europeans.
 
@@ -23,7 +23,10 @@ Within European populations, the odds ratio of severe respiratory failure all th
 
 The authors highlight the South Asian angle. But they focused on the 1000 Genomes. One of the SNPs in perfect LD with the causal variant. (1.0) is in major SNP-arrays. I computed the frequency in a range of modern and ancient (page down for the ancient) populations. You can see the pattern below.
 
-1.  It is a huge deal in South Asians 2.  It is found in high frequency in Papuans too… 3.  Non-trivial fractions in Near Eastern groups as well as Europeans 4.  Found in some ancient samples
+1.  It is a huge deal in South Asians
+2.  It is found in high frequency in Papuans too…
+3.  Non-trivial fractions in Near Eastern groups as well as Europeans
+4.  Found in some ancient samples
 
 My assumption is that there is some selective benefit from this. Notice how in Northeast Asians it’s almost totally expunged. Perhaps ancient coronavirus sweeps? I don’t know.
 

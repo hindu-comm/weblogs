@@ -11,10 +11,10 @@ Being a second class citizen means less responsibility!
 
 From the comments:
 
-> Jizya is only a financial tribute / aid to the Muslim State which is > in-charge of safeguarding the security of the state and non-muslim’s > lives and properties on their behalf.  
-> Non-muslims pay Jizya BUT they are EXEMPTED from any other taxes which > muslims pay in a Muslim State i.e. Zakat, Khums etc.  
-> As compared to taxes which the Muslims are subjected in a Muslim > state, the amount of Jizya is very low.  
-> As such, Jizya should not be interpreted as “Additional Tax” imposed > on non-muslims. It is rather a “lesser” obligation as compared to that > of a Muslim.
+> Jizya is only a financial tribute / aid to the Muslim State which is in-charge of safeguarding the security of the state and non-muslim’s lives and properties on their behalf.  
+> Non-muslims pay Jizya BUT they are EXEMPTED from any other taxes which muslims pay in a Muslim State i.e. Zakat, Khums etc.  
+> As compared to taxes which the Muslims are subjected in a Muslim state, the amount of Jizya is very low.  
+> As such, Jizya should not be interpreted as “Additional Tax” imposed on non-muslims. It is rather a “lesser” obligation as compared to that of a Muslim.
 
 I’ve heard this argument before from family members who are Muslims. This is analogous to Confederate apologists (“Southern patriots”) who explain that the Civil War (“War of Northern Aggression”) was actually fought fundamentally over tariffs and states’ rights. This is part of the story, but really dodges the moral of the tale of being told. In a traditional Muslim state non-Muslims, dhimmis, are “protected” as **second class citizens.** Their position is analogous to women in nations where suffrage is denied; women have no rights or responsibilities of citizenship, they are under the “protection” of their men. One major difference between women and dhimmis is that women are necessary for men, while dhimmis persist only at the pleasure of Muslim authorities. Once the proportion of dhimmis in a Muslim society reaches a low enough threshold there is a pattern of increased persecutions, pressures and violations of maxims such as “no compulsion in religion” (the best case-study of this phenomenon is in the Levant and Iran, where non-Muslim religious figures initially had a great deal of power and influence as mediators, but who were generally marginalized and shunted aside once Muslims became a majority).
 

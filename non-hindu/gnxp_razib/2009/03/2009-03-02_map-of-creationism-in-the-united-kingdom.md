@@ -21,7 +21,8 @@ What’s going on here? Wales & Northern Ireland fit our expectations as relativ
 
 ### Related Posts:
 
-- [Death map](https://www.gnxp.com/WordPress/2008/12/17/death-map/) - [2008 presidential
+- [Death map](https://www.gnxp.com/WordPress/2008/12/17/death-map/)
+- [2008 presidential
   map](https://www.gnxp.com/WordPress/2008/11/05/2008-presidential-map/) - [Creationism in America &
   Europe](https://www.gnxp.com/WordPress/2009/03/28/creationism-in-america-europe/) - [The genetic map of
   Britain](https://www.gnxp.com/WordPress/2012/07/09/the-genetic-map-of-britain/) - [The people aren't always right: Alabama

@@ -41,7 +41,8 @@ Is America and are Americans special because of something deep with us, or were 
 
 ### Related Posts:
 
-- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/) - [Crime way down. Who exactly knows
+- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/)
+- [Crime way down. Who exactly knows
   stuff?](https://www.gnxp.com/WordPress/2009/12/21/crime-way-down-who-exactly-knows-stuff/) - [Stanislav Petrov and our common
   humanity](https://www.gnxp.com/WordPress/2017/09/19/stanislav-petrov-and-our-common-humanity/) - [Open Thread - December 4th,
   2010](https://www.gnxp.com/WordPress/2010/12/04/open-thread-december-4th-2010/) - [More porn does not lead to less rape -- or to more

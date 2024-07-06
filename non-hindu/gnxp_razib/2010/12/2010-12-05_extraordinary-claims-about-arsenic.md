@@ -33,7 +33,7 @@ Rosie Redfield has a “must read” post, [Arsenic-associated bacteria (NASA’
 
 **Update:** Also, [Arsenate-based DNA: a big idea with big holes](http://scienceblogs.com/webeasties/2010/12/guest_post_arsenate-based_dna.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ResearchBloggingBiologyEnglish+(Research+Blogging+-+English+-+Biology)&utm_content=Google+Feedfetcher):
 
-> So the Sargasso Sea tells us that some bacteria are capable of making > DNA at very low phosphate concentrations. The most plausible > explanation is that the bacterium GFAJ-1 can make normal DNA at > micromolar phosphate concentrations, and that it also has the ability > to tolerate very high arsenate concentrations.
+> So the Sargasso Sea tells us that some bacteria are capable of making > DNA at very low phosphate concentrations. The most plausible explanation is that the bacterium GFAJ-1 can make normal DNA at micromolar phosphate concentrations, and that it also has the ability to tolerate very high arsenate concentrations.
 
 This seems like the “boring,” but most plausible, explanation.
 

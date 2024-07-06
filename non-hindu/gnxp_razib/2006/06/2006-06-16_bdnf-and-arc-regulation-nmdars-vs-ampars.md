@@ -28,7 +28,8 @@ This data is fairly consistent with a model of plasticity that relies heavily on
 
 ### Related Posts:
 
-- [Arc-o-mania](https://www.gnxp.com/WordPress/2006/11/13/arc-o-mania/) - [What a synapse does when it's not doing
+- [Arc-o-mania](https://www.gnxp.com/WordPress/2006/11/13/arc-o-mania/)
+- [What a synapse does when it's not doing
   anything](https://www.gnxp.com/WordPress/2006/07/09/what-a-synapse-does-when-it-s-not-doing-anything/) - [Super Glue](https://www.gnxp.com/WordPress/2006/05/28/super-glue/) - [Neuroeconomics happens in the
   brain](https://www.gnxp.com/WordPress/2009/04/15/neuroeconomics-happens-in-the-brain/) - [The more things
   change...](https://www.gnxp.com/WordPress/2006/12/02/the-more-things-change/) - [Synaptic

@@ -11,7 +11,7 @@ Origins of disease…
 
 [Origins of major human infectious diseases](http://www.nature.com/nature/journal/v447/n7142/abs/nature05775.html):
 
-> Many of the major human infectious diseases, including some now > confined to humans and absent from animals, are ‘new’ ones that arose > only after the origins of agriculture. Where did they come from? Why > are they overwhelmingly of Old World origins? Here we show that > answers to these questions are different for tropical and temperate > diseases; for instance, in the relative importance of domestic animals > and wild primates as sources. We identify five intermediate stages > through which a pathogen exclusively infecting animals may become > transformed into a pathogen exclusively infecting humans. We propose > an initiative to resolve disputed origins of major diseases, and a > global early warning system to monitor pathogens infecting individuals > exposed to wild animals.
+> Many of the major human infectious diseases, including some now > confined to humans and absent from animals, are ‘new’ ones that arose > only after the origins of agriculture. Where did they come from? Why > are they overwhelmingly of Old World origins? Here we show that > answers to these questions are different for tropical and temperate > diseases; for instance, in the relative importance of domestic animals > and wild primates as sources. We identify five intermediate stages > through which a pathogen exclusively infecting animals may become > transformed into a pathogen exclusively infecting humans. We propose an initiative to resolve disputed origins of major diseases, and a global early warning system to monitor pathogens infecting individuals exposed to wild animals.
 
 ### Related Posts:
 

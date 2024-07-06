@@ -11,7 +11,7 @@ British class differences persisting down centuries?
 
 [People with Norman names wealthier than other Britons](http://www.telegraph.co.uk/news/newstopics/howaboutthat/8424904/People-with-Norman-names-wealthier-than-other-Britons.html):
 
-> Research shows that the descendants of people who in 1858 had “rich” > surnames such as Percy and Glanville, indicating they were descended > from the French nobility, are still substantially wealthier in 2011 > than those with traditionally “poor” or artisanal surnames. Artisans > are defined as skilled manual workers.
+> Research shows that the descendants of people who in 1858 had “rich” > surnames such as Percy and Glanville, indicating they were descended from the French nobility, are still substantially wealthier in 2011 than those with traditionally “poor” or artisanal surnames. Artisans are defined as skilled manual workers.
 
 As [Steve Sailer](https://isteve.blogspot.com/2012/07/norman-v-saxon-after-946-years.html) observes **strict adherence to surnames on a mass scale post-dates the Norman invasion by centuries.** So the headline is pretty sensational. But I went and read the [original working paper](http://www.econ.ucdavis.edu/faculty/gclark/papers/Clark%20Cummins%201800-2012.pdf), **and there is no mention of Norman or French names!** The author of the piece in *The Telegraph* is probably right (i.e., a casual reading of history will show that Norman names are enriched in the English elite), but this is clearly another case of one having to be careful of the details when it comes to British media.
 

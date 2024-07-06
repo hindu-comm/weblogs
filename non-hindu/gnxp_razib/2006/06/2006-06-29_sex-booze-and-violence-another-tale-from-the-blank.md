@@ -13,7 +13,7 @@ The Swedish government, a world leader in gender equity, decided last year to ba
 
 Now, I know this will shock you all, but [according to local police](http://www.city.se/ArticlePages/200606/29/20060629071638_City532/20060629071638_City532.dbp.asp) this exercise in equality has led to increased levels of violence in Stockholm. According to “Stockholm City”:
 
-> We noticed that violence went up last autumn, that’s why we launched > an inquiry. It shows that when bars have dropped age limits for guys, > they admit these younger guys who can’t handle alcohol very well, and > then you have a fight on your hands, says Lars Lehman.
+> We noticed that violence went up last autumn, that’s why we launched an inquiry. It shows that when bars have dropped age limits for guys, they admit these younger guys who can’t handle alcohol very well, and then you have a fight on your hands, says Lars Lehman.
 
 Why, it’s almost as if men and women were different or something!
 

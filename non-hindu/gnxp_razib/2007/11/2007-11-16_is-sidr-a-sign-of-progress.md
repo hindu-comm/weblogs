@@ -16,7 +16,8 @@ I’m hoping I won’t have to change the tone of this post with an update when 
 
 ### Related Posts:
 
-- [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/) - [Our Enemy, The
+- [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/)
+- [Our Enemy, The
   State](https://www.gnxp.com/WordPress/2008/05/07/our-enemy-the-state/) - [American medicine & American
   red-tape](https://www.gnxp.com/WordPress/2012/02/13/american-medicine-american-red-tape/) - [Sidr hearsay
   blogging](https://www.gnxp.com/WordPress/2007/11/19/sidr-hearsay-blogging/) - [Religion & public attitudes: Europe vs.

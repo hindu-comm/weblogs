@@ -11,10 +11,10 @@ Remember the lizard men
 
 [Carl Zimmer](http://blogs.discovermagazine.com/loom/2009/10/29/teach-the-lizard-overlord-controversy/) points me an [article](http://www.collegian.com/home/index.cfm?event=displayArticlePrinterFriendly&uStory_id=f6a4be5f-6858-4557-8ef0-c5b9e42af680) about a former anthropologist who has some weird ideas about the origin of man:
 
-> Since his resignation from the university in 1990, however, Horn has > changed his tune. Once a staunch Darwinist and tenured CSU > anthropology professor, Horn has devoted the last 19 years of his life > to the study of alternative theories of human origin.  
-> After receiving a doctorate in anthropology from Yale University and > while teaching at CSU, Horn focused his energies on the study of the > evolution of non-human primates, his wife Lynette Horn said.  
-> He now advocates the theory that modern man is not the result of a > natural process of evolution, but that evolution was artificially > aided by reptilian extraterrestrials. The reptilians bred mankind as > servants and continue to rule the planet today, Horn said.  
-> Reptilians have manipulated perceptions of world history and hold > power over humankind through their influence over an elite and > powerful group of humans, known as the Illuminati, Arthur said. > Throughout human history, the reptilian beings have been recorded as > dragons or gods.
+> Since his resignation from the university in 1990, however, Horn has changed his tune. Once a staunch Darwinist and tenured CSU anthropology professor, Horn has devoted the last 19 years of his life to the study of alternative theories of human origin.  
+> After receiving a doctorate in anthropology from Yale University and while teaching at CSU, Horn focused his energies on the study of the evolution of non-human primates, his wife Lynette Horn said.  
+> He now advocates the theory that modern man is not the result of a natural process of evolution, but that evolution was artificially aided by reptilian extraterrestrials. The reptilians bred mankind as servants and continue to rule the planet today, Horn said.  
+> Reptilians have manipulated perceptions of world history and hold > power over humankind through their influence over an elite and powerful group of humans, known as the Illuminati, Arthur said. Throughout human history, the reptilian beings have been recorded as dragons or gods.
 
 Thought it was a joke, but it looks real.
 

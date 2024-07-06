@@ -13,7 +13,8 @@ Stem cells no?
 
 ### Related Posts:
 
-- [Stem cells - having your embryo and not eating it
+- [Stem cells
+- having your embryo and not eating it
   too?](https://www.gnxp.com/WordPress/2006/08/24/stem-cells-having-your-embryo-and-not-eating-it-too/) - [Stem
   cells....](https://www.gnxp.com/WordPress/2005/07/28/stem-cells/) - [Ethical stem cells,
   II](https://www.gnxp.com/WordPress/2006/11/22/ethical-stem-cells-ii/) - [Germ cells from stem

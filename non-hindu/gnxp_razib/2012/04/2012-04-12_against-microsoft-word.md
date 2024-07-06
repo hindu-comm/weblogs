@@ -11,7 +11,7 @@ Against Microsoft Word
 
 Until a few years ago if I had to use MS Office, I used Office 97. I’ve been using Open Office and its precursors going back to 2000, but sometimes people *really* want MS format, and the export and “save as” features of Open Office don’t always work the best.\* Now that I have upgraded to the new Word **I really miss the old version.** I thought that was due to my huge gap in usage, as what was a gradual shift seemed like a radical rupture to me. This indicates I’m [wrong](http://www.slate.com/articles/technology/technology/2012/04/microsoft_word_is_cumbersome_inefficient_and_obsolete_it_s_time_for_it_to_die_.single.html):
 
-> I know only one person who loves working in Word: my 4-year-old. It’s > valuable to him to be able to put the names of subway lines in their > correct colors, or to spell out “autumn” with each letter a different > falling-leaf hue, or to jump from Times New Roman to Comic Sans to > Chalkboard in midstory. He also loves to write things on my old manual > Smith-Corona. A tool that’s lost its purpose makes a great toy.
+> I know only one person who loves working in Word: my 4-year-old. It’s > valuable to him to be able to put the names of subway lines in their > correct colors, or to spell out “autumn” with each letter a different falling-leaf hue, or to jump from Times New Roman to Comic Sans to Chalkboard in midstory. He also loves to write things on my old manual Smith-Corona. A tool that’s lost its purpose makes a great toy.
 
 \* I’m in Linux a fair amount too, so it often isn’t an option.
 

@@ -11,9 +11,9 @@ Two weeks until the Unz Contest closes
 
 Wanted to [ping by readers on this](https://www.unzcontest.org/rules/):
 
-> As a means of publicizing the vast quantity of high-quality content > material uniquely available on its recently released > website,**[UNZ.org](http://www.unz.org/)**is announcing a historical > research competition. >
-> A**First Prize of \$10,000**and several other cash prizes will be > awarded for the most significant and interesting discussion or > analysis of some historical issue based on the published source > material provided at UNZ.org. All entries must be received > by**August 31, 2012**, and awards will be made by September 30, 2012. >
-> Interested participants should examine > the[rules](http://www.unzcontest.org/rules/ "Rules"), read the > description of the[available content source > material](http://www.unzcontest.org/source-material/), and > then[register](http://www.unzcontest.org/registration/ "Registration")for > the competition.
+> As a means of publicizing the vast quantity of high-quality content material uniquely available on its recently released website,**[UNZ.org](http://www.unz.org/)**is announcing a historical research competition. >
+> A**First Prize of \$10,000**and several other cash prizes will be > awarded for the most significant and interesting discussion or analysis of some historical issue based on the published source material provided at UNZ.org. All entries must be received by**August 31, 2012**, and awards will be made by September 30, 2012. >
+> Interested participants should examine > the[rules](http://www.unzcontest.org/rules/ "Rules"), read the > description of the[available content source material](http://www.unzcontest.org/source-material/), and then[register](http://www.unzcontest.org/registration/ "Registration")for the competition.
 
 Since I’m [a judge](http://www.unzcontest.org/competition-judges/) a few friends have asked if this is for real. Yes, it is.
 

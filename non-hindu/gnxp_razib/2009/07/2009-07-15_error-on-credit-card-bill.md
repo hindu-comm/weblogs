@@ -11,8 +11,8 @@ Error on credit card bill
 
 [Too big a bill](http://www.cnn.com/2009/US/07/15/quadrillion.dollar.glitch/index.html):
 
-> Josh Muszynski, 22, of Manchester, New Hampshire, was one Visa > customer aghast to find the 17-digit charge on his bill. Adding insult > to injury, he had also been hit with a \$15 overdraft fee.  
-> **He noticed that his debt exceeded the world GDP** while making a > routine balance inquiry on his online Bank of America account. > According to his statement, he had spent the profound sum in one pop > at a nearby Mobil gas station — his regular stop for Camel > cigarettes.  
+> Josh Muszynski, 22, of Manchester, New Hampshire, was one Visa customer aghast to find the 17-digit charge on his bill. Adding insult to injury, he had also been hit with a \$15 overdraft fee.  
+> **He noticed that his debt exceeded the world GDP** while making a > routine balance inquiry on his online Bank of America account. According to his statement, he had spent the profound sum in one pop at a nearby Mobil gas station — his regular stop for Camel cigarettes.  
 > “Very, very panicked,” he jumped in his car and sped to the station.
 
 ### Related Posts:

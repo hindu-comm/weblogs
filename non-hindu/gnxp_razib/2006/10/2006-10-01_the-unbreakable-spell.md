@@ -11,7 +11,7 @@ The unbreakable spell
 
 From [The Shia Revival](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FShia-Revival-Conflicts-within-Future%2Fdp%2F0393062112%2Fsr%3D1-1%2Fqid%3D1159758144%2Fref%3Dpd%5Fbbs%5F1%3Fie%3DUTF8%26s%3Dbooks&tag=geneexpressio-20&linkCode=ur2&camp=1789&creative=9325):
 
-> …Many nights during the war \[Iran-Iraq War\], Iranian soldiers would > wake up to see a white-shrouded figure on a white horse blessing them. > These apparitions of the Twelfth Imam were professional actors sent to > boost morale. The common soldiers, often peasant boys raised in an > atmosphere of simple piety, would then carry the tale to their > relatives and friends in the villages and small towns they called > home….
+> …Many nights during the war \[Iran-Iraq War\], Iranian soldiers would > wake up to see a white-shrouded figure on a white horse blessing them. > These apparitions of the Twelfth Imam were professional actors sent to > boost morale. The common soldiers, often peasant boys raised in an atmosphere of simple piety, would then carry the tale to their relatives and friends in the villages and small towns they called home….
 
 ### Related Posts:
 

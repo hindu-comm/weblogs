@@ -11,9 +11,9 @@ The World Space Agency a comin'?
 
 [NASA to Review Human Spaceflight](http://www.nytimes.com/2010/01/27/science/space/27nasa.html?src=sch&pagewanted=print):
 
-> The National Aeronautics and Space Administration is preparing for a > major evaluation of its human spaceflight program, even as many who > will conduct the survey have yet to be informed of the agency’s > revised mission.  
+> The National Aeronautics and Space Administration is preparing for a major evaluation of its human spaceflight program, even as many who will conduct the survey have yet to be informed of the agency’s revised mission.  
 > …  
-> The administration might also enlist the help and financing of other > nations to handle parts of space exploration — perhaps giving the > European Space Agency the job of building a lunar lander, for example.
+> The administration might also enlist the help and financing of other nations to handle parts of space exploration — perhaps giving the European Space Agency the job of building a lunar lander, for example.
 
 Perhaps [China](https://en.wikipedia.org/wiki/Chinese_space_program#After_the_end_of_the_Cold_War) vs. the world? Fodder for near-future science fiction.
 

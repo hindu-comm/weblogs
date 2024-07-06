@@ -14,16 +14,16 @@ Aftenposten, one of the leading newspapers in Norway, ran a [story](http://www.a
 Below the fold are some highlights from the article (apologies for the rough quality of my translation!) \>\>
 
 > **“Store babyer faar hoeyest IQ”** \[**“Big babies get highest IQ”**\] >
-> The birth weight of a newborn baby boy has significance for > intelligence, course \[success\] and income…. >
-> \[Martha Gunn\] Eide defends in a few days her Dr. Med. degree at the > University of Bergen. She has completed a very comprehensive study > based on the combined data of nearly 400,000 male children. >
-> “Are there grounds to believe there is a correlation between birth > weight and IQ also in girls?” >
-> “There is no call to believe that this would be appreciably different > for girls,” says Eide, who is affiliated with The Department of Public > Health and Primary Health Care, Faculty of Medicine at the University > of Bergen. >
-> Her study is based on information from the Medical Birth Register, > Vernepliktsverket \[compulsory military service department\], the > Statistics Central Bureau and the Rikstrygdeverket \[Social Insurance > department\]. With this Eide has followed ca. 317,000 baby boys that > were born in Norway between 1967-1979 through 18 years, as they met > the \[military\] recruitment in period 1984-1999. >
-> “The data are comprehensive facts analyzed for all boys in Norway over > a 13 year period,” says the Bergen researcher, who has worked four > years on the project. >
+> The birth weight of a newborn baby boy has significance for intelligence, course \[success\] and income…. >
+> \[Martha Gunn\] Eide defends in a few days her Dr. Med. degree at the University of Bergen. She has completed a very comprehensive study based on the combined data of nearly 400,000 male children. >
+> “Are there grounds to believe there is a correlation between birth weight and IQ also in girls?” >
+> “There is no call to believe that this would be appreciably different for girls,” says Eide, who is affiliated with The Department of Public Health and Primary Health Care, Faculty of Medicine at the University of Bergen. >
+> Her study is based on information from the Medical Birth Register, > Vernepliktsverket \[compulsory military service department\], the > Statistics Central Bureau and the Rikstrygdeverket \[Social Insurance department\]. With this Eide has followed ca. 317,000 baby boys that were born in Norway between 1967-1979 through 18 years, as they met the \[military\] recruitment in period 1984-1999. >
+> “The data are comprehensive facts analyzed for all boys in Norway over a 13 year period,” says the Bergen researcher, who has worked four years on the project. >
 > 5200 gram  
 > … >
-> “What we find is that birth weight is important for IQ. Higher birth > weight, higher IQ,” says [Kjell G. > Salvanes](http://www.nhh.no/sam/cv/salvanes-kjell.html) \[1\], > professor in Social Economics at the Norwegian School of Economics and > Business Administration in Bergen…. >
-> Professor Salvanes has, together with two other international > researchers, Sandra E. Black in Los Angeles and Paul J. Devereux in > Dublin, investigated which factors are responsible for who takes > higher degrees and get jobs with the highest pay….
+> “What we find is that birth weight is important for IQ. Higher birth > weight, higher IQ,” says [Kjell G. Salvanes](http://www.nhh.no/sam/cv/salvanes-kjell.html) \[1\], professor in Social Economics at the Norwegian School of Economics and Business Administration in Bergen…. >
+> Professor Salvanes has, together with two other international researchers, Sandra E. Black in Los Angeles and Paul J. Devereux in Dublin, investigated which factors are responsible for who takes higher degrees and get jobs with the highest pay….
 
 godless discussed birth weight and IQ [here](https://www.gnxp.com/MT2/archives/002613.html) while musing on C-sections as artificial selection.
 

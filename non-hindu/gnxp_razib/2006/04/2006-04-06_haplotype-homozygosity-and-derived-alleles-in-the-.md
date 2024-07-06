@@ -11,7 +11,7 @@ Haplotype Homozygosity and Derived Alleles in the Human Genome
 
 Published [today](http://www.journals.uchicago.edu/AJHG/journal/issues/v78n6/43304/brief/43304.abstract.html) in The American Journal of Human Genetics:
 
-> Haplotype-based techniques are being used to estimate the relative age > of alleles-particularly in screening loci for signals of recent > positive selection-but does this approach capture even coarse age > differences? Using simulations and empirical data from the > International HapMap Project, we show that a simple pairwise metric of > haplotype homozygosity gives significantly higher mean values for > human single-nucleotide-polymorphism alleles that appear to be derived > than for those that appear to be ancestral, as determined by > comparison with the chimpanzee genome. Our results support the use of > haplotype-based techniques, such as extended haplotypic homozygosity, > to assess the age of alleles.
+> Haplotype-based techniques are being used to estimate the relative age > of alleles-particularly in screening loci for signals of recent > positive selection-but does this approach capture even coarse age > differences? Using simulations and empirical data from the > International HapMap Project, we show that a simple pairwise metric of > haplotype homozygosity gives significantly higher mean values for > human single-nucleotide-polymorphism alleles that appear to be derived > than for those that appear to be ancestral, as determined by comparison with the chimpanzee genome. Our results support the use of haplotype-based techniques, such as extended haplotypic homozygosity, to assess the age of alleles.
 
 ### Related Posts:
 

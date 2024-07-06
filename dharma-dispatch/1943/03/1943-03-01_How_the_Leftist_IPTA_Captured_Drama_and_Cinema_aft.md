@@ -341,7 +341,7 @@ Share
 
 </div>
 
-> A Communist is commonly a zealot, moved by the intensity of his faith > or of his personal commitment to the Party to assume the mantle of the > prophet - *Gene & Windmiller*
+> A Communist is commonly a zealot, moved by the intensity of his faith or of his personal commitment to the Party to assume the mantle of the prophet - *Gene & Windmiller*
 
 <div>
 
@@ -353,7 +353,7 @@ TRUER WORDS WERE NEVER SPOKEN. But to examine this on the plane of fundamental h
 
 There’s a cardinal reason why the reverse portmanteau, *Agitprop* was coined by the Communists: it was one of the central devices to spread the Communist ideology: via *propaganda* and *agitation*. Here is a good academic explanation[\[i\]](https://dharmadispatch.quintype.com/story/90753a94-be04-4c07-8807-5731be4408a8#_edn1) of the term:
 
-> In Communist usage the term “propaganda” has a specialised meaning and > is differentiated from ’’agitation.” The distinction is, in the > broadest terms, between the general and the specific. Propaganda is > the dissemination of complex ideas to select audiences; agitation is > the dissemination of simple ideas, often in the form of mere slogans, > to a mass audience… every Party member is a full-time agitator and > propagandist.
+> In Communist usage the term “propaganda” has a specialised meaning and > is differentiated from ’’agitation.” The distinction is, in the > broadest terms, between the general and the specific. Propaganda is > the dissemination of complex ideas to select audiences; agitation is the dissemination of simple ideas, often in the form of mere slogans, to a mass audience… every Party member is a full-time agitator and propagandist.
 
 Thus, it is not a coincidence that from its very inception, Communism when implemented in practical politics regarded *every single* facet of public life and society as a potential keyhole for spreading its soul-crushing propaganda. So it was in India, via the original Communist Party of India, which birthed itself as a slave of the U.S.S.R. The craggy mountain of propaganda it has produced—and continues to produce—till date is almost infinite and includes journals, magazines, booklets, (specialist) newspapers, monographs, pamphlets…
 
@@ -391,7 +391,7 @@ Here are some names in no particular order: Bimal Roy, A.K. Hangal, Anna Bhau Sa
 
 The launch timing of IPTA was near-perfect: in Bombay in May, 1943, when the CPI was holding the First Congress. And it met with spectacular[\[ii\]](https://dharmadispatch.quintype.com/story/90753a94-be04-4c07-8807-5731be4408a8#_edn2) success. Here is a glimpse:
 
-> Traveling dance and drama troupes were organised and sent to many > parts of India to perform ballets and plays dealing with > Marxian…themes. The \[Communist\] Party claimed that one troupe that > toured the country in 1943-44 collected Rs. 200,000 for Bengal famine > relief. In 1947 the IPTA reported that during the previous year its 44 > branch organisations had presented 52 stage productions and 800 new > songs, and had entertained audiences numbering more than five million.
+> Traveling dance and drama troupes were organised and sent to many > parts of India to perform ballets and plays dealing with > Marxian…themes. The \[Communist\] Party claimed that one troupe that > toured the country in 1943-44 collected Rs. 200,000 for Bengal famine relief. In 1947 the IPTA reported that during the previous year its 44 branch organisations had presented 52 stage productions and 800 new songs, and had entertained audiences numbering more than five million.
 
 ## Political and Ideological Subterfuge
 
@@ -409,11 +409,11 @@ The launch timing of IPTA was near-perfect: in Bombay in May, 1943, when the CPI
 
 Of course, the IPTA called itself an autonomous and independent cultural body not affiliated to any political party but in reality, it was entirely controlled by the CPI. This control didn’t extend to IPTA as an organisation, but to the personal lives of its members as well. Here is a revealing exchange between writer-director K.A. Abbas and Soli Batliwala who had been elected to the CPI Central Committee at the First Congress in 1943. Within two years, Batliwala was so disgusted with the vile manner in which the CPI pried into his private life that in 1945, he completely cut off ties with it noting in *writing* that
 
-> None of your \[i.e. K.A. Abbas’s\] colleagues in the IPTA has chosen > the IPTA work as a free person, but is under the strictest discipline > of the member in charge of IPTA work in the Central Committee. I do > not know if you have Com. Krishnan in your executive. But not a single > one of your communist colleagues can endorse a single amendment in any > discussion however secret that your executive may undertake before > having received the sanction of Com. N. K. Krishnan. This applies to > persons who act in your plays, who work full time for the organization > in varied and different capacities.
+> None of your \[i.e. K.A. Abbas’s\] colleagues in the IPTA has chosen > the IPTA work as a free person, but is under the strictest discipline > of the member in charge of IPTA work in the Central Committee. I do > not know if you have Com. Krishnan in your executive. But not a single > one of your communist colleagues can endorse a single amendment in any > discussion however secret that your executive may undertake before having received the sanction of Com. N. K. Krishnan. This applies to persons who act in your plays, who work full time for the organization in varied and different capacities.
 
 Even Utpal Dutt, the fine actor and one of the most “loyal worker\[s\]” of the CPI was not spared. Read his own words castigating the then “chief” of the IPTA:
 
-> I have since come to know that the “Chief” who…descended like a wolf > on the fold & scattered the central squad to the four corners of the > city had been conveniently missing in the troubled times of 1948-49…He > cannot tolerate any organisation where he is not the central deity. > But since he can neither write, nor act, nor sing, nor dance, he > cannot lead any cultural organisation and therefore he must vandalise. > He still sits down to write the history of the IPTA and manages to > write his autobiography…In a recent book the “chief” still > persistently vilifies Niranjan Sen and Hemango Biswas. But also, in a > moment of sadistic ecstasy goes on to slander the first General > Secretary of the IPTA as a whore, as well as the top leadership of the > communist party implying that they had a rollicking time with her.
+> I have since come to know that the “Chief” who…descended like a wolf > on the fold & scattered the central squad to the four corners of the > city had been conveniently missing in the troubled times of 1948-49…He > cannot tolerate any organisation where he is not the central deity. > But since he can neither write, nor act, nor sing, nor dance, he > cannot lead any cultural organisation and therefore he must vandalise. > He still sits down to write the history of the IPTA and manages to > write his autobiography…In a recent book the “chief” still > persistently vilifies Niranjan Sen and Hemango Biswas. But also, in a moment of sadistic ecstasy goes on to slander the first General Secretary of the IPTA as a whore, as well as the top leadership of the communist party implying that they had a rollicking time with her.
 
 Like most Communist activities, IPTA was a subterfuge for naked propaganda, hidden skillfully in plain sight. Perhaps Arthur Koestler’s acclaimed classic, *Darkness at Noon* is one of the most brutal and evocative exposes of how this vile technique was employed with aplomb.
 

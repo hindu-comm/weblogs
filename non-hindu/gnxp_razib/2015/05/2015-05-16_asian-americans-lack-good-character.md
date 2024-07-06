@@ -11,13 +11,13 @@ Asian Americans lack “good character”
 
 *The Wall Street Journal* is reporting on a suit brought by Asian American organizations, [Harvard Accused of Bias Against Asian-Americans](http://www.wsj.com/articles/asian-american-organizations-seek-federal-probe-of-harvard-admission-policies-1431719348):
 
-> The complaint, filed by a coalition of 64 organizations, says the > university has set quotas to keep the numbers of Asian-American > students significantly lower than the quality of their applications > merits. It cites third-party academic research on the SAT exam showing > that Asian-Americans have to score on average about 140 points higher > than white students, 270 points higher than Hispanic students and 450 > points higher than African-American students to equal their chances of > gaining admission to Harvard. The exam is scored on a 2400-point > scale.
+> The complaint, filed by a coalition of 64 organizations, says the > university has set quotas to keep the numbers of Asian-American > students significantly lower than the quality of their applications > merits. It cites third-party academic research on the SAT exam showing > that Asian-Americans have to score on average about 140 points higher > than white students, 270 points higher than Hispanic students and 450 points higher than African-American students to equal their chances of gaining admission to Harvard. The exam is scored on a 2400-point scale.
 
 Ron Unz, among others, [has written about this](http://www.unz.com/runz/asian-quotas-in-the-ivy-league-we-see-nothing/), before. So not a big surprise as to the underlying empirical trends. Liberal commentator and Harvard grad [Matt Yglesias has talked about the patterns for years](http://www.slate.com/blogs/moneybox/2012/02/14/harvard_and_princeton_clearly_discriminate_against_asian_appliants_the_question_is_whether_it_s_illegal.html). It’s an open secret. The question is whether anyone cares, and whether the legal system will do anything about.
 
 But let me note something, a lawyer defending Harvard notes:
 
-> Robert Iuliano, Harvard’s general counsel, said the school’s > admissions policies are “fully compliant with the law.” The school > says its admissions process takes into account a variety of factors > besides academics, including applicants’ extracurricular activities > and **leadership qualities.**
+> Robert Iuliano, Harvard’s general counsel, said the school’s > admissions policies are “fully compliant with the law.” The school says its admissions process takes into account a variety of factors besides academics, including applicants’ extracurricular activities and **leadership qualities.**
 
 ![This is what a leader looks like](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/05/Elon_Musk_-_The_Summit_2013-300x268.jpg?resize=300%2C268)
 

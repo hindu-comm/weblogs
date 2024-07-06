@@ -31,7 +31,8 @@ Posted by razib at [07:25 PM](https://www.gnxp.com/MT2/archives/003910.html) [](
 
 ### Related Posts:
 
-- [Gött(ess)erdämmerung!](https://www.gnxp.com/WordPress/2005/05/16/g-ouml-tt-ess-erd-auml-mmerung/) - [Nordic beauty wins
+- [Gött(ess)erdämmerung!](https://www.gnxp.com/WordPress/2005/05/16/g-ouml-tt-ess-erd-auml-mmerung/)
+- [Nordic beauty wins
   again!](https://www.gnxp.com/WordPress/2005/12/11/nordic-beauty-wins-again/) - [Miss Finland talks like an alien baby!!! (oh
   wait,…](https://www.gnxp.com/WordPress/2006/05/12/miss-finland-talks-like-an-alien-baby-oh-wait-that-s-just-suomen-kieli/) - [Miss Universe
   contestants](https://www.gnxp.com/WordPress/2006/05/20/miss-universe-contestants/) - [McCain is a

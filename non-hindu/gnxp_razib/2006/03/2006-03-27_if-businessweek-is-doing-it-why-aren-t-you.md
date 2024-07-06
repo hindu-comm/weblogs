@@ -11,20 +11,21 @@ If BusinessWeek is doing it, why aren't you?
 
 Check it, got this note from Adam Bly of Seed:
 
-> So I’m flipping through the new issue of BusinessWeek (April 3, 2006; > Cover: The  
-> Top Performers) and on page 14 in the > [BLOGSPOTTING](http://www.businessweek.com/magazine/content/06_14/c3978003.htm) > section, I happen upon this article: >
+> So I’m flipping through the new issue of BusinessWeek (April 3, 2006; Cover: The  
+> Top Performers) and on page 14 in the [BLOGSPOTTING](http://www.businessweek.com/magazine/content/06_14/c3978003.htm) section, I happen upon this article: >
 > — >
 > BLOGSPOTTING  
 > LIFE, THE UNIVERSE, AND ALL THAT  
 > http://scienceblogs.com >
-> WHY READ IT A sister project of Seed magazine, this blog bills itself > as the Web’s largest conversation about science. Its members include > physicists, surgeons, and historians. >
-> [NOTABLE POST](http://scienceblogs.com/gnxp/2006/03/aquaforming.php) > “…If life doesn’t exist on Enceladus \[one of Saturn’s moons\]…I > suggest seeding the moon with Terran organisms that might be able to > survive and flourish. In a few decades genetic engineering might also > progress to a point where exotic…metabolisms could be synthesized with > the physiology of more complex aquatic organisms.” \[that’s me, that’s > me, that’s me! -Razib\]
+> WHY READ IT A sister project of Seed magazine, this blog bills itself as the Web’s largest conversation about science. Its members include physicists, surgeons, and historians. >
+> [NOTABLE POST](http://scienceblogs.com/gnxp/2006/03/aquaforming.php) > “…If life doesn’t exist on Enceladus \[one of Saturn’s moons\]…I > suggest seeding the moon with Terran organisms that might be able to > survive and flourish. In a few decades genetic engineering might also progress to a point where exotic…metabolisms could be synthesized with the physiology of more complex aquatic organisms.” \[that’s me, that’s me, that’s me! -Razib\]
 
 If *BusinessWeek* is reading [my other blog](http://scienceblogs.com/gnxp), shouldn’t you be? 🙂
 
 ### Related Posts:
 
-- [Aquaforming](https://www.gnxp.com/WordPress/2006/03/10/aquaforming/) - [Most influential science book in my
+- [Aquaforming](https://www.gnxp.com/WordPress/2006/03/10/aquaforming/)
+- [Most influential science book in my
   life....](https://www.gnxp.com/WordPress/2006/04/04/most-influential-science-book-in-my-life/) - [Tour of the
   ScienceBlogs](https://www.gnxp.com/WordPress/2006/08/29/tour-of-the-scienceblogs/) - [Science
   blogs](https://www.gnxp.com/WordPress/2006/01/12/science-blogs/) - [Seed 2007 Writing

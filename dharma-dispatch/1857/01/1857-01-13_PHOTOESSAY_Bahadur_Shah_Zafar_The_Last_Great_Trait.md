@@ -77,7 +77,7 @@ Takht London tak chalegī tegh Hindostān kī.*
 
 IT MUST TAKE COSMIC LEVELS OF DELUSION to compose a couplet like this *after* being comprehensively crushed. But then we’re talking about the granddaddy of all delusions, Bahadur Shah Zafar, the Mughal who led the fragmentary remnants of the Mughal Empire to extinction through a potent mix of servility, vice, verse, wine, and wantonness. Notable among the Himalayan delusions he harboured is a bizarre self-belief described by Syed Ahmad Khan, one of the original forerunners of Pakistan:
 
-> \[Bahadur Shah Zafar\] had a fixed idea that he could transform > himself into a fly or gnat, and that he could in this guise convey > himself to other countries, and learn what was going on there. > Seriously, he firmly believed that he possessed this power of > transformation.
+> \[Bahadur Shah Zafar\] had a fixed idea that he could transform > himself into a fly or gnat, and that he could in this guise convey himself to other countries, and learn what was going on there. Seriously, he firmly believed that he possessed this power of transformation.
 
 Perhaps his delusions are forgivable given the fact that his authority didn’t extend beyond the walls of the Red Fort and the more realistic fact that he was fully aware of his own pathetic condition. Even within these walls, he was a protectorate of the East India Company living off the one-lakh-rupee monthly pension it gave him in exchange for allowing it to station a military contingent there. This prisoner of his own making also lived in constant dread: he knew that the British would take away this pension and other nominal privileges the moment he died. He was also a prisoner of a sicker sort: even at that ripe age, Bahadur Shah Zafar had become an accomplished puppet of his favourite wife, Zeenat Mahal who called the shots.
 
@@ -95,7 +95,7 @@ A band of triumphant sepoys had burst right inside the palace after killing Brit
 
 However, Bahadur Shah Zafar knew that he was firmly caught between the proverbial rock and a hard place. Supporting the sepoys would automatically earn the wrath of the British. Failing to do so would endanger his physical safety. Indeed, a measure of the pressure and menace the sepoys had instilled in the aged Mughal’s heart is recorded in the diary of his news writer, Munshi Jivanlal:
 
-> All trade in the city ceased entirely, for every shop that was opened > was cleared of its contents…The turbulent mob of soldiers…demanded of > the King that he should pass through the city accompanied by his > Army…When the King returned to the Palace, he found the courtyard of > the Diwan-i-Khas crowded with troopers and horses.
+> All trade in the city ceased entirely, for every shop that was opened > was cleared of its contents…The turbulent mob of soldiers…demanded of the King that he should pass through the city accompanied by his Army…When the King returned to the Palace, he found the courtyard of the Diwan-i-Khas crowded with troopers and horses.
 
 This sight revealed the full extent of Bahadur Shah Zafar’s powerlessness. It was fantastic and unbelievable, something that was not even in the realm of imagination. Ordinary sepoys, lowly men, fighters for hire, who could never dream of even being in the *Diwan-i-Khas* (Hall of Private Audience) had not only barged their way in, but began to abuse Zafar, “Are Badshah!” “Arre Budda!” and yanked his luxuriant old, white beard and pulled his frail hands. In response, the petrified Mughal scampered into his private apartment, assembled some servants and began hollering about the misfortune that had struck him and wept copious tears about his sorry fate.
 
@@ -105,7 +105,7 @@ Subscribe
 
 And then gave in to the demands of the sepoys. This was how he became the “emperor of Hindustan,” and supposedly led the First War of Independence from the front. The sepoys bestowed this title on him only because they were looking, desperately *hoping* for leadership. Bahadur Shah Zafar reluctantly took the leadership but betrayed the sepoys. Acharya R.C. Majumdar’s analysis is quite decisive:
 
-> The sepoys were not perhaps solely to blame for this sorry state of > things. The character and personality of Bahadur Shah were also partly > responsible for it. He was advanced in age and almost a dotard, a > plaything in the hands of his favourite Begum Zinnat Mahal. He had no > administrative experience, nor any knowledge of men and things. He > spent his time composing verses in Urdu and took delight in such > peaceful activities. He lacked military knowledge and personal > bravery.
+> The sepoys were not perhaps solely to blame for this sorry state of > things. The character and personality of Bahadur Shah were also partly > responsible for it. He was advanced in age and almost a dotard, a > plaything in the hands of his favourite Begum Zinnat Mahal. He had no > administrative experience, nor any knowledge of men and things. He spent his time composing verses in Urdu and took delight in such peaceful activities. He lacked military knowledge and personal bravery.
 
 It doesn’t stop there. Whereas the sepoys demanded steely leadership, Zafar gave them this pious advice: leave this worldly life and adopt the life of Fakirs. As a British historian notes, Bahadur Shah “assumed the responsibility of the position which had been forced upon him. It is more probable that *the old man, left to himself, would have shrunk from the position*.”
 
@@ -125,7 +125,7 @@ One of our Gomasthas \[clerk\], who was in Delhi…brought a message from the Ki
 
 The name of the *Gomastha* was Fateh Mohamed who made the following statement:
 
-> …the King was most desirous of making terms with the British and if a > promise (a formal one) were given to him that his pension of 1 lac > Rupees a month and his former position should be secured to him, he > would have the “Jerdarojah” opened for the admission of the British > troops. The “Jerdarojah” is a private entrance into the Palace under > the Summund Boorj on the river side. The King also offered to arrange > to have any other of the city-gates opened at any time the British > might wish.
+> …the King was most desirous of making terms with the British and if a > promise (a formal one) were given to him that his pension of 1 lac > Rupees a month and his former position should be secured to him, he > would have the “Jerdarojah” opened for the admission of the British > troops. The “Jerdarojah” is a private entrance into the Palace under > the Summund Boorj on the river side. The King also offered to arrange to have any other of the city-gates opened at any time the British might wish.
 
 Then, Bahadur Shah unleashed his favourite Begum Zeenat Mahal and his Princes. On August 19, the Commissioner of Meerut, H.H. Greathed recorded in his diary that
 

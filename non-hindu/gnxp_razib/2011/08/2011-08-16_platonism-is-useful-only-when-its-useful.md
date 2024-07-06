@@ -11,7 +11,7 @@ Platonism is useful only when it's useful
 
 Below [John Farrell](http://blogs.forbes.com/johnfarrell/) posted an [amusing comment](http://blogs.discovermagazine.com/gnxp/2011/08/the-point-mutation-which-made-humanity/#comment-81853):
 
-> Razib, are you implying there was no clearly defined ‘ontological > leap’ from the animal to the human??? I’m going to have to clear this > with the CDF in Rome.
+> Razib, are you implying there was no clearly defined ‘ontological leap’ from the animal to the human??? I’m going to have to clear this with the CDF in Rome.
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/luke.png?resize=327%2C330)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/luke.png?resize=327%2C330)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/luke.png)The figure to left illustrates the simultaneous encephalization of diverse hominin lineages over the past few million years. When I first saw this result it kind of blew me away. I had known that Neandertals had the largest cranial capacities of any hominins to walk the earth, but to see how many diverse groups exhibited a secular increase in volume over time is still something to behold. It also reminds us that **our own conception of “us” vs. “them” in a deep and substantive manner may be somewhat illusory.** This element of fiction doesn’t negate the utility of the concepts. There are constructs and ideas which are highly valuable in generating inferences and scaffolding models, which nevertheless collapse under closer scrutiny. **But we shouldn’t forget that our concepts are only approximations on the real order of things.**
 

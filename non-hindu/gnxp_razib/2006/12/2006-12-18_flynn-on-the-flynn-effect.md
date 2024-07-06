@@ -11,7 +11,7 @@ Flynn on the Flynn Effect
 
 From today’s UK **Times**:
 
-> It is a common refrain, repeated in response to every new television > reality show and every bumper crop of school exam results: society is > dumbing down. Scientists have long argued the opposite, pointing to > the now widely accepted “Flynn effect”, which shows that over the past > century average IQ scores have improved across the developed world, > irrespective of class or creed. Now the man who first observed this > effect, the psychologist James Flynn, has made another observation: > intelligence test scores have stopped rising.
+> It is a common refrain, repeated in response to every new television > reality show and every bumper crop of school exam results: society is > dumbing down. Scientists have long argued the opposite, pointing to > the now widely accepted “Flynn effect”, which shows that over the past > century average IQ scores have improved across the developed world, irrespective of class or creed. Now the man who first observed this effect, the psychologist James Flynn, has made another observation: intelligence test scores have stopped rising.
 
 The full report is [here](http://www.timesonline.co.uk/article/0,,2-2509459,00.html). There won’t be anything very new for regular GNXP readers, but it is useful that the probable levelling out of the rise in IQ scores is getting some mainstream media attention.
 

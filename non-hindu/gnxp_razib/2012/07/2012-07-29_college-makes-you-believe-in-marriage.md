@@ -13,9 +13,9 @@ There’s a cliche, which isn’t totally false, that more education tends to le
 
 And yet this does not hold in the case of what articles such as this report, [How Divorce Lost Its Groove](http://www.nytimes.com/2011/06/19/fashion/how-divorce-lost-its-cachet.html?pagewanted=print):
 
-> Though she wasn’t entirely surprised. Ever since her divorce three > years ago, Ms. Thomas said, she has been antisocial, “nervous about > what people would say.” >
-> After all, she had gone from Park Slope matron, complete with involved > husband (“We had cracked the code of Gen X peer parenthood”) and > gut-renovated brownstone, to “a Red Hook divorcée,” she said, > remarried with a new baby and two children-of-divorce barely out of > preschool. “All of a sudden, this community I’d lived in for 13 years > became this spare and mean savannah,” she said. >
-> It was as if, she said, everyone she knew felt bad for her but no one > wanted to be near her, either. Even though adultery was not part of > the equation, Ms. Thomas said, “I feel like I have a giant letter A on > my front and back.
+> Though she wasn’t entirely surprised. Ever since her divorce three years ago, Ms. Thomas said, she has been antisocial, “nervous about what people would say.” >
+> After all, she had gone from Park Slope matron, complete with involved > husband (“We had cracked the code of Gen X peer parenthood”) and > gut-renovated brownstone, to “a Red Hook divorcée,” she said, remarried with a new baby and two children-of-divorce barely out of preschool. “All of a sudden, this community I’d lived in for 13 years became this spare and mean savannah,” she said. >
+> It was as if, she said, everyone she knew felt bad for her but no one wanted to be near her, either. Even though adultery was not part of the equation, Ms. Thomas said, “I feel like I have a giant letter A on my front and back.
 
   
 The article goes on to detail **how exactly marriage *is* working for the upper middle class, and it is *not* working for the lower and lower middle class.** But there isn’t much more than anecdote for social attitudes, as opposed to actions (which may have material bases). So I decided to look at the General Social Survey. I looked at the variable DIVLAW over the 70s, 80s, 90s and 00s. Then I limited the sample to whites, and divided them between those with college degrees, and those without. To my surprise the “trend story” seems about right in broad strokes:

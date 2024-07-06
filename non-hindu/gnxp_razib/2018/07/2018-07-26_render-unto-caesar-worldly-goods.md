@@ -13,7 +13,7 @@ Render unto Caesar worldly goods
 
 As I’m reading this book, I’ve been giving thought how I would respond to this [comment](https://www.gnxp.com/WordPress/2018/07/19/how-the-fall-of-the-roman-state-and-persistence-of-roman-culture-led-to-the-modern-world/#comment-9230):
 
-> …not only were priests an independent power source from kings, but no > matter how deeply interrelated each was in principle independent of > the other, with their own independent spheres: the secular sphere and > the religious sphere. This fact too was important in shaping the > modern world, in that **modernity assumes that government is > fundamentally secular in a way that would have been unfamiliar to > pre-moderns outside of Latin Christendom.**
+> …not only were priests an independent power source from kings, but no > matter how deeply interrelated each was in principle independent of > the other, with their own independent spheres: the secular sphere and > the religious sphere. This fact too was important in shaping the modern world, in that **modernity assumes that government is fundamentally secular in a way that would have been unfamiliar to pre-moderns outside of Latin Christendom.**
 
 This is a common view. Fareed Zakaria, for example, expresses something similar in [The Future of Freedom](https://www.amazon.com/exec/obidos/ASIN/B000WJOW6M/geneexpressio-20/ref=as_at?creativeASIN=B073NP8WT3&linkCode=w61&imprToken=0wMhbfsY-2aIN21.VoB-ug&slotNum=54), whereby the emergence of an independent Western Church after the Fall of Rome created space for secularization and the development of liberal democratic institutions through decentralization of power.
 

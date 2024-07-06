@@ -11,7 +11,7 @@ Which countries does the NYT cover most and least?
 
 Greg Cochran left the following comment in a [Matt Yglesias blog entry](http://yglesias.thinkprogress.org/archives/2008/10/the_world_according_to_last_nights_debate.php):
 
-> What you need is a map of the world in which the sizes of the > countries are adjusted to the number of column-inches they get in the > New York Times and the Washington Post. I think it would be > illuminating.
+> What you need is a map of the world in which the sizes of the countries are adjusted to the number of column-inches they get in the New York Times and the Washington Post. I think it would be illuminating.
 
 Well, I’ve done something close enough. I only looked at the NYT, and I made a bubble chart instead of one of those distorted cartograms. Also, I used number of articles rather than column inches — but these must correlate highly. It’s not as if Tonga gets a few 10,000-word articles, while Iraq gets many 50-word articles. At any rate, let’s see what the results look like.
 

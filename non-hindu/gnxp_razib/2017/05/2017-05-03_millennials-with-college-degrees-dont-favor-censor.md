@@ -19,7 +19,7 @@ But this isn’t about that. Rather, it’s about an aspect of it: are Millennia
 
 The GSS has a variable,SPKRAC. It asks:
 
-> …. consider a person who believes that Blacks are genetically > inferior. a. If such a person wanted to make a speech in your > community claiming that Blacks are inferior, should he be allowed to > speak, or not?
+> …. consider a person who believes that Blacks are genetically inferior. a. If such a person wanted to make a speech in your community claiming that Blacks are inferior, should he be allowed to speak, or not?
 
 Should this person be allowed to speak? **As you can see above there is hardly any difference between people of different generations if they have a college education on this question.\*** The big difference is between generations among those who have a high school education or less. I think this is simply due to the reality that if you have only a high school education as a Millennial you’re much more likely to be not very intelligent in relation to older generations. The slight decline for college educated Millennials might be due to this effect as well, and more marginal kids are now going to, and finishing, college.
 

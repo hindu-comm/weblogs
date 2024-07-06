@@ -21,7 +21,8 @@ Daily Data Dump – Wednesday
 
 ### Related Posts:
 
-- [The Europes](https://www.gnxp.com/WordPress/2012/09/08/the-europes/) - [Religiosity vs. GDP PPP Per
+- [The Europes](https://www.gnxp.com/WordPress/2012/09/08/the-europes/)
+- [Religiosity vs. GDP PPP Per
   Capita](https://www.gnxp.com/WordPress/2009/12/06/religiosity-vs-gdp-ppp-per-capita/) - [Communism = Human capital
   trainwreck](https://www.gnxp.com/WordPress/2008/09/13/communism-human-capital-trainwreck/) - [The dead weight of
   culture](https://www.gnxp.com/WordPress/2016/09/19/the-dead-weight-of-culture/) - [The Great Recession and Great Depression in

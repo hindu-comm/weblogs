@@ -16,7 +16,7 @@ But they fancy it up with a*∂a∂i* model of population history, as well as us
 
 Years ago I asked the developer of MSMC, [Stephan Schiffels](https://twitter.com/stschiff), if assuming an admixed population is not admixed might cause weird inferences. Why yes, it would. For example, admixed populations might show higher effective population since they’re pooling the histories of two separate populations. As for ∂a∂i, the model above leaves me literally scratching my head.
 
-> …predicted that the initial divergence between Han and Tibetan was > much earlier, at 54kya (bootstrap 95% C.I 44 kya to 58 kya). However, > for the first 45ky, the two populations maintained substantial gene > flow (6.8×10-4 and 9.0×10-4 per generation per chromosome). After 9.4 > kya (bootstrap 95% C.I 8.6 kya to 11.2 kya), the gene flow rate > dramatically dropped (1.3×10-11 and 4×10-7 per generation per > chromosome), which is consistent with the estimate from MSMC.
+> …predicted that the initial divergence between Han and Tibetan was > much earlier, at 54kya (bootstrap 95% C.I 44 kya to 58 kya). However, > for the first 45ky, the two populations maintained substantial gene > flow (6.8×10-4 and 9.0×10-4 per generation per chromosome). After 9.4 kya (bootstrap 95% C.I 8.6 kya to 11.2 kya), the gene flow rate dramatically dropped (1.3×10-11 and 4×10-7 per generation per chromosome), which is consistent with the estimate from MSMC.
 
 Mystifying. The separation between Chinese and Tibetans is pretty much **immediately** after modern humans arrive in East Asia. Then there’s a lot of reciprocal gene flow…which ends during the Holocene.
 

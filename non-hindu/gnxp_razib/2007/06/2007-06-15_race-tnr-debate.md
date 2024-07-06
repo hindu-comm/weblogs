@@ -11,11 +11,11 @@ Race, TNR debate
 
 *TNR* is [continuing the debate](http://www.tnr.com/doc.mhtml?i=w070611&s=chowkwanyun061507) on race. Not much to read really, but this caught my attention:
 
-> I found your characterization of race as a “cluster concept” > provocative and intellectually honest, since you admit **its > imprecision**….
+> I found your characterization of race as a “cluster concept” provocative and intellectually honest, since you admit **its imprecision**….
 
 Imprecision? Really? [Well](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1196372):
 
-> Of 3,636 subjects of varying race/ethnicity, **only 5 (0.14%) showed > genetic cluster membership** different from their self-identified > race/ethnicity.
+> Of 3,636 subjects of varying race/ethnicity, **only 5 (0.14%) showed genetic cluster membership** different from their self-identified race/ethnicity.
 
 So let’s be precise about the term “imprecision.” No doubt Plato would sniff at mistyping rate of 0.14%. Also, since we’re talking science here one should be familiar with the distinction between [accuracy and precision](https://en.wikipedia.org/wiki/Accuracy_and_precision). I think in fact that as the number of informative loci increase an inference of ancestry is rather precise (reproducible). But perhaps the author of the above piece finds the precision of genetic science wanting? That being said, I am a bit confused as to why then his academic interests lay in history, an even more imprecise field, than in physics or mathematics where his passion for precision might be suitably sated.
 

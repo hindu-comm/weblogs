@@ -13,7 +13,7 @@ One of the recurring themes on this blog is that different populations differ ge
 
 Under the banner of pharmacogenetics, researchers complile data on how individual sequence variants affect pharmacological traits like drug metabolism. Further, on determining the worldwide distribution of these variants, it is possible to better predict those traits based on ethnic group. And if it turns out that certain drugs work better in people of chinese ancestry than in those of european ancestry, that information might be of great importance to public health officials in china and in europe. An [example](http://www.newscientist.com/article/mg19125684.400-tailored-medicines-for-rich-and-poor-alike.html):
 
-> Han Chinese, for example, are more than four times as likely as white > Americans to have a variant of a gene called TYMS that makes the drug > methotrexate less effective at treating rheumatoid arthritis. US > doctors prescribing this drug often initially hold back from also > prescribing corticosteroids, which can help ease arthritis symptoms, > because of the risk of side effects. For China, however, PGENI > suggests combining methotrexate with corticosteroids right from the > start.
+> Han Chinese, for example, are more than four times as likely as white > Americans to have a variant of a gene called TYMS that makes the drug > methotrexate less effective at treating rheumatoid arthritis. US > doctors prescribing this drug often initially hold back from also > prescribing corticosteroids, which can help ease arthritis symptoms, because of the risk of side effects. For China, however, PGENI suggests combining methotrexate with corticosteroids right from the start.
 
 This information is of particular value in countries that can’t afford to test directly for pharmacologically relevant alleles in individual patients, and which thus must rely entirely on ethnicity to make prescriptions. PGENI has four goals:
 
@@ -29,7 +29,9 @@ Definitely a project to watch, and a great example of the immediate clinical wor
 
 ### Related Posts:
 
-- [Heart & HBD](https://www.gnxp.com/WordPress/2009/01/16/heart-hbd/) - [Pharmacogenetics](https://www.gnxp.com/WordPress/2005/04/12/pharmacogenetics/) - [How big does the N need to
+- [Heart & HBD](https://www.gnxp.com/WordPress/2009/01/16/heart-hbd/)
+- [Pharmacogenetics](https://www.gnxp.com/WordPress/2005/04/12/pharmacogenetics/)
+- [How big does the N need to
   be?](https://www.gnxp.com/WordPress/2009/03/31/how-big-does-the-n-need-to-be/) - [Genomics and socialized health
   care](https://www.gnxp.com/WordPress/2006/11/14/genomics-and-socialized-health-care/) - [DNA databases -
   revisited](https://www.gnxp.com/WordPress/2006/05/24/dna-databases-revisited/) - [On the effects of effective

@@ -13,7 +13,7 @@ Economists are getting into the twin-study game more often. The [latest entry](h
 
 Key quote:
 
-> \[W\]e have used standard behavior genetic techniques to decompose > variation in preferences for giving and risk-taking into environmental > and genetic components. We document a significant genetic effect on > risk taking and giving, with genes explaining approximately 20% of > phenotypic variation in the best fitting models. The estimated effect > of common environment, by contrast, is smaller.
+> \[W\]e have used standard behavior genetic techniques to decompose > variation in preferences for giving and risk-taking into environmental > and genetic components. We document a significant genetic effect on risk taking and giving, with genes explaining approximately 20% of phenotypic variation in the best fitting models. The estimated effect of common environment, by contrast, is smaller.
 
 So E\>A\>C, a common result. Since economists have spent a fair amount of time arguing for the [social construction of preferences](https://scholar.google.com/scholar?num=100&hl=en&lr=&q=%22peer+effects%22+economics&btnG=Search), it’s good to have some evidence that shared family environment–presumably one important kind of “social construction”–apparently has only a modest association with routine economic preferences.
 

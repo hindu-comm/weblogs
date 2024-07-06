@@ -17,7 +17,8 @@ This persistence, along with Greco-Roman articulation, explication, and literary
 
 ### Related Posts:
 
-- [The Greeks](https://www.gnxp.com/WordPress/2007/03/18/the-greeks/) - [Populism leads to
+- [The Greeks](https://www.gnxp.com/WordPress/2007/03/18/the-greeks/)
+- [Populism leads to
   tyranny](https://www.gnxp.com/WordPress/2018/01/22/populism-leads-to-tyranny/) - [Between Terence and
   incommensurability](https://www.gnxp.com/WordPress/2019/08/11/between-terence-and-incommensurability/) - [A religious
   analogy](https://www.gnxp.com/WordPress/2007/03/28/a-religious-analogy/) - [The origins of

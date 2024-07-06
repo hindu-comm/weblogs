@@ -11,8 +11,8 @@ Red state, blue state, smart state, dumb state
 
 [Thoughts on educational attainment and voting patterns at the state level](https://anepigone.blogspot.com/2008/09/thoughts-on-educational-attainment-and.html):
 
-> The percentage of a state’s population with a bachelor’s-plus does not > correlate nearly as strongly with estimated IQ scores based on NAEP > data (.46) as the percentage of a state’s population with less than a > high school education (.72) does. The prolish behavior HS detests > might be better indicated by the less than high school percentage than > by the bachelor-plus number, depending on where the cutoff is\*. Both > measures include similar proportions of the population (19.6% of the > population over 25 years of age has less than a high school diploma, > while 24.4% has a bachelor’s-plus).  
-> **Taking the bachelor-plus percentage by state, subtracting the less > than high school education percentage from it, and multiplying by 100 > for ease of viewing, creates a simple educational attainment index** > by state that more fully accounts for not just the right side of a > state’s educational distribution, but the entire thing:
+> The percentage of a state’s population with a bachelor’s-plus does not > correlate nearly as strongly with estimated IQ scores based on NAEP > data (.46) as the percentage of a state’s population with less than a > high school education (.72) does. The prolish behavior HS detests > might be better indicated by the less than high school percentage than > by the bachelor-plus number, depending on where the cutoff is\*. Both measures include similar proportions of the population (19.6% of the population over 25 years of age has less than a high school diploma, while 24.4% has a bachelor’s-plus).  
+> **Taking the bachelor-plus percentage by state, subtracting the less > than high school education percentage from it, and multiplying by 100 for ease of viewing, creates a simple educational attainment index** by state that more fully accounts for not just the right side of a state’s educational distribution, but the entire thing:
 
 > 1\. Colorado — 19.6  
 > 2. Massachusetts — 18.0  

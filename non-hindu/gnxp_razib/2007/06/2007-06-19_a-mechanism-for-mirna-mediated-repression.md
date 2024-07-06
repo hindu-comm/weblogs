@@ -21,7 +21,7 @@ There are a couple predictions to make based on these findings.
 
 1\) Organisms with Agos that lack this domain should be bad at this process.
 
-> This domain is not found in Ago proteins of plants, archaea, or > fission yeast, in Drosophila AGO2 and in most members of the C. > elegans Ago protein family, with the exception of ALG-1 and ALG-2. In > addition, the MC domain is absent from proteins of the PIWI family.
+> This domain is not found in Ago proteins of plants, archaea, or fission yeast, in Drosophila AGO2 and in most members of the C. elegans Ago protein family, with the exception of ALG-1 and ALG-2. In addition, the MC domain is absent from proteins of the PIWI family.
 
 I can’t recall if any of there is anything already contradictory in that list. I think there is definitely something weird about the way plants handle siRNAs, but the details escape me.
 

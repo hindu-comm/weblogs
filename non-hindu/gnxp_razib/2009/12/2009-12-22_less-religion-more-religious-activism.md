@@ -11,10 +11,10 @@ Less religion = more religious activism?
 
 [Tom Rees](https://bhascience.blogspot.com/2009/12/christian-cancellation-of-secular-truce.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ResearchBloggingSocialScienceEnglish+(Research+Blogging+-+English+-+Social+Science)&utm_content=Google+Reader):
 
-> It seems that when Christianity is popular, Christians are content > with the idea of a firewall separating Church and State. It’s only > when Christianity begins to lose it’s influence over the population at > large that Christians begin to campaign for the State to adopt a > Christian character.  
+> It seems that when Christianity is popular, Christians are content > with the idea of a firewall separating Church and State. It’s only when Christianity begins to lose it’s influence over the population at large that Christians begin to campaign for the State to adopt a Christian character.  
 > Looking at survey data from 18 Western countries, they found:  
-> -The fewer Christians in a country, the greater the support among > Christians for a greater public role for religion (as shown in the > graph).  
-> -The polarization of views between Christians and non-religious on a > public role for religion is greatest in countries where there are > fewest Christians.
+> -The fewer Christians in a country, the greater the support among Christians for a greater public role for religion (as shown in the graph).  
+> -The polarization of views between Christians and non-religious on a public role for religion is greatest in countries where there are fewest Christians.
 
 The relation is illustrated with a nice scatterplot:  
 ![Achterberg_2009_truce_cance.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Achterberg_2009_truce_cance.png?resize=500%2C326)![Achterberg_2009_truce_cance.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Achterberg_2009_truce_cance.png?resize=500%2C326)  

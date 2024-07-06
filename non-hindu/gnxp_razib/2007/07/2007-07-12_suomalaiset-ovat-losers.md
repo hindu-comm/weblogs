@@ -11,7 +11,7 @@ Suomalaiset ovat losers
 
 [](https://www.gnxp.com/blog/uploaded_images/eurasianman-724042.jpg)[Another loser from Finland](http://www.latimes.com/entertainment/news/movies/la-et-lights13jul13,0,2251559.story):
 
-> Finnish filmmaker Aki Kaurismaki concludes his self-proclaimed > “Loser’s Trilogy” with the thoroughly deadpan drama “Lights in the > Dusk.” After “Drifting Clouds” and “The Man Without a Past,” which > focused on joblessness and homelessness, respectively, “Lights” takes > on loneliness, an affliction that plagues a none-too-bright Helsinki > security guard named Koistinen (Janne Hyytiainen).
+> Finnish filmmaker Aki Kaurismaki concludes his self-proclaimed > “Loser’s Trilogy” with the thoroughly deadpan drama “Lights in the > Dusk.” After “Drifting Clouds” and “The Man Without a Past,” which focused on joblessness and homelessness, respectively, “Lights” takes on loneliness, an affliction that plagues a none-too-bright Helsinki security guard named Koistinen (Janne Hyytiainen).
 
 ### Related Posts:
 

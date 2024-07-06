@@ -11,7 +11,7 @@ One test to rule them all
 
 [Educational Realist](http://educationrealist.wordpress.com/2012/06/19/why-chris-hayes-fails/) elaborates on some of the concerns I have had with Chris Hayes’ [ballyhooed](http://www.thenation.com/article/168265/why-elites-fail) piece on the failure of elites:
 
-> Hayes is correct about one thing, though: **the elites are locking out > the hoi polloi from highest-level institutions. But it takes a real > ignorance to pretend that the rich are doing this because of > over-reliance on test scores or test prep, as opposed to buying their > way in, using their powerful networks to only hire from the “right” > schools, and the fuzzy math of the “holistic” evaluation process.** > Give me test scores any day.
+> Hayes is correct about one thing, though: **the elites are locking out > the hoi polloi from highest-level institutions. But it takes a real > ignorance to pretend that the rich are doing this because of > over-reliance on test scores or test prep, as opposed to buying their way in, using their powerful networks to only hire from the “right” schools, and the fuzzy math of the “holistic” evaluation process.** Give me test scores any day.
 
 ER also observes that in fact minorities, and in particular Asians, make use of test prep:
 
@@ -31,8 +31,8 @@ One thing that immediately struck me about Hayes’ focus on high-stakes testing
 
 In other news, [Why Family Income Differences Don’t Explain the Racial Gap in SAT Scores](http://www.jstor.org/discover/10.2307/2999198?uid=3739560&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21100868742751):
 
-> Here, the first point made is that for black and white students from > families with incomes between \$80,000 and \$100,000 in 1997, there > still remains a huge 141-point gap in SAT scores. >
-> **Second and most difficult to explain is the fact that in 1997 black > students from families with incomes between \$80,000 and \$100,000 did > in fact score lower on the SAT test than did students from white > families with incomes of less than \$10,000.**
+> Here, the first point made is that for black and white students from families with incomes between \$80,000 and \$100,000 in 1997, there still remains a huge 141-point gap in SAT scores. >
+> **Second and most difficult to explain is the fact that in 1997 black students from families with incomes between \$80,000 and \$100,000 did in fact score lower on the SAT test than did students from white families with incomes of less than \$10,000.**
 
 ### Related Posts:
 

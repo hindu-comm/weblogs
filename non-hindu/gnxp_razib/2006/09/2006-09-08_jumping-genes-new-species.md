@@ -11,7 +11,7 @@ Jumping genes = new species?
 
 As of this moment [RPM](http://scienceblogs.com/evolgen/) has not commented on a [new paper](http://www.sciencemag.org/cgi/content/full/313/5792/1448) in *Science*, [Gene Transposition as a Cause of Hybrid Sterility in *Drosophila*](http://www.sciencemag.org/cgi/content/full/313/5792/1448). Here is an [accessible summary](http://www.rochester.edu/news/show.php?id=2603). The basic idea is found in the abstract:
 
-> …Genomic and molecular analyses show that *JYAlpha* > [transposed](https://en.wikipedia.org/wiki/Transposition_%28genetics%29) > to the third chromosome during the evolutionary history of the *D. > simulans lineage*. Because of this > [transposition](https://en.wikipedia.org/wiki/Transposition_%28genetics%29), > a fraction of hybrids completely lack *JYAlpha* and are sterile, > representing reproductive isolation without sequence evolution.
+> …Genomic and molecular analyses show that *JYAlpha* > [transposed](https://en.wikipedia.org/wiki/Transposition_%28genetics%29) > to the third chromosome during the evolutionary history of the *D. > simulans lineage*. Because of this [transposition](https://en.wikipedia.org/wiki/Transposition_%28genetics%29), a fraction of hybrids completely lack *JYAlpha* and are sterile, representing reproductive isolation without sequence evolution.
 
 *JYAlpha* is implicated in sperm motility. In *D. melanogaster* is located on the 4^(th) chromosome. In *D. simulans* it is on the 3^(rd). A subsequent generation is produced where many males turn out to be sterile because they lack any *JYAlpha* at all!
 

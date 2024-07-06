@@ -31,6 +31,6 @@ Now, how difficult is it really to make sense of this Sanskritised Tamil for the
 
 ![](https://suganyasmusingsscribblings.files.wordpress.com/2021/01/screenshot-2021-01-16-at-8.42.01-am-2.png?w=474)
 
-> …a Tamil that \[requires\] translation into Tamil, what greater > disgrace can there be? If the authors of the*Īṭu*knew that their > writing would not be comprehensible to anyone in the future, would > they not have been disheartened?
+> …a Tamil that \[requires\] translation into Tamil, what greater disgrace can there be? If the authors of the*Īṭu*knew that their writing would not be comprehensible to anyone in the future, would they not have been disheartened?
 
 Well, people will have their opinions, whether it is this author’s, or the Śrīvaiṣṇava writers’. And no point in judging anyone. But I would love to know if similar practices exist in other languages/fields. I think even the medieval commentaries on Tamil works, such as Parimēlaḻakar’s or Nacciṉārkkiṉiyar’s, should also be rendered into modern Tamil (and perhaps they have, and I need to know about them), and of course into English as well!

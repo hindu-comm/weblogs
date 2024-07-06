@@ -23,7 +23,17 @@ The ambassador is the great Kālidāsa; the ruler who sends him is none other th
 
 Contents & Links **—**
 
--   [Aucityavicāracarcā of Kṣemendra](#Ksemendra) -   [Kāvyamīmāmsā of Rājaśekhara](#Rajasekhara) -   [Śṛṅgāraprakāśa of Bhoja](#Bhoja) -   [Historical Context](#Historical-Context) -   [Identity of Kuntaleśvara](#Identity) -   [The Purpose of the Embassy](#Purpose-of-the-Embassy) -   [The Chosen Ambassador](#Chosen-Ambassador) -   [The Character of Vikramāditya](#The-Character) -   [Conclusion](#Conclusion) -   [Notes](#Notes) -   [Bibliography](#Bibliography)
+-   [Aucityavicāracarcā of Kṣemendra](#Ksemendra)
+-   [Kāvyamīmāmsā of Rājaśekhara](#Rajasekhara)
+-   [Śṛṅgāraprakāśa of Bhoja](#Bhoja)
+-   [Historical Context](#Historical-Context)
+-   [Identity of Kuntaleśvara](#Identity)
+-   [The Purpose of the Embassy](#Purpose-of-the-Embassy)
+-   [The Chosen Ambassador](#Chosen-Ambassador)
+-   [The Character of Vikramāditya](#The-Character)
+-   [Conclusion](#Conclusion)
+-   [Notes](#Notes)
+-   [Bibliography](#Bibliography)
 
 The scene I just mentioned is an excerpt from ‘Kuntaleśvaradautya’ (The Embassy to the Lord of the Kuntala-s) — another work of the great poet Kālidāsa. But that is all we have — excerpts — for unfortunately, this work is not extant and we have to rely on such parches of information mentioned in other great texts of Saṃskṛta literature. We learn about Kuntaleśvaradautya primarily from stray references in the following Saṃskṛta texts — Aucityavicāracarcā of Kṣemendra; Kāvyamīmāmsā of Rājaśekhara; Śṛṅgāraprakāśa and Sarasvatīkaṇṭhābharaṇa of Bhoja. Let’s try to understand the relevant excerpts from these works in depth and then I will be analyzing the information thus presented before us in its historical context.
 
@@ -107,14 +117,14 @@ Despite explanations in favour of Pravarasena II being the Kuntala lord, some im
 
 Mirashi suggested one other possible identification — the Early Rāṣṭrakūṭa family of Mānapura ruling in southern Mahārāṣṭra from the fourth century CE (Mirashi, 1960: 9). Their capital, Mānapura, according to Mirashi, is probably identical with the town Māṇ in Sātārā.
 
-> ‘The progenitor of this family was Mānāṅka, who ruled from Mānapura, > which he seems to have founded and named after himself. In a > copperplate grant discovered near Kolhāpur, Mānāṅka is described as > the ruler of the prosperous Kuntala country. This country comprised > the valley of the Kṛṣṇā as suggested in a beautiful verse descriptive > of the Chālukya king Jayasimha alias Mallikāmoda.’ >
+> ‘The progenitor of this family was Mānāṅka, who ruled from Mānapura, > which he seems to have founded and named after himself. In a > copperplate grant discovered near Kolhāpur, Mānāṅka is described as the ruler of the prosperous Kuntala country. This country comprised the valley of the Kṛṣṇā as suggested in a beautiful verse descriptive of the Chālukya king Jayasimha alias Mallikāmoda.’ >
 > — Mirashi, 1960: 9
 
 Thus as per this hypothesis, Kālidāsa was sent as the ambassador to the early Rāṣṭrakūṭa-s of Mānapura ruling the Kuntala region. Mirashi conjectured that the Kuntala lord was probably their ruler named Devarāja (Mirashi, 1960: 10). As Candragupta II gave his protection to the Vākāṭaka-s of Nandivardhana and probably the early Rāṣṭrakūṭa-s family of Mānapura, Mirashi is of the opinion that this could have eventually resulted in friendly relation between the vassals and that is why, Vākāṭaka prince Narendrasena, the great-grandson of Candragupta II, was married to the Kuntala princess Ajjhitabhaṭṭārikā as recorded in the Balaghat plates, who probably was a princess of the early Rāṣṭrakūṭa-s family of Mānapura (Mirashi, 1960: 11).
 
 While it is tempting to identify the Kuntala lord with the early Rāṣṭrakūṭa king, it is merely a hypothesis with no certain corroboration. And even the identification of Mānapura with Māṇ in Sātārā is debatable. Another important point that negates this identification is the interpretation of the phrase ‘kuntalāṇāṁ praśāsita’ used in these early Rāṣṭrakūṭa inscriptions. While Mirashi seems to have taken it to mean ‘ruler of the Kuntala-s’, apparently, the real meaning is ‘chastiser of the Kuntala-s’ i.e. chastiser of the Kadamba-s (Sircar, 1970 : 183).
 
-> Whatever be the value of the tradition regarding Kālidāsa’s embassy at > the Kuntala court, a Kuntala king of the fifth century cannot possibly > be regarded as any other than a ruler of the Kadamba family. >
+> Whatever be the value of the tradition regarding Kālidāsa’s embassy at the Kuntala court, a Kuntala king of the fifth century cannot possibly be regarded as any other than a ruler of the Kadamba family. >
 > — Sircar, 1970 : 183
 
 **The ****Purpose of the Embassy —**
@@ -137,7 +147,9 @@ In another instance of the frustrating aspects of Indian history, Kuntaleśvarad
 
 § **NOTES —**
 
-1. To read more about Devīcandraguptam and my analysis of its historical context, read my post — [The Elusive Kāca-Rāmagupta](https://cestlaviepriya.wordpress.com/2022/08/30/the-elusive-gupta-king/) 2. To read about the historical context of Mālvikāgnimitraṃ read my analysis — [Agnimitra and Conflict with Vidarbha](https://cestlaviepriya.wordpress.com/2021/01/23/agnimitra-conflict-with-vidarbha/). **3**. A late commentary on Setubandha by Rāmadāsa ascribes its composition to Kālidāsa for Mahārāja Pravarasena at the behest of Mahārājādhirāja Vikramāditya. Though, of all the commentaries on Setubandha, only Rāmadāsa’s commentary mentions this connection. Rāmadāsa also mentions that according to some, Pravarasena is Bhojadeva (Handiqui, 1976:16-17). For other arguments against Kālidāsa being the author of Setubandha, *see*. Handiqui, 1976: 19-21 4. Those who ascribe this view consider Pravarasena as Bhojadeva because they view Vākāṭaka-s as a branch of the Bhoja people; and consider that in the early years of his reign, Pravarasena left the charge of administration in the hands of his maternal grandfather Candragupta II Vikramāditya (Sircar, 1970 :183) and that Bhoja who patronized Kālidāsa is Vākāṭaka king Pravarasena II, author of the Setubandha, in the production of whose work Kālidāsa collaborated (Raghavan, 1946 : 196).
+1. To read more about Devīcandraguptam and my analysis of its historical context, read my post — [The Elusive Kāca-Rāmagupta](https://cestlaviepriya.wordpress.com/2022/08/30/the-elusive-gupta-king/)
+2. To read about the historical context of Mālvikāgnimitraṃ read my analysis — [Agnimitra and Conflict with Vidarbha](https://cestlaviepriya.wordpress.com/2021/01/23/agnimitra-conflict-with-vidarbha/). **3**. A late commentary on Setubandha by Rāmadāsa ascribes its composition to Kālidāsa for Mahārāja Pravarasena at the behest of Mahārājādhirāja Vikramāditya. Though, of all the commentaries on Setubandha, only Rāmadāsa’s commentary mentions this connection. Rāmadāsa also mentions that according to some, Pravarasena is Bhojadeva (Handiqui, 1976:16-17). For other arguments against Kālidāsa being the author of Setubandha, *see*. Handiqui, 1976: 19-21
+4. Those who ascribe this view consider Pravarasena as Bhojadeva because they view Vākāṭaka-s as a branch of the Bhoja people; and consider that in the early years of his reign, Pravarasena left the charge of administration in the hands of his maternal grandfather Candragupta II Vikramāditya (Sircar, 1970 :183) and that Bhoja who patronized Kālidāsa is Vākāṭaka king Pravarasena II, author of the Setubandha, in the production of whose work Kālidāsa collaborated (Raghavan, 1946 : 196).
 
 § **BIBLIOGRAPHY** **—**
 

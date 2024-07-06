@@ -11,17 +11,17 @@ Will someone please think of the children?
 
 Via [AL Daily](http://aldaily.com/), I came across this somewhat [bizarre essay](http://chronicle.com/temp/reprint.php?id=xm3c4mgmb8b6fhkn54zhzwxfcgbzpjdl) on sociobiology in the Chronicle of Higher Education. It’s by a professor of psychology, and the premise, ostenibly, is how evolutionary psychology should be taught in our schools to keep it from corrupting our youth. His solution:
 
-> Preferable, I submit, is to structure the teaching of sociobiology > along the lines of sex education: Teach what we know, but do so in > age-appropriate stages. Just as we would not bombard kindergartners > with the details of condom use, we probably ought not instruct > preteens in the finer points of sociobiology, especially since many of > those are hidden even to those expected to do the teaching.
+> Preferable, I submit, is to structure the teaching of sociobiology > along the lines of sex education: Teach what we know, but do so in > age-appropriate stages. Just as we would not bombard kindergartners with the details of condom use, we probably ought not instruct preteens in the finer points of sociobiology, especially since many of those are hidden even to those expected to do the teaching.
 
 I can only assume this is tongue-in-cheek, or perhaps our dear professor hasn’t been to a middle school biology class in a while–if he had, he would have noticed that *evolution itself* is not taught (or not taught well) in our schools. Forget the “finer points of sociobiology”; I’d be happy with the general points of evolution! It’s like arguing whether the proper role of a garnish in drink-mixing should be taught in home ec; it’s so far out of left field it leaves one puzzled.
 
 Plus, even though the professor seems to have read some sociobiology, he parrots some of the classic misconceptions–he talks about selfishness as if it were uniformly beneficial in an evolutionary sense:
 
-> If the fundamental nature of living things – human beings included – > is to joust endlessly with each other, each seeking to get ahead, then > we’re all mired in selfishness – a dark vision indeed.
+> If the fundamental nature of living things – human beings included – is to joust endlessly with each other, each seeking to get ahead, then we’re all mired in selfishness – a dark vision indeed.
 
 He corrects this logic later, but even in doing so shows some odd assumptions:
 
-> For one thing, a deeper grasp of the evolutionary biology of altruism > reveals that even though selfishness may well underlie much of our > behavior, it is often achieved, paradoxically, via acts of altruism, > as when individuals behave in a manner that enhances the ultimate > success of genetic relatives. Here, selfishness at the level of genes > produces altruism at the level of bodies. Ditto for “reciprocity,” > which, as Robert Trivers elegantly demonstrated more than three > decades ago, can produce seemingly altruistic exchanges and moral > obligations even between nonrelatives. **Yet genetic selfishness > underlies it all**.
+> For one thing, a deeper grasp of the evolutionary biology of altruism > reveals that even though selfishness may well underlie much of our > behavior, it is often achieved, paradoxically, via acts of altruism, > as when individuals behave in a manner that enhances the ultimate > success of genetic relatives. Here, selfishness at the level of genes > produces altruism at the level of bodies. Ditto for “reciprocity,” > which, as Robert Trivers elegantly demonstrated more than three decades ago, can produce seemingly altruistic exchanges and moral obligations even between nonrelatives. **Yet genetic selfishness underlies it all**.
 
 Unlike Richard Dawkins, who always made it clear that talking about genes as “selfish” was only a shortcut to predicting biological phenomenon, the author here seems to think that genes actually are selfish, and that this somehow has moral implications!
 

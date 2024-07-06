@@ -11,7 +11,7 @@ Clash of freedoms
 
 Beliefnet has a [story](http://www.beliefnet.com/story/189/story_18978_1.html) about Opus Dei disavowing the publication of a cartoon by a local group which put Muhammad in Hell taking after Dante. The officials make it clear that the decision was in part driven by pragmatic concerns of violence after the Danish cartoon controversy, but I found this conclusion amusing:
 
-> “The cartoon’s publication is further framed by the current debate in > many countries regarding the false and unjust depiction of the > Christian faith in The Da Vinci Code,” he said. “The issue at stake > here is how to **make compatible** freedom of expression, a free > market and respect for religious beliefs.”
+> “The cartoon’s publication is further framed by the current debate in > many countries regarding the false and unjust depiction of the Christian faith in The Da Vinci Code,” he said. “The issue at stake here is how to **make compatible** freedom of expression, a free market and respect for religious beliefs.”
 
 In a word, “heh.” A reader below asserted that “people scoff pretty easily at ‘free speech’.” I don’t think this is so at all. It seems to be that only unassimilated peoples from non-Western cultures will make a full frontal assault on free speech. Westerners, in contrast, will **redefine** free speech in a more constrained fashion. This is surely what religious traditionalists mean to do when they hint at a resurrection of pre-modern standards of sacrality of religious beliefs while at the same time preserving “free speech.” You know what they say, *hate speech* isn’t speech. Right.
 

@@ -13,7 +13,8 @@ A [new find](http://news.nationalgeographic.com/news/2006/09/060913-neanderthals
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [Hawks on Neandertals &
   feminism](https://www.gnxp.com/WordPress/2006/12/05/hawks-on-neandertals-feminism/) - [Climate &
   Neandertals](https://www.gnxp.com/WordPress/2007/09/17/climate-neandertals/) - [50 million Neandertals

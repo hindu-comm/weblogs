@@ -13,7 +13,8 @@ I didn’t watch [The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight
 
 ### Related Posts:
 
-- [Beyond Belief 3 - Candles in the
+- [Beyond Belief 3
+- Candles in the
   Dark](https://www.gnxp.com/WordPress/2008/11/11/beyond-belief-3-candles-in-the-dark/) - [Beyond Belief 3 - Candles in the
   Dark](https://www.gnxp.com/WordPress/2008/11/11/beyond-belief-3-candles-in-the-dark/) - [Why Dukies underachieve as
   pros](https://www.gnxp.com/WordPress/2010/04/02/why-dukies-underachieve-at-the-pros/) - [Fame & Victimization: A Toxic

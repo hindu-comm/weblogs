@@ -13,7 +13,8 @@ Brad Delong [reports](http://delong.typepad.com/sdj/2008/12/why-is-africa-p.html
 
 ### Related Posts:
 
-- [Brad DeLong - Ninja
+- [Brad DeLong
+- Ninja
   Geneticist](https://www.gnxp.com/WordPress/2005/09/14/brad-delong-ninja-geneticist/) - [An economics and evolutionary biology reading
   list](https://www.gnxp.com/WordPress/2012/04/01/an-economics-and-evolutionary-biology-reading-list/) - [Compare and
   contrast](https://www.gnxp.com/WordPress/2006/03/13/compare-and-contrast/) - [Republican War on Science -

@@ -23,8 +23,8 @@ First, some disclosure. Hong talked to me on the phone for an hour about this st
 
 I will go through the article point by point. First:
 
-> I doubt that most 23andMe users realize how paltry the company’s data > is for non-Caucasians. For example: The data set that 23andMe used to > generate my report has 76 Koreans in it, according to Dr. Joanna > Mountain, the company’s senior director of research. 76 Koreans. It is > estimated there are at least 7 million Koreans living outside of the > Korean peninsula—including 1.7 million in the US—among a worldwide > population of 83 million. >
-> Seventy-six Koreans seemed small to me, but what do I know? I’m just a > journalist. So I spoke to geneticist Spencer Wells, founder and former > director of National Geographic’s Genographic Project (arguably a > 23andMe competitor), which he ran from 2005-2015. “\[76\] is a really > low number,” he concurred.
+> I doubt that most 23andMe users realize how paltry the company’s data > is for non-Caucasians. For example: The data set that 23andMe used to > generate my report has 76 Koreans in it, according to Dr. Joanna > Mountain, the company’s senior director of research. 76 Koreans. It is estimated there are at least 7 million Koreans living outside of the Korean peninsula—including 1.7 million in the US—among a worldwide population of 83 million. >
+> Seventy-six Koreans seemed small to me, but what do I know? I’m just a > journalist. So I spoke to geneticist Spencer Wells, founder and former director of National Geographic’s Genographic Project (arguably a 23andMe competitor), which he ran from 2005-2015. “\[76\] is a really low number,” he concurred.
 
 The small sample sizes seem really, really problematic if you are a lay person, or a journalist. The issue is that with genotype technology that looks for common polymorphisms **you really don’t get that much more information from 1,000 individuals than you do from 100.** All things equal, more sample size is better, but the gap between 10 and 100 is much much greater than 100 and 1,000 or 100 and 10,000. You can see this in the robustness of results for model-based clustering conditional on different sample sizes. For a homogeneous population like the peoples of the Korean peninsula, who seem relatively panmictic, a bigger sample size would have only marginal effect on the overall outcomes using these methods (also, it might matter if you were looking at low-frequency alleles from whole genome sequencing).
 
@@ -32,8 +32,8 @@ Before I talked to Hong I checked in with a friend who was half north Korean (in
 
 Next:
 
-> Also, astonishingly, the report shows that I am 13.4% Japanese and 14% > Chinese—and only 61.6% Korean. I was looking forward to watching my > parents freak out. My sister texted me, “Oh \[Dad will\] probably > blame Mom.” >
-> To my disappointment, my parents did not freak out, nor did they get > into an amusing argument about which of their ancestors was the ho. > Because they simply did not believe the data. **And, for once, they > were right.**
+> Also, astonishingly, the report shows that I am 13.4% Japanese and 14% Chinese—and only 61.6% Korean. I was looking forward to watching my parents freak out. My sister texted me, “Oh \[Dad will\] probably blame Mom.” >
+> To my disappointment, my parents did not freak out, nor did they get into an amusing argument about which of their ancestors was the ho. Because they simply did not believe the data. **And, for once, they were right.**
 
 The public relies on journalists for the truth. Sometimes the truth can be slippery. But sometimes it is clear. Most of conversation between Hong and myself was about her Korean ancestry. As I said to her, I asked a handful of my Korean friends about their 23andMe results before we spoke. From that **I told Hong I was 99% sure that she had recent non-Korean ancestry.** 23andMe’s results are really robust. I tried to emphasize that over and over. Hong can believe what she wants, **but it is obvious that she almost certainly has non-Korean ancestry relatively recently in the past.**
 
@@ -41,7 +41,7 @@ Because 23andMe uses chromosome painting, you can see she has very long segments
 
 Next:
 
-> I asked Wells whether my percentage breakdowns of Korean, Chinese, and > Japanese meant anything. “Yes,” he said, “but I think it is misleading > to go to a decimal place or even to go out two digits.” Wells said > that another problem with the data is that “Most of those \[samples\] > are from the US. They’re not terribly useful for studies of indigenous > composition—which is effectively what this analysis is trying to do.”
+> I asked Wells whether my percentage breakdowns of Korean, Chinese, and > Japanese meant anything. “Yes,” he said, “but I think it is misleading > to go to a decimal place or even to go out two digits.” Wells said that another problem with the data is that “Most of those \[samples\] are from the US. They’re not terribly useful for studies of indigenous composition—which is effectively what this analysis is trying to do.”
 
 I had a long text conversation with Spencer on this after the article came out. I can see where he’s coming from. **And 23andMe does have a shortfall of indigenous and non-European samples.** But as I said, I asked around to Korean friends who had used 23andMe before and the population is pretty homogeneous, and the friends’ results I cited above were representative. I have also worked with and seen samples from Family Tree DNA, and it’s the same story. There might be undersampled populations from Korea, but I’d bet against it. Koreans are relatively homogeneous, with a position between Japanese and North Chinese. Where you would expect them to be.
 
@@ -49,13 +49,13 @@ Spencer is correct about the decimal places issue. They give people a false impr
 
 Next:
 
-> I also interviewed Harvard geneticist Robert Green, who made the > important point that private companies have different methods and > standards from those of an academic lab. **“There is a difference > between analysis you can do with hundreds of \[genetic\] markers at a > research level, and the kind of analysis that even the best companies > can do, which is more an approximation,”** he said.
+> I also interviewed Harvard geneticist Robert Green, who made the > important point that private companies have different methods and > standards from those of an academic lab. **“There is a difference between analysis you can do with hundreds of \[genetic\] markers at a research level, and the kind of analysis that even the best companies can do, which is more an approximation,”** he said.
 
 Green is a medical geneticist who does great work. But I’ll be generous and assume he’s taken totally out of context here, **because what he says makes no sense.** The genotyping platforms do have error rates (no-calls, mistypings, etc.) on the order of 1%. But they’re using hundreds of thousands of SNPs. This error rate doesn’t matter too much for what 23andMe is doing in relation to ancestry. And with population structure inference these errors usually don’t cause a major issue if they aren’t systematic.
 
 Then there’s this:
 
-> A few of the geneticists I interviewed for this article (but not Green > or Wells) outright accused 23andMe of commercially driven ethnic bias. > For example, **no distinction is made between northern and southern > Chinese, who have very different traits.** This was a serious > allegation, so I put the question directly before 23andMe’s Mountain. > “As a scientist, I find that insulting,” she said in a phone > interview.
+> A few of the geneticists I interviewed for this article (but not Green > or Wells) outright accused 23andMe of commercially driven ethnic bias. > For example, **no distinction is made between northern and southern > Chinese, who have very different traits.** This was a serious allegation, so I put the question directly before 23andMe’s Mountain. “As a scientist, I find that insulting,” she said in a phone interview.
 
 I brought up the issue with the Chinese to Hong, and **I apologize to Mountain here if it came off as offensive, because I certainly didn’t mean it that way.** My point, which I’ve brought up for years both in public, and when I have consulted for DTC companies, is that **South and East Asians are huge groups, and it’s incongruous that they aren’t differentiated as much as the Europeans.** These tests basically tell you are South Asian, or Chinese, or Korean, or Japanese. In the case of Koreans and Japanese there isn’t that much structure within these groups, but that is not the case with the Han Chinese. There is an decent amount of structure, but last I checked 23andMe has a catchall Han Chinese group. Why? I’ll get to that later. (It’s not because they don’t have the data.)
 
@@ -65,7 +65,7 @@ The final sections involve Hong reviewing the disparities in sample representati
 
 Finally:
 
-> Could the company be doing a better job with collecting ethnographic > data? “Absolutely they could,” Wells said, “but it’s not their raison > d’être.” **Which, of course, is pharma and health research.** Fair > enough—it’s their money. But how about a disclaimer attached to the > ancestry part of the report? Like, “for entertainment purposes only?” > **Because data based on 76 Koreans (or any other ethnic group) is > definitely not worth potentially causing family discord or a blood > feud**. I don’t know whether the company understands the realities of > deadly global ethnic tensions and the potential damage created by > people’s trust in these reports.
+> Could the company be doing a better job with collecting ethnographic > data? “Absolutely they could,” Wells said, “but it’s not their raison > d’être.” **Which, of course, is pharma and health research.** Fair > enough—it’s their money. But how about a disclaimer attached to the > ancestry part of the report? Like, “for entertainment purposes only?” > **Because data based on 76 Koreans (or any other ethnic group) is > definitely not worth potentially causing family discord or a blood feud**. I don’t know whether the company understands the realities of deadly global ethnic tensions and the potential damage created by people’s trust in these reports.
 
 I think Spencer has highlighted the major dynamic here: 23andMe is pivoting towards biomedical research. It has a database of north of a million, mostly European-origin individuals. **The real money now comes from leveraging the database to collect information on health, and combining it with the genotypes they already have.** On the margin, getting greater population diversity is probably not a major avenue by which they could gain higher valuations. And getting from one million to ten million genotypes is nothing without increasing their database of phenotypes.
 

@@ -11,7 +11,7 @@ Many Catholic priests don't think Catholicism is unique
 
 I stumbled onto some peculiar [survey data](https://books.google.com/books?id=4QI_eBpD7twC&pg=PA241&dq=salvation+jesus+necessary+clergy+survey&ei=18mlSsuVF5zElATzsMz5Bw#v=onepage&q=&f=false) of American Roman Catholic priests:
 
-> A somewhat larger percentage of participants (57 percent) believe that > the sacraments of the Church are necessary for salvation, **and > relatively few (17 percent) agree that “all great religions are > *equally* good and true.”**
+> A somewhat larger percentage of participants (57 percent) believe that the sacraments of the Church are necessary for salvation, **and relatively few (17 percent) agree that “all great religions are *equally* good and true.”**
 
 Yes, 17% of respondents is a minority. But for me the key is that these are not men who are exhibiting some level of ecumenicalism, accepting that salvation might take place outside of the sacraments of the church. They believe that all other religions are as good and true as their own religion. A religion which they devote their lives to as clergy!
 

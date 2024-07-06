@@ -11,9 +11,9 @@ Source: [here](https://www.gnxp.com/WordPress/2011/04/10/23andme-sale-tomorrow-a
 
 [23andMe Sale tomorrow](http://www.yourgeneticgenealogist.com/2011/04/23andme-sale-on-monday.html):
 
-> For a limited time, you can order a 23andMe kit for \$0 up front, plus > a 12-month commitment to our Personal Genome Service® at \$9/month. > This is down from the regular price of \$199 plus \$9/month. >
+> For a limited time, you can order a 23andMe kit for \$0 up front, plus a 12-month commitment to our Personal Genome Service® at \$9/month. This is down from the regular price of \$199 plus \$9/month. >
 > … >
-> **This promotional price will be available from 12:00AM PST until > 11:59PM PST on Monday 4/11/11, or while supplies last!**
+> **This promotional price will be available from 12:00AM PST until 11:59PM PST on Monday 4/11/11, or while supplies last!**
 
 **Update:** Sale is a go right now. 5 kits per person.
 

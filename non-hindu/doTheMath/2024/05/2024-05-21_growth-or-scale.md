@@ -124,7 +124,8 @@ A figure from [Dirzo et al. (2014)](https://www.science.org/doi/10.1126/science.
 
 Loads of other reports express alarm about population declines. Insects and birds are disappearing at rates of 1–2% per year. The U.S. and Canada have [lost an estimated 3 billion birds](https://www.birds.cornell.edu/home/bring-birds-back/) since [1970](https://news.cornell.edu/stories/2022/05/global-bird-populations-steadily-decline). These statistics do not in themselves answer the question about growth vs. scale. But I will note that the latest messaging is best described by one of the following two choices (try to pick the right answer):
 
-1.  Oh my: animals are disappearing at unprecedented rates, constituting a biodiversity emergency that may even signal a sixth mass extinction. 2.  Thank goodness: the high rates of animal disappearance that peaked in the second half of last century have moderated, so that we may be out of the woods and on the road to recovery.
+1.  Oh my: animals are disappearing at unprecedented rates, constituting a biodiversity emergency that may even signal a sixth mass extinction.
+2.  Thank goodness: the high rates of animal disappearance that peaked in the second half of last century have moderated, so that we may be out of the woods and on the road to recovery.
 
 I’m just sayin’. Things aren’t looking great, and the alarm bells are getting louder as the mounting crisis becomes ever-more apparent.
 

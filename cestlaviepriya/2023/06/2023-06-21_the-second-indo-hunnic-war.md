@@ -17,7 +17,16 @@ Ancient India in the early 6^(th) century was riveting with socio-political and 
 
 **Table of Contents & Links**
 
-- **[Background](#Background)** - **[Mihirakula – The New Hūṇa Ruler](#Mihirakula)** - **[Mihirakula & Narsiṁhagupta Bālāditya](#Mihirakula-and-Bālāditya)** - **[The Aftermath of Defeat](#Aftermath)** - **[The Indian Coalition](#Indian-Coalition)** - **[The Final Battle](#Final-Battle)** - **[The Atonement](#Atonement)** - **[Conclusion](#Conclusion)** - **[Notes](#Notes)** - **[Bibliography](#Bibliography)**
+- **[Background](#Background)**
+- **[Mihirakula – The New Hūṇa Ruler](#Mihirakula)**
+- **[Mihirakula & Narsiṁhagupta Bālāditya](#Mihirakula-and-Bālāditya)**
+- **[The Aftermath of Defeat](#Aftermath)**
+- **[The Indian Coalition](#Indian-Coalition)**
+- **[The Final Battle](#Final-Battle)**
+- **[The Atonement](#Atonement)**
+- **[Conclusion](#Conclusion)**
+- **[Notes](#Notes)**
+- **[Bibliography](#Bibliography)**
 
 **§** **Background **
 
@@ -57,7 +66,7 @@ From the Gwālior Stone Inscription, it is learnt that by the 15th year of his r
 
 Thus at the time of Mihirakula’s accession, his territory had its limits from Bālkh to central and northern India i.e. at least up to Kauśāṁbī (Thakur, 1967: 132-133) and if we are to believe Xuanzang, he even had Narsiṁhagupta Bālāditya under his vassalage. The Hūṇa was controlling a broad corridor from his base in Siālkoṭ (Śākala) in the northern Panjāb to Eastern Mālwā, and as Bakker suggests, it was this corridor in which Gwālior Hill served as one of his strongholds.
 
-> **This corridor bordered in the south-west on the Aulikara kingdom of > Yaśodharman and in the north-east on the territories of the Maukharis, > who had already annexed parts of the Gaṅgā-Yamunā Plain by this > time.** >
+> **This corridor bordered in the south-west on the Aulikara kingdom of Yaśodharman and in the north-east on the territories of the Maukharis, who had already annexed parts of the Gaṅgā-Yamunā Plain by this time.** >
 > **(Bakker, 2020: 92)**
 
 He thus had his hold over a vast area that included Afghānistān, Gāndhāra, Kaśmīra, Panjāb, some regions of Sindh-Rājpūtānā and areas up to Central India. Coming to the point of considering Mihirakula a ruler of somewhat lesser stature than his father – a conclusion that Bakker makes consistently, it seems odd that someone who was in control of such vast expanse did not claim any grand imperial titles like his father. But as its explanation, we get indications from the very inscriptions of these rulers. In both the Schøyen Copper Scroll and the Khurā Stone Inscription, Toramāṇa has been called Rājādhirāja. The Eraṇ Boar (Varāha) Inscription mentions him as Mahārājādhirāja (the supreme lord) Toramāṇa (Bakker, 2020; 28). The three Sañjeli Copper Plates from North Gujarāta also mention Toramāṇa as the supreme lord (mahārājādhirāja) (Bakker, 2020; 80). But from the Gwālior Inscription, we learn that Mihirakula did not bear imperial titles and his position as ‘lord of the earth’ (patiḥ pṛthvyāḥ) and ‘foremost among kings’ or ‘bull among kings’ (nṛpavṛṣasya) is clearly less exalted than that of his father (Bakker, 2020: 93).
@@ -119,7 +128,7 @@ Sometime between the years ~ 530 – 532 CE, the final battle between the Indo-H
 
 Bakker also gives an interesting suggestion based on a finding reported by John Faithfull Fleet (Bakker, 2014: 54). Yaśodharman wrote on his victory column that he went to war under ‘the flying banner of ̍Śūlapāṇī’ (Bhagavān Śiva). Importantly, the Mandsor Stone Inscription actually had an illustration on its back which was noticed by Fleet (Corpus Inscriptionum Indicarum Vol. III, Inscriptions of the Early Gupta Kings and their Successors. 1960, 3rd Edition).^(**8**)
 
-> **This back was divided into two compartments by what seems to be > either a spear \[śūla, H.T.B\] with a curved handle, or a shepherd’s > crook, there are engraved in outline, very roughly,—at the upper > corners, the sun on the proper right, and the moon on the proper left; > and, lower down, on each side, a man on horseback, facing toward the > central dividing figure; the horseman on the proper right side carries > in his left hand either a chaurī or fly-flap made of the bushy tail of > the Bos Grunniens, or a śaṅkha or conch-shell; the other horse-man > caries something in his right hand, but I could not distinguish the > object.** >
+> **This back was divided into two compartments by what seems to be > either a spear \[śūla, H.T.B\] with a curved handle, or a shepherd’s > crook, there are engraved in outline, very roughly,—at the upper > corners, the sun on the proper right, and the moon on the proper left; > and, lower down, on each side, a man on horseback, facing toward the > central dividing figure; the horseman on the proper right side carries > in his left hand either a chaurī or fly-flap made of the bushy tail of the Bos Grunniens, or a śaṅkha or conch-shell; the other horse-man caries something in his right hand, but I could not distinguish the object.** >
 > **(Bakker, 2014: 54)**
 
 Based on this information, Bakker suggests that the Aulikara cavalry could have played an important role in defeating the Hunnic forces. In his words, ‘the lancers of the Aulikara-s may have beaten the Huns at their own game.’ So, if we can be allowed to interpret the sun and the moon in the upper corners of the illustration as something more than just auspicious signs, then this could be the emblem of the Aulikara-s i.e. the aulikaralāñchana (attributed to Yaśodharman-Viṣṇuvardhana in the inscription) (Bakker, 2014: 54).

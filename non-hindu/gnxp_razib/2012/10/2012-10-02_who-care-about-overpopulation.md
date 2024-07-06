@@ -13,7 +13,7 @@ Who cares about overpopulation? Smart people and atheists
 
 If you had the sense that [Paul Ehrlich](https://en.wikipedia.org/wiki/Paul_R._Ehrlich) and [Garrett Hardin](https://en.wikipedia.org/wiki/Garrett_Hardin) are very much figures of the 1970s nexus of environmentalism and population control, it seems you are right. According to [Google Ngrams](https://books.google.com/ngrams/graph?content=overpopulation%2CMalthusian&year_start=1950&year_end=2000&corpus=0&smoothing=3) mention of these topics has been declining since peaking during the oil crisis, in the afterglow of the influence of the late 1960s counter-culture. The [general social survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) has a variable, POPGRWTH, which asks:
 
-> And please circle one number for each of these statements to show how > much you agree or disagree with it. **The earth cannot continue to > support population growth at its present rate.**
+> And please circle one number for each of these statements to show how much you agree or disagree with it. **The earth cannot continue to support population growth at its present rate.**
 
 The question was asked in the year 2000 and 2010. Demographic breakdowns below for the pooled responses….
 

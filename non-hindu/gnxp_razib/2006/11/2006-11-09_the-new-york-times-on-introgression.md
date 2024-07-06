@@ -11,7 +11,7 @@ The New York Times on introgression
 
 The paper of record [reports on introgression](http://www.nytimes.com/2006/11/09/science/09gene.html?ref=us). Here is a tantalizing tidbit:
 
-> **Two other reports of DNA studies** of possible mixing of human and > related genes are expected to be published in the next few weeks.
+> **Two other reports of DNA studies** of possible mixing of human and related genes are expected to be published in the next few weeks.
 
 …I have suspicions, but I’m in the dark, so I’ll be checking in on [John Hawks](http://johnhawks.net/weblog/) regularly via my rss feed just like you. I am a little disappointed that Nick Wade didn’t tackle this, but perhaps he is busy writing copy for the other “Big Idea” that Hawks and Cochran have brewing….  
 **Related:** I’m starting to be convinced by readers that the “Living Neandertals” that Hawks and Cochran have been talking about are situated on the [Celtic Fringe](https://en.wikipedia.org/wiki/Celtic_fringe).

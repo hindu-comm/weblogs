@@ -22,7 +22,8 @@ Ultimately this isn’t going to make me a grinch about Hanukkah. We don’t cel
 
 ### Related Posts:
 
-- [The seasons](https://www.gnxp.com/WordPress/2011/12/22/the-seasons/) - [Merry
+- [The seasons](https://www.gnxp.com/WordPress/2011/12/22/the-seasons/)
+- [Merry
   Christmas!](https://www.gnxp.com/WordPress/2014/12/25/merry-christmas-2/) - [Have a merry
   Christmas!](https://www.gnxp.com/WordPress/2011/12/25/have-a-merry-christmas/) - [Open Thread - December 25th,
   2010](https://www.gnxp.com/WordPress/2010/12/25/open-thread-december-25th-2010/) - [Merry

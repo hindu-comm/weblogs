@@ -15,11 +15,11 @@ Last week there [were mass demonstrations](http://www.asiasentinel.com/index.php
 
 South Korea is I suspect a case where these dynamics might become more important in the coming years because of its religious diversity. Additionally, religious tension is not a new feature of the culture. It isn’t too hard to find instances of fundamentalist Christians [attacking Buddhism](http://www.buddhapia.com/eng/tedesco/2.html). This is similar to cases in Brazil where evangelicals have destroyed statues of the Virgin Mary. There several recent incidents associated with the current head of state which precipitated the present crisis, but note this:
 
-> But tension has been building up since December, when newly elected > president Lee began filling his first cabinet with Christians. At > least a half of his new ministers were people professing to be > Christians, with the prime minister, Han Seung Soo, said to be a Roman > Catholic. Not a single cabinet minister professed to be Buddhist.
+> But tension has been building up since December, when newly elected > president Lee began filling his first cabinet with Christians. At least a half of his new ministers were people professing to be Christians, with the prime minister, Han Seung Soo, said to be a Roman Catholic. Not a single cabinet minister professed to be Buddhist.
 
 or
 
-> Of the 15 members of Lee’s Cabinet, 12 are Christian and one is > Buddhist while the affiliation of two others was not immediately > available.
+> Of the 15 members of Lee’s Cabinet, 12 are Christian and one is Buddhist while the affiliation of two others was not immediately available.
 
 So obviously there’s some disagreement, but one can assume here that though Christians are 1/3 of the population they are the substantial majority of the cabinet. Is this prejudice? Discrimination? Do Buddhists have grounds to be angry? As I have [noted before](http://scienceblogs.com/gnxp/2007/05/modernization_religion_in_sout_1.php) in South Korea Christianity has a strong correlation with higher socioeconomic status. If one assumes that cabinet level positions sample from the social and educational elites, **then they will naturally tend to preponderantly be Christians!** Of course since the president is a zealous Christian one can always be suspicious of his motive and method, so as a precautionary principle one could argue that there should have been an affirmative action to reach out to Buddhists so that the cabinet “looked like the nation.”
 

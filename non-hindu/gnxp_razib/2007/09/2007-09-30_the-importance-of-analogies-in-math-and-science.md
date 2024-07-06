@@ -14,7 +14,7 @@ The importance of analogies in math and science
 
 A recent Cognitive Daily post called [“Why aren’t more women in science”](http://scienceblogs.com/cognitivedaily/2007/09/why_arent_more_women_in_scienc.php) (part 1) reviews some of the lit on sex differences in cognitive abilities. Dave Munger notes:
 
-> In the verbal portion of the \[SAT\] test, the male advantage is > eliminated if the analogy portion of the test is eliminated; arguably > this is more a test of mapping relationships than literacy.
+> In the verbal portion of the \[SAT\] test, the male advantage is eliminated if the analogy portion of the test is eliminated; arguably this is more a test of mapping relationships than literacy.
 
 The analogy portion was, of course, scrapped as of the spring 2005 SAT. \[1\] The boldfaced clause above shows why it matters more than the other Verbal portions: figuring out relationships between ideas matters, and reporting what some author said does not. Analogies are highly g-loaded, reading comprehension much less so. But aside from better detecting who the smarties are, analogies are more reflective of real-world math, science, and engineering. (And they matter in the humanities too \[2\].) If A got one more math question than B, but B got three more analogy questions than A, I’d bet on B doing better in math, even if an IQ test showed they had the same IQ.
 

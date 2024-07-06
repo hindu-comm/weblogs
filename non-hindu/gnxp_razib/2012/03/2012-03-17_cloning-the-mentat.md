@@ -19,7 +19,9 @@ My argument for cloning von Neumann in large numbers has a practical rationale: 
 
 ### Related Posts:
 
-- [Open Thread - 4/9/2022 - Gene
+- [Open Thread
+- 4/9/2022
+- Gene
   Expression](https://www.gnxp.com/WordPress/2022/04/09/open-thread-4-9-2022-gene-expression/) - [Human cloning
   "inevitable"](https://www.gnxp.com/WordPress/2007/02/24/human-cloning-inevitable/) - [Open Thread -
   4/24/2022](https://www.gnxp.com/WordPress/2022/04/24/open-thread-4-24-2022/) - [Clones are

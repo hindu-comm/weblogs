@@ -21,7 +21,7 @@ But perhaps the bigger issue is that there may be a lot of selection on segregat
 
 Speaking of variation, there’s a [paper in the works](http://www.sciencemag.org/news/2017/10/modern-humans-lost-dna-when-they-left-africa-mating-neandertals-brought-some-back) which suggests that admixture with Neanderthals replenished some of the genetic diversity that the Out-of-Africa modern lineage lost:
 
-> “They left many beneficial variants behind in Africa,” says > evolutionary genomicist Tony Capra of Vanderbilt University in > Nashville, who reported the results. “Interbreeding with Neandertals > provided an opportunity to get back some of those variants, albeit > with many potentially weakly deleterious Neandertal alleles as well.”
+> “They left many beneficial variants behind in Africa,” says > evolutionary genomicist Tony Capra of Vanderbilt University in Nashville, who reported the results. “Interbreeding with Neandertals provided an opportunity to get back some of those variants, albeit with many potentially weakly deleterious Neandertal alleles as well.”
 
 ### Related Posts:
 

@@ -11,7 +11,7 @@ The 2007 crash in genome sequencing costs
 
 [Dr. Daniel MacArthur](http://www.wired.com/wiredscience/2011/02/illustrating-the-plummeting-cost-of-genome-sequencing/) suggests:
 
-> Now, we don’t want everyone working in genomics to start using the > same blue-on-grey slide to illustrate the impending datapocalypse; so > I’d encourage people to[download the raw > data](http://www.genome.gov/pages/der/sequencing_cost.xls) (warning: > Excel file) and make their own pretty pictures.
+> Now, we don’t want everyone working in genomics to start using the > same blue-on-grey slide to illustrate the impending datapocalypse; so I’d encourage people to[download the raw data](http://www.genome.gov/pages/der/sequencing_cost.xls) (warning: Excel file) and make their own pretty pictures.
 
 My straightforward attempts are below. Get the raw data and try your own. I assume that [R](http://cran.r-project.org/) and [gnuplot](http://www.gnuplot.info/) could produce something prettier….
 

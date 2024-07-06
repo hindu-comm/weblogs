@@ -11,10 +11,10 @@ Source: [here](https://www.gnxp.com/WordPress/2008/06/09/then-your-eyes-shall-be
 
 Carl has an excellent post up, [Engineering Life: The Dog that Didn’t Bark in the Night](http://scienceblogs.com/bookclub/2008/06/engineering_life_the_dog_that.php):
 
-> …Erwin Chargaff, an eminent Columbia University biologist, called > genetic engineering “an irreversible attack on the biosphere.”  
-> “The world is given to us on loan,” he warned. “We come and we go; and > after a time we leave earth and air and water to others who come after > us. My generation, or perhaps the one preceding mine, has been the > first to engage, under the leadership of the exact sciences, in a > destructive colonial warfare against nature. The future will curse us > for it.”  
-> At the same time, people warned that we were doing the unnatural, > something that humans were not meant to do. “We can now transform that > evolutionary tree into a network,” declared Robert Sinsheimer, a > biologist at the University of California, Santa Cruz. “We can merge > genes of most diverse origin–from plant or insect, from fungus or man > as we wish.”  
-> It was not a power that Sinsheimer thought we could handle. “We are > becoming creators–makers of new forms of life–creations that we cannot > undo, that will live on long after us, that will evolve according to > their own destiny. What are the responsibilities of creators–for our > creations and for all the living world into which we bring our > inventions?”
+> …Erwin Chargaff, an eminent Columbia University biologist, called genetic engineering “an irreversible attack on the biosphere.”  
+> “The world is given to us on loan,” he warned. “We come and we go; and > after a time we leave earth and air and water to others who come after > us. My generation, or perhaps the one preceding mine, has been the first to engage, under the leadership of the exact sciences, in a destructive colonial warfare against nature. The future will curse us for it.”  
+> At the same time, people warned that we were doing the unnatural, > something that humans were not meant to do. “We can now transform that > evolutionary tree into a network,” declared Robert Sinsheimer, a biologist at the University of California, Santa Cruz. “We can merge genes of most diverse origin–from plant or insect, from fungus or man as we wish.”  
+> It was not a power that Sinsheimer thought we could handle. “We are > becoming creators–makers of new forms of life–creations that we cannot > undo, that will live on long after us, that will evolve according to their own destiny. What are the responsibilities of creators–for our creations and for all the living world into which we bring our inventions?”
 
 “Those who cannot learn from history are doomed to repeat it.”
 

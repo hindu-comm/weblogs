@@ -13,7 +13,8 @@ Check it, a [familiar face](http://www.talkingpointsmemo.com/archives/2009/04/sw
 
 ### Related Posts:
 
-- [Day 5 of hot sauce - Mad Dog Liquid
+- [Day 5 of hot sauce
+- Mad Dog Liquid
   Fire](https://www.gnxp.com/WordPress/2007/03/31/day-5-of-hot-sauce-mad-dog-liquid-fire/) - [Mendelian variation in dog
   size](https://www.gnxp.com/WordPress/2007/04/05/mendelian-variation-in-dog-size/) - [Carl fisks
   Luskin](https://www.gnxp.com/WordPress/2006/11/21/carl-fisks-luskin/) - [The global human -

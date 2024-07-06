@@ -19,12 +19,12 @@ First, right now this paper from early this year is getting a lot of attention, 
 
 It was, of course, a political scientist who objected immediately:
 
-> False! Selecting on the dependent variable by only looking at outcomes > \*among\* admitted candidates where GRE helped determine admission. > <https://t.co/eZQxQClt4S> >
-> — Brendan Nyhan (@BrendanNyhan) [November 8, > 2017](https://twitter.com/BrendanNyhan/status/928084748706222082?ref_src=twsrc%5Etfw)
+> False! Selecting on the dependent variable by only looking at outcomes \*among\* admitted candidates where GRE helped determine admission. <https://t.co/eZQxQClt4S> >
+> — Brendan Nyhan (@BrendanNyhan) [November 8, 2017](https://twitter.com/BrendanNyhan/status/928084748706222082?ref_src=twsrc%5Etfw)
 
 This blog post is of interest for those curious, [That one weird third variable problem nobody ever mentions: Conditioning on a collider](http://www.the100.ci/2017/03/14/that-one-weird-third-variable-problem-nobody-ever-mentions-conditioning-on-a-collider/). Basically, it is well known that at many universities graduate admittees exhibit a weak **negative** association between GRE scores and grade point averages. This was commented on as far back as the 1970s in*Science*,[Graduate Admission Variables and Future Success](http://science.sciencemag.org/content/187/4178/721):
 
-> The standard variables considered in selecting students for graduate > school do not correlate well with later measures of the success or > attainments of the selected students (1, 2). The low correlations have > led at least one investigator (3) to propose abandoning one of these > standard variables, the Graduate Record Examination (GRE). **The > purpose of the present report is to demonstrate that variables that > are the basis for admitting students to graduate school must have low > correlations with future measures of the success of these students.**
+> The standard variables considered in selecting students for graduate > school do not correlate well with later measures of the success or > attainments of the selected students (1, 2). The low correlations have > led at least one investigator (3) to propose abandoning one of these > standard variables, the Graduate Record Examination (GRE). **The purpose of the present report is to demonstrate that variables that are the basis for admitting students to graduate school must have low correlations with future measures of the success of these students.**
 
 What’s going on?
 
@@ -44,7 +44,7 @@ This may seem like a nerdy issue. And it is well known to social scientists. **B
 
 As I said above, I do think GRE is going to be dropped as a requirement at many universities for graduate programs. This is going to be a natural experiment, so we’ll be able to test many hypotheses. The paper above ends like so:
 
-> …Without a study in which a sample of the applicants-rather than of > the selected students is evaluated, it is impossible to tell \[the > validity of the criteria -RK\]. Yet such a study is completely > infeasible. Even if rejected applicants are monitored throughout the > rest of their working careers, it is impossible to evaluate how they > would have done had they been admitted, because the rejection itself > constitutes an important “treatment” difference between them and the > selected students. The alternative is to admit a sample of the > applicant population without using the standard admission variables to > select them-**preferably, to select at random.**
+> …Without a study in which a sample of the applicants-rather than of > the selected students is evaluated, it is impossible to tell \[the > validity of the criteria -RK\]. Yet such a study is completely > infeasible. Even if rejected applicants are monitored throughout the > rest of their working careers, it is impossible to evaluate how they > would have done had they been admitted, because the rejection itself > constitutes an important “treatment” difference between them and the selected students. The alternative is to admit a sample of the applicant population without using the standard admission variables to select them-**preferably, to select at random.**
 
 Selection may not be random, but I believe we may be able to test some hypotheses in the next generation by testing a set of students later on after admittance on the GRE and see what the future correlation is.
 

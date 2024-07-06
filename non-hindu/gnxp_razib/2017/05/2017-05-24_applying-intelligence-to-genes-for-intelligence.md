@@ -23,7 +23,8 @@ Some writers, such as Carl Zimmer, are very punctilious about the details. Getti
 
 Over the next five years you will see many “gene and IQ” studies come out, with progressively greater and greater power. Read the write-ups in*The New York Times*,*Science*, and*Nature*. But to my many readers with technical skills this is what you should really do:
 
-1.  ***pull down the data.*** 2.  ***re-analyze it.***
+1.  ***pull down the data.***
+2.  ***re-analyze it.***
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/download-5.jpeg?resize=191%2C264)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/download-5.jpeg?resize=191%2C264)](https://www.amazon.com/exec/obidos/ASIN/B00RTY0LPO/geneexpressio-20)My plain words are this: **do not trust, and always verify**.
 

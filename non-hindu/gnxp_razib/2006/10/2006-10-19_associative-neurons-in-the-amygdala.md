@@ -13,7 +13,8 @@ Associative neurons in the amygdala
 
 ### Related Posts:
 
-- [COMT & Fear](https://www.gnxp.com/WordPress/2009/03/10/comt-fear/) - [10 Questions for Joseph
+- [COMT & Fear](https://www.gnxp.com/WordPress/2009/03/10/comt-fear/)
+- [10 Questions for Joseph
   LeDoux](https://www.gnxp.com/WordPress/2006/08/07/10-questions-for-joseph-ledoux/) - [Epigenetics in
   memory](https://www.gnxp.com/WordPress/2007/03/16/epigenetics-in-memory/) - [Clustered plasticity
   model](https://www.gnxp.com/WordPress/2006/06/27/clustered-plasticity-model/) - [Neocortical olfactory memory

@@ -13,7 +13,9 @@ Keep watching until the end, that’s the funniest part….
 
 ### Related Posts:
 
-- [Portlandia](https://www.gnxp.com/WordPress/2011/01/22/portlandia/) - [Beyond Belief 2006 - a
+- [Portlandia](https://www.gnxp.com/WordPress/2011/01/22/portlandia/)
+- [Beyond Belief 2006
+- a
   highlight](https://www.gnxp.com/WordPress/2006/11/29/beyond-belief-2006-a-highlight/) - [Funniest joke
   ever?](https://www.gnxp.com/WordPress/2006/07/03/funniest-joke-ever/) - [Friday Fluff – January 28th,
   2011](https://www.gnxp.com/WordPress/2011/01/28/friday-fluff-january-28th-2011/) - [Steelers

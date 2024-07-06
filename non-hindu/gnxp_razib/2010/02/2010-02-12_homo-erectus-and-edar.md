@@ -11,7 +11,7 @@ Homo erectus and EDAR?
 
 In [Why Evolution is True](http://whyevolutionistrue.wordpress.com/), [Jerry Coyne](http://whyevolutionistrue.wordpress.com/) has the following parenthetical aside about population variation in morphology in *H. erectus*:
 
-> (*H. erectus* from China…had shovel-shaped incisor teeth not found in > other populations)
+> (*H. erectus* from China…had shovel-shaped incisor teeth not found in other populations)
 
 This stopped me dead in my tracks: modern East Asian populations have similar tooth morphology, [caused in part by a positively-selected nonsynonymous change in the gene EDAR](http://www.cell.com/AJHG/abstract/S0002-9297%2809%2900402-9). Could this be an example of convergent evolution of tooth morphology in hominins?
 

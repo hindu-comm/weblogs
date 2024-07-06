@@ -13,7 +13,8 @@ The moon is not such a harsh mistress
 
 ### Related Posts:
 
-- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/) - [From the earth to the
+- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/)
+- [From the earth to the
   moon!](https://www.gnxp.com/WordPress/2019/07/20/from-the-earth-to-the-moon/) - [Space, the forgotten
   frontier?](https://www.gnxp.com/WordPress/2008/12/30/space-the-forgotten-frontier/) - [Aquaforming](https://www.gnxp.com/WordPress/2006/03/10/aquaforming/) - [Neil Armstrong and the end of the Whig
   conceit](https://www.gnxp.com/WordPress/2012/08/25/neil-armstrong-and-the-end-of-the-whig-conceit/) - [Habitable planets & Alpha

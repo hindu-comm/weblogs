@@ -23,7 +23,7 @@ The Hazda, Sandawe, Pygmies, and Khoesan (Bushmen, Nama, etc.), are often consid
 
 This seems to be another case where farmers rapidly exploded demographically and totally marginalized hunter-gatherers. The widespread presence of Khoesan and Pygmies is obviously a function of ecology. In the cooler and dry lands of southwest Africa the Bantu crops did not flourish. Additionally, some of the Khoikhoi became herders. Similarly, the deep rainforest was not congenial to agriculture either. In the [comments below](http://blogs.discovermagazine.com/gnxp/2010/12/sons-of-the-farmers-the-story-of-japan/#comment-55172) Randy McDonald asks:
 
-> Razib: Might the implications of the outcompetition of the Jomon be > more proof that genetic diversity among humans today has shrunk > considerably from the period predating the expansion of agricultural > civilizations?
+> Razib: Might the implications of the outcompetition of the Jomon be more proof that genetic diversity among humans today has shrunk considerably from the period predating the expansion of agricultural civilizations?
 
 We often talk about Africa’s genetic diversity. **What if what we see across much of the continent is actually greatly diminished from what it once was?** It was famously reported last winter that [Bushmen](http://www.nature.com/nature/journal/v463/n7283/full/nature08795.html) seem to differ genetically amongst themselves more than Europeans and Asians do. These two latter groups have been separate for at least 40,000 years. Granted, Eurasians went through a bottleneck “Out of Africa,” but the great diversity of the Bushmen is possibly a last compressed snapshot of what was before the Bantu expansion.
 

@@ -15,8 +15,8 @@ The elder McNeill is most famous for [The Rise of the West](https://www.amazon.c
 
 Unfortunately I did not notice that McNeill died last summer. From his [obituary](https://www.nytimes.com/2016/07/13/books/william-h-mcneill-professor-and-prolific-author-dies-at-98.html):
 
-> Refuting Francis Fukuyama’s premise in “The End of History and the > Last Man” in 1992 that the American model of a liberal, capitalist > democracy had become the paradigm for governance, Professor McNeill > wrote in The New York Times Book Review: “I do not believe that human > nature is uniform and unchanging. Rather, whatever penchants and > capabilities we inherit with our genes are so malleable that their > expression takes infinitely diverse forms.” >
-> “When Asian models of social and economic efficiency seem to be > gaining ground every day, and when millions of Muslims are at pains to > sustain the differences, great and small, that distinguish them from > Americans,” he continued, “it is hard to believe that all the world is > destined to imitate us.”
+> Refuting Francis Fukuyama’s premise in “The End of History and the > Last Man” in 1992 that the American model of a liberal, capitalist > democracy had become the paradigm for governance, Professor McNeill > wrote in The New York Times Book Review: “I do not believe that human nature is uniform and unchanging. Rather, whatever penchants and capabilities we inherit with our genes are so malleable that their expression takes infinitely diverse forms.” >
+> “When Asian models of social and economic efficiency seem to be > gaining ground every day, and when millions of Muslims are at pains to sustain the differences, great and small, that distinguish them from Americans,” he continued, “it is hard to believe that all the world is destined to imitate us.”
 
 ### Related Posts:
 

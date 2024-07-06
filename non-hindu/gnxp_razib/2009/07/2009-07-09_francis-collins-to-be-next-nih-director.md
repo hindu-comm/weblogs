@@ -11,7 +11,7 @@ Francis Collins to be next NIH director
 
 So Francis Collins, as expected, [will be nominated](http://www.nytimes.com/2009/07/09/health/policy/09nih.html?_r=1&ref=science) to be the next head of NIH. From the NY Times:
 
-> \[P\]raise for Dr. Collins, 59, was not universal or entirely > enthusiastic. Dr. Georges C. Benjamin, executive director of the > American Public Health Association, called Dr. Collins’s selection a > “reasonable choice.”
+> \[P\]raise for Dr. Collins, 59, was not universal or entirely enthusiastic. Dr. Georges C. Benjamin, executive director of the American Public Health Association, called Dr. Collins’s selection a “reasonable choice.”
 
 I think that’s about right–this is a reasonable choice.
 

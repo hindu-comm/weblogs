@@ -21,7 +21,8 @@ There isn’t a soundtrack to explain what you are seeing and the animation sequ
 
 ### Related Posts:
 
-- [The season](https://www.gnxp.com/WordPress/2010/12/19/the-season/) - [Basics:
+- [The season](https://www.gnxp.com/WordPress/2010/12/19/the-season/)
+- [Basics:
   synapses](https://www.gnxp.com/WordPress/2006/11/16/basics-synapses/) - [Will someone please think of the
   children?](https://www.gnxp.com/WordPress/2006/11/18/will-someone-please-think-of-the-children/) - [The Central Dogma goes
   YouTube](https://www.gnxp.com/WordPress/2013/09/17/the-central-dogma-goes-youtube/) - ["Post Modern"

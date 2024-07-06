@@ -11,7 +11,7 @@ Cultural change
 
 In the thread below Ingo Bading made a few comments which I’d like to address real quickly before “The Week of Science” kicks off and we move away from this sort of material. Ingo says:
 
-> And: I think Augustine is more or less representative for the IQ-elite > of Rome. A lot of smart people went into the monasteries in those > times, **because the former roman ethic and polytheism failed to > convince people**.
+> And: I think Augustine is more or less representative for the IQ-elite of Rome. A lot of smart people went into the monasteries in those times, **because the former roman ethic and polytheism failed to convince people**.
 
 There are two points I would like to make. The first is more meta, and that is that intellectuals are the ones interested in the details of history and they are the ones who record it. What we know of ancient Rome we know through the lens of Cicero, or Caesar’s propoganda about the Gallic Wars, or St. Paul and St. Augustine, elite Christians who were firmly ensconsed in the Roman elite (remember that Saul of Tarsus was a Roman citizen). When it comes to high culture we have a pretty good sense of what was going on because **the people who were writing down their sense of the times would be from the literate and elite slice**. In the modern world with near ubiquitous literacy, and a relative disenagement from the world of pure subsistence the concerns and worldview of Roman aristocrats, steeped in philosophy and rhetoric, is not wholly alien to us because more or less all Westerners are persons of some leisure. This does not mean that intellectual pursuits are modal, but, those of us who might reflect upon the arc of human history are the sorts who would privilege intellectual pursuits in any case.
 
@@ -30,7 +30,8 @@ OK, that’s a lot to throw at you. But, I wanted that to get out there because 
 
 ### Related Posts:
 
-- [Porn & Rome](https://www.gnxp.com/WordPress/2009/07/14/porn-rome/) - [Ancient Roman DNA
+- [Porn & Rome](https://www.gnxp.com/WordPress/2009/07/14/porn-rome/)
+- [Ancient Roman DNA
   project](https://www.gnxp.com/WordPress/2011/11/01/ancient-roman-dna-project/) - [Open Thread,
   6/22/2014](https://www.gnxp.com/WordPress/2014/06/22/open-thread-6222014/) - [Women in Science -
   counterpunch](https://www.gnxp.com/WordPress/2006/07/16/women-in-science-counterpunch/) - [Rod Dreher leaves Catholicism for

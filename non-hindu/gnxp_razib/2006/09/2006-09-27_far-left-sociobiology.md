@@ -11,7 +11,7 @@ Far Left sociobiology
 
 The frogs at [AlphaPsy](http://www.cognition.ens.fr/%7Ealphapsy/blog/?2006/09/27/41-darwin-black-flag) point me to this [article](http://www.socialanarchism.org/mod/magazine/display/128/index.php), [Anarchism and Social Nature](http://www.socialanarchism.org/mod/magazine/display/128/index.php), in a Left-anarchist publication. The focus of the piece is a review of The Blank Slate by Steven Pinker, and here is the punchline:
 
-> We, along with most other ideologies on the Left, have based our > theory on a mistaken concept of human nature. We have learned over the > years to distrust words like sociobiology, evolutionary psychology, > cognitive science, and above all that dreaded buzzword, ‘hard-wired’ – > yet we can no longer ignore the fact that these sciences are probably > right about human nature.
+> We, along with most other ideologies on the Left, have based our > theory on a mistaken concept of human nature. We have learned over the > years to distrust words like sociobiology, evolutionary psychology, cognitive science, and above all that dreaded buzzword, ‘hard-wired’ – yet we can no longer ignore the fact that these sciences are probably right about human nature.
 
 [AlphaPsy](http://www.cognition.ens.fr/%7Ealphapsy/blog/?2006/09/27/41-darwin-black-flag) has [a detailed analysis](http://www.cognition.ens.fr/%7Ealphapsy/blog/?2006/09/27/41-darwin-black-flag), so I’ll hand it off to them.
 

@@ -11,10 +11,10 @@ The war against basa
 
 [Catfish plan risks trade war](https://www.google.com/hostednews/ap/article/ALeqM5gA05Y01KKHrL1MHSGIcGMFRby_igD99571SG2):
 
-> It looks like catfish, it tastes like catfish, and it acts like > catfish.  
-> But to U.S. catfish farmers, the whiskered, bottom-feeding fish from > Vietnam is something else: a cheap variety that’s usurping the humble > catfish’s place on Americans’ tables and threatening their > livelihoods. >
-> So after years of arguing that the Vietnamese fish isn’t catfish – and > winning a federal law saying as much – the U.S. farmers are now trying > to have it both ways. Under their latest lobbying strategy, they want > the Vietnamese imports considered catfish so that they will be covered > by a new inspections regime that they pushed through Congress last > year. >
-> The move – an example of how influential industries work their will in > Congress – **could block Vietnamese imports for years and risks a > broader trade war.**
+> It looks like catfish, it tastes like catfish, and it acts like catfish.  
+> But to U.S. catfish farmers, the whiskered, bottom-feeding fish from Vietnam is something else: a cheap variety that’s usurping the humble catfish’s place on Americans’ tables and threatening their livelihoods. >
+> So after years of arguing that the Vietnamese fish isn’t catfish – and > winning a federal law saying as much – the U.S. farmers are now trying > to have it both ways. Under their latest lobbying strategy, they want the Vietnamese imports considered catfish so that they will be covered by a new inspections regime that they pushed through Congress last year. >
+> The move – an example of how influential industries work their will in Congress – **could block Vietnamese imports for years and risks a broader trade war.**
 
 It doesn’t [taste like catfish](https://www.gnxp.com/blog/2009/06/basa-beats-catfish.php).
 

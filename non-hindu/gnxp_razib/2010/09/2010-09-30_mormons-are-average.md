@@ -11,7 +11,7 @@ Mormons are average
 
 Clark of [Mormon Metaphysics](http://www.libertypages.com/cgw/) says below:
 
-> My impression is that atheists, **Mormons and Jews did best simply > because all three groups tend to be well educated**. (Someone > mentioned stats adjusted for education but I couldn’t see where that > was noted although maybe I just missed the obvious)
+> My impression is that atheists, **Mormons and Jews did best simply because all three groups tend to be well educated**. (Someone mentioned stats adjusted for education but I couldn’t see where that was noted although maybe I just missed the obvious)
 
 This is not an unfounded assertion, as it is “common knowledge” in the *Zeitgeist* that Mormons are high achievers. Ergo, posts such as [The Latter Day Ruling Class](http://www.theamericanscene.com/2008/01/11/latter-day-ruling-class). There’s one problem here: **it’s not really true in a full-throated sense.** The sample size for Mormons in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) is very small, so that’s not what we need to look at. First, [American Religious Identification Survey 2008](http://www.americanreligionsurvey-aris.org/):
 

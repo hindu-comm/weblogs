@@ -11,7 +11,7 @@ Professionals &rarr Democrat; businessmen &rarr Republican
 
 Follow up to The executive class supports John McCain, see [What your work is and how you vote](http://redbluerichpoor.com/blog/?p=44):
 
-> Professionals (doctors, lawyers, and so forth) and routine white > collar workers (clerks, etc.) used to support the Republicans more > than the national average, but over the past half-century they have > gradually moved through the center and now strongly support the > Democrats. Business owners have moved in the opposite direction, from > close to the national average to being staunch Republicans; and > skilled and unskilled workers have moved from strong Democratic > support to near the middle.
+> Professionals (doctors, lawyers, and so forth) and routine white > collar workers (clerks, etc.) used to support the Republicans more > than the national average, but over the past half-century they have > gradually moved through the center and now strongly support the > Democrats. Business owners have moved in the opposite direction, from close to the national average to being staunch Republicans; and skilled and unskilled workers have moved from strong Democratic support to near the middle.
 
 Please see the original post for an illuminating chart….
 

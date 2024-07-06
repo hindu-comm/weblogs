@@ -11,11 +11,11 @@ Golden-haired Neandertals?
 
 A few weeks ago I posted about Neandertal red-hair, and offered a note of caution:
 
-> Red hair emerges because of a lack of balance between the production > of dark eumelanin and red-yellow pheomelanin. When both are down > regulated in terms of production one obtains ash blonde hair. I am not > totally clear as to why the authors above assume that pheomelanin > production would also not be effected….
+> Red hair emerges because of a lack of balance between the production > of dark eumelanin and red-yellow pheomelanin. When both are down regulated in terms of production one obtains ash blonde hair. I am not totally clear as to why the authors above assume that pheomelanin production would also not be effected….
 
 John Hawks has a massive post up, [The “flame-haired” Neandertals](http://johnhawks.net/weblog/reviews/neandertals/neandertal_dna/neandertal_mc1r_lalueza-fox_2007.html?seemore=y) where he says:
 
-> This is, of course, speculative. Still, if Neandertals were strongly > selected for pigmentation variants, we ought to expect many more > loss-of-function mutations with ample time to reach fixation. Perhaps > even though they possessed an MC1R variant that causes red hair in > Europeans, most Neandertals were nonetheless blond. Dark hair seems > unlikely — otherwise, why select for MC1R loss of function?
+> This is, of course, speculative. Still, if Neandertals were strongly > selected for pigmentation variants, we ought to expect many more > loss-of-function mutations with ample time to reach fixation. Perhaps even though they possessed an MC1R variant that causes red hair in Europeans, most Neandertals were nonetheless blond. Dark hair seems unlikely — otherwise, why select for MC1R loss of function?
 
 There’s a lot more interesting stuff where that came from.
 

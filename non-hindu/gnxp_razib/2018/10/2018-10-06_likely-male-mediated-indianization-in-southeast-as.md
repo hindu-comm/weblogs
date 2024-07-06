@@ -32,7 +32,7 @@ As such, the Cham were influenced by the currents of cultural change to their so
 
 The commenter states:
 
-> As far as I can see, this sample of Chams from Binh Thuan Province, > Vietnam does not exhibit any clear South Asian influence in its mtDNA. > This contrasts starkly with the significant (18.6% to 32.2%) South > Asian influence that is apparent in the Y-DNA of the male subset of > the same sample
+> As far as I can see, this sample of Chams from Binh Thuan Province, > Vietnam does not exhibit any clear South Asian influence in its mtDNA. This contrasts starkly with the significant (18.6% to 32.2%) South Asian influence that is apparent in the Y-DNA of the male subset of the same sample
 
 This seems right. **As you can see above I’ve found plenty of evident that R1a1a is found in Southeast Asia where it shouldn’t be.** Notice that among northern groups in China R1a1a is pretty frequent too. Obviously from a different source, but the same general pattern. And in that case we have plenty of historical evidence of interaction with Indo-Europeans on the steppe.
 

@@ -11,9 +11,9 @@ Prediction markets
 
 [It’s News On Academia, Not Climate](http://www.overcomingbias.com/2009/11/its-news-on-academia-not-climate.html):
 
-> Yup, this behavior has long been typical when academics form competing > groups, whether the public hears about such groups or not. If you knew > how academia worked, this news would not surprise you nor change your > opinions on global warming. I’ve never done this stuff, and I’d like > to think I wouldn’t, but that is cheap talk since I haven’t had the > opportunity. This works as a “scandal” only because of academia’s > overly idealistic public image. >
-> It is a shame that academia works this way, and an academia where this > stuff didn’t happen would probably be more accurate. But even our > flawed academic consensus is usually more accurate than its > contrarians, and it is hard to find reliable cheap indicators saying > when contrarians are more likely to be right. >
-> If you don’t like this state of affairs join me in trying to develop a > more reliable consensus mechanism on such topics: prediction markets. > It just takes time or money. Prefer instead to act shocked, just > shocked, when the other side is shown to do this stuff, while > reserving your sideâ€™s ability to do the same? Then I have little > respect for you.
+> Yup, this behavior has long been typical when academics form competing > groups, whether the public hears about such groups or not. If you knew > how academia worked, this news would not surprise you nor change your > opinions on global warming. I’ve never done this stuff, and I’d like to think I wouldn’t, but that is cheap talk since I haven’t had the opportunity. This works as a “scandal” only because of academia’s overly idealistic public image. >
+> It is a shame that academia works this way, and an academia where this > stuff didn’t happen would probably be more accurate. But even our flawed academic consensus is usually more accurate than its contrarians, and it is hard to find reliable cheap indicators saying when contrarians are more likely to be right. >
+> If you don’t like this state of affairs join me in trying to develop a > more reliable consensus mechanism on such topics: prediction markets. > It just takes time or money. Prefer instead to act shocked, just shocked, when the other side is shown to do this stuff, while reserving your sideâ€™s ability to do the same? Then I have little respect for you.
 
 ### Related Posts:
 

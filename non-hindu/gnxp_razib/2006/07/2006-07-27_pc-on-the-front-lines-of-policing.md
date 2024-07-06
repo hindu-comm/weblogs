@@ -11,22 +11,22 @@ PC on the Front Lines of Policing
 
 Steve has already [reported](https://isteve.blogspot.com/2006/07/dog-bites-man-part-umpty-ump-million.html) on the issues that New Jersey State Police are having with an ever rising number of women and minority applicants who are applying for positions but who are disproportionately failing the background checks, physical exams and written tests. But what happens when some of these applicants do pass the tests? Another case of a woman officer being [overpowered by a handcuffed suspect](http://news.bbc.co.uk/1/hi/england/berkshire/5215514.stm) has made the news:
 
-> A suspected burglar put in handcuffs after his arrest attacked a woman > police officer and then escaped by driving off in her car. >
-> The female officer was driving the man to Slough police station when > he forcibly took control of the car. >
-> The man, one of three arrested on suspicion of burglary, dumped the > car in Keel Drive about six minutes away.
+> A suspected burglar put in handcuffs after his arrest attacked a woman police officer and then escaped by driving off in her car. >
+> The female officer was driving the man to Slough police station when he forcibly took control of the car. >
+> The man, one of three arrested on suspicion of burglary, dumped the car in Keel Drive about six minutes away.
 
 Also, recall the case of the black police officer who sued for racial discrimination because the police force [promoted him beyond his level of competence](http://www.heraldsun.news.com.au/common/story_page/0,5478,17757963%5E663,00.html) and his incompetence led to disciplinary action:
 
-> A BLACK police bodyguard who protected the Duchess of Cornwall has won > \$70,000 compensation after suing Scotland Yard for “over-promoting” > him because of political correctness. >
-> Sgt Leslie Turner — the first black personal protection officer to > guard the royal family — will receive the “racial discrimination” > payout after reaching an out-of-court settlement with London’s > Metropolitan Police. >
-> His representatives argued he landed the prestigious job as Camilla’s > bodyguard only because he was black. >
-> It was claimed that as a result of being over-promoted and not > receiving proper training and support, Sgt Turner made mistakes which > led to him being re-assigned. >
-> He launched legal proceedings against the force in October and > Scotland Yard chiefs have agreed to pay “substantial” compensation — > understood to be about \$70,000 — to the married father of two. >
-> Colleagues of Sgt Turner, who was born in Britain, say he is a “model > professional”‘ who had a good relationship with Prince Charles and > Camilla. >
-> He began guarding Charles in August, 2004 and was re-assigned to > Camilla in February last year when the royal couple were engaged. >
+> A BLACK police bodyguard who protected the Duchess of Cornwall has won \$70,000 compensation after suing Scotland Yard for “over-promoting” him because of political correctness. >
+> Sgt Leslie Turner — the first black personal protection officer to guard the royal family — will receive the “racial discrimination” payout after reaching an out-of-court settlement with London’s Metropolitan Police. >
+> His representatives argued he landed the prestigious job as Camilla’s bodyguard only because he was black. >
+> It was claimed that as a result of being over-promoted and not receiving proper training and support, Sgt Turner made mistakes which led to him being re-assigned. >
+> He launched legal proceedings against the force in October and Scotland Yard chiefs have agreed to pay “substantial” compensation — understood to be about \$70,000 — to the married father of two. >
+> Colleagues of Sgt Turner, who was born in Britain, say he is a “model professional”‘ who had a good relationship with Prince Charles and Camilla. >
+> He began guarding Charles in August, 2004 and was re-assigned to Camilla in February last year when the royal couple were engaged. >
 > But in June, it emerged he had suddenly been replaced. >
-> Royal insiders stress that the decision to move him was not taken > directly by Clarence House. But they concede that the race row is > extremely embarrassing for Charles and Camilla. >
-> Had Sgt Turner’s case reached a tribunal, potentially embarrassing > secrets about Charles and Camilla’s lives may have been aired. >
+> Royal insiders stress that the decision to move him was not taken directly by Clarence House. But they concede that the race row is extremely embarrassing for Charles and Camilla. >
+> Had Sgt Turner’s case reached a tribunal, potentially embarrassing secrets about Charles and Camilla’s lives may have been aired. >
 > A Met spokesman refused to confirm the compensation deal.
 
 ### Related Posts:

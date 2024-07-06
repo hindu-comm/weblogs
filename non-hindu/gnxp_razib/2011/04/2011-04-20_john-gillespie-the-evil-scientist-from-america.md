@@ -13,15 +13,15 @@ I own a book of [Motoo Kimura’s collected papers](https://www.amazon.com/exec/
 
 Some choice bits:
 
-> That was the beginning of John Gillespie’s problems with Kimura. He > reviewed the Japanese scientist’s book for the prestigious journal > Science. Gillespie was annoyed by the tone of Kimura’s book: “He > devoted an entire chapter to telling us that he had saved us from > ourselves.” The UC Davis scientist complained about it in the review. >
-> “He said Kimura was a glory hog, and he scolded him for it in public,” > said Cornell’s Provine. “In Japanese society, that’s very insulting.” >
-> Even Gillespie says now that he wishes he had left that one paragraph > out of the review: “If I had, my whole life would be different.” >
-> That was brought dramatically home to him in 1988 when he attended an > international genetics conference in Japan. **He was barred from the > Japanese National Institute of Genetics, forced instead to meet > colleagues privately.** “It was stupid,” Gillespie says. >
-> To that, Kimura replies that it was time-saving: “I wouldn’t waste my > time meeting with a scholar whose research is so trivial.”
+> That was the beginning of John Gillespie’s problems with Kimura. He > reviewed the Japanese scientist’s book for the prestigious journal Science. Gillespie was annoyed by the tone of Kimura’s book: “He devoted an entire chapter to telling us that he had saved us from ourselves.” The UC Davis scientist complained about it in the review. >
+> “He said Kimura was a glory hog, and he scolded him for it in public,” said Cornell’s Provine. “In Japanese society, that’s very insulting.” >
+> Even Gillespie says now that he wishes he had left that one paragraph out of the review: “If I had, my whole life would be different.” >
+> That was brought dramatically home to him in 1988 when he attended an international genetics conference in Japan. **He was barred from the Japanese National Institute of Genetics, forced instead to meet colleagues privately.** “It was stupid,” Gillespie says. >
+> To that, Kimura replies that it was time-saving: “I wouldn’t waste my time meeting with a scholar whose research is so trivial.”
 
 Finally, I wonder what readers “in the know” think of this prediction by Gillespie:
 
-> That steady tick of variation is known as the “molecular clock.” **But > Gillespie says that new technology** – allowing better pictures of > proteins and genetic material – has shown clearly that the variation > is not steady, that there are sudden rapid bursts of change. The > neutral theory fails to allow, as Gillespie does in his work, for some > real complications, such as a changing environment.
+> That steady tick of variation is known as the “molecular clock.” **But > Gillespie says that new technology** – allowing better pictures of > proteins and genetic material – has shown clearly that the variation is not steady, that there are sudden rapid bursts of change. The neutral theory fails to allow, as Gillespie does in his work, for some real complications, such as a changing environment.
 
 ### Related Posts:
 

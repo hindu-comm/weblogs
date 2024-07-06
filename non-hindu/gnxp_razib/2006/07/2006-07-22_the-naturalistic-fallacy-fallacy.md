@@ -15,7 +15,7 @@ Any ethical system that requires more of its adherents than they are capable of 
 
 Now what about superhuman mental acts? The natural source of ethics with regard to other organisms is empathy. I think we are limited in our capacity for empathy. Joshua Greene ([pdf](http://www.wjh.harvard.edu/~jgreene/GreeneWJH/Greene-NRN-Is-Ought-03.pdf)) has been laying this out explicitly from a neuroscience and evolutionary perspective.
 
-> …our social instincts were not designed for the modern world. Nor, for > that matter, were they designed to promote peace and happiness in the > world for which they were designed, the world of our hunter-gatherer > ancestors.
+> …our social instincts were not designed for the modern world. Nor, for that matter, were they designed to promote peace and happiness in the world for which they were designed, the world of our hunter-gatherer ancestors.
 
 He doesn’t take the step from ‘is’ to ‘ought’, but I’m beginning to wonder if one can escape it. I suppose I ought to start by reading the rest of the stuff on [his webpage](http://www.wjh.harvard.edu/~jgreene/).
 

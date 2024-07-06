@@ -13,12 +13,12 @@ My [post below](http://blogs.discovermagazine.com/gnxp/2013/02/jared-diamond-at-
 
 For example, here is a portion of [Armand Leroi’s](http://www3.imperial.ac.uk/people/a.leroi) [comment](http://blogs.discovermagazine.com/gnxp/2013/02/jared-diamond-at-the-anthropologists/#comment-790309478):
 
-> Razib’s post is spot-on. Diamond \*is\* cavalier with the facts. I > recall reviewing Guns & Germ & Steel, and finding its empirical basis > utterly ropey. But at least he was doing science — macro, comparative, > science — of a sort that was — is? — practically extinct in cultural > anthropology. **He was asking the right kinds of questions. He still > does**….
+> Razib’s post is spot-on. Diamond \*is\* cavalier with the facts. I > recall reviewing Guns & Germ & Steel, and finding its empirical basis > utterly ropey. But at least he was doing science — macro, comparative, science — of a sort that was — is? — practically extinct in cultural anthropology. **He was asking the right kinds of questions. He still does**….
 
 Taking a different tack, another [commenter contends](http://blogs.discovermagazine.com/gnxp/2013/02/jared-diamond-at-the-anthropologists/#comment-790700537):
 
-> There’s always room for polemic, but in general it’s not the right > tactic. Calm refutation is more **scientific**, and after all that’s > what counts in the end. >
-> For instance, we could do with reasonable discussion of the question > what the costs and benefits of getting a state have been – more peace, > but also more oppression, which I tried to discuss re Diamond vs > Survival Int’l here www.breviosity.wordpress.com
+> There’s always room for polemic, but in general it’s not the right tactic. Calm refutation is more **scientific**, and after all that’s what counts in the end. >
+> For instance, we could do with reasonable discussion of the question what the costs and benefits of getting a state have been – more peace, but also more oppression, which I tried to discuss re Diamond vs Survival Int’l here www.breviosity.wordpress.com
 
 This misses the point. **Many (most?) American cultural anthropologists do not consider themselves *scientific*.** Cultural anthropology as it is practiced in many American universities is not a science, so the standard rules of engagement with science do not apply. Mind you, I have no idea what cultural anthropology is in terms of its systematic definition within a scholarly context.Rather, I know what cultural anthropologists do.Of course the rules of science don’t necessarily apply to history, but logic, a striving toward positivistic objectivity, and good faith must still be brought to the table in that case. I don’t use the same rules for cultural anthropology.
 

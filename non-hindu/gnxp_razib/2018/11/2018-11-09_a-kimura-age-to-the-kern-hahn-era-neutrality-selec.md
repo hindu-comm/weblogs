@@ -17,7 +17,7 @@ As someone who is old enough to remember reading about the ‘controversy’ mor
 
 Let me finish with a quote from Ambrose, Bishop of Milan, commenting on the suffocation of the Classical religious rites of Late Antiquity:
 
-> It is undoubtedly true that no age is too late to learn. Let that old > age blush which cannot amend itself. Not the old age of years is > worthy of praise but that of character. **There is no shame in passing > to better things.**
+> It is undoubtedly true that no age is too late to learn. Let that old age blush which cannot amend itself. Not the old age of years is worthy of praise but that of character. **There is no shame in passing to better things.**
 
 ### Related Posts:
 

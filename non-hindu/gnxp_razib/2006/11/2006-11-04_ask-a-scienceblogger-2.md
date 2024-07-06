@@ -11,7 +11,7 @@ Ask a ScienceBlogger
 
 This week’s [Ask a ScienceBlogger](http://scienceblogs.com/channel/ask/):
 
-> What’s the most important local political race to you this year (as a > citizen, as a scientist)?…
+> What’s the most important local political race to you this year (as a citizen, as a scientist)?…
 
 I want to Harlold Ford Jr. to win in Tennessee to show that there’s no harm in a man of color having a [taste for white women](http://www.gawker.com/news/field-guide/field-guide-julia-allison-211734.php). This is personal, I want my life choices to be validated!  
 (and hey, if a [pink-faced](http://www.tnfire.org/photo-gallery/quarterly-2004/09Congressman%20Harold%20Ford%20Jr.%20(2).JPG) [high yellow](https://en.wikipedia.org/wiki/High_yellow) brother like Harold is raising eyebrows what does that say about Mr. Cinnamon adding a little flavor to whole milk?)

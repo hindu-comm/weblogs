@@ -11,7 +11,7 @@ New Agers are more delusional
 
 Relative to atheists, **and** conventional religious people (though conventional religious people are more delusional than atheists). [Tom Rees](https://bhascience.blogspot.com/2009/10/when-people-stop-believing-in-god-they.html) has more:
 
-> Overall, the New Agers were more delusional than the Religious. That > was particularly true for belief in witchcraft and telepathy (not > shown in the graph). But the New Agers **were also more likely to > think that people are not what they seem, that they are being > persecuted, that electrical devices like computers can control their > thoughts,** and that their thoughts are ‘echoed back’.
+> Overall, the New Agers were more delusional than the Religious. That > was particularly true for belief in witchcraft and telepathy (not > shown in the graph). But the New Agers **were also more likely to think that people are not what they seem, that they are being persecuted, that electrical devices like computers can control their thoughts,** and that their thoughts are ‘echoed back’.
 
 On a mass scale people with orthodox beliefs who are affiliated with institutional religions have more impact because they can organize. But, on a personal level New Agers are often harder to deal with because the weirdness of their beliefs is often hard to anticipate, and they can take a scattershot approach to irrationality, barraging you with a sequence of unrelated bizarre intuitions and claims (in contrast, orthodox religious people have a more stable script of talking points).  
 The original paper is [Is the New Age phenomenon connected to delusion-like experiences? Analysis of survey data from Australia](http://www.informaworld.com/smpp/content~db=all?content=10.1080/13674670903131843).

@@ -11,7 +11,7 @@ Dog genetics, again
 
 I’ve recently pointed out a number of advances in [dog genetics](https://www.gnxp.com/blog/2007/10/phenotype-to-genotype-as-easy-as-12310.php), in particular [with regards to behavioral phenotypes](https://www.gnxp.com/blog/2007/09/behavioral-genetics-getting-molecular.php). [A just-published review](http://www.ajhg.org/AJHG/fulltext/S0002-9297(07)00027-4) lays out what the future has in store; these are exciting times. In particular, people familiar with [Belyaev and his silver foxes](https://en.wikipedia.org/wiki/Tame_Silver_Fox) will be particularly interested in this part:
 
-> Recently, a fox meiotic linkage map was constructed that covers the > entire haploid set of 16 fox autosomes as well as the X chromosome. > With this key resource now available, **several experimental pedigrees > have been generated to map the fox loci for both aggression and > tameness**. The research community is anxiously awaiting results of > this 50 year study, which are expected within the next two years
+> Recently, a fox meiotic linkage map was constructed that covers the > entire haploid set of 16 fox autosomes as well as the X chromosome. > With this key resource now available, **several experimental pedigrees have been generated to map the fox loci for both aggression and tameness**. The research community is anxiously awaiting results of this 50 year study, which are expected within the next two years
 
 ### Related Posts:
 

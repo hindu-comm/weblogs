@@ -13,7 +13,8 @@ Within TV ad 1.3.4, (Mimamsadarsana 1929-34, pp. 192–193), Kumārila discusses
 
 Kumārila also discusses the prescription to learn the Veda by heart in order to get svarga (heaven/happiness) and explains it would clash against the ones prescribing complicated sacrifices for the same result, since no one would engage in them, if learning the Veda by heart were enough. Here, we see several principles at work:
 
-1.  No prescription can remain idle. 2.  Translative (?) property of duties: If x implies z and O(x), then
+1.  No prescription can remain idle.
+2.  Translative (?) property of duties: If x implies z and O(x), then
     O(z). In fact, performing sacrifices \emph{presupposes} learning the
     Veda by heart, so that O(sacrifices)—\>O(learning Veda by heart).
 

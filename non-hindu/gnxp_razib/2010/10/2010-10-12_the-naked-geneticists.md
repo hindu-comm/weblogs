@@ -11,7 +11,7 @@ The naked geneticists
 
 ![Girl_hands_out_flyer_at_Loveparade_03](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2010/10/Girl_hands_out_flyer_at_Loveparade_03.jpg?resize=281%2C313)![Girl_hands_out_flyer_at_Loveparade_03](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2010/10/Girl_hands_out_flyer_at_Loveparade_03.jpg?resize=281%2C313)John Hawks, [Genomes unzipped, unzipped](http://johnhawks.net/node/14909):
 
-> *What I wonder is, how much will personal genomics be like nude > beaches? I mean, it’s been a long time since the first nude beaches, > but most people don’t take advantage of the opportunity. Clearly, > there’s variation in different countries! But most people neither feel > compelled to see others’ data nor feel comfortable sharing their own.* >
+> *What I wonder is, how much will personal genomics be like nude > beaches? I mean, it’s been a long time since the first nude beaches, but most people don’t take advantage of the opportunity. Clearly, there’s variation in different countries! But most people neither feel compelled to see others’ data nor feel comfortable sharing their own.* >
 > *Well, they used the word unzipped, not me!*
 
 Obviously John had his tongue-firmly-planted-in-cheek, but I have wondered about this. **How deep is the impact of personal genomics going to be for individuals?** If a person gets their genome sequenced and has a list of [odds ratios](http://www.genomesunzipped.org/2010/09/getting-even-with-the-odds-ratio.php) in front of them are they going to bone up on the [statistical genetic subtleties of the face value](http://www.genomesunzipped.org/2010/09/getting-even-with-the-odds-ratio.php)?

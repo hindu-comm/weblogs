@@ -22,7 +22,8 @@ I don’t really enjoy reading past posts on this weblog (I said too much stupid
 
 ### Related Posts:
 
-- [Saturday Stuff - September 17th,
+- [Saturday Stuff
+- September 17th,
   2011](https://www.gnxp.com/WordPress/2011/09/17/saturday-stuff-september-17th-2011/) - [Friday Fluff, September 10th,
   2010](https://www.gnxp.com/WordPress/2010/09/10/friday-fluff-september-10th-2010/) - [Friday Fluff - June 3rd,
   2011](https://www.gnxp.com/WordPress/2011/06/03/friday-fluff-june-3rd-2011/) - [Saturday Stuff - October 1st,

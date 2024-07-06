@@ -11,8 +11,8 @@ Don't hate the hybrid!
 
 There is a specter haunting the intersection of conservation biology and public policy, the specter of the [biological species concept](http://www.blackwellpublishing.com/ridley/a-z/Biological_species_concept.asp). [Coyote-Wolf Hybrids Have Spread Across U.S. East](http://news.nationalgeographic.com/news/2011/11/111107-hybrids-coyotes-wolf-virginia-dna-animals-science/):
 
-> Scientists already knew that some coyotes, which have been gradually > expanding their range eastward, mated with wolves in the Great Lakes > (map) region. The pairings created viable hybrid offspring—identified > by their DNA and skulls—that have been found in mid-Atlantic states > such as New York and Pennsylvania. >
-> Now, new DNA analysis of coyote poop shows for the first time that > some coyotes in the state of Virginia are also part wolf. Scientists > think these animals are coyote-wolf hybrids that traveled south from > New England along the Appalachian Mountains.
+> Scientists already knew that some coyotes, which have been gradually > expanding their range eastward, mated with wolves in the Great Lakes (map) region. The pairings created viable hybrid offspring—identified by their DNA and skulls—that have been found in mid-Atlantic states such as New York and Pennsylvania. >
+> Now, new DNA analysis of coyote poop shows for the first time that some coyotes in the state of Virginia are also part wolf. Scientists think these animals are coyote-wolf hybrids that traveled south from New England along the Appalachian Mountains.
 
 Most of the wolf ancestry in the lower 48 states might be in “coyotes!”
 

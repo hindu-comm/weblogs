@@ -17,7 +17,7 @@ However, in a forthcoming [article](http://jme.bmjjournals.com/future/preview.sh
 
 In the article \[not yet available\], Bovens offers some estimates of how many naturally aborted embryos we might be talking about — the [upshot](http://www.eurekalert.org/pub_releases/2006-05/bsj-mm052306.php) is that he reckons that for every one unplanned pregnancy in rhythm method users in ten woman-years, there would also be two to three embryonic deaths. Even though the actual numbers can be disputed, the logic of the argument seems pretty sound (Bovens, via email):
 
-> “If there is reduced viability for embryos conceived outside the > abstinence period for rhythm method users, then the method is likely > to be effective, not only because it reduces the chance of conception, > but also because embryos so conceived have a lower viability. And > hence for every failure of the rhythm method (i.e. for every > pregnancy) there is a higher rate of embryonic death.”
+> “If there is reduced viability for embryos conceived outside the > abstinence period for rhythm method users, then the method is likely > to be effective, not only because it reduces the chance of conception, but also because embryos so conceived have a lower viability. And hence for every failure of the rhythm method (i.e. for every pregnancy) there is a higher rate of embryonic death.”
 
 If Bovens is right — and if (to [paraphrase](http://www.mwscomp.com/movies/mol/every-sp.mp3)) every embryo is indeed sacred — rhythm method users may need to re-evaluate their ‘moral choice’.
 

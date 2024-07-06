@@ -13,7 +13,8 @@ How the sauce is made
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Day 2 of hot sauce - Ass in
   Space](https://www.gnxp.com/WordPress/2007/03/28/day-2-of-hot-sauce-ass-in-space/) - [Day 4 of hot sauce - You Can't Handle this Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/30/day-4-of-hot-sauce-you-cant-handle-this-hot-sauce/) - [Day 3 of hot sauce - Hottest Fuckin'

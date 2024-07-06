@@ -11,13 +11,13 @@ More than monkey brains
 
 [DNA trail points to human brain evolution](http://www.newscientist.com/article/dn10274-dna-trail-points-to-human-brain-evolution.html):
 
-> A new study comparing the genomes of humans, chimps, monkeys and mice > found an unexpectedly high degree of genetic difference in the human > DNA regions that influence nerve cell adhesion, compared with the DNA > of the other animals.  
-> Accelerated evolution here allowed human brain cell connections to > form with greater complexity, enabling us to grow bigger brains, the > researchers suggest.
+> A new study comparing the genomes of humans, chimps, monkeys and mice found an unexpectedly high degree of genetic difference in the human DNA regions that influence nerve cell adhesion, compared with the DNA of the other animals.  
+> Accelerated evolution here allowed human brain cell connections to form with greater complexity, enabling us to grow bigger brains, the researchers suggest.
 
 From the [interview](https://www.gnxp.com/blog/2006/10/10-questions-for-bruce-lahn_10.php) with Bruce Lahn:
 
-> **2. Your work on genes involved in human brain evolution (i.e. ASPM > and microcephalin) has focused on amino acid changes. It has been > hypothesized that most of the differences between humans and chimps > are due to regulatory changes. Do you feel this is still a viable > hypothesis? Do you consider your work a challenge to this > hypothesis?**  
-> The hypothesis that most human-chimp differences are due to regulatory > changes is proposed in the absence of any data. So, I don’t place too > much weight on this hypothesis to begin with. Nevertheless, I > acknowledge that this hypothesis has influenced the thinking of many > people. Our work showed that coding region evolution is likely to be > important for human brain evolution. In this regard, it can be > considered to be a challenge to the hypothesis. However, our work by > no means argues that regulatory changes are necessarily less important > than coding changes. So, the jury is still out.
+> **2. Your work on genes involved in human brain evolution (i.e. ASPM > and microcephalin) has focused on amino acid changes. It has been > hypothesized that most of the differences between humans and chimps are due to regulatory changes. Do you feel this is still a viable hypothesis? Do you consider your work a challenge to this hypothesis?**  
+> The hypothesis that most human-chimp differences are due to regulatory > changes is proposed in the absence of any data. So, I don’t place too > much weight on this hypothesis to begin with. Nevertheless, I > acknowledge that this hypothesis has influenced the thinking of many > people. Our work showed that coding region evolution is likely to be > important for human brain evolution. In this regard, it can be considered to be a challenge to the hypothesis. However, our work by no means argues that regulatory changes are necessarily less important than coding changes. So, the jury is still out.
 
 ### Related Posts:
 

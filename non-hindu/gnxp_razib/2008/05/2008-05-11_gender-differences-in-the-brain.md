@@ -11,7 +11,7 @@ Gender differences in the brain?
 
 [Gender Differences in the Mu Rhythm of the Human Mirror-Neuron System](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0002113):
 
-> The present findings indirectly lend support to the extreme male brain > theory put forward by Baron-Cohen (2005), and may cast some light on > the mirror-neuron dysfunction in autism spectrum disorders. The mu > rhythm in the human mirror-neuron system can be a potential biomarker > of empathic mimicry.
+> The present findings indirectly lend support to the extreme male brain > theory put forward by Baron-Cohen (2005), and may cast some light on the mirror-neuron dysfunction in autism spectrum disorders. The mu rhythm in the human mirror-neuron system can be a potential biomarker of empathic mimicry.
 
 Don’t know enough about this stuff to comment, but figure readers would find it of interest….
 

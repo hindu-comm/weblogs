@@ -15,7 +15,8 @@ Posted by David B at [04:10 AM](https://www.gnxp.com/MT2/archives/003963.html) [
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [Liberman
+- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/)
+- [Liberman
   responds](https://www.gnxp.com/WordPress/2007/11/27/liberman-responds/) - [Template
   changes](https://www.gnxp.com/WordPress/2007/08/06/template-changes/) - [A Kick In The
   Ballots](https://www.gnxp.com/WordPress/2005/05/06/a-kick-in-the-ballots/) - [September

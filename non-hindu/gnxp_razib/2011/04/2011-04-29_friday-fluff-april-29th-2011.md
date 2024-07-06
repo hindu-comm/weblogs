@@ -25,7 +25,8 @@ Friday Fluff – April 29th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - April 1st,
+- [Friday Fluff
+- April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff - April 15th,
   2011](https://www.gnxp.com/WordPress/2011/04/15/friday-fluff-april-14th-2011/) - [Friday Fluff - July 22nd,
   2011](https://www.gnxp.com/WordPress/2011/07/22/friday-fluff-july-22nd-2011/) - [Friday Fluff - July 8th,

@@ -15,13 +15,13 @@ The same is now apparently true with discussions of women in science: When argui
 
 Latest example: [Scientific American](http://www.sciam.com/article.cfm?id=sex-math-and-scientific-achievement).
 
-> If Larry Summers’s comments had one appealing feature, it was the > benefit of simplicity…however, the truth is not so simple.
+> If Larry Summers’s comments had one appealing feature, it was the benefit of simplicity…however, the truth is not so simple.
 
 The multiple authors at SciAm march through the various hypotheses: work expectations, biology, glass ceilings. And they’re honest enough to point out that there’s some evidence for all three hypotheses–and they even note the apparent role of pre-natal sex hormones in shaping brain development. Just as you’d expect, they find at least tentative evidence for all three stories.
 
 But it looks like the SciAm folks didn’t even bother to look at Summers’s own remarks. If they had, they would have realized that [Summers himself could have written the outline for their article](http://www.president.harvard.edu/speeches/2005/nber.html) (emphasis added):
 
-> There are three broad hypotheses about the sources of the very > substantial disparities that this conference’s papers document and > have been documented before with respect to the presence of women in > high-end scientific professions. One is what I would call the-I’ll > explain each of these in a few moments and comment on how important I > think they are-the first is what I call the high-powered job > hypothesis. The second is what I would call different availability of > aptitude at the high end, and the third is what I would call different > socialization and patterns of discrimination in a search. And in my > own view, their importance probably ranks in exactly the order that I > just described.
+> There are three broad hypotheses about the sources of the very > substantial disparities that this conference’s papers document and > have been documented before with respect to the presence of women in > high-end scientific professions. One is what I would call the-I’ll > explain each of these in a few moments and comment on how important I > think they are-the first is what I call the high-powered job > hypothesis. The second is what I would call different availability of > aptitude at the high end, and the third is what I would call different socialization and patterns of discrimination in a search. And in my own view, their importance probably ranks in exactly the order that I just described.
 
 Work expectations, biology, glass ceilings. Yes, Summers weighs the alternatives differently than the SciAm folks, and yes, I’m conflating some issues in this short blog post, but you can read the articles yourself to double check the subtleties (e.g., the separate discussions of “abilities” and “biology.”). But the main point is that there’s nothing “simple” about Summers’s story.
 

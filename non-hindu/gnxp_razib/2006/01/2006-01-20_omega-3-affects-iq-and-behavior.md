@@ -11,11 +11,11 @@ Omega-3 affects IQ and behavior
 
 Another research group is reporting a correlation between consumption of omega-3 PUFAs during pregnancy and the IQ of children.
 
-> Looking at the effects of omega-3 intake on 9,000 mothers and their > children, the team found mothers with the lowest intake of the > essential fatty acid had children with a verbal IQ six points lower > than the average.
+> Looking at the effects of omega-3 intake on 9,000 mothers and their children, the team found mothers with the lowest intake of the essential fatty acid had children with a verbal IQ six points lower than the average.
 
 A new finding, as far as I know, is that low omega-3 intake is also correlated with antisocial behavior:
 
-> Low intake of the crucial fatty acid also appeared to lead to more > problems of social interactions – such as an inability to make > friends. Research leader Dr Joseph Hibbeln said “frightening data” > showed 14% of 17-year-olds whose mother had eaten small quantities of > Omega -3 during pregnancy demonstrated this sort of behaviour. This > compared with 8% of those born to the group with the highest intake, > he said.
+> Low intake of the crucial fatty acid also appeared to lead to more > problems of social interactions – such as an inability to make > friends. Research leader Dr Joseph Hibbeln said “frightening data” > showed 14% of 17-year-olds whose mother had eaten small quantities of Omega -3 during pregnancy demonstrated this sort of behaviour. This compared with 8% of those born to the group with the highest intake, he said.
 
 I note and so does the economist that this study is looking at correlation, and so the possibility of confounding is a problem. In particular, I can easily imaging that omega-3 intake is correlated with maternal IQ, and thus some or all of the omega-3 intake to IQ correlation could be mediated by genetic transmission of IQ. However, I do know of one [supplementation study with good internal controls](http://pediatrics.aappublications.org/cgi/content/abstract/111/1/e39).
 

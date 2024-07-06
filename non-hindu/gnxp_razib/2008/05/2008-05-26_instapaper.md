@@ -13,7 +13,8 @@ Via [Reihan](http://theamericanscene.com/2008/05/27/instapaper), [Instapaper](ht
 
 ### Related Posts:
 
-- [Instapaper](https://www.gnxp.com/WordPress/2008/05/26/instapaper/) - [Evolution, genetics & human nature
+- [Instapaper](https://www.gnxp.com/WordPress/2008/05/26/instapaper/)
+- [Evolution, genetics & human nature
   feed](https://www.gnxp.com/WordPress/2007/07/25/evolution-genetics-human-nature-feed/) - [Bloggingheads TV, someone I
   know....](https://www.gnxp.com/WordPress/2008/02/01/bloggingheads-tv-someone-i-know/) - [Profile of Reihan
   Salam](https://www.gnxp.com/WordPress/2008/08/13/profile-of-reihan-salam/) - [Profile of Reihan
@@ -29,7 +30,8 @@ Via [Reihan](http://theamericanscene.com/2008/05/27/instapaper), [Instapaper](ht
 
 ### Related Posts:
 
-- [Instapaper](https://www.gnxp.com/WordPress/2008/05/26/instapaper/) - [Evolution, genetics & human nature
+- [Instapaper](https://www.gnxp.com/WordPress/2008/05/26/instapaper/)
+- [Evolution, genetics & human nature
   feed](https://www.gnxp.com/WordPress/2007/07/25/evolution-genetics-human-nature-feed/) - [Bloggingheads TV, someone I
   know....](https://www.gnxp.com/WordPress/2008/02/01/bloggingheads-tv-someone-i-know/) - [Profile of Reihan
   Salam](https://www.gnxp.com/WordPress/2008/08/13/profile-of-reihan-salam/) - [Profile of Reihan

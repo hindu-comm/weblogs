@@ -13,7 +13,8 @@ Just wishing readers who live in the USA a good holiday.
 
 ### Related Posts:
 
-- [Open Thread - December 25th,
+- [Open Thread
+- December 25th,
   2010](https://www.gnxp.com/WordPress/2010/12/25/open-thread-december-25th-2010/) - [Happy
   Thanksgiving!](https://www.gnxp.com/WordPress/2006/11/22/happy-thanksgiving/) - [Helix kit price waived until December 26 at 2:59am
   EST](https://www.gnxp.com/WordPress/2017/12/12/helix-kit-price-waived-until-december-26-at-259am-est/) - [Maps of diabetes &

@@ -29,7 +29,8 @@ Posted by God Fearing Atheist at [06:18 PM](https://www.gnxp.com/MT2/archives/00
 
 ### Related Posts:
 
-- [Tomatoes!](https://www.gnxp.com/WordPress/2012/06/28/tomatoes/) - [Building a better
+- [Tomatoes!](https://www.gnxp.com/WordPress/2012/06/28/tomatoes/)
+- [Building a better
   tomato](https://www.gnxp.com/WordPress/2007/08/14/building-a-better-tomato/) - [Who thinks only genetically modified tomatoes have
   genes?](https://www.gnxp.com/WordPress/2015/04/28/who-thinks-only-genetically-modified-tomatoes-have-genes/) - [A science of
   religion](https://www.gnxp.com/WordPress/2007/06/21/a-science-of-religion/) - [A survey on genes, behavior,

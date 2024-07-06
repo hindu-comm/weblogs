@@ -11,10 +11,10 @@ Getting The Wood Up.
 
 Maybe Serbia needs to beef up its national health care system with a pharmacare supplemental, or this guy is a scientologist who doesn’t believe in polluting his body with [chemicals](http://www.ananova.com/news/story/sm_1722414.html?menu=news.quirkies):
 
-> A Serbian man needed emergency surgery after sticking a pencil inside > his penis to keep it stiff during sex. >
-> Zeljko Tupic, from Belgrade, told doctors he had experienced erectile > difficulties in the past. >
-> So as he prepared for a night with his new lover, he decided to insert > a thin pencil into his penis. >
-> Tupic had to cut his sex session short when the pencil shifted and > became lodged in his bladder, forcing him to call an ambulance, the > daily Kurir reported.
+> A Serbian man needed emergency surgery after sticking a pencil inside his penis to keep it stiff during sex. >
+> Zeljko Tupic, from Belgrade, told doctors he had experienced erectile difficulties in the past. >
+> So as he prepared for a night with his new lover, he decided to insert a thin pencil into his penis. >
+> Tupic had to cut his sex session short when the pencil shifted and became lodged in his bladder, forcing him to call an ambulance, the daily Kurir reported.
 
 Of course, Occam might say this guy is just an idiot.
 

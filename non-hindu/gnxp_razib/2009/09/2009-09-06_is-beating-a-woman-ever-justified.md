@@ -11,7 +11,7 @@ Is beating a woman ever justified?
 
 [Global Health Magazine](http://www.globalhealthmagazine.com/screenshots/of_women_who_believe_its_ok_for_husbands_to_hit_them/) has some data up on the “% of women who believe it is OK for husbands to beat them.” If you click through the original [data](http://www.childinfo.org/attitudes_data.php), the question is more extensive:
 
-> % of girls and women aged 15-49 who responded that a husband or > partner is justified in hitting or beating his wife under certain > circumstances (2001-2007)
+> % of girls and women aged 15-49 who responded that a husband or partner is justified in hitting or beating his wife under certain circumstances (2001-2007)
 
 I was going to cross-reference the data with the World Values Survey (which has a similar question), but I don’t have time right now, so I’ll simply pass on the raw data sorted by country. There’s a rather large gap.
 

@@ -13,7 +13,7 @@ The revolution which came to archaeology without archaeologists?
 
 One of the common elements to both reactions was that the paper’s definition, or reification, of Mycenaean and Minoan constructs was naive. From one of the posts:
 
-> In a press interview following the publication of the study, one of > the main authors claimed that ‘there is no doubt that our findings > reflect historical events in the Greek lands’: ‘the picture of > historical continuity is crystal clear, as is very clear the fact that > through the centuries Greeks evolved receiving genetic influences from > other populations.’ The category of ‘Greekness’ here appears more or > less given and stable, despite the ‘influences’, from the Early Bronze > Age to the present. It sounds like a version of the **19th-century** > national narrative of the power of eternal Hellenism to absorb > external influences.
+> In a press interview following the publication of the study, one of > the main authors claimed that ‘there is no doubt that our findings > reflect historical events in the Greek lands’: ‘the picture of > historical continuity is crystal clear, as is very clear the fact that > through the centuries Greeks evolved receiving genetic influences from > other populations.’ The category of ‘Greekness’ here appears more or > less given and stable, despite the ‘influences’, from the Early Bronze Age to the present. It sounds like a version of the **19th-century** national narrative of the power of eternal Hellenism to absorb external influences.
 
 Context is important here. **The last ten years have seen a massive updating of our assumptions about the nature of demographic change in the pre-modern world.** Geneticists using ancient DNA have been central to this process. They’ve overturned a lot of archaeological orthodoxies.
 
@@ -25,7 +25,7 @@ Peter Heather in [Empires and Barbarians](https://www.amazon.com/exec/obidos/ASI
 
 Finally, quoting from the same post:
 
-> First, there’s not much new here. I mean, the data are new, **but the > conclusions are largely consistent with the archaeological > consensus**: there’s no big genetic difference between “Minoans” (Late > Bronze Age Cretans) and “Mycenaeans” (Late Bronze Age inhabitants of > the Greek mainland), and both are pretty close genetically to Late > Bronze Age southwestern Anatolians….
+> First, there’s not much new here. I mean, the data are new, **but the > conclusions are largely consistent with the archaeological > consensus**: there’s no big genetic difference between “Minoans” (Late Bronze Age Cretans) and “Mycenaeans” (Late Bronze Age inhabitants of the Greek mainland), and both are pretty close genetically to Late Bronze Age southwestern Anatolians….
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/horsewheel.jpeg?resize=181%2C278)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/horsewheel.jpeg?resize=181%2C278)](https://www.amazon.com/exec/obidos/ASIN/B003TSEL1Y/geneexpressio-20)The archaeological consensus was correct here to a great extent. But in other areas it has not been right of late. That’s why it is not so ho-hum. In [The Beaker Phenomenon And The Genomic Transformation Of Northwest Europe](http://www.biorxiv.org/content/early/2017/05/09/135962) the authors show that:
 

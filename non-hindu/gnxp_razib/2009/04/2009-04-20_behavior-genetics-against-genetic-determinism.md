@@ -11,17 +11,18 @@ Behavior genetics against genetic determinism?
 
 Bryan Caplan [notes & argues](http://econlog.econlib.org/archives/2009/04/free_will_and_b.html):
 
-> If you take a closer look at BG research, though, you’ll notice > something interesting. Virtually every BG study partitions variance > into three sources: genes, shared family environment, and non-shared > environment. **Typical estimates are something like 40-50% for genes, > 0-10% for shared family environment, and 50% for non-shared > environment.**  
-> And what exactly is non-shared environment? Everything other than > genes and family environment!  
+> If you take a closer look at BG research, though, you’ll notice > something interesting. Virtually every BG study partitions variance > into three sources: genes, shared family environment, and non-shared environment. **Typical estimates are something like 40-50% for genes, 0-10% for shared family environment, and 50% for non-shared environment.**  
+> And what exactly is non-shared environment? Everything other than genes and family environment!  
 > …  
-> **Nevertheless, I strongly suspect that if non-shared environment’s > contribution to behavioral variance were a lot smaller, determinists > would be heralding the result as “proof” of their position.** And if > this suspicion is right, it’s only fair to ask them to reduce their > confidence in light of the findings of BG research.
+> **Nevertheless, I strongly suspect that if non-shared environment’s > contribution to behavioral variance were a lot smaller, determinists would be heralding the result as “proof” of their position.** And if this suspicion is right, it’s only fair to ask them to reduce their confidence in light of the findings of BG research.
 
 This seems about right. The only issue I have is that as Caplan notes there isn’t really a lot of data on what the unaccounted for “non-shared environment” is. If it’s just so much “noise,” there are pretty much no policy implications, right? Whereof one does not know, one must do no harm.  
 **Related:** Environment as the gene’s handmaid.
 
 ### Related Posts:
 
-- [Twins - Korean that
+- [Twins
+- Korean that
   is....](https://www.gnxp.com/WordPress/2007/08/29/twins-korean-that-is/) - [A social science of the
   obvious](https://www.gnxp.com/WordPress/2012/09/03/a-social-science-of-the-obvious/) - [Who you have sex
   with....](https://www.gnxp.com/WordPress/2008/06/16/who-you-have-sex-with/) - [Just because it's not hereditary does not mean you

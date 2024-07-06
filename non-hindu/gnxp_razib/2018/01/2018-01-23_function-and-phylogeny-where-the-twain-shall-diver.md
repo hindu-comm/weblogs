@@ -18,7 +18,7 @@ As it turns out, they do have some kinship to Europeans…but not inordinately m
 
 Because of their high genetic drift (they’re endogamous and kind of inbred) a lot of population genetic analyses are a bit more difficult with the Kalash samples that are out there. But their genetic affinities are[clear](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746362/):
 
-> Table S4 show highly significant evidence (p value \< 10−10) in the > Kalash when using Armenia and Chamar as surrogates. Eight other > pairings of surrogates give p values \< 10−5. In all cases, the > surrogate pairs include one group from South Asia **(Chamar, Kol)** > and the other from West Eurasia (Armenia, Adygei, Brahui, Hungarians, > Palestinians, Tuscans), consistent with admixture from a West Eurasian > source.
+> Table S4 show highly significant evidence (p value \< 10−10) in the > Kalash when using Armenia and Chamar as surrogates. Eight other > pairings of surrogates give p values \< 10−5. In all cases, the > surrogate pairs include one group from South Asia **(Chamar, Kol)** and the other from West Eurasia (Armenia, Adygei, Brahui, Hungarians, Palestinians, Tuscans), consistent with admixture from a West Eurasian source.
 
 Chamar are a Dalit caste of Northern India if you don’t know.
 

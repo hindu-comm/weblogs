@@ -11,7 +11,7 @@ Creativity & psychosis
 
 Possible confirmation of folk wisdom? [Genes for Psychosis and Creativity: A Promoter Polymorphism of the Neuregulin 1 Gene Is Related to Creativity in People With High Intellectual Achievement](https://dx.doi.org/10.1111/j.1467-9280.2009.02398.x):
 
-> Why are genetic polymorphisms related to severe mental disorders > retained in the gene pool of a population? A possible answer is that > these genetic variations may have a positive impact on psychological > functions. Here, I show that a biologically relevant polymorphism of > the promoter region of the neuregulin 1 gene (SNP8NRG243177/rs6994992) > is associated with creativity in people with high intellectual and > academic performance. Intriguingly, the highest creative achievements > and creative-thinking scores were found in people who carried the T/T > genotype, which was previously shown to be related to psychosis risk > and altered prefrontal activation.
+> Why are genetic polymorphisms related to severe mental disorders > retained in the gene pool of a population? A possible answer is that > these genetic variations may have a positive impact on psychological > functions. Here, I show that a biologically relevant polymorphism of > the promoter region of the neuregulin 1 gene (SNP8NRG243177/rs6994992) > is associated with creativity in people with high intellectual and > academic performance. Intriguingly, the highest creative achievements and creative-thinking scores were found in people who carried the T/T genotype, which was previously shown to be related to psychosis risk and altered prefrontal activation.
 
 Also see [ScienceDaily](http://www.sciencedaily.com/releases/2009/09/090928141957.htm)
 

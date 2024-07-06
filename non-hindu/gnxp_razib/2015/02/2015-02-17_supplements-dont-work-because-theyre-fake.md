@@ -11,7 +11,7 @@ Supplements don’t work because they’re fake
 
 [A Really Bad Week For The Supplements Industry](http://www.forbes.com/sites/stevensalzberg/2015/02/16/a-really-bad-week-for-the-supplements-industry/):
 
-> What did Schneiderman’s office do? Well, they conducted a scientific > study, using DNA sequencing to test the ingredients in six types of > herbal supplements, looking at different brands from multiple stores. > They tested each sample five times to ensure accuracy. They collected > 78 different samples and ran 390 tests in all.
+> What did Schneiderman’s office do? Well, they conducted a scientific > study, using DNA sequencing to test the ingredients in six types of herbal supplements, looking at different brands from multiple stores. They tested each sample five times to ensure accuracy. They collected 78 different samples and ran 390 tests in all.
 
 Some of you won’t be surprised that these firms are padding their bottom line by substituting cheap ingredients (e.g., rice powder) in lieu of what’s on the label. But they can game the system this way because of loose regulatory oversight. Meanwhile, there are periodic moral panics about genetic sequencing and typing….
 

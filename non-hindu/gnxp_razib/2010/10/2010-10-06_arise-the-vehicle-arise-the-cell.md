@@ -16,7 +16,7 @@ First, I want to add that Mr. Keiper doesn’t believe that the Wikipedia entry 
   
 As for Steve Talbott’s essay, it’s a peculiar beast. It weighs in at 25 pages, but it’s only the first of a series. [Getting Over the Code Delusion](http://www.thenewatlantis.com/publications/getting-over-the-code-delusion) is to a large extent a primer on molecular genetics, cytology, and genomics for the uninitiated. That’s a tall order. It’s really hard to avoid pitfalls of oversimplification in the space provided, so I’ll let readers judge where Talbott misleads or misunderstands in the details. Another definite aspect of the piece which is a bit out of the ordinary is its literary quality, which one does not usually find in primers of this sort. Consider:
 
-> …Noncoding DNA could provide the complex regulatory functions that > direct genes toward service of the organism’s needs, including its > developmental needs. >
+> …Noncoding DNA could provide the complex regulatory functions that direct genes toward service of the organism’s needs, including its developmental needs. >
 > That suspicion has now become standard doctrine….
 
 I think coventional technical writing would have avoided a word like “doctrine” (and I think it also misleads as to the disputes around issues such as the importance of[*cis*-regulatory elements](https://en.wikipedia.org/wiki/Noncoding_DNA#Cis-regulatory_elements),which are not quite settled). But Talbott’s audience does not necessarily consist of individuals who get *Science* and *Nature* in the mail every month (or have academic access). So a more thorough judgement probably will have to await the whole series.

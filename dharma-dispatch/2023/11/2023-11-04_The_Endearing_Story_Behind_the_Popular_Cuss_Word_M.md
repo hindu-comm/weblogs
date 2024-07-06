@@ -111,7 +111,7 @@ The story of this transformation is equally interesting.
 
 Over time, the original name Jyeshta Devi was forgotten but her iconographic and sculptural representation remained largely intact. Even fifty years ago, her worship in the Tamil Desha remained unchanged. However, in this substantial passage of time, that is, after she became *Moodevi,* her status was relegated to that of a local or village Deity: the ubiquitous *Grama Devata.* The scholar Krishnan describes this transformation beautifully:
 
-> While the odium attached to this deity in popular conception continues > even today, THE SCULPTURE IS NOT THROWN OUT BUT IS METAMORPHOSISED AND > ABSORBED IN TO THE VILLAGE PANTHEON.
+> While the odium attached to this deity in popular conception continues even today, THE SCULPTURE IS NOT THROWN OUT BUT IS METAMORPHOSISED AND ABSORBED IN TO THE VILLAGE PANTHEON.
 
 *(Capitalised)*
 

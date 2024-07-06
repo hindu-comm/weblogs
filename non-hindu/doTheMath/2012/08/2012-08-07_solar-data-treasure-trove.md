@@ -41,7 +41,8 @@ Dissecting the page, location information and station type appear at upper right
 
 Next are four blocks of numbers for:
 
-- A fixed panel facing south, tilted to various degrees - A panel tracking on a single north-south axis, either horizontal or
+- A fixed panel facing south, tilted to various degrees
+- A panel tracking on a single north-south axis, either horizontal or
   tilted to various degrees - A panel tracking the sun perfectly (2-axis) - Concentration yield for various tracking schemes on one or two axes
 
 I clipped out the final block of monthly climatic conditions in the image above.

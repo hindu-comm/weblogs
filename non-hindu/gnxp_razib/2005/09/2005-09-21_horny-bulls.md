@@ -11,7 +11,7 @@ Horny bulls
 
 [Cattle domestication in the Near East was followed by hybridization with aurochs bulls in Europe](http://www.journals.royalsoc.ac.uk/app/home/contribution.asp?wasp=4596093bdc98458f952353673d6592d3&referrer=parent&backto=issue,7,50;journal,1,206;linkingpublicationresults,1:102024,1):
 
-> Domesticated cattle were one of the cornerstones of European > Neolithisation and are thought to have been introduced to Europe from > areas of aurochs domestication in the Near East. This is consistent > with mitochondrial DNA (mtDNA) data, where a clear separation exists > between modern European cattle and ancient specimens of British > aurochsen. However, we show that Y chromosome haplotypes of north > European cattle breeds are more similar to haplotypes from ancient > specimens of European aurochsen, than to contemporary cattle breeds > from southern Europe and the Near East….
+> Domesticated cattle were one of the cornerstones of European > Neolithisation and are thought to have been introduced to Europe from > areas of aurochs domestication in the Near East. This is consistent > with mitochondrial DNA (mtDNA) data, where a clear separation exists > between modern European cattle and ancient specimens of British > aurochsen. However, we show that Y chromosome haplotypes of north European cattle breeds are more similar to haplotypes from ancient specimens of European aurochsen, than to contemporary cattle breeds from southern Europe and the Near East….
 
 **Related:** [Humans greedy for pig?](https://www.gnxp.com/MT2/archives/003742.html) (which shows that pig mtDNA tends to exhibit diverse lineage signatures)
 

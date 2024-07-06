@@ -935,7 +935,8 @@ Nanda certainly changed the rules of the game forever.
 36. Prakash, Buddha. *Chandragupta Maurya… (part 1)* p. 283-287.
 37. Raychaudhuri, “India in the Age of the Nandas.” *Age of the Nandas
     and the Mauryas (1967)*. p. 25.
-38. Raychaudhuri, *Political History of *Ancient India**. p. 119. *{cf*.
+38. Raychaudhuri, *Political History of *Ancient India**. p.
+119. *{cf*.
     Prakash, Buddha. *Chandragupta Maurya… (part 1)* p. 289*}*.
 39. Narayan Tripathi, “A Note on the Hati Gumpha Inscription of Emperor
     Kharavela.” [*Journal of Bihar and Orissa. (1930) Volume

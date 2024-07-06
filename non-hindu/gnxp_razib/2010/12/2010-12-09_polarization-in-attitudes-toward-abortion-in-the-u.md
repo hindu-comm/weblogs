@@ -11,7 +11,7 @@ Polarization on abortion in the USA
 
 Some comments below made me want to look at attitudes toward abortion in the USA by ideology over the decades. I know that political party polarization on social issues has played out mostly over the past 20 years or, but I assumed that this was less evident in ideology (mostly, liberal Republicans became Democrats and conservative Democrats became Republicans). I looked at the ABANY question:
 
-> Please tell me whether or not you think it should be possible for a > pregnant woman to obtaina legal abortion if:The woman wants it for any > reason?
+> Please tell me whether or not you think it should be possible for a pregnant woman to obtaina legal abortion if:The woman wants it for any reason?
 
 Then I combined years to produce four decades. 1977-1980 = 70s, 1981-1990 = 80s, 1991-2000 = 90s, and 2001-2008 = 00s. I compared this with the POLVIEWS variable, which goes from extremely liberal to extremely conservative. I constrained the sample to whites to control somewhat for population confounds. Below are the results by decade in various formats.
 

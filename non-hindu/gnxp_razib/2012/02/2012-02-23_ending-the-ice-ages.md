@@ -11,8 +11,8 @@ Ending the Ice Ages
 
 [We Are All Panamanians](http://discovermagazine.com/1996/apr/weareallpanamani743):
 
-> When the Isthmus of Panama rose from the sea, it may have changed the > climate of Africa–and encouraged the evolution of humans. >
-> The emergence of the Isthmus of Panama has been credited with many > milestones in Earth’s history. When it rose from the sea some 3 > million years ago, the isthmus provided a bridge for the migration of > animals between North and South America, forever changing the fauna of > both continents. It also blocked a current that once flowed west from > Africa to Asia, diverting it northward to strengthen the Gulf Stream. > Now Steven Stanley, a paleobiologist at Johns Hopkins, says that that > change in currents may be behind yet another major event: the > evolution of humans. **When the isthmus rearranged the ocean, he says, > it triggered a series of ice ages that in turn had a crucial impact on > the evolution of hominids in Africa.**
+> When the Isthmus of Panama rose from the sea, it may have changed the climate of Africa–and encouraged the evolution of humans. >
+> The emergence of the Isthmus of Panama has been credited with many > milestones in Earth’s history. When it rose from the sea some 3 > million years ago, the isthmus provided a bridge for the migration of > animals between North and South America, forever changing the fauna of > both continents. It also blocked a current that once flowed west from > Africa to Asia, diverting it northward to strengthen the Gulf Stream. > Now Steven Stanley, a paleobiologist at Johns Hopkins, says that that > change in currents may be behind yet another major event: the evolution of humans. **When the isthmus rearranged the ocean, he says, it triggered a series of ice ages that in turn had a crucial impact on the evolution of hominids in Africa.**
 
 Question: do we have enough nukes to re-open the isthmus?
 

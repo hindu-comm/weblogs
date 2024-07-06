@@ -11,7 +11,7 @@ The rise of the black Mormon
 
 Pew has a [new report](https://pewforum.org/docs/?DocID=427), [A Portrait of Mormons in the U.S.](https://pewforum.org/docs/?DocID=427). Most of it is is unsurprising, but this caught my eye:
 
-> Converts are more likely than lifelong members to come from minority > racial and ethnic groups. **One-in-ten converts to Mormonism are > black,** and nearly all black Mormons are converts. An additional > one-in-ten Mormon converts are Hispanic, and just 72% are white; by > contrast, 91% of lifelong Mormons are white. Converts are also more > than three times as likely as lifelong members to be immigrants to the > U.S. (14% vs. 4%).
+> Converts are more likely than lifelong members to come from minority > racial and ethnic groups. **One-in-ten converts to Mormonism are > black,** and nearly all black Mormons are converts. An additional > one-in-ten Mormon converts are Hispanic, and just 72% are white; by contrast, 91% of lifelong Mormons are white. Converts are also more than three times as likely as lifelong members to be immigrants to the U.S. (14% vs. 4%).
 
 The sample size may be small, so the 1 in 10 figure could be a fluke, but this is striking in light of the fact that blacks did not become recognized as equal to non-blacks within the Mormon church until 1978 (people of black African ancestry were excluded from the [priesthood](https://en.wikipedia.org/wiki/Blacks_and_Mormonism)).
 

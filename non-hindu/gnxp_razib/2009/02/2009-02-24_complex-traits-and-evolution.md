@@ -11,7 +11,7 @@ Complex traits and evolution
 
 [Wings, Horns, and Butterfly Eyespots: How Do Complex Traits Evolve?](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.1000037&ct=1):
 
-> Complex traits require co-ordinated expression of many transcription > factors and signaling pathways to guide their development. Creating a > developmental program de novo would involve linking many genes > one-by-one, requiring each mutation to drift into fixation, or to > confer some selective advantage at every intermediate step in order to > spread in the population. While this lengthy process is not completely > unlikely, it could be circumvented with fewer steps by recruiting a > top regulator of an already existing gene network, i.e., by means of > gene network co-option. Subsequent modifications of the co-opted > network could further optimize its role in the new developmental > context.
+> Complex traits require co-ordinated expression of many transcription > factors and signaling pathways to guide their development. Creating a > developmental program de novo would involve linking many genes > one-by-one, requiring each mutation to drift into fixation, or to > confer some selective advantage at every intermediate step in order to > spread in the population. While this lengthy process is not completely > unlikely, it could be circumvented with fewer steps by recruiting a > top regulator of an already existing gene network, i.e., by means of gene network co-option. Subsequent modifications of the co-opted network could further optimize its role in the new developmental context.
 
 ### Related Posts:
 

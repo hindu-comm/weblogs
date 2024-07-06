@@ -21,7 +21,8 @@ Daily Data Dump (Wednesday)
 
 ### Related Posts:
 
-- [Vitamin D & influenza - randomized
+- [Vitamin D & influenza
+- randomized
   trial](https://www.gnxp.com/WordPress/2010/03/15/vitamin-d-influenza-randomized-trial/) - [Vitamin D &
   asthma](https://www.gnxp.com/WordPress/2009/04/27/vitamin-d-asthma/) - [Vitamin D in critically ill
   patients](https://www.gnxp.com/WordPress/2009/05/02/vitamin-d-in-critically-ill-patients/) - [Vitamin D deficiency & respiratory

@@ -11,15 +11,15 @@ Hellenic (Achaean) Height
 
 Since we’ve talked about [height](https://www.gnxp.com/MT2/archives/002141.html) on this blog [before](https://www.gnxp.com/blog/2005/09/medieval-height.php), I thought the following might interest some…from [The Aegean Bronze Age](https://www.amazon.com/exec/obidos/ASIN/0521456649/geneexpressio-20/104-2493148-2227148):
 
-> All the large samples have produced very similar averages of > height…around 1.67 m \[about 5’6\] for men and 1.55 m \[about 5’1\] > for women, but with a range that in both sexes spreads over 20 cm \[a > little under 8 inches\] around the average…these averages are only > half a centimeter lower than in modern Greece….
+> All the large samples have produced very similar averages of > height…around 1.67 m \[about 5’6\] for men and 1.55 m \[about 5’1\] for women, but with a range that in both sexes spreads over 20 cm \[a little under 8 inches\] around the average…these averages are only half a centimeter lower than in modern Greece….
 
 I don’t know if the average for modern Greece is correct, the book dates from 1994, and many works of scholarship often use old data when drawing upon facts from outside of their discipline. Here are height tables for Greek [boys](http://pediatrics.aappublications.org/cgi/content/full/108/4/e65/T1) and [girls](http://pediatrics.aappublications.org/cgi/content/full/108/4/e65/T2), even assuming that Athenians are taller (for whatever reason) than average the comparison to modern (21st century) Greeks is off. But, the legends of tiny ancients go back at least few centuries, so it doesn’t exculpate scholars totally.
 
 Here is some more from [Mycenaeans](https://www.amazon.com/exec/obidos/ASIN/0415249236/geneexpressio-20/104-2493148-2227148):
 
-> …The skeletons of aristocrats in Grave Circle B show that the women > were 1.58-1.61 \[5’2-5’3\] tall and the men were 1.61-1.76 m > \[5’3-5’9\] tall, around 6 cm \[2.4 inches\] taller than commoners.  
+> …The skeletons of aristocrats in Grave Circle B show that the women were 1.58-1.61 \[5’2-5’3\] tall and the men were 1.61-1.76 m \[5’3-5’9\] tall, around 6 cm \[2.4 inches\] taller than commoners.  
 > …  
-> Zeta 59 \[remains of an individual\] was also a big man…he was 1.75 m > tall \[5’9\].  
+> Zeta 59 \[remains of an individual\] was also a big man…he was 1.75 m tall \[5’9\].  
 > …  
 > Gamma 55 was another big man, 1.76 m tall….
 

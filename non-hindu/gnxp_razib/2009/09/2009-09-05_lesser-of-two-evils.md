@@ -11,8 +11,8 @@ Lesser of two evils?
 
 *The New York Times* has a strange article up, [For Your Health, Froot Loops](http://www.nytimes.com/2009/09/05/business/05smart.html?hp=&pagewanted=print), which profiles the controversy around a new health food guideline/endorsement organized by industry which seems somewhat fishy. This part made me laugh out loud:
 
-> Dr. Kennedy, who is not paid for her work on the program, defended the > products endorsed by the program, including sweet cereals. She said > Froot Loops was better than other things parents could choose for > their children.  
-> **“You’re rushing around, you’re trying to think about healthy eating > for your kids and you have a choice between a doughnut and a > cereal,”** Dr. Kennedy said, evoking a hypothetical parent in the > supermarket. **“So Froot Loops is a better choice.”**
+> Dr. Kennedy, who is not paid for her work on the program, defended the products endorsed by the program, including sweet cereals. She said Froot Loops was better than other things parents could choose for their children.  
+> **“You’re rushing around, you’re trying to think about healthy eating for your kids and you have a choice between a doughnut and a cereal,”** Dr. Kennedy said, evoking a hypothetical parent in the supermarket. **“So Froot Loops is a better choice.”**
 
 Are there really parents who regularly consider buying doughnuts as meals for their kids? When I was a kid the rule-of-thumb was that really tasty cereal, like [Honey Smacks](https://en.wikipedia.org/wiki/Honey_Smacks), [Frosted Flakes](https://en.wikipedia.org/wiki/Frosted_Flakes), and yes, Fruit Loops, was not the healthiest. In contrast, [Total](https://en.wikipedia.org/wiki/Total_(cereal)) didn’t taste nearly as good. Does the “if kids don’t like too much it’s probably good for them” heuristic not work anymore? Yes, preparing food from scratch takes a long time. But if you’re going by processed stuff, the tastier the more likely there’s a lot of salt, fat and sugar. It really isn’t that hard to eat just one [Wheat Thin](https://en.wikipedia.org/wiki/Wheat_Thins).
 

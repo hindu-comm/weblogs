@@ -11,8 +11,8 @@ China's 2 child policy
 
 [Shanghai urges ‘two-child policy’](http://news.bbc.co.uk/2/hi/asia-pacific/8166413.stm):
 
-> Officials in Shanghai are urging parents to have a second child, the > first time in decades the government has actively encouraged > procreation.  
-> A public information campaign has been launched to highlight > exemptions to the country’s one-child policy.
+> Officials in Shanghai are urging parents to have a second child, the first time in decades the government has actively encouraged procreation.  
+> A public information campaign has been launched to highlight exemptions to the country’s one-child policy.
 
 H/T [Aziz](http://blog.beliefnet.com/cityofbrass/)
 

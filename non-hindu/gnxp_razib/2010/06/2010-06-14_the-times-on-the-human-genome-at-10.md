@@ -13,7 +13,7 @@ The Times on the human genome at 10
 
 There are reasons for optimism though. The most important reason is a bit of historical perspective–the road from identifying a gene involved in a disease to a treatment for that disease is…rocky, to say the least. The genetic cause of a particular type of cancer ([CML](https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia)) was discovered in 1960, but [a treatment](https://en.wikipedia.org/wiki/Imatinib) was approved by the FDA in 2001. For those keeping track, **that’s 41 years**. The gene for cystic fibrosis was discovered in 1988; drugs for that disease are finally in clinical trials now (and so will take **at least 22 years** to hit the market). Most drugs take well more than a decade to go through the regulatory pipeline. **So even if associations between genes and common diseases had been discovered the day the genome was published (obviously, it took half a decade to even get those associations), the drugs inspired by those findings would still not be out**. This quote is particularly relevant:
 
-> “I don’t think any of us in the business believed it would be a > cornucopia,” said Frank L. Douglas, the former head of research and > development at the drug company Aventis. “What we did believe, > however, was that it would get easier. We forgot our history.”
+> “I don’t think any of us in the business believed it would be a cornucopia,” said Frank L. Douglas, the former head of research and development at the drug company Aventis. “What we did believe, however, was that it would get easier. We forgot our history.”
 
 And once again, [life imitates The Onion](https://www.theonion.com/articles/national-science-foundation-science-hard,1405/).
 

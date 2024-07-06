@@ -171,7 +171,8 @@ We can never know if 6,000 years ago the LBK people, the first farming culture o
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Dan Davis prehistory YouTuber par
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Dan Davis prehistory YouTuber par
   excellence](https://www.gnxp.com/WordPress/2022/04/14/dan-davis-history-youtuber-par-excellence/) - [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Gould, part
   deux?](https://www.gnxp.com/WordPress/2007/06/25/gould-part-deux/) - [Inside the Dar
   al-Islam](https://www.gnxp.com/WordPress/2014/08/08/inside-the-dar-al-islam/) - [Roland Fryer is

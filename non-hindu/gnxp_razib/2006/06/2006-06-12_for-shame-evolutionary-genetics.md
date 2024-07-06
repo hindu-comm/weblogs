@@ -11,7 +11,7 @@ For shame – "Evolutionary Genetics"
 
 MC Coffee Mug, a recent contributor to this weblog, posted this [comment](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/115010705408380949?url=http://www.gnxp.com/blog/2006/06/mendels-garden-genetics-carnival.php#1114953) below:
 
-> i’m not upset that there’s not an evolutionary genetics category.. > half the science blog content on the web is either about dinosaurs and > hobbits or it’s myers-esque “oh i’m so incensed because people don’t > get evolution” rants.. i would be quite happy to read a genetics > carnival that never mentioned any of that junk..
+> i’m not upset that there’s not an evolutionary genetics category.. > half the science blog content on the web is either about dinosaurs and hobbits or it’s myers-esque “oh i’m so incensed because people don’t get evolution” rants.. i would be quite happy to read a genetics carnival that never mentioned any of that junk..
 
 Dinosuars and “Hobbits” are **not *evolutionary genetics***, they are paleontology. The last phenomenon, well, I don’t know what it is, but it isn’t evolutionary genetics either. Here is a [rough sketch](http://plato.stanford.edu/entries/evolutionary-genetics/) of pre-postgenomic evolutionary genetics, here is [the future](http://www.genome.gov/10001688) that has been prophesied. Here is a great [evolutionary geneticist](https://en.wikipedia.org/wiki/R.A._Fisher) from the 20th century, and [here is a profile](https://www.gnxp.com/blog/2005/09/bruce-lahn.php) of a young evolutionary genomicist. Repent heathen!
 

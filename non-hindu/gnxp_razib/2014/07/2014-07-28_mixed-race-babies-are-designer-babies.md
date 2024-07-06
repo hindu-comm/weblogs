@@ -13,18 +13,18 @@ Mixed-race babies are ‘designer babies’?
 
 Apparently the **only** fertility clinic in Calgary, Canada, a city of 1 million, [won’t countenance the conception of mixed-race children](http://www.theglobeandmail.com/news/national/calgary-fertility-clinic-in-spotlight-over-policy-to-restrict-donations-to-patients-of-same-ethnicity/article19813167/). Here are the details:
 
-> Calgary’s only fertility centre, which has made headlines for > requiring that patients receive only sperm from donors of the same > ethnicity, is a medically respected clinic but one with conservative > views. >
-> The private clinic, known as the Regional Fertility Program, got wide > attention last week after a Caucasian female patient complained that > she had been told she could only get sperm from white donors. >
+> Calgary’s only fertility centre, which has made headlines for requiring that patients receive only sperm from donors of the same ethnicity, is a medically respected clinic but one with conservative views. >
+> The private clinic, known as the Regional Fertility Program, got wide attention last week after a Caucasian female patient complained that she had been told she could only get sperm from white donors. >
 > … >
-> She said that unlike other clinics, the Calgary clinic will not take > patients who deal with surrogacy agencies. The clinic also long > resisted taking gay patients, she added. >
-> “I deal with a lot of fertility clinics. They are certainly the most > conservative. That is their choice to a certain extent as long as it > is a private service.” >
+> She said that unlike other clinics, the Calgary clinic will not take patients who deal with surrogacy agencies. The clinic also long resisted taking gay patients, she added. >
+> “I deal with a lot of fertility clinics. They are certainly the most conservative. That is their choice to a certain extent as long as it is a private service.” >
 > … >
-> Officials at the clinic didn’t reply to an interview request Monday, > but administrative director Calvin Greene told the Calgary Herald that > it is better to raise children who ressemble their parents. >
-> “A child of an ethnic background should have the ability to be able to > identify with their ethnic roots,” Dr. Greene said. >
-> The patient who went public with her complaint about the clinic’s > policy is a single woman who is considering in-vitro fertilization. >
-> “I’m not sure that we should be creating rainbow families just because > some single woman decides that that’s what she wants,” Dr. Greene said > about her. >
+> Officials at the clinic didn’t reply to an interview request Monday, but administrative director Calvin Greene told the Calgary Herald that it is better to raise children who ressemble their parents. >
+> “A child of an ethnic background should have the ability to be able to identify with their ethnic roots,” Dr. Greene said. >
+> The patient who went public with her complaint about the clinic’s policy is a single woman who is considering in-vitro fertilization. >
+> “I’m not sure that we should be creating rainbow families just because some single woman decides that that’s what she wants,” Dr. Greene said about her. >
 > … >
-> **Dr. Greene said that his stance is consistent with the spirit of > Ottawa’s Assisted Human Reproduction Act, which discourages doctors > from helping create “designer babies.”**
+> **Dr. Greene said that his stance is consistent with the spirit of Ottawa’s Assisted Human Reproduction Act, which discourages doctors from helping create “designer babies.”**
 
 First, I have to admit that this isn’t that strange when you hear people always talk about **‘multi-cultural’ families when they *really mean* multi-racial.** I’m in a multi-racial family personally, not a multi-cultural one. This is a slip of the tongue in our colloquial speech that has always made me uncomfortable. People aren’t born with their culture, they’re inculcated with it. It’s the majority sentiment for people to be more comfortable with people who look like themselves, but there’s no reason to make this a metaphysical or ontological issue, unless you are a racialist of some sort.
 

@@ -13,8 +13,8 @@ Direct-to-consumer genomics, it’s back on!
 
 It looks like 2017 DTC is finally turning a regulatory corner, with some clarity and freedom to operate, [FDA Opens Genetic Floodgates with 23andMe Decision](https://www.technologyreview.com/s/604109/fda-opens-genetic-floodgates-with-23andme-decision/):
 
-> Today, the U.S. Food and Drug Administration told gene-testing company > 23andMe that it will be allowed to directly tell consumers whether > their DNA puts them at higher risk for 10 different diseases, > including late-onset Alzheimer’s disease and Parkinson’s. >
-> The decision to allow these direct-to-consumer tests is a big > vindication for 23andMe, which in 2013 was forced to cease marketing > such results after the FDA said they could be inaccurate and risky to > consumers, and that they required regulatory approval.
+> Today, the U.S. Food and Drug Administration told gene-testing company 23andMe that it will be allowed to directly tell consumers whether their DNA puts them at higher risk for 10 different diseases, including late-onset Alzheimer’s disease and Parkinson’s. >
+> The decision to allow these direct-to-consumer tests is a big vindication for 23andMe, which in 2013 was forced to cease marketing such results after the FDA said they could be inaccurate and risky to consumers, and that they required regulatory approval.
 
 I still agree with my assessment in 2013, [this won’t mean anything in the long run](http://www.slate.com/blogs/future_tense/2013/11/25/fda_letter_to_23andme_won_t_mean_anything_in_the_long_run.html). DTC is here to stay, and if the decentralization of medical testing and services don’t happen in the USA, they’ll happen elsewhere, and at some point medical tourism will get cheap enough that any restrictions in this nation won’t be of relevance. But, this particular decision alters the timeline in the grand scheme of things, and matters a great deal for specific players.
 

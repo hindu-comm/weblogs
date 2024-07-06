@@ -11,7 +11,7 @@ Atheism(Lonelygirl15) = AngryLittleGirl
 
 Agnostic says that [Lonelygirl15 reincarnated as AngryLittleGirl](https://akinokure.blogspot.com/2007/06/lonelygirl15-reincarnated-as.html). I haven’t watched any of the other clips, but I found this shit hilarious:
 
-> She’s like a somewhat less ugly version of real-life Jacqueline > Passey. Interestingly, the actress playing AngryLittleGirl is > convincing due to her higher level of biological masculinity. She has > a fairly masculine jaw-line for an 18 y.o. girl, and just watch An > American Girl, where she makes her hands visible throughout. **If you > pause this clip at 4:27, you can see that on her right hand her ring > finger is noticeably longer than her index finger.** This is a > masculine digit ratio. It would require a female that far into the > right tail of the testosterone distribution to acquire an interest in > male geek topics.
+> She’s like a somewhat less ugly version of real-life Jacqueline > Passey. Interestingly, the actress playing AngryLittleGirl is > convincing due to her higher level of biological masculinity. She has > a fairly masculine jaw-line for an 18 y.o. girl, and just watch An > American Girl, where she makes her hands visible throughout. **If you > pause this clip at 4:27, you can see that on her right hand her ring > finger is noticeably longer than her index finger.** This is a masculine digit ratio. It would require a female that far into the right tail of the testosterone distribution to acquire an interest in male geek topics.
 
 LOL. I’m inclined to believe agnostic since he’s watched many of the videos.  
 **Related:** The original post which referenced AngryLittleGirl.

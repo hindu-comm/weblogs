@@ -11,7 +11,7 @@ Gladwell, too easy….
 
 Alan Jacobs, [GLADWELL’S GENERALIZATIONS](http://theamericanscene.com/2009/05/14/gladwell-s-generalizations):
 
-> Gladwell is always fun to read, but he invariably commits one of the > sins we English teachers most warn against when we’re teaching > freshman writing: he loves to make vast generalizations from one or > two particular cases.
+> Gladwell is always fun to read, but he invariably commits one of the sins we English teachers most warn against when we’re teaching freshman writing: he loves to make vast generalizations from one or two particular cases.
 
 One obvious point is that a style of play which is effective at one level of athletics may not be as effect at another level, particularly a higher level. Consider the [Option](https://en.wikipedia.org/wiki/Option_offense) or [Run & Shoot](https://en.wikipedia.org/wiki/Run_and_shoot) offenses in football. The Run & Shoot in particular was tried out widely in the early 1990s at the professional level, but most teams gave up on it. Quarterbacks who were statistical monsters in colleges which utilized the Run & Shoot were total busts at the professional level (most famously, [Andre Ware](https://en.wikipedia.org/wiki/Andre_Ware) and [David Klingler](https://en.wikipedia.org/wiki/David_Klingler) from the University of Houston). It turns out that cornerbacks and safeties in the NFL are very fast and athletic, and many college Run & Shoot quarterbacks weren’t precise enough in their passing to get the job done.  
 Note: And yes, I’m not even taking into account the reality that professional quarterbacks are enormous economic investments, so there is going to be skepticism about risking such a valuable asset by running options all the time.

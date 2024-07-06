@@ -21,7 +21,7 @@ The Aztec Empire, or the [Triple Alliance](https://en.wikipedia.org/wiki/Aztec_E
 
 Here is one tale from [Aztec history](https://en.wikipedia.org/wiki/History_of_the_Aztecs) that is well known:
 
-> In 1323, they asked the new ruler of Culhuacan, Achicometl, for his > daughter, in order to make her the goddess Yaocihuatl. Unknown to the > king, the Mexica actually planned to sacrifice her. The Mexica > believed that by doing this the princess would join the gods as a > deity. As the story goes, during a festival dinner, a priest came out > wearing her flayed skin as part of the ritual. Upon seeing this, **the > king and the people of Culhuacan were *horrified* and expelled the > Mexica.**
+> In 1323, they asked the new ruler of Culhuacan, Achicometl, for his > daughter, in order to make her the goddess Yaocihuatl. Unknown to the > king, the Mexica actually planned to sacrifice her. The Mexica > believed that by doing this the princess would join the gods as a > deity. As the story goes, during a festival dinner, a priest came out wearing her flayed skin as part of the ritual. Upon seeing this, **the king and the people of Culhuacan were *horrified* and expelled the Mexica.**
 
 Note that the legend is recounted whereby the other native peoples of Mexico were **horrified** by the Aztec behavior. This highlights the reality that human sacrifice seems to elicit negative reactions generally. It’s not arbitrary. In [Carthage Must Be Destroyed](https://www.amazon.com/exec/obidos/ASIN/B004IYJEB0/geneexpressio-20/ref=as_at/?imprToken=y7tAFiaSG1ny3pI-RQF7nA&slotNum=40&imprToken=y35SghEGEXIWbF1reLx1Gw&slotNum=33&imprToken=LpkHwvjD9DZhnme4GGPFmQ&slotNum=1&creativeASIN=0981519423&linkCode=w61&imprToken=WvNSQCwEIP9qt7KZM0qiUA&slotNum=55) the author spends a great deal of time exploring the reality of child sacrifice in that society. A practice in decline in the Phoenicianhomeland, for some reason it reemerged in the western Mediterranean much more vigorously. Classical observers found the practice grotesque, and their descriptions of Carthaginianchild sacrifice were suspected by many scholars as being scurrilous. Fortunately, or unfortunately, the truth has been established by the discovery of bones of children in urns. The key point to note is that **ancient observers were just as judgemental as modern people.**
 
@@ -41,7 +41,8 @@ Unfortunately, the Western colonial narrative looms so large for many moderns th
 
 ### Related Posts:
 
-- [On IE 8](https://www.gnxp.com/WordPress/2008/09/06/on-ie-8/) - [Killing of apostates in
+- [On IE 8](https://www.gnxp.com/WordPress/2008/09/06/on-ie-8/)
+- [Killing of apostates in
   context](https://www.gnxp.com/WordPress/2009/04/14/killing-of-apostates-in-context/) - [Let's hope the 21st century is not another Red
   Century](https://www.gnxp.com/WordPress/2020/05/05/lets-hope-the-21st-century-is-not-another-red-century/) - [Rising Star Expedition
   announcement](https://www.gnxp.com/WordPress/2015/09/09/rising-star-expedition-announcement/) - [False controversy over 'three-person'

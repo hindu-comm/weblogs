@@ -17,7 +17,7 @@ Now on to the NYT article…….
 
 About the first study, Kirp writes:
 
-> Regardless of whether the adopting families were rich or poor, Capron > and Duyme learned, children whose biological parents were well-off had > I.Q. scores averaging 16 points higher than those from working-class > parents. Yet what is really remarkable is how big a difference the > adopting families’ backgrounds made all the same. The average I.Q. of > children from well-to-do parents who were placed with families from > the same social stratum was 119.6. But when such infants were adopted > by poor families, their average I.Q. was 107.5 – 12 points lower. The > same holds true for children born into impoverished families: > youngsters adopted by parents of similarly modest means had average > I.Q.’s of 92.4, while the I.Q.’s of those placed with well-off parents > averaged 103.6. These studies confirm that environment matters – the > only, and crucial, difference between these children is the lives they > have led.
+> Regardless of whether the adopting families were rich or poor, Capron > and Duyme learned, children whose biological parents were well-off had > I.Q. scores averaging 16 points higher than those from working-class > parents. Yet what is really remarkable is how big a difference the > adopting families’ backgrounds made all the same. The average I.Q. of > children from well-to-do parents who were placed with families from > the same social stratum was 119.6. But when such infants were adopted > by poor families, their average I.Q. was 107.5 – 12 points lower. The > same holds true for children born into impoverished families: > youngsters adopted by parents of similarly modest means had average > I.Q.’s of 92.4, while the I.Q.’s of those placed with well-off parents averaged 103.6. These studies confirm that environment matters – the only, and crucial, difference between these children is the lives they have led.
 
 [Darth Quixote](https://www.gnxp.com/blog/2006/06/french-cross-fostering-ado_115070325923398202.php) has already deeply delved into this study, and there is no need to repeat him here. I will add:
 
@@ -27,16 +27,16 @@ the researcher’s did not test to see if the instrument they were using was fun
 
 So where does leave us? Capron and Duyme sum it up best:
 
-> Although these findings clearly indicate that the biological parents’ > background contributes to observed differences in IQ between extreme > groups, as does that of adoptive parents, more detailed interpretation > is difficult (p. 553)
+> Although these findings clearly indicate that the biological parents’ background contributes to observed differences in IQ between extreme groups, as does that of adoptive parents, more detailed interpretation is difficult (p. 553)
 
 which is a far cry from Kirp’s interpretation:
 
-> the only, and crucial, difference between these children is the lives > they have led.
+> the only, and crucial, difference between these children is the lives they have led.
 
 About the second study, Kirp writes:
 
-> A later study of French youngsters adopted between the ages of 4 and 6 > shows the continuing interplay of nature and nurture. Those children > had little going for them. Their I.Q.’s averaged 77, putting them near > retardation. Most were abused or neglected as infants, then shunted > from one foster home or institution to the next. >
-> Nine years later, they retook the I.Q. tests, and contrary to the > conventional belief that I.Q. is essentially stable, all of them did > better. The amount they improved was directly related to the adopting > family’s status. Children adopted by farmers and laborers had average > I.Q. scores of 85.5; those placed with middle-class families had > average scores of 92. The average I.Q. scores of youngsters placed in > well-to-do homes climbed more than 20 points, to 98 – a jump from > borderline retardation to a whisker below average. That is a huge > difference – a person with an I.Q. of 77 couldn’t explain the rules of > baseball, while an individual with a 98 I.Q. could actually manage a > baseball team – and it can only be explained by pointing to variations > in family circumstances.
+> A later study of French youngsters adopted between the ages of 4 and 6 > shows the continuing interplay of nature and nurture. Those children had little going for them. Their I.Q.’s averaged 77, putting them near retardation. Most were abused or neglected as infants, then shunted from one foster home or institution to the next. >
+> Nine years later, they retook the I.Q. tests, and contrary to the > conventional belief that I.Q. is essentially stable, all of them did > better. The amount they improved was directly related to the adopting > family’s status. Children adopted by farmers and laborers had average > I.Q. scores of 85.5; those placed with middle-class families had > average scores of 92. The average I.Q. scores of youngsters placed in > well-to-do homes climbed more than 20 points, to 98 – a jump from > borderline retardation to a whisker below average. That is a huge > difference – a person with an I.Q. of 77 couldn’t explain the rules of baseball, while an individual with a 98 I.Q. could actually manage a baseball team – and it can only be explained by pointing to variations in family circumstances.
 
 One has to do some digging elsewhere, but the study he is referring to is from [PNAS](http://www.pnas.org/cgi/content/full/96/15/8790). Since the study is free to read, I’ll only go over the major points:
 
@@ -74,7 +74,7 @@ A few things to notice. 1. There were at least some kids in both categories who,
 
 Fifth, buried in the next to last paragraph of the study, we find this statement:
 
-> This study shows that stability for rank can be found following a > marked environmental change after 4 years of age regardless of the SES > of adoptive families. The factors explaining this stability are > undoubtedly different from those explaining the gains in mean IQs.
+> This study shows that stability for rank can be found following a marked environmental change after 4 years of age regardless of the SES of adoptive families. The factors explaining this stability are undoubtedly different from those explaining the gains in mean IQs.
 
 Interpretation: the worst performers before the adoption tended to be the worst performers after the adoption. The only thing that happened was a linear transformation of scores (i.e., post-score ≈ a\*pre-score + b) across all SES groups, which could be due to many things, including: changing IQ scales and/or many years of living in an “average expectable environment.”
 

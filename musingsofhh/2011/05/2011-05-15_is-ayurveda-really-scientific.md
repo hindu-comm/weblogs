@@ -66,7 +66,18 @@ Advertisement
 
 **Tagged with:**
 
-- [allopathy](https://musingsofhh.wordpress.com/tag/allopathy/) - [ayurveda](https://musingsofhh.wordpress.com/tag/ayurveda/) - [charaka](https://musingsofhh.wordpress.com/tag/charaka/) - [european](https://musingsofhh.wordpress.com/tag/european/) - [galen](https://musingsofhh.wordpress.com/tag/galen/) - [greek](https://musingsofhh.wordpress.com/tag/greek/) - [hindu](https://musingsofhh.wordpress.com/tag/hindu/) - [homeopathy](https://musingsofhh.wordpress.com/tag/homeopathy/) - [pulse](https://musingsofhh.wordpress.com/tag/pulse/) - [samhita](https://musingsofhh.wordpress.com/tag/samhita/) - [scientific](https://musingsofhh.wordpress.com/tag/scientific/) - [sushruta](https://musingsofhh.wordpress.com/tag/sushruta/)
+- [allopathy](https://musingsofhh.wordpress.com/tag/allopathy/)
+- [ayurveda](https://musingsofhh.wordpress.com/tag/ayurveda/)
+- [charaka](https://musingsofhh.wordpress.com/tag/charaka/)
+- [european](https://musingsofhh.wordpress.com/tag/european/)
+- [galen](https://musingsofhh.wordpress.com/tag/galen/)
+- [greek](https://musingsofhh.wordpress.com/tag/greek/)
+- [hindu](https://musingsofhh.wordpress.com/tag/hindu/)
+- [homeopathy](https://musingsofhh.wordpress.com/tag/homeopathy/)
+- [pulse](https://musingsofhh.wordpress.com/tag/pulse/)
+- [samhita](https://musingsofhh.wordpress.com/tag/samhita/)
+- [scientific](https://musingsofhh.wordpress.com/tag/scientific/)
+- [sushruta](https://musingsofhh.wordpress.com/tag/sushruta/)
 
 **[Talageri’s analysis of theRigVeda](https://musingsofhh.wordpress.com/2011/05/15/talageris-analysis-of-the-rigveda/)**
 

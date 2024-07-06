@@ -23,7 +23,8 @@ The cold hard reality, shown by the Google Trends data above, is that just about
 
 ### Related Posts:
 
-- [Collapse, stagnation, and explosion - Myspace, Yahoo!,
+- [Collapse, stagnation, and explosion
+- Myspace, Yahoo!,
   and,…](https://www.gnxp.com/WordPress/2010/12/06/collapse-stagnation-and-explosionmyspace-yahoo-and-facebook/) - [Browser share via Google
   Trends](https://www.gnxp.com/WordPress/2011/10/08/browser-share-via-google-trends/) - [The Great
   Recession](https://www.gnxp.com/WordPress/2009/03/06/the-great-recession/) - [How Google Wave can

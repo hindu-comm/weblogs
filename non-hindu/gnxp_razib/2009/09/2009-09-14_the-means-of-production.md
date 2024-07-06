@@ -11,9 +11,9 @@ The means of production
 
 [U.S. Is Finding Its Role in Business Hard to Unwind](http://www.nytimes.com/2009/09/14/business/14big.html?pagewanted=print):
 
-> Between financial rescue missions and the economic stimulus program, > government spending accounts for a bigger share of the nation’s > economy — 26 percent — than at any time since World War II. **The > government is financing 9 out of 10 new mortgages in the United > States.** If you buy a car from General Motors, you are buying from a > company that is 60 percent owned by the government.  
-> If you take out a car loan or run up your credit card, the chances are > good that the government is financing both your debt and that of your > bank.  
-> And if you buy life insurance from the American International Group, > you will be buying from a company that is almost 80 percent federally > owned.
+> Between financial rescue missions and the economic stimulus program, > government spending accounts for a bigger share of the nation’s > economy — 26 percent — than at any time since World War II. **The government is financing 9 out of 10 new mortgages in the United States.** If you buy a car from General Motors, you are buying from a company that is 60 percent owned by the government.  
+> If you take out a car loan or run up your credit card, the chances are good that the government is financing both your debt and that of your bank.  
+> And if you buy life insurance from the American International Group, you will be buying from a company that is almost 80 percent federally owned.
 
 The mortgage number really jumps out at me. I’m really tired of Republicans complaining about Barack Obama’s plan for socialism. **We have socialism.** The American government owns a car company and an insurance company. It’s responsible for putting up capital so the construction and real estate industries stay afloat.
 

@@ -13,7 +13,8 @@ Daniel Larison [is surprised by the sound of his own voice](http://www.amconmag.
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Correlated
   response?](https://www.gnxp.com/WordPress/2006/11/18/correlated-response/) - [Dr Tatiana](https://www.gnxp.com/WordPress/2005/05/07/dr-tatiana/) - [Open thread,
   10-25-2012](https://www.gnxp.com/WordPress/2012/10/25/open-thread-10-25-2012/) - [I might be on Radio Open

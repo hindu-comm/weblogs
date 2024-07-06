@@ -11,7 +11,7 @@ Would you have your fetus genetically tested?
 
 There’s a variable in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10), GENESELF, which asks:
 
-> Today, tests are being developed that make it possible to detect > serious genetic defects before a baby is born. But so far, it is > impossible either to treat or to correct most of them. If (you/your > partner) were pregnant, would you want (her) to have a test to find > out if the baby has any serious genetic defects?
+> Today, tests are being developed that make it possible to detect > serious genetic defects before a baby is born. But so far, it is impossible either to treat or to correct most of them. If (you/your partner) were pregnant, would you want (her) to have a test to find out if the baby has any serious genetic defects?
 
 This is relevant today especially. First, the technology is [getting better and better](http://www.wired.com/wiredscience/2011/01/one-more-step-towards-the-end-of-recessive-diseases/). Second, couples are [waiting longer](http://www.usatoday.com/news/health/2009-08-12-latebirths12_N.htm) to start families. Unfortunately this question was only asked in 1990, 1996, and 2004. But on the positive side the sample sizes were large.
 

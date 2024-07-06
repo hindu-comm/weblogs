@@ -75,7 +75,7 @@ MISA was pioneered by the British and enforced with special relish by her father
 
 This led a Bombay-based editor to write this remark in June 1948:
 
-> **In the India of to-day, Congress is no longer looked upon as a > friend of the people. Rather it is feared.** (Emphasis added)
+> **In the India of to-day, Congress is no longer looked upon as a friend of the people. Rather it is feared.** (Emphasis added)
 
 In fact, he compared the Congress Party and Government of “independent” India with the Nazi Government of Hitler by echoing the lethal Nazi slogan, *Ein Volk, ein Reich, ein Führer!* (One nation, One Empire, One Leader!). In his chilling words,
 

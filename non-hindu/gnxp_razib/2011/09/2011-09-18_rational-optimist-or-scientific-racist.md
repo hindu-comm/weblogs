@@ -13,7 +13,7 @@ I’m quite looking forward to Steven Pinker’s [The Better Angels of Our Natur
 
 In any case, [Jerry Coyne](http://whyevolutionistrue.wordpress.com/2011/09/18/steve-pinkers-new-book/) points me to a really strange aside in a [review](http://www.guardian.co.uk/theobserver/2011/sep/18/observer-profile-steven-pinker) of Pinker’s book in *The Guardian*:
 
-> To be tagged as a credulous optimist is one thing, yet Pinker also > risks being condemned as a scientific racist. His graphs on the > incidence of murder show present-day tribal and hunter-gatherer > cultures to be far more homicidal than even the most lethally armed > developed nation, a fact that is bound to bring censure from those > Pinker derides as the “anthropologists of peace”
+> To be tagged as a credulous optimist is one thing, yet Pinker also > risks being condemned as a scientific racist. His graphs on the > incidence of murder show present-day tribal and hunter-gatherer cultures to be far more homicidal than even the most lethally armed developed nation, a fact that is bound to bring censure from those Pinker derides as the “anthropologists of peace”
 
 If the reviewer is characterizing these “anthropologists of peace” correctly perhaps it’s a commentary on what modern anthropology has become. I’ll leave you with some charts….
 

@@ -11,7 +11,7 @@ Ask a Science Blogger – June 15
 
 **Question:** [Ask a Science Blogger June 15](http://scienceblogs.com/seed/2006/06/ask_a_scienceblogger_june_15.php):
 
-> How is it that all the PIs (Tara, PZ, Orac et al.), various grad > students, post-docs, etc. find time to fulfill their primary > objectives (day jobs) and blog so prolifically?
+> How is it that all the PIs (Tara, PZ, Orac et al.), various grad students, post-docs, etc. find time to fulfill their primary objectives (day jobs) and blog so prolifically?
 
 My guess: blogging is easy. What it takes is a little courage to speak your mind (or foolhardiness, depending on how you look at it). For myself, I’m juggling a lot of different things in my life right now, so I always make sure I “clock” myself. Believe it or not, a lot of the posts do not take much time because I’m ruminating on a lot of these topics all the time. Once it comes down to translating it into prose it often just flows out of me really quickly. I find that commenting & responding to comments is much more time intensive because I don’t have “canned” responses and I have to fire up the brain and let it to process for a while before I can offer something cogent. One reason I often don’t respond to really intelligent and incisive comments is that I don’t have to the time to think and reply.
 

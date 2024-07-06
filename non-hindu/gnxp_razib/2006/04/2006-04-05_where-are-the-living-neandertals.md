@@ -23,7 +23,8 @@ Also, [Diana](https://letterfromgotham.blogspot.com/) suggested to me once that 
 
 ### Related Posts:
 
-- [Ötzi - more Neandertal than the average
+- [Ötzi
+- more Neandertal than the average
   bear](https://www.gnxp.com/WordPress/2012/08/15/otzi-more-neandertal-than-the-average-bear/) - [Living Neandertals
   sighted](https://www.gnxp.com/WordPress/2006/08/17/living-neandertals-sighted/) - [Neandertals, admixture,
   etc.](https://www.gnxp.com/WordPress/2010/05/06/neandertals-admixture-etc/) - [Living Neandertals & another idea about the

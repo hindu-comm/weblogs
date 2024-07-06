@@ -75,7 +75,7 @@ Our English schools are flourishing wonderfully… The effect of this education 
 
 Twenty years later, Bishop Robert Caldwell would publish his A Comparative Grammar of Dravidian or South-Indian family of Languages in which he holds that
 
-> The \[Tamil\] language being probably the earliest cultivated on the > Dravidian idioms, the most copious and that which contains the largest > portion and the richest variety of indubitably ancient forms
+> The \[Tamil\] language being probably the earliest cultivated on the Dravidian idioms, the most copious and that which contains the largest portion and the richest variety of indubitably ancient forms
 
 It wouldn’t be an exaggeration to claim that this among other glowing epithets about the language in his book on Tamil Grammar formed the bedrock of Tamil linguistic separatism, and gave the much-needed manure for the racist theories of Dravidian separatism to fully flower and to eventually capture political power.
 

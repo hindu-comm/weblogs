@@ -11,7 +11,7 @@ Republican & Democrat, rich & poor
 
 Chris [comments](http://scienceblogs.com/mixingmemory/2006/10/how_does_income_affect_voting.php) on a [paper](http://www.stat.columbia.edu/%7Egelman/research/unpublished/redblue11.pdf) which analyzes how income affects voting nationwide. Here’s the conclusion:
 
-> In poor states, poor people vote Democrat and wealthy people vote > Republican. The same is true in a medium-income state, though less so > than in the poor state. In the wealthy state, however, income has very > little effect on voting: both the rich and the poor vote Democrat and > Republican.
+> In poor states, poor people vote Democrat and wealthy people vote > Republican. The same is true in a medium-income state, though less so than in the poor state. In the wealthy state, however, income has very little effect on voting: both the rich and the poor vote Democrat and Republican.
 
 Actually, I noticed this tendency in [exit poll](http://www.cnn.com/ELECTION/2004/pages/results/states/US/P/00/epolls.0.html) data years ago. Cultural issues become salient when basic needs are met I suppose?
 

@@ -11,9 +11,9 @@ Anthropology – science & politics
 
 *The Seattle Times* has a piece titled [Anthropology: the great divide](http://seattletimes.nwsource.com/html/opinion/2003928193_sundayanthro07.html). Here’s the essential bit:
 
-> At the extremes, one school of thought insinuates dark, possibly > racist intentions of scientists under sway of their Eurocentric > biases, linear thinking and arrogance in their dealings with modern > tribes. The other school is dismissive of the slaves to political > correctness and their warm and fuzzy research — or, as one physical > anthropologist smirked to another: “What do you think? Are cultural > anthropologists scientists?”  
+> At the extremes, one school of thought insinuates dark, possibly > racist intentions of scientists under sway of their Eurocentric > biases, linear thinking and arrogance in their dealings with modern > tribes. The other school is dismissive of the slaves to political correctness and their warm and fuzzy research — or, as one physical anthropologist smirked to another: “What do you think? Are cultural anthropologists scientists?”  
 > …  
-> **On one side were cultural and social anthropologists, generally > humanists interested in *interpreting* living cultures. On the other > side were anthropologists who used more traditional scientific methods > to *study* the role of human evolution in culture**.
+> **On one side were cultural and social anthropologists, generally humanists interested in *interpreting* living cultures. On the other side were anthropologists who used more traditional scientific methods to *study* the role of human evolution in culture**.
 
   
 Myself, I can usually talk to physical (biological) anthropologists and make myself understood. Many of these people simply consider themselves biologists who just happen to study humans. Since the focus of this blog tends toward human genetics obviously many of the papers have biological anthropologists on their author lists, and I often link to [John Hawks](http://johnhawks.net/weblog/), a physical anthropologist.  

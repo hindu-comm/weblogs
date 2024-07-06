@@ -21,7 +21,7 @@ Consider the following question posed by Chater & Christiansen (in press): “Su
 
 However, if you happen to be a reader of this site, the overwhelming likelihood is that the continuation of 1, 2, 3 would be: 4, 5, 6… This is an example of C-induction, where the objective is to coordinate your predictions with other learners to produce the same results. But what’s C-induction’s relevance to the acquisition of language? As Chater explains:
 
-> Thus, in language acquisition, children receive partial linguistic > input, and must generalize to many new linguistic structures – but the > standard of correctness is to generalize in the same way as other > learners. To the extent that learners have the same biases and prior > experience, this dramatically simplifies the learning problem, because > their generalizations will typically agree. More generally, language > evolution itself can be viewed as the accretion of successive > generalizations upon which learners converge.
+> Thus, in language acquisition, children receive partial linguistic > input, and must generalize to many new linguistic structures – but the > standard of correctness is to generalize in the same way as other > learners. To the extent that learners have the same biases and prior > experience, this dramatically simplifies the learning problem, because their generalizations will typically agree. More generally, language evolution itself can be viewed as the accretion of successive generalizations upon which learners converge.
 
 **Uncovering Inductive Biases through Cultural Evolution (Griffiths)**
 
@@ -41,13 +41,13 @@ A common theme running through a wide array of these Iterated Learning studies e
 
 These modelling observations are backed up by experiments utilising real human learners. As Kirby notes:
 
-> By placing the artificial language learning paradigm within a cultural > transmission framework, we can observe the evolution of languages in > the laboratory (Kirby, Cornish & Smith, 2008). Results from these > experiments show that linguistic structure does indeed emerge from > initially random systems, and furthermore that this process is > non-intentional. In other words, this cultural process provides > “design without a designer” just as biological evolution does.
+> By placing the artificial language learning paradigm within a cultural > transmission framework, we can observe the evolution of languages in > the laboratory (Kirby, Cornish & Smith, 2008). Results from these > experiments show that linguistic structure does indeed emerge from initially random systems, and furthermore that this process is non-intentional. In other words, this cultural process provides “design without a designer” just as biological evolution does.
 
 **Genetic Constraints on Cultural Evolution of Language (Christiansen)**
 
 Coming full circle and we’re back to what Steven Pinker and Paul Bloom originally discussed: that of the genetic bases underlying language. Whereas previously, language was seen as a highly specified organ, akin to the visual system, new research highlights the importance of domain-general mechanisms in shaping language. The example Christiansen uses is that of sequential learning: here, both sequential learning and language involve “the extraction and further processing of discrete elements occurring in complex temporal sequences”. On the basis of previous simulation work, showing that constraints on sequential learning can shape the trajectory of linguistic structure, a recent molecular genetics study by Tomblin *et al*. (2007) found:
 
-> \[…\] that common allelic variations in the FOXP2 gene are associated > with differences in sequential learning (as measured by a > serial-response time task) and language… \[suggesting\] that FOXP2 > influences systems that are important to the development of both > sequential learning and language, supporting the hypothesis that > language may have been shaped through cultural evolution constrained > by underlying mechanisms for sequential learning.
+> \[…\] that common allelic variations in the FOXP2 gene are associated > with differences in sequential learning (as measured by a > serial-response time task) and language… \[suggesting\] that FOXP2 > influences systems that are important to the development of both sequential learning and language, supporting the hypothesis that language may have been shaped through cultural evolution constrained by underlying mechanisms for sequential learning.
 
 It’s important to note that I’m not necessarily in complete agreement with some of the conclusions coming from this research (a point I’ll pick up in another post). I just wanted to give you an indicator as to the depth of work taking place in examining the cultural evolution of language.
 

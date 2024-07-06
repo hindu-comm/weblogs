@@ -11,8 +11,8 @@ Evolution & monsters
 
 [Darwin Killed Off The Werewolf](http://www.sciencedaily.com/releases/2009/06/090616080135.htm):
 
-> From the late 19th century onwards, stories of werewolf encounters > tailed away significantly, says Regal. “The spread of the idea of > evolution helped kill off the werewolf because a canid-human hybrid > makes no sense from an evolutionary point of view,” he says. “The > ape-human hybrid, however, is not only evolutionarily acceptable, it > is the basis of human evolution.”  
-> Today, in Darwin’s bicentenary year, werewolves have been relegated to > films. When it comes to the actual monster scene, it’s Bigfoot that > now dominates.
+> From the late 19th century onwards, stories of werewolf encounters > tailed away significantly, says Regal. “The spread of the idea of > evolution helped kill off the werewolf because a canid-human hybrid makes no sense from an evolutionary point of view,” he says. “The ape-human hybrid, however, is not only evolutionarily acceptable, it is the basis of human evolution.”  
+> Today, in Darwin’s bicentenary year, werewolves have been relegated to films. When it comes to the actual monster scene, it’s Bigfoot that now dominates.
 
 This is an interesting thesis. In light of the wide variation in acceptance of evolutionary theory it would be interesting to test this model in modern populations. Those which reject evolution should be more open to exotic chimeras than those who do not.
 

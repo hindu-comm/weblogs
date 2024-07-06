@@ -11,8 +11,8 @@ Vedic Creationism
 
 [US author offers ‘Vedic alternative’ to evolution theory](http://www.zeenews.com/znnew/articles.asp?aid=331209&ssid=26&sid=ENV):
 
-> Offering a “Vedic alternative” to Darwin’s Theory of Evolution, an > American author has claimed that human beings devolved from the “realm > of pure consciousness”, as testified by archaeological evidence > discovered over the past 150 years.  
-> “**We did not evolve up from matter**. Instead, we devolved, or came > down, from the realm of pure consciousness, spirit,” author Michael A > Cremo, said, citing many archaeological, psychological and genetic > examples.
+> Offering a “Vedic alternative” to Darwin’s Theory of Evolution, an American author has claimed that human beings devolved from the “realm of pure consciousness”, as testified by archaeological evidence discovered over the past 150 years.  
+> “**We did not evolve up from matter**. Instead, we devolved, or came down, from the realm of pure consciousness, spirit,” author Michael A Cremo, said, citing many archaeological, psychological and genetic examples.
 
 I have stated before that Creationism might be most prominent in American fundamentalist Christianity, but it is not limited to it. The reality is that I suspect that a “Creationist” bent is the default human mode, ready to kick in *sans* science. Note that this “theorist” uses similar talking points to convential Christian Creationists, replace “matter” with “monkeys,” and instead of coming down from a “realm of spirit” we are endowed with souls.
 

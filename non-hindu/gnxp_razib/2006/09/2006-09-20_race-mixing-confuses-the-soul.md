@@ -11,7 +11,7 @@ Race mixing confuses the soul
 
 A [report](http://magazine.uchicago.edu/0610/investigations/problem.shtml) in *The University of Chicago Magazine* details the problems that interracial children have in relation to monoracial children, specifically, violence, drug abuse and disciplinary problems. Ah, but note this:
 
-> Choi has yet to decipher all the factors that exacerbate multiracial > youths’ “bad outcomes,” but racial discrimination is part of the > equation. Kids act out in response to ridicule or ostracism. In junior > high and high school, “some \[racial\] groups are very exclusive. > Other children will push you out if you’re a racial combination.” **In > similar surveys in Hawaii, she notes, multiracial youths did not show > more problems than their monoracial classmates.** “It’s not even an > issue there–so many people come from multiple backgrounds.” In the > U.S. at large, interracial marriages account for 4 percent of the > total; in Hawaii they account for nearly half.
+> Choi has yet to decipher all the factors that exacerbate multiracial > youths’ “bad outcomes,” but racial discrimination is part of the > equation. Kids act out in response to ridicule or ostracism. In junior > high and high school, “some \[racial\] groups are very exclusive. > Other children will push you out if you’re a racial combination.” **In > similar surveys in Hawaii, she notes, multiracial youths did not show > more problems than their monoracial classmates.** “It’s not even an issue there–so many people come from multiple backgrounds.” In the U.S. at large, interracial marriages account for 4 percent of the total; in Hawaii they account for nearly half.
 
 Cultural context matters.
 

@@ -11,7 +11,7 @@ Eugenics as a luxury of the affluent
 
 In the comments below Jason says in regards to the connection between eugenics and genocide and the “slippery slope”:
 
-> **In your current comfortable first world circumstances**, you are > right the slope is perhaps not that slippery. I hope you are never > tested in a less comfortable setting as then I think you might find it > can be pretty slippery after all.
+> **In your current comfortable first world circumstances**, you are right the slope is perhaps not that slippery. I hope you are never tested in a less comfortable setting as then I think you might find it can be pretty slippery after all.
 
 A reference to the interlocutor’s status as a citizen of the comfortable First World (which itself is a somewhat archaic term by now I think) seems *de rigueur* in many arguments. And I think many people will find it plausible that someone in an affluent consumer society would be blind to the “dark side” of eugenics, and how it could lead to genocide. But I think this plausibility is entirely superficial, and collapses upon closer inspection. **Rather, it is I believe in “First World” and advanced nations where the likelihood of the ubiquity of eugenics and possible genocide predicated on systematic eugenics is going to be the most probable outcome.**
 
@@ -26,7 +26,8 @@ All this is not to say that I think that the “end of history” will be toward
 
 ### Related Posts:
 
-- [Friday Fluff - August 19th,
+- [Friday Fluff
+- August 19th,
   2011](https://www.gnxp.com/WordPress/2011/08/19/friday-fluff-august-19th-2011/) - [Eugenics, what's in a
   term?](https://www.gnxp.com/WordPress/2007/07/30/eugenics-what-s-in-a-term/) - [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/) - [Eugenics, the genetics that dare not speak its
   name](https://www.gnxp.com/WordPress/2006/11/27/eugenics-the-genetics-that-dare-not-speak-its-name/) - [Eugenics in The

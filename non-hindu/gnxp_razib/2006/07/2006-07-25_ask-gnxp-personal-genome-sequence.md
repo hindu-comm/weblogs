@@ -11,7 +11,7 @@ Ask GNXP – personal genome sequence
 
 In previous 10 Questions, Razib has asked:
 
-> If you could have your full genome sequenced for \$1000, would you do > it? (assume privacy concerns are obviated)
+> If you could have your full genome sequenced for \$1000, would you do it? (assume privacy concerns are obviated)
 
 By genotyping \~500,000 tag SNPs, it’s actually possible to approximate a full genome sequence for \$1000 using current technologies. So my question(s) is (are): *if you could have your genome “sequenced” (to a good approximation) for \$1000, would you do it? What would you want to know from the data?*
 

@@ -23,7 +23,9 @@ Still gated, but [Chris Stringer: 1,000,000 years of human evolution](https://ra
 
 ### Related Posts:
 
-- [Open Thread - 11/29/2021 - Gene
+- [Open Thread
+- 11/29/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/11/29/open-thread-11-29-2021-gene-expression/) - [Open thread,
   4/21/2013](https://www.gnxp.com/WordPress/2013/04/21/open-thread-4212013/) - [The urban vs. rural baby
   gap](https://www.gnxp.com/WordPress/2009/10/08/the-urban-vs-rural-baby-gap/) - [Open thread,

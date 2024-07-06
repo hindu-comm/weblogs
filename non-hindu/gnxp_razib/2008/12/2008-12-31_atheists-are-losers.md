@@ -11,8 +11,8 @@ Atheists are losers?
 
 So implies [The Audacious Epigone](https://anepigone.blogspot.com/2008/12/religious-denominations-ranked-by.html):
 
-> Mormons are the least likely of the 19 denominations to live alone, > but I suspect among the married, they are among the most likely to > have a single breadwinner household.  
-> Atheists and agnostics, by contrast, come in at the bottom. The low > rates of multiple person households is part of the explanation, but > the high number of lone wolves among their ranks illustrates their > social marginality in another way relative to the cognitive endowments > they enjoy. **This does little to dispel stereotype I hold of atheists > as cynical, single white guys who live in apartments downtown, work at > used record stores, love George Carlin, and watch Adult Swim.**
+> Mormons are the least likely of the 19 denominations to live alone, but I suspect among the married, they are among the most likely to have a single breadwinner household.  
+> Atheists and agnostics, by contrast, come in at the bottom. The low > rates of multiple person households is part of the explanation, but > the high number of lone wolves among their ranks illustrates their > social marginality in another way relative to the cognitive endowments they enjoy. **This does little to dispel stereotype I hold of atheists as cynical, single white guys who live in apartments downtown, work at used record stores, love George Carlin, and watch Adult Swim.**
 
 Also see [Religion, Self-Regulation, and Self-Control: Associations, Explanations,  
 and Implications](http://www.psy.miami.edu/faculty/mmccullough/Papers/Relig_self_control_bulletin.pdf).

@@ -17,7 +17,10 @@ Short of some solar-to-liquid-fuel breakthrough—which I dearly hope can be rea
 
 Obviously there is a battery involved as a power broker, and this battery can be charged (at perhaps 90% efficiency) via:
 
-- on-board internal combustion engine fueled by gasoline or equivalent; - utility electricity; - a fixed solar installation; - on-board solar panels.
+- on-board internal combustion engine fueled by gasoline or equivalent;
+- utility electricity;
+- a fixed solar installation;
+- on-board solar panels.
 
 Only the final two options constitute what I am calling a solar-powered car, ignoring the caveat that hydro, wind, and even fossil fuels are ultimately forms of solar energy. The last item on the list is the dream situation: no reliance on external factors other than weather. This suits the independent American spirit nicely. And clearly it’s possible because there is an annual race across the Australian desert for 100% on-board solar powered cars. Do such successful demonstrations today mean that widespread use of solar cars is just around the corner?
 

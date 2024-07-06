@@ -13,7 +13,8 @@ Post YouTube’s that you think are really interesting to GNXP readers in the co
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Open thread
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Open thread
   7/25/2012](https://www.gnxp.com/WordPress/2012/07/25/open-thread-7252012/) - [From the mouths of
   babes](https://www.gnxp.com/WordPress/2007/06/23/from-the-mouths-of-babes/) - [Shameless
   Plug](https://www.gnxp.com/WordPress/2009/07/01/shameless-plug/) - [Open Thread,

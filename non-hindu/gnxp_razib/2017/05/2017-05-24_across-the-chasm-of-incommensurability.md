@@ -21,12 +21,12 @@ Though in general I do not talk to people from China about politics (let’s kee
 
 Or is it? From the article:
 
-> Another popular comment expressed disappointment in U.S. universities, > suggesting without any apparent **irony** that Yang **should not have > been allowed to make the remarks**. >
-> “Are speeches made there not examined for **evaluation of their > potential impact before being given to the public**?” the commentator > wrote. >
-> “Our motherland has done so much to make us stand up among Western > countries, but what have you done? We have been **working so hard to > eliminate the stereotypes the West has put on us**, but what are you > doing? Don’t let me meet you in the United States; I am afraid I could > not stop myself from going up and smacking you in the face.” >
+> Another popular comment expressed disappointment in U.S. universities, suggesting without any apparent **irony** that Yang **should not have been allowed to make the remarks**. >
+> “Are speeches made there not examined for **evaluation of their potential impact before being given to the public**?” the commentator wrote. >
+> “Our motherland has done so much to make us stand up among Western > countries, but what have you done? We have been **working so hard to eliminate the stereotypes the West has put on us**, but what are you doing? Don’t let me meet you in the United States; I am afraid I could not stop myself from going up and smacking you in the face.” >
 > … >
-> Others were critical not of Yang’s comments **but of the venue** in > which she chose to make them. >
-> “This kid is too naive. **How can you forget the Chinese rule about > how to talk once you get to the United States?** Just lie or make > empty talk instead of telling the truth. Only this will be beneficial > for you in China. Now you cannot come back to China,” @Labixiaoxin > said.
+> Others were critical not of Yang’s comments **but of the venue** in which she chose to make them. >
+> “This kid is too naive. **How can you forget the Chinese rule about > how to talk once you get to the United States?** Just lie or make empty talk instead of telling the truth. Only this will be beneficial for you in China. Now you cannot come back to China,” @Labixiaoxin said.
 
 There is a lot of texture even within this passage. I do wonder if the writers and editors at *The Washington Post* knew the exegetical treasures they were offering up.
 

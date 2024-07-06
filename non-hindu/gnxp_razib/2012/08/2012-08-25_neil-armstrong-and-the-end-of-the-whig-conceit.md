@@ -17,7 +17,8 @@ I wonder. Did Neil Armstrong ever consider when he set foot on the moon that hum
 
 ### Related Posts:
 
-- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/) - [Space, the forgotten
+- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/)
+- [Space, the forgotten
   frontier?](https://www.gnxp.com/WordPress/2008/12/30/space-the-forgotten-frontier/) - [Space, the forgotten
   frontier](https://www.gnxp.com/WordPress/2010/02/12/space-the-forgotten-frontier-2/) - [The prehistory of panmixia and the Holocene
   homogenization](https://www.gnxp.com/WordPress/2017/02/04/the-prehistory-of-panmixia-and-the-holocene-homogenization/) - [History as intellectual

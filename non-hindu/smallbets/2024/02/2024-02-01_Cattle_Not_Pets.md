@@ -175,19 +175,27 @@ Subscribe
 
 🔸 We have an exciting lineup of live guest classes coming up next month. These are all 100% free for all [members](https://www.smallbets.co) of the community:
 
-- Mar 10 - [Nick Wignall](https://twitter.com/ndwignall) - **Making
+- Mar 10
+- [Nick Wignall](https://twitter.com/ndwignall)
+- **Making
   Money on Medium**
 
-- Mar 17 - [Benjamin Carlson](https://twitter.com/bfcarlson) - **How to
+- Mar 17
+- [Benjamin Carlson](https://twitter.com/bfcarlson)
+- **How to
   Get The Attention of Highly Influential People**
 
-- Mar 21 - [Justin Welsh](https://twitter.com/thejustinwelsh) -
+- Mar 21
+- [Justin Welsh](https://twitter.com/thejustinwelsh) -
   **Understanding LinkedIn**
 
-- Mar 23 - [Daniel Vassallo](https://twitter.com/dvassallo) - **Gumroad
+- Mar 23
+- [Daniel Vassallo](https://twitter.com/dvassallo)
+- **Gumroad
   Crash Course**
 
-- Mar 28 - [Catherine Cusick](https://twitter.com/CusickCatherine) -
+- Mar 28
+- [Catherine Cusick](https://twitter.com/CusickCatherine) -
   **What to expect when you go self-employed**
 
 ------------------------------------------------------------------------

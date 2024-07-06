@@ -31,7 +31,8 @@ I don’t believe that trends in real behavior and in popular culture are causal
 
 ### Related Posts:
 
-- [Open Thread - December 4th,
+- [Open Thread
+- December 4th,
   2010](https://www.gnxp.com/WordPress/2010/12/04/open-thread-december-4th-2010/) - [Crime way down. Who exactly knows
   stuff?](https://www.gnxp.com/WordPress/2009/12/21/crime-way-down-who-exactly-knows-stuff/) - [Genes can be
   criminogenic](https://www.gnxp.com/WordPress/2012/06/26/genes-can-be-criminogenic/) - [More porn does not lead to less rape -- or to more

@@ -11,8 +11,8 @@ The biodiversity of human feet
 
 [Native Americans get custom sneaker](http://www.oregonlive.com/business/oregonian/index.ssf?/base/business/119077354650540.xml&coll=7):
 
-> Nike researchers and developers spent two years designing the shoe, > traveling to seven locations to look at the feet of 224 Native > Americans from 70 different tribes. They created a shoe to fit the > average Native American foot, which is wider than the foot the Nike > Air Pegasus running shoe is designed to fit. About 164 members of the > Confederated Tribes of Warm Springs tested prototypes of the shoe > before its release, the company said. >
-> Jeff Piscotta, senior researcher in Nike’s Shoe Research Laboratory, > said company researchers have developed a similar custom-fit shoe > design for Japanese runners, and as part of the run-up to the 2008 > Olympics are researching the feet of Chinese athletes and runners to > produce a better-fitting product.
+> Nike researchers and developers spent two years designing the shoe, > traveling to seven locations to look at the feet of 224 Native > Americans from 70 different tribes. They created a shoe to fit the > average Native American foot, which is wider than the foot the Nike Air Pegasus running shoe is designed to fit. About 164 members of the Confederated Tribes of Warm Springs tested prototypes of the shoe before its release, the company said. >
+> Jeff Piscotta, senior researcher in Nike’s Shoe Research Laboratory, > said company researchers have developed a similar custom-fit shoe design for Japanese runners, and as part of the run-up to the 2008 Olympics are researching the feet of Chinese athletes and runners to produce a better-fitting product.
 
 This is fascinating. The reason these shoes were developed was to encourage physical activity, something that comes more naturally when your feet aren’t aching. Assman has noted before that South Asians might be more flexible than the typical human, which likely results in flatter feet, so this foot’s-eye viewpoint might be pretty practical in tailoring shoes toward populations.
 

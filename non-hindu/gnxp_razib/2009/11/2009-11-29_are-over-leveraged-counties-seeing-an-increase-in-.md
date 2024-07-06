@@ -14,7 +14,7 @@ Since [The New York Times](https://www.gnxp.com/blog/2009/11/grain-dole-of-ameri
 
 I was curious about this part from the [story below](https://www.gnxp.com/blog/2009/11/grain-dole-of-america.php)::
 
-> While use is greatest where poverty runs deep, the growth has been > especially swift in once-prosperous places hit by the housing bust. > There are about 50 small counties and a dozen sizable ones where the > rolls have doubled in the last two years. In another 205 counties, > they have risen by at least two-thirds. These places with soaring > rolls include populous Riverside County, Calif., most of greater > Phoenix and Las Vegas, a ring of affluent Atlanta suburbs, and a > 150-mile stretch of southwest Florida from Bradenton to the > Everglades.
+> While use is greatest where poverty runs deep, the growth has been > especially swift in once-prosperous places hit by the housing bust. > There are about 50 small counties and a dozen sizable ones where the > rolls have doubled in the last two years. In another 205 counties, > they have risen by at least two-thirds. These places with soaring > rolls include populous Riverside County, Calif., most of greater Phoenix and Las Vegas, a ring of affluent Atlanta suburbs, and a 150-mile stretch of southwest Florida from Bradenton to the Everglades.
 
 Thanks to the Census I happen to have 2007 housing value and household income data. Also though it would be interesting to compare with obesity and diabetes rates. Scatterplots & correlations (r) below.
 

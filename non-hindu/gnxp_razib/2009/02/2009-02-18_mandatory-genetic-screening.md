@@ -11,12 +11,12 @@ Mandatory genetic screening?
 
 Parents probably already know this, but this is a surprise to me, [Screening for Rare Genetic Disorders Now Routine in Newborns](http://www.nytimes.com/2009/02/19/health/18screening.html?ref=health):
 
-> **A March of Dimes report released today says all 50 states and the > District of Columbia now *require* newborn screening for 21 or more > so-called core disorders recommended for testing.** These core > disorders, 29 in all, include many rare but potentially disabling or > fatal metabolic disorders. Although all states have rules or laws > requiring the screenings, Pennsylvania and West Virginia have yet to > implement their expanded programs, according to the organization. >
-> The increase represents a big change since 2000, when most states > screened for only four conditions and testing practices varied widely > from state to state, according to March of Dimes officials.
+> **A March of Dimes report released today says all 50 states and the > District of Columbia now *require* newborn screening for 21 or more > so-called core disorders recommended for testing.** These core > disorders, 29 in all, include many rare but potentially disabling or fatal metabolic disorders. Although all states have rules or laws requiring the screenings, Pennsylvania and West Virginia have yet to implement their expanded programs, according to the organization. >
+> The increase represents a big change since 2000, when most states screened for only four conditions and testing practices varied widely from state to state, according to March of Dimes officials.
 
 The article ends on a weird note:
 
-> “She is beautiful, healthy, precocious, 99th percentile height and > weight, just wonderful,” Mr. Swift said. “That test saved her life.”
+> “She is beautiful, healthy, precocious, 99th percentile height and weight, just wonderful,” Mr. Swift said. “That test saved her life.”
 
 Shout out to parents out there, do you really want your baby to be the 99th percentile in weight?
 

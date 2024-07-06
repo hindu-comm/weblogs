@@ -13,7 +13,7 @@ A while ago I posted two notes on R. A. Fisher’s views on population size: Par
 
 In writing that post I could not find any more direct evidence, so I am pleased to have come across a letter from Fisher to C. Tate Regan, dated 7 February 1927, containing the following explicit statement:
 
-> The population number of 10^6 \[1,000,000\] parents in each generation > represents a somewhat small species. I suppose most species lie > between 10^6 and 10^12 \[1,000,000,000,000\], although some, such as > some of the millipedes, certainly exceed the latter figure. The larger > the population the less frequent need mutations be to maintain a given > stock of segregating factors, or in other words, with the same > mutation rates the larger will the variance (when equilibrium is > attained) be. (Bennett, ed., p.255)
+> The population number of 10^6 \[1,000,000\] parents in each generation > represents a somewhat small species. I suppose most species lie > between 10^6 and 10^12 \[1,000,000,000,000\], although some, such as > some of the millipedes, certainly exceed the latter figure. The larger > the population the less frequent need mutations be to maintain a given stock of segregating factors, or in other words, with the same mutation rates the larger will the variance (when equilibrium is attained) be. (Bennett, ed., p.255)
 
 Earlier in the letter Fisher makes it clear that he is thinking about genes that are nearly neutral in their effect, so that variance is maintained by a balance between mutation and drift.
 

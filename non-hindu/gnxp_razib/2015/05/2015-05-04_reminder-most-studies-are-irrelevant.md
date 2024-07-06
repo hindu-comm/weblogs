@@ -19,7 +19,7 @@ Though Kanheman is a great scholar, most people are not going to know about this
 
 Three years on the author of the blog post, and one of the original authors of the paper, have a follow up [publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iRuqUuAAAAAJ&citation_for_view=iRuqUuAAAAAJ:qCpRzq7zkD8C) where they report that **there is no effect at all from the priming with less clear fonts.** The sample size of the original study was 40. The follow up, 7,000 total (they pooled multiple studies). The author of the blog post ends on a down note:
 
-> I expect that the false story as presented by Professor Kahneman and > Malcolm Gladwell will persist for decades. Millions of people have > read these false accounts. The message is simple, powerful, and > important. Thus, even though the message is wrong, I expect it will > have considerable momentum (or meme-mentum to paraphrase Richard > Dawkins).
+> I expect that the false story as presented by Professor Kahneman and > Malcolm Gladwell will persist for decades. Millions of people have > read these false accounts. The message is simple, powerful, and important. Thus, even though the message is wrong, I expect it will have considerable momentum (or meme-mentum to paraphrase Richard Dawkins).
 
 Probably descriptively correct. But you can do something about it. **Be the asshole at the party to point out that the “latest research” your friend has read in the current issue of *The New Yorker* is most likely to be crap, especially if it is *both* counter-intuitive and supports yourgroup’s normative priors.** (yes, I am usually that asshole in real life too)
 

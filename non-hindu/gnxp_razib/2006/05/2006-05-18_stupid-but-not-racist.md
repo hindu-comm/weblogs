@@ -11,7 +11,7 @@ Stupid but not “racist”
 
 Check out [this post](http://scienceblogs.com/dispatches/2006/05/individualism_racism.php) from Ed Brayton on a definition for “cultural racism” from the Seattle Public Schools:
 
-> Examples of these norms include defining white skin tones as nude or > flesh colored, having a **future time orientation, emphasizing > individualism as opposed to a more collective ideology**, defining one > form of English as standard, and identifying only Whites as great > writers or composers.
+> Examples of these norms include defining white skin tones as nude or > flesh colored, having a **future time orientation, emphasizing individualism as opposed to a more collective ideology**, defining one form of English as standard, and identifying only Whites as great writers or composers.
 
 As someone who isn’t “flesh colored” (see picture to your left, you know you got to love the hot chocolate!) and has lived in the Pacific northwest of the United States for over 15 years, I will weigh in here:
 

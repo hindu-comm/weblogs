@@ -11,9 +11,9 @@ Glimpse of the future?
 
 [My Genome, Myself: Seeking Clues in DNA](http://www.nytimes.com/2007/11/17/us/17dna.html?pagewanted=all):
 
-> **For as little as \$1,000 and a saliva sample, customers will be able > to learn what is known so far about how the billions of bits in their > biological code shape who they are.** Three companies have already > announced plans to market such services, one yesterday.  
-> Offered the chance to be among the early testers, I agreed, but not > without reservations. What if I learned I was likely to die young? Or > that I might have passed on a rogue gene to my daughter? And more > pragmatically, what if an insurance company or an employer used such > information against me in the future?  
-> But three weeks later, I was already somewhat addicted to the daily > communion with my genes. (Recurring note to self: was this addiction > genetic?)
+> **For as little as \$1,000 and a saliva sample, customers will be able to learn what is known so far about how the billions of bits in their biological code shape who they are.** Three companies have already announced plans to market such services, one yesterday.  
+> Offered the chance to be among the early testers, I agreed, but not > without reservations. What if I learned I was likely to die young? Or that I might have passed on a rogue gene to my daughter? And more pragmatically, what if an insurance company or an employer used such information against me in the future?  
+> But three weeks later, I was already somewhat addicted to the daily communion with my genes. (Recurring note to self: was this addiction genetic?)
 
 **Update:** Hsien-Hsien Lei [has much more](http://www.eyeondna.com/2007/11/18/get-your-personal-genome-decoded-here/).
 

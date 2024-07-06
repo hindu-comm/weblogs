@@ -18,10 +18,10 @@ Friday Fluff – June 17th, 2011
 
 3\) **Comment of the week**, in response to [“Does heritability of political orientation matter?”](http://blogs.discovermagazine.com/gnxp/2011/06/does-heritability-of-political-orientation-matter/#comment-76379):
 
-> ” This is why heritabilities of being conservative and liberal can > remain the same over time and across cultures, even though > conservative and liberal can mean very different things in different > contexts.”  
-> Possibly, but there’s a physiological basis underlying the > liberal/conservative bias. The latter has been traced to differencies > in dopamine neurotransmitter chemistry which are innate to the > individual:  
+> ” This is why heritabilities of being conservative and liberal can remain the same over time and across cultures, even though conservative and liberal can mean very different things in different contexts.”  
+> Possibly, but there’s a physiological basis underlying the liberal/conservative bias. The latter has been traced to differencies in dopamine neurotransmitter chemistry which are innate to the individual:  
 > http://www.americanthinker.com//blog/2010/11/genetics_and_politics.html  
-> This does not change with external circumstance. Accordingly, Liberals > are feelings-driven and respond to political issues emotionally. They > cherry-pick facts that support their pre-conceived conclusion. > Conservatives are logic-driven, weigh all the facts and reason > sequentially to a conclusion. Liberals cherish security; Conservatives > cherish liberty. All else stems from those values.
+> This does not change with external circumstance. Accordingly, Liberals > are feelings-driven and respond to political issues emotionally. They > cherry-pick facts that support their pre-conceived conclusion. Conservatives are logic-driven, weigh all the facts and reason sequentially to a conclusion. Liberals cherish security; Conservatives cherish liberty. All else stems from those values.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/yeahImDirty.jpg?resize=458%2C800)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/yeahImDirty.jpg?resize=458%2C800)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/yeahImDirty.jpg)

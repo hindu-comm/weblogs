@@ -19,21 +19,21 @@ However, space, time, aether and selves (ātman) are present at all locations in
 
 About aether, to begin with, texts like Jayanta’s Nyāyamañjarī say that it needs to be accepted as a fifth substance in order to justify the diffusion of sound across multiple media. Texts of the Vaiśeṣika school, and of the allied school of Nyāya specify that aether does not occupy all locations, but rather is in contact with each individual atom):
 
-> \[The aether’s\] all-pervasiveness consists in the fact that it is in > contact with each corporal (mūrta) substance.  
+> \[The aether’s\] all-pervasiveness consists in the fact that it is in contact with each corporal (mūrta) substance.  
 > (sarvamūrtadravyasaṃyogitvam vibhutvam (Tarkasaṃgrahadīpikā ad 14).)
 
 This means that aether does not pervade atoms, but is in contact (saṃyoga) with each one of them.
 
 This point is already explicit in the allied school of Nyāya, the Nyāyabhāṣya, and is needed because of the point-sized nature of atoms. If these were pervaded by aether, then they would have parts, and thus not be permanent. These undesired consequences are examined in the following:
 
-> This is impossible, because of the penetration through aether \|\| NS > 4.2.18 \|\| >
-> It is impossible for an atom \[to be\] partless and permanent. Why? > Because of the penetration through ether, that is, because an atom, if > it were permeated, that is \`penetrated’ by aether, within and > outside, then, because of this penetration it would have parts, and > due to having parts it would be impermanent. >
+> This is impossible, because of the penetration through aether \|\| NS 4.2.18 \|\| >
+> It is impossible for an atom \[to be\] partless and permanent. Why? > Because of the penetration through ether, that is, because an atom, if it were permeated, that is \`penetrated’ by aether, within and outside, then, because of this penetration it would have parts, and due to having parts it would be impermanent. >
 > Or, the aether is not all-located} \|\| 4.2.19 \|\| >
-> Alternatively, we don’t accept that. There is no aether within the > atoms and therefore aether ends up not being all-located >
+> Alternatively, we don’t accept that. There is no aether within the atoms and therefore aether ends up not being all-located >
 > (ākāśavyatibhedāt tadanupapattiḥ \|\| 4.2.18 \|\|  
-> tasyāṇor niravayasya nityasyānupapattiḥ. kasmāt. ākāśavyatibhedāt. > antarbahiścāṇur ākāśena samāviṣṭo vyatibhinno vyatibhedāt sāvayavaḥ > sāvayavatvād anitya iti.  
+> tasyāṇor niravayasya nityasyānupapattiḥ. kasmāt. ākāśavyatibhedāt. antarbahiścāṇur ākāśena samāviṣṭo vyatibhinno vyatibhedāt sāvayavaḥ sāvayavatvād anitya iti.  
 > ākāśāsarvagatatvaṃ vā \|\| 4.2.19 \|\|  
-> athaitan neṣyate paramāṇor antar nāsty ākāśam ity asarvagatatvaṃ > prasajyeta iti.)
+> athaitan neṣyate paramāṇor antar nāsty ākāśam ity asarvagatatvaṃ prasajyeta iti.)
 
 Aether is postulated as a substrate of sound (which can move through solids, liquids and air, thus proving that it has neither earth, nor water, nor air as substrate). Thus, it needs to be unitary (multiple aethers would not explain the propagation of sound, sound would stop at the end of the respective aether) and it needs to be present at all locations (for the same reason). More in detail: Only because of the unitary nature of aether is it possible for sound to travel between different loci. Otherwise, one would have to posit some mechanism to explain how the sound encountered in one aether travels to another one. Instead, the simpler solution is to posit that aether is necessarily both single (eka) and present at all locations (vibhu).
 

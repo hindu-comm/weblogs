@@ -11,8 +11,8 @@ We have to the technology; we can rebuild the race!
 
 [Baby to be born free of breast cancer after embryo screening](http://www.timesonline.co.uk/tol/life_and_style/health/article4232383.ece):
 
-> The couple produced 11 embryos, of which five were found to be free > from the gene. **Two of these were implanted in the woman’s womb and > she is now 14 weeks pregnant.**  
-> By screening out embryos carrying the gene, called BRCA-1, the couple, > from London, will eliminate the hereditary disease from their lineage.
+> The couple produced 11 embryos, of which five were found to be free from the gene. **Two of these were implanted in the woman’s womb and she is now 14 weeks pregnant.**  
+> By screening out embryos carrying the gene, called BRCA-1, the couple, from London, will eliminate the hereditary disease from their lineage.
 
 Obviously the headline is hyperbolic in this specific case. Changing probabilities is not necessarily a guarantee. But I think the bigger picture here warrants serious notice. Armand Leroi has outlined the major issues, so I won’t review them again….
 

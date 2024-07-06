@@ -11,7 +11,7 @@ Virus problems with gnxp?
 
 Received this email:
 
-> It appears your website has been compromised. When visiting > https://gnxp.com (as opposed to regular http) Firefox prompted me with > a message that the security certificate for snakeoil.dom has expired. > After some googling I found out it is likely an authentication > certificate for a virus. >
+> It appears your website has been compromised. When visiting > https://gnxp.com (as opposed to regular http) Firefox prompted me with a message that the security certificate for snakeoil.dom has expired. After some googling I found out it is likely an authentication certificate for a virus. >
 > [http://journals.aol.com/cutefacedblonde/snakeoil.dom–snakeoil.com/](http://journals.aol.com/cutefacedblonde/snakeoil.dom--snakeoil.com/)
 
 I didn’t have the same problem. I’m in a hurry, but I assume this is a client side issue? There isn’t an SSL certificate for this website.

@@ -15,10 +15,10 @@ I grew up as part of a generation that was taught about HIV-AIDS in a very apoca
 
 So I noticed today that on March 16th, Fumento published [Panic Never Helped Any Pandemic And Won’t Start Now](https://issuesinsights.com/2020/03/16/panic-never-helped-any-pandemic-and-wont-start-now/):
 
-> COVID-19 is just the latest, albeit the most extreme, in a long series > of epidemic hysterias I have covered going back to the “heterosexual > AIDS explosion” (“Now No One is Safe from AIDS”) of the 1980s, avian > flu, Ebola I and Ebola II, the Zika virus and others. They are known > scientifically as “mass psychogenic illness,” and even more > specifically as “moral panic” – the same type of hysteria that led to > centuries of witch hunts. >
-> Thus I was writing such articles as “Hysteria, Thy Name Is SARS” in > 2003 while highly respected journals such as the New Scientist were > screaming “SARS Could Eventually Kill Millions.” It ultimately killed > only 774, and zero Americans, before simply disappearing in a hot > July. >
+> COVID-19 is just the latest, albeit the most extreme, in a long series > of epidemic hysterias I have covered going back to the “heterosexual > AIDS explosion” (“Now No One is Safe from AIDS”) of the 1980s, avian > flu, Ebola I and Ebola II, the Zika virus and others. They are known scientifically as “mass psychogenic illness,” and even more specifically as “moral panic” – the same type of hysteria that led to centuries of witch hunts. >
+> Thus I was writing such articles as “Hysteria, Thy Name Is SARS” in > 2003 while highly respected journals such as the New Scientist were screaming “SARS Could Eventually Kill Millions.” It ultimately killed only 774, and zero Americans, before simply disappearing in a hot July. >
 > … >
-> Yes, identified cases are still going up (albeit at a slower rate than > before, per Farr’s Law), but that may just be an artifact. Indeed, > it’s possible the epidemic is coming close to a worldwide plateau – in > real terms, at least. The hint is in the category of “serious and > critical cases.” It peaked in late February, with a steady decline to > less than half that number. This in and of itself good news, of > course. But why?
+> Yes, identified cases are still going up (albeit at a slower rate than > before, per Farr’s Law), but that may just be an artifact. Indeed, > it’s possible the epidemic is coming close to a worldwide plateau – in > real terms, at least. The hint is in the category of “serious and critical cases.” It peaked in late February, with a steady decline to less than half that number. This in and of itself good news, of course. But why?
 
 This time Fumento’s prediction was wrong:
 

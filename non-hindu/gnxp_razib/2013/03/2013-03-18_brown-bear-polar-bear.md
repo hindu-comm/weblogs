@@ -22,7 +22,7 @@ The peculiar result is that a few years ago some researchers began to report tha
 
 Look at the timeline above. **If it’s right then polar bears are a very recently derived lineage out of the genetic background of brown bears**. But there’s a problem. The nuclear DNA, which is most of the DNA, [tell a different story](http://www.sciencemag.org/content/336/6079/344.short). You can follow all the gory details on the [Wikipedia page](https://en.wikipedia.org/wiki/Polar_bear#Taxonomy_and_evolution). Let’s get to the author summary of the *PLOS* paper:
 
-> The evolutionary genetic relationship between polar bears (Ursus > maritimus) and brown bears (U. arctos) is a subject of continuing > controversy. To address this we generated genome-wide sequence data > for seven polar bears, two brown bears (including one from the > enigmatic ABC Islands population), and a black bear (U. americanus). > These data reveal remarkable genetic homogeneity within polar bears > and clear evidence of past hybridization with brown bears. > Hybridization, however, appears to be limited to habitat islands, > **where isolated populations of polar bears are gradually converted > into brown bears via male-mediated dispersal and sex-biased gene > flow.** Our simplified and comprehensive model for the origin and > evolution of polar bears resolves conflicting interpretations of > mitochondrial and nuclear genetic data, and highlights the potential > effect of natural climate change on long-term evolutionary processes.
+> The evolutionary genetic relationship between polar bears (Ursus > maritimus) and brown bears (U. arctos) is a subject of continuing > controversy. To address this we generated genome-wide sequence data > for seven polar bears, two brown bears (including one from the > enigmatic ABC Islands population), and a black bear (U. americanus). > These data reveal remarkable genetic homogeneity within polar bears > and clear evidence of past hybridization with brown bears. > Hybridization, however, appears to be limited to habitat islands, > **where isolated populations of polar bears are gradually converted > into brown bears via male-mediated dispersal and sex-biased gene > flow.** Our simplified and comprehensive model for the origin and evolution of polar bears resolves conflicting interpretations of mitochondrial and nuclear genetic data, and highlights the potential effect of natural climate change on long-term evolutionary processes.
 
 
 
@@ -38,7 +38,8 @@ When it comes to charismatic fauna and their natural history I often imagine a*d
 
 ### Related Posts:
 
-- [Pizzly shot](https://www.gnxp.com/WordPress/2008/05/26/pizzly-shot/) - [Woman attacked by polar bear (live
+- [Pizzly shot](https://www.gnxp.com/WordPress/2008/05/26/pizzly-shot/)
+- [Woman attacked by polar bear (live
   footage)](https://www.gnxp.com/WordPress/2009/04/12/woman-attacked-by-polar-bear-live-footage/) - [Polar bear woman was
   suicidal](https://www.gnxp.com/WordPress/2009/04/14/polar-bear-woman-was-suicidal/) - [Of Polar Bears &
   People](https://www.gnxp.com/WordPress/2010/03/01/of-polar-bears-people/) - [Example of an

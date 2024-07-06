@@ -12,8 +12,8 @@ Shakira mummy
 Does anyone know the backstory to the [child mummy](https://youtube.com/watch?v=8gUtHxtkfqQ&search=shakira) in this Shakira video?  
 **Update:** A reader emails:
 
-> It’s just a child with a mask, as sort of reference to the carnival > in  
-> barranquilla (<http://www.carnavaldebarranquilla.com/>), where she > is  
+> It’s just a child with a mask, as sort of reference to the carnival in  
+> barranquilla (<http://www.carnavaldebarranquilla.com/>), where she is  
 > from in Colombia. The video is full of references to colombia. >
 > Julian  
 > [http://adaptare.blogspot.com](https://adaptare.blogspot.com)

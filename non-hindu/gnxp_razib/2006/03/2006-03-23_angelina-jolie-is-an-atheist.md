@@ -17,7 +17,7 @@ Another materialist young female celebrity below the fold….
 ![portman.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2006/03/portman.jpg?resize=400%2C285)![portman.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2006/03/portman.jpg?resize=400%2C285)  
 [Quote](http://revart.blogs.com/photos/rev_arts_atheist_pinups/atheist_natalie_portman.html):
 
-> Of her religion, Portman says, “I’m much more like the product of a > doctor than I am a Jew.” She is uncomfortable about the concept of the > afterlife. “I don’t believe in that. I believe this is it, and I > believe it’s the best way to live.”
+> Of her religion, Portman says, “I’m much more like the product of a doctor than I am a Jew.” She is uncomfortable about the concept of the afterlife. “I don’t believe in that. I believe this is it, and I believe it’s the best way to live.”
 
 ### Related Posts:
 

@@ -11,11 +11,11 @@ Logical consistency is irreligious
 
 Jason says [in a post](http://scienceblogs.com/evolutionblog/2006/07/ruse_on_religion.php) which addresses the religion & science issue:
 
-> …**Either** the Bible is the holy and inerrant word of God, or it is > an ancient document written by people with no more claim to authority > than any other document that has survived from that time. It’s hard to > find **a logically consistent middle ground**.
+> …**Either** the Bible is the holy and inerrant word of God, or it is an ancient document written by people with no more claim to authority than any other document that has survived from that time. It’s hard to find **a logically consistent middle ground**.
 
 I regularly made this argument until a few years ago. It generally remains my own personal view, though my estimation of the likelihood of the first possibility is so low that I don’t know if it is judgement that is worth making when social considerations are removed. I stopped making the argument Jason is pointing to when I read this:
 
-> …**disconforming evidence only seems to make believers try harder to > understand the deeper truth** and to strengthen religious beliefs. For > example, after reading a bogus article on a new finding from the Dead > Sea Scrolls that seemed to contradict Christian doctrine, religious > believers who also believed the story reported their religious beliefs > reinforced.
+> …**disconforming evidence only seems to make believers try harder to > understand the deeper truth** and to strengthen religious beliefs. For > example, after reading a bogus article on a new finding from the Dead Sea Scrolls that seemed to contradict Christian doctrine, religious believers who also believed the story reported their religious beliefs reinforced.
 
   
 ([In Gods we Trust](https://www.amazon.com/exec/obidos/ASIN/0195149300/geneexpressio-20/), page 92)  

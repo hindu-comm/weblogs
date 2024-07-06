@@ -19,11 +19,11 @@ Freedom of thought as a perpetual revolution
 
 To explore some of the demographic correlates of classical liberalism I utilized the [General Social Survey](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss16). As instruments to assess liberal attitudes toward free speech and thought I focused on two variables,SPKMSLM and SPKLRAC. For the first variable respondents were asked:
 
-> Now consider a Muslim clergyman who preaches hatred of the United > States. If such a person wanted to make a speech in your community > preaching hatred of the United States, should he be allowed to speak, > or not?
+> Now consider a Muslim clergyman who preaches hatred of the United States. If such a person wanted to make a speech in your community preaching hatred of the United States, should he be allowed to speak, or not?
 
 For the second:
 
-> Or consider a person who believes that Blacks are genetically > inferior. a. If such a person wanted to make a speech in your > community claiming that Blacks are inferior, should he be allowed to > speak, or not?
+> Or consider a person who believes that Blacks are genetically inferior. a. If such a person wanted to make a speech in your community claiming that Blacks are inferior, should he be allowed to speak, or not?
 
 I assess the pro-free speech position by inspecting the **subset who accept that *both* groups should be allowed to speak, and those who reject that *either* group should be allowed to speak.** That is, these are people consistent in their attitudes when it comes to speech which conflicts with community norms.
 

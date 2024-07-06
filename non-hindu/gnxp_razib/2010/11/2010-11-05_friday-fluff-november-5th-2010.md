@@ -17,7 +17,7 @@ Friday Fluff – November 5th, 2010
 
 3\. **Comment of the week**, in response to [We live in utopia – part n](http://blogs.discovermagazine.com/gnxp/2010/11/we-live-in-utopia-part-n/#comment-48972):
 
-> I thank Dave @8 for the name of Lewis Kay; I’m almost entirely > innocent of television, even in its YouTube incarnation, and I > wondered. Yes, he’s brilliant, especially the incidental pantomime. > And just to show exactly how far my ignorance extends, who’s the guy > he’s talking to?
+> I thank Dave @8 for the name of Lewis Kay; I’m almost entirely > innocent of television, even in its YouTube incarnation, and I wondered. Yes, he’s brilliant, especially the incidental pantomime. And just to show exactly how far my ignorance extends, who’s the guy he’s talking to?
 
 4\) If you’re a liberal, how do you feel after the elections? Are you angry at Barack Hussein Obama? As a not too politically engaged person, at least in a conventional sense, I’m always a touch interested in the extreme reactions after losses/wins.
 

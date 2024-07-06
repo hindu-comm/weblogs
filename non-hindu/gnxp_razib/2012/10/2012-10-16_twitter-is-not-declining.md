@@ -11,7 +11,7 @@ Twitter is not declining
 
 [The Decline and Fall of Twitter?](http://www.theamericanconservative.com/jacobs/the-decline-and-fall-of-twitter/):
 
-> Even Twitter? Can Twitter be declining? Over at the Atlantic‘s > Technology Channel I note that my own Twitter conversations are not > quite as dynamic as they once were, and speculate about why that might > be. I didn’t say this in the post, but I wonder whether it might have > something to do with people who enjoy online conversations also > enjoying new tools and toys: perhaps we get tired of Twitter not > because it has a deficiency, but just because it’s been around a > while. I’m not suggesting this in lieu of the explanations I offer > there, but in addition to them.
+> Even Twitter? Can Twitter be declining? Over at the Atlantic‘s > Technology Channel I note that my own Twitter conversations are not > quite as dynamic as they once were, and speculate about why that might > be. I didn’t say this in the post, but I wonder whether it might have > something to do with people who enjoy online conversations also > enjoying new tools and toys: perhaps we get tired of Twitter not because it has a deficiency, but just because it’s been around a while. I’m not suggesting this in lieu of the explanations I offer there, but in addition to them.
 
 I think this is an artifact of the fact that Alan Jacobs seems to have been a very early Twitter adopter. Here’s Google Trends for the USA for searches for Twitter:
 

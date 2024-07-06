@@ -11,7 +11,7 @@ Ancient and Recent Positive Selection Transformed Opioid cis-Regulation in Human
 
 [Ancient and Recent Positive Selection Transformed Opioid *cis*-Regulation in Humans](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0030387#JOURNAL-PBIO-0030387-G001):
 
-> …In addition, the pattern of linked nucleotide and microsatellite > variation among and within modern human populations suggests that > recent selection, subsequent to the fixation of the human-specific > mutations and the peopling of the globe, has favored different > prodynorphin cis-regulatory alleles in different parts of the world.
+> …In addition, the pattern of linked nucleotide and microsatellite > variation among and within modern human populations suggests that recent selection, subsequent to the fixation of the human-specific mutations and the peopling of the globe, has favored different prodynorphin cis-regulatory alleles in different parts of the world.
 
 John Hawks has [detailed commentary](http://johnhawks.net/weblog/reviews/genetics/brain/pdyn_evolution_2005.html). Some info on [cis and trans regulation](http://cats.med.uvm.edu/cats_teachingmod/microbiology/courses/gene_regulation/euk_regulation/4.2.GRG.HUB.DNAELEM.HTML).
 

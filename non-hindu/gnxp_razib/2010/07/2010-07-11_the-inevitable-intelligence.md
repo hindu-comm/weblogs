@@ -11,9 +11,9 @@ The inevitable intelligence
 
 I think about [Luke Jostin’s](http://www.genetic-inference.co.uk/blog/?p=871) analysis of the growth in cranial capacity in the hominin lineage from last spring a fair amount. In particular, in the comments he [notes](http://www.genetic-inference.co.uk/blog/?p=871&cpage=1#comment-3097):
 
-> The data above includes all known Homo skulls, but none of the results > change if you exclude the 24 Neandertals. **In fact, you see the same > results if you exclude Sapiens but keep Neandertals; the trends are > pan-Homo, and aren’t confined to a specific lineage** (though if you > exclude Erectus everything goes skewiff, as you’d expect). >
-> That brain size increases gradually in all lineages is another pretty > strong argument against brain size being a macromutation. >
-> I’ve put the species in the data file, if you want to play around with > it yourself.
+> The data above includes all known Homo skulls, but none of the results > change if you exclude the 24 Neandertals. **In fact, you see the same results if you exclude Sapiens but keep Neandertals; the trends are pan-Homo, and aren’t confined to a specific lineage** (though if you exclude Erectus everything goes skewiff, as you’d expect). >
+> That brain size increases gradually in all lineages is another pretty strong argument against brain size being a macromutation. >
+> I’ve put the species in the data file, if you want to play around with it yourself.
 
 A particular configuration of traits or genes aligned early on in the existence of *Homo* seem to have resulted in increases in cranial capacities across divergent lineages. Robert J. Sawyer’s [The Neanderthal Parallax](https://en.wikipedia.org/wiki/Neanderthal_Parallax) series may be less fantastical in its premise than we would have thought.
 

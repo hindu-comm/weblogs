@@ -13,7 +13,7 @@ American is more secular than it was a generation ago
 
 The authors of the op-ed assert:
 
-> Data from five recent U.S. population surveys point to the vibrancy, > ubiquity and growth of religion in the U.S. Americans are becoming > more religious, and religious institutions are thriving. Consistent > with some previous studies but contrary to widely held assumptions, > many people who report no religious affiliation—and even many > self-identified atheists and agnostics—exhibit substantial levels of > religious practice and belief.
+> Data from five recent U.S. population surveys point to the vibrancy, > ubiquity and growth of religion in the U.S. Americans are becoming > more religious, and religious institutions are thriving. Consistent > with some previous studies but contrary to widely held assumptions, many people who report no religious affiliation—and even many self-identified atheists and agnostics—exhibit substantial levels of religious practice and belief.
 
 The evidence is mostly sophistry. It is probably true that there are more small churches as the big churches collapse, but a lot of small churches may still mean fewer religious people than a few big churches.
 

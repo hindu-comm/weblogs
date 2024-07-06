@@ -16,7 +16,7 @@ Over at [Reason](http://reason.com/archives/2010/12/13/ill-show-you-my-genome-wi
 
 – Second, he repeats the argument that genomic screening might make insurance unfeasible:
 
-> In 2008 Karen Pollitz, director of Georgetown University’s Health > Policy Institute, wrote in the journal Managed Care, “Much of life’s > uncertainty about health will become much more known to us, and since > insurance is all about protecting people from the unknown, that will > be a profound change.” So profound that Pollitz thinks it could > ultimately make the insurance industry obsolete….
+> In 2008 Karen Pollitz, director of Georgetown University’s Health > Policy Institute, wrote in the journal Managed Care, “Much of life’s > uncertainty about health will become much more known to us, and since insurance is all about protecting people from the unknown, that will be a profound change.” So profound that Pollitz thinks it could ultimately make the insurance industry obsolete….
 
 Unlikely. There’s still a fair amount of randomness in health outcomes. This is probably a function of the stochasticity of development and environment. I think people need to stop repeating this argument (which I found plausible until I thought about it more deeply).
 

@@ -11,10 +11,10 @@ Villages 400,000 years ago?
 
 Strange. [Rise of man theory ‘out by 400,000 years’](http://www.timesonline.co.uk/tol/news/world/europe/article1980396.ece). I’m skeptical, not that I know anything in detail about palaeanthropology aside from books and a few advanced courses. In any case:
 
-> Our earliest ancestors gave up hunter-gathering and took to a settled > life up to 400,000 years earlier than previously thought, according to > controversial research.  
+> Our earliest ancestors gave up hunter-gathering and took to a settled life up to 400,000 years earlier than previously thought, according to controversial research.  
 > …  
-> Professor Ziegert claims that the thousands of blades, scrapers, hand > axes and other tools found at sites such as Budrinna, on the shore of > the extinct Lake Fezzan in southwest Libya, and at Melka Konture, > along the River Awash in Ethiopia, provide evidence of organised > societies.  
-> He believes that such sites show small communities of **40 or 50 > people**, with abundant water resources to exploit for constant > harvests.
+> Professor Ziegert claims that the thousands of blades, scrapers, hand > axes and other tools found at sites such as Budrinna, on the shore of the extinct Lake Fezzan in southwest Libya, and at Melka Konture, along the River Awash in Ethiopia, provide evidence of organised societies.  
+> He believes that such sites show small communities of **40 or 50 people**, with abundant water resources to exploit for constant harvests.
 
 It seems that if there are 40 or 50 erectines is the sort of community that would need the social intelligence that Robin Dunbar describes in [Grooming, Gossip, and the Evolution of Language](https://www.amazon.com/exec/obidos/ASIN/0674363361/geneexpressio-20). Dunbar outlined the general phenotypic parameters of the characteristics of social intelligence (e.g., the outer bound of the number of genuine friends and acquaintances humans can juggle in their mind, on the order of 100 individuals). His work was done before the post-genomic era, so now that we are exploring the genes that code for these methods we may eventually be able to test the plausibility of these paleontological conjectures.
 

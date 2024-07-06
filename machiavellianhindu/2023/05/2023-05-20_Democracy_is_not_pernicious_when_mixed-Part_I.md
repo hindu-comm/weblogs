@@ -133,7 +133,7 @@ The second consideration shall be of the notion that in the popular government, 
 
 On this, the opinion of Machiavelli is pertinent:
 
-> So great is the ambition of the great that it soon brings to ruin a > city, if it is not beaten down by various ways and modes. >
+> So great is the ambition of the great that it soon brings to ruin a city, if it is not beaten down by various ways and modes. >
 > -Niccolò Machiavelli, Discourses on Livy
 
 Now considering this point, we may say that a populace which abandons its direct involvement in the matters of the state, will soon be enslaved by those who involve themselves in the state.
@@ -158,7 +158,7 @@ To this, we have words of Mahabharata which detail that the king's privy council
 
 And lest someone say that martial temperaments are not to be found except in a few people, may these words of Machiavelli be enough:
 
-> Nature creates few men brave, industry and training makes many. > Discipline in war counts more than fury. >
+> Nature creates few men brave, industry and training makes many. Discipline in war counts more than fury. >
 > -Niccolò Machiavelli, the Art of War
 
 From this, one can see that education in war is all that counts, and it is enough to create men who will defend the fatherland.
@@ -203,7 +203,7 @@ From this, it may be inferred that birth etc, which have only an approximate rel
 
 And finally, from Aristotle, we understand another thing:
 
-> "Kingships no longer arise today, but when they do, they are tyrannies > or master rule. This is because kingship is rule by consent as well as > sovereignty over more important affairs. But no one is so outstanding > as to fit the grandeur and greatness of kingship, and people of equal > quality are numerous. For this reason men do not consent to being > ruled under the kingly name, and if someone ends up acquiring kingly > power by force or fraud, it is regarded as a tyranny. Another cause of > downfall concerns hereditary monarchies: Those who inherit it are > often despicable, and though they possess kingly power, not tyrannical > power, they end up ill treating others. The overthrow of kingship then > is easy. When people no longer wish to him to be king, he is no more > one, but a tyrant remains a tyrant even though people do not want him. > For these reasons and others like them, monarchies suffer destruction. >
+> "Kingships no longer arise today, but when they do, they are tyrannies > or master rule. This is because kingship is rule by consent as well as > sovereignty over more important affairs. But no one is so outstanding > as to fit the grandeur and greatness of kingship, and people of equal > quality are numerous. For this reason men do not consent to being > ruled under the kingly name, and if someone ends up acquiring kingly > power by force or fraud, it is regarded as a tyranny. Another cause of > downfall concerns hereditary monarchies: Those who inherit it are > often despicable, and though they possess kingly power, not tyrannical > power, they end up ill treating others. The overthrow of kingship then is easy. When people no longer wish to him to be king, he is no more one, but a tyrant remains a tyrant even though people do not want him. For these reasons and others like them, monarchies suffer destruction. >
 > Aristotle's Politics, Book V, chapter X
 
 If someone may still say that a king has more wisdom, let him be shown the example of the Tarquins, who were about to corrupt Rome, with their excesses, and the seizing of Lucretia, until Brutus drove them out, having sworn to no longer have kings in Rome, and of the French who drove out all kingships between the death of Louis XVI and Napoleon III, to finally establish a stable Republic, though the soundness of it may be questionable.

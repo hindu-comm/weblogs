@@ -11,9 +11,9 @@ Norwegian Camel Herders
 
 Norway, spotting an empty market niche, has decided to import 20 camels so that Norway’s Somalian community can develop a market for [sub-zero camel herds:](http://news.bbc.co.uk/2/hi/europe/4616236.stm)
 
-> “Then we found out that many of the refugees here have nomadic > backgrounds, and know a lot about camel farming. So we want to import > camels, and employ the refugees so that they can use the skills they > already have.” >
-> **Ms Stenseth argued a camel farm could help integrate the refugees, > and give them self-respect and pride through working with something > they excel at.** >
-> She and her colleagues have applied for government money to explore > the possibility of importing some 20 camels, which could provide > produce like milk, fur, hides and meat.
+> “Then we found out that many of the refugees here have nomadic backgrounds, and know a lot about camel farming. So we want to import camels, and employ the refugees so that they can use the skills they already have.” >
+> **Ms Stenseth argued a camel farm could help integrate the refugees, and give them self-respect and pride through working with something they excel at.** >
+> She and her colleagues have applied for government money to explore the possibility of importing some 20 camels, which could provide produce like milk, fur, hides and meat.
 
 Ms. Stenseth, with her talk of self-respect and pride sure sounds like she graduated from a School of Education, doesn’t she? Perhaps a little business training would have led her to first determine the size of the market for Camel milk, Camel fur, Camel hides and Camel meat, within Norway, or if she was particularly ambitious, she could have explored the export market for Scandavian Camel delicacies.
 

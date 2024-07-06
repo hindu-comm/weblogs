@@ -25,7 +25,7 @@ The figure above from the first preprint shows that the proportion of mutations 
 
 The plot to the left shows that mutations increase across age with species (though the number of data points is pretty small). The authors contend that:
 
-> The **association between mutation rates and reproductive longevity** > implies that changes in life history traits rather than changes to the > mutational machinery are responsible for the evolution of these rates. > Species that have evolved greater reproductive longevity will have a > higher mutation rate per generation without any underlying change to > the replication, repair, or proofreading proteins.
+> The **association between mutation rates and reproductive longevity** > implies that changes in life history traits rather than changes to the > mutational machinery are responsible for the evolution of these rates. Species that have evolved greater reproductive longevity will have a higher mutation rate per generation without any underlying change to the replication, repair, or proofreading proteins.
 
 If I read this right: **owl monkeys reproduce fast and don’t have as much reproductive longevity.** Ergo, lower mutation rates (less mutational build-up from paternal side).
 

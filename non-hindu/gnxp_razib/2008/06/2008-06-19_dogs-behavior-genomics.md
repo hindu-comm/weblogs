@@ -11,7 +11,7 @@ Dogs, behavior & genomics
 
 A reader pointed me to this paper, [Single-Nucleotide-Polymorphism-Based Association Mapping of Dog Stereotypes](http://www.genetics.org/cgi/content/abstract/179/2/1033):
 
-> …Analysis of other morphological stereotypes, also under extreme > selection, identified many additional significant loci. Less > well-documented data for behavioral stereotypes tentatively identified > loci for herding, pointing, boldness, and trainability. Four > significant loci were identified for longevity, a breed characteristic > not under direct selection, but inversely correlated with breed size. > The strengths and limitations of the approach are discussed as well as > its potential to identify loci regulating the within-breed incidence > of specific polygenic diseases.
+> …Analysis of other morphological stereotypes, also under extreme > selection, identified many additional significant loci. Less > well-documented data for behavioral stereotypes tentatively identified > loci for herding, pointing, boldness, and trainability. Four > significant loci were identified for longevity, a breed characteristic > not under direct selection, but inversely correlated with breed size. The strengths and limitations of the approach are discussed as well as its potential to identify loci regulating the within-breed incidence of specific polygenic diseases.
 
 I’ve placed an important table below the fold.
 

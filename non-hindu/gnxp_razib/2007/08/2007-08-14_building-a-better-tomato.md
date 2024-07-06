@@ -11,7 +11,7 @@ Building a better tomato
 
 Let’s hope [these guys](http://www.nature.com/nbt/journal/v25/n8/abs/nbt1312.html) come up with a better name than [Flavr Savr](https://en.wikipedia.org/wiki/Flavr_Savr).
 
-> We have modified the flavor and aroma of tomatoes by expressing the > *Ocimum basilicum* geraniol synthase gene under the control of the > tomato ripening-specific polygalacturonase promoter. A majority of > untrained taste panelists preferred the transgenic fruits over > controls. Monoterpene accumulation was at the expense of reduced > lycopene accumulation. Similar approaches may be applicable for > carotenoid-accumulating fruits and flowers of other species.
+> We have modified the flavor and aroma of tomatoes by expressing the > *Ocimum basilicum* geraniol synthase gene under the control of the > tomato ripening-specific polygalacturonase promoter. A majority of > untrained taste panelists preferred the transgenic fruits over controls. Monoterpene accumulation was at the expense of reduced lycopene accumulation. Similar approaches may be applicable for carotenoid-accumulating fruits and flowers of other species.
 
 ### Related Posts:
 

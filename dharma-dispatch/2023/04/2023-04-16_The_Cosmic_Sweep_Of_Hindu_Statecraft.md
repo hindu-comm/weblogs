@@ -69,7 +69,7 @@ THIS BACKDROP IS ESSENTIAL for a standalone study and assessment of Sanatana pol
 
 For a start, we can’t find a more illustrious sage than D.V. Gundappa who drank deeply from the profound fount of the founding ideals of Sanatana ethos of whose infinite bounty polity was just one of the outward expressions. His treasure-trove of writing repeatedly invokes the *Ashwamedha Yaga* portion of the *Taittiriya Brahmana* of the Yajur Veda, which he correctly calls as the National Anthem of the Rishis.
 
-> Let us be bestowed with auspiciousness, safety, security, and > abundance. Through this Yagna, may the citizens be blessed with unity > and peace.
+> Let us be bestowed with auspiciousness, safety, security, and abundance. Through this Yagna, may the citizens be blessed with unity and peace.
 
 And DVG was our contemporary colossus (he passed away in 1975). The fact that he regarded this Vedic hymn as one of his primary political ideals in the 20th century is Proof \#97348937479324732932 of the aforementioned sturdy endurance. Neither does he stop at that. Even as Nawab Nehru was thundering his fatuous nonsense at midnight in Delhi about an alleged tryst, in faraway Basavanagudi in Bangalore, DVG penned an inspirational, moving poem in the quietude of his room: alone, elated but anxious for the future of an “independent” India.
 
@@ -79,7 +79,7 @@ In the Sanatana annals, polity and statecraft in both theory and practice is fam
 
 According to the Sanatana tradition, Saraswati Devi gave *Danda Niti* to this world, which is quite befitting when we think about it.
 
-> Keshava \[Vishnu\] armed with an enormous Sula \[spear\], created his > own self into a form of chastisement. From that form, having > Righteousness for its legs, the goddess Saraswati created Danda-niti > (Science of Chastisement) which very soon became celebrated over the > world… Chastisement should be inflicted with discrimination, guided by > righteousness and not by caprice. It is intended for restraining the > wicked. Fines and forfeitures are intended for striking alarm, and not > for filling the king's treasury. (*Mahabharata: Shanti Parva: Section > 122)*
+> Keshava \[Vishnu\] armed with an enormous Sula \[spear\], created his > own self into a form of chastisement. From that form, having > Righteousness for its legs, the goddess Saraswati created Danda-niti > (Science of Chastisement) which very soon became celebrated over the > world… Chastisement should be inflicted with discrimination, guided by > righteousness and not by caprice. It is intended for restraining the wicked. Fines and forfeitures are intended for striking alarm, and not for filling the king's treasury. (*Mahabharata: Shanti Parva: Section 122)*
 
 The primary goal and function of *Danda Niti* is that it should act as the “support of the world” by establishing order and checking and punishing evil. The Raja or king is the upholder of *Danda Niti.* It is his primary Dharma.
 

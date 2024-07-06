@@ -155,7 +155,7 @@ But to be fair, even in our own time, some traditional institutions and committe
 
 The volume is a national treasure and must be celebrated as such. Without being bogged down by melancholy-inducing nostalgia, we can pay it tribute by imbibing the spirit ensconced in DVG’s own words about the book: 
 
-> "*If there exist some people in today’s civilised era who can detect > good taste in the stories of even such Vedic traditionalists, this > volume of pen pictures is meant for them."*
+> "*If there exist some people in today’s civilised era who can detect good taste in the stories of even such Vedic traditionalists, this volume of pen pictures is meant for them."*
 
 ------------------------------------------------------------------------
 

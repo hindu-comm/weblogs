@@ -44,15 +44,15 @@ I suspect something like that is true based on adolescent sex behavior data [tha
 
 [A statement](http://www.thenationalcampaign.org/resources/birthdata/analysis.aspx) by the National Campaign to Prevent Teen and Unplanned Pregnancy hopes for the worst about these YRBS data:
 
-> For teens in school, YRBS data for 2005 and 2007 reflected small > increases in sexual activity and decreases in contraceptive use that > were not statistically significant, but the changes are likely large > enough to account for the 3% increase in the teen birth rate (and > likely a similar increase in the teen pregnancy rate) between 2005 and > 2006.
+> For teens in school, YRBS data for 2005 and 2007 reflected small > increases in sexual activity and decreases in contraceptive use that > were not statistically significant, but the changes are likely large enough to account for the 3% increase in the teen birth rate (and likely a similar increase in the teen pregnancy rate) between 2005 and 2006.
 
 The part that I’ve boldfaced is mostly a lie. If you look at the YRBS data in the link above, there is an apparent but non-significant increase of 1.0% in the percent who have had sex, from 2005 to 2007. However, there was also an apparent increase of 1.1% from 2001 to 2003, and of 1.5% from 1997 to 1999 — greater than the most recent apparent increase, yet which resulted in no uptick in teen births. As for percent who are currently sexually active, there is an apparent but non-significant increase of 1.1% from 2005 to 2007 — but there were similar increases from 2001 to 2003 (up 0.9%) and 1997 to 1999 (up 1.5%). The same is true for percent who use birth control pills. Only the percent who used a condom the last time they had sex shows an apparent and non-significant decrease that isn’t matched by similar apparent decreases in previous years. Again, though, the change is not significant.
 
 Here’s what the CEO of the National Campaign told USA Today:
 
-> Sarah Brown, CEO of the National Campaign to Prevent Teen and > Unplanned Pregnancy, says she is less inclined to believe abortion is > driving hi  
-> gher teen birth rates and suggests that increases in high-profile > unmarried births in Hollywood, movies and even politics is a > significant factor for impressionable teens. >
-> “In the last couple of years, we had Jamie Lynn Spears. We had Juno > and we had Bristol Palin. Those three were in 2007 and 2008 and not in > 2005 to 2006, but they point to that phenomenon,” she says.
+> Sarah Brown, CEO of the National Campaign to Prevent Teen and Unplanned Pregnancy, says she is less inclined to believe abortion is driving hi  
+> gher teen birth rates and suggests that increases in high-profile unmarried births in Hollywood, movies and even politics is a significant factor for impressionable teens. >
+> “In the last couple of years, we had Jamie Lynn Spears. We had Juno and we had Bristol Palin. Those three were in 2007 and 2008 and not in 2005 to 2006, but they point to that phenomenon,” she says.
 
 You have to admire her candor and pity her desperation: she admits that the purported causes came years after the effect. So, rather than Hollywood influencing a social trend, the already existing social trend began to reach even into Hollywood. After that happens, there may be positive feedback, but let’s be clear about who started it. In general, Hollywood doesn’t want to influence any social trend — they want to figure out what the existing trends are and pander to them to get rich. They’re greedy capitalists, not mad scientists.
 

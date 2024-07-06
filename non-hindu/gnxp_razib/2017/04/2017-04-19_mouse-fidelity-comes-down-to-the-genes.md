@@ -27,9 +27,9 @@ Because the QTLs are rather large in terms of physical genomic units the authors
 
 The extent of the variation explained by any given QTL seems modest. In the extended figures you can see it’s mostly in the 1 to 5 percent range. In [Carl Zimmer’s](https://www.nytimes.com/2017/04/19/science/parenting-genes-study.html?rref=collection%2Fcolumn%2Fmatter&action=click&contentCollection=science&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection) excellent write up he ends:
 
-> But Dr. Bendesky cautioned that the vasopressin gene would probably > turn out to be just one of many that influence oldfield mice. Though > it is strongly linked to parental behavior, the vasopressin gene > accounts for 6.7 percent of the variation in nest building among > males, and only 2.9 percent among females. >
-> The genetic landscape of human parenting will turn out to be even more > rugged, Dr. Bendesky predicted. >
-> **“You cannot do a 23andMe test and find out if your partner is going > to be a good father,” he said.**
+> But Dr. Bendesky cautioned that the vasopressin gene would probably > turn out to be just one of many that influence oldfield mice. Though it is strongly linked to parental behavior, the vasopressin gene accounts for 6.7 percent of the variation in nest building among males, and only 2.9 percent among females. >
+> The genetic landscape of human parenting will turn out to be even more rugged, Dr. Bendesky predicted. >
+> **“You cannot do a 23andMe test and find out if your partner is going to be a good father,” he said.**
 
 Sort of. The genetic architecture above is polygenic…but not incredibly diffuse. The proportion of variation explained by the largest effect allele is more than for height, and far more than for education. If human research follows up on this, I wouldn’t be surprised if you could develop a [polygenic risk score](https://en.wikipedia.org/wiki/Polygenic_score#In_humans).
 

@@ -26,7 +26,9 @@ In establishing what we mean by modernity, a real scholar might diligently comb 
 
 First, let’s agree that modernity is happening now, as opposed to calling the present “post-modern.” After all, in setting up to evaluate if modernity can last, it would not serve to define modernity as a philosophical phase that already ended some decades ago. That’s not where I’m coming from. Whatever definition we make, I want it to include the present, but also be capable of stretching back toward its origins centuries ago. It might help to think in terms of a lifestyle many would call “Western,” which at this point can be found practically anywhere on the globe. We might propose a starting point as:
 
-- Modernity is the dominant style of human life on the planet today. - Modernity is a period of human domination of the biosphere. - Modernity is a mindset, or a worldview, placing humans at the apex of
+- Modernity is the dominant style of human life on the planet today.
+- Modernity is a period of human domination of the biosphere.
+- Modernity is a mindset, or a worldview, placing humans at the apex of
   “creation” and marked by a quest for control and mastery.
 
 Here, we see some of the complexity, in that modernity can be spoken of variously as a lifestyle, a time period, or a mental framework. All are relevant. I recommend embracing the multi-dimensional quality of the term.

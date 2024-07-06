@@ -13,7 +13,7 @@ The most important public sources of genetic data for understanding human popula
 
 1\. I recently [mentioned a pair of papers](https://www.gnxp.com/blog/2008/12/x-chromsome-wtf.php) that presented conflicting results about the relative effective population sizes of the X chromosome and the autosomes. In this paper, the authors write:
 
-> Interestingly, we observed a significantly higher degree of divergence > in allele frequency across X chromosome SNPs where we estimate FST to > be 9.7%. This value is about 40% higher than the expected value of > 6.8% derived from a many-deme island model and accounting for the 4:3 > ratio of autosomes to sex chromosome. The higher degree of population > divergence at X chromosome SNPs suggests a smaller effective > population size of the X than that predicted from Mendelian genetics.
+> Interestingly, we observed a significantly higher degree of divergence > in allele frequency across X chromosome SNPs where we estimate FST to > be 9.7%. This value is about 40% higher than the expected value of > 6.8% derived from a many-deme island model and accounting for the 4:3 ratio of autosomes to sex chromosome. The higher degree of population divergence at X chromosome SNPs suggests a smaller effective population size of the X than that predicted from Mendelian genetics.
 
 This is additional evidence that the observation that needs to be explained is a lower Ne on the X chromosomes as compared to the autosomes, rather than the reverse.
 

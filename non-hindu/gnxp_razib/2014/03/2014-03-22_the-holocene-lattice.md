@@ -26,7 +26,8 @@ Archaeologists and historians are going to be reluctant to shift from a dominant
 
 ### Related Posts:
 
-- [bioRxiv is here](https://www.gnxp.com/WordPress/2013/11/12/biorxiv/) - [Biology and the preprint
+- [bioRxiv is here](https://www.gnxp.com/WordPress/2013/11/12/biorxiv/)
+- [Biology and the preprint
   revolution](https://www.gnxp.com/WordPress/2014/04/25/biology-and-the-preprint-revolutin/) - [Open Thread,
   12/29/2013](https://www.gnxp.com/WordPress/2013/12/29/open-thread-12292013/) - [There were giants in the earth in those
   days](https://www.gnxp.com/WordPress/2015/02/10/there-were-giants-in-the-earth-in-those-days/) - [Sex bias in migration from the steppe

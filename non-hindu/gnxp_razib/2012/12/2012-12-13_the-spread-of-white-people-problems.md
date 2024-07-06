@@ -11,7 +11,7 @@ The spread of 'white people problems'
 
 [Life Expectancy Rises Around the World, Study Finds](http://www.nytimes.com/2012/12/14/health/worlds-population-living-longer-new-report-suggests.html?hp&pagewanted=print):
 
-> A sharp decline in deaths from malnutrition and diseases like measles > and tuberculosis has caused a shift in global mortality patterns over > the past 20 years, according to a new report, **with far more of the > world’s population now living into old age and dying from diseases > more associated with rich countries**, like cancer and heart disease.
+> A sharp decline in deaths from malnutrition and diseases like measles > and tuberculosis has caused a shift in global mortality patterns over the past 20 years, according to a new report, **with far more of the world’s population now living into old age and dying from diseases more associated with rich countries**, like cancer and heart disease.
 
 In the West [declinism](http://www.merriam-webster.com/dictionary/declinist) has set in, for legitimate reasons. But that doesn’t mean that things aren’t getting better in the rest of the world. They are. What irritates me is that some of my acquaintances who fancy themselves cosmopolitan internationalists nevertheless engage in declinism, despite their avowed concern for the well-being of humans as a whole. Yet their fixation on the decline in the **relative** status of their own societies, and their own status, reveals the transparent false[signalling](https://en.wikipedia.org/wiki/Signalling_(economics)) nature of their cosmopolitan internationalism.
 

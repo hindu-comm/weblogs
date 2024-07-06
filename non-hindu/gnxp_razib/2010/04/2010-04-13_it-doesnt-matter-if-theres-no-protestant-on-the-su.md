@@ -86,7 +86,8 @@ As a point of fact it is obviously not correct to say that all Catholics are mod
 
 ### Related Posts:
 
-- [Catholic-Jew](https://www.gnxp.com/WordPress/2010/05/10/catholic-jew/) - [America,
+- [Catholic-Jew](https://www.gnxp.com/WordPress/2010/05/10/catholic-jew/)
+- [America,
   2010](https://www.gnxp.com/WordPress/2010/04/06/america-2010/) - [Fecundity vs. lesbianism; what's more
   atypical?](https://www.gnxp.com/WordPress/2010/05/18/fecundity-vs-lesbianism-whats-more-atypical/) - [Can your genes be
   patented?](https://www.gnxp.com/WordPress/2012/11/30/can-your-genes-be-patented/) - [Genes not

@@ -131,13 +131,13 @@ Subscribe
 
 IN 1974, TOM WOLFE was rudely jolted awake in his bathtub when he read the following words in *The New York Times* written by one Hilton Kramer, dean of the arts at Yale University:
 
-> Realism does not lack its partisans, but it does rather conspicuously > lack a persuasive theory…to lack a persuasive theory is to lack > something crucial.
+> Realism does not lack its partisans, but it does rather conspicuously lack a persuasive theory…to lack a persuasive theory is to lack something crucial.
 
 Recall what I had mentioned about *The Theory, The Theory, The Theory!* in the previous episode of this series?
 
 Tom Wolfe’s awakening culminated in a devastating evisceration of not just Hilton Kramer but the phenomenon that he represented. Titled *The Painted Word,* Tom Wolfe gave a masterclass and a magnificent critique of the art scene in the Elite and Posh America of the era, something he contemptuously called “Cultureburg.” Here is a sample:
 
-> Modern Art has become completely literary: the paintings and other > works exist only to illustrate the text…Art made its final flight, > climbed higher and higher in an ever-decreasing tighter-turning spiral > until… it disappeared up its own fundamental aperture… and came out > the other side as Art Theory!… Art Theory pure and simple, words on a > page, literature undefiled by vision.
+> Modern Art has become completely literary: the paintings and other > works exist only to illustrate the text…Art made its final flight, > climbed higher and higher in an ever-decreasing tighter-turning spiral until… it disappeared up its own fundamental aperture… and came out the other side as Art Theory!… Art Theory pure and simple, words on a page, literature undefiled by vision.
 
 What Wolfe lamented and outraged about was the disappearance of the most fundamental element in all art: *beauty.*
 

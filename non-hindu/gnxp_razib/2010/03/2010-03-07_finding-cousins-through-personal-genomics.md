@@ -11,7 +11,7 @@ Finding "cousins" through personal genomics
 
 [The odds of knowing your cousins: 23andme Part 1](http://ideas.4brad.com/odds-knowing-your-cousins-23andme-part-1):
 
-> Bizarrely, Jonathan Zittrain turns out to be my cousin — which is odd > because I have known him for some time and he is also very active in > the online civil rights world. How we came to learn this will be the > first of my postings on the future of DNA sequencing and the company > 23andMe.
+> Bizarrely, Jonathan Zittrain turns out to be my cousin — which is odd > because I have known him for some time and he is also very active in the online civil rights world. How we came to learn this will be the first of my postings on the future of DNA sequencing and the company 23andMe.
 
 Just read the whole thing. This is really a matter of the humanities, not science. Specifically, the almost mystical significance people seem to put into the finding that they share genetic ancestry with people, even people who they knew and were friendly with before they knew this datum.  
 Also, I think this sort of thing makes hang-wringing about the ethical conundrums that genetic counselors might have in regards to paternity issues which a wife might know of, but the husband might not, seem totally ridiculous. With the plethora of personal genomic data which will likely be part of everyone’s information portfolio circa 2020 you’d have to be retarded, or very exceptional, not to notice a “extra-pair paternity event” within a family.\*  

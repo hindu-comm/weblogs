@@ -15,7 +15,8 @@ Over at [Overcoming Bias](http://www.overcomingbias.com/2007/11/the-simple-math.
 
 ### Related Posts:
 
-- [Why math?](https://www.gnxp.com/WordPress/2007/09/10/why-math/) - [Math = conservative, Verbal =
+- [Why math?](https://www.gnxp.com/WordPress/2007/09/10/why-math/)
+- [Math = conservative, Verbal =
   liberal](https://www.gnxp.com/WordPress/2006/06/30/math-conservative-verbal-liberal/) - [Scores on the new SAT for the 2006 cohort of
   college-bound…](https://www.gnxp.com/WordPress/2007/04/09/scores-on-the-new-sat-for-the-2006-cohort-of-college-bound-seniors-sex-and-ethnic-breakdown/) - [p's & q's vs.
   verbs](https://www.gnxp.com/WordPress/2007/12/30/ps-qs-vs-verbs/) - [Standardized test score distributions-what are

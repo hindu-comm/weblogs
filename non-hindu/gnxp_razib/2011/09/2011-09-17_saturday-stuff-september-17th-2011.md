@@ -23,7 +23,8 @@ Very busy week. I don’t have time to look for past posts and I haven’t been 
 
 ### Related Posts:
 
-- [Sunday Stuff - September 25th,
+- [Sunday Stuff
+- September 25th,
   2011](https://www.gnxp.com/WordPress/2011/09/25/sunday-stuff-september-25th-2011/) - [Friday Fluff - September 17th,
   2010](https://www.gnxp.com/WordPress/2010/09/17/friday-fluff-september-17th-2010/) - [Caturday Fluff, September 3rd,
   2011](https://www.gnxp.com/WordPress/2011/09/03/caturday-fluff-september-3rd-2011/) - [Friday Fluff, September 10th,

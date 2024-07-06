@@ -21,8 +21,8 @@ Has anyone actually looked at anything like this? Does this idea hang together? 
 
 **Update:** Looks like another beautiful hypotheses slain by an ugly fact. I’ll just copy-paste what I said in the comments:
 
-> Having looked into it, this doesn’t work the way I thought it would. I > knew that LINEs sometimes end up dragging some of the host’s genetic > material along in their replications, but now I know that the way this > happens is that sometimes the reverse-transcription machinery grabs > onto host mRNA that’s floating around and splices it in. So what’s > being inserted is automatically a pseudogene since the mRNA has > already been processed (i.e. there’s no promoter attached to it). For > this idea to work it would need to be an active gene. Rats. >
-> Mind you, DNA transposons could still easily easily be a major source > of gene duplication since they skip the RNA middleman. But since > they’re only a tiny fraction of ncDNA that means it probably has > nothing to do with the C-value enigma.
+> Having looked into it, this doesn’t work the way I thought it would. I > knew that LINEs sometimes end up dragging some of the host’s genetic > material along in their replications, but now I know that the way this > happens is that sometimes the reverse-transcription machinery grabs > onto host mRNA that’s floating around and splices it in. So what’s being inserted is automatically a pseudogene since the mRNA has already been processed (i.e. there’s no promoter attached to it). For this idea to work it would need to be an active gene. Rats. >
+> Mind you, DNA transposons could still easily easily be a major source of gene duplication since they skip the RNA middleman. But since they’re only a tiny fraction of ncDNA that means it probably has nothing to do with the C-value enigma.
 
 ### Related Posts:
 

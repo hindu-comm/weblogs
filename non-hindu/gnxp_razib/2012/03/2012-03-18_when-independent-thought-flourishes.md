@@ -20,7 +20,8 @@ Why am I bringing this up? A few anthropologists (e.g., Robert Boyd, Peter Riche
 
 ### Related Posts:
 
-- [Stem cells - having your embryo and not eating it
+- [Stem cells
+- having your embryo and not eating it
   too?](https://www.gnxp.com/WordPress/2006/08/24/stem-cells-having-your-embryo-and-not-eating-it-too/) - [Cultural
   selection....](https://www.gnxp.com/WordPress/2007/02/25/cultural-selection/) - [Day 1 of hot sauce - Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [The Nation on a European Culture

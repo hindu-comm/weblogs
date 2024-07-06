@@ -21,7 +21,8 @@ Though your guess is as good as mine about what might come next.
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Is this a parody of James
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Is this a parody of James
   Franco?](https://www.gnxp.com/WordPress/2011/03/04/is-this-a-parody-of-james-franco/) - [Why isn't law school tuition more
   dispersed?](https://www.gnxp.com/WordPress/2012/07/06/why-isnt-law-school-tuition-more-dispersed/) - [Dan Davis prehistory YouTuber par
   excellence](https://www.gnxp.com/WordPress/2022/04/14/dan-davis-history-youtuber-par-excellence/) - [From the mouths of

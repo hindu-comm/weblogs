@@ -11,7 +11,7 @@ Social Irrationality?
 
 A few days ago David Boxenhorn wrote the following, apropos of atheism and religion:
 
-> *But maybe “communal irrational behavior” is the heart of the matter > and “a supernatural agent” is just a side show?*
+> *But maybe “communal irrational behavior” is the heart of the matter and “a supernatural agent” is just a side show?*
 
 His point was that Communism, for example, has many of the traits of a religion, but without a supreme being , and his suggestion was that a non-theistic definition of “religion” which included Communism would be more useful than the theistic one normally used.
 

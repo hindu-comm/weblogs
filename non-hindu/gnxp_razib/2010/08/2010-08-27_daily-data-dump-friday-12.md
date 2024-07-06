@@ -24,7 +24,8 @@ Have a good weekend.
 
 ### Related Posts:
 
-- [Story of X](https://www.gnxp.com/WordPress/2010/09/27/story-of-x/) - [Human evolutionary genetics is too
+- [Story of X](https://www.gnxp.com/WordPress/2010/09/27/story-of-x/)
+- [Human evolutionary genetics is too
   sexy...](https://www.gnxp.com/WordPress/2008/12/23/human-evolutionary-genetics-is-too-sexy/) - [Why the human X chromosome is less
   diverse](https://www.gnxp.com/WordPress/2011/07/25/why-the-human-x-chromosome-is-less-diverse/) - [The neo-X on the
   fly](https://www.gnxp.com/WordPress/2009/04/14/the-neo-x-on-the-fly/) - [The X chromsome:

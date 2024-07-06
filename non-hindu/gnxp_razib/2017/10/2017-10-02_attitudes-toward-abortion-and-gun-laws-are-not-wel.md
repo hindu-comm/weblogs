@@ -21,7 +21,9 @@ Obviously, this is surprising if you follow politics. But politics in the United
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Abortion & religion - an international
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Abortion & religion
+- an international
   view](https://www.gnxp.com/WordPress/2009/06/06/abortion-religion-an-international-view/) - [Men have been more pro-choice over the past 30
   years](https://www.gnxp.com/WordPress/2014/12/23/men-have-been-more-pro-choice-over-the-past-30-years/) - [Women care more about abortion
   rights](https://www.gnxp.com/WordPress/2008/08/29/women-care-more-about-abortion-rights/) - [Men and women really don't differ in the generality

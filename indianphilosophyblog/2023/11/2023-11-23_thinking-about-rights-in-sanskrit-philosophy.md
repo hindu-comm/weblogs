@@ -22,7 +22,8 @@ So, as a preliminary understanding:
 
 *adhikāra* to do x (e.g., *upāsana*) presupposes:
 
-1.  desire to obtain the result of action x 2.  ability to perform action x, which, in turn, presupposes the ability
+1.  desire to obtain the result of action x
+2.  ability to perform action x, which, in turn, presupposes the ability
     to perform each of its parts 3.  \[not yet determined, but see below\]
 
 The interesting part is that according to “as much as possible” principle, one does not need to perform each part of x in order to perform x, if x is a compulsory action (e.g., if you have the duty to each single day, you might leave out polishing each slide every single time). However, you still need to be “able” (*samartha*) to perform each part, even the ones you might have left out.
@@ -31,7 +32,8 @@ The interesting part is that according to “as much as possible” principle, o
 
 This leads to the *adhikāra* for *vedādhyayana*. This presupposes:
 
-1.  desire to obtain the result of the action 2.  ability to perform the action (see PMS, book 6.1 on animals not
+1.  desire to obtain the result of the action
+2.  ability to perform the action (see PMS, book 6.1 on animals not
     being able to perform sacrifices) 3.  sanction by an authoritative text
 
 Which kind of sanction? In the case of *vedādhyayana*, it seems to be a positive obligation (or *vidhi*). What would be the distinction between *adhikāra* and any other enjoined action, then? That the *vidhi* which lies at the basis of *adhikāra* establishes one’s general *entitlement* to do x, and not just one’s duty to perform x in a given case.

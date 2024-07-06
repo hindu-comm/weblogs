@@ -11,7 +11,8 @@ No comment needed
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [Latency in
+- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/)
+- [Latency in
   Haloscan](https://www.gnxp.com/WordPress/2007/05/19/latency-in-haloscan/) - [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [Who would vote for an atheist: Dems vs.
   Republicans](https://www.gnxp.com/WordPress/2012/10/02/who-would-vote-for-an-atheist-dems-vs-republicans/) - [Hold the praise (re:
   comments)](https://www.gnxp.com/WordPress/2011/06/01/hold-the-praise-re-comments/) - [Genetic testing comment period, last

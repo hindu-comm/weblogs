@@ -11,7 +11,7 @@ Vulva – The Perfume
 
 Did you ever hear the tale of the salesmen who were able to sell ice to the eskimos? Well, now that global warming is reducing the world’s supply of ice, these intrepid entrepreneurs have moved onto more fertile pastures – selling the scent of woman to women: [(not work safe)](http://www.riechmichund.com/)
 
-> Men have been mad about the erotically seductive scent of the vagina > since time immemorial. Now you can have it anywhere, anytime – with > the authentically natural vaginal fragrance VULVA Original, the > sensual accelerator.
+> Men have been mad about the erotically seductive scent of the vagina since time immemorial. Now you can have it anywhere, anytime – with the authentically natural vaginal fragrance VULVA Original, the sensual accelerator.
 
 More likely, this is a stimulatory aid for men, but that’s not as fun to write about. However, this fragrance should make some guys very happy when combined with [modern technology](https://www.gnxp.com/MT2/archives/001447.html?entry=1447).
 

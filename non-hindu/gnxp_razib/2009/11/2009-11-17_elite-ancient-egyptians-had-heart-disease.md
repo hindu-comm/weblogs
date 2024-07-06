@@ -11,7 +11,7 @@ Elite ancient Egyptians had heart disease
 
 [Heart Disease Found in Egyptian Mummies](http://www.sciencedaily.com/releases/2009/11/091117161017.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+sciencedaily+(ScienceDaily:+Latest+Science+News)&utm_content=Google+Reader):
 
-> “Atherosclerosis is ubiquitous among modern day humans and, despite > differences in ancient and modern lifestyles, we found that it was > rather common in ancient Egyptians of high socioeconomic status living > as much as three millennia ago,” says UC Irvine clinical professor of > cardiology Dr. Gregory Thomas, a co-principal investigator on the > study. “The findings suggest that we may have to look beyond modern > risk factors to fully understand the disease.”
+> “Atherosclerosis is ubiquitous among modern day humans and, despite > differences in ancient and modern lifestyles, we found that it was > rather common in ancient Egyptians of high socioeconomic status living > as much as three millennia ago,” says UC Irvine clinical professor of cardiology Dr. Gregory Thomas, a co-principal investigator on the study. “The findings suggest that we may have to look beyond modern risk factors to fully understand the disease.”
 
 “Every man a king” in these days indeed.
 

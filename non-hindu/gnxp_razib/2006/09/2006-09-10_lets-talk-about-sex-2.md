@@ -13,7 +13,8 @@ The current issue of *Current Biology* is [about sex](http://www.current-biology
 
 ### Related Posts:
 
-- [Sex ratios](https://www.gnxp.com/WordPress/2006/09/14/sex-ratios/) - [Drinking associated with risky sexual
+- [Sex ratios](https://www.gnxp.com/WordPress/2006/09/14/sex-ratios/)
+- [Drinking associated with risky sexual
   behavior](https://www.gnxp.com/WordPress/2006/10/11/drinking-associated-with-risky-sexual-behavior/) - [The extraordinary sex ratio of our
   age](https://www.gnxp.com/WordPress/2012/01/14/the-extraordinary-sex-ratio-of-our-age/) - [Trivers-Willard in the hiz
   houze](https://www.gnxp.com/WordPress/2006/06/24/trivers-willard-in-the-hiz-houze/) - ["Why sex matters for

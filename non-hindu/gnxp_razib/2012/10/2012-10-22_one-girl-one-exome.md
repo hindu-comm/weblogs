@@ -11,11 +11,11 @@ One girl, one exome
 
 Interesting story in *The San Jose Mercury News*, [Open-source science helps San Carlos father’s genetic quest](http://www.mercurynews.com/health/ci_21820336/open-source-science-helps-san-carlos-fathers-genetic):
 
-> “We used materials that are public, freely available,” said Rienhoff, > a physician and scientist, as Beatrice frolicked nearby. “And > everything we’ve learned we’ve put back out there, in the public > domain. It’s for the patient’s good, and the public good.” >
-> Born with small, weak muscles, long feet and curled fingers, Beatrice > confounded all the experts. >
-> No one else in her family had such a syndrome. In fact, apparently no > one else in the world did either. >
-> Rienhoff — a biotech consultant trained in math, medicine and genetics > at Harvard, Johns Hopkins and the Fred Hutchinson Cancer Research > Center in Seattle — launched a search. >
-> He combed the publicly available medical literature, researching > diseases, while jotting down each new clue or theory. Because her > ailment is so rare, he knew no big labs or advocacy groups would be > interested.
+> “We used materials that are public, freely available,” said Rienhoff, a physician and scientist, as Beatrice frolicked nearby. “And everything we’ve learned we’ve put back out there, in the public domain. It’s for the patient’s good, and the public good.” >
+> Born with small, weak muscles, long feet and curled fingers, Beatrice confounded all the experts. >
+> No one else in her family had such a syndrome. In fact, apparently no one else in the world did either. >
+> Rienhoff — a biotech consultant trained in math, medicine and genetics at Harvard, Johns Hopkins and the Fred Hutchinson Cancer Research Center in Seattle — launched a search. >
+> He combed the publicly available medical literature, researching diseases, while jotting down each new clue or theory. Because her ailment is so rare, he knew no big labs or advocacy groups would be interested.
 
   
 In the end, basically he compared his daughter’s [exome](https://en.wikipedia.org/wiki/Exome) to that of everyone else in the family. By comparing in such a fashion he managed to zero in on a possible causal mutation. This is awesome (the fact that now they know, not the mutation itself). In the near future (\~2 years) I plan to have everyone in my daughter’s pedigree sequenced to a high degree of accuracy so that I can trace with precision the sequence of *de novo* mutations which make each individual distinctive. Not only that, but it may be useful in the future in assessing possible disease risks **unique** to a given individual.

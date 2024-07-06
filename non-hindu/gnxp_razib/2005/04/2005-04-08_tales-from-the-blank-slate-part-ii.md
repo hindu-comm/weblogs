@@ -21,7 +21,8 @@ Posted by dobeln at [03:07 AM](https://www.gnxp.com/MT2/archives/003876.html) []
 
 ### Related Posts:
 
-- [Sex, Booze and Violence - Another tale from the Blank
+- [Sex, Booze and Violence
+- Another tale from the Blank
   Slate](https://www.gnxp.com/WordPress/2006/06/29/sex-booze-and-violence-another-tale-from-the-blank-slate/) - [Strawman - The latest tactic in the Summers'
   Affair](https://www.gnxp.com/WordPress/2005/02/16/strawman-the-latest-tactic-in-the-summers-affair/) - [Tales from the blank
   slate](https://www.gnxp.com/WordPress/2005/03/24/tales-from-the-blank-slate/) - [Malcolm Gladwell gets a course in

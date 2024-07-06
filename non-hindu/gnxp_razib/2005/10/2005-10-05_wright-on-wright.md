@@ -11,7 +11,7 @@ Wright on Wright
 
 Amusing biographical note from [Sewall Wright and Evolutionary Biology](https://www.amazon.com/exec/obidos/ASIN/0226684733/geneexpressio-20/002-4616924-4272818):
 
-> …After Wright had clarified in the early 1920s the [calculation of the > degree of > inbreeding](http://www.netpets.org/dogs/healthspa/demyst.html) in > sexually breeding organisms, he calculated his own inbreeding > coefficient. It was 6.3%, about one hundred times the average.
+> …After Wright had clarified in the early 1920s the [calculation of the > degree of inbreeding](http://www.netpets.org/dogs/healthspa/demyst.html) in sexually breeding organisms, he calculated his own inbreeding coefficient. It was 6.3%, about one hundred times the average.
 
 His parents were 1) first cousins and 2) Wright was descended from the Puritan stock of New England, so his genealogy was a tangle.
 

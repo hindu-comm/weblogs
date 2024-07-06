@@ -11,7 +11,7 @@ Spengler's game
 
 [Austin Bramwell](http://www.takimag.com/article/who_is_spengler/) has a [piece up](http://www.takimag.com/article/who_is_spengler/) where he focuses on [Spengler](http://www.atimes.com/atimes/others/spengler.html)‘s (David Goldman, not the original Oswald Spengler) intellectual hero [Franz Rosenzweig](https://en.wikipedia.org/wiki/Franz_Rosenzweig). Bramwell suggests:
 
-> I consider only the political implications of *Star*, of which, > surprisingly enough, I find very few. The Spenglerian theses in > particular seem more like a creative gloss or “misprision” of > Rosenzweig than an accurate restatement of his views. **For all > Spengler’s obeisance to Rosenzweig, I suspect that Goldman came up > with his stuff on his own.**
+> I consider only the political implications of *Star*, of which, > surprisingly enough, I find very few. The Spenglerian theses in > particular seem more like a creative gloss or “misprision” of Rosenzweig than an accurate restatement of his views. **For all Spengler’s obeisance to Rosenzweig, I suspect that Goldman came up with his stuff on his own.**
 
 *Star* is Rosenzweig’s book [The Star of Redemption](https://books.google.com/books?id=pXxTAo8BKH0C&printsec=frontcover&dq=star+of+redemption&ei=lGofSqzgK4v8lQTOlIHiCA). The link is to Google Books, so you can read a fair amount before you hit the preview limit.
 

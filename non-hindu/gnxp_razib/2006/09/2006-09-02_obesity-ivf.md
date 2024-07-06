@@ -11,7 +11,7 @@ Obesity & IVF
 
 [Shellee](http://scienceblogs.com/retrospectacle/2006/09/is_denial_of_ivf_therapy_for_o.php) of [Retrospectacle](http://scienceblogs.com/retrospectacle/2006/09/is_denial_of_ivf_therapy_for_o.php) has a [long post](http://scienceblogs.com/retrospectacle/2006/09/is_denial_of_ivf_therapy_for_o.php) on the [obesity & IVF issue](https://www.gnxp.com/blog/2006/08/reducing-fat-fitness.php). A point that we should all keep in mind:
 
-> While it may be discrimination in a pay-for-treatment health care > system, socialized health care has not only the right but (I believe) > the mandate to administer that care in a financially- and > health-conscious way.
+> While it may be discrimination in a pay-for-treatment health care system, socialized health care has not only the right but (I believe) the mandate to administer that care in a financially- and health-conscious way.
 
 ### Related Posts:
 

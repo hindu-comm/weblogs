@@ -21,7 +21,8 @@ Daily Data Dump – Thursday
 
 ### Related Posts:
 
-- [HapMap](https://www.gnxp.com/WordPress/2005/10/27/hapmap/) - [Don't genetically profile yourself just
+- [HapMap](https://www.gnxp.com/WordPress/2005/10/27/hapmap/)
+- [Don't genetically profile yourself just
   yet...perhaps](https://www.gnxp.com/WordPress/2010/07/07/dont-genetically-profile-yourself-just-yet-perhaps/) - [The Deep
   Web](https://www.gnxp.com/WordPress/2009/02/22/the-deep-web/) - [American human geography in
   numbers](https://www.gnxp.com/WordPress/2010/11/14/american-human-geography-in-numbers/) - [Are the HapMap samples

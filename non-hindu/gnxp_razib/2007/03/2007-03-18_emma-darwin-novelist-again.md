@@ -17,7 +17,8 @@ American readers may be puzzled by the reference to Annie’s Box, by Randal Key
 
 ### Related Posts:
 
-- [Family Connections - part
+- [Family Connections
+- part
   n](https://www.gnxp.com/WordPress/2006/07/22/family-connections-part-n/) - [Creation](https://www.gnxp.com/WordPress/2010/02/05/creation/) - [More Family
   Connections](https://www.gnxp.com/WordPress/2006/01/13/more-family-connections/) - [Heinlein, pulp &
   greatness](https://www.gnxp.com/WordPress/2009/04/02/heinlein-pulp-greatness/) - [Creation too controversial for American

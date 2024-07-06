@@ -15,7 +15,7 @@ Update: A nice [little survey](http://www.projectmaps.com/AMP2004report.pdf) of 
 
 Addendum: In the comments:
 
-> The insanity of the British situation is that while there is an > obvious failure to integrate Muslims, Muslim immigration to Britain > continues apace. For the good of both communities, this should not > continue.
+> The insanity of the British situation is that while there is an obvious failure to integrate Muslims, Muslim immigration to Britain continues apace. For the good of both communities, this should not continue.
 
 I think this is wrong to the first approximation, and my reason is this: more Muslims = more segregation = more distinct communal boundaries. Reduction in the number of Muslims coming in though would lead to less hostility from the mainstream/majority and the eventual reduction of alienation as the threatening counter-culture is eventually swallowed. Basically, this is simply the “[a little anti-semitism is good for the Jews](https://www.google.com/search?hl=en&lr=&q=a+little+anti-semitism+is+good+for+jews&btnG=Search)” style of argument. It is arguable that what is good for minority communities and self-styled leaders is not good for individual minorities. Similarly, a little patriarchy is good for the health of feminism and feminist organizations, even if it isn’t good for individual women.
 
@@ -25,7 +25,8 @@ Update II: [Gay American Muslims & faux-hetero marriage](http://scienceblogs.com
 
 ### Related Posts:
 
-- [Pew Global Attitude Project - Muslims & Europeans,
+- [Pew Global Attitude Project
+- Muslims & Europeans,
   part…](https://www.gnxp.com/WordPress/2006/08/02/pew-global-attitude-project-muslims-europeans-part-n/) - [British Muslims: the new
   Victorians](https://www.gnxp.com/WordPress/2009/05/07/british-muslims-the-new-victorians/) - [European Muslims, a problem that won't go
   away](https://www.gnxp.com/WordPress/2014/08/22/european-muslims-a-problem-that-wont-go-away/) - [Poll of British

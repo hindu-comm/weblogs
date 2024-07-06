@@ -11,8 +11,8 @@ Philosophy = lower salary
 
 ![philosophy.gif](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/philosophy.gif?resize=300%2C295)![philosophy.gif](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/philosophy.gif?resize=300%2C295)There was a [recent](http://www.nytimes.com/2008/04/06/education/06philosophy.html) article in *The New York Times* about the boomlet in philosophy majors. Seemed like a classic “journalism by the numbers” (like a coloring book). But via [Tyler Cowen](http://www.marginalrevolution.com/) via [Kids Prefer Cheese](https://mungowitzend.blogspot.com/2008/04/4-with-bullet.html) comes the graphic to the left. I suppose undergraduates aren’t really responding to rational financial incentives, huh? Well, depends on how you define rational:
 
-> Jenna Schaal-O’Connor, a 20-year-old sophomore who is majoring in > cognitive science and linguistics, said philosophy had other perks. > She said she found many male philosophy majors interesting and > sensitive.  
-> “That whole deep existential torment,” she said. “It’s good for > getting girlfriends.”
+> Jenna Schaal-O’Connor, a 20-year-old sophomore who is majoring in cognitive science and linguistics, said philosophy had other perks. She said she found many male philosophy majors interesting and sensitive.  
+> “That whole deep existential torment,” she said. “It’s good for getting girlfriends.”
 
 *N* = 1 & all, but still….
 

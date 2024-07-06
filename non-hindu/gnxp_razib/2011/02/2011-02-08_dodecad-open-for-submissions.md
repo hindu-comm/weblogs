@@ -12,7 +12,7 @@ Dodecad open for submissions
 Since I know plenty of friends are getting, or just got, their V3 results, I thought I’d pass this on, [Open-ended submission opportunity for 23andMe data (#2)](https://dodecad.blogspot.com/2011/02/open-ended-submission-opportunity-for.html):
 
 > Who is eligible >
-> Everyone who is of European, Asian, or North African ancestry and all > four of his/her grandparents are from the same European, Asian, or > North African ethnic group or the same European, Asian, or North > African country.
+> Everyone who is of European, Asian, or North African ancestry and all four of his/her grandparents are from the same European, Asian, or North African ethnic group or the same European, Asian, or North African country.
 
 Also, Zack has more than [30 individuals in HAP](http://www.harappadna.org/2011/02/latest-on-participants/). The “cow belt” is still way underrepresented. The only Bengalis in the data set are my parents.
 

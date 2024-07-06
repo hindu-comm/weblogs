@@ -11,7 +11,7 @@ Uighuristan as the New World
 
 From page 55 of [Empires of the Silk Road](https://www.amazon.com/exec/obidos/ASIN/0691135894/geneexpressio-20/):
 
-> …Archaeology has shown that every location in Eurasia where > Indo-European daughter languages have come to be spoken, modern humans > had already settled there long beforehand, **with the sole exception > of the Tarim Basin**, the final destination of the people who are > known to us as the Tokharians.
+> …Archaeology has shown that every location in Eurasia where > Indo-European daughter languages have come to be spoken, modern humans had already settled there long beforehand, **with the sole exception of the Tarim Basin**, the final destination of the people who are known to us as the Tokharians.
 
 I’ve alluded to this before, the unique hybrid aspect of Uighurs probably is due to the fact that the Tarim basin was only recently settled from *both* the west and east of Eurasia, closing a gap of settlement which might have existed since the Last Glacial Maximum. In this time various genetic differences have built up between humans on either side of this gap, and the Uighurs have not been around long enough to mediate enough gene flow to equilibrate the between group differences.
 

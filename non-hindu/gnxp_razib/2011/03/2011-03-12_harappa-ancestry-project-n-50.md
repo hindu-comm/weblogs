@@ -11,7 +11,27 @@ Harappa Ancestry Project @ N ~ 50
 
 Zack Ajmal now has [over 50 participants in the Harappa Ancestry Project](http://www.harappadna.org/2011/03/another-update/). This does not include the Pakistani populations in the HGDP, the HapMap Gujaratis, the Indians from the SVGP. Nevertheless, all these samples still barely cover vast heart of South Asia, the Indo-Gangetic plain. Here is the provenance of the submitted samples Zack has so far:
 
-- Punjab: 7 - Iran: 7 - Tamil: 6 - Bengal: 5 - Andhra Pradesh: 2 - Bihar: 2 - Karnataka: 2 - Caribbean Indian: 2 - Kashmir: 2 - Uttar Pradesh: 2 - Sri Lankan: 2 - Kerala: 2 - Iraqi Arab: 2 - Anglo-Indian: 1 - Roma: 1 - Goa: 1 - Rajasthan: 1 - Baloch: 1 - Unknown: 1 - Egyptian/Iraqi Jew: 1 - Maharashtra: 1
+- Punjab: 7
+- Iran: 7
+- Tamil: 6
+- Bengal: 5
+- Andhra Pradesh: 2
+- Bihar: 2
+- Karnataka: 2
+- Caribbean Indian: 2
+- Kashmir: 2
+- Uttar Pradesh: 2
+- Sri Lankan: 2
+- Kerala: 2
+- Iraqi Arab: 2
+- Anglo-Indian: 1
+- Roma: 1
+- Goa: 1
+- Rajasthan: 1
+- Baloch: 1
+- Unknown: 1
+- Egyptian/Iraqi Jew: 1
+- Maharashtra: 1
 
 Again, **note the underrepresentation of two of India’s most populous states, Uttar Pradesh, \~200 million, and Bihar, \~100 million.** Nevertheless, there are already some interesting yields from the project. Below I’ve reedited Zack’s static images (though go to his website for something more dynamic) with the labels of individuals. I’ve highlighted myself and my parents with the red pointers.
 

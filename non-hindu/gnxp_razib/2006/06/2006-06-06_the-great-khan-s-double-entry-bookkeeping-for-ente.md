@@ -13,7 +13,10 @@ It was bound to happen, the first [European (American) has been discovered](http
 
 ### Related Posts:
 
-- [Kkkhhhaaannn!!!](https://www.gnxp.com/WordPress/2012/02/12/kkkhhhaaannn/) - [Mongol](https://www.gnxp.com/WordPress/2010/01/23/mongol/) - [The lamentations of their women - the
+- [Kkkhhhaaannn!!!](https://www.gnxp.com/WordPress/2012/02/12/kkkhhhaaannn/)
+- [Mongol](https://www.gnxp.com/WordPress/2010/01/23/mongol/)
+- [The lamentations of their women
+- the
   movie?](https://www.gnxp.com/WordPress/2008/02/14/the-lamentations-of-their-women-the-movie/) - [Not a Khan after
   all!](https://www.gnxp.com/WordPress/2006/06/21/not-a-khan-after-all/) - [Top 25 referral keywords in 2011 to
   GNXP](https://www.gnxp.com/WordPress/2011/12/31/top-25-referral-keywords-in-2011-to-gnxp/) - ["Descendant of Genghis Khan"

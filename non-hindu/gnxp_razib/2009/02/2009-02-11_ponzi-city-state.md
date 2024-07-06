@@ -11,9 +11,9 @@ Ponzi city-state
 
 [Laid-Off Foreigners Flee as Dubai Spirals Down](http://www.nytimes.com/2009/02/12/world/middleeast/12dubai.html):
 
-> Sofia, a 34-year-old Frenchwoman, moved here a year ago to take a job > in advertising, so confident about Dubai’s fast-growing economy that > she bought an apartment for almost \$300,000 with a 15-year > mortgage.  
-> Now, like many of the foreign workers who make up 90 percent of the > population here, she has been laid off and faces the prospect of being > forced to leave this Persian Gulf city — or worse.  
-> “I’m really scared of what could happen, because I bought property > here,” said Sofia, who asked that her last name be withheld because > she is still hunting for a new job. “If I can’t pay it off, I was told > I could end up in debtors’ prison.”
+> Sofia, a 34-year-old Frenchwoman, moved here a year ago to take a job in advertising, so confident about Dubai’s fast-growing economy that she bought an apartment for almost \$300,000 with a 15-year mortgage.  
+> Now, like many of the foreign workers who make up 90 percent of the population here, she has been laid off and faces the prospect of being forced to leave this Persian Gulf city — or worse.  
+> “I’m really scared of what could happen, because I bought property here,” said Sofia, who asked that her last name be withheld because she is still hunting for a new job. “If I can’t pay it off, I was told I could end up in debtors’ prison.”
 
 ### Related Posts:
 

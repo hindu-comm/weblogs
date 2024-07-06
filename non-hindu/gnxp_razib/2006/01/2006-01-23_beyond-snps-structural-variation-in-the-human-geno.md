@@ -13,17 +13,17 @@ Nature Reviews Genetics has a review of the emerging evidence for massive amount
 
 Abstract:
 
-> The first wave of information from the analysis of the human genome > revealed SNPs to be the main source of genetic and phenotypic human > variation. However, the advent of genome-scanning technologies has now > uncovered an unexpectedly large extent of what we term ‘structural > variation’ in the human genome. This comprises microscopic and, more > commonly, submicroscopic variants, which include deletions, > duplications and large-scale copy-number variants – collectively > termed copy-number variants or copy-number polymorphisms – as well as > insertions, inversions and translocations. Rapidly accumulating > evidence indicates that structural variants can comprise millions of > nucleotides of heterogeneity within every genome, and are likely to > make an important contribution to human diversity and disease > susceptibility.
+> The first wave of information from the analysis of the human genome > revealed SNPs to be the main source of genetic and phenotypic human > variation. However, the advent of genome-scanning technologies has now > uncovered an unexpectedly large extent of what we term ‘structural > variation’ in the human genome. This comprises microscopic and, more > commonly, submicroscopic variants, which include deletions, > duplications and large-scale copy-number variants – collectively > termed copy-number variants or copy-number polymorphisms – as well as > insertions, inversions and translocations. Rapidly accumulating > evidence indicates that structural variants can comprise millions of nucleotides of heterogeneity within every genome, and are likely to make an important contribution to human diversity and disease susceptibility.
 
 Summary:
 
-> \* Structural variants in the human genome include cytogenetically > detectable and submicroscopic deletions, duplications, large-scale > copy-number variants, inversions and translocations.  
-> \* The ability to detect and characterize structural variants in the > 1-kb to 3-Mb size range in a robust manner across the genome has not > been possible until recently.  
-> \* New developments in genome-scanning technologies and computational > methodologies, and the availability of a reference sequence for > comparison, have made possible the large-scale discovery of structural > variants.  
-> \* Many studies are revealing that the total content of structural > variants in the human genome could equal or exceed that of SNPs.  
-> \* Structural variants often coincide with low-copy repeat DNA (also > called segmental duplications), as these highly related sequences are > more likely to undergo non-allelic recombination and subsequent > rearrangement.  
-> \* Structural variation in the genome can directly or indirectly > influence gene dosage through different mechanisms, and therefore > influence phenotypic variation and disease.  
-> \* The cataloguing of structural variants and their frequencies in > populations will be important for disease-mapping studies and for > proper interpretation of clinical diagnostic-testing data.
+> \* Structural variants in the human genome include cytogenetically detectable and submicroscopic deletions, duplications, large-scale copy-number variants, inversions and translocations.  
+> \* The ability to detect and characterize structural variants in the 1-kb to 3-Mb size range in a robust manner across the genome has not been possible until recently.  
+> \* New developments in genome-scanning technologies and computational methodologies, and the availability of a reference sequence for comparison, have made possible the large-scale discovery of structural variants.  
+> \* Many studies are revealing that the total content of structural variants in the human genome could equal or exceed that of SNPs.  
+> \* Structural variants often coincide with low-copy repeat DNA (also called segmental duplications), as these highly related sequences are more likely to undergo non-allelic recombination and subsequent rearrangement.  
+> \* Structural variation in the genome can directly or indirectly influence gene dosage through different mechanisms, and therefore influence phenotypic variation and disease.  
+> \* The cataloguing of structural variants and their frequencies in populations will be important for disease-mapping studies and for proper interpretation of clinical diagnostic-testing data.
 
 [We’ve mentioned some of these large scale variations before.](https://www.gnxp.com/MT2/archives/003506.html)
 

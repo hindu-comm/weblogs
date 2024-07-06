@@ -11,10 +11,10 @@ The value of "open genomics"
 
 Zack Ajmal has been methodically working his way through issues in the public genomic data sets. Often it just involves noting duplicate samples across data sets, which need to be accounted for. But sometimes there seem to be problems within the uploaded data sets, for example relatively close related individuals. Today he [highlights an issue](http://www.harappadna.org/2011/04/behar-paniya/) which early on was noticeable in the Behar et al. data set:
 
-> Behar as in the Behar et al paper/dataset and not the Indian state of > Bihar. The Behar dataset contains 4 samples of Paniya, which > apparently is a Dravidian language of some Scheduled Tribes in Kerala. >
-> I had always been suspicious of those four samples since one of them > had admixture proportions similar to other South Indians but the other > three were like Southeast Asians. >
+> Behar as in the Behar et al paper/dataset and not the Indian state of Bihar. The Behar dataset contains 4 samples of Paniya, which apparently is a Dravidian language of some Scheduled Tribes in Kerala. >
+> I had always been suspicious of those four samples since one of them had admixture proportions similar to other South Indians but the other three were like Southeast Asians. >
 > … >
-> Since the Austroasiatic Paniya samples originated from Behar et al, > **I guess at some point before the Behar data being submitted to the > GEO database the Paniyas got mislabeled.**
+> Since the Austroasiatic Paniya samples originated from Behar et al, **I guess at some point before the Behar data being submitted to the GEO database the Paniyas got mislabeled.**
 
 I pulled down the Behar et al. data set too, and the Paniya just look weird enough that I just avoided them. Ideally this sort of stuff should be caught, but errors happen. Best to get as many eyeballs looking over everything.
 

@@ -11,7 +11,7 @@ Why genetic determinism is inevitable in a meritocracy
 
 Yes, the title is a bit asinine, but it got your attention didn’t it? This post is a response to Chad Orzel’s [response](http://scienceblogs.com/principles/2006/06/class_implications_of_the_brai.php) to my response to his [response](http://scienceblogs.com/principles/2006/06/ask_a_scienceblogger_brain_dra.php) to last week’s “Ask a Science Blogger” where I allude to the benefit of tightening labor for our working classes (these United States). Chad states:
 
-> …the point is to make it possible for the children of the lower > classes to become scientists and engineers rather than factory workers > and farmers. **Economic class should not be hereditary, and one of the > purposes of public education is to keep economic class from being > hereditary.**
+> …the point is to make it possible for the children of the lower > classes to become scientists and engineers rather than factory workers and farmers. **Economic class should not be hereditary, and one of the purposes of public education is to keep economic class from being hereditary.**
 
   
 There is a major issue I have with Chad’s assertion: **social mobility when opportunities arise is inevitable when you transition from a non-meritocratic system to a meritocratic system**. Over the generations one should see the movement to the “top” of the genetic cream, so to speak, and the “decline” of those who retained their elite positions due to custom and tradition. But, **subsequent movement should be dampened assuming that a large portion of the abilities that allow the attainment of high status are *heritable***.  
@@ -23,7 +23,8 @@ Models are models, and life is more complex. I’m not stating here that I belie
 
 ### Related Posts:
 
-- [Brain drain - the size of the cup
+- [Brain drain
+- the size of the cup
   matters](https://www.gnxp.com/WordPress/2006/06/06/brain-drain-the-size-of-the-cup-matters/) - [Chad Orzel & Jennifer Ouellette on
   bloggingheads.tv](https://www.gnxp.com/WordPress/2008/11/16/chad-orzel-jennifer-ouellette-on-bloggingheads-tv/) - [Giggling baby: Chad Orzel
   edition](https://www.gnxp.com/WordPress/2009/05/14/giggling-baby-chad-orzel-edition/) - [The wealthy work

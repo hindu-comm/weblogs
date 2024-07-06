@@ -11,7 +11,7 @@ What’s your utility function?
 
 What is a Good Society? What values should **we** has a society hold to be Good and True? These aren’t light questions, but we often neglect them. I believe that many “political” differences can ultimately be traced back to the weights placed on these initial axioms of value. [Ruchira Paul](http://accidentalblogger.typepad.com/accidental_blogger/2006/10/life_liberty_an.html) [comments](http://accidentalblogger.typepad.com/accidental_blogger/2006/10/life_liberty_an.html) on a new [book](https://www.amazon.com/gp/product/1845400526/sr=8-1/qid=1156691958/ref=sr_1_1?ie=UTF8&tag2=charleskenny-20) who explores happiness and amity from an economic and philosophical perspective:
 
-> I frequently irritate champions of the unbridled free market who > trumpet the triumphs of nations such as India and China and the recent > impressive rise in their GDP, economic growth indices etc. I keep > whining about lack of infrastructure, rampant governmental corruption, > unequal access to education and other civic amenities, disparities in > income and civil rights.
+> I frequently irritate champions of the unbridled free market who > trumpet the triumphs of nations such as India and China and the recent > impressive rise in their GDP, economic growth indices etc. I keep whining about lack of infrastructure, rampant governmental corruption, unequal access to education and other civic amenities, disparities in income and civil rights.
 
 ### Related Posts:
 

@@ -14,7 +14,8 @@ I think Donlan does a good job being up front about his normative biases. I tend
 
 ### Related Posts:
 
-- [23andYou](https://www.gnxp.com/WordPress/2011/05/14/23andyou/) - [The lions of
+- [23andYou](https://www.gnxp.com/WordPress/2011/05/14/23andyou/)
+- [The lions of
   America....](https://www.gnxp.com/WordPress/2005/08/18/the-lions-of-america/) - [The long fuse of mammalian
   diversity](https://www.gnxp.com/WordPress/2007/03/28/the-long-fuse-of-mammalian-diversity/) - [Cognitive science of evolutionary
   biology](https://www.gnxp.com/WordPress/2006/03/13/cognitive-science-of-evolutionary-biology/) - [Why Britney Spears eventually accpeted evolution (I

@@ -11,7 +11,7 @@ Source: [here](https://www.gnxp.com/WordPress/2005/11/10/10-questions-for-derb/)
 
 Recently [John Derbyshire](http://olimu.com/) was kind enough to answer a few questions I posed for him. You all know John, so I’ll introduce him with a quote from a commentor at [John Holbo & Belle Waring’s](http://examinedlife.typepad.com/johnbelle/2005/06/mad_love_4_snoo.html) weblog:
 
-> Like him or not, John Derbyshire is one of the smartest people writing > for NRO (Brookhiser may be comparable). For another example, > Derbyshire is typically the voice of sweet reason itself when natural > selection vs. creationism is at issue. It would be nice if all one’s > ideological opponents were as newborn-baby-dumb as \[another > conservative pundit\]….
+> Like him or not, John Derbyshire is one of the smartest people writing > for NRO (Brookhiser may be comparable). For another example, > Derbyshire is typically the voice of sweet reason itself when natural selection vs. creationism is at issue. It would be nice if all one’s ideological opponents were as newborn-baby-dumb as \[another conservative pundit\]….
 
 1\) Over the past year you’ve really been hammering intelligent design. As someone who works in conservative journalism, that seems peculiar. I know in your famous/infamous [“Metrocon” column](http://www.olimu.com/WebJournalism/Texts/Commentary/MetroCon.htm) you offered that no one at NR rejects evolution, but I am curious as to your motivation for devoting considerable space to this topic of late. What has the for:against ratio in your emails/letters been?
 

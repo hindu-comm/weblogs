@@ -35,7 +35,7 @@ But what about whole populations? The plot to the left shows the count of varian
 
 From the paper:
 
-> The majority of variants in the data set are rare: \~64 million > autosomal variants have a frequency \<0.5%, \~12 million have a > frequency between 0.5% and 5%, **and only \~8 million have a frequency > \>5%** (Extended Data Fig. 3a). Nevertheless, the majority of variants > observed in a single genome are common: just 40,000 to 200,000 of the > variants in a typical genome (1–4%) have a frequency \<0.5% (Fig. 1c > and Extended Data Fig. 3b). As such, we estimate that improved rare > variant discovery by deep sequencing our entire sample would at least > double the total number of variants in our sample but increase the > number of variants in a typical genome by only \~20,000 to 60,000.
+> The majority of variants in the data set are rare: \~64 million > autosomal variants have a frequency \<0.5%, \~12 million have a > frequency between 0.5% and 5%, **and only \~8 million have a frequency > \>5%** (Extended Data Fig. 3a). Nevertheless, the majority of variants > observed in a single genome are common: just 40,000 to 200,000 of the > variants in a typical genome (1–4%) have a frequency \<0.5% (Fig. 1c > and Extended Data Fig. 3b). As such, we estimate that improved rare variant discovery by deep sequencing our entire sample would at least double the total number of variants in our sample but increase the number of variants in a typical genome by only \~20,000 to 60,000.
 
 An 800K SNP chip will be biased toward the 8 million or so variants with a frequency of 5%. This number gives you a sense of the limited scope of variation in the human genome. 0.27% of the genome captures a lot of the polymorphism.
 

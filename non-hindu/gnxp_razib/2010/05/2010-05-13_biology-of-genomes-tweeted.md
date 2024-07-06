@@ -11,11 +11,11 @@ Biology of Genomes tweeted
 
 Check out the [\#bg2010](https://twitter.com/#search?q=%23bg2010) hash-tag on twitter. There’s a lot of interesting tidbits. Here are some tweets from the presentation on the Neandertal genome in relation to the [Denisova hominin](https://en.wikipedia.org/wiki/Denisova_hominin) (a.k.a. “X-woman”):
 
-> lukejostins SP: The Denisova finger is from the Neanderthal line, but > didn’t interbreed with humans, hence looking like an outgroup  
+> lukejostins SP: The Denisova finger is from the Neanderthal line, but didn’t interbreed with humans, hence looking like an outgroup  
 > …  
-> dgmacarthur: SP claims that Neanderthals and Denisova archaics are > more closely related than either are to humans; intriguing.  
+> dgmacarthur: SP claims that Neanderthals and Denisova archaics are more closely related than either are to humans; intriguing.  
 > …  
-> dgmacarthur: SP: next steps: generate 10-20X coverage of Neanderthal, > sequence other archaic humans (e.g. Denisova).
+> dgmacarthur: SP: next steps: generate 10-20X coverage of Neanderthal, sequence other archaic humans (e.g. Denisova).
 
 I hope [Dr. Daniel MacAthur](http://scienceblogs.com/geneticfuture/) and [Luke Jostins](http://www.genetic-inference.co.uk/blog/) will say more when they get back to [Perfidious Albion](https://en.wikipedia.org/wiki/Perfidious_Albion).
 

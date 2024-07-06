@@ -25,7 +25,8 @@ Thinking about these extreme cases allows us to get a better intuitive sense of 
 
 ### Related Posts:
 
-- [Origins of the Gagauz people - a Turkish
+- [Origins of the Gagauz people
+- a Turkish
   dynamic](https://www.gnxp.com/WordPress/2008/12/28/origins-of-the-gagauz-people-a-turkish-dynamic/) - [Armenian
   genetics](https://www.gnxp.com/WordPress/2010/02/19/armenian-genetics/) - [Hungarian nationalism and the ghosts of
   Turan](https://www.gnxp.com/WordPress/2019/07/19/hungarian-nationalism-and-the-ghosts-of-turan/) - [Helicobacter pylori strains among

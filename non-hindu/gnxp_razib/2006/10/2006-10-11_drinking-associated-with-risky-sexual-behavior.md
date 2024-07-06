@@ -11,7 +11,7 @@ Drinking associated with risky sexual behavior
 
 It’s easy to make fun of studies like these, but hey, sometimes once you measure a phenomenon you find something unexpected. Not in [this case](http://medicine.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pmed.0030392), however:
 
-> Among men, heavy alcohol use was associated with higher odds of all > risky sex outcomes examined, including unprotected sex (AOR = 3.48; > 95% confidence interval \[CI\], 1.65 to 7.32), multiple partners (AOR > = 3.08; 95% CI, 1.95 to 4.87), and paying for sex (AOR = 3.65; 95% CI, > 2.58 to 12.37). Similarly, among women, heavy alcohol consumption was > associated with higher odds of unprotected sex (AOR = 3.28; 95% CI, > 1.71 to 6.28), multiple partners (AOR = 3.05; 95% CI, 1.83 to 5.07), > and selling sex (AOR = 8.50; 95% CI, 3.41 to 21.18). A dose-response > relationship was seen between alcohol use and risky sexual behaviors, > with moderate drinkers at lower risk than both problem and heavy > drinkers.
+> Among men, heavy alcohol use was associated with higher odds of all > risky sex outcomes examined, including unprotected sex (AOR = 3.48; > 95% confidence interval \[CI\], 1.65 to 7.32), multiple partners (AOR > = 3.08; 95% CI, 1.95 to 4.87), and paying for sex (AOR = 3.65; 95% CI, > 2.58 to 12.37). Similarly, among women, heavy alcohol consumption was > associated with higher odds of unprotected sex (AOR = 3.28; 95% CI, > 1.71 to 6.28), multiple partners (AOR = 3.05; 95% CI, 1.83 to 5.07), > and selling sex (AOR = 8.50; 95% CI, 3.41 to 21.18). A dose-response relationship was seen between alcohol use and risky sexual behaviors, with moderate drinkers at lower risk than both problem and heavy drinkers.
 
 ### Related Posts:
 

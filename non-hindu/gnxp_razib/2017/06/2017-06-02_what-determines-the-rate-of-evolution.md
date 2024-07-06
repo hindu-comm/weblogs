@@ -11,8 +11,8 @@ What determines the rate of evolution
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-10.jpeg?resize=180%2C270)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-10.jpeg?resize=180%2C270)](https://www.amazon.com/exec/obidos/ASIN/0199267944/geneexpressio-20)
 
-> New research contradicts contemporary theories and shows that > promiscuity slows down evolution <https://t.co/aP9VErn2uo> >
-> — Wiley Evolution (@Darwin2009) [May 30, > 2017](https://twitter.com/Darwin2009/status/869624521178959873)
+> New research contradicts contemporary theories and shows that promiscuity slows down evolution <https://t.co/aP9VErn2uo> >
+> — Wiley Evolution (@Darwin2009) [May 30, 2017](https://twitter.com/Darwin2009/status/869624521178959873)
 
   
 The tweet above from Wiley relates to a paper, [Polygamy slows down population divergence in shorebirds](http://onlinelibrary.wiley.com/doi/10.1111/evo.13212/full?hootPostID=c7089ec7e1c3ca937469d0a5b55e0c09). It’s a cool paper. I tweeted it. **But does it relate to the “rate of evolution”?**

@@ -45,7 +45,8 @@ Posted by razib at [01:57 PM](https://www.gnxp.com/MT2/archives/004078.html) [](
 
 ### Related Posts:
 
-- [Bad science?](https://www.gnxp.com/WordPress/2005/06/15/bad-science/) - [Natural history of Ashkenazi
+- [Bad science?](https://www.gnxp.com/WordPress/2005/06/15/bad-science/)
+- [Natural history of Ashkenazi
   I.Q.](https://www.gnxp.com/WordPress/2005/06/07/natural-history-of-ashkenazi-i-q/) - [I am getting
   annoyed](https://www.gnxp.com/WordPress/2005/06/20/i-am-getting-annoyed/) - [Hispanos and Sephardic
   ancestry](https://www.gnxp.com/WordPress/2012/05/24/hispanos-and-sephardic-ancestry/) - [The politics of Indian

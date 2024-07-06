@@ -405,7 +405,7 @@ Qutub-ud-din didn’t disappoint. He established a temporary base at Indraprasth
 
 Meanwhile in Delhi, the ejected Chahamana feudatory spotted his chance and reoccupied his former domain. Qutub-ud-din rushed back and laid a siege. It was time to teach a permanent lesson to these stubborn infidels. However, Hariraja was again free to recoup his strength. The Chahamana’s force in Delhi, confident in their superior numbers, charged out with bravado to meet Qutub-ud-din’s siege head on. It was a particularly gruesome and bloody battle. The massacre on both sides was so extraordinary that the “river Jamuna was discoloured with blood.” In the end, the Hindu force lost and retreated into the walls of the garrison, and eventually surrendered after a prolonged siege. The bigoted contemporary chronicler, Hasan Nizami celebrates the victory in glowing turns of phrase.
 
-> The Rai \[Raja\] who had fled from Delhi had raised an army of > idolatrous…tribes, the vapour of pride and conquest having entered his > thoughtless brain. Qutub-ud-din pursued him, and when the wretch was > taken, his head was severed from his body…
+> The Rai \[Raja\] who had fled from Delhi had raised an army of idolatrous…tribes, the vapour of pride and conquest having entered his thoughtless brain. Qutub-ud-din pursued him, and when the wretch was taken, his head was severed from his body…
 
 Delhi irretrievably fell to the alien Turkic invader, an episode that marks a historical presage. Qutub-ud-din made it his capital, the first capital of what would eventually be called the alien Muslim Sultanate in India.
 
@@ -515,7 +515,7 @@ Fresh troubles had erupted elsewhere for Qutub-ud-din Aibak leaving him no leisu
 
 AJMER PROVED TOUGHER. The still-unsubdued brother of Prithviraja Chahamana, the same Hariraja had not only recouped his strength but had made some smart alliances to harass Aibak. One such alliance was with a Jat chieftain who was marching against Aibak’s Delhi stronghold itself. A measure of the kind of fear his march instilled among the Muslims is given by Hasan Nizami in his typical bigoted style:
 
-> The Jat supported by an army hastened to the borders of Delhi, and the > people were suddenly caught in the darkness of his oppression and > turbulence, and the blood and property of the Musulmans fell into > danger and destruction.
+> The Jat supported by an army hastened to the borders of Delhi, and the people were suddenly caught in the darkness of his oppression and turbulence, and the blood and property of the Musulmans fell into danger and destruction.
 
 Meanwhile, Hariraja had invested the massive fort of Ajmer that rightfully belonged to his deceased brother, a proud inheritance of the Chahamanas. **This** ***third*** **rebellion in a space of two years against Muslim occupation** was a courageous act of reclamation but in Nizami’s eyes, it was a “standard of perdition…fanned by the flames of idolatry in his heart” and therefore had “delivered the reins of vanity into the hands of Satan, and having conceived the ladders of grandeur in his brain, had become proud."
 

@@ -11,8 +11,8 @@ My Darwin, right or wrong?
 
 [What Darwin said – and was he right?](https://www.gnxp.com/blog/2009/06/what-darwin-said-and-was-he-right.php):
 
-> In this Darwin year many popular accounts of ‘Darwinism’ have > appeared, but these seldom make a clear distinction among the > different components of Darwin’s theory of evolution. Many > popularisations are simplified to the point of caricature, and > presented in an absurdly uncritical way. I yield to few in my > admiration for Darwin, but I do not think his memory is best served by > oversimplifying his ideas or pretending that he was always right.  
-> So I will attempt to identify the key propositions of ‘Darwinism’, > with an assessment of their current standing. This will probably run > to five or six posts, with propositions grouped under the headings:  
+> In this Darwin year many popular accounts of ‘Darwinism’ have > appeared, but these seldom make a clear distinction among the > different components of Darwin’s theory of evolution. Many > popularisations are simplified to the point of caricature, and presented in an absurdly uncritical way. I yield to few in my admiration for Darwin, but I do not think his memory is best served by oversimplifying his ideas or pretending that he was always right.  
+> So I will attempt to identify the key propositions of ‘Darwinism’, with an assessment of their current standing. This will probably run to five or six posts, with propositions grouped under the headings:  
 > The Pattern of Evolution  
 > The Mechanisms of Evolution  
 > Heredity  

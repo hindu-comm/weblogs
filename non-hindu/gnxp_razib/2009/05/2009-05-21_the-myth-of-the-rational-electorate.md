@@ -11,7 +11,7 @@ The myth of the rational electorate
 
 [California, a Broke State, Reels as Voters Rebuff Leaders](http://www.nytimes.com/2009/05/21/us/21calif.html?_r=1&hp=&pagewanted=print):
 
-> Direct democracy has once again upended California — enough so that > the state may finally consider another way by overhauling its > Constitution for the first time in 130 years.
+> Direct democracy has once again upended California — enough so that the state may finally consider another way by overhauling its Constitution for the first time in 130 years.
 
 The problem is simple. Voters approve services through ballot measures, and reject taxes which might result in revenues to pay for those services, through simple majorities. Fair enough. But the legislature needs a 2/3 vote for tax & budget related actions. So the problem here is that the stupid electorate is complemented by a paralyzed legislature.  
 In the age of [Animal Spirits](https://www.amazon.com/exec/obidos/ASIN/0691142335/geneexpressio-20), Predictably Irrational and How We Decide it seems ridiculous to continue to bow before the dogma that the American voter is smart. They’re not. If they can’t be trusted to make rational decisions in their personal financial decisions, how do you expect they would make rational decisions in regards to public finance?

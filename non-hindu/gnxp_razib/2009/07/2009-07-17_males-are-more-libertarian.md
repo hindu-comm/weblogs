@@ -13,7 +13,7 @@ It is a rather robust cross-cultural finding that if there is a sex difference i
 
 To explore this is a cross-culturally I looked at the [WVS wave 5](http://www.worldvaluessurvey.org/). Broke it down by sex & country, and looked at the following question:
 
-> People should take more responsibility to provide for themselves vs > The government should take more responsibility to ensure that everyone > is provided for.
+> People should take more responsibility to provide for themselves vs The government should take more responsibility to ensure that everyone is provided for.
 
 The responses exhibit the range from 1-10, with one being “government should take more responsibility” and 10 being “people should take more responsibility.” I computed the mean by weighting these values and the frequencies in each class of values. So if a category had a mean value of 6, that would indicate on average a more libertarian sentiment than a mean value of 4. In the total WVS sample the mean value for males is 5.7, and for females 5.6. In other words, men are somewhat more libertarian than women, but only slightly. Contrastingly there are almost 3 units in the range across countries. Below the fold are pairs of charts. The first simply displays the between sex difference for each country. If males are more libertarian in a given country the data are to the right of the chart, and if females are, the data are to the left. The scatter plots show the strong correlation in attitudes between sexes internationally.
 

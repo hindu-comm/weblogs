@@ -63,7 +63,7 @@ The ultimate problem here is that the current postcolonial fixation with white s
 
 Let me end by quoting Agent Smith from the [Matrix](https://www.amazon.com/exec/obidos/ASIN/B000HAB4KS/geneexpressio-20):
 
-> “Did you know that the first Matrix was designed to be a perfect human > world where none suffered, where everyone would be happy? It was a > disaster. No one would accept the program. Entire crops were lost. > Some believed that we lacked the programming language to describe your > “perfect world”. But I believe that, as a species human beings define > their reality through misery and suffering. So the perfect world was a > dream that your primitive cerebrum kept trying to wake up from.”
+> “Did you know that the first Matrix was designed to be a perfect human > world where none suffered, where everyone would be happy? It was a > disaster. No one would accept the program. Entire crops were lost. > Some believed that we lacked the programming language to describe your “perfect world”. But I believe that, as a species human beings define their reality through misery and suffering. So the perfect world was a dream that your primitive cerebrum kept trying to wake up from.”
 
 \* If you don’t believe me take a look at the [map of Khand](http://lotr.wikia.com/wiki/Khand?file=Khand.JPG), the names of the cities are a melange of Indian and Iranian influences.
 

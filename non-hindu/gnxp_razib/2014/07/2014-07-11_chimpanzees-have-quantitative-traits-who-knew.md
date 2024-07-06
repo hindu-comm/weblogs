@@ -13,7 +13,7 @@ Chimpanzees have quantitative traits, who knew?
 
 Some [recent research](http://www.cell.com/current-biology/abstract/S0960-9822(14)00677-0) has just been published with the title [Chimpanzee Intelligence Is Heritable](http://www.cell.com/current-biology/abstract/S0960-9822(14)00677-0). My first thought honestly was “No shit? Of course.” My friend Jason Goldman has already done a very good[write up](https://animals.io9.com/understanding-chimpanzee-intelligence-can-shed-light-on-1603160206/+jasonggoldman) at [io9](https://animals.io9.com/understanding-chimpanzee-intelligence-can-shed-light-on-1603160206/+jasonggoldman) if you want read about it and don’t have access to the paper. In commenting on the results Jason notes (and I agree with the general thrust here):
 
-> That isn’t a particularly surprising or novel statement on its own > \[that chimpanzee intelligence is heritable -Razib\]. We already knew > that genes have an important job when it comes to intelligence and > cognition. But what’s useful is that we can assume chimpanzee > intelligence isn’t influenced by factors like socioeconomic status, > the quality of their school districts, or any of the dozens of other > variables, both obvious and subtle, that influence human development. > That means we can examine the “genetic” side of their intelligence > more easily.
+> That isn’t a particularly surprising or novel statement on its own > \[that chimpanzee intelligence is heritable -Razib\]. We already knew > that genes have an important job when it comes to intelligence and > cognition. But what’s useful is that we can assume chimpanzee > intelligence isn’t influenced by factors like socioeconomic status, > the quality of their school districts, or any of the dozens of other variables, both obvious and subtle, that influence human development. That means we can examine the “genetic” side of their intelligence more easily.
 
 Of course chimpanzees vary in intelligence, and, that variation has a genetic component. Part of the issue here is human essentialism. Chimpanzees are less intelligent than the average human, and so are classed into a general category of the second-most-intelligent-ape, as if their variation is totally irrelevant (and for practical day to day purposes it is). Pound for pound chimpanzees are also much stronger than we are. But would anyone be surprised if chimps varied in strength as a function of their genes (controlled for sex)? I doubt it. The issue, if there is one, is that **intelligence is perceived as the *sine qua non* of humanity.**
 
@@ -25,7 +25,8 @@ Though obviously there seems to be selection for larger brains in the primate li
 
 ### Related Posts:
 
-- [Genes & IQ](https://www.gnxp.com/WordPress/2008/09/22/genes-iq/) - [Melody Dye & Jason Goldman on
+- [Genes & IQ](https://www.gnxp.com/WordPress/2008/09/22/genes-iq/)
+- [Melody Dye & Jason Goldman on
   BHTV](https://www.gnxp.com/WordPress/2010/09/17/melody-dye-jason-goldman-on-bhtv/) - [Alu and chimpanzees &
   humans](https://www.gnxp.com/WordPress/2007/10/18/alu-and-chimpanzees-humans/) - [Complex traits & evolution - follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [Face recognition is highly

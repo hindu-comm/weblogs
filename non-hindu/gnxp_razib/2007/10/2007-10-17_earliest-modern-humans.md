@@ -11,10 +11,10 @@ Earliest modern humans?
 
 [Researchers find earliest evidence for modern human behavior in South Africa](http://www.eurekalert.org/pub_releases/2007-10/asu-rfe101207.php):
 
-> “Our findings show that at 164,000 years ago in coastal South Africa > humans expanded their diet to include shellfish and other marine > resources, perhaps as a response to harsh environmental conditions,” > notes Marean, a professor in ASU’s School of Human Evolution and > Social Change. “This is the earliest dated observation of this > behavior.”  
-> Further, the researchers report that co-occurring with this diet > expansion is a very early use of pigment, likely for symbolic > behavior, as well as the use of bladelet stone tool technology, > previously dating to 70,000 years ago.  
+> “Our findings show that at 164,000 years ago in coastal South Africa > humans expanded their diet to include shellfish and other marine > resources, perhaps as a response to harsh environmental conditions,” notes Marean, a professor in ASU’s School of Human Evolution and Social Change. “This is the earliest dated observation of this behavior.”  
+> Further, the researchers report that co-occurring with this diet expansion is a very early use of pigment, likely for symbolic behavior, as well as the use of bladelet stone tool technology, previously dating to 70,000 years ago.  
 > …  
-> “This evidence shows that Africa, and particularly southern Africa, > was precocious in the development of modern human biology and > behavior. We believe that on the far southern shore of Africa there > was a small population of modern humans who struggled through this > glacial period using shellfish and advanced technologies, and > symbolism was important to their social relations. **It is possible > that this population could be the progenitor population for all modern > humans**,” Marean says.
+> “This evidence shows that Africa, and particularly southern Africa, > was precocious in the development of modern human biology and > behavior. We believe that on the far southern shore of Africa there > was a small population of modern humans who struggled through this > glacial period using shellfish and advanced technologies, and symbolism was important to their social relations. **It is possible that this population could be the progenitor population for all modern humans**,” Marean says.
 
 The paper, “Early human use of marine resources and pigment in South Africa during the Middle Pleistocene,” will be on *Nature*‘s website tomorrow.
 

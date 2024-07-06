@@ -15,7 +15,8 @@ I’m going to queue the open thread for Sunday now as I’ll be sporadic checki
 
 ### Related Posts:
 
-- [Open Thread - December 25th,
+- [Open Thread
+- December 25th,
   2010](https://www.gnxp.com/WordPress/2010/12/25/open-thread-december-25th-2010/) - [The season needs no
   reason](https://www.gnxp.com/WordPress/2006/12/24/the-season-needs-no-reason/) - [Merry
   Christmas](https://www.gnxp.com/WordPress/2007/12/23/merry-christmas/) - [The seasons](https://www.gnxp.com/WordPress/2011/12/22/the-seasons/) - [Merry

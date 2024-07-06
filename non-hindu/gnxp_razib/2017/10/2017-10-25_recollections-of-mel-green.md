@@ -10,7 +10,7 @@ Source: [here](https://www.gnxp.com/WordPress/2017/10/25/recollections-of-mel-gr
 Recollections of Mel Green
 
 > Terrible news: I just heard that Mel Green passed away. >
-> — Andrew Kern (@pastramimachine) [October 24, > 2017](https://twitter.com/pastramimachine/status/922967926868729856?ref_src=twsrc%5Etfw)
+> — Andrew Kern (@pastramimachine) [October 24, 2017](https://twitter.com/pastramimachine/status/922967926868729856?ref_src=twsrc%5Etfw)
 
   
 Mel Green co-taught a “history of genetics” course that I took as a first-year grad student at UC Davis. It was fitting because Mel Green was a living embodiment of the *history of genetics*. Mine was one of the last years that Mel co-taught that class, so I feel quite privileged.

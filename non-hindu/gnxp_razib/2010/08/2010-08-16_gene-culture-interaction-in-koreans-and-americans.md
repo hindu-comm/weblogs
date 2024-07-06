@@ -13,7 +13,8 @@ Gene-culture interaction in Koreans and Americans
 
 ### Related Posts:
 
-- [Twins - Korean that
+- [Twins
+- Korean that
   is....](https://www.gnxp.com/WordPress/2007/08/29/twins-korean-that-is/) - [Koreans are like the
   Hmong](https://www.gnxp.com/WordPress/2009/01/16/koreans-are-like-the-hmong/) - [Where have English Americans
   gone?](https://www.gnxp.com/WordPress/2008/11/16/where-have-english-americans-gone/) - [Friday Fluff – November 26th,

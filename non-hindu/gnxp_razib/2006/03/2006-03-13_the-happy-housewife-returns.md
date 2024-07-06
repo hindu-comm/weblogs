@@ -11,8 +11,8 @@ The happy housewife returns
 
 Turns out all housewives [aren’t complete pill-popping wrecks](http://www.latimes.com/news/opinion/commentary/la-op-allen5mar05,0,5753747.story?coll=la-news-comment-opinions). Go figure.
 
-> Here are the figures, published in this month’s issue of the journal > Social Forces: 52% of wives who don’t work outside the home reported > they were “very happy” with their marriages, compared with 41% of > wives in the workforce. >
-> The more traditional a marriage is, the sociologists found, the higher > the percentage of happy wives. Among couples who have the husband as > the primary breadwinner, who worship together regularly and who > believe in marriage as an institution that requires a lifelong > commitment, 61% of wives said they were “very happy” with their > marriages. Among couples whose marriage does not have all these > characteristics, the percentage of happy wives dips to an average of > 45.
+> Here are the figures, published in this month’s issue of the journal Social Forces: 52% of wives who don’t work outside the home reported they were “very happy” with their marriages, compared with 41% of wives in the workforce. >
+> The more traditional a marriage is, the sociologists found, the higher > the percentage of happy wives. Among couples who have the husband as > the primary breadwinner, who worship together regularly and who > believe in marriage as an institution that requires a lifelong > commitment, 61% of wives said they were “very happy” with their marriages. Among couples whose marriage does not have all these characteristics, the percentage of happy wives dips to an average of 45.
 
 Personal reflection: With most women in the workforce, how comparable are the housewives of today with the housewives of yesteryear?
 

@@ -11,10 +11,10 @@ Breeding a better athlete
 
 [Taller, heavier: the speedy evolution of the fastest people on the planet](http://www.brisbanetimes.com.au/sport/taller-heavier-the-speedy-evolution-of-the-fastest-people-on-the-planet-20090818-ensy.html):
 
-> While the average person has gained about five centimetres since 1900, > the height of champion runners has increased 16.2 centimetres, say > Duke University researchers, Jordan Charles and Adrian Bejan, who > studied the heights and weights of 100-metre world record holders. >
-> ”The trends revealed by our analysis suggest that speed records will > continue to be dominated by heavier and taller athletes,” said Mr > Charles, whose study was published last month in The Journal of > Experimental Biology . >
+> While the average person has gained about five centimetres since 1900, the height of champion runners has increased 16.2 centimetres, say Duke University researchers, Jordan Charles and Adrian Bejan, who studied the heights and weights of 100-metre world record holders. >
+> ”The trends revealed by our analysis suggest that speed records will continue to be dominated by heavier and taller athletes,” said Mr Charles, whose study was published last month in The Journal of Experimental Biology . >
 > … >
-> While Dr Norton dismissed those predictions, he believed that the laws > of genetics, **thanks to the habit of athletes marrying athletes** – > and possibly even the creation of athlete sperm banks – meant runners > would continue growing taller, more powerful and faster.
+> While Dr Norton dismissed those predictions, he believed that the laws of genetics, **thanks to the habit of athletes marrying athletes** – and possibly even the creation of athlete sperm banks – meant runners would continue growing taller, more powerful and faster.
 
 Remember the “Little Hercules” with the [myostatin mutation](http://content.nejm.org/cgi/content/full/350/26/2682)? His mother was very muscular, and reportedly there was a family history of mesomorphicity. One way population level quantitative trait mean value can shift through selection beyond the most extreme values of the original population without new mutation being necessary is **simply to change the underlying allele frequencies enough so that originally unlikely combinations become common.** Assortative mating is another variant of this dynamic, if people several sigmas from the mean mate, then new combinations are likely to emerge.
 

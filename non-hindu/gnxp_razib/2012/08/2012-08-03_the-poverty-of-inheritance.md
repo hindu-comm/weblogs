@@ -20,7 +20,7 @@ I have more qualms about the second paper. [White Matter Disruptions in Adolesce
 
 Ultimately this leads us down a fraught path to subjects such as the [relationship between intelligence and wealth](http://www.theamericanconservative.com/articles/race-iq-and-wealth/). I can accept that Romanian orphanages damage the cognitive capacities of children on a biological level through their negative environmental impact. But fortunately the quality of life present in Romanian orphanages is not a major issue in the United States. Going back to Virginia Hughes’ post:
 
-> When a developing brain isn’t adequately stimulated, **as often > happens to children living in poverty**, for example, or in the foster > care system, this deprivation can lead to problems in cognition, > attention and social behaviors.
+> When a developing brain isn’t adequately stimulated, **as often happens to children living in poverty**, for example, or in the foster care system, this deprivation can lead to problems in cognition, attention and social behaviors.
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/08/7419_133883907983_2703397_n.jpg?resize=157%2C212)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/08/7419_133883907983_2703397_n.jpg?resize=157%2C212)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/08/7419_133883907983_2703397_n.jpg)  
 *Too poor for color; feel the fury*

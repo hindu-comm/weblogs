@@ -11,7 +11,7 @@ Beyond the sequence
 
 Dan MacArthur’s post, [Can’t find your disease gene? Just sequence them all…](http://scienceblogs.com/geneticfuture/2009/04/cant_find_your_disease_gene_ju.php), is worth a read. He concludes:
 
-> But sequencing won’t be enough: we need much better methods for > sifting out the truly function-altering genetic variants from the > biological noise. This is already difficult enough for protein-coding > regions (as this study demonstrates); we currently have virtually no > way of picking out disease-causing variants in the remaining 98% of > the genome. There’s a clear need for developing highly accurate and > comprehensive maps of the functional importance of each and every base > in the human genome, using all of the tools at our disposal – > something that will keep us geneticists busy long after we’ve run out > of genomes to sequence.
+> But sequencing won’t be enough: we need much better methods for > sifting out the truly function-altering genetic variants from the > biological noise. This is already difficult enough for protein-coding > regions (as this study demonstrates); we currently have virtually no > way of picking out disease-causing variants in the remaining 98% of > the genome. There’s a clear need for developing highly accurate and > comprehensive maps of the functional importance of each and every base in the human genome, using all of the tools at our disposal – something that will keep us geneticists busy long after we’ve run out of genomes to sequence.
 
 ### Related Posts:
 

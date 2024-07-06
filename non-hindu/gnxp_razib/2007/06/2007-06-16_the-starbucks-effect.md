@@ -11,7 +11,7 @@ The Starbucks effect?
 
 [As Some Grow Weary of Web, Online Sales Lag](http://www.nytimes.com/2007/06/17/technology/17ecom.html?_r=1&hp&oref=slogin):
 
-> …Nancy F. Koehn, a professor at Harvard Business School who studies > retailing and consumer habits, said that the leveling off of > e-commerce reflected the practical and **psychological limitations** > of shopping online. She said that as physical stores have made the > in-person buying experience more pleasurable, online stores have > continued to give shoppers a blase experience. In addition, online > shopping, because it involves a computer, feels like work.
+> …Nancy F. Koehn, a professor at Harvard Business School who studies > retailing and consumer habits, said that the leveling off of > e-commerce reflected the practical and **psychological limitations** > of shopping online. She said that as physical stores have made the in-person buying experience more pleasurable, online stores have continued to give shoppers a blase experience. In addition, online shopping, because it involves a computer, feels like work.
 
 Where do these psychological limitations come from? I think some if it is pretty obviously specified on the innate level. We’re a social species. The great evolutionary biologist William D. Hamilton famously did his pioneering work on [kin selection](https://en.wikipedia.org/wiki/Kin_selection) in London train stations because of his loneliness. It is one thing to worry about the de-humanizing effect of modern technology, but it is important to remember at the end of the day **we do remain human**.
 

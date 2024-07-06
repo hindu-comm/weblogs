@@ -11,7 +11,7 @@ g in a monkey?
 
 [](https://www.gnxp.com/blog/uploaded_images/cottontop-784453.jpg)Readers might be interested in a new paper in PLoS ONE, [General Intelligence in Another Primate: Individual Differences across Cognitive Task Performance in a New World Monkey (Saguinus oedipus)](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0005883):
 
-> Individual differences in cognitive abilities within at least one > other primate species can be characterized by a general intelligence > factor, supporting the hypothesis that important aspects of human > cognitive function most likely evolved from ancient neural substrates.
+> Individual differences in cognitive abilities within at least one other primate species can be characterized by a general intelligence factor, supporting the hypothesis that important aspects of human cognitive function most likely evolved from ancient neural substrates.
 
 ### Related Posts:
 

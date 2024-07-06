@@ -13,7 +13,7 @@ Zack Ajmal has been taking his [Reference 3 data set](http://www.harappadna.org/
 
 At K = 11, that is, 11 inferred ancestral populations, Zack seems to have now stumbled onto the patterns which one would expect from this hybrid model of South Asians. Let me[quote him](http://www.harappadna.org/2011/04/reference-3-admixture-k11/):
 
-> Now let’s take all the reference populations with an Onge component > between 10% to 50% and use the equation above to calculate their ASI > percentage. The results are in a spreadsheet. There are several > populations with an even higher Ancestral South Indian than any of the > Reich et al groups, with Paniya being the highest at 67.4%.
+> Now let’s take all the reference populations with an Onge component > between 10% to 50% and use the equation above to calculate their ASI percentage. The results are in a spreadsheet. There are several populations with an even higher Ancestral South Indian than any of the Reich et al groups, with Paniya being the highest at 67.4%.
 
 The r-squared between % ASI and % Onge, an Andaman group, is 0.994. That means 99.4% of the variation in the former can be explained by variation of the latter. The % ASI is consistently higher than Onge. Why? The last common ancestors of Andaman Islanders and the ASI diverged on the order of tens of thousands of years ago. [Dienekes](https://dienekes.blogspot.com/) observed ADMIXTURE needs good reference populations, and the Onge have been so long diverged from the last common ancestor with the mainland ASI populations that it’s not a perfect proxy for this ancient group. But it seems that the underestimate is systematically biased in the same direction, so that explains the good fit between the two trends.
 

@@ -15,7 +15,7 @@ Periodically rather than offering up original thoughts it is needful to engage d
 
 Here’s the latest instance, [Future Humans Will All Look Brazilian, Researcher Says](http://www.businessinsider.com.au/future-humans-will-all-look-brazilian-2012-9):
 
-> Meanwhile, **many other physical traits will simply blend together.** > “Most of the traits that we think of as distinguishing different > groups (hair colour, skin colour, hair curliness, facial features, eye > shape) are controlled by multiple genes, so they don’t follow a simple > dominant/recessive pattern,” McDonald explained. “In those cases, > blending will make people look more similar over time.”
+> Meanwhile, **many other physical traits will simply blend together.** > “Most of the traits that we think of as distinguishing different > groups (hair colour, skin colour, hair curliness, facial features, eye shape) are controlled by multiple genes, so they don’t follow a simple dominant/recessive pattern,” McDonald explained. “In those cases, blending will make people look more similar over time.”
 
 ![Hazara](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/05/afghn-12771.jpg?resize=150%2C257)
 

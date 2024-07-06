@@ -25,7 +25,8 @@ Posted by TangoMan at [06:13 PM](https://www.gnxp.com/MT2/archives/003600.html) 
 
 ### Related Posts:
 
-- [WALL•E](https://www.gnxp.com/WordPress/2008/07/01/wall%e2%80%a2e/) - [Plagiarists are really
+- [WALL•E](https://www.gnxp.com/WordPress/2008/07/01/wall%e2%80%a2e/)
+- [Plagiarists are really
   stupid](https://www.gnxp.com/WordPress/2010/02/15/plagiarists-are-really-stupid/) - [Liar's Poker a generation
   later](https://www.gnxp.com/WordPress/2008/11/11/liars-poker-a-generation-later/) - [Nearly 20% of McDonald's will have electronic kiosks by
   the…](https://www.gnxp.com/WordPress/2017/06/22/nearly-20-of-mcdonalds-will-have-electronic-kiosks-by-the-end-of-2017/) - [Genetic counseling and conflict of

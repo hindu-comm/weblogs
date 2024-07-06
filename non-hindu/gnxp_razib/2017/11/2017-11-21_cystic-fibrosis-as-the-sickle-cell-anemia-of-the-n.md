@@ -18,9 +18,9 @@ Heterozygotes are more resistantto malaria, an endemic and pervasive disease in 
 
 So what might be causing the high frequency of mutant CF alleles in Northern Europe? One candidate has been tuberculosis, a very common diseasein the recent past in Europe. A new paper out of Brazil supports this contention with epidemiological methods, [Cystic fibrosis carriership and tuberculosis: hints toward an evolutionary selective advantage based on data from the Brazilian territory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/):
 
-> Applying spatial epidemiology, we studied the link between CF > carriership rate and tuberculosis (TB) incidence in Brazil. We > corrected for 5 potential environmental and 2 immunological > confounders in this relation: monthly income, sanitary provisions, > literacy rates, racial composition and population density along with > AIDS incidence rates and diabetes mellitus type 2. Smoking data were > incomplete and not available for analysis. >
+> Applying spatial epidemiology, we studied the link between CF > carriership rate and tuberculosis (TB) incidence in Brazil. We > corrected for 5 potential environmental and 2 immunological > confounders in this relation: monthly income, sanitary provisions, literacy rates, racial composition and population density along with AIDS incidence rates and diabetes mellitus type 2. Smoking data were incomplete and not available for analysis. >
 > … >
-> **A significant, negative correlation between CF carriership rate and > TB incidence, independent of any of the seven confounders was found.**
+> **A significant, negative correlation between CF carriership rate and TB incidence, independent of any of the seven confounders was found.**
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/12879_2017_2448_Fig4_HTML.jpg?resize=400%2C242)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/11/12879_2017_2448_Fig4_HTML.jpg?resize=400%2C242)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/)The immediate objection is that one may not have controlled for all the confounds. Though do note there are molecular biological rationales for why *CFTR* heterozygotes may be more fit when infected with tuberculosis.
 

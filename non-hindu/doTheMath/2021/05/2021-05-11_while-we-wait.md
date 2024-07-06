@@ -21,7 +21,11 @@ Suggested reading paths through the textbook
 
 Also, no one has yet submitted a review on [Lulu](https://www.lulu.com/en/us/shop/thomas-murphy/energy-and-human-ambitions-on-a-finite-planet/paperback/product-dejvvd.html). Even if you have not ordered a print copy, the free PDF material is the same so that a review on Lulu based on the electronic version would be perfectly appropriate. Here is the corresponding to-do list to help encourage a larger readership:
 
-1.  Check out the [PDF online](https://escholarship.org/uc/item/9js5291m). 2.  Download a local copy for keeps (from [same site](https://escholarship.org/uc/item/9js5291m)). 3.  Tell others about it who you think could be interested (tweet, facebook, e-mail, etc.). 4.  Consider helping others appreciate the pros and cons of the book by reviewing it on [Lulu](https://www.lulu.com/en/us/shop/thomas-murphy/energy-and-human-ambitions-on-a-finite-planet/paperback/product-dejvvd.html). 5.  If using it in a classroom context, also consider reviewing for the [Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/energy-and-human-ambitions-on-a-finite-planet). 6.  [Leave feedback](https://tmurphy.physics.ucsd.edu/energy-text/energy-murphy.html) for me on any errors or suggested improvements so the next release is better.
+1.  Check out the [PDF online](https://escholarship.org/uc/item/9js5291m). 2.  Download a local copy for keeps (from [same site](https://escholarship.org/uc/item/9js5291m)).
+3.  Tell others about it who you think could be interested (tweet, facebook, e-mail, etc.).
+4.  Consider helping others appreciate the pros and cons of the book by reviewing it on [Lulu](https://www.lulu.com/en/us/shop/thomas-murphy/energy-and-human-ambitions-on-a-finite-planet/paperback/product-dejvvd.html).
+5.  If using it in a classroom context, also consider reviewing for the [Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/energy-and-human-ambitions-on-a-finite-planet).
+6.  [Leave feedback](https://tmurphy.physics.ucsd.edu/energy-text/energy-murphy.html) for me on any errors or suggested improvements so the next release is better.
 
 Hopefully, you’ll have the bandwidth to do something on the list while waiting for the big post next Tuesday. Thanks so much for your support!
 

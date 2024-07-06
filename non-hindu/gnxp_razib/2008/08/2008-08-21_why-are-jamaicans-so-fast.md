@@ -11,8 +11,8 @@ Why are Jamaicans so fast?
 
 I haven’t been watching the Olympics, but my news feeds are broad enough that I get a general sense of who is winning, and who is not. Over at [Genetic Future](http://www.genetic-future.com/2008/08/gene-for-jamaican-sprinting-success-no.html) Dan MacArthur has a post up, [The gene for Jamaican sprinting success? No, not really](http://www.genetic-future.com/2008/08/gene-for-jamaican-sprinting-success-no.html):
 
-> And Bolt is not the only Jamaican to impress in short distance events > in Beijing: the country’s women’s sprint team took all three medals in > their 100 metre dash.  
-> Naturally, these performances have provoked widespread speculation > about the basis of Jamaica’s sprinting success, and the short-distance > prowess of other populations of West African ancestry. One > controversial suggestion has drawn the most headlines: **that > sprinting is in their genes, or rather in one gene in particular – > variously referred to as “Actinen A” or “ACTN3”.**
+> And Bolt is not the only Jamaican to impress in short distance events in Beijing: the country’s women’s sprint team took all three medals in their 100 metre dash.  
+> Naturally, these performances have provoked widespread speculation > about the basis of Jamaica’s sprinting success, and the short-distance > prowess of other populations of West African ancestry. One controversial suggestion has drawn the most headlines: **that sprinting is in their genes, or rather in one gene in particular – variously referred to as “Actinen A” or “ACTN3”.**
 
 ### Related Posts:
 

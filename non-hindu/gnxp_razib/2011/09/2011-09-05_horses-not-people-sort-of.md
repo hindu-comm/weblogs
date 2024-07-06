@@ -26,7 +26,7 @@ Therefore the relationship between historical elites and the masses, and invadin
 
 All of this leads up to [this comment below](http://blogs.discovermagazine.com/gnxp/2011/08/tutsi-differ-genetically-from-the-hutu/#comment-83660):
 
-> … Pastoralists overcome peasants politically, sometimes culturally, > but rarely demographically. Demographically, I think the peasants > almost always win.
+> … Pastoralists overcome peasants politically, sometimes culturally, but rarely demographically. Demographically, I think the peasants almost always win.
 
 It may be apocryphal that [Yelü Chucai](https://en.wikipedia.org/wiki/Yel%C3%BC_Chucai#Biography) advised Genghis Khan to tax rather than slaughter the peasants of the North China Plain. Apparently the Mongol leader was entertaining the idea of turning the farmland into pasture, to support more Mongols and their herds. This would have been a classic demographic replacement. But what happened? **He saw that the Han peasants were *resources* from which one could extract rents.** Where the farmer views the hunter-gatherer as a competitor in the long term when they coexist in the same ecology, the pastoralist can complement the peasant. Often that entails extortion and terrorism, with the Mongol case being the archetype.
 

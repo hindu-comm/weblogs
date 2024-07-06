@@ -83,7 +83,8 @@ nānena sadṛśaṃkiñcit iṣṭārthasya tapodhana॥
 
 Some points to be noted from the above quotes
 
--   It is essential for kāmya rites -   Without puraścaraṇa,one does not do pūjā etc(basically mantrasiddhi
+-   It is essential for kāmya rites
+-   Without puraścaraṇa,one does not do pūjā etc(basically mantrasiddhi
     at its various levels is essential for the deity to be responding to
     the ritualist:This is the point being hinted at here) -   The classic simile of a lifeless body being unable to perform any
     work;and a mantra that is not siddha is employed in the Yoginīhṛdaya -   A yāmalatantra even goes as far as to say that one who does rites

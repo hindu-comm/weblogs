@@ -11,9 +11,9 @@ Heritability of height vs. weight
 
 Megan McArdle has a post, [Thining Thin](http://meganmcardle.theatlantic.com/archives/2009/07/thining_thin.php), a follow up to [America’s Moral Panic Over Obesity](http://meganmcardle.theatlantic.com/archives/2009/07/americas_moral_panic_over_obes.php). She says:
 
-> *1. Obesity is increasing in the population, so it can’t be > genetic.*  
-> Well, average height is also increasing in the population. Does that > mean that you could be as tall as me, if you weren’t too lazy to > grow?  
-> Twin studies and adoptive studies show that the overwhelming > determinant of your weight is not your willpower; it’s your genes. > **The heritability of weight is between .75 and .85. The heritability > of height is between .9 and .95.** And the older you are, the more > heritable weight is.
+> *1. Obesity is increasing in the population, so it can’t be genetic.*  
+> Well, average height is also increasing in the population. Does that mean that you could be as tall as me, if you weren’t too lazy to grow?  
+> Twin studies and adoptive studies show that the overwhelming > determinant of your weight is not your willpower; it’s your genes. **The heritability of weight is between .75 and .85. The heritability of height is between .9 and .95.** And the older you are, the more heritable weight is.
 
 I think the analogy between obesity and height is weakened by likely differences in the effect on the variance of the traits due to environmental changes. First, remember that the term “genetic” is very broad, while the term [“heritable”](https://en.wikipedia.org/wiki/Heritability) is very specific. Heritability is the proportion of trait variance within the population explainable by variance of genes. The said traits are usually thought of as quantitative traits, like height, weight or IQ, which exhibit a normal distribution. To say that a trait is .95 heritable does not mean that it is caused 95% by genes, that’s not even wrong. Rather, it is to say that 95% of the variance **within the population** can be accounted for by the variance of genes **within the population**. But heritable traits are also usually affected by environment; if you starve someone they will be short, but retain five fingers. The number of fingers you have on your hand is not heritable, because there’s no real variance within the population of the trait. It’s genetically specified, but not heritable.
 

@@ -23,7 +23,8 @@ But F_(ST) is still useful to give one a *Gestalt* sense of population genetic d
 
 Using results from the 2015 paper [Massive migration from the steppe was a source for Indo-European languages in Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5048219/), **I visualized pairwise genetic distances for European populations, ancient and modern** **(Han Chinese as an outgroup), on a tree.** What the results illustrate is that
 
-1.  Ancient populations were very distinct in Europe from modern ones. 2.  Many modern groups are clustered close together.
+1.  Ancient populations were very distinct in Europe from modern ones.
+2.  Many modern groups are clustered close together.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/pursuitofglory.jpeg?resize=181%2C279)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/pursuitofglory.jpeg?resize=181%2C279)](https://www.amazon.com/exec/obidos/ASIN/B000WW0LFA/geneexpressio-20)The bulk of the population genetic structure in modern Europe seems to have been established in the period between 3000 BCE and 2000 BCE. This is not that much time for a lot of distinctiveness to develop, especially on the geographically open North European plain. I suspect with more and more Mesolithic and early to middle Neolithic DNA we’ll see that some of the modern population structure is a ghost of ancient substrate absorption.
 

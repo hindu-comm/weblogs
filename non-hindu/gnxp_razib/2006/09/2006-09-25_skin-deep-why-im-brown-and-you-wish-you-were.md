@@ -11,14 +11,15 @@ Skin deep, why I’m brown and you wish you were
 
 A year ago, Armand Leroi, the author of [Mutants](https://www.amazon.com/exec/obidos/ASIN/0670031100/geneexpressio-20/), [wrote](http://www.edge.org/3rd_culture/leroi05/leroi05_index.html):
 
-> …**We don’t know what the differences are between white skin and black > skin, European skin versus African skin**. What I mean is we don’t > know what the genetic basis of that is. This is actually amazing. I > mean, here’s a trait, trivial as it may be, about which wars have been > fought, which is one of the great fault lines in society, around which > people construct their identities as nothing else. And yet we haven’t > the foggiest idea what the genetic basis of this is. It’s amazing.
+> …**We don’t know what the differences are between white skin and black > skin, European skin versus African skin**. What I mean is we don’t > know what the genetic basis of that is. This is actually amazing. I > mean, here’s a trait, trivial as it may be, about which wars have been fought, which is one of the great fault lines in society, around which people construct their identities as nothing else. And yet we haven’t the foggiest idea what the genetic basis of this is. It’s amazing.
 
 Wonder no more Armand! Some have said we are in the [golden age of skin color genetics](https://www.gnxp.com/blog/2006/08/skin-color-review.php). Nearly 40 years ago [quantitative trait loci analysis](https://www.gnxp.com/blog/2005/12/skin-color-loci-older-work.php) suggested that 4-5 genes control the variation in skin color which distinguishes Africans from Europeans. And now, [new work](https://www.gnxp.com/blog/2005/12/race-is-skin-deep.php) is pin pointing exactly what those genes of large effect might be. Two [recent](https://www.gnxp.com/blog/2006/09/another-genetics-of-skin-color-review.php) [papers](https://www.gnxp.com/blog/2006/09/skin-color-genes-in-different.php) elucidate the underlying genomic architecture which results in human skin color variation, and the general conclusion seems to be that light skin in northern Eurasia is a derived trait which emerged independently in places like East Asia and Europe.^(\*) Within a few years a quick genomic sequence might be able to determine the expectation and variance of skin colors in the case of interracial couples.  
 \* Dark skin seems to itself be a derived trait, but far deeper in our evolutionary history, dating to the time when hominids lost their fur.
 
 ### Related Posts:
 
-- [SLC24A5 - more than just skin
+- [SLC24A5
+- more than just skin
   color?](https://www.gnxp.com/WordPress/2007/10/05/slc24a5-more-than-just-skin-color/) - [Skin color & sexual
   selection](https://www.gnxp.com/WordPress/2006/04/20/skin-color-sexual-selection/) - [Question the "experts"
   sometimes....](https://www.gnxp.com/WordPress/2006/10/17/question-the-experts-sometimes/) - [Skin color genes in

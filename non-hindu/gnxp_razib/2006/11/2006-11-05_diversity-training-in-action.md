@@ -11,7 +11,7 @@ Diversity Training in Action
 
 From today’s UK **Sunday Times**, an amusing [account](http://www.timesonline.co.uk/article/0,,2092-2437543,00.html) of a training course in ‘diversity’. It is a straw in the wind – I doubt that this would have been published, at least in a major newspaper, only a few years ago. I particularly liked the following:
 
-> “What do you expect from today’s course?” asks Harvey \[the trainer\] > brightly. “Why did you come here?” “Because we’ve been told we have > to,” says one woman with brutal honesty. A male colleague is even more > frank. He is bald and stocky, and looks – by his own description – > like a thug. “I’ve been on lots of these before,” he says, tucking a > pencil behind his ear, “and I’m interested to see which racial group > is fashionably more equal these days.”
+> “What do you expect from today’s course?” asks Harvey \[the trainer\] > brightly. “Why did you come here?” “Because we’ve been told we have > to,” says one woman with brutal honesty. A male colleague is even more > frank. He is bald and stocky, and looks – by his own description – like a thug. “I’ve been on lots of these before,” he says, tucking a pencil behind his ear, “and I’m interested to see which racial group is fashionably more equal these days.”
 
 ### Related Posts:
 

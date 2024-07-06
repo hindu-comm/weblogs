@@ -11,7 +11,7 @@ Biological Anthropology dies @ Harvard
 
 Check out this *Harvard Crimson* [column](http://www.thecrimson.com/article.aspx?ref=518745) on the death of the biological anthropology concentration:
 
-> The root cause is a language barrier. Faculty members of the sciences > and the humanities strongly adhere to the belief that the world can > either be exclusively expressed in math or in words. Social science > also splits off the world in this manner. Any student who is taking > intermediate microeconomics needs to decide if he wants to take a > class taught in English or in math. If the former, he is to take > Economics 1010a, “Microeconomic Theory.” If the latter, Economics > 1011a, “Microeconomic Theory.” Science theses should typically have > math. Humanities theses typically should not.
+> The root cause is a language barrier. Faculty members of the sciences > and the humanities strongly adhere to the belief that the world can > either be exclusively expressed in math or in words. Social science > also splits off the world in this manner. Any student who is taking > intermediate microeconomics needs to decide if he wants to take a > class taught in English or in math. If the former, he is to take Economics 1010a, “Microeconomic Theory.” If the latter, Economics 1011a, “Microeconomic Theory.” Science theses should typically have math. Humanities theses typically should not.
 
 **Update:** [John Hawks](http://johnhawks.net/weblog/topics/meta/biocultural_breakdown_harvard_2007.html) &
 [Kambiz](http://anthropology.net/user/kambiz_kamrani/blog/2007/05/03/do_you_think_harvard_university_killed_biological_anthropology) respond, though they have somewhat different opinions.  

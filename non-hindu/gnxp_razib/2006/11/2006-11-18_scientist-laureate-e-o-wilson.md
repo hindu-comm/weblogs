@@ -11,7 +11,7 @@ Scientist Laureate? E.O. Wilson
 
 This week’s *Ask a ScienceBlogger*:
 
-> Who would you nominate for Scientist Laureate, if such a position > existed?…
+> Who would you nominate for Scientist Laureate, if such a position existed?…
 
 [E.O. Wilson](https://en.wikipedia.org/wiki/E.O._Wilson). Wilson combines the skills of a serious researcher with literary grace and social/political prominence. With the passing from the scene of Carl Sagan I can’t think of any other great scientist who can compare. Yes, there are greater stars in the heavens such as [Edward Witten](https://en.wikipedia.org/wiki/Edward_Witten), but none who burn so brightly for the delicate eyes of the common man.
 

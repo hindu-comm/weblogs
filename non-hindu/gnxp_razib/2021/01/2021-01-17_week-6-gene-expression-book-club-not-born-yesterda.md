@@ -19,7 +19,8 @@ A key concept in the book is vigilence. The gullible dodos are exceptions, not t
 
 ### Related Posts:
 
-- [Week 4, Gene Expression Book Club - Not Born
+- [Week 4, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/10/week-4-gene-expression-book-club-not-born-yesterday/) - [Week 5, Gene Expression Book Club - Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/16/week-5-gene-expression-book-club-not-born-yesterday/) - [Gene Expression Book Club - it's off to the
   races!](https://www.gnxp.com/WordPress/2020/10/08/gene-expression-book-club-its-off/) - [The evolutionary necessity of

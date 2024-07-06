@@ -13,7 +13,8 @@ If you aren’t subscribed to the [DNA Network](http://networks.feedburner.com/T
 
 ### Related Posts:
 
-- [Synthesis](https://www.gnxp.com/WordPress/2008/05/16/synthesis/) - [Much more
+- [Synthesis](https://www.gnxp.com/WordPress/2008/05/16/synthesis/)
+- [Much more
   Finnetics](https://www.gnxp.com/WordPress/2008/12/15/much-more-finnetics/) - [Please change RSS feeds if you
   haven't](https://www.gnxp.com/WordPress/2010/04/06/please-change-rss-feeds-if-you-havent/) - [Back to the
   Future](https://www.gnxp.com/WordPress/2008/09/04/back-to-the-future/) - [Genetic Future has

@@ -11,8 +11,8 @@ SLC24A5, the molecular genetics?
 
 [How Skin Color Is Determined](http://www.sciencedaily.com/releases/2008/02/080222155212.htm):
 
-> In 2005 researchers identified a gene called SLC24A5 as a key > determinant of skin color. Rebecca Ginger and colleagues now confirm > that the protein product of this gene (NCKX5) is an ion exchanger; it > exchanges sodium for calcium across a membrane, regulated by > potassium. But unlike other NCKX proteins, they found that NCKX5 is > not present on the cell surface, but internally in a compartment known > as the trans-Golgi network. This compartment is where new proteins and > vesicles are processed, modified and sorted. >
-> When the researchers knocked out NCKX5 in melanocytes (the skin cells > that manufacture the melanin pigment), melanin production decreased > dramatically. They also demonstrated that changing the ancestral amino > acid (alanine) at position 111 to the European form associated with > lighter skintone (threonine) reduced NCKX5’s exchanger activity.
+> In 2005 researchers identified a gene called SLC24A5 as a key > determinant of skin color. Rebecca Ginger and colleagues now confirm > that the protein product of this gene (NCKX5) is an ion exchanger; it > exchanges sodium for calcium across a membrane, regulated by > potassium. But unlike other NCKX proteins, they found that NCKX5 is not present on the cell surface, but internally in a compartment known as the trans-Golgi network. This compartment is where new proteins and vesicles are processed, modified and sorted. >
+> When the researchers knocked out NCKX5 in melanocytes (the skin cells > that manufacture the melanin pigment), melanin production decreased dramatically. They also demonstrated that changing the ancestral amino acid (alanine) at position 111 to the European form associated with lighter skintone (threonine) reduced NCKX5’s exchanger activity.
 
 **Related:** [*SLC24A5*](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=slc24a5&btnG=With+Google&domains=gnxp.com&sitesearch=gnxp.com) and [skin color](https://www.google.com/search?hl=en&domains=gnxp.com&q=skin+color&btnG=Search&sitesearch=gnxp.com).
 

@@ -11,12 +11,12 @@ The Unchurched
 
 [Unchurched Population Nears 100 Million in the U.S.](http://www.barna.org/FlexPage.aspx?Page=BarnaUpdateNarrow&BarnaUpdateID=267):
 
-> A new survey released by The Barna Group, which has been tracking > America’s religious behavior and beliefs since 1984, reveals that one > out of every three adults (33%) is classified as unchurched – meaning > they have not attended a religious service of any type during the past > six months…. >
-> Some population segments are notorious church avoiders. For instance, > 47% of political liberals are unchurched, more than twice the > percentage found among political conservatives (19%). African > Americans were less likely to be unchurched (25%) than were whites > (32%) or Hispanics (34%). Asians, however, doubled the national > average: 63% were unchurched….
+> A new survey released by The Barna Group, which has been tracking > America’s religious behavior and beliefs since 1984, reveals that one out of every three adults (33%) is classified as unchurched – meaning they have not attended a religious service of any type during the past six months…. >
+> Some population segments are notorious church avoiders. For instance, > 47% of political liberals are unchurched, more than twice the > percentage found among political conservatives (19%). African Americans were less likely to be unchurched (25%) than were whites (32%) or Hispanics (34%). Asians, however, doubled the national average: 63% were unchurched….
 
 There has been some talk about the boom in Asian American evangelical Christianity, but it is important to keep in mind that the rate of growth is in part a function of the fact that the “untapped” market is still rather large. Of course, [The American Religious Identification Survey](http://www.gc.cuny.edu/faculty/research_briefs/aris/religion_ethnicity.htm) found:
 
-> …between 1990-2001 the proportion of the newly enlarged Asian American > population who are Christian has fallen from 63% to 43%, while those > professing Asian religions (Buddhism, Hinduism, Islam, etc) has risen > from 15% to 28%.
+> …between 1990-2001 the proportion of the newly enlarged Asian American population who are Christian has fallen from 63% to 43%, while those professing Asian religions (Buddhism, Hinduism, Islam, etc) has risen from 15% to 28%.
 
 Many of the non-Christian religions don’t have as strong a congregational tradition as Christianity. But, the finding that Asian Americans are more secular than other ethnicities is a pretty robust and consistent finding.
 

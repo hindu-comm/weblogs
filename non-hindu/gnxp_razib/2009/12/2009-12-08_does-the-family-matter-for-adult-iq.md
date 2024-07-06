@@ -17,7 +17,7 @@ Twin Studies
 
 The most recent and comprehensive survey of twin studies on IQ comes from [Haworth et al (2009)](http://www.ncbi.nlm.nih.gov/pubmed/19488046). Using pooled twin data from around the world, they modeled genetic and environmental influences as a function of age. Here is what they found regarding the effects of the shared environment:
 
-> \[S\]hared environment shows a decrease from childhood (33%) to > adolescence (18%) but remained at that modest level in young adulthood > (16%).
+> \[S\]hared environment shows a decrease from childhood (33%) to adolescence (18%) but remained at that modest level in young adulthood (16%).
 
 In an email exchange with Dr. McGue (one of the co-authors of the paper) he told me that while the latest data may not fit with earlier estimates, it’s actually more reliable due to the unprecedented sample size (11,000 pairs of twins).
 

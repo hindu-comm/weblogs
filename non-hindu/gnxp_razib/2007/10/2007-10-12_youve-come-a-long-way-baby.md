@@ -13,7 +13,8 @@ Everyone at [ScienceBlogs](http://scienceblogs.com/sample/fastsearch?order=date&
 
 ### Related Posts:
 
-- [Gore Vidal](https://www.gnxp.com/WordPress/2012/07/31/gore-vidal/) - [My favorite boy
+- [Gore Vidal](https://www.gnxp.com/WordPress/2012/07/31/gore-vidal/)
+- [My favorite boy
   band](https://www.gnxp.com/WordPress/2007/10/10/my-favorite-boy-band/) - [Synthesis](https://www.gnxp.com/WordPress/2008/05/16/synthesis/) - [Our ancestors are part us...or the other way
   around?](https://www.gnxp.com/WordPress/2013/11/20/ancestors-part-us-way-around/) - [Wayne Allyn Root smarter that Barack
   Obama?](https://www.gnxp.com/WordPress/2008/09/06/wayne-allyn-root-smarter-that-barack-obama/) - [Anecdotal culture

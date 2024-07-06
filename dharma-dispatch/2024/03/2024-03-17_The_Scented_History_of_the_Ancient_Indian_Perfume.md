@@ -391,7 +391,7 @@ Subscribe
 
 The Indian term for the science and technology of cosmetics and perfumery is *Gandhasastra.* The practical art and application of preparing cosmetics and perfumery is known as *Gandhayukti.* Two important treatises dedicated to this subject include the *Gandhasara* of Gangadhara and *Gandhavada,* whose authorship is unknown. *Gandhavada* has an elaborate commentary in Marathi. *Gandhasara* was published around 1200 CE and the latter, sometime in 1600 CE. Both texts in turn are based on earlier texts dating back to around 500 CE. This is how Gangadhara defines the ultimate purpose of cosmetics and perfumery.
 
-> This science of cosmetics and perfumery is helpful in the worship of > Gods, which requires the use of auspicious perfumes and incense; it > contributes to the pleasures of men; it leads to the attainment of > Three Ends of human life (Dharma, Artha and Kama); it removes one's > own poverty; it contributes to the pleasure of the king, and it gives > the highest delight to the minds of accomplished ladies.
+> This science of cosmetics and perfumery is helpful in the worship of > Gods, which requires the use of auspicious perfumes and incense; it > contributes to the pleasures of men; it leads to the attainment of Three Ends of human life (Dharma, Artha and Kama); it removes one's own poverty; it contributes to the pleasure of the king, and it gives the highest delight to the minds of accomplished ladies.
 
 As we notice, some things are both universal and eternal. Till this date, women are the most prolific consumers of cosmetics and perfumery, and across the globe, individuals have become eponymous with the perfumes they create. Likewise, from the ancient times up to the late medieval period, perfumers were in huge demand throughout India. As I have narrated in an earlier essay, Sri Krishnadevaraya had created a separate government department for cosmetics and perfumes.
 
@@ -399,7 +399,7 @@ Equally, there are hundreds of verses in Indian literature in all languages waxi
 
 The other obvious and interesting fact is that cosmetics and perfumes were manufactured entirely from organic sources: plants, leaves, minerals, barks, shrubs, musk, ambergris, and so on. As Sri Gode notes, a study of the art and science of making perfumes in this manner is also closely linked with the study of Ayurveda because hundreds of organic aromatic ingredients also have therapeutic value. He concludes brilliantly that
 
-> The study of the Indian Gandhasastra is only one line on the spectrum > of Indian Civilization, so rich with variegated streaks of culture of > the different periods of Indian history from the Vedic times to the > advent of the Indian Independence.
+> The study of the Indian Gandhasastra is only one line on the spectrum of Indian Civilization, so rich with variegated streaks of culture of the different periods of Indian history from the Vedic times to the advent of the Indian Independence.
 
 ## Some Highlights
 

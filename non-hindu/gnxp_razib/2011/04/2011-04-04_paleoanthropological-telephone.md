@@ -11,10 +11,10 @@ Paleoanthropological "telephone"
 
 A few people have emailed me a link to this weird story, [Kashmiri Neanderthal soup not scoop](http://www.dailyindia.com/show/432988.php):
 
-> The study, conducted by the UC Davis Anthropology Department at the > US, found that about four percent (ranging from two to five percent) > of all modern humans, except African descent, have Neanderthal genes > left over from matings between the two peoples in prehistoric times, > reports Greater Kashmir. >
+> The study, conducted by the UC Davis Anthropology Department at the > US, found that about four percent (ranging from two to five percent) of all modern humans, except African descent, have Neanderthal genes left over from matings between the two peoples in prehistoric times, reports Greater Kashmir. >
 > … >
-> “You have numerous people with U2e, the European version of U2 living > in Europe, especially in Italy today, and Germany as well as other > places in Europe. It’s widely distributed throughout all of Europe in > current times. And you have India-specific U2i mtDNA living primarily > in India, especially NW India and Kashmir,” it added. >
-> So, did people from India, Kashmir, and Pakistan as well as the rest > of Central Asia populate Europe?
+> “You have numerous people with U2e, the European version of U2 living > in Europe, especially in Italy today, and Germany as well as other places in Europe. It’s widely distributed throughout all of Europe in current times. And you have India-specific U2i mtDNA living primarily in India, especially NW India and Kashmir,” it added. >
+> So, did people from India, Kashmir, and Pakistan as well as the rest of Central Asia populate Europe?
 
 Jean at [DNA forums](http://dna-forums.org/index.php?/blog/2/entry-137-kashmiri-neanderthal-soup-not-scoop/) traces the memetic mutations which led to this final product. It’s pretty funny, **but not that unsurprising.** One of the issues that is now occurring with the field of recent human origins is that because of genomics it is becoming rather technical, and requires a soft touch in terms of interpretation. But the subject matter is also very attractive to the press. The intersection is not always pretty.
 

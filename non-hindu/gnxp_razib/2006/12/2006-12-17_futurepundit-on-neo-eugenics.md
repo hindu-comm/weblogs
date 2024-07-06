@@ -13,7 +13,8 @@ Futurepundit on neo-eugenics
 
 ### Related Posts:
 
-- [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/) - [The banality of
+- [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/)
+- [The banality of
   eugenics](https://www.gnxp.com/WordPress/2006/12/06/the-banality-of-eugenics/) - [Eugenics, what's in a
   term?](https://www.gnxp.com/WordPress/2007/07/30/eugenics-what-s-in-a-term/) - [Eugenics, the genetics that dare not speak its
   name](https://www.gnxp.com/WordPress/2006/11/27/eugenics-the-genetics-that-dare-not-speak-its-name/) - [Eugenics in The

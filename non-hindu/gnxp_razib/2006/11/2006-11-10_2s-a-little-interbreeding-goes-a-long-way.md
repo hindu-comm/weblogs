@@ -11,8 +11,8 @@ Source: [here](https://www.gnxp.com/WordPress/2006/11/10/2s-a-little-interbreedi
 
 Yesterday Michael Blowhard enthusiastically [linked](http://www.2blowhards.com/archives/2006/11/interbreeding.html#003530) to the recent Neandertal introgression story, and a reader commented:
 
-> Don’t bet on it, Michael. **Paleoarchaeology postdoc.** and regular > Querencia reader Laura wrote to me off- blog:  
-> “Saw your blog and the mention of the neanderthal interbreeding > article last week…it’s all fluff, published by one of the two main > proponents of the PC theory that neanderthals were just like us, blah > blah blah….I don’t exclude the possibility that they did interbreed, > but so far there isn’t any convincing evidence. **And if they did, it > would have been on such a small scale that we won’t see it genetically > or physically (IMHO)**.”  
+> Don’t bet on it, Michael. **Paleoarchaeology postdoc.** and regular Querencia reader Laura wrote to me off- blog:  
+> “Saw your blog and the mention of the neanderthal interbreeding > article last week…it’s all fluff, published by one of the two main > proponents of the PC theory that neanderthals were just like us, blah > blah blah….I don’t exclude the possibility that they did interbreed, but so far there isn’t any convincing evidence. **And if they did, it would have been on such a small scale that we won’t see it genetically or physically (IMHO)**.”  
 > She also sent a couple of PDF’s on Neanderthal DNA. I may post later….
 
 1\) She was responding to earlier [morphology papers](https://stephenbodio.blogspot.com/2006/10/h-neanderthalensis-h-sapiens.html). I have made it pretty clear that I suspect that the papers from Trinkaus and his fellow travelers making a case for interbreeding based on anatomy and fossil evidence were timed to come right before the Lahn, and likely Paabo, papers which would add genetic data to the mix.  
@@ -42,7 +42,8 @@ Now, the model above is simplified, but I wanted to mainly get across the logic:
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [Neandertal introgression &
   SEED](https://www.gnxp.com/WordPress/2006/11/10/neandertal-introgression-seed/) - [Neandertal & H. sapiens sapiens
   interbreeding](https://www.gnxp.com/WordPress/2006/11/01/neandertal-h-sapiens-sapiens-interbreeding/) - [Neandertal & H. sapiens sapiens

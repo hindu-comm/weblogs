@@ -13,7 +13,8 @@ Interesting review of the history of the term [‘group selection’](https://ww
 
 ### Related Posts:
 
-- [Open Thread - January 1st,
+- [Open Thread
+- January 1st,
   2011](https://www.gnxp.com/WordPress/2011/01/01/open-thread-january-1st-2011/) - [Razib on
   Books](https://www.gnxp.com/WordPress/2011/02/04/razib-on-books/) - [Open
   thread....](https://www.gnxp.com/WordPress/2007/07/25/open-thread-2/) - [But peace does

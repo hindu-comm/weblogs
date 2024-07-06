@@ -11,7 +11,7 @@ The mystery of the origin of the Indo-Europeans may be solved within the next 2 
 
 Dienekes has a post up, [The Bronze Age Indo-European invasion of Europe](https://dienekes.blogspot.com/2012/07/bronze-age-indo-european-invasion-of.html). The crux of his argument is as such:
 
-> **But there is another component present in modern Europe, the > West_Asian which is conspicuous in its absence in all the ancient > samples so far.** This component reaches its highest occurrence in the > highlands of West Asia, from Anatolia and the Caucasus all the way to > the Indian subcontinent. It is well represented in modern Europeans, > reaching its minima in the Iberian peninsula….
+> **But there is another component present in modern Europe, the > West_Asian which is conspicuous in its absence in all the ancient > samples so far.** This component reaches its highest occurrence in the highlands of West Asia, from Anatolia and the Caucasus all the way to the Indian subcontinent. It is well represented in modern Europeans, reaching its minima in the Iberian peninsula….
 
 Thanks to the public release of genetic data Dienekes has developed his theories in part out of his own analyses of said data. Though I’ve run fewer analyses, with smaller data sets, **some of the same patterns jump out at me.** In particular, there is a component which is modal in northern West Asia (e.g., the trans-Caucasian region) which seems to drop mysteriously between the French generally and French Basques, and the Basque vs. non-Basque Spanish samples. There are also similar, though not necessarily easy to map across the two regions, disjunctions in South Asia between geographically close Indian groups.
 

@@ -131,7 +131,7 @@ AMONG HIS MANY OF SUCH FIRSTS, Jean Jacques Rousseau unilaterally affirmed his *
 
 There is no greater proof of Rousseau’s destructive role and legacy than the fact that he was indirectly responsible for engineering the bloody French revolution. He died much before the revolution but the ideas that espoused and propagandised throughout his life led to it. Here is the tribute of the mass-murderer Robespierre, to Rousseau:
 
-> Rousseau is the one man who, through the loftiness of his soul and the > grandeur of his character, showed himself worthy of the role of > teacher of mankind.
+> Rousseau is the one man who, through the loftiness of his soul and the grandeur of his character, showed himself worthy of the role of teacher of mankind.
 
 Rousseau didn’t go unchallenged both in his own lifetime and later but some of the ideas that he seeded eventually grew into monstrous trees which are yet to be felled. Perhaps they never can be.
 

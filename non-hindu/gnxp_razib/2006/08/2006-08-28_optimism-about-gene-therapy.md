@@ -11,8 +11,8 @@ Optimism about gene therapy
 
 The LA Times just ran two article about genetic engineering ([here](http://www.latimes.com/technology/la-he-genetherapy28aug28,1,4998228.story?ctrack=1&cset=true) and [here](http://www.latimes.com/features/health/la-he-genetherapyside28aug28,1,6374578.story)). I can’t guarantee that these articles are free of “idiotic mistakes” of the kind that drive Greg Cochran nuts, but I thought they were interesting. A money quote:
 
-> Gene therapy is making a comeback after a series of serious setbacks > that threatened to permanently derail human tests. In recent years, > European scientists have cured more than two dozen patients suffering > from three rare, and in some cases lethal, immune disorders. >
-> Spurred by this success, plus the development of new techniques aimed > at making the therapy safer and more effective, more than 300 gene > therapy trials, including the one for Parkinson’s at UC San Francisco, > are underway in the U.S. and abroad.
+> Gene therapy is making a comeback after a series of serious setbacks that threatened to permanently derail human tests. In recent years, European scientists have cured more than two dozen patients suffering from three rare, and in some cases lethal, immune disorders. >
+> Spurred by this success, plus the development of new techniques aimed at making the therapy safer and more effective, more than 300 gene therapy trials, including the one for Parkinson’s at UC San Francisco, are underway in the U.S. and abroad.
 
 ### Related Posts:
 

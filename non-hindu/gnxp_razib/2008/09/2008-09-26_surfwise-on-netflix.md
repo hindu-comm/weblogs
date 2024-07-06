@@ -13,7 +13,8 @@ If you have Netflix, the [Paskowitz family](https://www.gnxp.com/blog/2008/06/pa
 
 ### Related Posts:
 
-- [Mongol](https://www.gnxp.com/WordPress/2010/01/23/mongol/) - [A positive rate of rate of
+- [Mongol](https://www.gnxp.com/WordPress/2010/01/23/mongol/)
+- [A positive rate of rate of
   change](https://www.gnxp.com/WordPress/2010/11/22/a-positive-rate-of-rate-of-change/) - [Why I am very bearish on
   Netflix](https://www.gnxp.com/WordPress/2019/09/28/why-i-am-very-bearish-on-netflix/) - [The Paskowitz Family and the unwritten moral
   law](https://www.gnxp.com/WordPress/2008/06/02/the-paskowitz-family-and-the-unwritten-moral-law/) - [Why I'm bearish on

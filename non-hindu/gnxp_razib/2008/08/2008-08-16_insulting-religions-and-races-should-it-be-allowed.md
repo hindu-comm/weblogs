@@ -11,8 +11,8 @@ Insulting religions and races; should it be allowed?
 
 In the United States we have the free speech built into the law, so it is somewhat a moot point. Of course, as evidenced by comments in many other Western countries the limits to speech are bounded by public consensus. So I decided to look at the GSS in terms of response to one question:
 
-> After I read each statement, please tell me if you strongly agree, > aggee, neither agree nor disagree, disagree, or strongly disagree with > the statement.  
-> a. Under the First Amendment guarnateeing free speech, people should > be allowed to express their own opinions **even if they are harmful or > offensive to members of other religious or racial groups.**
+> After I read each statement, please tell me if you strongly agree, aggee, neither agree nor disagree, disagree, or strongly disagree with the statement.  
+> a. Under the First Amendment guarnateeing free speech, people should be allowed to express their own opinions **even if they are harmful or offensive to members of other religious or racial groups.**
 
 Here is what I found….  
 1) Across politics there doesn’t seem to be a strong trend. Extreme liberals do tend to go bimodal where a large minority support speech restriction, but the *N* is small. Interestingly, moderates are the most open to speech restriction. Perhaps because moderates are the least like to need protection because they’re so inoffensive 😉  

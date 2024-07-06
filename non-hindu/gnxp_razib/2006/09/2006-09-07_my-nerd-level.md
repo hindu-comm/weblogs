@@ -14,7 +14,8 @@ You can compare me to the [other freaks](http://scienceblogs.com/deltoid/2006/09
 
 ### Related Posts:
 
-- [Nerd/Geek/Dork - my
+- [Nerd/Geek/Dork
+- my
   breakdown](https://www.gnxp.com/WordPress/2006/09/21/nerdgeekdork-my-breakdown/) - [Nerd alert!](https://www.gnxp.com/WordPress/2005/05/16/nerd-alert/) - [Nerd like
   me](https://www.gnxp.com/WordPress/2006/09/06/nerd-like-me/) - [Staring at
   "freaks"](https://www.gnxp.com/WordPress/2009/05/25/staring-at-freaks/) - [Wanna get your nerd

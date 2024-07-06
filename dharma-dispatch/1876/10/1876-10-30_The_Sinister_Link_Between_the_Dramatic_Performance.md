@@ -93,7 +93,7 @@ On August 14, 1875, the *Surendra Binodini Natak* was staged. This would have fa
 
 IN THE FIRST WEEK OF JANUARY 1876, Edward VII (Prince of Wales) landed in Calcutta. He was received by Jagadananda Mukherjee, a prosperous Government Pleader, a code word for “slave of the British Empire.” With that, Jagadananda and his home became synonymous with scandal. The Macaulayite breed of Hindus was still nascent in that era and the Bengali Hindu society was proud of its cultural rootedness. A contemporary writer of that event describes the scene:
 
-> The appearance of Hindu ladies in the presence of an Englishman who > was a member of the alien ruling class showed an excess of loyalty > which many condemned and many more people ridiculed till it became the > scandal of the day.
+> The appearance of Hindu ladies in the presence of an Englishman who was a member of the alien ruling class showed an excess of loyalty which many condemned and many more people ridiculed till it became the scandal of the day.
 
 Barely a century later, this Hindu pride had not only vanished but a substantial chunk of Hindus was busy ransacking the British Library or queuing up outside the US Embassy for a quick, desperate escape out of filthy India with its morbid “Hindu rate of growth.”
 

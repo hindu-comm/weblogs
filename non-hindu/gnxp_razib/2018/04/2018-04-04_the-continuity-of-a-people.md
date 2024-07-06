@@ -11,10 +11,10 @@ The continuity of a people
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/egypt.jpeg?resize=184%2C274&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/egypt.jpeg?resize=184%2C274&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0553384902/geneexpressio-20/ref=as_at?creativeASIN=0691135894&linkCode=w61&imprToken=YsEWD8kvVA5-h0qfs5HYhw&slotNum=31)From a comment below \[edited\]:
 
-> The Chinese and Egyptians are an interesting case in this because they > had one of the earliest written scripts (or rather tradition across > generations to impart and carry information) and it was spread over > long surviving/thriving timelines. >
-> But then Egyptians lost the linguistic capability and lost their > history even though they had archaeological structures all around > them. >
+> The Chinese and Egyptians are an interesting case in this because they had one of the earliest written scripts (or rather tradition across generations to impart and carry information) and it was spread over long surviving/thriving timelines. >
+> But then Egyptians lost the linguistic capability and lost their history even though they had archaeological structures all around them. >
 > Language IS Culture. Literally. >
-> There is only so much oral tradition can do. Even if it survives the > population scale that carrier it becomes smaller and smaller and the > cultural pressures from the majority overwhelm or dilutes the > narrative 1000 years later. This happened in India. People > forgot/evolved their ancestry even if there were a gross minority of > class who remembered their class’s origin myths in a certain way.
+> There is only so much oral tradition can do. Even if it survives the > population scale that carrier it becomes smaller and smaller and the > cultural pressures from the majority overwhelm or dilutes the narrative 1000 years later. This happened in India. People forgot/evolved their ancestry even if there were a gross minority of class who remembered their class’s origin myths in a certain way.
 
 ![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/buddhas_of_bam.jpg?resize=150%2C221&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/buddhas_of_bam.jpg?resize=150%2C221&ssl=1)From a purely reductive and spare understanding of human flourishing, this is irrelevant trivia.
 

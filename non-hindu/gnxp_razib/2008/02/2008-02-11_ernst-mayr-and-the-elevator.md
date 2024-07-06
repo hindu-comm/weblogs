@@ -11,7 +11,7 @@ Ernst Mayr and the elevator
 
 I’ve finished the 5th chapter of [The Structure of Evolutionary Theory](https://www.amazon.com/exec/obidos/ASIN/0674006135/geneexpressio-20), but I don’t have time to put up a review right now. But I do want to comment on a funny passage:
 
-> I ran into Ernst Mayr as I was completing this chapter and asked if he > had ever met de Vries. “No,” he said, “botanists and zoologists didn’t > talk to each other very much in those days, and anyway, I was a > Lamarckian then.”
+> I ran into Ernst Mayr as I was completing this chapter and asked if he had ever met de Vries. “No,” he said, “botanists and zoologists didn’t talk to each other very much in those days, and anyway, I was a Lamarckian then.”
 
 [Ernst Mayr](https://en.wikipedia.org/wiki/Ernst_Mayr) lived from 1904 to 2005. Hugo de Vries didn’t die until 1935. So a meeting is certainly plausible; and it reiterates just how long Mayr lived that it is plausible he knew one of the founders of modern Mendelianism. In 2003 a friend of mine was on an elevator at the Museum of Comparative Zoology at Harvard and she found herself standing next to an elderly gentleman. He turned to her and nodded and said something to the effect of “Good day.” It was only later when she asked someone who that might be that they explained it was Ernst Mayr; when she told me who it was she’d run into my only response was “He’s still alive!?!?!” She laughed and stated that that was her response too; some people talked about how he had known Alfred Russell Wallace. This wasn’t true, but their lives did overlap (Wallace died in 1913).
 

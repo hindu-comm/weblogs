@@ -19,7 +19,7 @@ But there’s another model. Here’s the Wikipedia definition of psychopathy:
 
 
 
-> …a personality disorder that has been variously described as > characterized by shallow emotions (in particular reduced fear), stress > tolerance, lacking empathy, coldheartedness, lacking guilt, > egocentricity, superficial charm, manipulativeness, irresponsibility, > nonplanfulness, impulsivity, and antisocial behaviors such as > **parasitic lifestyle** and criminality. There is no consensus about > the symptom criteria and there are ongoing debates regarding issues > such as essential features, causes, and the possibility of treatment.
+> …a personality disorder that has been variously described as > characterized by shallow emotions (in particular reduced fear), stress > tolerance, lacking empathy, coldheartedness, lacking guilt, > egocentricity, superficial charm, manipulativeness, irresponsibility, > nonplanfulness, impulsivity, and antisocial behaviors such as **parasitic lifestyle** and criminality. There is no consensus about the symptom criteria and there are ongoing debates regarding issues such as essential features, causes, and the possibility of treatment.
 
 **What if psychopathy is not a “mistake” or deviation, but simply another morph or behavioral strategy within the human population?**At low frequencies psychopaths may have relatively high fitness, because they can easily deceive and manipulate normal humans. As they increase in frequency the general population will begin to exhibit suspicion of others, and the psychopathic advantages will rapidly diminish. A population with too many psychopaths would probably not function, as everyone tries to screw everyone else over.
 

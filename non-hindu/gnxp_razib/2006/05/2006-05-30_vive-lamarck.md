@@ -11,7 +11,7 @@ Vive Lamarck!
 
 A little while back, I [mentioned](https://www.gnxp.com/blog/2006/05/wait-does-this-mean-genetics-isnt.php) epigenetics, noting that arrays for the detection of methylated sites in the genome are starting to become available. Recently released from The American Journal of Human Genetics is a [new article](http://www.journals.uchicago.edu/AJHG/journal/issues/v79n1/43296/brief/43296.abstract.html) that uses just that type of array to detect epigenetic variation in human sperm. what do they find? Here’s the first paragraph of the discussion:
 
-> In this study, we performed an in-depth analysis to address the > question of epigenetic variability in the germline. The main > conclusions are that (1) the male germline exhibits locus-, cell-, and > age-dependent DNA methylation differences and that (2) DNA methylation > variation is significant across unrelated individuals, at a level > that, by far, exceeds DNA sequence variation.
+> In this study, we performed an in-depth analysis to address the > question of epigenetic variability in the germline. The main > conclusions are that (1) the male germline exhibits locus-, cell-, and age-dependent DNA methylation differences and that (2) DNA methylation variation is significant across unrelated individuals, at a level that, by far, exceeds DNA sequence variation.
 
 That is, different people carry different epigenetic information in their germline. The next question is clear– does this information get tranmitted to the next generation?
 

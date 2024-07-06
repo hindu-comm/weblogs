@@ -135,7 +135,7 @@ That was the Honourable President of India, Dr. Rajendra Prasad addressing the C
 
 Perhaps the wise and noble President had forgotten his own recently-lived experience dealing with the Muslim League and Jinnah. Perhaps he, as a freedom fighter, had failed to understand the real meaning behind Jinnah’s “grim determination and steadfast devotion.” That Jinnah and his Muslim League did *not fight for India’s independence but for a separate Muslim Nation.* Perhaps he did not read his own colleague, K.M. Munshi’s memo, which said:
 
-> Pakistan was created to placate Mr. Mohamed Ali Jinnah who wanted a > kingdom for himself.
+> Pakistan was created to placate Mr. Mohamed Ali Jinnah who wanted a kingdom for himself.
 
 As they say, the character and strength of a nation is known by the character of people it honours as heroes.
 

@@ -15,16 +15,16 @@ Yemen and the Yemeni Jews
 
 In my [Substack post](https://razib.substack.com/p/under-pressure-the-paradox-of-the) [Under pressure: the paradox of the diamond](https://razib.substack.com/p/under-pressure-the-paradox-of-the) I said this:
 
-> The implication of these DNA results is that Yemeni Jews are by and > large descended from natives of this region of Arabia. They are > converts, and their genetic uniqueness is a function of their > isolation from demographic currents that swept across Arabia with the > rise of Islam. The Yemenis of the highlands, isolated by geography, > show the same genetic signature of isolation, as they descend solely > from the original inhabitants of the region. This is the nth > demonstration that culture and geography are both powerful factors > driving genetic distinctiveness.
+> The implication of these DNA results is that Yemeni Jews are by and > large descended from natives of this region of Arabia. They are > converts, and their genetic uniqueness is a function of their > isolation from demographic currents that swept across Arabia with the > rise of Islam. The Yemenis of the highlands, isolated by geography, > show the same genetic signature of isolation, as they descend solely from the original inhabitants of the region. This is the nth demonstration that culture and geography are both powerful factors driving genetic distinctiveness.
 
 Some people took objection, or, inquired further, as to why I said this. From [High-resolution inference of genetic relationships among Jewish populations](https://www.nature.com/articles/s41431-019-0542-y):
 
-> Four Jewish populations included in the study—Ethiopian Jews, Indian > Jews from Cochin, Indian Jews from Mumbai, and Yemenite Jews—are > considered to be culturally distinct and not part of the Ashkenazi, > Mizrahi, North African, or Sephardi groups; they are therefore not > analyzed in sets… >
-> …Figure 1b reveals a distinctive position for the Yemenite Jewish > samples in relation to other Jewish populations… >
-> …The resulting MDS plot (Fig. 1c) places the Yemenite Jews near > Bedouin, Saudi Arabian, and Yemenite non-Jewish populations… >
-> …Jewish populations have mixed membership in the two clusters, with > the exception of the Yemenite Jews, who are placed primarily in the > main cluster among Middle Eastern populations. For K = 3, the third > cluster (dark blue) separates the Mozabite and Moroccan populations. > Non-Jewish populations from the Levant generally have substantial > membership in this cluster, as do North African and Yemenite Jews. >
-> For K = 6, Yemenite Jews have relatively high membership in the new > cluster, which also has substantial membership from Middle Eastern > populations such as Bedouins and Saudi Arabians (pink)… >
-> We further reduced the population set, exploring structure among > Jewish populations, continuing to exclude Ethiopian and Indian Jews, > and also excluding the relatively dissimilar Yemenite Jews (population > set 4)…
+> Four Jewish populations included in the study—Ethiopian Jews, Indian > Jews from Cochin, Indian Jews from Mumbai, and Yemenite Jews—are considered to be culturally distinct and not part of the Ashkenazi, Mizrahi, North African, or Sephardi groups; they are therefore not analyzed in sets… >
+> …Figure 1b reveals a distinctive position for the Yemenite Jewish samples in relation to other Jewish populations… >
+> …The resulting MDS plot (Fig. 1c) places the Yemenite Jews near Bedouin, Saudi Arabian, and Yemenite non-Jewish populations… >
+> …Jewish populations have mixed membership in the two clusters, with > the exception of the Yemenite Jews, who are placed primarily in the > main cluster among Middle Eastern populations. For K = 3, the third cluster (dark blue) separates the Mozabite and Moroccan populations. Non-Jewish populations from the Levant generally have substantial membership in this cluster, as do North African and Yemenite Jews. >
+> For K = 6, Yemenite Jews have relatively high membership in the new cluster, which also has substantial membership from Middle Eastern populations such as Bedouins and Saudi Arabians (pink)… >
+> We further reduced the population set, exploring structure among Jewish populations, continuing to exclude Ethiopian and Indian Jews, and also excluding the relatively dissimilar Yemenite Jews (population set 4)…
 
 You can look at the plots above. I also added some of my own after I added [Vyas et al.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.23312) Yemen samples (warning, only 7,000 SNP intersection!). Using my own Fst, PCA, and TreeMix, I think it’s possible that the modern Yemenis aren’t related to ancient Yemenis, but Yemeni Jews **clearly cluster with modern Arabian populations.**
 

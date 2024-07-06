@@ -15,7 +15,8 @@ Language dialect is something that we often pick up unconsciously, so I find it 
 
 ### Related Posts:
 
-- [My "dialect"](https://www.gnxp.com/WordPress/2006/11/29/my-dialect/) - [From Cantonese to
+- [My "dialect"](https://www.gnxp.com/WordPress/2006/11/29/my-dialect/)
+- [From Cantonese to
   Mandarin](https://www.gnxp.com/WordPress/2009/10/22/from-cantonese-to-mandarin/) - [No longer my
   America](https://www.gnxp.com/WordPress/2014/11/04/no-longer-my-america/) - [Political unification leads to the spread of
   languages](https://www.gnxp.com/WordPress/2009/04/21/political-unification-leads-to-the-spread-of-languages/) - [Han vs.

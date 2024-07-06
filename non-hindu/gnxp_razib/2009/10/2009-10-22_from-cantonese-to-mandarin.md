@@ -11,8 +11,8 @@ From Cantonese to Mandarin
 
 [In Chinatown, Sound of the Future Is Mandarin](http://www.nytimes.com/2009/10/22/nyregion/22chinese.html?src=sch&pagewanted=print):
 
-> He grew up playing in the narrow, crowded streets of Manhattan’s > Chinatown. He has lived and worked there for all his 61 years. But as > Wee Wong walks the neighborhood these days, he cannot understand half > the Chinese conversations he hears. >
-> Cantonese, a dialect from southern China that has dominated the > Chinatowns of North America for decades, is being rapidly swept aside > by Mandarin, the national language of China and the lingua franca of > most of the latest Chinese immigrants.
+> He grew up playing in the narrow, crowded streets of Manhattan’s Chinatown. He has lived and worked there for all his 61 years. But as Wee Wong walks the neighborhood these days, he cannot understand half the Chinese conversations he hears. >
+> Cantonese, a dialect from southern China that has dominated the Chinatowns of North America for decades, is being rapidly swept aside by Mandarin, the national language of China and the lingua franca of most of the latest Chinese immigrants.
 
 It’s more complicated than that, as the article notes that Cantonese replaced the closely related dialect of Taishanese. Another interesting twist is that the new wave of migrants are themselves not necessarily native speakers of a Mandarin dialect as they are generally from [Fujian](https://en.wikipedia.org/wiki/Min_Chinese). Rather, Standard Mandarin is a *lingua franca* among common people in the Chinese world now in a manner it may not have been when the earlier waves of South Chinese arrived in the United States. In Singapore and Taiwan the Chinese also derive from various regions of Fujian, but Mandarin is an official language, and the monolingualism in dialects is only common among the old.
 

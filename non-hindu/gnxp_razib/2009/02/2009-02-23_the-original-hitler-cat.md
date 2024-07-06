@@ -11,7 +11,7 @@ The original Hitler cat
 
 ![socksii.gif](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/socksii.gif?resize=254%2C372)![socksii.gif](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/socksii.gif?resize=254%2C372)[Obit Magazine](http://www.obit-mag.com/viewmedia.php/prmMID/5205) has a fascinating rumination on the life & times of Socks Currie-Clinton:
 
-> One of the most telling political photographs of the past few decades > is a snapshot of a cat. Against an unassuming suburban backdrop, the > picture shows a black-and-white feline crouched on a sidewalk while an > equipment-laden quintet of photographers close in. The paparazzi, it > turned out, had lured the cat outside so they could get the shot all > America wanted to see. It was November of 1992, and that animal’s > owner, Bill Clinton, had just been elected president of the United > States.
+> One of the most telling political photographs of the past few decades > is a snapshot of a cat. Against an unassuming suburban backdrop, the > picture shows a black-and-white feline crouched on a sidewalk while an > equipment-laden quintet of photographers close in. The paparazzi, it > turned out, had lured the cat outside so they could get the shot all America wanted to see. It was November of 1992, and that animal’s owner, Bill Clinton, had just been elected president of the United States.
 
 ### Related Posts:
 

@@ -15,8 +15,8 @@ Of course these viewpoints are concentrated in the “studies,” which is ironi
 
 I was thinking of this when reading this in *Nature*, [Gene variants linked to success at school prove divisive](http://www.nature.com/news/gene-variants-linked-to-success-at-school-prove-divisive-1.19882):
 
-> The findings have proved divisive. Some researchers hope that the work > will aid studies of biology, medicine and social policy, but others > say that the emphasis on genetics obscures factors that have a much > larger impact on individual attainment, such as health, parenting and > quality of schooling. >
-> **“Policymakers and *funders* should pull the plug on this sort of > work,”** said anthropologist Anne Buchanan and genetic anthropologist > Kenneth Weiss at Pennsylvania State University in University Park in a > statement to Nature. “We gain little that is useful in our > understanding of this sort of trait by a massively large genetic > approach in normal individuals.”
+> The findings have proved divisive. Some researchers hope that the work > will aid studies of biology, medicine and social policy, but others say that the emphasis on genetics obscures factors that have a much larger impact on individual attainment, such as health, parenting and quality of schooling. >
+> **“Policymakers and *funders* should pull the plug on this sort of > work,”** said anthropologist Anne Buchanan and genetic anthropologist > Kenneth Weiss at Pennsylvania State University in University Park in a statement to Nature. “We gain little that is useful in our understanding of this sort of trait by a massively large genetic approach in normal individuals.”
 
 Buchanan and Weiss are smart. Money is what fuels research, and without that oxygen further studies may not be possible. At least in the short term. Whole genome sequencing will become ubiquitous soon, so understanding these patterns is going to be a matter of joining a few tables somewhere. Imagine a future where Facebook has your genome as part of your profile; they could glean a lot about human behavior genomics simply by combining genetic states with online browsing and engagement patterns.
 

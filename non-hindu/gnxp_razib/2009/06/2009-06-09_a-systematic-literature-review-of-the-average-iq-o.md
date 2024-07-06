@@ -11,7 +11,7 @@ A systematic literature review of the average IQ of sub-Saharan Africans
 
 A [study](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W4M-4WGKKN2-1&_user=10&_coverDate=06%2F09%2F2009&_alid=930609757&_rdoc=2&_fmt=high&_orig=search&_cdi=6546&_sort=d&_docanchor=&view=c&_ct=5&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=85cbcf2b936e4660e8d916fe8c7ceedd) from Wicherts et al published online in the journal *Intelligence* today:
 
-> On the basis of several reviews of the literature, Lynn… concluded > that the average IQ of the Black population of sub-Saharan Africa lies > below 70. In this paper, the authors systematically review published > empirical data on the performance of Africans on the following IQ > tests: Draw-A-Man (DAM) test, Kaufman-Assessment Battery for Children > (K-ABC), the Wechsler scales (WAIS & WISC), and several other IQ tests > (but not the Raven’s tests)… Results show that average IQ of Africans > on these tests is approximately 82 when compared to UK norms.
+> On the basis of several reviews of the literature, Lynn… concluded > that the average IQ of the Black population of sub-Saharan Africa lies > below 70. In this paper, the authors systematically review published > empirical data on the performance of Africans on the following IQ > tests: Draw-A-Man (DAM) test, Kaufman-Assessment Battery for Children (K-ABC), the Wechsler scales (WAIS & WISC), and several other IQ tests (but not the Raven’s tests)… Results show that average IQ of Africans on these tests is approximately 82 when compared to UK norms.
 
 UPDATE: Tables and Figures below the fold
 

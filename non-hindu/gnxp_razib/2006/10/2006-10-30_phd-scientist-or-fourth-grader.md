@@ -11,7 +11,7 @@ PhD scientist or fourth-grader?
 
 The [paper](http://www.nature.com/nature/journal/v438/n7069/full/nature04338.html) describing the sequence and analysis of the dog genome ends thusly:
 
-> For millennia, dogs have accompanied humans on their travels. It is > only fitting that the dog should also be a valued companion on our > journeys of scientific discovery.
+> For millennia, dogs have accompanied humans on their travels. It is only fitting that the dog should also be a valued companion on our journeys of scientific discovery.
 
 The lamest line in a scientific paper ever?
 

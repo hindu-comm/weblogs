@@ -11,9 +11,9 @@ Genomes made real
 
 [Things we said today](http://blogs.plos.org/genomeboy/2011/11/13/things-we-said-today-2/):
 
-> But change is afoot. Numerous teams of clinicians and genomicists > (including two at my own institution) have come together to sequence > patients’ genomes and/or exomes to identify disease-causing mutations. >
-> Of course, doctors and researchers and genetic counselors are still > bickering about when to sequence, whom to sequence, return of results, > institutional liability, whether we are confusing research with > patient care, and on and on. But for the moment, what everyone can > agree on is that parents of kids with serious undiagnosed conditions > likely to be genetic absolutely do not give a shit about any of those > things. >
-> They want help. They want answers. For two decades we have painted > grandiose pictures of personalized medicine. Are we going to keep > moving the goalposts? Are we going to tell them that we didn’t mean > it?
+> But change is afoot. Numerous teams of clinicians and genomicists (including two at my own institution) have come together to sequence patients’ genomes and/or exomes to identify disease-causing mutations. >
+> Of course, doctors and researchers and genetic counselors are still > bickering about when to sequence, whom to sequence, return of results, > institutional liability, whether we are confusing research with > patient care, and on and on. But for the moment, what everyone can agree on is that parents of kids with serious undiagnosed conditions likely to be genetic absolutely do not give a shit about any of those things. >
+> They want help. They want answers. For two decades we have painted grandiose pictures of personalized medicine. Are we going to keep moving the goalposts? Are we going to tell them that we didn’t mean it?
 
 There’s a chicken & egg problem with personal genomics. Until it gets ubiquitous and relatively transparent there is always going to be some letdown in terms of what it can, or can’t, tell us. But as long as there’s a letdown, it won’t become ubiquitous and transparent. That’s the [main reason](http://blogs.discovermagazine.com/gnxp/2011/04/razib-khans-23andme-v3-genotype/) I put my genotype into the public domain. It doesn’t do me too much good or bad, **but I wanted to show people that there’s nothing terrifying about it.** Once the fear is gone, we can move forward and get some work done.
 

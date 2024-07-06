@@ -11,9 +11,9 @@ This just in: Cavemen behaved like cavemen!
 
 The [BBC reports](http://news.bbc.co.uk/2/hi/science/nature/4757861.stm) on a new study of Neolithic injuries:
 
-> A survey of British skulls from the early part of the New Stone Age, > or Neolithic, shows societies then were more violent than was > supposed.
+> A survey of British skulls from the early part of the New Stone Age, or Neolithic, shows societies then were more violent than was supposed.
 
-> Blunt instruments such as clubs were responsible for most of the > trauma.
+> Blunt instruments such as clubs were responsible for most of the trauma.
 
 If this can be seen as news is doubtful, as the subject has already been explored extensively in a long-running and widely viewed documentary series…
 

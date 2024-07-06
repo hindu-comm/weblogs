@@ -11,7 +11,7 @@ Mendelian variation in dog size
 
 [DNA study sheds light on dog size](http://news.bbc.co.uk/1/hi/sci/tech/6531049.stm):
 
-> The new research suggests that a mutation in this gene \[*IGF-1*\] led > to the appearance of small dogs more than 10,000 years ago.
+> The new research suggests that a mutation in this gene \[*IGF-1*\] led to the appearance of small dogs more than 10,000 years ago.
 
 [](https://www.gnxp.com/blog/uploaded_images/pekinese-777254.jpg)I say that we should research a way to resurrect sub-fossilized humans so that the individual who let this mutant “tiny dog” survive can be killed. I mean, how many time have you been walking down the street and a midget dog is barking their head off in your direction? Perhaps there is pleiotropy so that small size is inversely proportional to obnoxiousness? I mean, if you’re that unpleasant in regards to personality you better look like a mushed up furry ass baby!
 

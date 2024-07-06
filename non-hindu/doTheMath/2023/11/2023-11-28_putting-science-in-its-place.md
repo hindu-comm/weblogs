@@ -15,7 +15,11 @@ Photo by Noam R
 
 Although I might be described as a dyed-in-the-wool scientist, I’m about to say some things that are critical of science, which may be upsetting to some. It’s like those warnings on a movie or show: strong language, nudity, smoking, badmouthing science. So, before I lay into it, let me express some appreciation for what science does remarkably well.
 
-1.  Science exemplifies careful observation—isolating confounding factors to focus on a particular interaction. 2.  Science follows a method that suppresses personal attachment to an idea: nature becomes the arbiter of truth. 3.  When it comes to elementary particles and fundamental physics, one can hardly do any better; although even an atomic nucleus is complex enough to defy exact treatment. 4.  Science advances by trying to tear itself apart, so that surviving notions are very strong. 5.  Because of science, we have a decent outline of how cosmology, evolution, and biophysical systems work.
+1.  Science exemplifies careful observation—isolating confounding factors to focus on a particular interaction.
+2.  Science follows a method that suppresses personal attachment to an idea: nature becomes the arbiter of truth.
+3.  When it comes to elementary particles and fundamental physics, one can hardly do any better; although even an atomic nucleus is complex enough to defy exact treatment.
+4.  Science advances by trying to tear itself apart, so that surviving notions are very strong.
+5.  Because of science, we have a decent outline of how cosmology, evolution, and biophysical systems work.
 
 It has its place.
 
@@ -47,7 +51,7 @@ I guess the point here is that science operates in a space that is not always co
 
 I like this passage in Vanessa Machado de Oliveira’s [*Hospicing Modernity*](https://www.penguinrandomhouse.com/books/675703/hospicing-modernity-by-vanessa-machado-de-oliveira/). The book describes common themes in Indigenous storytelling about “little people” in the forest who can help humans navigate their realm if shown the proper respect, or bring them to peril if not. Then a quote:
 
-> If a person is not familiar with this type of storytelling, at this > point invariably some obvious questions come up: “Is it myth or > reality?” “Is it science or folklore?” or “Is it true?” I have > observed how the Indigenous people I work with answer the “is it true” > question. They usually surprise people with an unexpected answer, > which is generally a version of: “Sometimes.”
+> If a person is not familiar with this type of storytelling, at this > point invariably some obvious questions come up: “Is it myth or > reality?” “Is it science or folklore?” or “Is it true?” I have observed how the Indigenous people I work with answer the “is it true” question. They usually surprise people with an unexpected answer, which is generally a version of: “Sometimes.”
 
 I chuckle at the perfect impishness of this response, and admire the wisdom within. I feel that I could be friends with this person.
 

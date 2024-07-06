@@ -11,10 +11,10 @@ JSTORgate
 
 [Feds Charge Activist As Hacker For Downloading Millions of Academic Articles](http://www.wired.com/threatlevel/2011/07/swartz-arrest/):
 
-> Well-known coder and activist Aaron Swartz was arrested Tuesday, > charged with violating federal hacking laws for downloading millions > of academic articles from a subscription database service that MIT had > given him access to. If convicted, Swartz faces up to 35 years in > prison and a \$1 million fine. >
-> Swartz, the 24-year-old executive director of Demand Progress, has a > history of downloading massive data sets, both to use in research and > to release public domain documents from behind paywalls. Swartz, who > was aware of the investigation, turned himself in Tuesday. >
+> Well-known coder and activist Aaron Swartz was arrested Tuesday, > charged with violating federal hacking laws for downloading millions of academic articles from a subscription database service that MIT had given him access to. If convicted, Swartz faces up to 35 years in prison and a \$1 million fine. >
+> Swartz, the 24-year-old executive director of Demand Progress, has a history of downloading massive data sets, both to use in research and to release public domain documents from behind paywalls. Swartz, who was aware of the investigation, turned himself in Tuesday. >
 > … >
-> The grand jury indictment accuses Swartz of evading MIT’s attempts to > kick his laptop off the network while downloading more than four > million documents from JSTOR, a non-for-profit company that provides > searchable, digitized copies of academic journals. The scraping, which > took place from September 2010 to January 2011 via MIT’s network, was > invasive enough to bring down JSTOR’s servers on several occasions.
+> The grand jury indictment accuses Swartz of evading MIT’s attempts to > kick his laptop off the network while downloading more than four > million documents from JSTOR, a non-for-profit company that provides searchable, digitized copies of academic journals. The scraping, which took place from September 2010 to January 2011 via MIT’s network, was invasive enough to bring down JSTOR’s servers on several occasions.
 
 ### Related Posts:
 

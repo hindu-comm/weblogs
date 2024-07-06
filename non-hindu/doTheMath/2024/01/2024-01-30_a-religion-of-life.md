@@ -21,7 +21,10 @@ The following discussion about belief systems may seem out of place coming from 
 
 Why should we consider a major change?
 
--   Because we don’t know everything, and [never can](https://dothemath.ucsd.edu/2023/11/putting-science-in-its-place/). -   Because what we *do* know tells us we’re on the wrong track, [initiating](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/) a sixth mass extinction—not just from CO₂, but from [modernity itself](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/). -   Because we now (collectively) believe in the wrong things, like [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) and [economics](https://dothemath.ucsd.edu/2023/11/nothing-without-bugs/) (gross). -   These beliefs are actively hurting the [living creatures](https://dothemath.ucsd.edu/2023/10/are-we-lucky/) of the planet, including us.
+-   Because we don’t know everything, and [never can](https://dothemath.ucsd.edu/2023/11/putting-science-in-its-place/).
+-   Because what we *do* know tells us we’re on the wrong track, [initiating](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/) a sixth mass extinction—not just from CO₂, but from [modernity itself](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/).
+-   Because we now (collectively) believe in the wrong things, like [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) and [economics](https://dothemath.ucsd.edu/2023/11/nothing-without-bugs/) (gross).
+-   These beliefs are actively hurting the [living creatures](https://dothemath.ucsd.edu/2023/10/are-we-lucky/) of the planet, including us.
 
 Science has revealed *so much* about the origins and rules of the universe, and how life came to be so exquisitely diverse. Let’s tap into what this tells us. Let’s also acknowledge that mysteries will always remain. Rather than continue to be paralyzed in this urgent time by what we don’t yet know, let’s fill in the gaps with **belief**—or even **faith**—rooted in the science we already do know. Let’s move beyond the current stories we tell ourselves in modernity, and fashion new ones that move us in a better direction—to the enduring benefit of *all* life on Earth.
 
@@ -39,7 +42,7 @@ As a recap of the story’s salient features, initially Adam and Eve roamed the 
 
 When they succumbed to temptation to eat the fruit of the Tree of Knowledge of Good and Evil, they were forever banished from the Garden of Eden, with the following words (from *Genesis*):
 
-> Cursed is the ground because of you; through painful toil you will eat > of it all the days of your life. It will produce thorns and thistles > for you, and you will eat the plants of the field. By the sweat of > your brow you will eat your food until you return to the ground…
+> Cursed is the ground because of you; through painful toil you will eat of it all the days of your life. It will produce thorns and thistles for you, and you will eat the plants of the field. By the sweat of your brow you will eat your food until you return to the ground…
 
 Man, that god sounds [hangry](https://www.merriam-webster.com/dictionary/hangry)! In any case, it was to be a hard-scrabble life of agricultural toil (with a death-bonus thrown in), which was a real downer after “having it made” in the Garden.
 
@@ -109,7 +112,7 @@ Thus, humans might well be more intelligent than the community of life can toler
 
 In essence, we have thumbed our noses at the gods of evolution, promoting *ourselves* into the role of gods (more on this below). Many still worship a (usually single) god, but these religions tend to single out humans as the pinnacle of creation—granting to humans in the case of *Genesis*…
 
-> … dominion over the fish of the sea, and over the fowl of the air, and > over the cattle, and over all the earth, and over every creeping thing > that creepeth upon the earth.
+> … dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
 This is a problem. It gives me the creepeths.
 

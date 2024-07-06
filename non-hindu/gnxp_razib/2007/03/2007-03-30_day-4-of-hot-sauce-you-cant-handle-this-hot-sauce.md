@@ -13,7 +13,8 @@ Day 4 of hot sauce – You Can’t Handle this Hot Sauce
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Day 3 of hot sauce - Hottest Fuckin'
   Sauce](https://www.gnxp.com/WordPress/2007/03/29/day-3-of-hot-sauce-hottest-fuckin-sauce/) - [Day 2 of hot sauce - Ass in
   Space](https://www.gnxp.com/WordPress/2007/03/28/day-2-of-hot-sauce-ass-in-space/) - [7 days of hot

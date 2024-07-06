@@ -17,18 +17,18 @@ In some cases, it is clear that Veṅkaṭanātha could depend on second-hand qu
 
 Then there are quotes which I could not trace in Veṅkaṭanātha’s own predecessors, but which are used by other non-Buddhist authors, such as this well-known one (reused also by Vācaspati):
 
-> nirupadravabhūtārthasvabhāvasya viparyayaiḥ \|\| na bādhā yatnavattve > ’pi buddhes tatpakaṣapātataḥ \| (PV 2.210–211)
+> nirupadravabhūtārthasvabhāvasya viparyayaiḥ \|\| na bādhā yatnavattve ’pi buddhes tatpakaṣapātataḥ \| (PV 2.210–211)
 
 The text probably had a moral meaning, but it is reused by Vācaspati and Veṅkaṭanātha within an epistemological context, as supporting the intrinsic validity theory of Mīmāṃsā:
 
 > uktaṃ ca bāhyair eva  
-> anupaplavabhūtārthasvabhāvasya viparyayaiḥ \| na bādho yatnavattve ’pi > buddhes tatpakaṣapātataḥ \|\| iti (*Seśvaramīmāṃsā* ad 1.1.5, 1974 p. > 74)
+> anupaplavabhūtārthasvabhāvasya viparyayaiḥ \| na bādho yatnavattve ’pi buddhes tatpakaṣapātataḥ \|\| iti (*Seśvaramīmāṃsā* ad 1.1.5, 1974 p. 74)
 
 Last, there are quotes found only in Veṅkaṭanātha, like the following discussion of inference:
 
-> pakṣadharmas tadaṃśena vyāpto hetus tridhaiva saḥ \| avinābhāvaniyamād > hetvābhāsās tato ’pare \|\| (Hetubindu, v. 1) >
+> pakṣadharmas tadaṃśena vyāpto hetus tridhaiva saḥ \| avinābhāvaniyamād hetvābhāsās tato ’pare \|\| (Hetubindu, v. 1) >
 > āha ca dharmakīrtir hetubindau  
-> pakṣadharmas tadaṃśena vyāpto hetus tridhaiva saḥ \| avinābhāvaniyamād > dhetvābhāsās tato ’pare \|\| iti (*Sarvārthasiddhi ad > Tattvamuktākalāpa* 9)
+> pakṣadharmas tadaṃśena vyāpto hetus tridhaiva saḥ \| avinābhāvaniyamād dhetvābhāsās tato ’pare \|\| iti (*Sarvārthasiddhi ad Tattvamuktākalāpa* 9)
 
 What can we conclude out of it? That Veṅkaṭanātha was independently interested in Pramāṇavāda, since he looked for further quotes apart from the stock ones received by his forerunners. This is in itself a significant point, given that Buddhism had already disappeared from South India and was, thus, no longer a real menace. Thus, I would say that Veṅkaṭanātha was **intellectually intrigued by Pramāṇavāda** and thus wanted to find adequate answers to their challenges.
 

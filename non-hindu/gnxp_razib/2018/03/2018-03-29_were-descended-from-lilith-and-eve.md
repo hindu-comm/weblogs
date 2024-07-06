@@ -11,7 +11,7 @@ We’re descended from Lilith and Eve
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/therealeve.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/02/therealeve.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0786711922/geneexpressio-20/ref=as_at?creativeASIN=0060932902&linkCode=w61&imprToken=QsCBMLt6Ep-.Kee4Tdfr0Q&slotNum=36)From the [comments](https://www.gnxp.com/WordPress/2018/03/28/191542/comment-page-1/#comment-7811):
 
-> Something that confused me very early on in the book- the San are > shown branching off from the rest of humanity prior to Mitochondrial > Eve. How can Eve be a common ancestor in this case? Admixture?
+> Something that confused me very early on in the book- the San are shown branching off from the rest of humanity prior to Mitochondrial Eve. How can Eve be a common ancestor in this case? Admixture?
 
 The commenter is talking about an early portion of [Who We Are and How We Got Here](https://www.amazon.com/exec/obidos/ASIN/110187032X/geneexpressio-20/ref=as_at/?imprToken=fpOcRypcdRGAzql.ndBBrg&slotNum=4&creativeASIN=0275961036&linkCode=w61&imprToken=T0XqexeBoDXvoyr0cR1T6A&slotNum=45). Someone who reads a book like that is “in the know,” and this is a reasonable question. **But it points to a bigger issue that’s going to crop up with the complexificaiton of the origin of anatomically modern humanity over the last few years, and proceeding forward.**
 

@@ -19,8 +19,8 @@ It has been very difficult to study these population/ensemble behaviors in the i
 
 The major finding was that CB1 agonism (THC administration) disorganizes neuronal ensembles. The average firing rate is hardly affected. Neurons keep talking. They walk up the mall to the Lincoln memorial, but they do it one by one. This effect was initially detected as an across the board decrease in the power of oscillatory field potentials. The chants quieted down.
 
-> Crowd: [Eat the cheeseburger, astro > boy!](https://www.amazon.com/gp/product/fun-facts/B0000DJYNE) Eat the > cheeseburger, astro boy!  
-> Trotter: Enough… if you’re trying to start a riot, I suggest you > choose a simpler chant.
+> Crowd: [Eat the cheeseburger, astro boy!](https://www.amazon.com/gp/product/fun-facts/B0000DJYNE) Eat the cheeseburger, astro boy!  
+> Trotter: Enough… if you’re trying to start a riot, I suggest you choose a simpler chant.
 
 Ensemble behavior can be analyzed using cross-correlograms. You use one neuron’s spike as a reference, brand it as t=0, and then count the number of spikes from neuron 2 in time bins in relation to t=0. If two neurons are firing synchronously, there will be a large peak at 0 ms reflecting the large number of spikes from neuron 2 that coincide with spikes from neuron 1. Here is a rather dramatic visualization of a rat’s hippocampus on a CB1 receptor agonist:
 

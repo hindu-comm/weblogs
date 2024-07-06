@@ -13,7 +13,7 @@ Communities only exist only in the Minds of Europeans
 
 There are two things about[Imagined Communities](https://www.amazon.com/exec/obidos/ASIN/1784786756/geneexpressio-20/ref=as_at/?imprToken=GRIsqSNaC20FCw2Rt9f99A&slotNum=13&creativeASIN=067403306X&linkCode=w61&imprToken=8Lfko-E9WPxZrdfR-P4cAA&slotNum=60) that drove me crazy. First, there’s a tendency to just assert something that is perhaps profound, perhaps inscrutable. Honestly, I just don’t know. I randomly opened to page 23, and found this:
 
-> Figuring the Virgin Mary with “Semitic” feature or “first-century” > costumes in the restoring spirit of the modern museum was unimaginable > because the medieval \[sic\] Christian mind had no conception of > history as an endless chain of cause and effect or of radical > separation between past and present.³⁰
+> Figuring the Virgin Mary with “Semitic” feature or “first-century” > costumes in the restoring spirit of the modern museum was unimaginable because the medieval \[sic\] Christian mind had no conception of history as an endless chain of cause and effect or of radical separation between past and present.³⁰
 
 But wait, there’s a note! What does it cite? “For us, the idea of ‘modern dress,’ a metaphorical equivalencing of past with present, is a backhanded recognition of their fatal separation.”
 

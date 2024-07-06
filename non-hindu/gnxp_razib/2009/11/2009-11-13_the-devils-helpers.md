@@ -11,9 +11,9 @@ The Devil's Helpers
 
 [Two Are Charged With Helping Madoff Falsify Records](http://www.nytimes.com/2009/11/14/business/14madoff.html?hp=&pagewanted=print):
 
-> Two computer programmers who worked for Bernard L. Madoff’s brokerage > firm were arrested on Friday on criminal charges of helping perpetuate > his long-running Ponzi scheme.  
-> The two men — Jerome O’Hara of Malvern, N.Y., and George Perez of East > Brunswick, N.J. — were also sued by securities regulators, who said > they had helped keep the Madoff fraud running for more than 15 years > and took “hush money” to keep it secret.  
-> The criminal and civil complaints accuse the men of creating and > maintaining the software that enabled Mr. Madoff to generate a > completely fictitious paper trail to conceal his fraud from investors > and regulators.
+> Two computer programmers who worked for Bernard L. Madoff’s brokerage firm were arrested on Friday on criminal charges of helping perpetuate his long-running Ponzi scheme.  
+> The two men — Jerome O’Hara of Malvern, N.Y., and George Perez of East Brunswick, N.J. — were also sued by securities regulators, who said they had helped keep the Madoff fraud running for more than 15 years and took “hush money” to keep it secret.  
+> The criminal and civil complaints accuse the men of creating and maintaining the software that enabled Mr. Madoff to generate a completely fictitious paper trail to conceal his fraud from investors and regulators.
 
 Hopefully the first of many prosecutions.
 

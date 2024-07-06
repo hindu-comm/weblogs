@@ -16,7 +16,8 @@ Check out the tail, Agnostic….
 
 ### Related Posts:
 
-- [Meow Friday](https://www.gnxp.com/WordPress/2006/04/28/meow-friday/) - [The original Hitler
+- [Meow Friday](https://www.gnxp.com/WordPress/2006/04/28/meow-friday/)
+- [The original Hitler
   cat](https://www.gnxp.com/WordPress/2009/02/23/the-original-hitler-cat/) - [Recent human evolution on Science
   Friday](https://www.gnxp.com/WordPress/2006/03/10/recent-human-evolution-on-science-friday/) - [Atheism(Lonelygirl15) =
   AngryLittleGirl](https://www.gnxp.com/WordPress/2007/06/23/atheismlonelygirl15-angrylittlegirl/) - [Generation

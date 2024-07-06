@@ -25,7 +25,8 @@ Anyway, just a thought I had on the way to the Post Office (I’m not shitting y
 
 ### Related Posts:
 
-- [Complex traits & evolution - follow
+- [Complex traits & evolution
+- follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [What domestication
   changes](https://www.gnxp.com/WordPress/2009/04/13/what-domestication-changes/) - [Race & IQ: information will be
   free](https://www.gnxp.com/WordPress/2009/02/17/race-iq-information-will-be-free/) - [Ethnic differences in

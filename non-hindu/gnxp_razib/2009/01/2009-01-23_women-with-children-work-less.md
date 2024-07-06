@@ -11,7 +11,7 @@ Women with children work less
 
 Sheril has a post up, [On Sacrificing Reproductive Fitness For Career Advancement…](http://scienceblogs.com/intersection/2009/01/on_sacrificing_reproductive_fi.php), which makes a common sense point:
 
-> Angier references a recent survey of **160,000 Ph.D. recipients that > found 70 percent of male tenured professors were married with children > while only 44 percent of their female counterparts were.** Further, > twelve years or more after receiving doctorates, tenured women were > more than “twice as likely as tenured men to be single and > significantly more likely to be divorced.” Another California study > reported nearly double the number of female faculty agree with the > statement, “I had fewer children than I wanted,” compared to men. > Angier sums it up:
+> Angier references a recent survey of **160,000 Ph.D. recipients that > found 70 percent of male tenured professors were married with children > while only 44 percent of their female counterparts were.** Further, > twelve years or more after receiving doctorates, tenured women were > more than “twice as likely as tenured men to be single and > significantly more likely to be divorced.” Another California study reported nearly double the number of female faculty agree with the statement, “I had fewer children than I wanted,” compared to men. Angier sums it up:
 
 I decided to check the mean number of hours worked last week against the number of children an individual had, and break that down by sex. Below the fold are the results.
 

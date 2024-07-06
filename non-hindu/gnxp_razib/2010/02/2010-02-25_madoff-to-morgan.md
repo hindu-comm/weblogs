@@ -11,7 +11,7 @@ Madoff to Morgan
 
 [Citing shame, danger, one Madoff seeks name change](http://www.reuters.com/article/idUSTRE61O5KM20100225):
 
-> Stephanie Madoff, who is married to Madoff’s son Mark, has asked New > York Supreme Court for permission to change her last name to Morgan > and also, according to local media reports, made similar requests for > her two young children.
+> Stephanie Madoff, who is married to Madoff’s son Mark, has asked New York Supreme Court for permission to change her last name to Morgan and also, according to local media reports, made similar requests for her two young children.
 
 ### Related Posts:
 

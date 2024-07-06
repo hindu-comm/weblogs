@@ -12,9 +12,9 @@ Alina Chan is credible
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/11/Vez-eB7b_400x400.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/11/Vez-eB7b_400x400.jpg?resize=150%2C150&ssl=1)](https://www.bostonmagazine.com/news/2020/09/09/alina-chan-broad-institute-coronavirus/)A question from long-time reader Riordan:
 
 > Razib, >
-> I’ve been seeing this Twitter thread being passed around my Facebook > circles yesterday: >
-> > It relates to the curiosity of all of these > > [\#pangolinpapers](https://twitter.com/hashtag/pangolinpapers?src=hash&ref_src=twsrc%5Etfw) > > being released on Feb 18-20, driving a mania that SARS2 came from > > pangolins; all 4 papers used the same 2019 dataset; there is a web > > of co-authorship (scroll to end of the thread cited > > here):<https://t.co/wydmatOBmY> > > > > — Alina Chan (@Ayjchan) [November 10, > > 2020](https://twitter.com/Ayjchan/status/1326292153216229376?ref_src=twsrc%5Etfw) >
-> You’ve been tracking the pandemic deeply for quite some time. How > plausible do you regard the theory from Alina Chan that COVID19 > originated as a accidental/criminally incompetent lab leak from the > Wuhan Institute of Virology?
+> I’ve been seeing this Twitter thread being passed around my Facebook circles yesterday: >
+> > It relates to the curiosity of all of these > > [\#pangolinpapers](https://twitter.com/hashtag/pangolinpapers?src=hash&ref_src=twsrc%5Etfw) > > being released on Feb 18-20, driving a mania that SARS2 came from > > pangolins; all 4 papers used the same 2019 dataset; there is a web > > of co-authorship (scroll to end of the thread cited > > here):<https://t.co/wydmatOBmY> > > > — Alina Chan (@Ayjchan) [November 10, 2020](https://twitter.com/Ayjchan/status/1326292153216229376?ref_src=twsrc%5Etfw) >
+> You’ve been tracking the pandemic deeply for quite some time. How plausible do you regard the theory from Alina Chan that COVID19 originated as a accidental/criminally incompetent lab leak from the Wuhan Institute of Virology?
 
 “Tracking the pandemic” is a big job, and really you can only focus on a small subset of what’s going on. In mid-November 2020 we know a lot, but there’s a lot we don’t know. **In fact, to be frank, we know a lot less than I would have thought in the spring of 2020**. I haven’t been focusing much personally on the various ideas related to the origin of the current coronavirus that’s responsible for the COVID-19 pandemic. So I will pass on a few things:
 

@@ -29,7 +29,9 @@ Assuming you have a Linux environment, you need to download this [zip](https://w
 
 There are a bunch of files in there. Some of them are scripts I wrote. Some of them are output files that aren’t cleaned up. Some of them are packages that you’ve heard of. Of the latter:
 
-- `admixture` - `plink` - `treemix`
+- `admixture`
+- `plink`
+- `treemix`
 
 You can find these online too, though these versions should work out of the box on Ubuntu. If you have a Mac, you need the Mac versions. Just replace the Mac versions into the folder`ancestry/`. You may need some libraries installed into Ubuntu too if you recompile yourselves. Check the errors and make search engines your friends.
 

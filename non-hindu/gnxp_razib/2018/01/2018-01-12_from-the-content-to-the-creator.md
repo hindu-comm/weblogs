@@ -17,7 +17,8 @@ It is important in any case not to confuse the writer with what they are writing
 
 Some of the same applies to what I talk about on this blog. This is clear and obvious when I’m considering the selection coefficient of a novel allele. But what about the Iranian regime?
 
-1.  I am not personally a fan of the regime. 2.  I also believe it is important to describe it accurately and in its
+1.  I am not personally a fan of the regime.
+2.  I also believe it is important to describe it accurately and in its
     own terms.
 
 Some of the latter is for instrumental reasons: if you are to defeat the enemy you must understand it. Even in the early 9/11 years, this was clear, but many people resisted this attempt, as emotions were quite raw. Islamist radicals were viewed in almost metaphysical terms, as forces of nature, evil essences of the universe. The reality though is that they are embodied creatures with needs, wants, and delusions, just like any other.

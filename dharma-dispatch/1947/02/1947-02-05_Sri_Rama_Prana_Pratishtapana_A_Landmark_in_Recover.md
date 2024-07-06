@@ -97,7 +97,7 @@ Indonesia. A 100 per cent Muslim country.
 
 Lokesh Chandra (now, 96 years young), a living legend and prolific scholar of the Vedas, Buddhism and Indian Aesthetics describes the historic significance of the event:
 
-> \[Indonesia\] deserves praise and gratitude of men of culture for > providing a forum where the modern man of Asia can evaluate the > creative role of the *Ramayana* through the ages, and **its living > unity of values in Asian societies**… the *Ramayana* **has become the > lyric of the men of Asia from Siberia to Indonesia**, filling their > unbounded Self with ecstasy, with an ocean of bliss. \[Emphasis > added\]
+> \[Indonesia\] deserves praise and gratitude of men of culture for > providing a forum where the modern man of Asia can evaluate the > creative role of the *Ramayana* through the ages, and **its living > unity of values in Asian societies**… the *Ramayana* **has become the lyric of the men of Asia from Siberia to Indonesia**, filling their unbounded Self with ecstasy, with an ocean of bliss. \[Emphasis added\]
 
 Mongolia for example, had become profoundly cultured by the Ramayana centuries before it became a ferocious warring nation under Genghis Khan. As for ancient and medieval China, let’s hear it in Lokesh Chandra’s words:
 
@@ -151,7 +151,7 @@ This was unclothed political ideology masquerading as literary analysis and hist
 
 It is noteworthy that in this whole vile episode, even the colonial British did not inflict the kind of damage that the secular governments did *after* independence. Secularism, a synonymn for Hindu hatred, naturally found Sri Rama offensive. This is precisely the subtext of K.M. Munshi’s dire warning in his letter to Nehru:
 
-> **I cannot value India’s freedom if it deprives us of the Bhagavad > Gita or uproots our millions from the faith with which they look upon > our temples** and thereby destroys the texture of our lives. I have > been given the privilege of seeing my incessant dream of Somnath > reconstruction come true… **this shrine once restored to a place of > importance in our life will give to our people a purer conception of > religion and a more vivid consciousness of our strength,** so vital in > these days of freedom and its trials. \[Emphasis added\]
+> **I cannot value India’s freedom if it deprives us of the Bhagavad > Gita or uproots our millions from the faith with which they look upon > our temples** and thereby destroys the texture of our lives. I have > been given the privilege of seeing my incessant dream of Somnath > reconstruction come true… **this shrine once restored to a place of importance in our life will give to our people a purer conception of religion and a more vivid consciousness of our strength,** so vital in these days of freedom and its trials. \[Emphasis added\]
 
 What was true of Somanath is truer of Ayodhya. It has always been my considered conviction that the Sri Rama Mandir should have never been degraded to the status of a mere court case or even worse, a “title dispute.” The reclamation of Somanath was relatively effortless for two reasons. One, the secularist-Leftist-Nehruvian cabal was powerless. Two, the country had Sardar Patel. We observe the truth of this historical contrast in a tangential fashion today. The overwhelming nationwide cultural reawakening that just *one* temple has stirred is precisely what the secularists wanted to prevent. More than anybody else, *they* knew that this was bound to happen. But its scale is truly unprecedented.
 

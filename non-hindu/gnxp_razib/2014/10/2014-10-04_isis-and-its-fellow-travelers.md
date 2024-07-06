@@ -15,8 +15,8 @@ According to witnesses cited in the report, Islamic State fighters dumped more t
 
 In a barbaric pre-modern age the children would have been killed. So perhaps ISIS is not quite as 7th century as they like to proclaim. But the intersection of modernity, taking the photos, and barbarity on display here reminiscent of Rwanda more than anything else. But this is more worrisome to me:
 
-> The report said the Yazidi girl who was abducted by Islamic State > fighters when they attacked her village on Aug. 3 was raped several > times by different men before she was sold in a market. >
-> “Women and girls are brought with price tags for the buyers to choose > and negotiate the sale,” the report said. **“The buyers were said to > be mostly youth from the local communities.** Apparently ISIL was > ‘selling’ these Yazidi women to the youth as a means of inducing them > to join their ranks.”
+> The report said the Yazidi girl who was abducted by Islamic State fighters when they attacked her village on Aug. 3 was raped several times by different men before she was sold in a market. >
+> “Women and girls are brought with price tags for the buyers to choose > and negotiate the sale,” the report said. **“The buyers were said to be mostly youth from the local communities.** Apparently ISIL was ‘selling’ these Yazidi women to the youth as a means of inducing them to join their ranks.”
 
 Sunni Arabs in Iraq and Syria do have rational self-interested reasons to align with ISIS, at least temporarily. The barbaric behavior meted out to Shia and non-Muslims is generally not something they have to worry about. Though there are impositions on their personal freedom, from the perspective of a Sunni Arab the erstwhile Maliki regime and that of Assad’s may not have been better bets. **But not one forces you go to a slave market and buy slaves.**
 

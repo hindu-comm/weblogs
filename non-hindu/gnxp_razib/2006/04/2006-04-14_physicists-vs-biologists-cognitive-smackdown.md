@@ -11,7 +11,7 @@ Physicists vs. biologists – cognitive smackdown
 
 [Alex](http://scienceblogs.com/transcript/2006/04/tidbits_from_yesterday.php) and [PZ](http://scienceblogs.com/pharyngula/2006/04/blithering_spiritualists.php) point me to this quote from one John Barrow:
 
-> When Selfish Gene author Richard Dawkins challenged physicist John > Barrow on his formulation of the constants of nature at last summer’s > Templeton-Cambridge Journalism Fellowship lectures, Barrow laughed and > said, “**You have a problem with these ideas, Richard, because you’re > not really a scientist. You’re a biologist**.”
+> When Selfish Gene author Richard Dawkins challenged physicist John > Barrow on his formulation of the constants of nature at last summer’s Templeton-Cambridge Journalism Fellowship lectures, Barrow laughed and said, “**You have a problem with these ideas, Richard, because you’re not really a scientist. You’re a biologist**.”
 
 *Ouch!!!* Many physical scientists look down on life scientists. I had a friend, who shall remain nameless (who knows his own name) who was habitually contemptuous of the likes of life scientists. I was only a righteous pagan, besmirching my program of study in *chemistry* with that dreaded adjective, *bio*. Ah, how things change. Just a few months ago I was on Boston at a party stocked with the best and the brightest from the science departments of Cambridge’s two top universities (the hostess even worked in a lab on Alex’s side of the river from what I recall). My friend from my undergrad days was my chaperone, and he reintroduced me to vague acquaintances from years ago. It was a couple, a woman who was finishing up her grad work in biochemistry and a man who was a physical chemist. The woman was mentioning how everyone from her lab was being snapped up by Boston Consulting and what not, and the man jokingly sneered, “Ah, if you put *bio* in front your title are *hot* all of a sudden.” This, from an individual who works in the laboratory of a recent Nobel winner! (he has a nice postdoc in the wings, don’t cry for him)
 
@@ -79,7 +79,7 @@ Prominent American Natural Scientists – N.A.S. members (1998, sample size \~ 2
 
 From a [broader survey in 1996](http://www.beliefnet.com/story/1/story_193_1.html)
 
-> The 1996 survey showed that scientists in mathematics are most > inclined to hold belief in God (44.6 percent). **While biologists > showed the highest rates of disbelief/doubt in Leuba’s day (69.5 > percent), that ranking was given to physicists and astronomers this > time around (77.9 percent)**.
+> The 1996 survey showed that scientists in mathematics are most > inclined to hold belief in God (44.6 percent). **While biologists showed the highest rates of disbelief/doubt in Leuba’s day (69.5 percent), that ranking was given to physicists and astronomers this time around (77.9 percent)**.
 
 So, I would hold that physicists are on average smarter than biologists, but, since there are more biologists than physicists there are still more smart biologists above any given cognitive threshold than smart physicists, while in both cases they aren’t the most God-believing folk in any case so the dismissal of Dawkins as a unsophisticated biologist was neither here nor there since sophisticates seem to hold the same opinion as the unsophisticates by and large (it doesn’t matter which tribe are the kings of the hill, they survey the same general landscape).
 

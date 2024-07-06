@@ -11,12 +11,12 @@ We're all Jesus' Children? Some more so than others probably
 
 Steve Olson of [“Modelling the recent common ancestry of all living humans”](http://www.nature.com/nature/journal/v431/n7008/abs/nature02842.html) fame has [a piece in Slate](http://www.slate.com/id/2138060/) discussing this finding with a lead-in related to the *The Da Vinci Code* trial:
 
-> On Monday Dan Brown, author of The Da Vinci Code, testified in a > London courtroom to defend himself against the charge that he stole > from an earlier book the idea that Jesus has a secret line of > descendants who are alive today. But no matter how the court case > turns out, both books are confused. If anyone living today is > descended from Jesus, so are most of us on the planet.
+> On Monday Dan Brown, author of The Da Vinci Code, testified in a > London courtroom to defend himself against the charge that he stole > from an earlier book the idea that Jesus has a secret line of descendants who are alive today. But no matter how the court case turns out, both books are confused. If anyone living today is descended from Jesus, so are most of us on the planet.
 
 He does a good job of explaining the highly reticulated mess that is true human genealogy. This is an important point and he deserves credit for the piece. Unfortunately, he fails to point out that even at the identical ancestor point, some people are more your ancestors than others. With that in mind, consider his closing remarks:
 
-> The risk of today’s genetic genealogy tests is that they tend to > divide people into groups, whereas the real message that emerges from > genealogy is one of connections. For centuries, scientists have tried > to sort people into biological categories. In the 18th and 19th > centuries, they pounced on the idea of race and used it to formulate > hypotheses about human differences that had disastrous social > consequences. In the 20th century, scientists began to explore the > greater complexities of our biological histories, which are impossible > to capture in a word as simple-minded as “race.” If genetic genealogy > tests explored and explained these complexities, I’d have no problem > with them. But most of today’s tests hark back to the bad old days of > racial science. >
-> People may like to think that they’re descended from some ancient > group while other people are not. But human ancestry doesn’t work that > way, since we all share the same ancestors just a few millenniums ago. > As that idea becomes more widely accepted, arguments over who’s > descended from Jesus won’t result in lawsuits. And maybe, just maybe, > people will have one less reason to feel animosity toward other > branches of the human family.
+> The risk of today’s genetic genealogy tests is that they tend to > divide people into groups, whereas the real message that emerges from > genealogy is one of connections. For centuries, scientists have tried > to sort people into biological categories. In the 18th and 19th > centuries, they pounced on the idea of race and used it to formulate > hypotheses about human differences that had disastrous social > consequences. In the 20th century, scientists began to explore the > greater complexities of our biological histories, which are impossible > to capture in a word as simple-minded as “race.” If genetic genealogy tests explored and explained these complexities, I’d have no problem with them. But most of today’s tests hark back to the bad old days of racial science. >
+> People may like to think that they’re descended from some ancient > group while other people are not. But human ancestry doesn’t work that > way, since we all share the same ancestors just a few millenniums ago. > As that idea becomes more widely accepted, arguments over who’s descended from Jesus won’t result in lawsuits. And maybe, just maybe, people will have one less reason to feel animosity toward other branches of the human family.
 
 Obviously it would be nice if the world were to move in that direction, but it’s a bit of an overstatement. If Jesus is the ancestor of anyone living today, then most likely he’s the ancestor of some people much more than others. While we do “all share the same ancestors just a few millenniums ago”, this doesn’t change the fact that some of us much more related to one another than others. In other words, most of the bite in “race” is still there.
 
@@ -33,7 +33,8 @@ his facile comparison of the particular ancestors we have all being in common. I
 
 ### Related Posts:
 
-- [Da Vinci & DNA - Jesus with the XX male
+- [Da Vinci & DNA
+- Jesus with the XX male
   syndrome?](https://www.gnxp.com/WordPress/2006/05/22/da-vinci-dna-jesus-with-the-xx-male-syndrome/) - [Jesus Christ was my great-great...grandfather,
   and…](https://www.gnxp.com/WordPress/2006/03/17/jesus-christ-was-my-great-great-grandfather-and-great-great-uncle-etc/) - [The Dumb Vinci
   Code](https://www.gnxp.com/WordPress/2006/05/22/the-dumb-vinci-code/) - [Reading the Dumb Vinci

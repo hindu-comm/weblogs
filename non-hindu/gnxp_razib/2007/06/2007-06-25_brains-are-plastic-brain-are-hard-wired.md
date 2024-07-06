@@ -11,13 +11,13 @@ Brains are plastic! Brain are hard-wired!
 
 When talking about the genetics of intelligence, it’s inevitable that some people feel a sense of moral outrage and grasp at any argument they can find to soothe it. [Case in point](http://scienceblogs.com/pharyngula/2007/06/brains_are_plastic_not_hardwir.php):
 
-> \[W\]hile many behavioral traits have a heritable component, it’s not > anything like what the naive extremists among the cognitive science > crowd think. There are no genes that specify what you will name your > dog \[WTF? -ed\]- in fact, most of the genes associated with the brain > have very wide patterns of expression and functions that are not > neatly tied to behaviors: **how does an allele of an adhesion factor > map to your performance on a math test? It doesn’t, not directly.**
+> \[W\]hile many behavioral traits have a heritable component, it’s not > anything like what the naive extremists among the cognitive science > crowd think. There are no genes that specify what you will name your > dog \[WTF? -ed\]- in fact, most of the genes associated with the brain have very wide patterns of expression and functions that are not neatly tied to behaviors: **how does an allele of an adhesion factor map to your performance on a math test? It doesn’t, not directly.**
 
 And how does an allele in [a transcription factor](http://www.nature.com/ng/journal/v38/n3/abs/ng1732.html) map to your susceptibility to diabetes? Or how does an allele in some unknown gene [map to your weight](http://www.sciencemag.org/cgi/content/abstract/1141634v1)? Or how does an allele in [a fatty acid gene](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1435593) map to Alzheimer’s disease? They don’t, not directly. Luckily, people are working on figuring out how that mapping function works.
 
 This inanity was inspired by agreement with [this post](http://cscs.umich.edu/~crshalizi/weblog/495.html) where some crazy…oh…wait:
 
-> So you’re perfectly happy to agree that there is genetic variation in > the human population which affects the facility with which various > cognitive skills are learned, and so mental ability? >
+> So you’re perfectly happy to agree that there is genetic variation in the human population which affects the facility with which various cognitive skills are learned, and so mental ability? >
 > A: Sure.
 
 ### Related Posts:

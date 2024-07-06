@@ -12,7 +12,7 @@ Which nationalities are trusting
 Reading Dan Ariely’s [Predictably Irrational](https://www.amazon.com/exec/obidos/ASIN/006135323X/geneexpressio-20) I was struck and concerned by his data which suggested that once social norms of reciprocity break down it is difficult to regenerate them. In other words, social capital can be thought of as a limited nonrenewable resource, at least proximately. On the macroscale Peter Turchin offers up a [historical theory](https://www.gnxp.com/blog/2008/08/cliodynamics-rise-fall-of-empires-and.php) where social capital translated into group cohesion serves as the motor behind the rise & fall of states. And over 10 years ago Francis Fukuyama wrote [Trust: The Social Virtues and The Creation of Prosperity](https://www.amazon.com/exec/obidos/ASIN/0684825252/geneexpressio-20), which surveyed differences across nations in terms of how economic and social variation hinged on the trust, or lack of, across non-kin within a culture.  
 As it happens, both data sets in the [World Values Survey](http://www.worldvaluessurvey.org/) has a binary question on trust:
 
-> Generally speaking, would you say that most people can be trusted or > that you need to be very careful in dealing with people?  
+> Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?  
 > 1 – Most people can be trusted  
 > 2 – Can´t be too careful
 

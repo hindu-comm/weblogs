@@ -11,7 +11,7 @@ Sweden staying nuclear?
 
 [FuturePundit](http://www.futurepundit.com/archives/005942.html) points out that Sweden [might not phase out nuclear power](http://www.spiegel.de/international/world/0,1518,605957,00.html#ref=rss):
 
-> The decision has angered the Swedish opposition as well as > environmentalists around the world. “To rely on nuclear power to > reduce CO2 emissions,” Greenpeace spokeswoman Martina Kruger said, “is > like smoking to lose weight. It’s not a good idea.”
+> The decision has angered the Swedish opposition as well as environmentalists around the world. “To rely on nuclear power to reduce CO2 emissions,” Greenpeace spokeswoman Martina Kruger said, “is like smoking to lose weight. It’s not a good idea.”
 
 Is the perfect the enemy of the good? **All energy sources have costs.** Even hydroelectricity & wind power have ecological externalities.
 

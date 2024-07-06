@@ -11,7 +11,7 @@ Habitable planets & Alpha Centauri
 
 ![ffddpm.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/ffddpm.jpg?resize=200%2C245)![ffddpm.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/ffddpm.jpg?resize=200%2C245)*Seed*‘s Mr. Space Lee Billings has an interesting piece, [The Long Shot](http://seedmagazine.com/content/print/the_long_shot/):
 
-> “If planets are found around Alpha Centauri, it’s very clear to me > what will happen,” Marcy said. “NASA will immediately convene a > committee of its most thoughtful space propulsion experts, and they’ll > attempt to ascertain whether they can get a probe there, something > scarcely more than a digital camera, at let’s say a tenth the speed of > light. They’ll plan the first-ever mission to the stars.”
+> “If planets are found around Alpha Centauri, it’s very clear to me > what will happen,” Marcy said. “NASA will immediately convene a > committee of its most thoughtful space propulsion experts, and they’ll attempt to ascertain whether they can get a probe there, something scarcely more than a digital camera, at let’s say a tenth the speed of light. They’ll plan the first-ever mission to the stars.”
 
 The premise seems to verge on science fiction. But then much of science *could* be fiction if it weren’t fact. In any case, some perspective:  
 Alpha Centauri is 136,379 times as far from Earth as Mars is currently.  

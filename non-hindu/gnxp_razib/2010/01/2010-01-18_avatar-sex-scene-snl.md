@@ -13,7 +13,8 @@ Haven’t laughed this hard in a while….
 
 ### Related Posts:
 
-- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/) - [Just a simple
+- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/)
+- [Just a simple
   caveman](https://www.gnxp.com/WordPress/2012/07/17/just-a-simple-caveman/) - [Avatar & the death of "Star Trek
   aliens"](https://www.gnxp.com/WordPress/2009/11/12/avatar-the-death-of-star-trek-aliens/) - [Avatar](https://www.gnxp.com/WordPress/2009/12/18/avatar/) - [Andy Samberg + Mahmoud Ahmadinejad → MSM
   (?)](https://www.gnxp.com/WordPress/2007/10/01/andy-samberg-mahmoud-ahmadinejad-rarr-msm/) - [I'm a fan (always have been since her stint on

@@ -11,8 +11,8 @@ Sexual dimorphism with no costs takes some time
 
 [Macho stags have macho sons but daughters are little dears](http://www.timesonline.co.uk/tol/news/uk/science/article1996432.ece):
 
-> The findings show for the first time in animals that some genes are > designed to benefit just one gender and can handicap the other sex. >
-> It was found that the female offspring of the biggest and strongest > stags were less successful at breeding and had fewer fawns during > their lives than daughters of weedy males.
+> The findings show for the first time in animals that some genes are designed to benefit just one gender and can handicap the other sex. >
+> It was found that the female offspring of the biggest and strongest stags were less successful at breeding and had fewer fawns during their lives than daughters of weedy males.
 
 In [The Mating Mind](https://www.amazon.com/exec/obidos/ASIN/038549517X/geneexpressio-20) Geoff Miller proposed that variance in mutational load could account for the phenotypic variation in traits like intelligence. The brainy and beautiful are simply burdened with fewer deleterious alleles. But the study above suggests another reasons, **traits which increase fitness in one sex may decrease it in another**. The ideal is for sex dependent gene expression to modulate phenotypic expression so that female offspring of hyper-masculine males are not themselves somewhat masculinized. But the scaffolding of the genes which cause these traits by modifier loci takes time, and perhaps selective pressures are also running ahead so that the variational noise due to differential fitness across sexes is always extant within the population.
 

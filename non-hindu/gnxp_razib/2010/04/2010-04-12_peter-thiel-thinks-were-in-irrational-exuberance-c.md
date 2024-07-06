@@ -11,10 +11,10 @@ Peter Thiel thinks we're in irrational exuberance, crazy edition
 
 Below I [referenced a talk](http://blogs.discovermagazine.com/gnxp/2010/04/the-coming-magic-carpet-economy/) that Peter Thiel gave at the [Singularity Summit 2009](http://blogs.discovermagazine.com/gnxp/2009/10/singularity-summit-2009/). In the Q & A I recall that Thiel was skeptical that we’d head into another irrational bubble craze after having gone through two speculative boom & bust cycles in less than 10 years. My friend [Michael Vassar](http://singinst.org/aboutus/team) points me to an [article](http://www.wired.com/magazine/2010/01/st_thiel/) in *Wired* from January where Thiel asserts that *we* are in a bubble. Either I don’t recall correctly, or he’s changed his mind. Here’s the relevant part:
 
-> Wired: You’ve had a rough year. The stock market rallied strongly, and > Clarium Capital bet the wrong way. >
+> Wired: You’ve had a rough year. The stock market rallied strongly, and Clarium Capital bet the wrong way. >
 > Thiel: I think we’re back to a zone of irrational exuberance. >
 > Wired: Like before the Internet bubble burst? >
-> Thiel: *I think it’s maybe even more irrational because there’s no > story about the future. At least in ‘99 there was a story.*
+> Thiel: *I think it’s maybe even more irrational because there’s no story about the future. At least in ‘99 there was a story.*
 
 In ’99 there was a story based on something concrete, the internet. In the aughts we had a fake story. Now we’re down to no story. Well, at least above the board. If you haven’t you might be interested in [listening](http://www.thisamericanlife.org/radio-archives/episode/405/inside-job) to this week’s *This American Life*, which chronicles the market manipulation which one hedge fund engaged in, and which bankers allowed them to get away with because it was in their private (as opposed to corporate) interest. Some people can make money off bubbles, even if aggregate utility is less after than before.
 

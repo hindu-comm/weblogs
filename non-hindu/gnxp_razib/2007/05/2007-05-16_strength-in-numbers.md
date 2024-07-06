@@ -11,7 +11,7 @@ Strength in numbers
 
 [The Benefits of Bee-ing Social](http://sciencenow.sciencemag.org/cgi/content/full/2007/516/2?rss=1):
 
-> By measuring how much of each solution it took to stop the staph’s > growth, the researchers determined the strength of each kind of bee’s > body coating. All the coatings killed bacteria, but the social bees’ > antimicrobials proved much more powerful than expected, says Stow. > Antimicrobial armor from the most social bees was 314 times stronger > than that from the most solitary bees, the team reports online this > week in Biology Letters, and even the most mildly social bees were 10 > times more protected than their solitary counterparts.
+> By measuring how much of each solution it took to stop the staph’s > growth, the researchers determined the strength of each kind of bee’s > body coating. All the coatings killed bacteria, but the social bees’ > antimicrobials proved much more powerful than expected, says Stow. > Antimicrobial armor from the most social bees was 314 times stronger than that from the most solitary bees, the team reports online this week in Biology Letters, and even the most mildly social bees were 10 times more protected than their solitary counterparts.
 
 The **general** inference about the impact of the rise of dense human settlements 10,000 should be pretty obvious.
 

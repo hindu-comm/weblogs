@@ -24,7 +24,7 @@ The rise of CRISPR
 
 And now the excitement is percolating into the public spaces of the middle-brow media. *The New York Times* has now finally put CRISPR on the radar of the broader culture, in a rather long article, [A Powerful New Way to Edit DNA](http://www.nytimes.com/2014/03/04/health/a-powerful-new-way-to-edit-dna.html?hpw&rref=health&action=click&module=Search&region=searchResults%230&version=&url=http%3A%2F%2Fquery.nytimes.com%2Fsearch%2Fsitesearch%2F%3Faction%3Dclick%26region%3DMasthead%26pgtype%3DHomepage%26module%3DSearchSubmit%26contentCollection%3DHomepage%26t%3Dqry17%23%2Fcrispr%2Bgene%2F). As they they, “read the whole thing,” but key in on this quote:
 
-> **“It just completely changes the landscape,”** Dr. Doudna said. > Berkeley scientists used to farm out that work to specialized > laboratories or companies. Now, she said, “people are able to make > mice in their own labs.”
+> **“It just completely changes the landscape,”** Dr. Doudna said. Berkeley scientists used to farm out that work to specialized laboratories or companies. Now, she said, “people are able to make mice in their own labs.”
 
 No, it complete *creates* a landscape. Theory becomes concrete, and the speculations and worries of bioethicists are challenged by the real present, not some vague future. Now a biologist can state, *I am become life, creator of worlds.* Whereas genetic engineering up to the present has been an almost artisanal act, CRISPR opens up the window into the possibilities of scalable industrialization. No doubt there will be Neo-Luddites demanding we smash the looms, but they will fail, as they always have.
 

@@ -11,9 +11,9 @@ What average human heights don't tell
 
 [The changing height of Homo erectus](http://johnhawks.net/weblog/reviews/erectus/changing-height-homo-erectus-2010.html):
 
-> Today, I think it’s fair to say that the variation of stature in Homo > erectus was more or less like the variation within living people. > There are short and tall populations today, varied in ecology and > latitude. The average stature of young men in the Netherlands today is > 184 cm. Adult women in the Philippines average only 150 cm. So the > best way to compare statures is to illustrate the range.  
-> That being said, I don’t think we know how stature has evolved over > time. We do have some data points — the Neandertals were shorter than > Upper Paleolithic Europeans, for example, but seem to have been around > the same height as Mesolithic people (and a shade taller than > Neolithic Europeans). The Dmanisi people were on the short end of the > human range, but not unusually so. The variability within Lower > Pleistocene East Africans seems high, but I’d want to see a serious > test compared to human populations.  
-> It’s a case in the fossil record where discovering more seems to have > resulted in us knowing less. But that’s just because we can now reject > several categorial statements that people used to accept uncritically.
+> Today, I think it’s fair to say that the variation of stature in Homo > erectus was more or less like the variation within living people. > There are short and tall populations today, varied in ecology and latitude. The average stature of young men in the Netherlands today is 184 cm. Adult women in the Philippines average only 150 cm. So the best way to compare statures is to illustrate the range.  
+> That being said, I don’t think we know how stature has evolved over > time. We do have some data points — the Neandertals were shorter than > Upper Paleolithic Europeans, for example, but seem to have been around > the same height as Mesolithic people (and a shade taller than > Neolithic Europeans). The Dmanisi people were on the short end of the human range, but not unusually so. The variability within Lower Pleistocene East Africans seems high, but I’d want to see a serious test compared to human populations.  
+> It’s a case in the fossil record where discovering more seems to have resulted in us knowing less. But that’s just because we can now reject several categorial statements that people used to accept uncritically.
 
 ### Related Posts:
 

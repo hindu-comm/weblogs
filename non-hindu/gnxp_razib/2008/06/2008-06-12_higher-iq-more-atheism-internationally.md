@@ -11,7 +11,7 @@ Higher IQ ~ more atheism internationally
 
 [God makes you stupid, researchers claim](http://www.theregister.co.uk/2008/06/12/god_boffins/):
 
-> **Lynn and his two co-authors argue that average IQ is an excellent > predictor of what proportion of the population are true believers, > across 137 countries.** They also cite surveys of the US Academy of > Sciences and UK Royal Academy showing single-digit rates of religious > belief among academics.
+> **Lynn and his two co-authors argue that average IQ is an excellent > predictor of what proportion of the population are true believers, across 137 countries.** They also cite surveys of the US Academy of Sciences and UK Royal Academy showing single-digit rates of religious belief among academics.
 
 Well, I actually [blogged this relationship](https://www.gnxp.com/MT2/archives/001523.html) years ago (December 2003 actually). It jumps out at you pretty clearly if you know the two traits and their international trends. I think that the causal factors which underly the relationship need to be qualified carefully; I do not believe that it is *just* high IQ leading to some inevitable skepticism. I think a psychological phenomenon such as religious belief should be modeled as a quantitative trait subject to a norm of reaction. So of late I’ve become more interested in the correlations of these traits which vary *within* a culture. I’m especially interested in the \~0.50 heritability that Thomas Bouchard found among twins separated at birth in regards to religious intensity….  
 I’ve placed the three tables I found in a pre-press form of the paper that is circulating below the fold….

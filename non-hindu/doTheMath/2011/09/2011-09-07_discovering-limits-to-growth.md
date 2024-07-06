@@ -19,13 +19,13 @@ This post will provide many extended quotes from *The Limits to Growth*, the fir
 
 The first is from the 1969 book *Principles of Demography* by Donald Bogue—apparently still high from the Green Revolution:
 
-> Given the present capacity of the earth for food production, and the > potential for additional food production if modern technology were > more fully employed, the human race has clearly within its grasp the > capacity to chase hunger from the earth—within a matter of a decade or > two.
+> Given the present capacity of the earth for food production, and the > potential for additional food production if modern technology were more fully employed, the human race has clearly within its grasp the capacity to chase hunger from the earth—within a matter of a decade or two.
 
 At present—four decades on—food production per capita is essentially stalled or declining, and each year the world has [less arable land per person](http://www.globalchange.umich.edu/globalchange2/current/lectures/land_deg/land_deg.html) due to population growth compounded with soil erosion, salinity increase, desertification, and development.
 
 Next, we have R. Buckminster Fuller saying in 1967:
 
-> Humanity’s mastery of vast, inanimate, inexhaustible energy sources > and the accelerated doing more with less of sea, air, and space > technology has proven Malthus to be wrong. Comprehensive physical and > economic success for humanity may now be accomplished in one-fourth of > a century.
+> Humanity’s mastery of vast, inanimate, inexhaustible energy sources > and the accelerated doing more with less of sea, air, and space technology has proven Malthus to be wrong. Comprehensive physical and economic success for humanity may now be accomplished in one-fourth of a century.
 
 I’m just pointing out to those who discount the credibility of rocky-future warnings based on repeated “failures” of such warnings to materialize, that there is perhaps a greater preponderance of hallucinatory hubris that also fails to materialize. We should approach projections of the future with humility. We should realize that there really is something special about these past few centuries (the one-time fossil fuel joy-ride), and admit that we don’t have a consensus model for what happens next. Only then can we be smart in our preparation for the unknown.
 
@@ -35,7 +35,11 @@ Back to *The Limits to Growth* and the sobering analysis within.
 
 The World3 model created by the research team tracked five main quantities, building in all of the apparent linkages and feedback loops that can influence their values. They were:
 
-- population; - industrial output per capita; - food production per capita; - resources; - and pollution.
+- population;
+- industrial output per capita;
+- food production per capita;
+- resources;
+- and pollution.
 
 Many auxiliary variables were tracked in the process, and the graphs show birth rate, death rate, and services per capita in addition to the five main variables.
 
@@ -63,7 +67,7 @@ For example, decisions to have children are based on conditions *now* rather tha
 
 A particularly apt analogy from the book paints this picture nicely (p. 144):
 
-> Delays in a dynamic system have serious effects only if the system > itself is undergoing rapid change. Perhaps a simple example will > clarify that statement. When you drive a car there is a very short, > unavoidable delay between your perception of the road in front of you > and your reaction to it. There is a longer delay between your action > on the accelerator or brakes and the car’s response to that action. > You have learned to deal with those delays. You know that, because of > the delays, it is unsafe to drive too fast. If you do, you will > certainly experience the overshoot and collapse mode, sooner or later. > If you were blindfolded and had to drive on the instructions of a > front-seat passenger, the delay between perception and action would be > considerably lengthened. The only safe way to handle the extended > delay would be to slow down. If you tried to drive your normal speed, > or if you tried to accelerate continuously (as in exponential growth), > the result would be disastrous.
+> Delays in a dynamic system have serious effects only if the system > itself is undergoing rapid change. Perhaps a simple example will > clarify that statement. When you drive a car there is a very short, > unavoidable delay between your perception of the road in front of you > and your reaction to it. There is a longer delay between your action > on the accelerator or brakes and the car’s response to that action. > You have learned to deal with those delays. You know that, because of > the delays, it is unsafe to drive too fast. If you do, you will > certainly experience the overshoot and collapse mode, sooner or later. > If you were blindfolded and had to drive on the instructions of a > front-seat passenger, the delay between perception and action would be > considerably lengthened. The only safe way to handle the extended delay would be to slow down. If you tried to drive your normal speed, or if you tried to accelerate continuously (as in exponential growth), the result would be disastrous.
 
 ### 
 
@@ -87,17 +91,17 @@ Let’s be clear that I do **not** claim this to be a model of our future! It’
 
 Many of us are technological optimists, and have faith that we will cleverly craft our way out of a bad situation when the need drives us—as we have often done in the past. But to the extent that we need social changes—like a steady state economy, truly sustainable attitudes, or a paradigm shift from a generations-old mentality centered on growth—we may find it difficult to adapt in time. The *Limits to Growth* authors say (p. 148):
 
-> While technology can change rapidly, political and social institutions > generally change very slowly. Furthermore, they almost never change > *in anticipation* of a social need, but only in response to one. >
-> Most delays, physical or social, reduce the stability of the world > system and increase the likelihood of the overshoot mode.
+> While technology can change rapidly, political and social institutions generally change very slowly. Furthermore, they almost never change *in anticipation* of a social need, but only in response to one. >
+> Most delays, physical or social, reduce the stability of the world system and increase the likelihood of the overshoot mode.
 
 The authors wrap up the thought after describing the crisis conditions confronting the whaling industry in the early 1970’s (p. 151):
 
-> The basic choice that faces the whaling industry is the same one that > faces any society trying to overcome a natural limit with a new new > technology. *Is it better to try to live within that limit by > accepting a self-imposed restriction on growth? Or is it preferable to > go on growing until some other natural limit arises, in the hope that > at that time another technological leap will allow growth to continue > still longer?* For the last several hundred years human society has > followed the second course so consistently and successfully that the > first choice has been all but forgotten. >
-> There may be much disagreement with the statement that population and > capital growth must stop *soon*. But virtually no one will argue that > material growth on this planet can go on forever. At this point in > man’s history, the choice posed above is still available in almost > every sphere of human activity. Man can still choose his limits and > stop when he pleases by weakening some of the strong pressures that > cause capital and population growth, or by instituting > counterpressures, or both. Such counterpressures will probably not be > entirely pleasant. They will certainly involve profound changes in the > social and economic structures that have been deeply impressed into > human culture by centuries of growth. The alternative is to wait until > the price of technology becomes more than society can pay, or until > the side-effects of technology suppress growth themselves, or until > problems arise that have no technical solutions. At any of those > points the choice of limits will be gone. Growth will be stopped by > pressures that are not of human choosing, and that, as the world model > suggests, may be very much worse than those which society might choose > for itself.
+> The basic choice that faces the whaling industry is the same one that > faces any society trying to overcome a natural limit with a new new > technology. *Is it better to try to live within that limit by > accepting a self-imposed restriction on growth? Or is it preferable to > go on growing until some other natural limit arises, in the hope that > at that time another technological leap will allow growth to continue > still longer?* For the last several hundred years human society has followed the second course so consistently and successfully that the first choice has been all but forgotten. >
+> There may be much disagreement with the statement that population and > capital growth must stop *soon*. But virtually no one will argue that > material growth on this planet can go on forever. At this point in > man’s history, the choice posed above is still available in almost > every sphere of human activity. Man can still choose his limits and > stop when he pleases by weakening some of the strong pressures that > cause capital and population growth, or by instituting > counterpressures, or both. Such counterpressures will probably not be > entirely pleasant. They will certainly involve profound changes in the > social and economic structures that have been deeply impressed into > human culture by centuries of growth. The alternative is to wait until > the price of technology becomes more than society can pay, or until > the side-effects of technology suppress growth themselves, or until > problems arise that have no technical solutions. At any of those > points the choice of limits will be gone. Growth will be stopped by > pressures that are not of human choosing, and that, as the world model suggests, may be very much worse than those which society might choose for itself.
 
 They immediately wrap up the thought with a shout-out to the technology optimists among us:
 
-> We have felt it necessary to dwell so long on an analysis of > technology here because we have found that technological optimism is > the most common and the most dangerous reaction to our findings from > the world model. Technology can relieve the symptoms of a problem > without affecting the underlying causes. Faith in technology as the > ultimate solution to all problems can thus divert our attention from > the most fundamental problem—the problem of growth in a finite > system—and prevent us from taking effective action to solve it.
+> We have felt it necessary to dwell so long on an analysis of > technology here because we have found that technological optimism is > the most common and the most dangerous reaction to our findings from > the world model. Technology can relieve the symptoms of a problem > without affecting the underlying causes. Faith in technology as the > ultimate solution to all problems can thus divert our attention from the most fundamental problem—the problem of growth in a finite system—and prevent us from taking effective action to solve it.
 
 Exactly. It is not *wrong* to dream of a happy technological end-state, or to wish for a convenient pill for any ailment. How could we possibly arrive in such a state without first conceptualizing the dream? But if our faith is so strong that we *assume* that’s where we are heading, based on extrapolation of our fossil-fueled joy-ride, then we don’t go all-out to avoid the real danger of a crash. Like the nerd in the school cafeteria, our mental state is so consumed by mathy/techno thoughts that we fail to notice the stupid stuff like the stool in our path (hitting a little close to home here).
 

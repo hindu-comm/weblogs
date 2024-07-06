@@ -11,7 +11,7 @@ The "death of RSS"
 
 With the imminent demise of Google Reader there’s a lot of talk about how this is a death blow for RSS. I don’t really get this. Does anyone remember the stuff about [“the death of comments”](http://snook.ca/archives/opinion/death_of_comments) in the late 2000s? E.g.:
 
-> It’s sad and disappointing but the death of blog comments may be near. > It’s getting harder and harder to fight against the hordes of spammers > and mediocrity and animosity out there.
+> It’s sad and disappointing but the death of blog comments may be near. It’s getting harder and harder to fight against the hordes of spammers and mediocrity and animosity out there.
 
 That’s from 2007. Granted, many blogs and media organizations have worthless comments sections. But not all by any stretch. And arguably technology like Disqus has made comments more, not less, relevant, due to features like “up voting” (I’m aware that Slashdot had this a long time ago!). Around the same time there was also the [“death of email”](http://www.slate.com/articles/technology/technology/2007/11/the_death_of_email.html). Like blog comments, email is still around.
 

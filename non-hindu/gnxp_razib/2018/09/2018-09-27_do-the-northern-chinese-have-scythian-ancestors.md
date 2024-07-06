@@ -19,7 +19,9 @@ I looked at some of my samples and divided the Han into a northern and southern 
 
 I ran some three population tests. This is what was notable.
 
-1.  Han_N looks like it is mixed somewhat with Yakut 2.  Mongol has gene flow from Mongol2 3.  Mongol2 has gene flow from Lithuanians and Iron Age nomads
+1.  Han_N looks like it is mixed somewhat with Yakut
+2.  Mongol has gene flow from Mongol2
+3.  Mongol2 has gene flow from Lithuanians and Iron Age nomads
 
 I literally spend an hour on this assembling the data. But I think the easiest conclusion to draw is that the “West Eurasian” shift in modern Chinese (north) is probably mediated through Turkic people.
 

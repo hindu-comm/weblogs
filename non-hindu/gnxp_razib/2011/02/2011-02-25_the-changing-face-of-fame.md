@@ -17,7 +17,8 @@ The most well known composites are of nationalities, but he’s also generated a
 
 ### Related Posts:
 
-- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/) - [The global human -
+- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/)
+- [The global human -
   II](https://www.gnxp.com/WordPress/2010/10/30/the-global-human-ii/) - [Western Hunter-Gatherer woman, Neolithic farmer man,
   Yamnaya…](https://www.gnxp.com/WordPress/2022/12/05/western-hunter-gatherer-woman-neolithic-farmer-man-yamnaya-man/) - [Eurasian
   faces....](https://www.gnxp.com/WordPress/2005/06/26/eurasian-faces/) - [The global

@@ -11,7 +11,7 @@ Confirming the Sayyids, a historical genetic project?
 
 In many parts of the Muslim world people claim to be descendants of the Prophet. Generally these are [Sayyids](https://en.wikipedia.org/wiki/Sayyid):
 
-> Sayyid (سيد) (plural Saadah) is an honorific title that is given to > males accepted as descendants of the Islamic prophet Muhammad through > his grandsons, Hassan and Husayn, who were the **sons of his daughter > Fatima Zahra and son-in-law *Ali ibn Abi Talib***.
+> Sayyid (سيد) (plural Saadah) is an honorific title that is given to males accepted as descendants of the Islamic prophet Muhammad through his grandsons, Hassan and Husayn, who were the **sons of his daughter Fatima Zahra and son-in-law *Ali ibn Abi Talib***.
 
 Are the people who claim to be Sayyids really Sayyids? If they share common descent from Ali, their Y chromosomal lineage should be the same. Or, more likely assuming a small proportion of infidelity per generation you will have one modal Y lineage, and a host of other alien lineages at much lower frequencies.
 

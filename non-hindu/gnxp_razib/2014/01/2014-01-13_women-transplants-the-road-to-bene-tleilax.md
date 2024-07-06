@@ -11,9 +11,9 @@ Women transplants, the road to Bene Tleilax?
 
 [Womb transplants hailed as success in pioneering Swedish project](https://www.theguardian.com/society/2014/jan/13/womb-transplants-success-swedish-project?CMP=twt_gu):
 
-> Nine women in Sweden have successfully received transplanted wombs > donated from relatives and will soon try to become pregnant, the > doctor in charge of the pioneering project has revealed. >
-> The women were born without a uterus or had it removed because of > cervical cancer. Most are in their 30s and are part of the first major > experiment to test whether it is possible to transplant wombs into > women so they can give birth to their own children. >
-> Life-saving transplants of organs such as hearts, livers and kidneys > have been done for decades and doctors are increasingly transplanting > hands, faces and other body parts to improve patients’ quality of > life.
+> Nine women in Sweden have successfully received transplanted wombs donated from relatives and will soon try to become pregnant, the doctor in charge of the pioneering project has revealed. >
+> The women were born without a uterus or had it removed because of cervical cancer. Most are in their 30s and are part of the first major experiment to test whether it is possible to transplant wombs into women so they can give birth to their own children. >
+> Life-saving transplants of organs such as hearts, livers and kidneys have been done for decades and doctors are increasingly transplanting hands, faces and other body parts to improve patients’ quality of life.
 
 ### Related Posts:
 

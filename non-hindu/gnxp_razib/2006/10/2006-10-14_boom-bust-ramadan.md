@@ -11,7 +11,7 @@ Boom & bust – Ramadan
 
 This week’s *Ask a Science Blogger*:
 
-> A reader asks: Is severely regulating your diet for a month each year, > as Muslims do during Ramadan, good for you?…
+> A reader asks: Is severely regulating your diet for a month each year, as Muslims do during Ramadan, good for you?…
 
 I will not offer a very scientific response because I suspect others have more to say from that angle, rather, I will offer my own perspective as someone who was raised in a Muslim family and has endured and observed the boom & bust cycle of Ramadan.  
 First, it matters where you live and when it happens. Since it goes by the lunar calender Ramadan could pop up in the middle of the summer or the middle of the winter. As someone who has lived the vast majority of their lives in the northern 1/3 of the United States (more precisely, the majority of my life has been spend around or to the north of the 45th parallel) I have observed a wide range of regimens. During Ramadan you don’t eat or drink “from dawn ’till dusk.” This isn’t an onerous requirement in the depths of winter at higher latitudes, but, it is quite taxing during high summer. So, the question needs to be qualified by this regional caveat: how long does the fasting occur? In winter an 9 hour fast isn’t problematic, but in summer a 15 hour fast can be straining. Additionally it is during the summer that one needs to be fortified with water.  

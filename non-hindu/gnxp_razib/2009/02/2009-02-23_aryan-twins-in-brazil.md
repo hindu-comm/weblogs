@@ -11,7 +11,7 @@ Aryan twins in Brazil
 
 ![sweet-high-valley.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/sweet-high-valley.jpg?resize=200%2C138)![sweet-high-valley.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/sweet-high-valley.jpg?resize=200%2C138)[Mystery of the ‘Land of Twins’: Something in the Water? Mengele?](http://www.nytimes.com/2009/02/23/world/americas/23twins.html?_r=1&hp=&pagewanted=print):
 
-> There was no evidence of the use of contraceptives or fertility drugs > among the women, nor of any genetic mixing with people of African > origin, who have higher twinning rates than caucasians, Dr. Matte > said. **But the rate of identical twins here, at 47 percent of all > twin births, is far higher than the 30 percent that is expected in the > general population, she found.**
+> There was no evidence of the use of contraceptives or fertility drugs > among the women, nor of any genetic mixing with people of African > origin, who have higher twinning rates than caucasians, Dr. Matte said. **But the rate of identical twins here, at 47 percent of all twin births, is far higher than the 30 percent that is expected in the general population, she found.**
 
 The part about monozygotic (identical) vs. dizygotic is strange. I knew about this village, but not the high frequency of *identical* twins. The between population twinning variance alluded to in that passage usually applies to dizygotic twins. The higher twinning rates of Northern Europeans than Southern Europeans, probably due to higher levels of milk consumption, are because of higher rates of fraternal births. My money is on some environmental factor. Though I would be curious about data which show that monozygotic twinning runs in families….
 

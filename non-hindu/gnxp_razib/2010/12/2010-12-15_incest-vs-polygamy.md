@@ -17,17 +17,17 @@ Polygamy though is a different case. Here the ethnography seems to be clear that
 
 But we may be better for it. [Polygamy’s many wives don’t capture ‘market value’](http://www.vancouversun.com/news/canada/Polygamy+many+wives+capture+market+value/3952465/story.html):
 
-> Economist Shoshana Grossbard admits she was naive when she did her > doctoral thesis on polygamy more than 30 years ago at the University > of Chicago. >
-> Then, she believed that a simple supply-and-demand analysis would > explain the economics of polygamous societies. >
-> Besides, she says, “I thought it was cool to say that **polygamy might > be advantageous to women and repeat what Gary Becker** (her thesis > adviser and Nobel laureate) has said.” >
+> Economist Shoshana Grossbard admits she was naive when she did her doctoral thesis on polygamy more than 30 years ago at the University of Chicago. >
+> Then, she believed that a simple supply-and-demand analysis would explain the economics of polygamous societies. >
+> Besides, she says, “I thought it was cool to say that **polygamy might be advantageous to women and repeat what Gary Becker** (her thesis adviser and Nobel laureate) has said.” >
 > … >
-> Polygamous societies have a higher frequency of arranged marriages. > It’s not surprising, says Grossbard. Young women aren’t likely to > choose old men for husbands, plus men find young wives easier to > control. >
-> Of course, that increases the likelihood of early widowhood and > financial hardship. >
-> In societies where a bride price is paid, women don’t “capture their > increased market value.” Instead, she says, potential husbands pay the > fathers. No money goes to the bride. >
-> Divorce tends to be easier in polygamous societies. The threat of it > keeps women in line and it allows men to shed wives who are too old or > noncompliant. >
+> Polygamous societies have a higher frequency of arranged marriages. It’s not surprising, says Grossbard. Young women aren’t likely to choose old men for husbands, plus men find young wives easier to control. >
+> Of course, that increases the likelihood of early widowhood and financial hardship. >
+> In societies where a bride price is paid, women don’t “capture their increased market value.” Instead, she says, potential husbands pay the fathers. No money goes to the bride. >
+> Divorce tends to be easier in polygamous societies. The threat of it keeps women in line and it allows men to shed wives who are too old or noncompliant. >
 > Child custody almost always is the right of the father. >
-> Isolating women makes it more difficult for them to escape and makes > them even more financially dependent on their husbands. >
-> As beautiful as the harem in Grenada’s Alhambra is, Grossbard says, > “The whole institution is typical of polygamous societies.” >
+> Isolating women makes it more difficult for them to escape and makes them even more financially dependent on their husbands. >
+> As beautiful as the harem in Grenada’s Alhambra is, Grossbard says, “The whole institution is typical of polygamous societies.” >
 > There, eunuchs – castrated men – guard the wives.
 
 There are variations in the nature of polygamy. My understanding is that in some African societies women in polygamous relationships have their own independent economic life, and the male is a transient between matrifocal households. The opposite extreme occurs in Muslim societies where women are secluded from men and denied from participation in public life.

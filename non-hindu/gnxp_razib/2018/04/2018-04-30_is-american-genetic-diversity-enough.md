@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2018/04/30/is-american-genetic-div
 
 Is American genetic diversity enough?
 
-> When we sampled 200 people in Queens for the Genographic ‘Human Family > Tree’ Project in 2008 we even found a Khoisan lineage – part of what > was effectively a microcosm of global genetic diversity in a single > urban US population. >
-> — Spencer Wells (@spwells) [May 1, > 2018](https://twitter.com/spwells/status/991117000796762113?ref_src=twsrc%5Etfw)
+> When we sampled 200 people in Queens for the Genographic ‘Human Family Tree’ Project in 2008 we even found a Khoisan lineage – part of what was effectively a microcosm of global genetic diversity in a single urban US population. >
+> — Spencer Wells (@spwells) [May 1, 2018](https://twitter.com/spwells/status/991117000796762113?ref_src=twsrc%5Etfw)
 
   
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/whoweare.png?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/whoweare.png?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B073NP8WT3/geneexpressio-20)In the nearly 20 years since the draft of the human genome was complete,\* we’ve moved on to bigger and better things. In particular, researchers are looking to diversify their panels of human genetic diversity, because of differences between groups matter. You can’t just substitute [them for each other genetically](https://www.cell.com/ajhg/abstract/S0002-9297(17)30107-6).

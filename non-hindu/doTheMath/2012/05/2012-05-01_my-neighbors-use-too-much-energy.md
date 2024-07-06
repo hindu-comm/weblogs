@@ -53,7 +53,11 @@ Add another **10kWh** of daily savings to the pile.
 
 As an aside, our main route to reducing natural gas usage has been by turning our thermostat down to 55°F (12°C), as [described earlier](https://dothemath.ucsd.edu/2012/03/home-heating-for-the-hardy/ "Do the Math: Home Heating for the Hardy"). But the gas consumption in our house shot up in the Fall of 2010 when we had a house-sitter. It appears that this was *not* in the form of home heating, but rather in the form of hot water use. The fact that one person could more than double the gas consumption of *two* people in the hot water domain is noteworthy. In my quest to reduce energy, I have discovered that:
 
-1.  I only need to shower about 3 times a week without anybody (including myself) noticing ill effect; 2.  I don’t need running water for much of the time I am in the shower; 3.  I don’t need tremendous flow; 4.  I don’t need piping hot water (just warm will do—especially in summer); and 5.  showers need not take very long, given focused effort.
+1.  I only need to shower about 3 times a week without anybody (including myself) noticing ill effect;
+2.  I don’t need running water for much of the time I am in the shower;
+3.  I don’t need tremendous flow;
+4.  I don’t need piping hot water (just warm will do—especially in summer); and
+5.  showers need not take very long, given focused effort.
 
 Showers in our house routinely use something like 5 gallons of water (not all of this from the hot water heater, given mixing), and I know I could cut even this down by a lot if needed.
 

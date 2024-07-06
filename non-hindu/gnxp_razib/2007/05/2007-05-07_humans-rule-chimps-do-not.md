@@ -11,7 +11,7 @@ Humans rule! Chimps do not?
 
 So, I found this [this strange press release](http://www.eurekalert.org/pub_releases/2007-05/jws-gml050107.php) in my RSS feed. Here’s the important bit:
 
-> Gene sequencing revealed a mutation specific to humans that triggers a > change in the > [splicing](https://en.wikipedia.org/wiki/Splicing_%28genetics%29) > pattern of the neuropsin gene, creating a new splicing site and a > longer protein. Introducing this mutation into chimpanzee DNA resulted > in the creation of type II neuropsin. “Hence, the human-specific > mutation is not only necessary but also sufficient in creating the > novel splice form,” the authors state.
+> Gene sequencing revealed a mutation specific to humans that triggers a > change in the > [splicing](https://en.wikipedia.org/wiki/Splicing_%28genetics%29) > pattern of the neuropsin gene, creating a new splicing site and a > longer protein. Introducing this mutation into chimpanzee DNA resulted in the creation of type II neuropsin. “Hence, the human-specific mutation is not only necessary but also sufficient in creating the novel splice form,” the authors state.
 
 The full article is titled *Human-Specific Mutation Leads to the Origin of a Novel Splice Form of Neuropsin (KLK8), a Gene Involved in Learning and Memory*, and it is in a journal called *Human Mutation*. There seems something really stilted in the English in the press release, and the claims feel way too grandiose, but I figure if there is a 1% chance this is accurate I’ll throw up a post. Those of you with neuro chops will probably sniff out the crap earlier then I….
 

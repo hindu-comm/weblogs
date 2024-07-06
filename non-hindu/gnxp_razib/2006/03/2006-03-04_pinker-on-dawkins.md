@@ -13,7 +13,8 @@ Today’s London **Times** has an article [here](http://www.timesonline.co.uk/ar
 
 ### Related Posts:
 
-- [Skeptalk](https://www.gnxp.com/WordPress/2006/03/31/skeptalk/) - [Steven Pinker
+- [Skeptalk](https://www.gnxp.com/WordPress/2006/03/31/skeptalk/)
+- [Steven Pinker
   interview](https://www.gnxp.com/WordPress/2008/06/20/steven-pinker-interview/) - [New Steven Pinker
   interview](https://www.gnxp.com/WordPress/2007/08/25/new-steven-pinker-interview/) - [New Steven Pinker
   interview](https://www.gnxp.com/WordPress/2007/08/25/new-steven-pinker-interview/) - [Steven Pinker & Rebecca

@@ -17,13 +17,14 @@ Another anomaly is that the reported state IQ levels themselves are implausible,
 
 Kanazawa is aware of all this and suggests:
 
-> . . . while the state IQ estimates do correlate very highly with the > macroeconomic performance measures and thus appear to have some > validity, it is difficult to take the estimates at the face value. . . > Until more accurate estimates of the absolute levels of state IQ > appear (derived, for example, from actual IQ tests administered to > large, representative samples of state populations), perhaps it is > best to treat the current estimates as reflecting the relative > standings of states. . . than estimating the absolute levels of state > IQs.
+> . . . while the state IQ estimates do correlate very highly with the > macroeconomic performance measures and thus appear to have some > validity, it is difficult to take the estimates at the face value. . . > Until more accurate estimates of the absolute levels of state IQ > appear (derived, for example, from actual IQ tests administered to > large, representative samples of state populations), perhaps it is best to treat the current estimates as reflecting the relative standings of states. . . than estimating the absolute levels of state IQs.
 
 Finally, it was worth applying this information to the infamous blue state/red state [IQ hoax](http://www.isteve.com/Web_Exclusives_Archive-May2004.htm#38115.6465670139) from 2004, and Kanazawa’s data were not kind to the red states. It matters not if we accept his relative or absolute scores, the states stack blue side up. In the link above, Steve Sailer showed only small differences on the NAEP *achievement* results, but with Kanazawa’s SAT *aptitude* results we find that 8 of the top 10 scoring states were Gore voters in the 2000 election (average blue state IQ = 99.3) and 8 of the bottom 10 scoring states were Bush voters (average red state IQ = 90.2). So, apparently, those ornery hoaxers were on to something after all.
 
 ### Related Posts:
 
-- [Rushton](https://www.gnxp.com/WordPress/2006/09/17/rushton/) - [Predicting academic achievement with cognitive
+- [Rushton](https://www.gnxp.com/WordPress/2006/09/17/rushton/)
+- [Predicting academic achievement with cognitive
   ability](https://www.gnxp.com/WordPress/2006/07/20/predicting-academic-achievement-with-cognitive-ability/) - [Standardized test scores: math and
   verbal](https://www.gnxp.com/WordPress/2012/04/16/standardized-test-scores-math-and-verbal/) - [College graduates not as
   intelligent?](https://www.gnxp.com/WordPress/2008/06/05/college-graduates-not-as-intelligent/) - [Brain Boost](https://www.gnxp.com/WordPress/2005/10/10/brain-boost/) - [Where the Sexy Ones

@@ -11,7 +11,8 @@ Ear wax table
 
 I’ve been getting queries about the ear wax paper…below the fold I’ve copied [table 1](http://www.nature.com/ng/journal/vaop/ncurrent/fig_tab/ng1733_T1.html), which shows the frequencies of the haplotypes in various populations.
 
-- First, note the sample sizes. - Keep these sample sizes in mind as you try to get an understanding of
+- First, note the sample sizes.
+- Keep these sample sizes in mind as you try to get an understanding of
   the clines the authors were talking about. - Greg Cochran points out that since dry ear wax is a recessive trait it
   seems plausible that the phenotype being selected is different. It
   might be dominant or additive so that a total approach toward fixation

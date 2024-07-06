@@ -20,7 +20,8 @@ Saturday Stuff – October 1st, 2011
 
 ### Related Posts:
 
-- [Saturday Stuff - September 17th,
+- [Saturday Stuff
+- September 17th,
   2011](https://www.gnxp.com/WordPress/2011/09/17/saturday-stuff-september-17th-2011/) - [Friday Fluff - April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff - July 1st,
   2011](https://www.gnxp.com/WordPress/2011/07/01/friday-fluff-july-1st-2011/) - [Friday Fluff - October 29th,

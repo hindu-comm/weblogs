@@ -11,9 +11,9 @@ The genetic map of Europe we already knew….
 
 From Henry Harpending:
 
-> This is from a 1984 paper, citation below the figure. The genetic data > were 6 red cell antigens, 9 electrophoretic systems, and HLA and HLB. > The context was the authors’ effort to set up a big population genetic > and demographic database of Mormons, which was criticized because the > Mormons were thought to be derived from a small isolated inbred group. > They wrote this paper to show that Mormon allele frequencies were > generic northern European. Another paper the followed this showed that > Amish and Mennonites were indeed off in another dimension, but not > Mormons. >
-> This isn’t up to current standards but it does show that 25 years ago > the correspondence between genetic and geographic distances in Europe > was clear. >
-> McLellan T, Jorde LB, Skolnick MH. 1984. Genetic distances between the > Utah Mormons and related populations. Am J Hum Genet 36:836-857.
+> This is from a 1984 paper, citation below the figure. The genetic data > were 6 red cell antigens, 9 electrophoretic systems, and HLA and HLB. > The context was the authors’ effort to set up a big population genetic > and demographic database of Mormons, which was criticized because the > Mormons were thought to be derived from a small isolated inbred group. > They wrote this paper to show that Mormon allele frequencies were generic northern European. Another paper the followed this showed that Amish and Mennonites were indeed off in another dimension, but not Mormons. >
+> This isn’t up to current standards but it does show that 25 years ago the correspondence between genetic and geographic distances in Europe was clear. >
+> McLellan T, Jorde LB, Skolnick MH. 1984. Genetic distances between the Utah Mormons and related populations. Am J Hum Genet 36:836-857.
 
 I made a minor modification to the figure, which is courtesy of Lynn Jorde.
 

@@ -11,11 +11,11 @@ Decency on the internet, 20 years on
 
 Recently I was curious about what people were saying about the internet in 1994. I stumbled upon this article in *The New York Times*, [Smut Ban Backed for Computer Net](http://www.nytimes.com/1995/03/24/us/smut-ban-backed-for-computer-net.html). Even the title strikes me as quaint. This seems to be describing an early version of the [Communication Decency Act](https://en.wikipedia.org/wiki/Communications_Decency_Act) of 1996. Signed by Bill Clinton and unanimously overturned by the Supreme Court. From the article:
 
-> The measure, attached without any debate to a sweeping proposal to > overhaul the nation’s communication laws, would levy fines as high as > \$100,000 and prison terms up to two years on anyone who transmits > material that is “obscene, lewd, lascivious, filthy or indecent.” >
+> The measure, attached without any debate to a sweeping proposal to overhaul the nation’s communication laws, would levy fines as high as \$100,000 and prison terms up to two years on anyone who transmits material that is “obscene, lewd, lascivious, filthy or indecent.” >
 > … >
-> No one disputes that sex is abundant on the Internet, where magazines > like Playboy offer nude pictures at no cost and electronic bulletin > boards share information on a wide variety of practices, from > masochism to French kissing. >
-> For instance, by clicking an electronic mouse on the Playboy menu, a > person can summon up color pictures of the latest Playboy model. > Playboy, in a provocative move to enter the age of high technology, is > asking for women to apply for a future portfolio called “Women of the > Internet.” >
-> Much more explicit fare, in text and pictures, can be found in other > locations. One site on the World Wide Web, called “For Your Eyes > Only,” offers the likes of the Leather and Fetish Community Outreach > and quick access to on-line forums devoted to bondage, domination, > submission and masochism.
+> No one disputes that sex is abundant on the Internet, where magazines like Playboy offer nude pictures at no cost and electronic bulletin boards share information on a wide variety of practices, from masochism to French kissing. >
+> For instance, by clicking an electronic mouse on the Playboy menu, a > person can summon up color pictures of the latest Playboy model. Playboy, in a provocative move to enter the age of high technology, is asking for women to apply for a future portfolio called “Women of the Internet.” >
+> Much more explicit fare, in text and pictures, can be found in other > locations. One site on the World Wide Web, called “For Your Eyes Only,” offers the likes of the Leather and Fetish Community Outreach and quick access to on-line forums devoted to bondage, domination, submission and masochism.
 
 ### Related Posts:
 

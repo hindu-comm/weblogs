@@ -11,9 +11,9 @@ Dispatches from bizarro world!
 
 ![Bizarro.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Bizarro.jpg?resize=150%2C171)![Bizarro.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Bizarro.jpg?resize=150%2C171)[Afghan Schoolgirls Under Attack](http://www.nytimes.com/2009/01/14/world/asia/14kandahar.html?_r=1&hp=&pagewanted=print):
 
-> One morning two months ago, Shamsia Husseini and her sister were > walking through the muddy streets to the local girls school when a man > pulled alongside them on a motorcycle and posed what seemed like an > ordinary question.  
+> One morning two months ago, Shamsia Husseini and her sister were walking through the muddy streets to the local girls school when a man pulled alongside them on a motorcycle and posed what seemed like an ordinary question.  
 > **“Are you going to school?”**  
-> Then the man pulled Shamsia’s burqa from her head and sprayed her face > with burning acid. Scars, jagged and discolored, now spread across > Shamsia’s eyelids and most of her left cheek. These days, her vision > goes blurry, making it hard for her to read.
+> Then the man pulled Shamsia’s burqa from her head and sprayed her face with burning acid. Scars, jagged and discolored, now spread across Shamsia’s eyelids and most of her left cheek. These days, her vision goes blurry, making it hard for her to read.
 
 ### Related Posts:
 

@@ -121,7 +121,7 @@ However, for much of his life, Sita Ram Goel, the fine scholar and an insightful
 
 Unable to bear the scorching intensity of his relentless, brutal truth-telling, the small but influential cabal of Nehru’s official courtiers and his bejewelled concubines in the Communist parties resorted to what Koenraad Elst calls “strangling through silence” – that is, they pretended that Sita Ram Goel never existed. For the longest time, no media house or publication or platform as much as exhaled his name. Indeed, his essay entitled *Nightmare of Nehruism* must be made mandatory reading for anybody who truly cares about the unbroken Sanatana civilisational heritage, and how just one deracinated Prime Minister can inflict such all-encompassing ruin on his own culture. In Goel’s own words,
 
-> Nehruism is the combined embodiment of all the imperialist ideologies > of Islam, Christianity, white man’s burden and communism.
+> Nehruism is the combined embodiment of all the imperialist ideologies of Islam, Christianity, white man’s burden and communism.
 
 There were deadlier, real-life costs to pay for this abrasive truth-telling. Sita Ram Goel was arrested for the same reason: writing the naked truth about the Islamic creed.
 
@@ -219,7 +219,7 @@ The second is related to the first. The epochal 1980s up to the fall of the Babr
 
 This is of course a partial but highly representative list, but the quality and volume of work produced by *Voice of India* during this period in this genre remains comparably unsurpassed. These works provided the solid and indisputable raw material for Hindu activist and other organisations working on the ground and in other realms. As Koenraad Elst notes:
 
-> …in its Ayodhya campaign, the Vishva Hindu Parishad has routinely > referred to a "list of 3000 temples converted into or replaced by > mosques", meaning the list of nearly 2000 such cases in Goel, ed.: > Hindu Temples, vol.1. Goel also published the VHP argumentation in the > government-sponsored scholars' debate of 1990-91 (titled History vs. > Casuistry), and he straightened and corrected the BJP's clumsily > drafted White Paper on Ayodhya.
+> …in its Ayodhya campaign, the Vishva Hindu Parishad has routinely > referred to a "list of 3000 temples converted into or replaced by > mosques", meaning the list of nearly 2000 such cases in Goel, ed.: > Hindu Temples, vol.1. Goel also published the VHP argumentation in the government-sponsored scholars' debate of 1990-91 (titled History vs. Casuistry), and he straightened and corrected the BJP's clumsily drafted White Paper on Ayodhya.
 
 ## svãdhyãyãn mã pramadaha
 
@@ -241,7 +241,7 @@ It appears that the last line, *svãdhyãyã* seems to be an urgent generational
 
 It is only fitting to close this essay by quoting Sita Ram Goel again. When he wrote these words, the Sri Rama Temple was nowhere on the horizon of being a reality.
 
-> **I was of the opinion that the building of the new Rama Mandir could > wait till such time as the BJP got a mandate from the people.** The > first priority, I thought, should go to educating the people about > Islam.
+> **I was of the opinion that the building of the new Rama Mandir could wait till such time as the BJP got a mandate from the people.** The first priority, I thought, should go to educating the people about Islam.
 
 And when we recall his words today, we are stunned and humbled by the magnitude of Sita Ram Goel’s vision: *both have happened.* No Hindu has any illusions anymore about the theological reality of Islam and *what* it precisely translates to on the ground. And the BJP has not only got a thumping majority but has been instrumental in reclaiming the Sri Rama Mandir.
 

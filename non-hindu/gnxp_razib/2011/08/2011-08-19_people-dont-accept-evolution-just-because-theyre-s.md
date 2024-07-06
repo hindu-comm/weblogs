@@ -11,7 +11,7 @@ People don't accept evolution just because they're smart
 
 [Mike the Mad Biologist asks](http://blogs.discovermagazine.com/gnxp/2011/08/smart-people-accept-evolution/#comment-82205):
 
-> If we look at each wordsum category separately, which ones are > significantly different? I ask because the trend seems to reflect the > liberal-conservative split (low and high lean left; middle leans > conservative). It also seems to mirror educational > attainment–moderately educated people (some/completed college) are > more likely to be conservative. >
+> If we look at each wordsum category separately, which ones are > significantly different? I ask because the trend seems to reflect the > liberal-conservative split (low and high lean left; middle leans conservative). It also seems to mirror educational attainment–moderately educated people (some/completed college) are more likely to be conservative. >
 > Hard to suss out causal factors here.
 
 Well, here’s a logistic regression from the GSS:

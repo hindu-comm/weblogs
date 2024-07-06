@@ -13,7 +13,8 @@ Attendance at ASHG Meetings since 1981
 
 ### Related Posts:
 
-- [ASHG 2012 - which
+- [ASHG 2012
+- which
   sessions](https://www.gnxp.com/WordPress/2012/10/02/ashg-2012-which-sessions/) - [ASHG 2014](https://www.gnxp.com/WordPress/2014/09/11/ashg-2014/) - [Go to church & be
   faithful!](https://www.gnxp.com/WordPress/2009/07/18/go-to-church-be-faithful/) - [The ethics of blogging
   conferences](https://www.gnxp.com/WordPress/2009/06/03/the-ethics-of-blogging-conferences/) - [Religious attendance = more

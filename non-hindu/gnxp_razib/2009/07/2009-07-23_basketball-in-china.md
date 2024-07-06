@@ -11,7 +11,7 @@ Basketball in China
 
 [In China, a Rocky Ascent for Basketball](http://www.nytimes.com/2009/07/23/sports/basketball/23basketball.html?hp=&pagewanted=print). I love this quote:
 
-> Chinese players like Wang Yong of the Dongguan Leopards support the > increased participation of foreign players. “Chinese and foreign > players are a **harmonious blend**,” he said. “I’ve learned a lot from > them this season and feel I am a better player.”
+> Chinese players like Wang Yong of the Dongguan Leopards support the increased participation of foreign players. “Chinese and foreign players are a **harmonious blend**,” he said. “I’ve learned a lot from them this season and feel I am a better player.”
 
 ### Related Posts:
 

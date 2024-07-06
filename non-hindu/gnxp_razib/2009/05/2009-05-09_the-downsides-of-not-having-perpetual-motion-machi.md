@@ -11,7 +11,7 @@ The downsides of not having perpetual motion machines
 
 [Calculated Risk](http://www.calculatedriskblog.com/2009/05/ny-times-on-saving-rate.html) points to this [piece](http://www.nytimes.com/2009/05/10/business/economy/10saving.html?_r=1) in *The New York Times* about the increased savings rate:
 
-> This shift back to thrift may seem to be a healthy change for a > consumer class known for spending more than it earns, **but there is a > downside**: American businesses have become so dependent on consumer > spending that any pullback sends ripples through the economy.
+> This shift back to thrift may seem to be a healthy change for a consumer class known for spending more than it earns, **but there is a downside**: American businesses have become so dependent on consumer spending that any pullback sends ripples through the economy.
 
 This is a common observation; the American consumer *may* now reset to a higher level of savings and lower level of consumption, which will cause problems for the sectors of the economy driven by exuberant consumption. What I don’t get is this: **didn’t everyone assume that debt-driven consumption would eventually have to abate?** I have read arguments to the effect that the massive influx of capital due to the aging of Japan and the rise of a Chinese savings class enabled the American consumption binge, but that can only go so far for so long.
 

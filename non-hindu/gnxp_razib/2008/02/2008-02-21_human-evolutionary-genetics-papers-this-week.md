@@ -11,7 +11,7 @@ Human evolutionary genetics papers this week….
 
 I haven’t had time to read them, but [John Hawks](http://johnhawks.net/weblog/reviews/genomics/variation/serial-founder-effects-2008.html) already commented:
 
-> A flush of papers this week (two today in *Nature*, one tomorrow in > *Science*) describe new analyses of SNPs across the genome. Two of the > papers sample SNPs in global samples numbering more than 500 > individuals.
+> A flush of papers this week (two today in *Nature*, one tomorrow in *Science*) describe new analyses of SNPs across the genome. Two of the papers sample SNPs in global samples numbering more than 500 individuals.
 
 …and [Yann Klimentidis](https://yannklimentidis.blogspot.com/2008/02/europeans-are-mutants-and-oceanians.html).
 

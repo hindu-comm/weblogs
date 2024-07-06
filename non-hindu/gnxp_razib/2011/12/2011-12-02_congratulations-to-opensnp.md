@@ -13,7 +13,8 @@ For winning the [API Binary Battle](http://www.mendeley.com/blog/design-research
 
 ### Related Posts:
 
-- [openSNP](https://www.gnxp.com/WordPress/2011/10/08/opensnp/) - [Genetics and genomics projects
+- [openSNP](https://www.gnxp.com/WordPress/2011/10/08/opensnp/)
+- [Genetics and genomics projects
   galore!](https://www.gnxp.com/WordPress/2012/05/06/genetics-and-genomics-projects-galore/) - [Free 23andMe
   genotyping](https://www.gnxp.com/WordPress/2012/02/20/free-23andme-genotyping/) - [GEDmatch needs
   funds!](https://www.gnxp.com/WordPress/2012/10/21/gedmatch-needs-funds/) - [Razib Khan's raw genotype data on 23andMe, Family Tree

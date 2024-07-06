@@ -11,7 +11,7 @@ An anarcho-capitalist utopia & medieval autocracy
 
 [The dark side of Dubai](http://www.independent.co.uk/opinion/commentators/johann-hari/the-dark-side-of-dubai-1664368.html):
 
-> “The thing you have to understand about Dubai is – nothing is what it > seems,” Karen says at last. “Nothing. This isn’t a city, it’s a > con-job. They lure you in telling you it’s one thing – a modern kind > of place – but beneath the surface it’s a medieval dictatorship.”
+> “The thing you have to understand about Dubai is – nothing is what it seems,” Karen says at last. “Nothing. This isn’t a city, it’s a con-job. They lure you in telling you it’s one thing – a modern kind of place – but beneath the surface it’s a medieval dictatorship.”
 
 The article isn’t fair at all. It isn’t meant to be. But it does give one a window into the peculiar paradoxes of Dubai, and in a hyper-charged manner the effect of naked capitalism upon human societies over the past 200 years.
 

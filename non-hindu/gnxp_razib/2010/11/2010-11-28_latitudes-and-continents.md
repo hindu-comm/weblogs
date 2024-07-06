@@ -11,7 +11,7 @@ Latitudes and continents
 
 [Thanksgiving in the tropics](https://infoproc.blogspot.com/2010/11/thanksgiving-in-tropics.html):
 
-> Finally, here are some pictures I took today. It was way too hot and > humid when we first got to Taiwan, but now we’re getting some lovely > winter weather — **Taiwan is about the same latitude as Hawaii** 🙂 It > sure doesn’t feel like Thanksgiving or Xmas around here!
+> Finally, here are some pictures I took today. It was way too hot and humid when we first got to Taiwan, but now we’re getting some lovely winter weather — **Taiwan is about the same latitude as Hawaii** 🙂 It sure doesn’t feel like Thanksgiving or Xmas around here!
 
 One aspect of the East Eurasian temperate zones is that they are far to the south of the West Eurasian temperate zones. Cork, Ireland, at about the same latitude as [Petropavlovsk](https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky), Kamchatka, and eight degrees further north than Vladivostok!
 

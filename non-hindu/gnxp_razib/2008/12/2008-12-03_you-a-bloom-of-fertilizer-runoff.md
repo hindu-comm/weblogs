@@ -11,7 +11,7 @@ You = a bloom of fertilizer runoff
 
 An [interesting paper](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature07540.html) published today examines the intestinal flora of twins who are either obese or lean in an effort to learn something about the contribution of microbes to human weight. One finding is that obese people tend to have less diverse “microbiomes”, and the authors have a fun analogy:
 
-> Across all methods, obesity was associated with a significant decrease > in the level of diversity. This reduced diversity suggests an analogy: > **the obese gut microbiota is not like a rainforest or reef**, which > are adapted to high energy flux and are highly diverse; rather, **it > may be more like a fertilizer runoff** where a reduced-diversity > microbial community blooms with abnormal energy input.
+> Across all methods, obesity was associated with a significant decrease > in the level of diversity. This reduced diversity suggests an analogy: > **the obese gut microbiota is not like a rainforest or reef**, which are adapted to high energy flux and are highly diverse; rather, **it may be more like a fertilizer runoff** where a reduced-diversity microbial community blooms with abnormal energy input.
 
 ### Related Posts:
 

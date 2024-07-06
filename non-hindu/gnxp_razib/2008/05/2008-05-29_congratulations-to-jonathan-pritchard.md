@@ -11,8 +11,8 @@ Congratulations to Jonathan Pritchard
 
 [Innovation in genetic variation research garners Jonathan Pritchard HHMI investigator appointment at University](http://chronicle.uchicago.edu/080529/hhmi.shtml). HHMI = [Howard Hughes Medical Institute](http://www.hhmi.org/). So when are we going to see him in [Chicago Magazine](http://www.chicagomag.com/Chicago-Magazine/July-2006/Lone-Stars/Bruce-Lahn/)? In any case:
 
-> In a 2006 paper, Pritchard and his colleagues described the > identification of several hundred DNA regions in various human > populations that show signals of selection. Included within those > regions are genes that influence reproduction, olfaction and > degradation of environmental toxins, skin pigmentation and skeletal > development. >
-> Using more extensive data that have recently become available, his > group has been examining the relative roles of chance (which can lead > to changes in the gene pool known as genetic drift) and selection in > favoring these genes. “**Selection may be a weaker force than we > thought**,” he said. “It seems to be a combination of drift and > selection acting together.”
+> In a 2006 paper, Pritchard and his colleagues described the > identification of several hundred DNA regions in various human > populations that show signals of selection. Included within those regions are genes that influence reproduction, olfaction and degradation of environmental toxins, skin pigmentation and skeletal development. >
+> Using more extensive data that have recently become available, his > group has been examining the relative roles of chance (which can lead > to changes in the gene pool known as genetic drift) and selection in favoring these genes. “**Selection may be a weaker force than we thought**,” he said. “It seems to be a combination of drift and selection acting together.”
 
 Things that make you go hmmmmm….
 

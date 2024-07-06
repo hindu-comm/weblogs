@@ -16,7 +16,7 @@ To me, it is curious how the borders of the Peoples’ Republic of China is evid
 
 As I said, these methods can confirm rigorously what is already clear intuitively. For example:
 
-> Several large-scale corridors are inferred that represent long-range > genetic similarity, for example: India is connected by two corridors > to Europe (a southern one through Anatolia and Persia ‘SC’, and  
+> Several large-scale corridors are inferred that represent long-range genetic similarity, for example: India is connected by two corridors to Europe (a southern one through Anatolia and Persia ‘SC’, and  
 > a northern one through the Eurasian Steppe ‘NC’)
 
 We still don’t have enough ancient DNA to be totally sure, but it’s hard to ignore the likelihood that “Ancestral North Indians” (AN) actually represent two different migrations.
@@ -27,7 +27,8 @@ Because there are so many geographically distributed samples for humans, and fra
 
 ### Related Posts:
 
-- [SpaceMix](https://www.gnxp.com/WordPress/2015/01/09/spacemix/) - [Continuous gene flow vs. pulse
+- [SpaceMix](https://www.gnxp.com/WordPress/2015/01/09/spacemix/)
+- [Continuous gene flow vs. pulse
   admixture](https://www.gnxp.com/WordPress/2017/12/01/continuous-gene-flow-vs-pulse-admixture/) - [Speciation & gene
   flow](https://www.gnxp.com/WordPress/2008/04/10/speciation-gene-flow/) - [Finns as European
   outliers](https://www.gnxp.com/WordPress/2008/10/24/finns-as-european-outliers/) - [The genetic discovery of

@@ -11,7 +11,7 @@ Which demographics know science?
 
 The always fascinating [Inductivist](https://inductivist.blogspot.com/2008/07/lets-look-at-americas-sciq-in-2006.html) takes a look at science comprehension of Americans [via the GSS](https://inductivist.blogspot.com/2008/07/lets-look-at-americas-sciq-in-2006.html). Here’s his methodology:
 
-> In 2006 the General Social Survey asked 437 respondents eleven basic > science questions. The first one, for example, was whether the earth’s > center is hot. I gave each person one point for answering a question > correctly, and then summed the scores. My next step was to convert > these totals so they resemble IQ scores. **I set the white mean at > 100, and the standard deviation at 15.** Here are some averages:
+> In 2006 the General Social Survey asked 437 respondents eleven basic > science questions. The first one, for example, was whether the earth’s > center is hot. I gave each person one point for answering a question correctly, and then summed the scores. My next step was to convert these totals so they resemble IQ scores. **I set the white mean at 100, and the standard deviation at 15.** Here are some averages:
 
 Since we know the standard deviation I decided that it might be interesting to take the numbers he generated and convert them into standard deviation units, and display them on one single chart in a comparative manner.
 
@@ -30,7 +30,7 @@ Mountain
 West North Central  
 It seems to me that the states which are the most savvy about science are those who tend to be part of what Michael Lind has termed [Greater New England](http://www.prospect.org/cs/articles?articleId=8954):
 
-> If you look at a linguistic atlas of the United States, you’ll notice > something striking. The “Upper North” dialect zone identified by > students of American speech patterns is almost identical to the > blue-state zone on the Electoral College map: New England, the Great > Lakes states, and the Pacific Northwest. This is “Greater New England” > — the regions settled by New Englanders and their descendants from the > 17th to the 19th centuries.
+> If you look at a linguistic atlas of the United States, you’ll notice > something striking. The “Upper North” dialect zone identified by > students of American speech patterns is almost identical to the > blue-state zone on the Electoral College map: New England, the Great Lakes states, and the Pacific Northwest. This is “Greater New England” — the regions settled by New Englanders and their descendants from the 17th to the 19th centuries.
 
 This is the region where Barack Obama [has done particularly well](http://www.salon.com/opinion/feature/2008/04/15/elitism/print.html):  
 ![baracknewengland.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/baracknewengland.jpg?resize=500%2C339)![baracknewengland.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/baracknewengland.jpg?resize=500%2C339)  

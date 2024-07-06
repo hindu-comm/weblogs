@@ -11,7 +11,7 @@ The Human Nature Top 10
 
 A few days [Kevin Drum](http://motherjones.com/kevin-drum/2010/10/human-nature-top-ten) proposed a “Human Nature Top 10.” Here are the criteria:
 
-> Not personal pet theories, but aspects of human nature that are (a) > widely accepted and relatively noncontroversial among professionals, > and (b) underappreciated by most of us. They can come from anywhere: > economics, psychology, sociology, politics, anthropology, whatever.
+> Not personal pet theories, but aspects of human nature that are (a) widely accepted and relatively noncontroversial among professionals, and (b) underappreciated by most of us. They can come from anywhere: economics, psychology, sociology, politics, anthropology, whatever.
 
 He offers two: loss aversion & regression to the mean. **These are excellent**. I’ll chip in with two. Mine are probably a touch more tendentious, but I’m going to offer them anyway (I don’t even know what the right terms are, but I think they’re real phenomena which I’ve seen alluded to in the literature):
 

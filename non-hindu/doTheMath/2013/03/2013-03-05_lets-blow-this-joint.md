@@ -115,7 +115,7 @@ I’ve been treating my house like a big resistor following the oh-so-linear Ohm
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2013/03/press-curve-1024x768.png "press-curve")](https://dothemath.ucsd.edu/wp-content/uploads/2013/03/press-curve.png)It was only after this that I understood one of the features of the manometer I was using for the blower door test. If the system could not achieve the pressure setpoint (due to excessive airflow for its range configuration), it would extrapolate to the standard value—usually 50Pa. The user had a choice for which exponent to use in the extrapolation. From the manual:
 
-> **n**: sets the slope of the @-Pressure extrapolation line. Use 0.65 > for tight houses and 0.60 for ducts and large buildings.
+> **n**: sets the slope of the @-Pressure extrapolation line. Use 0.65 for tight houses and 0.60 for ducts and large buildings.
 
 So there we are. Confirmed experimentally in Joe Random House.
 

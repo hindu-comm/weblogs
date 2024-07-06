@@ -11,8 +11,8 @@ Twitpic, all your photos are ours
 
 We’re in a brave new world when it comes to our conception of property. I’m on the skeptical side when it comes to the current aggregate long term utility of IP law (I think the value of property rights may be overwhelmed by the abuse which large corporations are inflicting upon the *spirit* of the laws). But I thought I’d pass on what everyone is talking about in relation to Twitpic, [Why I abandoned Twitpic photo-sharing](https://www.zdnet.com/blog/projectfailures/why-i-abandoned-twitpic-photo-sharing/13365):
 
-> – 1. If someone wants to use my photo commercially, they need to ask > Twitpic (but not me) and then credit Twitpic (but not me). >
-> – 2. Twitpic can use or change my photos, in any, way without asking > me first.
+> – 1. If someone wants to use my photo commercially, they need to ask Twitpic (but not me) and then credit Twitpic (but not me). >
+> – 2. Twitpic can use or change my photos, in any, way without asking me first.
 
 The financial rationale for this sort of behavior on the part of firms providing free services is pretty straightforward. If you want some level of control and ownership of what you produce, you’ll probably have to pay for services which grant you these liberties in the future, at least if you want to utilize the cloud.
 

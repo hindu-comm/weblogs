@@ -13,10 +13,10 @@ If it doesn’t make sense in light of all the facts, it doesn’t make sense
 
 But the reason I want to highlight this article, aside from that it is a good article overall, is this section:
 
-> Take, for instance, a study concluding that single women who were > ovulating were 20 percent more likely to vote for President Obama in > 2012 than those who were not. (In married women, the effect was > reversed.) >
+> Take, for instance, a study concluding that single women who were ovulating were 20 percent more likely to vote for President Obama in 2012 than those who were not. (In married women, the effect was reversed.) >
 > Continue reading the main story  
-> Dr. Gelman re-evaluated the study using Bayesian statistics. That > allowed him to look at probability not simply as a matter of results > and sample sizes, but in the light of other information that could > affect those results. >
-> **He factored in data showing that people rarely change their voting > preference over an election cycle, let alone a menstrual cycle. When > he did, the study’s statistical significance evaporated.** (The > paper’s lead author, Kristina M. Durante of the University of Texas, > San Antonio, said she stood by the finding.)
+> Dr. Gelman re-evaluated the study using Bayesian statistics. That allowed him to look at probability not simply as a matter of results and sample sizes, but in the light of other information that could affect those results. >
+> **He factored in data showing that people rarely change their voting > preference over an election cycle, let alone a menstrual cycle. When he did, the study’s statistical significance evaporated.** (The paper’s lead author, Kristina M. Durante of the University of Texas, San Antonio, said she stood by the finding.)
 
 ![Cairo University class of 1978, no headscarves](https://i0.wp.com/www.unz.com/wp-content/uploads/2014/10/cairou19781.jpg?resize=290%2C300)
 

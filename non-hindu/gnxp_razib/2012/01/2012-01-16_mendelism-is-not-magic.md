@@ -11,12 +11,12 @@ Mendelism is not magic
 
 [Michelle](http://blogs.scientificamerican.com/crude-matter/2012/01/15/links-post-january-15-2012/) points me to this article in [The Lost Angeles Times](http://www.latimes.com/news/local/la-me-streeter-20111227%2C0%2C7856333%2Cfull.column), [The Colors of the Family](http://www.latimes.com/news/local/la-me-streeter-20111227%2C0%2C7856333%2Cfull.column):
 
-> I was holding my 1-year-old, ambling about downtown with some friends. > White friends. She must have thought my boy belonged to one of them. >
-> There’s a simple explanation: I’m black but my son, Ashe, is white. At > least he looks it. >
+> I was holding my 1-year-old, ambling about downtown with some friends. White friends. She must have thought my boy belonged to one of them. >
+> There’s a simple explanation: I’m black but my son, Ashe, is white. At least he looks it. >
 > But things are more complicated than that. >
-> I’m actually half black and half white. It should come as no surprise, > though, that even as sophisticated as we’ve become about people of > mixed parentage, I’m pigeonholed as black. If someone asks and I don’t > have time to go deeper, that’s what I call myself. >
-> Ashe is mixed too. His mother, my wife, Vanashree, is half white and > half South Asian, with roots in India. She has olive skin, and Ashe is > slightly lighter than she is. >
-> This surprised us. When Ashe was born, one of the first things I said > to Vanashree was, “Honey, he’s so light!” We chuckled, poking fun at > our assumptions.\*
+> I’m actually half black and half white. It should come as no surprise, though, that even as sophisticated as we’ve become about people of mixed parentage, I’m pigeonholed as black. If someone asks and I don’t have time to go deeper, that’s what I call myself. >
+> Ashe is mixed too. His mother, my wife, Vanashree, is half white and half South Asian, with roots in India. She has olive skin, and Ashe is slightly lighter than she is. >
+> This surprised us. When Ashe was born, one of the first things I said to Vanashree was, “Honey, he’s so light!” We chuckled, poking fun at our assumptions.\*
 
   
 Let’s get the sociological aspect out of the way. **Is this really *that* surprising?** Folk-biology has always had the concept of a “throwback,” which really distills the reality of Mendelian inheritance (as opposed to simple blending processes). In societies such as Brazil or India where there is a fair amount of segregation of polymorphisms which control skin color it isn’t that unheard of for a child to be darker or lighter in tone than both parents. And more frankly, this is not unknown within the African American community, where there is a range of skin tone due to \~20% European admixture. I suspect many African American would have these “assumptions,” because of an intuitive understanding of the unpredictable nature of the inheritance of this trait.

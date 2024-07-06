@@ -11,10 +11,10 @@ Northern Europeans and Native Americans are not more closely related than previo
 
 A new press release is circulating on the paper which [I blogged](http://blogs.discovermagazine.com/gnxp/2012/09/across-the-sea-of-grass-how-northern-europeans-got-to-be-10-northeast-asian/#.ULpzdlRbOXk) a few months ago, [Ancient Admixture in Human History](http://www.genetics.org/content/early/2012/09/06/genetics.112.145037.short?rss=1). Unlike the paper, the title of the [press release](http://www.newswise.com/articles/native-americans-and-northern-europeans-more-closely-related-than-previously-thought) is misleading, and unfortunately I notice that people are circulating it, and probably misunderstanding what is going on. Here’s the title and first paragraph:
 
-> **Native Americans and Northern Europeans More Closely Related Than > Previously Thought** >
+> **Native Americans and Northern Europeans More Closely Related Than Previously Thought** >
 > Released: 11/30/2012 2:00 PM EST  
 > Source: Genetics Society of America >
-> Newswise — BETHESDA, MD – November 30, 2012 — Using genetic analyses, > scientists have discovered that Northern European > populations—including British, Scandinavians, French, and some Eastern > Europeans—descend from a mixture of two very different ancestral > populations, and one of these populations is related to Native > Americans. This discovery helps fill gaps in scientific understanding > of both Native American and Northern European ancestry, while > providing an explanation for some genetic similarities among what > would otherwise seem to be very divergent groups. This research was > published in the November 2012 issue of the Genetics Society of > America’s journal GENETICS
+> Newswise — BETHESDA, MD – November 30, 2012 — Using genetic analyses, > scientists have discovered that Northern European > populations—including British, Scandinavians, French, and some Eastern > Europeans—descend from a mixture of two very different ancestral > populations, and one of these populations is related to Native > Americans. This discovery helps fill gaps in scientific understanding > of both Native American and Northern European ancestry, while > providing an explanation for some genetic similarities among what would otherwise seem to be very divergent groups. This research was published in the November 2012 issue of the Genetics Society of America’s journal GENETICS
 
 
 

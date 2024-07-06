@@ -19,7 +19,7 @@ More importantly, Galor and Moav argue that we’re still living through the Agr
 
 An interesting theory, but what’s the evidence? They use Putterman’s [new estimates](http://www.econ.brown.edu/fac/Louis%5FPutterman/) of the year that countries went agricultural, control for a lot of the usual suspects, and find this:
 
-> \[C\]ontrolling for geographical and continental characteristics of > each country, as well as income, education and health expenditure per > capita, every 1000 years of earlier Neolithic transition contributes > to life expectancy 1.6-1.9 years.
+> \[C\]ontrolling for geographical and continental characteristics of each country, as well as income, education and health expenditure per capita, every 1000 years of earlier Neolithic transition contributes to life expectancy 1.6-1.9 years.
 
 A couple of facts about the agricultural transition: The differences across countries are big, according to Putterman:
 

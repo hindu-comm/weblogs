@@ -15,7 +15,8 @@ Posted by TangoMan at [01:24 PM](https://www.gnxp.com/MT2/archives/003594.html) 
 
 ### Related Posts:
 
-- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/) - [Too Much Time On My
+- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/)
+- [Too Much Time On My
   Hands](https://www.gnxp.com/WordPress/2006/07/26/too-much-time-on-my-hands/) - [Star Trek, Here I
   Stand](https://www.gnxp.com/WordPress/2009/05/12/star-trek-here-i-stand/) - [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [New Star Trek Movie
   Trailer](https://www.gnxp.com/WordPress/2008/11/16/new-star-trek-movie-trailer/) - [Genes underlying cognitive

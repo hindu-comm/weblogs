@@ -19,7 +19,7 @@ Your impatience is in your genes! (well, some of it)
 
 That being said, the abstract leaves a little to be desired:
 
-> Delay discounting (DD), the tendency to discount the value of delayed > versus current rewards, is elevated in a constellation of diseases and > behavioral conditions. We performed a genome-wide association study of > DD using 23,127 research participants of European ancestry. The most > significantly associated single-nucleotide polymorphism was rs6528024 > (P = 2.40 × 10−8), which is located in an intron of the gene GPM6B. > **We also showed that 12% of the variance in DD was accounted for by > genotype **and that the genetic signature of DD overlapped with > attention-deficit/hyperactivity disorder, schizophrenia, major > depression, smoking, personality, cognition and body weight.****
+> Delay discounting (DD), the tendency to discount the value of delayed > versus current rewards, is elevated in a constellation of diseases and > behavioral conditions. We performed a genome-wide association study of > DD using 23,127 research participants of European ancestry. The most > significantly associated single-nucleotide polymorphism was rs6528024 > (P = 2.40 × 10−8), which is located in an intron of the gene GPM6B. > **We also showed that 12% of the variance in DD was accounted for by genotype **and that the genetic signature of DD overlapped with attention-deficit/hyperactivity disorder, schizophrenia, major depression, smoking, personality, cognition and body weight.****
 
 First, “Delay discounting (DD)”, is another way to say that you have high time preference. That is, you won’t forgo some gains in the short term for greater gains in the long term. **You would really “fail” the marshmallow test.**
 
@@ -29,15 +29,23 @@ But to be clear, the paper above **does not detect a variant SNP,rs6528024, whic
 
 DD is correlated with a lot of things. There is a positive phenotypic correlation with:
 
-- Smoking - Substance abuse - Obesity - ADHD
+- Smoking
+- Substance abuse
+- Obesity
+- ADHD
 
 They observed a positive **genetic** correlation between the variants associated with DD and:
 
-- Smoking - Neuroticism - Depression
+- Smoking
+- Neuroticism
+- Depression
 
 And a negative **genetic** correlation with:
 
-- College completion - Years of education - Childhood IQ - Schizophrenia
+- College completion
+- Years of education
+- Childhood IQ
+- Schizophrenia
 
 In relation to the last, schizophrenia and DD are positively correlated phenotypically. **That probably means that the underlying genetic causes of schizophrenia and DD are very different**.
 

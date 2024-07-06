@@ -11,10 +11,10 @@ Source: [here](https://www.gnxp.com/WordPress/2010/06/17/what-has-bioinformatics
 
 So asks [Anthony Goldbloom](https://kaggle.com/blog/2010/06/17/%EF%BB%BFwhat-has-bioinformatics-ever-done-for-us/):
 
-> A British bioinformatician asks what bioinformatics has ever done for > us? Or put differently, what is the single greatest biological > discovery made possible by bioinformatics? He is offering \$USD100 to > the person who puts forward the most compelling answer (the prize is > small but the idea is to stoke discussion). Kaggle would also welcome > a guest post by the winner about their chosen discovery. >
-> Answers should be in the form of a short abstract (200 words or less) > in the comments section of this blog post. It would be helpful if > participants could categorize the bioinformatics method (microarray > analysis, sequence analysis, protein structure analysis, phylogenetic > analysis…) as well as the application in biology (drug discovery, > disease prevention, taxonomy, protein-protein interactions…). It is > also preferable for answers to include an open source reference. >
-> The winner will be selected by a panel of judges based on the > significance of the discovery. We encourage everybody to give feedback > using the “like” voting buttons. >
-> You can enter as many ideas as you like – just get them in by Friday > July 30th. Please include an active email address so that we can get > in contact if you win.
+> A British bioinformatician asks what bioinformatics has ever done for > us? Or put differently, what is the single greatest biological > discovery made possible by bioinformatics? He is offering \$USD100 to the person who puts forward the most compelling answer (the prize is small but the idea is to stoke discussion). Kaggle would also welcome a guest post by the winner about their chosen discovery. >
+> Answers should be in the form of a short abstract (200 words or less) > in the comments section of this blog post. It would be helpful if > participants could categorize the bioinformatics method (microarray > analysis, sequence analysis, protein structure analysis, phylogenetic analysis…) as well as the application in biology (drug discovery, disease prevention, taxonomy, protein-protein interactions…). It is also preferable for answers to include an open source reference. >
+> The winner will be selected by a panel of judges based on the significance of the discovery. We encourage everybody to give feedback using the “like” voting buttons. >
+> You can enter as many ideas as you like – just get them in by Friday July 30th. Please include an active email address so that we can get in contact if you win.
 
 I’ve closed comments. Leave them there.
 

@@ -11,8 +11,8 @@ Has it awakened?
 
 [Mars Rover Disoriented Somewhat After Glitch](http://www.nytimes.com/2009/01/29/science/space/29rover.html):
 
-> More strangely, the Spirit had no memory of what it had done for that > part of Sol 1800. The rover did not record actions, as it otherwise > always does, to the part of its computer memory that retains > information even when power is turned off, the so-called nonvolatile > memory. “It’s almost as if the rover had a bout of amnesia,” said John > Callas, the project manager for the rovers.  
-> Another rover system did record that power was being drawn from the > batteries for an hour and a half. **“Meaning the rover is awake doing > something,”** Dr. Callas said. But before-and-after images showed that > the Spirit ended the day exactly where it started.
+> More strangely, the Spirit had no memory of what it had done for that > part of Sol 1800. The rover did not record actions, as it otherwise > always does, to the part of its computer memory that retains information even when power is turned off, the so-called nonvolatile memory. “It’s almost as if the rover had a bout of amnesia,” said John Callas, the project manager for the rovers.  
+> Another rover system did record that power was being drawn from the batteries for an hour and a half. **“Meaning the rover is awake doing something,”** Dr. Callas said. But before-and-after images showed that the Spirit ended the day exactly where it started.
 
 Suspicious?
 

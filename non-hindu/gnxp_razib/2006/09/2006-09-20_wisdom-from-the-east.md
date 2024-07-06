@@ -12,8 +12,8 @@ Wisdom from the east
 [A spicy solution for colon cancer?](http://www.eurekalert.org/pub_releases/2006-09/uotm-ass091906.php):
 
 > Looking for a cancer cure? Try the spice rack.  
-> In the last few years, that tactic has proved productive for > researchers investigating turmeric, a curry spice used for centuries > in Indian traditional medicine.  
-> They’ve found that turmeric’s active ingredient, curcumin, works in > the lab to fight skin, breast and other tumor cells. In fact, human > clinical trials employing curcumin have already been launched.
+> In the last few years, that tactic has proved productive for researchers investigating turmeric, a curry spice used for centuries in Indian traditional medicine.  
+> They’ve found that turmeric’s active ingredient, curcumin, works in the lab to fight skin, breast and other tumor cells. In fact, human clinical trials employing curcumin have already been launched.
 
 You gotz to know, my shit is medicinal! Sweetness in, and sweetness out.  
 **Update:** Abel says [my shit isn’t applicable](http://scienceblogs.com/terrasig/2006/09/misconceptions_on_herbs_and_ca.php).

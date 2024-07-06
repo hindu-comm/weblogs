@@ -13,16 +13,16 @@ I’ve mentioned before that though Barack H. Obama’s most salient ethnic iden
 
 But interestingly a regularly correspondent has uncovered that **Obama’s maternal lineage, or more specifically his maternal grandfather’s paternal lineage, is more Yankee in cultural identity than genetics:**
 
-> I don’t want the basis of Obama’s Yankee heritage misconstrued here. I > found no one who had dug out all of his “Cavalier” ancestors and > compiled them in one place, so within reasonable effort, I did so. > Here is a map of all that. >
-> Stanley Ann Dunham’s genome is in fact only one percent New England > Puritan. That cohort is due to a dozen or so American-born colonial > immigrant kids from Puritan England and Holland. This one clade > (Samuel Dunham b. 1742) is Stanley Ann’s direct patriline. Four or > five from this group migrated to New Jersey fairly early, and > intermarried apparently based on their Yankee-ness there. That Stanley > Ann’s grandfather is Ralph Waldo Emerson Dunham suggests that the > Yankee regard is stronger than the genetic fraction. Choosing sides in > the Civil War might be what bolstered that loyalty. >
-> The Pennsylvania & Maryland immigrants are German, Swiss, French etc. > Then the Virginia immigrants are from England and Wales, much as > Fischer suggests. The north-south immigrants’ landfalls map well onto > the patriline-matriline axis of the ancestral tree.
+> I don’t want the basis of Obama’s Yankee heritage misconstrued here. I found no one who had dug out all of his “Cavalier” ancestors and compiled them in one place, so within reasonable effort, I did so. Here is a map of all that. >
+> Stanley Ann Dunham’s genome is in fact only one percent New England > Puritan. That cohort is due to a dozen or so American-born colonial > immigrant kids from Puritan England and Holland. This one clade > (Samuel Dunham b. 1742) is Stanley Ann’s direct patriline. Four or > five from this group migrated to New Jersey fairly early, and > intermarried apparently based on their Yankee-ness there. That Stanley Ann’s grandfather is Ralph Waldo Emerson Dunham suggests that the Yankee regard is stronger than the genetic fraction. Choosing sides in the Civil War might be what bolstered that loyalty. >
+> The Pennsylvania & Maryland immigrants are German, Swiss, French etc. Then the Virginia immigrants are from England and Wales, much as Fischer suggests. The north-south immigrants’ landfalls map well onto the patriline-matriline axis of the ancestral tree.
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/03/Dunham-Direct-Ancestors-Births-Deaths-01_600.jpg?resize=621%2C480)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/03/Dunham-Direct-Ancestors-Births-Deaths-01_600.jpg?resize=621%2C480)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/03/Dunham-Direct-Ancestors-Births-Deaths-01_600.jpg)
 
 In terms of how to replicate:
 
-> The data are from here: > http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi >
-> Anyone who uses this huge wiki-like resource knows that it’s unwieldy > and not totally reliable. But making a map abstracts things to where > isolated data errors or ambiguities aren’t going to change the big > picture.
+> The data are from here: http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi >
+> Anyone who uses this huge wiki-like resource knows that it’s unwieldy and not totally reliable. But making a map abstracts things to where isolated data errors or ambiguities aren’t going to change the big picture.
 
 ### Related Posts:
 

@@ -11,9 +11,9 @@ More racist: white liberals or white conservatives?
 
 [Reihan Salam](http://www.nationalreview.com/agenda/314418/brief-thought-how-racism-and-political-affiliation-intersect-reihan-salam) has a post up on the alignment of racism and political orientation. He begins:
 
-> Recently, Chris Hayes, host of MSNBC’s*UP with Chris Hayes*, made the > following observation: >
-> > It is undeniably the case that racist Americans are almost entirely > > in one political coalition and not the other. >
-> Chris is a good friend of mine, and we grew up in the same milieu. I > can attest to the fact that the view he expressed is very widely held > in the circles in which we both travel….
+> Recently, Chris Hayes, host of MSNBC’s*UP with Chris Hayes*, made the following observation: >
+> > It is undeniably the case that racist Americans are almost entirely in one political coalition and not the other. >
+> Chris is a good friend of mine, and we grew up in the same milieu. I can attest to the fact that the view he expressed is very widely held in the circles in which we both travel….
 
 Salam then links to [Alex Tabarrok](http://marginalrevolution.com/marginalrevolution/2012/08/racism-by-political-party.html), who uses party identification data to indicate that actually racism is split between the two groups, while [John Sides](http://themonkeycage.org/blog/2012/08/19/are-racists-only-in-one-political-party/) suggests that there is a definite *lean* toward Republicans being more racist, using a few indicator variables. Overall I think Sides is about right, **all things equal conservatives are more racist than liberals**. At least in the modern context of the two ideologies.\* I say conservative/liberal rather than Republican/Democrat, because my experience with the [GSS data](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) set is that ideology is a more powerful predictor of social views among whites. This holds true with the variables which Tabarrok and Sides query from what I can see; the gap between Democrats and Republicans is smaller than between liberals and conservatives. Why? There are still a non-trivial number of self-identified conservative Democrats in this country, as well as very well off socially moderate Republicans who vote their economic interests.
 
@@ -37,7 +37,7 @@ I did find a variable where there was a strong difference between whites by ideo
 
 These results prompted me to look for some literature in this domain. Here’s what I found, [Is Love Colorblind? Political Orientation and Interracial Romantic Desire](http://faculty.wcas.northwestern.edu/eli-finkel/documents/39_EastwickRichesonSonFinkel2009_PSPB.pdf):
 
-> As shown in Figure 2, the probability that a White participant at 1 SD > toward theliberal end of the spectrum would say “yes” to a Black > speed-dater **was approximately 26%, whereas theprobability that a > White participant at 1 SD toward the conservative end of the spectrum > would say “yes” to aBlack speed-dater was approximately 16%.**
+> As shown in Figure 2, the probability that a White participant at 1 SD > toward theliberal end of the spectrum would say “yes” to a Black speed-dater **was approximately 26%, whereas theprobability that a White participant at 1 SD toward the conservative end of the spectrum would say “yes” to aBlack speed-dater was approximately 16%.**
 
 I think these results encapsulate the truth which Chris Hayes’ elided: a tendency toward racial whites consciousness, whether explicit or implicit, increases the **odds** that one is conservative (and vice versa), but it does not guarantee that one is conservative.
 

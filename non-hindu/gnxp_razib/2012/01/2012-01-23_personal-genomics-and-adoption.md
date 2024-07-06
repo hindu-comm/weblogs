@@ -11,8 +11,8 @@ Personal genomics and adoption
 
 [With DNA Testing, Suddenly They Are Family](http://www.nytimes.com/2012/01/24/us/with-dna-testing-adoptees-find-a-way-to-connect-with-family.html?partner=rss&emc=rss&pagewanted=print):
 
-> Several companies provide tests that can confirm whether adoptees are > related to individuals they already know. Others cast a wider net by > plugging DNA results into databases that contain tens of thousands of > genetic samples, provided mostly by people searching for their > ancestral roots. The tests detect genetic markers that reveal whether > people share a common ancestor or relative. >
-> **Some experts on adoption and genetics have criticized ancestry and > genealogy testing companies, saying they are, at times, connecting > people whose genetic links are tenuous** — in effect stretching the > definition of a relative. Nevertheless, the growing popularity of the > tests, combined with social media sites that connect people day to > day, has given some adoptees a sense of family that feels tangible, > intimate and immediate.
+> Several companies provide tests that can confirm whether adoptees are > related to individuals they already know. Others cast a wider net by > plugging DNA results into databases that contain tens of thousands of genetic samples, provided mostly by people searching for their ancestral roots. The tests detect genetic markers that reveal whether people share a common ancestor or relative. >
+> **Some experts on adoption and genetics have criticized ancestry and > genealogy testing companies, saying they are, at times, connecting > people whose genetic links are tenuous** — in effect stretching the > definition of a relative. Nevertheless, the growing popularity of the tests, combined with social media sites that connect people day to day, has given some adoptees a sense of family that feels tangible, intimate and immediate.
 
 
 

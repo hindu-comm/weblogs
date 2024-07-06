@@ -13,17 +13,17 @@ Islamic Terrorists Recruiting At British Universities
 
 From [dossier 2](http://www.times-archive.co.uk/onlinespecials/cabinet2.pdf):
 
-> …The ICM poll published in the Guardien on 15 March 2004 recorded 13% > of British Muslims as thinking that further **terrorist attacks on the > USA** would be justified. >
-> …a minority of Muslims defend terrorism (up to 13%). A minority do not > feel loyal to Britain (up to 26%)…. >
-> …By and large most young extremists fall into one of two groups: well > educated undergraduates or with degrees and technical professional > qualifications **in engineering or IT;** or under-achievers with few > or no qualifications, and often a criminal background….
+> …The ICM poll published in the Guardien on 15 March 2004 recorded 13% of British Muslims as thinking that further **terrorist attacks on the USA** would be justified. >
+> …a minority of Muslims defend terrorism (up to 13%). A minority do not feel loyal to Britain (up to 26%)…. >
+> …By and large most young extremists fall into one of two groups: well educated undergraduates or with degrees and technical professional qualifications **in engineering or IT;** or under-achievers with few or no qualifications, and often a criminal background….
 
 From [dossier 3](http://www.times-archive.co.uk/onlinespecials/cabinet3.pdf):
 
-> …you Muslims were far more likely than young Christians to regard > religon as important to their self-identity (74% against 18%). The > figures for young Sikhs and Hindus were also Hind (63% and 62%)….
+> …you Muslims were far more likely than young Christians to regard religon as important to their self-identity (74% against 18%). The figures for young Sikhs and Hindus were also Hind (63% and 62%)….
 
 From [dossier 4](http://www.times-archive.co.uk/onlinespecials/cabinet4.pdf):
 
-> …**Active citizenship:** Participation of Muslims is around three > quarters the rate of all faith communities as a whole. Young Muslims > are least likely to participate, compared with all faith groups. > Muslims are least likely of all faith groups to engage in > volunteering…. >
+> …**Active citizenship:** Participation of Muslims is around three > quarters the rate of all faith communities as a whole. Young Muslims are least likely to participate, compared with all faith groups. Muslims are least likely of all faith groups to engage in volunteering…. >
 > … >
 > Religion-Unemployed-Economically active-Economically inactive >
 > Muslim-14.6-48.3-51.7  
@@ -43,7 +43,7 @@ These numbers don’t look pretty. I don’t see any grounds for complacency. 1 
 
 **Update:** I [found it](http://www.fpri.org/enotes/20041101.middleeast.sageman.understandingterrornetworks.html):
 
-> Al Qaedaâ€™s members are not the Palestinian fourteen-year- olds we > see on the news, but join the jihad at the average age of 26. > Three-quarters were professionals or semi- professionals. **They are > engineers, architects, and civil engineers, mostly scientists. Very > few humanities are represented,** and quite surprisingly very few had > any background in religion. The natural sciences predominate. Bin > Laden himself is a civil engineer, Zawahiri is a physician, Mohammed > Atta was, of course, an architect; and a few members are military, > such as Mohammed Ibrahim Makawi, who is supposedly the head of the > military committee.
+> Al Qaedaâ€™s members are not the Palestinian fourteen-year- olds we > see on the news, but join the jihad at the average age of 26. > Three-quarters were professionals or semi- professionals. **They are > engineers, architects, and civil engineers, mostly scientists. Very > few humanities are represented,** and quite surprisingly very few had > any background in religion. The natural sciences predominate. Bin > Laden himself is a civil engineer, Zawahiri is a physician, Mohammed Atta was, of course, an architect; and a few members are military, such as Mohammed Ibrahim Makawi, who is supposedly the head of the military committee.
 
 Look, I come from a family predominantly (in the last 2 generations) of scientists, doctors and engineers. I love science and admire engineering. But this is just the plain truth, and it doesn’t surprise me, I’ve run into way too many dumb-ass science people when it comes to politics and religion, and have experienced bizarro jeremiads from Muslim engineers.
 

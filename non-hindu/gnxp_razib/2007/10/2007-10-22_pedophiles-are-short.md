@@ -11,8 +11,8 @@ Pedophiles are short
 
 [Are Some Men Predisposed To Pedophilia?](http://www.sciencedaily.com/releases/2007/10/071022120203.htm):
 
-> A difference in average height is a trait found in other illnesses > with biological links. The average difference in height was two > centimeters, which is similar to the shorter height associated with > schizophrenia or Alzheimer’s disease. >
-> Further research is necessary, but this finding re-enforces evidence > that pedophilia has a biological cause, possibly related to brain > development before birth.
+> A difference in average height is a trait found in other illnesses with biological links. The average difference in height was two centimeters, which is similar to the shorter height associated with schizophrenia or Alzheimer’s disease. >
+> Further research is necessary, but this finding re-enforces evidence that pedophilia has a biological cause, possibly related to brain development before birth.
 
 I’m really not that interested in the biological origins of pedophilia, instead my attention was drawn to the fact that such a height difference is known for a range of disorders. In [The Mating Mind](https://www.amazon.com/exec/obidos/ASIN/038549517X/geneexpressio-20) Geoffrey Miller hypothesized that variance in mutational load across individuals tracked beauty. This is basically a “good genes” model for why organisms exhibit sexual preferences. Miller was assuming a polygynous social system, but this makes me wonder as to the importance of “good health” due to provisioning in a monogamous species.
 

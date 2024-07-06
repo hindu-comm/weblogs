@@ -11,7 +11,7 @@ A home paternity test?
 
 I [left a comment](http://scienceblogs.com/gnxp/2006/12/dont_tell_the_stupid_cuckold.php#comment-292385) on [a hilarious post at GNXP-SB](http://scienceblogs.com/gnxp/2006/12/dont_tell_the_stupid_cuckold.php#more) in which I suggested the near-term feasibility of a disposable home paternity test.
 
-> I can pretty confidently predict that we are less then 5 years from > having the technology for a \*disposable\* home paternity test kit.
+> I can pretty confidently predict that we are less then 5 years from having the technology for a \*disposable\* home paternity test kit.
 
 [Matt was skeptical](http://scienceblogs.com/gnxp/2006/12/dont_tell_the_stupid_cuckold.php#comment-292607), and outlined his reasoning in [a post here](https://matt-at-berkeley.blogspot.com/2006/12/will-home-paternity-test-be-available.html).
 

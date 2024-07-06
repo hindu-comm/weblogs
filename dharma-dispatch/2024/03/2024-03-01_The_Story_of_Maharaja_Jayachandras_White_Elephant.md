@@ -373,7 +373,7 @@ His freak and unfortunate defeat and death at the hands of Muhammad Ghori also e
 
 The end came befittingly for this great Kshatriya, on battlefield. At the hotly-fought and decisive Battle of Chandawar, near Firozabad in Agra district. All Muslim chroniclers are unanimous in describing Jayachandra’s valour, the size of his army and the ferocity of the battle. Here is Ibn Athir describing Jayachandra’s prowess:
 
-> **The king of Benares \[Jayachandra\] was the greatest king in India, > and possessed the largest territory**, extending lengthwise from the > borders of China to the province of Malawa, and in breadth from the > sea to within ten days' journey of Lahore.
+> **The king of Benares \[Jayachandra\] was the greatest king in India, and possessed the largest territory**, extending lengthwise from the borders of China to the province of Malawa, and in breadth from the sea to within ten days' journey of Lahore.
 
 Ibn Athir clearly exaggerates the territory under Jayachandra’s suzerainty but it only proves that he commanded a vast empire. This is how he describes the fateful battle: 
 

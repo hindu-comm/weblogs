@@ -11,9 +11,9 @@ Heritability and fitness
 
 Words matter, and they can confuse. Here’s Wikipedia’s preamble for [heritability](https://en.wikipedia.org/wiki/Heritability):
 
-> Heritability is the proportion of phenotypic variation in a population > that is attributable to genetic variation among individuals. > Phenotypic variation among individuals may be due to genetic and/or > environmental factors. Heritability analyses estimate the relative > contributions of differences in genetic and non-genetic factors to the > total phenotypic variance in a population. >
-> Pay close attention to the variation part of “phenotypic variation”: > if a trait has a heritability of 0.5, it means that the phenotypic > variation is 50% due to genetic variation. It does not imply that the > trait is 50% caused by genetics. >
-> Heritability is also specific to a particular population in a > particular environment.
+> Heritability is the proportion of phenotypic variation in a population > that is attributable to genetic variation among individuals. > Phenotypic variation among individuals may be due to genetic and/or environmental factors. Heritability analyses estimate the relative contributions of differences in genetic and non-genetic factors to the total phenotypic variance in a population. >
+> Pay close attention to the variation part of “phenotypic variation”: if a trait has a heritability of 0.5, it means that the phenotypic variation is 50% due to genetic variation. It does not imply that the trait is 50% caused by genetics. >
+> Heritability is also specific to a particular population in a particular environment.
 
 Height and I.Q. are both heritable traits. Tendencies run in families. But the heritability is higher for both traits in developed societies or among those of middle class or higher. Why? Consider height. There are diminishing returns on nutritional input. Beyond a certain point eating more just makes you wider, not taller. In less developed societies where nutritional stress is more common there is a stronger environmentally induced socioeconomic correlation between height and status. European aristocrats who arrived in the United States in the 19th century were often shocked to meet American citizens of low or middling status who looked them eye-to-eye. Because of the surplus of land relative to labor in North America there was less nutritional stress than in Europe.
 

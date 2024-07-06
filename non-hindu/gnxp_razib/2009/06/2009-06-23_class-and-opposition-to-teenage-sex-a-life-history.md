@@ -11,7 +11,7 @@ Class and opposition to teenage sex: A life history perspective
 
 The GSS asks people about the morality of premarital sex between post-pubescent minors (TEENSEX):
 
-> What if \[a male and female\] are in their early teens, say 14 to 16 > years old? In that case, do you think sex relations before marriage > are always wrong, almost always wrong, wrong only sometimes, or not > wrong at all?
+> What if \[a male and female\] are in their early teens, say 14 to 16 years old? In that case, do you think sex relations before marriage are always wrong, almost always wrong, wrong only sometimes, or not wrong at all?
 
 Most people say “always wrong,” so I’ll just look at those responses; the other responses have little room to vary since all must add up to 100%. How does opposition vary across demographic groups? \[1\] As for social class, the elites say they’re more ethical than the rabble, but on the other hand, they’re big supporters of “sex is natural and therefore can’t be harmful.” So which is it?
 

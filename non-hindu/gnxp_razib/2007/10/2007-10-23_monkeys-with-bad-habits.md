@@ -11,10 +11,10 @@ Monkeys with bad habits
 
 The death of an Indian politician due to a [monkey mob](http://news.bbc.co.uk/2/hi/south_asia/7055625.stm) is getting a lot of attention. But [Ruchira Paul](http://accidentalblogger.typepad.com/) points me to an [older story](http://news.bbc.co.uk/2/hi/south_asia/6128210.stm) which I think is even more interesting:
 
-> They have invaded the prime minister’s office and the Defence > Ministry, helping themselves to top secret military files.  
+> They have invaded the prime minister’s office and the Defence Ministry, helping themselves to top secret military files.  
 > …  
-> Some 250 monkeys have already been relocated by a court order to > forests in the central Indian state of Madhya Pradesh.  
-> But many people there are now objecting, **saying the animals are > bringing with them their hooligan habits learnt in the city and are > terrorising rural villages.**
+> Some 250 monkeys have already been relocated by a court order to forests in the central Indian state of Madhya Pradesh.  
+> But many people there are now objecting, **saying the animals are bringing with them their hooligan habits learnt in the city and are terrorising rural villages.**
 
 *Slate* [has more](http://www.slate.com/id/2176419/nav/tap3/) about the complexity of monkey behavior. We aren’t the only species to facultatively shift our habits in response to opportunities in the environment. Here is a familiar bit, “Female victims might seek protection in a group of men, **since monkeys are somewhat afraid of males**.” Rember the [sexual harassing monkeys](http://news.bbc.co.uk/2/hi/south_asia/7055625.stm)?
 

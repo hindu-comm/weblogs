@@ -11,8 +11,8 @@ Fertility is complicated….
 
 A week ago I offered my own theory as to why 3rd and 4th cousin pairings in Iceland have been so fertile historically. Now, this from John Hawks, [For maximum fertility, marry more than 20 km from your birthplace](http://johnhawks.net/weblog/reviews/behavior/mating/denmark-mating-radius-fertility-2008.html). John says:
 
-> This study isn’t orthogonal to the Iceland cousin study, but it adds > another element. These people are about as close to the genetics of > Icelanders as we can hope to get. The authors suggest that greater > mobility in the last 50 years has removed a significant inbreeding > depression. Yet, the inbreeding between people born within 15 km of > each other is mostly at the level of third cousins or further — the > sample that had the highest fertility in Iceland. Curious.  
-> It would be interesting to see whether this result holds over longer > distances. levels out, or even reverses.
+> This study isn’t orthogonal to the Iceland cousin study, but it adds > another element. These people are about as close to the genetics of > Icelanders as we can hope to get. The authors suggest that greater > mobility in the last 50 years has removed a significant inbreeding depression. Yet, the inbreeding between people born within 15 km of each other is mostly at the level of third cousins or further — the sample that had the highest fertility in Iceland. Curious.  
+> It would be interesting to see whether this result holds over longer distances. levels out, or even reverses.
 
 ### Related Posts:
 

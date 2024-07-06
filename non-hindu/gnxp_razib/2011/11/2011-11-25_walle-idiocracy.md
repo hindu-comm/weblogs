@@ -15,7 +15,8 @@ Some ethologists should try and get some research funded to model the “scrambl
 
 ### Related Posts:
 
-- [WALL•E](https://www.gnxp.com/WordPress/2008/07/01/wall%e2%80%a2e/) - [War and the evolution of belligerence and
+- [WALL•E](https://www.gnxp.com/WordPress/2008/07/01/wall%e2%80%a2e/)
+- [War and the evolution of belligerence and
   bravery](https://www.gnxp.com/WordPress/2008/08/29/war-and-the-evolution-of-belligerence-and-bravery/) - [Worth
   reading....](https://www.gnxp.com/WordPress/2006/10/02/worth-reading/) - [Elsevier-funded NY Congresswoman Carolyn Maloney Wants
   to…](https://www.gnxp.com/WordPress/2012/01/06/elsevier-funded-ny-congresswoman-carolyn-maloney-wants-to-deny-americans-access-to-taxpayer-funded-research/) - [Smart & hot

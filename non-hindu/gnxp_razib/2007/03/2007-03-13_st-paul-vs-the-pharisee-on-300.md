@@ -13,7 +13,8 @@ Dienekes [loved 300](https://dienekes.blogspot.com/2007/03/300-and-history.html)
 
 ### Related Posts:
 
-- [300](https://www.gnxp.com/WordPress/2007/03/10/300/) - [Creation too controversial for American
+- [300](https://www.gnxp.com/WordPress/2007/03/10/300/)
+- [Creation too controversial for American
   audiences?](https://www.gnxp.com/WordPress/2009/09/14/creation-too-controversial-for-american-audiences/) - [Ancient
   DNA....](https://www.gnxp.com/WordPress/2005/07/15/ancient-dna/) - [300 culture
   watch](https://www.gnxp.com/WordPress/2007/04/05/300-culture-watch/) - [Fractional reserve banking: it's a

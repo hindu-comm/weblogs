@@ -12,13 +12,13 @@ Taking journalism seriously, but not literally
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/howtoreadthebible.jpeg?resize=180%2C280&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/howtoreadthebible.jpeg?resize=180%2C280&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B007108SQK/geneexpressio-20)
 
 > In the beginning God created the heaven and the earth. >
-> And the earth was without form, and void; and darkness was upon the > face of the deep. And the Spirit of God moved **upon the face of the > waters.** >
+> And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved **upon the face of the waters.** >
 > And God said, Let there be light: and there was light. >
-> And God saw the light, that it was good: and God divided the light > from the darkness. >
-> And God called the light Day, and the darkness he called Night. And > the evening and the morning were the first day. >
-> And God said, **Let there be a firmament in the midst of the waters**, > and let it divide the waters from the waters. >
-> And God made the firmament, and divided the waters which were under > the firmament from the waters which were above the firmament: and it > was so. >
-> And God called the firmament Heaven. And the evening and the morning > were the second day.
+> And God saw the light, that it was good: and God divided the light from the darkness. >
+> And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. >
+> And God said, **Let there be a firmament in the midst of the waters**, and let it divide the waters from the waters. >
+> And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. >
+> And God called the firmament Heaven. And the evening and the morning were the second day.
 
 The present form of the Hebrew Bible’s Book of Genesis dates back to at least 2,000 years, and broadly closer to 3,000 years. There are fragments and sections which are likely older and allude to widely known folktales whose familiarity has long faded to us, and so seem obscure and opaque. But let us stipulate as a thought experiment that something within the Bible is animated by a God, a supernatural being.\* That is, the Bible is the true revelation from on high.
 
@@ -50,9 +50,9 @@ What I think *The New York Times* piece reflects **is a readership that has cert
 
 Consider this passage:
 
-> In Magali, Ida Traoré, 32, became pregnant with twins while her > husband was living in France. >
-> Her father-in-law called France to tell his son, Abdoulaye Diarsso, > that his wife was having an affair. Mr. Diarsso immediately phoned > her, to apologize. He had been away 13 years, after all. >
-> “She has sexual urges,” Mr. Diarsso said during his first visit with > his wife since he’d left. “It’s difficult to accept, but if I ignore > this, I’m not being honest.”
+> In Magali, Ida Traoré, 32, became pregnant with twins while her husband was living in France. >
+> Her father-in-law called France to tell his son, Abdoulaye Diarsso, that his wife was having an affair. Mr. Diarsso immediately phoned her, to apologize. He had been away 13 years, after all. >
+> “She has sexual urges,” Mr. Diarsso said during his first visit with his wife since he’d left. “It’s difficult to accept, but if I ignore this, I’m not being honest.”
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/mongolqueens.jpeg?resize=181%2C279&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/mongolqueens.jpeg?resize=181%2C279&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B00338QEI8/geneexpressio-20)This may seem liberated, but it reminds me of the controversy over the paternity of Genghis Khan’s eldest son, Jochi. His mother, Bortai, had been kidnapped by a rival tribe when he was likely conceived. In some extremely patriarchal societies, Jochi would have been shunned or even killed. The rape of Bortai would have been a dishonor, and she herself may have been killed. As it is, Genghis Khan treated Jochi has his son, and Bortai regained her place within Genghis Khan’s household. **This reflects the reality that though the Mongols were very patriarchal, women in their pastoralist society were not simply chattel, but important political and economic actors.** When the fathers and older brothers were away, it was the women and youngest brothers who managed the flocks in the home territories.
 

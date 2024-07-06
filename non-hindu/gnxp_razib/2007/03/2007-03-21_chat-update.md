@@ -19,7 +19,9 @@ I know many of you are probably sick of chat updates, but please note.
 
 ### Related Posts:
 
-- [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/) - [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/) - [Techno
+- [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/)
+- [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/)
+- [Techno
   losers](https://www.gnxp.com/WordPress/2006/07/12/techno-losers/) - [Slack killed IRC? (sort
   of)](https://www.gnxp.com/WordPress/2018/03/08/slack-killed-irc-sort-of/) - [Jersey Shore
   nickname](https://www.gnxp.com/WordPress/2010/02/10/jersey-shore-nickname/) - [Nick Barksdale,

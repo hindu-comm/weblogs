@@ -19,7 +19,8 @@ Finally, people often email me links to papers. I really appreciate that, but, i
 
 ### Related Posts:
 
-- [RSS feed](https://www.gnxp.com/WordPress/2010/03/30/rss-feed/) - [Please change RSS feeds if you
+- [RSS feed](https://www.gnxp.com/WordPress/2010/03/30/rss-feed/)
+- [Please change RSS feeds if you
   haven't](https://www.gnxp.com/WordPress/2010/04/06/please-change-rss-feeds-if-you-havent/) - [A note on "Science
   Blogs"](https://www.gnxp.com/WordPress/2006/01/22/a-note-on-science-blogs/) - [John Hawks on the social networking of
   weblogs](https://www.gnxp.com/WordPress/2010/04/04/john-hawks-on-the-social-networking-of-weblogs/) - [Gene Expression moves to

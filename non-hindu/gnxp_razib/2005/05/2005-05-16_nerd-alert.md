@@ -17,7 +17,8 @@ Posted by razib at [01:42 AM](https://www.gnxp.com/MT2/archives/003993.html) [](
 
 ### Related Posts:
 
-- [Nerd/Geek/Dork - my
+- [Nerd/Geek/Dork
+- my
   breakdown](https://www.gnxp.com/WordPress/2006/09/21/nerdgeekdork-my-breakdown/) - [Nerd
   alert!!!](https://www.gnxp.com/WordPress/2006/04/10/nerd-alert-2/) - [Nerd like
   me](https://www.gnxp.com/WordPress/2006/09/06/nerd-like-me/) - [My nerd

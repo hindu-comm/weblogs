@@ -11,7 +11,7 @@ Adaptation on the human genome
 
 [p-ter](https://www.gnxp.com/blog/2007/06/recent-human-evolution.php) has an [excellent review](https://www.gnxp.com/blog/2007/06/recent-human-evolution.php) of a [new paper](http://genetics.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pgen.0030090), [Localizing Recent Adaptive Evolution in the Human Genome](http://genetics.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pgen.0030090). Imagine if you will a flat pristine stretch of snow covered field which exhibits a perfect 2-dimensional symmetry. Now, note what happens when a few snow blowers criss-cross the field. That’s the sort of thing I imagine when attempting to analogize [selective sweeps](https://en.wikipedia.org/wiki/Selective_sweep) going through human populations over the past few tens of thousands of years. Money shot:
 
-> …In general, we find that recent adaptation is strikingly pervasive in > the human genome, **with as much as 10% of the genome affected by > linkage to a selective sweep**.
+> …In general, we find that recent adaptation is strikingly pervasive in the human genome, **with as much as 10% of the genome affected by linkage to a selective sweep**.
 
 ### Related Posts:
 

@@ -19,7 +19,7 @@ Second, Classical Antiquity had plenty of ethical systems, especially during the
 
 The 1960s saw a radical transition to notional social egalitarianism in the West. This is the world I grew up and matured in. Arguably, I believed in its rightness, inevitability, and eternal dominance, until very recently. But I think that today that model is fraying and people are looking to find some mooring. In particular, I think we are in need of a [rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names). From Wikipedia:
 
-> Confucius was asked what he would do if he was a governor. He said he > would “rectify the names” to make words correspond to reality. The > phrase has now become known as a doctrine of **feudal Confucian > designations and relationships**, behaving accordingly to ensure > social harmony. Without such accordance society would essentially > crumble and “undertakings would not be completed.”
+> Confucius was asked what he would do if he was a governor. He said he > would “rectify the names” to make words correspond to reality. The > phrase has now become known as a doctrine of **feudal Confucian designations and relationships**, behaving accordingly to ensure social harmony. Without such accordance society would essentially crumble and “undertakings would not be completed.”
 
 How are we supposed to behave with each given person? A lot of this is free-form and improvisational today, and it turns out that many people are not comfortable with this. **Humans need scripts.**
 

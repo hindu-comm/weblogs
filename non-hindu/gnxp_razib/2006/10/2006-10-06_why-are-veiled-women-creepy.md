@@ -14,7 +14,8 @@ The discussion is fine as it is on focusing on the social-cultural dimension. My
 
 ### Related Posts:
 
-- [The veil](https://www.gnxp.com/WordPress/2006/10/20/the-veil/) - [The problem with the
+- [The veil](https://www.gnxp.com/WordPress/2006/10/20/the-veil/)
+- [The problem with the
   "ladies"](https://www.gnxp.com/WordPress/2006/09/12/the-problem-with-the-ladies/) - ["Islam" vs.
   "Islam"](https://www.gnxp.com/WordPress/2005/07/01/islam-vs-islam/) - [Veils, part
   n](https://www.gnxp.com/WordPress/2006/11/01/veils-part-n/) - [Covering up your face and smothering

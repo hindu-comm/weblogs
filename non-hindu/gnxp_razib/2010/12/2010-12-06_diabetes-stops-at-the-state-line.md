@@ -17,11 +17,11 @@ But follow the gradient from El Paso to the Illinois-Missouri border. The differ
 
 **Update:** I think the mystery is solved in the [comments](http://blogs.discovermagazine.com/gnxp/2010/12/diabetes-stops-at-the-state-line/#comment-53843):
 
-> Very interesting. I suspect the answer has to do with the manner in > which the county estimates are produced. I went to the original data > source, the CDC, and then to the relevant FAQ: >
+> Very interesting. I suspect the answer has to do with the manner in which the county estimates are produced. I went to the original data source, the CDC, and then to the relevant FAQ: >
 > http://apps.nccd.cdc.gov/DDT_STRS2/FAQ.aspx#countylevelestimates >
-> There they say that the diabetes prevalence estimates come from the > “CDC’s Behavioral Risk Factor Surveillance System (BRFSS) and data > from the U.S. Census Bureau’s Population Estimates Program. The BRFSS > is an ongoing, monthly, state-based telephone survey of the adult > population. The survey provides state-specific information” >
-> So the CDC then uses a complicated statistical procedure (“indirect > model-dependent estimates” using Bayesian techniques and multilevel > Poisson regression models) to go from state to county prevalence > estimates. My hunch is that the state level averages thereby affect > the county estimates. The FAQ in fact says “State is included as a > county-level covariate. ” >
-> This is just a guess, but I think it is quite possibly the answer. (I > should note that I looked very briefly at maps of unemployment by > county and did not see the same pattern; county unemployment rates > have to be estimated because there is not enough data at the county > level in a survey of 60000 households, but perhaps the BLS does not > use state covariates.)
+> There they say that the diabetes prevalence estimates come from the > “CDC’s Behavioral Risk Factor Surveillance System (BRFSS) and data from the U.S. Census Bureau’s Population Estimates Program. The BRFSS is an ongoing, monthly, state-based telephone survey of the adult population. The survey provides state-specific information” >
+> So the CDC then uses a complicated statistical procedure (“indirect > model-dependent estimates” using Bayesian techniques and multilevel > Poisson regression models) to go from state to county prevalence estimates. My hunch is that the state level averages thereby affect the county estimates. The FAQ in fact says “State is included as a county-level covariate. ” >
+> This is just a guess, but I think it is quite possibly the answer. (I > should note that I looked very briefly at maps of unemployment by > county and did not see the same pattern; county unemployment rates have to be estimated because there is not enough data at the county level in a survey of 60000 households, but perhaps the BLS does not use state covariates.)
 
 ### Related Posts:
 

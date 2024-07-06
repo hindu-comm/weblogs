@@ -11,7 +11,7 @@ Darwin, still relevant
 
 Nick Wade’s [Darwin, Ahead of His Time, Is Still Influential](http://www.nytimes.com/2009/02/10/science/10evolution.html?ref=science&pagewanted=print) is a good complement to the strained Darwin-skepticism I pointed to earlier. From the perspective of this weblog this comment was interesting:
 
-> Darwin is still far from being fully accepted in sciences outside > biology. “People say natural selection is O.K. for human bodies but > not for brain or behavior,” Dr. Cronin says. “But making an exception > for one species is to deny Darwin’s tenet of understanding all living > things. This includes almost the whole of social studies — that’s > quite an influential body that’s still rejecting Darwinism.”
+> Darwin is still far from being fully accepted in sciences outside > biology. “People say natural selection is O.K. for human bodies but > not for brain or behavior,” Dr. Cronin says. “But making an exception for one species is to deny Darwin’s tenet of understanding all living things. This includes almost the whole of social studies — that’s quite an influential body that’s still rejecting Darwinism.”
 
 ### Related Posts:
 

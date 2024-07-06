@@ -28,7 +28,8 @@ I don’t know if this particular story is correct in its details (though I am i
 
 ### Related Posts:
 
-- [Complex traits & evolution - follow
+- [Complex traits & evolution
+- follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [Two new pigmentation
   papers](https://www.gnxp.com/WordPress/2008/05/20/two-new-pigmentation-papers/) - [Hair Color and Skin Pigmentation in
   Europeans](https://www.gnxp.com/WordPress/2008/05/17/hair-color-and-skin-pigmentation-in-europeans/) - [Correction on

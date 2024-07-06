@@ -13,7 +13,7 @@ Or is it more like “letting sleeping dogs lie?”
 
 On the issue of [that new statue](https://www.gnxp.com/blog/2009/05/great-pornographic-leap-forward.php):
 
-> That Proto-German sex toy is fun enough, but it’s time the media > stopped elevating things like it as evidence that our species only > learned to think abstractly among its subset who, if the lifespan of > our species were 24 hours, happened to wander into Europe around 7 PM.
+> That Proto-German sex toy is fun enough, but it’s time the media stopped elevating things like it as evidence that our species only learned to think abstractly among its subset who, if the lifespan of our species were 24 hours, happened to wander into Europe around 7 PM.
 
 [Full article here](http://blogs.tnr.com/tnr/blogs/mcwhorter/archive/2009/05/15/big-bosoms-and-the-big-bang-did-the-human-condition-really-emerge-in-europe.aspx) (including swipes at Steve).
 

@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2018/04/26/the-genetic-future-is-h
 
 The genetic future is here when it comes to finding relatives of suspects
 
-> My guess is Y-STR typing + one of the publicly searchable services > here: <https://t.co/G8I4ZLbSew> >
-> — Alexander M. Kim (@amwkim) [April 27, > 2018](https://twitter.com/amwkim/status/989695543587860480?ref_src=twsrc%5Etfw)
+> My guess is Y-STR typing + one of the publicly searchable services here: <https://t.co/G8I4ZLbSew> >
+> — Alexander M. Kim (@amwkim) [April 27, 2018](https://twitter.com/amwkim/status/989695543587860480?ref_src=twsrc%5Etfw)
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/exploring_personal_genomics-1.jpeg?resize=196%2C257&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/exploring_personal_genomics-1.jpeg?resize=196%2C257&ssl=1)](http://www.sacbee.com/latest-news/article209913514.html)You may have heard that a suspect was arrested who is alleged to be the “Golden State Killer.” DNA played an important role, [Relative’s DNA from genealogy websites cracked East Area Rapist case, DA’s office says](http://www.sacbee.com/latest-news/article209913514.html).
 

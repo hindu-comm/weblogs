@@ -11,16 +11,16 @@ On genetic privacy
 
 Larry Moran has a post up, [Who Owns Your Genome?](https://sandwalk.blogspot.com/2013/03/who-owns-your-genome.html), where he mentions me apropos of the HeLa genome disclosure:
 
-> In my opinion, there is no excuse for publishing this genome sequence > without consent. >
-> Razib Khan disagrees. He thinks that he can publish his genome > sequence without obtaining consent from anyone else and I assume he > feels the same way about the sequence of the HeLa genome \[Henrietta > Lacks’ genome, and familial consent\].
+> In my opinion, there is no excuse for publishing this genome sequence without consent. >
+> Razib Khan disagrees. He thinks that he can publish his genome sequence without obtaining consent from anyone else and I assume he feels the same way about the sequence of the HeLa genome \[Henrietta Lacks’ genome, and familial consent\].
 
 In response to Larry, **I don’t have a definitive opinion about the HeLa genome disclosure in terms of whether it was ethical to release it or not.** “Both sides” have positions which I see the validity of. I think ultimately the root issues really date to the 1950s, not today, and they don’t have to do with personal genomics as such. Also, I’d recommend [Joe Pickrell’s](http://www.genomesunzipped.org/2013/03/henrietta-lackss-genome-sequence-has-been-publicly-available-for-years.php) post, [Henrietta Lacks’s genome sequence has been publicly available for years](http://www.genomesunzipped.org/2013/03/henrietta-lackss-genome-sequence-has-been-publicly-available-for-years.php).
 
 Larry also has a question in the [comments](https://sandwalk.blogspot.com/2013/03/who-owns-your-genome.html?showComment=1364430395240#c1770976397820010369):
 
-> Let’s try a thought experiment. Everyone is free to answer. I’d prefer > a simple “yes” or “no” followed by an explanation. >
-> Imagine that you have paid to have your entire genome sequenced. You > announce that you intend to upload it to a public site so that anyone > can see it. Your parents, your siblings, and your children, all > object, saying that this would violate their privacy. >
-> Do you upload it anyway? (“Yes” or “no.” Please respect the rules of a > thought experiment and don’t try to quibble about the scenario.)
+> Let’s try a thought experiment. Everyone is free to answer. I’d prefer a simple “yes” or “no” followed by an explanation. >
+> Imagine that you have paid to have your entire genome sequenced. You announce that you intend to upload it to a public site so that anyone can see it. Your parents, your siblings, and your children, all object, saying that this would violate their privacy. >
+> Do you upload it anyway? (“Yes” or “no.” Please respect the rules of a thought experiment and don’t try to quibble about the scenario.)
 
 Yes, I’d upload it, and I will (since I’ve committed to uploading it when I have it done). Also note that my daughter is too young right now to give consent, and she probably will be too young when I upload the genome, so I’m going to do something which might impact her as a child.
 

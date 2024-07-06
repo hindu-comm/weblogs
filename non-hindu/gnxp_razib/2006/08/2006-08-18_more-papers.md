@@ -19,7 +19,7 @@ the [Nature Genetic miRNA supplement](http://www.nature.com/ng/journal/v38/n6s/i
 
 [Evolution of primate gene expression](http://www.nature.com/nrg/journal/v7/n9/abs/nrg1940.html) — Nature Reviews Genetics
 
-> - Genes expressed in the testes have experienced positive selection >   both with respect to their expression and to their sequences among >   primates. > - Gene expression in the brain has diverged less than that of other >   tissues analysed to date, but a tendency for acceleration of changes >   on the human lineage relative to the chimpanzee lineage could >   indicate positive selection.
+> - Genes expressed in the testes have experienced positive selection >   both with respect to their expression and to their sequences among >   primates. > - Gene expression in the brain has diverged less than that of other tissues analysed to date, but a tendency for acceleration of changes on the human lineage relative to the chimpanzee lineage could indicate positive selection.
 
 [Molecular analysis of flies selected for aggressive behavior.](https://dx.doi.org/10.1038/ng1864) — Nature Genetics – “Selective breeding was used to create a population of fighting fruitflies”[\*](http://www.nature.com/nrg/journal/v7/n9/full/nrg1959.html#Behavioural-genetics)
 

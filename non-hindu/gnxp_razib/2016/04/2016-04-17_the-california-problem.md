@@ -11,8 +11,8 @@ The California problem
 
 [California Surfers Look to Courts for Relief Against ‘Bay Boys’](http://www.nytimes.com/2016/04/15/us/california-surfers-look-to-courts-for-relief-against-bay-boys.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news):
 
-> …intimidation that has kept outsiders like Mr. Taloa away for > generations, a group of surfers is fighting to open up the beach to > all comers. A class-action lawsuit filed last month by the Coastal > Protection Rangers and two surfers seeks to bar the Bay Boys from > congregating at Lunada Bay — similar to the way injunctions have been > used against members of criminal street gangs. >
-> **The alleged members hail from one of the most exclusive communities > in Southern California; many of them are middle-aged**; some live in > multimillion-dollar homes so close to the coastline here that the > morning fog rolling off the ocean leaves their lawns damp.
+> …intimidation that has kept outsiders like Mr. Taloa away for > generations, a group of surfers is fighting to open up the beach to > all comers. A class-action lawsuit filed last month by the Coastal Protection Rangers and two surfers seeks to bar the Bay Boys from congregating at Lunada Bay — similar to the way injunctions have been used against members of criminal street gangs. >
+> **The alleged members hail from one of the most exclusive communities in Southern California; many of them are middle-aged**; some live in multimillion-dollar homes so close to the coastline here that the morning fog rolling off the ocean leaves their lawns damp.
 
 If you live in SoCal you know there is a problem where rich people basically strangle access to public beaches in some areas so as not to be bothered and annoyed by the populace. The story above is just of a piece with that tendency.
 

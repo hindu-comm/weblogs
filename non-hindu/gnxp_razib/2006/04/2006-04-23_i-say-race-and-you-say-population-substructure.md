@@ -17,7 +17,7 @@ Consider a situation where I, a South Asian American, am in need of a bone marro
 This doesn’t mean that I think race is a metaphysical concept of sacral value. I could care less, **I just don’t want my risk of personal extinction elevated because of an excessive emphasis population interchangeability**. One can change the name from “race” to something else, I don’t care, as long as pragmatically oriented people don’t disregard the correlations of alleles which [map onto geographical races](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1196372).  
 In any case:
 
-> To be races, I would think that you’d need at the least to have > long-term cladogenesis of the type found in haplotype groups of > geographically isolated populations of other species.
+> To be races, I would think that you’d need at the least to have long-term cladogenesis of the type found in haplotype groups of geographically isolated populations of other species.
 
 Well, then I guess by that definition I don’t believe in races. We can use some other word, I don’t particularly care, but we are a diverse species characterized by genetic substructure, and the 85/15 intra vs. intergroup variance number on one locus tends to elide that in the public imagination.  
 The problem for me isn’t that people reject the *word* race, it is that when they reject that word they seem to default to a position which assumes that interpopulational differences are “superficial” and “unimportant.” I don’t think this is so. A trivial example can be illustrated with food, in [Some like it Hot](https://www.gnxp.com/MT2/archives/003932.html), conservation biologist Gary Nabhan chronicles the confusions that abound in terms of cuisine transported across cultures. Some “diets” really don’t work well outside some populations, and giving Native Americans “free milk” is really dumb when you consider this group can’t digest milk well. On a less trivial level, the peoples of the northern Andaman Islands were decimated by diseases introduced by immigrants from the Indian mainland (they were moved to an isolated island in the 1960s and their numbers have bounced back from a dozen to perhaps 50 individuals). Today the Indian government has quarantined [North Sentinel Island](https://en.wikipedia.org/wiki/North_Sentinel) in part because it fears that outside diseases will result in the decimation of this group. The Eurasian pathogenic environment has resulted in the reality that some groups isolated from this evolutionary cauldron simply die when exposed to the disease load that is endemic to most Eurasians!  
@@ -25,7 +25,8 @@ The problem for me isn’t that people reject the *word* race, it is that when t
 
 ### Related Posts:
 
-- [Race debate](https://www.gnxp.com/WordPress/2006/04/23/race-debate/) - [Why genes don't determine
+- [Race debate](https://www.gnxp.com/WordPress/2006/04/23/race-debate/)
+- [Why genes don't determine
   race?](https://www.gnxp.com/WordPress/2007/06/13/why-genes-don-t-determine-race/) - [Race, plaque and
   disease](https://www.gnxp.com/WordPress/2009/09/27/race-plaque-and-disease/) - [Race & modern
   genomics](https://www.gnxp.com/WordPress/2007/01/15/race-modern-genomics/) - [Talking about

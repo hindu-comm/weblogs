@@ -11,8 +11,8 @@ Blogging and science
 
 *Medical Hypotheses*, [Figureheads, ghost-writers and quant bloggers](https://medicalhypotheses.blogspot.com/2008/08/figureheads-ghost-writers-and-quant.html):
 
-> The term ‘quant blogger’ (i.e. quantitative analysis blogger) was > invented by Steve Sailer \[8\] who is the practicing ‘blogfather’ of > an interconnected group of mostly pseudonymous bloggers that have been > in some way inspired by Sailer’s example and his (often distinctly > ‘non-PC’) interests in issues such as IQ; immigration; evolution; > education; politics and sports – often analyzed by sex, class and > race. Sailer has blogged many interesting quantitative analyses, > including an influential hypothesis of the relationship between > ‘affordable family formation’ and politics in the USA. >
-> The Sailer-influenced quant bloggers include the pseudonymous Razib > who hosts GNXP (Gene Expression) which includes several other quant > bloggers such as the pseudonymous Agnostic and (his real name) Jason > Malloy \[9\]. Other pseudonymous quant bloggers in this > Sailer-descended group include Inductivist \[10\], Half-Sigma \[11\] > and the Audacious Epigone \[12\].
+> The term ‘quant blogger’ (i.e. quantitative analysis blogger) was > invented by Steve Sailer \[8\] who is the practicing ‘blogfather’ of > an interconnected group of mostly pseudonymous bloggers that have been > in some way inspired by Sailer’s example and his (often distinctly > ‘non-PC’) interests in issues such as IQ; immigration; evolution; > education; politics and sports – often analyzed by sex, class and race. Sailer has blogged many interesting quantitative analyses, including an influential hypothesis of the relationship between ‘affordable family formation’ and politics in the USA. >
+> The Sailer-influenced quant bloggers include the pseudonymous Razib > who hosts GNXP (Gene Expression) which includes several other quant > bloggers such as the pseudonymous Agnostic and (his real name) Jason Malloy \[9\]. Other pseudonymous quant bloggers in this Sailer-descended group include Inductivist \[10\], Half-Sigma \[11\] and the Audacious Epigone \[12\].
 
 ### Related Posts:
 

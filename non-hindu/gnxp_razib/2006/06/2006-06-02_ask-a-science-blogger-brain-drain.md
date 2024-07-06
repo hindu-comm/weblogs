@@ -11,7 +11,7 @@ Ask a Science Blogger: Brain “drain”
 
 This weeks “Ask a Science Blogger” is:
 
-> “Do you think there is a brain drain going on (i.e. foreign scientists > not coming to work and study in the U.S. like they used to, because of > new immigration rules and the general unpopularity of the U.S.) If so, > what are its implications? Is there anything we can do about it?”
+> “Do you think there is a brain drain going on (i.e. foreign scientists not coming to work and study in the U.S. like they used to, because of new immigration rules and the general unpopularity of the U.S.) If so, what are its implications? Is there anything we can do about it?”
 
   
 A “drain” seems to imply a net outflow, and that doesn’t seem to be happening. But, as the paranthetical makes clear what meant is the **reduction of the extent of the inflow**. And yes, from all I can gather this is an issue in regards to student visas. My father had to pick between the US and the UK for graduate school, and he opted for the US for a variety of reasons. Today because of visa related issues he might have chosen the UK as a default option.  
@@ -21,7 +21,8 @@ Scientists by their nature seem to follow the rules, so change the damn rules!
 
 ### Related Posts:
 
-- ["Brain drain" follow up - put great minds to
+- ["Brain drain" follow up
+- put great minds to
   use!](https://www.gnxp.com/WordPress/2006/06/06/brain-drain-follow-up-put-great-minds-to-use/) - [Brain drain - the size of the cup
   matters](https://www.gnxp.com/WordPress/2006/06/06/brain-drain-the-size-of-the-cup-matters/) - [Ask a Science Blogger, know how to
   know!](https://www.gnxp.com/WordPress/2006/05/18/ask-a-science-blogger-know-how-to-know/) - [Just Science 2008

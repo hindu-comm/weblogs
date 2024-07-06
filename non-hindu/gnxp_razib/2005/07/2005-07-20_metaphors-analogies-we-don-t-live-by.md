@@ -17,7 +17,8 @@ So you have a situation where in two domains of knowledge the parties who demand
 
 ### Related Posts:
 
-- [On Mayr](https://www.gnxp.com/WordPress/2006/06/06/on-mayr/) - [R. A. Fisher and
+- [On Mayr](https://www.gnxp.com/WordPress/2006/06/06/on-mayr/)
+- [R. A. Fisher and
   Epistasis](https://www.gnxp.com/WordPress/2008/07/18/r-a-fisher-and-epistasis/) - [R. A. Fisher and the Adaptive
   Landscape](https://www.gnxp.com/WordPress/2008/09/27/r-a-fisher-and-the-adaptive-landscape/) - [Notes on Sewall Wright:
   Migration](https://www.gnxp.com/WordPress/2008/07/03/notes-on-sewall-wright-migration/) - [I do live...and

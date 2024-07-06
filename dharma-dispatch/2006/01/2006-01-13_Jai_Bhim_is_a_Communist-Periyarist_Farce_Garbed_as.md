@@ -67,7 +67,7 @@ Share
 
 THE HARDENED CORE OF PROPAGANDA in *Jai Bhim* unravels itself in a short monologue mouthed by the protagonist and chief propagandist, Chandru one hour into the movie:
 
-> The petition we’re about to file without any evidence is not just > against three policemen but against all those who are in power, > against this Government. It will be an uphill battle. Get ready!
+> The petition we’re about to file without any evidence is not just against three policemen but against all those who are in power, against this Government. It will be an uphill battle. Get ready!
 
 *Jai Bhim* is Tamil cinema’s equivalent of the 2006 Hindi commercial movie of Communist propaganda, *Rang de Basanti.* The underlying premise of both movies is the same: the Indian state is an illegitimate entity that must be fought continuously against until a paradise of Communist equality replaces it. While *Rang de Basanti* uses the Communist trope rather subtly, *Jai Bhim* brazenly celebrates not only Communism but *Communist parties*, complete with flags, paraphernalia, rhetoric and leaders.
 

@@ -28,7 +28,9 @@ Posted by David B at [03:30 AM](https://www.gnxp.com/MT2/archives/003895.html) [
 
 ### Related Posts:
 
-- [Update 2](https://www.gnxp.com/WordPress/2005/04/06/update-2/) - [Ethnic Genetic Interests - Part
+- [Update 2](https://www.gnxp.com/WordPress/2005/04/06/update-2/)
+- [Ethnic Genetic Interests
+- Part
   2](https://www.gnxp.com/WordPress/2005/01/24/ethnic-genetic-interests-part-2/) - [Genghis Khan →
   Serpentor?](https://www.gnxp.com/WordPress/2008/10/21/genghis-khan-serpentor/) - [Interracial Marriage: Salter's
   fallacy](https://www.gnxp.com/WordPress/2005/01/15/interracial-marriage-salter-s-fallacy/) - [Ethnic Genetic

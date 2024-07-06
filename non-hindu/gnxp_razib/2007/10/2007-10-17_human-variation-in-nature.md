@@ -11,7 +11,7 @@ Human variation in Nature
 
 Nice [little article](http://www.nature.com/news/2007/071017/full/449762a.html) in Nature. Here’s the conclusion:
 
-> “This is a very delicate time, and a dangerous time, as people start > to come up with things that the general public, or the media, or > various groups might misinterpret,” Sabeti says. “I like the fact > that, so far, the evidence we find for natural selection in humans is > only skin deep.”
+> “This is a very delicate time, and a dangerous time, as people start > to come up with things that the general public, or the media, or various groups might misinterpret,” Sabeti says. “I like the fact that, so far, the evidence we find for natural selection in humans is only skin deep.”
 
 Here’s an [interview](http://www.sciencespectrumonline.com/artman/publish/article_24.shtml) with Pardis Sabeti (she is also the [first speaker](http://seedmagazine.com/news/2006/12/inspiration_festival_pardis_sa.php) at this 2006 “Inspiration Festival” sponsored by Seed). She is lead author on [Genome-wide detection and characterization of positive selection in human populations](http://www.nature.com/nature/journal/v449/n7164/abs/nature06250.html) in the current issue of *Nature* (step away from the computer Assman….).
 

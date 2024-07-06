@@ -13,7 +13,7 @@ The great pornographic leap forward
 
 **Update:** *Slate* [says in relation to the body form](http://www.slate.com/id/2218400/) the “Venus”:
 
-> Some women in hunter-gathering societies do have abnormally large > buttocks, a condition called steatopygia. It’s especially common among > the Khoisan in southern Africa and tribes in the Andaman Islands. It > is sometimes considered a sign of beauty, and may have inspired some > of the more voluptuous ancient figurines. The most famous example of > steatopygia was the Hottentot Venus, a Khoikhoi woman whose physical > characteristics made her a sideshow sensation in 19th-century Europe.
+> Some women in hunter-gathering societies do have abnormally large > buttocks, a condition called steatopygia. It’s especially common among > the Khoisan in southern Africa and tribes in the Andaman Islands. It > is sometimes considered a sign of beauty, and may have inspired some of the more voluptuous ancient figurines. The most famous example of steatopygia was the Hottentot Venus, a Khoikhoi woman whose physical characteristics made her a sideshow sensation in 19th-century Europe.
 
 Look, this is just an excuse to write an article about ancient obesity and bring up steatopygia. The Egyptians likely never knew anyone who looked like [Horus](https://en.wikipedia.org/wiki/Horus).
 

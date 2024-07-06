@@ -12,7 +12,7 @@ Bumping uglies with the Neandertal (aka but they did interbreed!)
 **Update:** Update at the bottom….  
 In reference to the sequencing of the Neandertal genome, [Kambiz at Anthropology.net states](http://anthropology.net/user/kambiz_kamrani/blog/2006/07/21/announcing_a_two_year_neandertal_genome_decoding_project):
 
-> I have one little gripe with the *New York Times* article. Wade quotes > a geneticist, Dr. Bruce Lahn saying there is, “evidence from the human > genome suggests some interbreeding with an archaic species.” Has he > not read Paabo’s paper 2004 *PLoS* paper, “[No Evidence of Neandertal > mtDNA Contribution to Early Modern > Humans](http://www.454.com/downloads/news-events/mtDNAcontributionPLOS.pdf)?” > There is significant mtDNA evidence to stongly conclude that humans > and Neandertals did not interbread directly.
+> I have one little gripe with the *New York Times* article. Wade quotes > a geneticist, Dr. Bruce Lahn saying there is, “evidence from the human > genome suggests some interbreeding with an archaic species.” Has he > not read Paabo’s paper 2004 *PLoS* paper, “[No Evidence of Neandertal > mtDNA Contribution to Early Modern Humans](http://www.454.com/downloads/news-events/mtDNAcontributionPLOS.pdf)?” There is significant mtDNA evidence to stongly conclude that humans and Neandertals did not interbread directly.
 
 I left a comment on that website, but I will elaborate a bit here. In reference to Bruce Lahn, he almost certainly has read that paper, but,  
 1) mtDNA can take you only so far.  

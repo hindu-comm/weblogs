@@ -17,7 +17,11 @@ I will say up front that I am unqualified to supply a scholarly critique of the 
 
 Before I got very far into the book, I wrote down some things I wanted to learn from it.
 
-1.  Is my basic understanding correct: that [agriculture leads straight to modernity](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/), in time? 2.  Will the book provide insight into the emergence of [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)—a false sense of separateness or transcendence above nature that drives much of modernity? 3.  Does the book talk about animist belief systems and how languages embodied different ways of thinking? 4.  Does the book present our history in the context of one-time inheritance spending of, e.g., fossil fuels and ecological health? 5.  Is the “Everything” in the title broader than an anthropocentric focus on the last 10,000 years as civilizations arose?
+1.  Is my basic understanding correct: that [agriculture leads straight to modernity](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/), in time?
+2.  Will the book provide insight into the emergence of [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)—a false sense of separateness or transcendence above nature that drives much of modernity?
+3.  Does the book talk about animist belief systems and how languages embodied different ways of thinking?
+4.  Does the book present our history in the context of one-time inheritance spending of, e.g., fossil fuels and ecological health?
+5.  Is the “Everything” in the title broader than an anthropocentric focus on the last 10,000 years as civilizations arose?
 
 I can say that the answer to all these questions is, disappointingly, no. But I’ll be a bit slippery on the first point, in due time.
 
@@ -25,8 +29,8 @@ I can say that the answer to all these questions is, disappointingly, no. But I�
 
 I got off on the wrong foot with the book (before later growing to like it, briefly) because Chapter 1 revealed something I considered to be fundamentally wrong with the approach. The authors put forth two Enlightenment-era views of the nature of humanity that remain influential today. Hobbes characterized life before modernity as “solitary, poor, nasty, brutish, and short,” implying a sort of barbarism intrinsic to humans (see my earlier [counterpoint](https://dothemath.ucsd.edu/2023/08/desperate-odds/)), remedied by civilizational constructs. Meanwhile, Rousseau imagined an innocent age of idyllic harmony with nature that was destroyed by the very same trappings of civilization—starting with agriculture 10,000 years ago. In reaction to these schools of thought, the authors enumerate their three motivations for writing the book:
 
-> …we don’t much like the choice between these two alternatives. Our > objections can be classified into three broad categories. As accounts > of the general course of human history, they: >
-> 1.  simply aren’t true; > 2.  have dire political implications; > 3.  make the past needlessly dull.
+> …we don’t much like the choice between these two alternatives. Our objections can be classified into three broad categories. As accounts of the general course of human history, they: >
+> 1.  simply aren’t true; 2.  have dire political implications; 3.  make the past needlessly dull.
 
 On the first: by all means let’s get the facts right. On the third: I looked forward to learning about the richly storied past. On the second: they lost me. It seems like working backwards—much like IPCC models that start with politically acceptable trends in economic and energy growth and examine the resulting climate consequences (rather than the harder job of evaluating what is biophysically likely or possible). Sometimes implications *are* dire, and we don’t get to choose. But okay, I’ve been warned that a primary motivation is rejection of implications.
 
@@ -50,7 +54,7 @@ Yes, the process was not linear, or simple, and it took a while to play out. We 
 
 The authors at one point describe laboratory results indicating that when all the right actions are taken, wild grasses can be domesticated into something like wheat in as little as 20–200 years. Since the agricultural transition took 3,000 years, the authors express contempt for the term Agricultural Revolution, on the basis that something taking 3,000 years to unfold can hardly be called a revolution.
 
-> The transition from living mainly on wild resources to a life based on > food production took something in the order of 3,000 years. \[…\] > Clearly, it no longer makes any sense to use phrases like ‘the > Agricultural Revolution’ when dealing with processes of such > inordinate length and complexity.
+> The transition from living mainly on wild resources to a life based on > food production took something in the order of 3,000 years. \[…\] Clearly, it no longer makes any sense to use phrases like ‘the Agricultural Revolution’ when dealing with processes of such inordinate length and complexity.
 
 Excuse me? To me, it seems that a radical change in methods is revolutionary even if it takes 3,000 years. I don’t know of a rule that it has to transpire in a single person’s lifetime, for instance. More important to me is what 3,000 years represents on the scale of Homo sapiens: 1–2% of its time? That’s pretty darned fast—especially compared to the pace of biological evolution. The very same diversity of approaches lauded by the authors also means that people were free to *not* follow the quickest laboratory route to domestication. The important thing is that it eventually happened—somewhat inexorably, I would say—and had enormous consequences. We’ll return to the central friction around determinism later, after laying out a few more key pieces.
 

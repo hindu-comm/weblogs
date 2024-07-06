@@ -25,7 +25,8 @@ This essay is an attempt to delve on these religious underpinnings common to bot
 
 **Table of Contents & Links**
 
--   **[Background](#Background) ** -   **[Sympathisers and Christian
+-   **[Background](#Background) **
+-   **[Sympathisers and Christian
     Motives](#Sympathisers-and-Christian-Motives) ** -   **[The Evangelic Turn](#The-Evangelic-Turn) ** -   **[Western Hierarchy of Oriental Religions](#Western-Hierarchy) ** -   **[Mask of Benovelonce](#Mask-of-Benovelonce) ** -   **[Remarks](#Remarks) ** -   [**Conclusion**](#Conclusion) -   **[Bibliography](#Bibliography)**
 
 **§** **Background**

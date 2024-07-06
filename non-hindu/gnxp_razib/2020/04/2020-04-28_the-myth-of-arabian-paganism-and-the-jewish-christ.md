@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2020/04/28/the-myth-of-arabian-pag
 
 The myth of Arabian paganism, and the Jewish-Christian origins of the Umayyads
 
-> Ibn al-Kalbi’s ‘Book of Idols’ depicts 6th c. Arabia (excluding Yemen) > as dominated by paganism. But what do the Arabic inscriptions of 6th > century Arabia tell us? day 2 \~AA > [@safaitic](https://twitter.com/Safaitic?ref_src=twsrc%5Etfw) > [pic.twitter.com/HkcleuU88g](https://t.co/HkcleuU88g) >
-> — Tweeting Historians (@Tweetistorian) [April 28, > 2020](https://twitter.com/Tweetistorian/status/1255110763540340743?ref_src=twsrc%5Etfw)
+> Ibn al-Kalbi’s ‘Book of Idols’ depicts 6th c. Arabia (excluding Yemen) > as dominated by paganism. But what do the Arabic inscriptions of 6th century Arabia tell us? day 2 \~AA [@safaitic](https://twitter.com/Safaitic?ref_src=twsrc%5Etfw) [pic.twitter.com/HkcleuU88g](https://t.co/HkcleuU88g) >
+> — Tweeting Historians (@Tweetistorian) [April 28, 2020](https://twitter.com/Tweetistorian/status/1255110763540340743?ref_src=twsrc%5Etfw)
 
   
 [![](https://i0.wp.com/www.brownpundits.com/wp-content/uploads/2018/09/ingodspath.jpeg?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.brownpundits.com/wp-content/uploads/2018/09/ingodspath.jpeg?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B00L4CK12A/geneexpressio-20)Today on Twitter there was something interesting and edifying posted. The account above reported the finding that **6th-century inscriptions of a religious character in Arabia seem to invariably be Christian, rather than pagan.** This is interesting and surprising because Islamic tradition, and works such as the 8th-century [Book of Idols](https://en.wikipedia.org/wiki/Book_of_Idols), allude to a 6th-century Arabia which was aggressively pagan. Islamic tradition speaks of the city of Mecca as a center of public elite paganism; a pilgrimage site for Arabian pagans. This was the paganism that the prophet Muhammad rebuked and destroyed. The conventional narrative is that these newly converted Arabs burst out upon the world, conquering much of Byzantium, and swallowing Persia in toto, in their zeal.

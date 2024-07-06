@@ -11,10 +11,10 @@ Neandertal & H. sapiens sapiens interbreeding
 
 [Modern Humans, Neanderthals May Have Interbred](http://news.yahoo.com/s/hsn/20061030/hl_hsn/modernhumansneanderthalsmayhaveinterbred):
 
-> “To me, what happened is that the Neanderthals were \[genetically\] > absorbed into and overwhelmed by modern humans coming into Europe from > Africa, and they disappeared through this absorption,” Trinkaus > said.  
+> “To me, what happened is that the Neanderthals were \[genetically\] absorbed into and overwhelmed by modern humans coming into Europe from Africa, and they disappeared through this absorption,” Trinkaus said.  
 > …  
-> Examining the bones, Trinkaus discovered certain features that he > believes are Neanderthal elements incorporated into this early Homo > sapien. >
-> Features at the back of the woman’s skull and in her lower jaw, > especially, “are found in high frequency in Neanderthals” but are > absent in bones from older groups of Homo sapiens from Africa, he > said.
+> Examining the bones, Trinkaus discovered certain features that he believes are Neanderthal elements incorporated into this early Homo sapien. >
+> Features at the back of the woman’s skull and in her lower jaw, especially, “are found in high frequency in Neanderthals” but are absent in bones from older groups of Homo sapiens from Africa, he said.
 
 The paper will be on the PNAS site sometime this week, apparently it is behind an ’embargo wall’ right now and already in circulation amongst those with special access. This is a morphology story, it seems that individuals with a mosaic of African and Neandertal traits existed in Europe \~30,000 years ago. What does this tell us? If we didn’t have the genetic evidence I think one would have to assume that the highest likelihood is that some interbreeding went on. But didn’t we learn [last week](https://www.gnxp.com/blog/2006/10/neandertal-genome-sequencing.php) that humans and Neandertals were separate and distinct lineages, with the latter contributing nothing to the genome of the former?
 

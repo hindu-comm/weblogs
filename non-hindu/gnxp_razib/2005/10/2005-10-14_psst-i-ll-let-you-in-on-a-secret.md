@@ -13,7 +13,8 @@ Have you ever been stuck in phone-mail hell? If you hit “0” you’ll often b
 
 ### Related Posts:
 
-- [Dell Hell](https://www.gnxp.com/WordPress/2007/07/31/dell-hell/) - [Farhad Manjoo defends
+- [Dell Hell](https://www.gnxp.com/WordPress/2007/07/31/dell-hell/)
+- [Farhad Manjoo defends
   Gmail](https://www.gnxp.com/WordPress/2009/09/05/farhad-manjoo-defends-gmail/) - [Are phones an
   anachronism?](https://www.gnxp.com/WordPress/2014/03/15/are-phones-relevant/) - [My dreamquest: what has the "phone"
   become?](https://www.gnxp.com/WordPress/2011/05/03/my-dreamquest-what-has-the-phone-become/) - [IT plumbing is not sexy...which is a

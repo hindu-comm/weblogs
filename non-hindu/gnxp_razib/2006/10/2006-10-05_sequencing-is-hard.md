@@ -11,8 +11,8 @@ Sequencing is hard
 
 Both the [Wall Street Journal](http://online.wsj.com/public/article/SB115993034340082110-CKyzf6mJyNzGTtTINo0V0UgWon8_20061011.html?mod=blogs) and the [NY Times](http://www.nytimes.com/2006/10/04/science/04cnd-genome.html?_r=1&oref=slogin) report on the new X Prize Challenge:
 
-> The X Prize Foundation, sponsor of a widely noted 2004 award for > developing a reusable rocket suitable for private space travel, says > it is now teaming with a wealthy Canadian geologist to offer \$10 > million to any team that can completely decode the genes of 100 people > in 10 days. >
-> And that’s not all. As an encore, the winning team will be paid \$1 > million more to decode another 100 people’s genes, including a bevy of > wealthy donors and celebrities. Already accepted for future decoding: > Google Inc. co-founder Larry Page, Microsoft Corp. co-founder Paul G. > Allen and former junk-bond king Michael Milken.
+> The X Prize Foundation, sponsor of a widely noted 2004 award for > developing a reusable rocket suitable for private space travel, says it is now teaming with a wealthy Canadian geologist to offer \$10 million to any team that can completely decode the genes of 100 people in 10 days. >
+> And that’s not all. As an encore, the winning team will be paid \$1 > million more to decode another 100 people’s genes, including a bevy of wealthy donors and celebrities. Already accepted for future decoding: Google Inc. co-founder Larry Page, Microsoft Corp. co-founder Paul G. Allen and former junk-bond king Michael Milken.
 
 [John Hawks](http://johnhawks.net/weblog/) has a little commentary, including the ever important question: how does anyone actually know the winners get it right (as opposed to generating random variations on the current reference sequence, for example)?
 

@@ -11,11 +11,11 @@ The god of death
 
 One of the common ideas for why religion appeared is that it is a way of assauging fear of death. [Chris](http://scienceblogs.com/mixingmemory/2006/09/terror_management_and_religiou.php) of [Mixing Memory](http://scienceblogs.com/mixingmemory/2006/09/terror_management_and_religiou.php) reports on research which tests this hypothesis. Here is Chris’ summary:
 
-> In summary, then, when fundamentalists had their beliefs in Biblical > inerrancy successfully challenged (i.e., they were presented with > Biblical contradictions, and thus changed their minds about the > existence of such contradictions), thoughts of death became more > salient for them. So it does appear that religious beliefs, for > fundamentalists at least, serve to minimize existential anxiety.
+> In summary, then, when fundamentalists had their beliefs in Biblical > inerrancy successfully challenged (i.e., they were presented with > Biblical contradictions, and thus changed their minds about the existence of such contradictions), thoughts of death became more salient for them. So it does appear that religious beliefs, for fundamentalists at least, serve to minimize existential anxiety.
 
 But this science, so not everything follows our intuition:
 
-> Strangely, the participants who were least likely to complete the > stems with death-related words were the low fundamentalist > participants who had read the passage about Biblical contradictions.
+> Strangely, the participants who were least likely to complete the stems with death-related words were the low fundamentalist participants who had read the passage about Biblical contradictions.
 
 So for *some* religionists death and faith seem closely coupled, but not all religionists. At least if psychological experiments give us any window into the soul.
 

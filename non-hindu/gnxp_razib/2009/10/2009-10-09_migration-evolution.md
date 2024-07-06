@@ -11,7 +11,7 @@ Migration & evolution
 
 [Evolution with Stochastic Fitness and Stochastic Migration](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0007130):
 
-> As has previously been shown with selection, the role of migration in > evolution is determined by the entire distributions of immigration and > emigration rates, not just by the mean values. The interactions of > stochastic migration with stochastic selection produce evolutionary > processes that are invisible to deterministic evolutionary theory.
+> As has previously been shown with selection, the role of migration in > evolution is determined by the entire distributions of immigration and emigration rates, not just by the mean values. The interactions of stochastic migration with stochastic selection produce evolutionary processes that are invisible to deterministic evolutionary theory.
 
 I haven’t read the paper yet, but on my “To-Read” list….
 

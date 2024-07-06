@@ -11,8 +11,8 @@ Making a splash before 40
 
 [Systems biologist, geneticist make notable ‘Under 40’ lists](http://chronicle.uchicago.edu/081211/40under40.shtml):
 
-> For a fortunate, capable few, life gets rolling sooner. **Two of them, > Kevin White and Jonathan Pritchard, both 37 and members of the > Department of Human Genetics, have been singled out for getting ahead > of the numbers.** >
-> The Monday, Nov. 3 issue of Crain’s Chicago Business named White as > one of its “40 Under 40,” its annual snapshot of the area’s up-and > comers. He was the only person on this year’s list from an academic > setting.
+> For a fortunate, capable few, life gets rolling sooner. **Two of them, Kevin White and Jonathan Pritchard, both 37 and members of the Department of Human Genetics, have been singled out for getting ahead of the numbers.** >
+> The Monday, Nov. 3 issue of Crain’s Chicago Business named White as one of its “40 Under 40,” its annual snapshot of the area’s up-and comers. He was the only person on this year’s list from an academic setting.
 
 Of course, you haven’t hit the big time until you get into [Chicago Magazine](http://www.chicagomag.com/Chicago-Magazine/July-2006/Lone-Stars/Bruce-Lahn/)….
 

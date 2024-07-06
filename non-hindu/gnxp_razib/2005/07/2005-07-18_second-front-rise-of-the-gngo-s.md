@@ -35,7 +35,8 @@ Posted by dobeln at [11:55 PM](https://www.gnxp.com/MT2/archives/004169.html) []
 
 ### Related Posts:
 
-- [Second front - Rise of the
+- [Second front
+- Rise of the
   GONGO](https://www.gnxp.com/WordPress/2005/07/21/second-front-rise-of-the-gongo/) - [Free speech Über
   Alles!](https://www.gnxp.com/WordPress/2012/09/29/free-speech-uber-alles/) - [God bless
   America!](https://www.gnxp.com/WordPress/2008/06/11/god-bless-america/) - [Off to the

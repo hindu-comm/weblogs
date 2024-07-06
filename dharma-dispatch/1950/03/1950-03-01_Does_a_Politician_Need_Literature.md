@@ -351,7 +351,7 @@ Share
 
 IN A LETTER DATED March 3,1938, D.V. Gundappa wrote as follows to Mirza Ismail, the then Diwan of the Mysore Princely State.
 
-> No more the pose of a public man for me… My role is that of a humble > student and I am content with that… my wish is to give the rest of my > life to the work of interpreting to my countrymen some of the things > that I value in the great books I have read – in poetry and philosophy > and politics; Shakespeare and the Ramayana and Plato are the voices > that call me and to them I would go in my freedom. **Public life has > made me sick**. **My soul is crying for peace. So have mercy and let > me go out of public life**. (Emphasis added)
+> No more the pose of a public man for me… My role is that of a humble > student and I am content with that… my wish is to give the rest of my > life to the work of interpreting to my countrymen some of the things > that I value in the great books I have read – in poetry and philosophy > and politics; Shakespeare and the Ramayana and Plato are the voices that call me and to them I would go in my freedom. **Public life has made me sick**. **My soul is crying for peace. So have mercy and let me go out of public life**. (Emphasis added)
 
 The letter sounds ironical but it is actually characteristic of the impulses that drove DVG’s life. Ironical because DVG had made his mark and his career in public life – as journalist, editor, publisher, and had served on various Government bodies. True to his word, DVG completely quit public life in 1940, aged fifty-three, and for the rest of his life, strove to do exactly what he had declared in his letter: explaining the value of things which cannot be valued by money.
 

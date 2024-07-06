@@ -11,7 +11,8 @@ Popular songs in my household
 
 ### Related Posts:
 
-- [Justifying their Existence - The
+- [Justifying their Existence
+- The
   Humanities](https://www.gnxp.com/WordPress/2005/08/31/justifying-their-existence-the-humanities/) - [40 hits in 40
   years](https://www.gnxp.com/WordPress/2011/09/20/40-hits-in-40-years/) - [Where gnxp is
   popular....](https://www.gnxp.com/WordPress/2005/09/20/where-gnxp-is-popular/) - [The natural history of song - a human

@@ -13,7 +13,7 @@ I wanted to post a rejoinder to the avian flu discussion below. My response is t
 
 A Canadian investment firm [issued a report on avian flu](http://www2.bmo.com/bmo/files/news%20release/4/1/Avian%20Flu.pdf) recently. They argue that the indirect (economic) effects of a pandemic will be devastating over and above any loss of life. Their strongest evidence comes from an analysis of the economic impact of SARS on affected countries. The world-wide death toll from SARS was small (\~775 people), but its impact on GDP growth was substantial.
 
-> The Bank of Canada estimates that the most severe economic impact was > in the second quarter when GDP growth fell from 3% in Q1/03 to -1.2% > in Q2/03. Its estimate is that SARS cut second quarter GDP by 0.6 > percentage points (Chart 1). Moderate as this estimate sounds, the > effect in Toronto was significantly more dramatic, as Toronto > represents about 15-Â–20% of overall Canadian economic activity.
+> The Bank of Canada estimates that the most severe economic impact was > in the second quarter when GDP growth fell from 3% in Q1/03 to -1.2% > in Q2/03. Its estimate is that SARS cut second quarter GDP by 0.6 percentage points (Chart 1). Moderate as this estimate sounds, the effect in Toronto was significantly more dramatic, as Toronto represents about 15-Â–20% of overall Canadian economic activity.
 
 Fear of infection alone will be sufficient to cause economic stagnation, and this is something to be worried about.
 

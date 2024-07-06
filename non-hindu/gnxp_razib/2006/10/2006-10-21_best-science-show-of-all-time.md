@@ -17,7 +17,8 @@ No contest, [NOVA](https://en.wikipedia.org/wiki/NOVA_%28TV_series%29).
 
 ### Related Posts:
 
-- [NOVA, online](https://www.gnxp.com/WordPress/2007/04/01/nova-online/) - [Seed science writing
+- [NOVA, online](https://www.gnxp.com/WordPress/2007/04/01/nova-online/)
+- [Seed science writing
   contest](https://www.gnxp.com/WordPress/2006/04/04/seed-science-writing-contest/) - [3QuarksDaily size writing
   prize](https://www.gnxp.com/WordPress/2011/06/06/3quarksdaily-size-writing-prize/) - [Ask a Science Blogger - June
   15](https://www.gnxp.com/WordPress/2006/06/15/ask-a-science-blogger-june-15/) - [NOVA: Is there life on

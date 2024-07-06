@@ -11,7 +11,7 @@ Mutations to make you healthier
 
 From PLOS One, [Gain-of-Function R225W Mutation in Human AMPKγ3 Causing Increased Glycogen and Decreased Triglyceride in Skeletal Muscle](http://www.plosone.org/article/fetchArticle.action?articleURI=info:doi/10.1371/journal.pone.0000903):
 
-> We have identified for the first time a mutation in the skeletal > muscle-specific regulatory γ3 subunit of AMPK in humans. The γ3R225W > mutation has significant functional effects as demonstrated by > increases in basal and AMP-activated AMPK activities, increased muscle > glycogen and decreased IMTG. **Overall, these findings are consistent > with an important regulatory role for AMPK γ3 in human muscle energy > metabolism**.
+> We have identified for the first time a mutation in the skeletal > muscle-specific regulatory γ3 subunit of AMPK in humans. The γ3R225W > mutation has significant functional effects as demonstrated by > increases in basal and AMP-activated AMPK activities, increased muscle glycogen and decreased IMTG. **Overall, these findings are consistent with an important regulatory role for AMPK γ3 in human muscle energy metabolism**.
 
   
 Costford SR, Kavaslar N, Ahituv N, Chaudhry SN, Schackwitz WS, et al. (2007) Gain-of-Function R225W Mutation in Human AMPKγ3 Causing Increased Glycogen and Decreased Triglyceride in Skeletal Muscle. PLoS ONE 2(9): e903. [doi:10.1371/journal.pone.0000903](https://dx.doi.org/10.1371/journal.pone.0000903).  

@@ -11,10 +11,10 @@ Review of the Hobbit paper
 
 [Excellent one](http://zinjanthropus.wordpress.com/2010/01/28/is-homo-floresiensis-really-that-strange/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ResearchBloggingAnthropologyEnglish+(Research+Blogging+-+English+-+Anthropology)&utm_content=Google+Reader) at [A Primate of Modern Aspect](http://zinjanthropus.wordpress.com/2010/01/28/is-homo-floresiensis-really-that-strange/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ResearchBloggingAnthropologyEnglish+(Research+Blogging+-+English+-+Anthropology)&utm_content=Google+Reader):
 
-> Okay, so we’ve got lots of increases in brain size, and a few > decreases. In the cases where we have decreases, we usually have body > size decreases as well. More often than not, we have body size > decreases which result in a disproportionately large brain size, but > occasionally we have a body size increase which results in a > disproportionately small brain size. And all of that brings us to the > Hobbit.  
-> The authors looked at Homo floresiensis in relation to the Dmanisi > hominids, Homo habilis, and a Homo erectus from Ngangdong and found > that if we use Dmanisi or habilis as an ancestor, the decrease in > brain size and body size isn’t exceptionally weird when compared to > other primate groups. The mouse lemur decreased in both to a greater > degree, for example.  
-> But if you use the Ngangdong erectus as the ancestor, it is a really > weird decrease.  
-> So, I guess the question is, is it reasonable to use Dmanisi or Homo > habilis as the ancestor and not Homo erectus? And of course, we don’t > know that yet!
+> Okay, so we’ve got lots of increases in brain size, and a few > decreases. In the cases where we have decreases, we usually have body > size decreases as well. More often than not, we have body size > decreases which result in a disproportionately large brain size, but occasionally we have a body size increase which results in a disproportionately small brain size. And all of that brings us to the Hobbit.  
+> The authors looked at Homo floresiensis in relation to the Dmanisi > hominids, Homo habilis, and a Homo erectus from Ngangdong and found > that if we use Dmanisi or habilis as an ancestor, the decrease in brain size and body size isn’t exceptionally weird when compared to other primate groups. The mouse lemur decreased in both to a greater degree, for example.  
+> But if you use the Ngangdong erectus as the ancestor, it is a really weird decrease.  
+> So, I guess the question is, is it reasonable to use Dmanisi or Homo habilis as the ancestor and not Homo erectus? And of course, we don’t know that yet!
 
 ### Related Posts:
 

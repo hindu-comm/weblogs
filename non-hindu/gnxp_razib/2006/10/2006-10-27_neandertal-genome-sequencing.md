@@ -11,13 +11,13 @@ Neandertal genome sequencing
 
 [Afarensis](http://scienceblogs.com/afarensis/) points me to this [new story](http://news.nationalgeographic.com/news/2006/10/061026-neanderthals.html) in [National Geographic](http://news.nationalgeographic.com/news/2006/10/061026-neanderthals.html) about the Neandertal sequencing effort:
 
-> A new study by geneticist James Noonan at Lawrence Berkeley National > Laboratory, however, reveals that modern humans and Neandertals’ most > recent common ancestor probably perished about 400,000 years ago.  
+> A new study by geneticist James Noonan at Lawrence Berkeley National Laboratory, however, reveals that modern humans and Neandertals’ most recent common ancestor probably perished about 400,000 years ago.  
 > …  
-> Noonan’s work represents a significant advance over earlier studies of > Neandertal genetics, such as those conducted by William Goodwin of the > University of Glasgow in Scotland…. >
-> That early work involved analysis of mitochondrial DNA, which tends to > stay preserved longer than DNA found inside the nuclei of cells. But > Noonan analyzed nuclear DNA, which holds a much greater wealth of > information.  
+> Noonan’s work represents a significant advance over earlier studies of Neandertal genetics, such as those conducted by William Goodwin of the University of Glasgow in Scotland…. >
+> That early work involved analysis of mitochondrial DNA, which tends to stay preserved longer than DNA found inside the nuclei of cells. But Noonan analyzed nuclear DNA, which holds a much greater wealth of information.  
 > …  
-> Based on his results to date, Paabo expects to see some surprises as > his project proceeds. >
-> “Neandertal DNA is degraded in specific ways that we had not > anticipated, and in some ways Neandertals actually look closer to > humans than we had expected,” he said.
+> Based on his results to date, Paabo expects to see some surprises as his project proceeds. >
+> “Neandertal DNA is degraded in specific ways that we had not anticipated, and in some ways Neandertals actually look closer to humans than we had expected,” he said.
 
 What could Paabo mean??? Stay tuned over the next few weeks….
 

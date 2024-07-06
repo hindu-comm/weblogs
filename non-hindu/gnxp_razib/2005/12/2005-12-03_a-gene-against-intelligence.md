@@ -11,10 +11,10 @@ A Gene Against Intelligence
 
 Researchers have associated a variant of the IGF2R gene with lower IQ in males–by an average of 20 IQ points. From the [Dallas Morning News article](http://www.dallasnews.com/sharedcontent/dws/dn/latestnews/stories/120205dnnatgeneIQ.179641fb.html) \[registration required\]:
 
-> The researchers studied about 300 children with an average age of 10. > The children, all Caucasian, came from six counties in the Cleveland > area. As a group, males – but not females – who had the variant gene > had IQ scores about 20 points lower than males who didn’t. \[…\] >
-> Dr. Jirtle said his assertion that the IGF2R gene affects IQ is > bolstered by experiments in mice. When he and his colleagues disabled > a copy of the gene in lab mice – an experiment intended to mimic > humans who inherit the variant copy of the gene – they noticed that > the male mice were slow learners on a maze test. Electrical recordings > of the mice’s brain tissue were also altered in a way that is > consistent with slow learning. >
-> Also, Dr. Jirtle said, what scientists already know about the protein > produced from the IGF2R gene fits with a role in brain function. > Research has suggested the protein regulates cell growth as well as > the speed at which signals travel between nerve cells. >
-> In 1998, scientists from England reported a connection between a > portion of the IGF2R gene and IQ, but later retracted their work when > they couldn’t replicate the results. Dr. Jirtle’s research concerns a > different, but nearby, area of the same gene.
+> The researchers studied about 300 children with an average age of 10. The children, all Caucasian, came from six counties in the Cleveland area. As a group, males – but not females – who had the variant gene had IQ scores about 20 points lower than males who didn’t. \[…\] >
+> Dr. Jirtle said his assertion that the IGF2R gene affects IQ is > bolstered by experiments in mice. When he and his colleagues disabled > a copy of the gene in lab mice – an experiment intended to mimic > humans who inherit the variant copy of the gene – they noticed that the male mice were slow learners on a maze test. Electrical recordings of the mice’s brain tissue were also altered in a way that is consistent with slow learning. >
+> Also, Dr. Jirtle said, what scientists already know about the protein produced from the IGF2R gene fits with a role in brain function. Research has suggested the protein regulates cell growth as well as the speed at which signals travel between nerve cells. >
+> In 1998, scientists from England reported a connection between a portion of the IGF2R gene and IQ, but later retracted their work when they couldn’t replicate the results. Dr. Jirtle’s research concerns a different, but nearby, area of the same gene.
 
 ### Related Posts:
 

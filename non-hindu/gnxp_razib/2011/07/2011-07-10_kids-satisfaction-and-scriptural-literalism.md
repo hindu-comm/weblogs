@@ -11,8 +11,8 @@ Kids, satisfaction, and scriptural literalism
 
 [Bryan Caplan](http://econlog.econlib.org/archives/2011/07/job_satisfactio_1.html)\* found something interesting in the [GSS](http://econlog.econlib.org/archives/2011/07/job_satisfactio_1.html):
 
-> People who believe in the Bible’s literal truth (BIBLE=1) are much > more satisfied with their jobs than people who believe it’s just a > book of fables (BIBLE=3)…. >
-> Relatively speaking, this is a huge effect. But what’s going on? It’s > not just a disguised left-right effect; Biblical literalism crushes > self-identified ideology in a multiple regression. And it’s not a > disguised social support effect; Biblical literalism crushes church > attendance, too. Marxists will no doubt claim vindication for their > view that religion is the opium of the people. But you could just as > easily conclude that traditional religion successfully teaches > gratitude.
+> People who believe in the Bible’s literal truth (BIBLE=1) are much more satisfied with their jobs than people who believe it’s just a book of fables (BIBLE=3)…. >
+> Relatively speaking, this is a huge effect. But what’s going on? It’s > not just a disguised left-right effect; Biblical literalism crushes > self-identified ideology in a multiple regression. And it’s not a > disguised social support effect; Biblical literalism crushes church > attendance, too. Marxists will no doubt claim vindication for their view that religion is the opium of the people. But you could just as easily conclude that traditional religion successfully teaches gratitude.
 
 In my personal experience with the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) the BIBLE variable, which asks rather awkwardly one’s stance toward the nature of the Bible, is one of the most powerful predictors of a whole host of social metrics. I suspect that scriptural literalism has very strong personality correlates.
 

@@ -11,7 +11,7 @@ This is faith!
 
 [Rock of Ages, Ages of Rock](http://www.nytimes.com/2007/11/25/magazine/25wwln-geologists-t.html?_r=2&oref=slogin&pagewanted=all):
 
-> . To the young-earth creationists, this is both unscientific and > dubiously religious. “We don’t subscribe to this idea of the ‘God of > gaps,’ meaning if you can’t explain something, then blame God,” > Whitmore told me before describing a method that hardly seemed more > scientific. “Instead, we think: ‘**Here’s what the Bible says.** Now > let’s go to the rocks and see if we find the evidence for it.’ ”
+> . To the young-earth creationists, this is both unscientific and > dubiously religious. “We don’t subscribe to this idea of the ‘God of > gaps,’ meaning if you can’t explain something, then blame God,” Whitmore told me before describing a method that hardly seemed more scientific. “Instead, we think: ‘**Here’s what the Bible says.** Now let’s go to the rocks and see if we find the evidence for it.’ ”
 
   
 The whole story is a sad tale of a few credentialed geologists making their stand with their perception of a literal Bible against the consensus of their field. In [Evolution: What the Fossils Say](https://www.amazon.com/exec/obidos/ASIN/0231139624/geneexpressio-20/) Donald Prothero points out that “Flood Geology” is totally useless for prosaic but necessary activities such as the discovery of oil fields. Geologists trained in the Creationist tradition never maintain their adherence if they are employed in industry because only standard models work and yield any predictive utility. But another issue I have to wonder is how broad the educations credentialed Creationist scientists are, I doubt that St. Augustine, John Calvin or even Martin Luther¹ would stand by them in their quixotic rejection of the mainstream. Scholars fluent in the original languages of Christian scripture, whether it be Hebrew or Greek, **are well aware that a naive literalism falls apart due to the critical importance of context and the translator’s choice of word and phrase.** Literal interpretations are fine in theory, but when you are dependent on the translations of a human you introduce and element of inevitable distortion because you see the text through another’s subjective perceptions. And as it is there are obvious inferences one can make from passages in the Bible which are false (e.g., the implication that the world is flat in portions of the Hebrew Bible). Of course I know that many American fundamentalists hold that the King James Version of the Bible was translated with the aid of the Holy Ghost, eliminating human error. How convenient, no need to learn ancient languages! Plain English will suffice.  
@@ -20,7 +20,8 @@ In any case, I do think it is important to remember that Protestantism fundament
 
 ### Related Posts:
 
-- [Soul gene?](https://www.gnxp.com/WordPress/2008/05/14/soul-gene/) - [Evolution skeptical: not just
+- [Soul gene?](https://www.gnxp.com/WordPress/2008/05/14/soul-gene/)
+- [Evolution skeptical: not just
   fundamentalists](https://www.gnxp.com/WordPress/2011/10/30/evolution-skeptical-not-just-fundamentalists/) - [The young are
   godless](https://www.gnxp.com/WordPress/2009/03/08/the-young-are-godless/) - [Yes, Biblical fundamentalists are not
   bright](https://www.gnxp.com/WordPress/2010/01/19/yes-biblical-fundamentalists-are-not-bright/) - [Religion & public attitudes: Europe vs.

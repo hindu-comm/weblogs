@@ -19,7 +19,8 @@ The big question that they seemed to want to answer was the nature of the capsai
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Brother Bru-Bru's African Hot
   Sauce](https://www.gnxp.com/WordPress/2007/04/20/brother-bru-brus-african-hot-sauce/) - [Day 3 of hot sauce - Hottest Fuckin'
   Sauce](https://www.gnxp.com/WordPress/2007/03/29/day-3-of-hot-sauce-hottest-fuckin-sauce/) - [Seven hot sauces, many

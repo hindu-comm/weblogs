@@ -11,8 +11,8 @@ Singularity Institute Research Challenge
 
 [The Singularity Institute](http://www.singinst.org/challenge/) is having a [fundraising drive](http://www.singinst.org/challenge/) right now. Here are the details:
 
-> …the Singularity Institute has launched a new challenge campaign. The > sponsors, Edwin Evans, Rolf Nelson, Henrik Jonsson, Jason Joachim, and > Robert Lecnik, have generously put up \$100,000 of matching funds, so > that every donation you make until February 28th will be matched > dollar for dollar. If the campaign is successful, it will raise a full > \$200,000 to fund SIAI’s 2010 activities.  
-> Starting this campaign, we’ve put more details of our ongoing and > potential work online than ever before, so you can get an overview of > what projects we’re doing, and so you can easily fund the proposals > you support most….
+> …the Singularity Institute has launched a new challenge campaign. The > sponsors, Edwin Evans, Rolf Nelson, Henrik Jonsson, Jason Joachim, and > Robert Lecnik, have generously put up \$100,000 of matching funds, so that every donation you make until February 28th will be matched dollar for dollar. If the campaign is successful, it will raise a full \$200,000 to fund SIAI’s 2010 activities.  
+> Starting this campaign, we’ve put more details of our ongoing and potential work online than ever before, so you can get an overview of what projects we’re doing, and so you can easily fund the proposals you support most….
 
 It runs to the end of February. Check out their [list of grant proposals](http://www.singinst.org/challenge/#grantproposals).
 
@@ -32,8 +32,8 @@ It runs to the end of February. Check out their [list of grant proposals](http:/
 
 [The Singularity Institute](http://www.singinst.org/challenge/) is having a [fundraising drive](http://www.singinst.org/challenge/) right now. Here are the details:
 
-> …the Singularity Institute has launched a new challenge campaign. The > sponsors, Edwin Evans, Rolf Nelson, Henrik Jonsson, Jason Joachim, and > Robert Lecnik, have generously put up \$100,000 of matching funds, so > that every donation you make until February 28th will be matched > dollar for dollar. If the campaign is successful, it will raise a full > \$200,000 to fund SIAI’s 2010 activities. >
-> Starting this campaign, we’ve put more details of our ongoing and > potential work online than ever before, so you can get an overview of > what projects we’re doing, and so you can easily fund the proposals > you support most….
+> …the Singularity Institute has launched a new challenge campaign. The > sponsors, Edwin Evans, Rolf Nelson, Henrik Jonsson, Jason Joachim, and > Robert Lecnik, have generously put up \$100,000 of matching funds, so that every donation you make until February 28th will be matched dollar for dollar. If the campaign is successful, it will raise a full \$200,000 to fund SIAI’s 2010 activities. >
+> Starting this campaign, we’ve put more details of our ongoing and potential work online than ever before, so you can get an overview of what projects we’re doing, and so you can easily fund the proposals you support most….
 
 It runs to the end of February. Check out their [list of grant proposals](http://www.singinst.org/challenge#grantproposals).
 

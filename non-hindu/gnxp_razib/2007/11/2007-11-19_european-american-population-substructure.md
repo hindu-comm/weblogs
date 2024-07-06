@@ -11,7 +11,7 @@ European American population substructure
 
 PLOS early release, [Discerning the ancestry of European Americans in genetic association studies](http://genetics.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pgen.0030236.eor):
 
-> We have analyzed four different genome-wide data sets involving > European American samples, and demonstrated that the same two major > axes of variation are consistently present in each data set. The first > major axis roughly corresponds to a geographic axis of > northwest-southeast European ancestry, with Ashkenazi Jewish samples > tending to cluster with southeastern European ancestry; the second > major axis largely distinguishes Ashkenazi Jewish ancestry from > southeastern European ancestry.
+> We have analyzed four different genome-wide data sets involving > European American samples, and demonstrated that the same two major > axes of variation are consistently present in each data set. The first > major axis roughly corresponds to a geographic axis of > northwest-southeast European ancestry, with Ashkenazi Jewish samples tending to cluster with southeastern European ancestry; the second major axis largely distinguishes Ashkenazi Jewish ancestry from southeastern European ancestry.
 
 The whole thing is free. Nothing too surprising, just pushing the decimal places further to the right, which is always a good thing when considering something which has medical applications.
 

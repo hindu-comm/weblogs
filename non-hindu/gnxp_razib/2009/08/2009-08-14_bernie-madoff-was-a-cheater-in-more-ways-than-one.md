@@ -11,9 +11,9 @@ Bernie Madoff was a cheater in more ways than one
 
 [Woman Tells of Affair With Madoff in New Book](http://www.nytimes.com/2009/08/14/business/14madoff.html?pagewanted=print):
 
-> Hadassah, the Jewish volunteer organization, knew it had invested \$40 > million with Bernard L. Madoff by the late 1990s. It also knew it had > taken more than \$130 million from its Madoff accounts and still had > millions on the books when the vast Ponzi scheme was revealed in > December.  
-> What the charity says it did not know, however, was that Sheryl > Weinstein, its chief financial officer when it made those investments, > was having an affair with Mr. Madoff.  
-> Ms. Weinstein, who has been married for 37 years, discloses that > relationship in “Madoff’s Other Secret: Love, Money, Bernie, and Me,” > a memoir scheduled for publication by St. Martin’s Press at the end of > August, a spokesman for the publisher confirmed.
+> Hadassah, the Jewish volunteer organization, knew it had invested \$40 > million with Bernard L. Madoff by the late 1990s. It also knew it had taken more than \$130 million from its Madoff accounts and still had millions on the books when the vast Ponzi scheme was revealed in December.  
+> What the charity says it did not know, however, was that Sheryl Weinstein, its chief financial officer when it made those investments, was having an affair with Mr. Madoff.  
+> Ms. Weinstein, who has been married for 37 years, discloses that relationship in “Madoff’s Other Secret: Love, Money, Bernie, and Me,” a memoir scheduled for publication by St. Martin’s Press at the end of August, a spokesman for the publisher confirmed.
 
 H/T [Sigma](http://www.halfsigma.com/)
 

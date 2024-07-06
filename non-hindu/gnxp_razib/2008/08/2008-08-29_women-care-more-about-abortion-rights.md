@@ -18,7 +18,8 @@ In my post below I pointed out that there was no sex difference in terms of atti
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Men and women really don't differ in the generality
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Men and women really don't differ in the generality
   on…](https://www.gnxp.com/WordPress/2020/09/21/me-and-women-really-dont-differ-in-the-generality-on-abortion/) - [Americans don't like the word
   liberal](https://www.gnxp.com/WordPress/2009/03/11/americans-dont-like-the-word-liberal/) - [Men have been more pro-choice over the past 30
   years](https://www.gnxp.com/WordPress/2014/12/23/men-have-been-more-pro-choice-over-the-past-30-years/) - [Abortion & religion - an international

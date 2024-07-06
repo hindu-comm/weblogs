@@ -11,7 +11,7 @@ Sheril Kirshenbaum's Convergence
 
 Her [new blog](http://www.wired.com/wiredscience/convergence/) is [live over at *Wired*](http://www.wired.com/wiredscience/convergence/), [Convergence](http://www.wired.com/wiredscience/convergence/):
 
-> Convergence is a forum to explore all sorts of topics, but the primary > focus will be the interdisciplinary nature of understanding our world. > For example, if we aspire to protect biodiversity, we must address > social issues. Boosting fisheries requires economics. Tackling our > tremendous energy problem involves a great deal of policy. That’s what > this blog is all about: people, science, decision-making, and more. > It’s where seemingly unrelated fields overlap, boundaries blur, and > practical solutions are sought.
+> Convergence is a forum to explore all sorts of topics, but the primary > focus will be the interdisciplinary nature of understanding our world. > For example, if we aspire to protect biodiversity, we must address > social issues. Boosting fisheries requires economics. Tackling our > tremendous energy problem involves a great deal of policy. That’s what this blog is all about: people, science, decision-making, and more. It’s where seemingly unrelated fields overlap, boundaries blur, and practical solutions are sought.
 
 ### Related Posts:
 

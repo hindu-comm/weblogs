@@ -13,7 +13,8 @@ If you’ve watched 300 and are a fan of South Park, you have to watch the [most
 
 ### Related Posts:
 
-- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/) - [Finland narks on Earth in South
+- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/)
+- [Finland narks on Earth in South
   Park](https://www.gnxp.com/WordPress/2009/04/16/finland-narks-on-earth-in-south-park/) - [South Park Scientology
   episode](https://www.gnxp.com/WordPress/2006/03/21/south-park-scientology-episode/) - [South Park
   mega-site](https://www.gnxp.com/WordPress/2007/02/19/south-park-mega-site/) - [South Park does its

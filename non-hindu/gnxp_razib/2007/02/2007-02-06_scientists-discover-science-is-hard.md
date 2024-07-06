@@ -41,10 +41,10 @@ Yes, the successes I’ve noted have taken time (even decades) to go from a gene
 So the pessimism of these authors, while perhaps understandable, is unwarranted, nor does it make for a particularly good paper. I’m reminded of a another, perhaps more clever, paper with similar conclusions…ah yes, [here it is](https://www.theonion.com/content/node/38575):
 
 > *National Science Foundation: Science Hard* >
-> INDIANAPOLIS-The National Science Foundation’s annual symposium > concluded Monday, with the 1,500 scientists in attendance reaching the > consensus that science is hard. >
-> “For centuries, we have embraced the pursuit of scientific knowledge > as one of the noblest and worthiest of human endeavors, one leading to > the enrichment of mankind both today and for future generations,” said > keynote speaker and NSF chairman Louis Farian. “However, a > breakthrough discovery is challenging our long-held perceptions about > our disciplineâ€”the discovery that science is really, really hard.”  
+> INDIANAPOLIS-The National Science Foundation’s annual symposium concluded Monday, with the 1,500 scientists in attendance reaching the consensus that science is hard. >
+> “For centuries, we have embraced the pursuit of scientific knowledge > as one of the noblest and worthiest of human endeavors, one leading to > the enrichment of mankind both today and for future generations,” said keynote speaker and NSF chairman Louis Farian. “However, a breakthrough discovery is challenging our long-held perceptions about our disciplineâ€”the discovery that science is really, really hard.”  
 > …  
-> “I guess there’s cool stuff about science,” Watanabe continued, “like > space travel and bombs. But that stuff is so hard, it’s honestly not > even worth the effort.”
+> “I guess there’s cool stuff about science,” Watanabe continued, “like space travel and bombs. But that stuff is so hard, it’s honestly not even worth the effort.”
 
 \[1\] See [here](https://www.gnxp.com/blog/2006/07/linkage-versus-association-mini-primer.php) for a primer on the difference between linkage and association.
 

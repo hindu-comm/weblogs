@@ -11,11 +11,11 @@ Copy number variation in schizophrenia
 
 Nature has published a [couple](http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature07229.html) [papers](http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature07239.html) reporting (using partially overlapping samples) associations between rare recurrent microdeletions and schizophrenia. The [paper from Deocde Genetics](http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature07229.html) hits an evolutionary angle from the first sentences:
 
-> Reduced fecundity, associated with severe mental disorders, places > negative selection pressure on risk alleles and may explain, in part, > why common variants have not been found that confer risk of disorders > such as autism, schizophrenia and mental retardation. Thus, rare > variants may account for a larger fraction of the overall genetic risk > than previously assumed.
+> Reduced fecundity, associated with severe mental disorders, places > negative selection pressure on risk alleles and may explain, in part, > why common variants have not been found that confer risk of disorders such as autism, schizophrenia and mental retardation. Thus, rare variants may account for a larger fraction of the overall genetic risk than previously assumed.
 
 Rare variants often have much larger phenotypic effects than more common ones; this case is no different:
 
-> All three deletions, at 1q21.1, 15q11.2 and 15q13.3, significantly > associate with schizophrenia and psychosis in the combined sample with > high odds ratio (OR) (p = 2.9x10e-5, **OR = 14.83**; p = 6.0x10e-4, > **OR = 2.73**; and p = 5.3x10e-4, **OR = 11.54**, respectively)
+> All three deletions, at 1q21.1, 15q11.2 and 15q13.3, significantly associate with schizophrenia and psychosis in the combined sample with high odds ratio (OR) (p = 2.9x10e-5, **OR = 14.83**; p = 6.0x10e-4, **OR = 2.73**; and p = 5.3x10e-4, **OR = 11.54**, respectively)
 
 Note that despite these massive odds ratios, these deletions explain a tiny fraction of all cases of schizophrenia due the their extremely low frequency. Still, these genomic regions seem like important areas for following up via functional studies or searching for more common polymorphisms.
 

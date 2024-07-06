@@ -22,7 +22,8 @@ By the end of [How We Decide](https://www.amazon.com/exec/obidos/ASIN/0618620117
 
 ### Related Posts:
 
-- [Week 5, Gene Expression Book Club - Not Born
+- [Week 5, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/16/week-5-gene-expression-book-club-not-born-yesterday/) - [Is Jonah Lehrer "one of the most gifted nonfiction
   writers…](https://www.gnxp.com/WordPress/2014/11/12/is-jonah-lehrer-one-of-the-most-gifted-nonfiction-writers-of-his-generation/) - [On Jonah
   Lehrer](https://www.gnxp.com/WordPress/2012/08/07/on-jonah-lehrer/) - [Expertise &

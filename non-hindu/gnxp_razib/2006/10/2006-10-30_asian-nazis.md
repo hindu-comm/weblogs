@@ -11,11 +11,12 @@ Asian Nazis
 
 I just wasted 15 minutes exploring the [Uncyclopedia](http://uncyclopedia.org/) after seeing a referral from the entry on [Asian Nazis](http://uncyclopedia.org/wiki/Asian_Nazis). A lot of the other stuff is pretty funny too. Check out this snip from the entry on [Bangladesh](http://uncyclopedia.org/wiki/Bangladesh#Population):
 
-> Bangladesh holds the world record for the only country which has more > people than mosquitos. Mosquitos are the second largest ethnic > populace of Bangladesh. The human population is made up of 49% males, > 43% females, 6% hermaphrodites and 2% George W. Bush look alikes. The > current list of famous Bangladeshis include the pop band The Bangles, > the lovable canine actor Benji, \[redacted\]. Bangladesh hopes to > produce another famous person, of an equal calibre, by approximately > 2025 AD.
+> Bangladesh holds the world record for the only country which has more > people than mosquitos. Mosquitos are the second largest ethnic > populace of Bangladesh. The human population is made up of 49% males, > 43% females, 6% hermaphrodites and 2% George W. Bush look alikes. The > current list of famous Bangladeshis include the pop band The Bangles, the lovable canine actor Benji, \[redacted\]. Bangladesh hopes to produce another famous person, of an equal calibre, by approximately 2025 AD.
 
 ### Related Posts:
 
-- [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/) - [Bangladesh no longer the most corrupt
+- [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/)
+- [Bangladesh no longer the most corrupt
   country!](https://www.gnxp.com/WordPress/2006/11/07/bangladesh-no-longer-the-most-corrupt-country/) - [Pew Global Attitudes
   Survey](https://www.gnxp.com/WordPress/2007/10/05/pew-global-attitudes-survey/) - [Why Burma will beat Bangaldesh: human capital
   matters](https://www.gnxp.com/WordPress/2008/04/10/why-burma-will-beat-bangaldesh-human-capital-matters/) - [Nazis in

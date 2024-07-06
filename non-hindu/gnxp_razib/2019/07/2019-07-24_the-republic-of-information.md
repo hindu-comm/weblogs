@@ -21,8 +21,8 @@ Or did it? Down much of that discussion has devolved to Twitter virality. Young 
 
 A generation ago a story like this would have made me wonder about the possibilities, [The Hottest Phones for the Next Billion Users Aren’t Smartphones](https://www.wsj.com/articles/the-hottest-phones-for-the-next-billion-users-arent-smartphones-11563879608):
 
-> The hottest phones for the world’s next billion users aren’t made by > smartphone leaders Samsung Electronics Co. or Apple Inc. In fact, they > aren’t even smartphones. >
-> Millions of first-time internet consumers from the Ivory Coast to > India and Indonesia are connecting to the web on a new breed of device > that only costs about \$25. The gadgets look like the inexpensive > Nokia Corp. phones that were big about two decades ago. But these > hybrid phones, fueled by inexpensive mobile data, provide some basic > apps and internet access in addition to calling and texting.
+> The hottest phones for the world’s next billion users aren’t made by smartphone leaders Samsung Electronics Co. or Apple Inc. In fact, they aren’t even smartphones. >
+> Millions of first-time internet consumers from the Ivory Coast to > India and Indonesia are connecting to the web on a new breed of device > that only costs about \$25. The gadgets look like the inexpensive Nokia Corp. phones that were big about two decades ago. But these hybrid phones, fueled by inexpensive mobile data, provide some basic apps and internet access in addition to calling and texting.
 
 But now I think “more masturbation.” Over [half the world’s population](https://en.wikipedia.org/wiki/Global_Internet_usage) is now on the internet. But there isn’t more innovation or scholarly reflection commensurate with the growth in access and connectivity.
 

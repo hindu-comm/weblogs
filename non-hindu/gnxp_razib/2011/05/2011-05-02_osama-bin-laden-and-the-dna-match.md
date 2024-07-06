@@ -11,9 +11,9 @@ Osama bin Laden and the DNA match
 
 [How they determine Osama bin Laden really is Osama bin Laden](http://www.latimes.com/health/boostershots/la-heb-osama-bin-laden-dna-testing-20110502,0,5592328.story):
 
-> Once samples from all sources are in hand, analysts isolate a bit of > DNA from each sample, make lots of copies of it, and then process the > copies through a machine that analyzes genetic markers — DNA > fingerprints — that have been passed down through a subject’s family. > Typically, Bieber said, DNA tests examine around 15 of these markers. >
+> Once samples from all sources are in hand, analysts isolate a bit of > DNA from each sample, make lots of copies of it, and then process the copies through a machine that analyzes genetic markers — DNA fingerprints — that have been passed down through a subject’s family. Typically, Bieber said, DNA tests examine around 15 of these markers. >
 > … >
-> It typically takes several hours to complete each step of the analysis > process, Bieber said, though he noted that in high-profile cases like > this one, law enforcement agencies might already have genetic profiles > of the relatives available — which means they’d only have to complete > one additional test.
+> It typically takes several hours to complete each step of the analysis > process, Bieber said, though he noted that in high-profile cases like this one, law enforcement agencies might already have genetic profiles of the relatives available — which means they’d only have to complete one additional test.
 
 I checked and it seems that there are paternity testing outfits that offer one day turnaround. So I guess it’s not implausible that they could have pulled this off. I assume they still use [variable number tandem repeats](https://en.wikipedia.org/wiki/DNA_profiling) for DNA profiling?
 

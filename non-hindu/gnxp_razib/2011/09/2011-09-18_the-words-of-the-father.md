@@ -18,7 +18,7 @@ In one of the more nuanced instances cited by Renfrew and Forster they note that
 
 In the paper the authors note:
 
-> …It may be that during colonization episodes by emigrating > agriculturalists, men generally outnumbered women in the pioneer > colonizing groups and took wives from the local community. When the > parents have different linguistic backgrounds, it may often be the > language of the father that is dominant within the family group….
+> …It may be that during colonization episodes by emigrating > agriculturalists, men generally outnumbered women in the pioneer colonizing groups and took wives from the local community. When the parents have different linguistic backgrounds, it may often be the language of the father that is dominant within the family group….
 
 There is certainly some truth to this. **But what I think that this narrative misses are the coarser and larger scale social units which expansive male cultural communities operate through.** The spread of European males in Latin America was not uncoordinated. Often small groups of males decapitated indigenous male power elites, sometimes literally! Long distance travel, such as what the Austronesians engaged in, almost certainly must have entailed a minimal level of political and ideological commitment. They cite the example of the [Genghis Khan haplotype](http://blogs.discovermagazine.com/gnxp/2010/08/1-in-200-men-direct-descendants-of-genghis-khan/), but that wasn’t perpetuated through a process of gradual demic expansion.
 

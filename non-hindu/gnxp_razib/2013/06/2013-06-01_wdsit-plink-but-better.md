@@ -11,9 +11,9 @@ WDIST, Plink, but faster?
 
 Long time readers know that I spend a lot of time with [Plink](http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml), developed by [Shaun Purcell](http://pngu.mgh.harvard.edu/~purcell/). That being said, even with the modest data sets I play with I’ve had to make recourse to to writing shell scripts to perform various Plink manipulations serially and let them run overnight. Well, perhaps no more. Here’s the description for [WDIST genomic analysis toolset](https://www.cog-genomics.org/wdist):
 
-> WDIST is an experimental rewrite of the popular PLINK command-line > tool, with vastly improved performance and scaling across a wide range > of calculations. (And a thorough command-line help facility, in case > you’re as forgetful as we can be.) Some new functionality is present > as well, such as a memory-efficient and Mac/Windows-compatible > implementation of GCTA 1.1’s multithreaded relationship matrix > calculator. >
-> It complements the PLINK/SEQ library, which focuses on > developer-friendliness and support for more complex data formats. >
-> It is developed by Christopher Chang, with support from the > NIH-NIDDK’s Laboratory of Biological Modeling and others. (Credits.) > We estimate the first complete version will be ready in early 2014, > and with permission, we will then prepare a stable build suitable for > universal distribution as PLINK v1.50.
+> WDIST is an experimental rewrite of the popular PLINK command-line > tool, with vastly improved performance and scaling across a wide range > of calculations. (And a thorough command-line help facility, in case > you’re as forgetful as we can be.) Some new functionality is present as well, such as a memory-efficient and Mac/Windows-compatible implementation of GCTA 1.1’s multithreaded relationship matrix calculator. >
+> It complements the PLINK/SEQ library, which focuses on developer-friendliness and support for more complex data formats. >
+> It is developed by Christopher Chang, with support from the > NIH-NIDDK’s Laboratory of Biological Modeling and others. (Credits.) We estimate the first complete version will be ready in early 2014, and with permission, we will then prepare a stable build suitable for universal distribution as PLINK v1.50.
 
 **Update:** Also, [PLATO: PLatform for the Analysis, Translation, and Organization of large-scale data](https://chgr.mc.vanderbilt.edu/plato).
 

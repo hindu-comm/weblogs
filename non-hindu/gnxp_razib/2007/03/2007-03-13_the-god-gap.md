@@ -11,9 +11,9 @@ The "God Gap"
 
 Christian pollster George Barna has a [new report](http://www.barna.org/FlexPage.aspx?Page=BarnaUpdateNarrow&BarnaUpdateID=266) out which addresses the religious differences between Republicans and Democrats. Money shot:
 
-> A new survey from The Barna Group explores the so-called “God gap” > between Republicans and Democrats, examining 32 measures of religious > commitment, belief and activity. The study shows that while > Republicans continue to hold advantage in attracting born again > Christian voters, Democrats are not as far behind on measures of > Christian commitment as might be assumed.  
+> A new survey from The Barna Group explores the so-called “God gap” > between Republicans and Democrats, examining 32 measures of religious > commitment, belief and activity. The study shows that while Republicans continue to hold advantage in attracting born again Christian voters, Democrats are not as far behind on measures of Christian commitment as might be assumed.  
 > …  
-> **The eight most significant differences were almost exclusively in > the domain of *beliefs and commitment*, rather than the arena of > *behavior***.
+> **The eight most significant differences were almost exclusively in the domain of *beliefs and commitment*, rather than the arena of *behavior***.
 
 **Update:** Inductivist [has the goods](https://inductivist.blogspot.com/). Not surprisingly, the God Gap *does* exist for whites, and more so for Latinos. But not for blacks.
 

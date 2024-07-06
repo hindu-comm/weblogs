@@ -11,12 +11,13 @@ Human cloning "inevitable"
 
 According to the [editors of Nature](http://www.nature.com/nature/journal/v445/n7130/short/445795a.html).
 
-> \[W\]hat has been universally deemed as unacceptable is the pursuit of > human reproductive cloning – or the production of what some have > called a delayed identical twin. Here, the two issues that have > dominated the discussion have been dignity and safety. There is a > consensus that dignity is not undermined if a human offspring is > valued in its own right and not merely as a means to an end. But there > is no consensus that we will eventually know enough about cloning for > the risks of creating human clones to be so small as to be ethically > acceptable. >
-> The debate may seem to have been pre-empted by prompt prohibition. But > as the science of epigenetics and of development inevitably > progresses, those for whom cloning is the only means to bypass > sterility or genetic disease, say, will increasingly demand its use. > Unless there is some unknown fundamental biological obstacle, and > given wholly positive ethical motivations, **human reproductive > cloning is an eventual certainty.**
+> \[W\]hat has been universally deemed as unacceptable is the pursuit of > human reproductive cloning – or the production of what some have > called a delayed identical twin. Here, the two issues that have > dominated the discussion have been dignity and safety. There is a > consensus that dignity is not undermined if a human offspring is > valued in its own right and not merely as a means to an end. But there is no consensus that we will eventually know enough about cloning for the risks of creating human clones to be so small as to be ethically acceptable. >
+> The debate may seem to have been pre-empted by prompt prohibition. But > as the science of epigenetics and of development inevitably > progresses, those for whom cloning is the only means to bypass > sterility or genetic disease, say, will increasingly demand its use. Unless there is some unknown fundamental biological obstacle, and given wholly positive ethical motivations, **human reproductive cloning is an eventual certainty.**
 
 ### Related Posts:
 
-- [Friday Fluff - March 18th,
+- [Friday Fluff
+- March 18th,
   2011](https://www.gnxp.com/WordPress/2011/03/18/friday-fluff-march-18th-2011/) - [Cloning the
   mentat](https://www.gnxp.com/WordPress/2012/03/17/cloning-the-mentat/) - [Clones are
   Cool](https://www.gnxp.com/WordPress/2006/07/12/clones-are-cool/) - [Dammit, I want to know what makes Penguins

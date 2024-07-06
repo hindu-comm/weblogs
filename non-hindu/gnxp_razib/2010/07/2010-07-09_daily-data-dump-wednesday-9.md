@@ -21,7 +21,8 @@ Daily Data Dump – Friday
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Straight porn makes you
   gay](https://www.gnxp.com/WordPress/2009/09/24/straight-porn-makes-you-gay/) - [Daily Data Dump -
   Wednesday](https://www.gnxp.com/WordPress/2010/10/13/daily-data-dump-wednesday-22/) - [Gay sheep, forbidden

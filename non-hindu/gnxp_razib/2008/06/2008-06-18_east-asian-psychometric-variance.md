@@ -11,8 +11,8 @@ East Asian psychometric variance
 
 [Asian-White IQ variance from PISA results](https://infoproc.blogspot.com/2008/06/asian-white-iq-variance-from-pisa.html):
 
-> The NE Asians performed about .5 SD better on average (consistent with > IQ test results), and exhibited similar (slightly higher) variance. >
-> Interestingly, the Finns performed quite well on the exam, posting a > very high average, but their SD is slightly smaller. The usual > arguments about a (slightly) “narrow bell curve” might apply to the > Finns, but apparently not to the NE Asians.
+> The NE Asians performed about .5 SD better on average (consistent with IQ test results), and exhibited similar (slightly higher) variance. >
+> Interestingly, the Finns performed quite well on the exam, posting a very high average, but their SD is slightly smaller. The usual arguments about a (slightly) “narrow bell curve” might apply to the Finns, but apparently not to the NE Asians.
 
 Read the whole post to see if you follow the logic of the inferences; I’ve done some digging on this before to spot check the Europeans-higher-variance meme and didn’t find much to support it, and some data to disprove it (though you could explain away that data because of clumping of distinct populations, etc.). That’s the main reason I get irritable whenever this meme pops up in the comments, it’s one of those “facts” which exhibits circular citation dynamics and spreads like wildfire. Of course, it isn’t as if the meme is totally emerging out of a vacuum: if East Asians are so smart why aren’t they as scientifically creative??? It seems to me that the most plausible explanation has to be that individual intelligence isn’t sufficient for intellectual creativity, though it is likely a necessary precondition. Some of the other variables might be rooted in individual psychology (personality), but I suspect others manifest on a larger scale (e.g., the top-down paternalism and emphasis on conformity which is the norm in most East Asia societies).
 

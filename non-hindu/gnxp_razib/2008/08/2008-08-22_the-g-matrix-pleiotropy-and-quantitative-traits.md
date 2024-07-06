@@ -14,7 +14,9 @@ If you want to know more about the G matrix, [Comparative quantitative genetics:
 
 ### Related Posts:
 
-- [G Matrix](https://www.gnxp.com/WordPress/2007/05/07/g-matrix/) - [Complex traits & evolution - follow
+- [G Matrix](https://www.gnxp.com/WordPress/2007/05/07/g-matrix/)
+- [Complex traits & evolution
+- follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [I am not a genetic blend of my
   parents](https://www.gnxp.com/WordPress/2011/04/13/i-am-not-a-genetic-blend-of-my-parents/) - [Just pushing
   buttons](https://www.gnxp.com/WordPress/2010/08/24/just-pushing-buttons/) - [What domestication

@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2016/03/04/culture-is-a-library/).
 
 Culture is a library
 
-> 'last programming book you will ever need' > [pic.twitter.com/UoO2OTiZK1](https://t.co/UoO2OTiZK1) >
-> — Riva-Melissa Tez (@rivatez) [March 4, > 2016](https://twitter.com/rivatez/status/705904928078729216)
+> 'last programming book you will ever need' [pic.twitter.com/UoO2OTiZK1](https://t.co/UoO2OTiZK1) >
+> — Riva-Melissa Tez (@rivatez) [March 4, 2016](https://twitter.com/rivatez/status/705904928078729216)
 
 [![StartideRising(1stEd)](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/03/StartideRising1stEd-182x300.jpg?resize=182%2C300)![StartideRising(1stEd)](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/03/StartideRising1stEd-182x300.jpg?resize=182%2C300)](https://www.amazon.com/exec/obidos/ASIN/B0036S49KU/geneexpressio-20)The above *faux* O’Reilly edition really struck a nerve with me. Obviously software engineering on big projects continues apace. But for many quick & dirty tasks instead of laboriously (or frankly, not so laboriously) assembling together a script often a precise query into [Stack Overflow](http://stackoverflow.com/) suffices. It reminds me of the universe of David Brin’s [Uplift saga](https://www.amazon.com/exec/obidos/ASIN/B0036S49KU/geneexpressio-20).
 

@@ -11,7 +11,7 @@ Maternal grandparents go the extra mile?
 
 [Family Ties That Bind: Maternal Grandparents Are More Involved In The Lives Of Their Grandchildren](http://www.sciencedaily.com/releases/2007/12/071218122412.htm):
 
-> For grandparents living within 19.5 miles (30 km) of their > grandchildren, over 30% of the maternal grandmothers had contact daily > or a few times a week. Around 25% of the maternal grandfathers had > contact daily or a few times a week. In contrast, only around 15 % of > the paternal grandmothers and little more than 15% of the paternal > grandfathers would have contact daily or a few times a week.
+> For grandparents living within 19.5 miles (30 km) of their > grandchildren, over 30% of the maternal grandmothers had contact daily > or a few times a week. Around 25% of the maternal grandfathers had contact daily or a few times a week. In contrast, only around 15 % of the paternal grandmothers and little more than 15% of the paternal grandfathers would have contact daily or a few times a week.
 
 The sample was Dutch, and the authors hypothesize that the reason that maternal, as opposed to paternal, grandparents go the extra mile is that they are wholly certain of their genetic relationship. In other words, motherhood is certain and fatherhood is theoretical (though this [varies by society](http://www.nytimes.com/2006/12/10/magazine/10section3a.t-1.html?_r=1&oref=slogin)). This isn’t a new finding, and the results can be found in societies. It also manifests in the [Grandmother Effect](https://www.google.com/search?q=grandmother+effect&btnG=Search!&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) studies, maternal grandmothers quite often invest more than paternal grandmothers in their grandchildren.
 

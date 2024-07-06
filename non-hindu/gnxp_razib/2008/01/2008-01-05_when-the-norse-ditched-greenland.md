@@ -11,13 +11,13 @@ When the Norse ditched Greenland
 
 *The Christian Science Monitor* has a [nice piece](http://www.csmonitor.com/2007/1128/p13s01-stgn.html) highlighting the role of forensic anthropologists in exploring the question of the fate of the Norse of Greenland:
 
-> “You don’t find bodies in and around the ruins,” says William > Fitzhugh, director of the Arctic Studies Center at the Smithsonian > Institution in Washington. “People are being properly buried in church > graveyards right up into the 15th century, so it doesn’t look like > they were wiped out by marauding Inuit or other big disruptions.”  
-> Another indication of an orderly re­treat: no valuables such as > crucifixes, chalices, or chandeliers at church sites, items often > found in early medieval churches elsewhere in Scandinavia.  
-> “Nothing has ever been found of any real value, just everyday items,” > says forensic anthropologist Lynnerup. **“To me that indicates they > left over an extended period.”**
+> “You don’t find bodies in and around the ruins,” says William > Fitzhugh, director of the Arctic Studies Center at the Smithsonian Institution in Washington. “People are being properly buried in church graveyards right up into the 15th century, so it doesn’t look like they were wiped out by marauding Inuit or other big disruptions.”  
+> Another indication of an orderly re­treat: no valuables such as crucifixes, chalices, or chandeliers at church sites, items often found in early medieval churches elsewhere in Scandinavia.  
+> “Nothing has ever been found of any real value, just everyday items,” says forensic anthropologist Lynnerup. **“To me that indicates they left over an extended period.”**
 
 Genetics makes a nice little cameo appearance:
 
-> Dr. Lynnerup’s genetic studies of modern Inuit from across Greenland > has put another theory to rest: that the Inuit absorbed the Norse. > **Their mitochondrial DNA (inherited from mothers only) show no > European admixture.** Archaeological evidence at medieval Inuit sites > backs this up, suggesting contact between the two peoples was limited > to minor barter.
+> Dr. Lynnerup’s genetic studies of modern Inuit from across Greenland > has put another theory to rest: that the Inuit absorbed the Norse. > **Their mitochondrial DNA (inherited from mothers only) show no European admixture.** Archaeological evidence at medieval Inuit sites backs this up, suggesting contact between the two peoples was limited to minor barter.
 
 The reporter had to specify mtDNA because there has been a fair amount of Scandinavian contribution to the genes of modern Greenlanders because of Danish males after the recontact and colonization.  
 Via [John Hawks](http://johnhawks.net/weblog/).

@@ -13,8 +13,8 @@ Jon Snow and Daenerys Targaryen are genetically similar to full-siblings or moth
 
 You get different numbers depending on how deeply you look at the pedigree of the two. But their relatedness is probably above 40% and below 50%. Others have confirmed:
 
-> Yes, calculating the inbreeding coefficient from the pedigree, I > calculate the coefficient of relationship between Jon and Daenerys as > 43.75%. >
-> — Jonathan Pettitt (@genotripe) [April 16, > 2019](https://twitter.com/genotripe/status/1117990551385714689?ref_src=twsrc%5Etfw)
+> Yes, calculating the inbreeding coefficient from the pedigree, I calculate the coefficient of relationship between Jon and Daenerys as 43.75%. >
+> — Jonathan Pettitt (@genotripe) [April 16, 2019](https://twitter.com/genotripe/status/1117990551385714689?ref_src=twsrc%5Etfw)
 
 The verbal reason without math and genealogies is simple: Daenerys Targaryen comes from an inbred lineage, and more importantly, **two generations of brother-sister marriages.** This means that Daenerys Targaryen and Rhaegar Targaryen were genetically much more similar than typical full-siblings. Because of this, Jon Snow and Daenerys Targaryen are much more genetically similar than typical aunts and nephews, because Jon Snow’s father was to a first approximation genetically a male and older version of Daenerys Targaryen.
 

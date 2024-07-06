@@ -13,8 +13,8 @@ Google+ bombs
 
 [Google+ Lags Far Behind Facebook, Twitter and MySpace in Latest Study](http://www.reuters.com/article/2012/02/28/idUS85205411620120228):
 
-> Google+ became the fastest growing social network within months of its > debut last June, but a recent study casts doubt on whether most of its > users are spending much time on the site. >
-> According to ComScore, **users spent an average of just 3.3 minutes on > Google+ in the month of January**, a decline from its recent figures > and a tiny sliver of Facebook’s total.
+> Google+ became the fastest growing social network within months of its debut last June, but a recent study casts doubt on whether most of its users are spending much time on the site. >
+> According to ComScore, **users spent an average of just 3.3 minutes on Google+ in the month of January**, a decline from its recent figures and a tiny sliver of Facebook’s total.
 
 I accept the argument of [friends](http://blogs.scientificamerican.com/thoughtful-animal/) that G+ and Facebook are fundamentally different, and that Google’s aim here is not to replicate Facebook. But I also think that this is well short of what Google was intending for G+ at this stage; otherwise they would surely have quashed the media bubble and hyperbole which crested last summer. G+ is obviously much better than Buzz. But that’s a low bar.
 

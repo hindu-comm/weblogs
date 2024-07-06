@@ -112,7 +112,8 @@ Elliott Sober and David Sloan Wilson: *Unto Others: the evolution and psychology
 
 ### Related Posts:
 
-- [Open Thread - October 30th,
+- [Open Thread
+- October 30th,
   2010](https://www.gnxp.com/WordPress/2010/10/30/open-thread-october-30th-2010/) - [The Price
   Equation](https://www.gnxp.com/WordPress/2009/11/10/the-price-equation/) - [The Price of
   Altruism](https://www.gnxp.com/WordPress/2010/07/21/the-price-of-altruism/) - [Levels of selection & the full Price

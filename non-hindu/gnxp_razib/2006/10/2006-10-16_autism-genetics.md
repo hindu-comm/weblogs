@@ -11,9 +11,9 @@ Autism & genetics
 
 [Mutated gene raises autism risk, US study finds](http://www.sciam.com/article.cfm?chanID=sa003&articleID=4E8EAF897C638D519710B1691121F8CB):
 
-> People with two copies of the mutated gene \[MET\] have 2 to 2.5 times > the normal risk of autism and people with one mutated copy have 1.7 > times the risk, he said.  
+> People with two copies of the mutated gene \[MET\] have 2 to 2.5 times the normal risk of autism and people with one mutated copy have 1.7 times the risk, he said.  
 > …  
-> Levitt said the mutation does not change the function of the gene, > **but changes gene expression — how active the gene is.**
+> Levitt said the mutation does not change the function of the gene, **but changes gene expression — how active the gene is.**
 
 The study is going to be published in [PNAS](http://www.pnas.org/).
 

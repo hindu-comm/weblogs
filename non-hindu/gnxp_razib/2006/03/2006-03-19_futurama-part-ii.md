@@ -11,7 +11,7 @@ Futurama, Part II
 
 For all of you Futurama fans, Billy West who is the voice talent behind the characters of Philip J. Fry, Dr. John Zoidberg, Professor Hubert J. Farnsworth, Captain Zapp Brannigan and Richard Milhous Nixon [writes](http://www.billywest.com/forum/forum_posts.asp?TID=2011&PN=1) that Futurama is being resurrected:
 
-> And the other good news is that they’re doing 26 new episodes of > ”Futurama” for TV and we’re hammering out the deal now. The original > plan was to have the DVD’s first but that’s no longer the case. I’m > totaly jammed dude.
+> And the other good news is that they’re doing 26 new episodes of ”Futurama” for TV and we’re hammering out the deal now. The original plan was to have the DVD’s first but that’s no longer the case. I’m totaly jammed dude.
 
 Also, news this week that *Welcome Back Kotter* is being [re-made](http://abcnews.go.com/Entertainment/story?id=1728414&page=1) with Ice-Cube taking on the Kotter role and *Dallas* is heading for the big-screen with John Travolta taking on the J.R. Ewing role.
 

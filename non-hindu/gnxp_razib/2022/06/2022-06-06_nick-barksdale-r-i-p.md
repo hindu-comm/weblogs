@@ -21,7 +21,8 @@ What his passing should remind us is that you never know when you go. Make an im
 
 ### Related Posts:
 
-- [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/) - [Nick Wade on
+- [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/)
+- [Nick Wade on
   NPR](https://www.gnxp.com/WordPress/2006/04/19/nick-wade-on-npr/) - [The browning of
   ScienceBlogs](https://www.gnxp.com/WordPress/2006/08/15/the-browning-of-scienceblogs/) - [Nick Wade on
   Neandertals](https://www.gnxp.com/WordPress/2006/11/17/nick-wade-on-neandertals/) - [Religious smells & bells the

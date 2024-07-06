@@ -15,7 +15,8 @@ Posted by TangoMan at [07:05 PM](https://www.gnxp.com/MT2/archives/003571.html) 
 
 ### Related Posts:
 
-- [Good News](https://www.gnxp.com/WordPress/2005/11/07/good-news/) - [Quantitating the
+- [Good News](https://www.gnxp.com/WordPress/2005/11/07/good-news/)
+- [Quantitating the
   Cult](https://www.gnxp.com/WordPress/2005/10/30/quantitating-the-cult/) - [Race Preferences for Medical
   Practice](https://www.gnxp.com/WordPress/2005/08/29/race-preferences-for-medical-practice/) - [Must keep to the
   model](https://www.gnxp.com/WordPress/2006/08/18/must-keep-to-the-model/) - [Potential for Vitamin D

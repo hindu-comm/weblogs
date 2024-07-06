@@ -54,7 +54,8 @@ Looking back, I might have chosen economics instead of biology, as it might have
 
 ### Related Posts:
 
-- [Bruce Lahn - single
+- [Bruce Lahn
+- single
   guy](https://www.gnxp.com/WordPress/2006/06/15/bruce-lahn-single-guy/) - [Making a splash before
   40](https://www.gnxp.com/WordPress/2008/12/11/making-a-splash-before-40/) - [Congratulations to Jonathan
   Pritchard](https://www.gnxp.com/WordPress/2008/05/29/congratulations-to-jonathan-pritchard/) - [10 Questions for Bruce
@@ -69,8 +70,8 @@ Looking back, I might have chosen economics instead of biology, as it might have
 Check, [10 questions](https://www.gnxp.com/blog/2006/10/10-questions-for-bruce-lahn_10.php) for Bruce “Gene Thug” Lahn. Check this player’s ambitions out:
 
 > **  
-> 10. Looking back, would you make any changes in your educational path? > If so, what?**  
-> Looking back, I might have chosen economics instead of biology, *as it > might have allowed my work to have a broader impact*. But it’s a > tossup, and my feeling may well have stemmed from my constant > impatience with lack of progress in my own work and therefore the > perception that grass is greener on the other guy’s pasture
+> 10. Looking back, would you make any changes in your educational path? If so, what?**  
+> Looking back, I might have chosen economics instead of biology, *as it > might have allowed my work to have a broader impact*. But it’s a tossup, and my feeling may well have stemmed from my constant impatience with lack of progress in my own work and therefore the perception that grass is greener on the other guy’s pasture
 
 Get it? The key is to crank up the body count!
 

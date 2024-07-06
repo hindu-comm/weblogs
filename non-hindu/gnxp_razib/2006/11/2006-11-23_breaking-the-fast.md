@@ -11,7 +11,7 @@ Breaking the fast
 
 Not a genetic story, but amusing (well, I thought so), this report from today’s London **Times**:
 
-> A Muslim who killed a swan \[a protected species\] during Ramadan has > been given a two-month prison sentence. Shamsu Miah, 52, killed the > mute swan at a boating pond in Llandudno, North Wales, on September > 25. When challenged by police he said: “I am a Muslim. I am fasting. I > needed to eat.” Llandudno magistrates were told that Miah, from the > town, had white feathers stuck in his beard and blood on his shirt.
+> A Muslim who killed a swan \[a protected species\] during Ramadan has > been given a two-month prison sentence. Shamsu Miah, 52, killed the > mute swan at a boating pond in Llandudno, North Wales, on September 25. When challenged by police he said: “I am a Muslim. I am fasting. I needed to eat.” Llandudno magistrates were told that Miah, from the town, had white feathers stuck in his beard and blood on his shirt.
 
 Which raises the questions: did he actually eat it raw? And was this halal?
 

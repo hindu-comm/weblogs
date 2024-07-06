@@ -11,7 +11,7 @@ The transparent biological society
 
 [FuturePundit](http://www.futurepundit.com/archives/006013.html) has some musings on the possiblities of \$100 genome sequencing in 5 years:
 
-> Cheap portable DNA sequencers will also lead to surreptitious DNA > sequencing of people without their awareness. I expect to see this on > the dating and bar scene. I also expect to see it in job interview and > business negotiation situations. Check to see if your potential > employee or business partner has genes that give them cognitive traits > to avoid or embrace.
+> Cheap portable DNA sequencers will also lead to surreptitious DNA > sequencing of people without their awareness. I expect to see this on > the dating and bar scene. I also expect to see it in job interview and business negotiation situations. Check to see if your potential employee or business partner has genes that give them cognitive traits to avoid or embrace.
 
 To be frank, this seems to b aiming too low. After all, why look to genetic profiles which suggest potentialities or probabilities? If you can get a biological sample could you not simply directly assay for a specific biochemical state? What I’m saying is that if you are looking for a particular cognitive profile, a better bet than genes might be to simply calculate the chemical state at a given moment.
 

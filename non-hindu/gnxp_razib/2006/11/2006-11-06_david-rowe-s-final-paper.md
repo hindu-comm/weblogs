@@ -18,7 +18,8 @@ The article makes several points, which might have been better presented as a se
 
 ### Related Posts:
 
-- [The game](https://www.gnxp.com/WordPress/2006/09/07/the-game/) - [Direct measurement of the genetic contribution to the BW
+- [The game](https://www.gnxp.com/WordPress/2006/09/07/the-game/)
+- [Direct measurement of the genetic contribution to the BW
   IQ…](https://www.gnxp.com/WordPress/2007/01/29/direct-measurement-of-the-genetic-contribution-to-the-bw-iq-gap/) - [Times
   article](https://www.gnxp.com/WordPress/2007/08/16/times-article/) - [10 Questions for A. W. F.
   Edwards](https://www.gnxp.com/WordPress/2006/08/28/10-questions-for-a-w-f-edwards/) - [Why you shouldn't publish in

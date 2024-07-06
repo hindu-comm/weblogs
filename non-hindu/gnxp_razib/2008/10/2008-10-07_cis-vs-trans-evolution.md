@@ -11,7 +11,7 @@ cis vs. trans & evolution
 
 Over at [evolgen](http://scienceblogs.com/evolgen/2008/10/slightly_deleterious_in_trans.php), more on the [cis](http://scienceblogs.com/evolgen/2008/10/slightly_deleterious_in_trans.php) [vs.](http://scienceblogs.com/evolgen/2008/10/slightly_deleterious_in_trans.php) [trans](http://scienceblogs.com/evolgen/2008/10/slightly_deleterious_in_trans.php) [debate](http://scienceblogs.com/evolgen/2008/10/slightly_deleterious_in_trans.php):
 
-> …First, there is an excess of trans variation within populations. And, > second, cis changes tend to be additive, while trans changes are > dominant/recessive. That means recessive trans mutations can segregate > in populations without phenotypic effects, while cis changes are > exposed to selection from the get go (either purged by purifying > selection or fixed by positive selection).
+> …First, there is an excess of trans variation within populations. And, > second, cis changes tend to be additive, while trans changes are > dominant/recessive. That means recessive trans mutations can segregate in populations without phenotypic effects, while cis changes are exposed to selection from the get go (either purged by purifying selection or fixed by positive selection).
 
 ### Related Posts:
 

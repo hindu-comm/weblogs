@@ -63,7 +63,10 @@ Advertisement
 
 **Tagged with:**
 
-- [anatomy](https://musingsofhh.wordpress.com/tag/anatomy/) - [ashvamedha](https://musingsofhh.wordpress.com/tag/ashvamedha/) - [hayamedha](https://musingsofhh.wordpress.com/tag/hayamedha/) - [horse
+- [anatomy](https://musingsofhh.wordpress.com/tag/anatomy/)
+- [ashvamedha](https://musingsofhh.wordpress.com/tag/ashvamedha/)
+- [hayamedha](https://musingsofhh.wordpress.com/tag/hayamedha/)
+- [horse
   sacrifice](https://musingsofhh.wordpress.com/tag/horse-sacrifice/) - [horses](https://musingsofhh.wordpress.com/tag/horses/) - [taittriya
   samhita](https://musingsofhh.wordpress.com/tag/taittriya-samhita/) - [vedas](https://musingsofhh.wordpress.com/tag/vedas/)
 

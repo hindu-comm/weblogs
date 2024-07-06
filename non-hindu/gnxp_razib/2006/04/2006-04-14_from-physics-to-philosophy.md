@@ -15,7 +15,8 @@ But that’s not what this post is about. I barely skimmed the other test score 
 
 ### Related Posts:
 
-- [Physicists vs. biologists - cognitive
+- [Physicists vs. biologists
+- cognitive
   smackdown](https://www.gnxp.com/WordPress/2006/04/14/physicists-vs-biologists-cognitive-smackdown/) - [The most special of
   specialities](https://www.gnxp.com/WordPress/2006/04/15/the-most-special-of-specialities/) - [From here to there, and
   back](https://www.gnxp.com/WordPress/2016/08/14/from-here-to-there-and-back/) - [Biologists & some minorities can't do

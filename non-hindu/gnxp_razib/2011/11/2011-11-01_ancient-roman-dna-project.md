@@ -11,7 +11,7 @@ Ancient Roman DNA project
 
 [Dienekes](https://dienekes.blogspot.com/2011/11/roman-dna-project.html) already mentioned it, but readers might be curious about the [Ancient Roman DNA Project](http://www.rockethub.com/projects/3709-ancient-roman-dna-project). Here are the details:
 
-> **I’m asking for \$6,000 for this project, which will cover the cost > of testing DNA from the 20 immigrants to Rome I found in my previous > project.** Of course, I would love to test additional individuals but > recognize that testing the 100+ skeletons I have sampled is out of the > realm of possibility. Still, any additional funding over the \$6,000 > goal will be put to good use: analyzing DNA from more Romans! Be a > part of the \#SciFund Challenge and help me bring science to ancient > Rome!
+> **I’m asking for \$6,000 for this project, which will cover the cost > of testing DNA from the 20 immigrants to Rome I found in my previous > project.** Of course, I would love to test additional individuals but > recognize that testing the 100+ skeletons I have sampled is out of the > realm of possibility. Still, any additional funding over the \$6,000 goal will be put to good use: analyzing DNA from more Romans! Be a part of the \#SciFund Challenge and help me bring science to ancient Rome!
 
 ### Related Posts:
 

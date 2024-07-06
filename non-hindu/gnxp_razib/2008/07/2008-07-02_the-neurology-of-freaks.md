@@ -11,9 +11,9 @@ The neurology of freaks
 
 [Trait-Like Brain Activity during Adolescence Predicts Anxious Temperament in Primates](https://dx.doi.org/10.1371/journal.pone.0002570). [ScienceDaily summary](http://www.sciencedaily.com/releases/2008/07/080701221437.htm):
 
-> We all know people who are tense and nervous and can’t relax. They may > have been wired differently since childhood. >
+> We all know people who are tense and nervous and can’t relax. They may have been wired differently since childhood. >
 > …. >
-> “We’re looking for better ways to diagnose and treat mental illness,” > explains Kalin, about his ongoing work at HealthEmotions. “We’re > trying to understand how the brain influences mood, reactions to > stress and physical health.”
+> “We’re looking for better ways to diagnose and treat mental illness,” explains Kalin, about his ongoing work at HealthEmotions. “We’re trying to understand how the brain influences mood, reactions to stress and physical health.”
 
 ### Related Posts:
 

@@ -17,7 +17,7 @@ They do also address the selectivity question — that is, why the Barron’s se
 
 Also on the Barron’s measure, Dale and Krueger argue:
 
-> “While we did report a 23% return associated with attending the most > selective colleges (according to the 1982 Barron’s ranking) in our > earliest working paper, these results were from our basic model–which > does NOT adjust for student unobserved characteristics.”
+> “While we did report a 23% return associated with attending the most selective colleges (according to the 1982 Barron’s ranking) in our earliest working paper, these results were from our basic model–which does NOT adjust for student unobserved characteristics.”
 
 Here is the relevant section from Table 7 of their working paper:
 
@@ -27,7 +27,7 @@ If you haven’t seen a regression table, this will be confusing. The dependent 
 
 The first three columns select on men. The first one tests to see how these variables impact future wages, without taking into consideration other Colleges you applied to, or where you got in. This is the “basic model,” and the .0234 here next to “Most Competitive” corresponds to the 23% return they mention above (relative to the lowest category of selectivity). But skip over to column 3. This “self-revelation” model is designed to get at student unobserved characteristics. As the authors write:
 
-> “The effect of the Barron’s rating is more robust to our attempts to > adjust for unobserved school selectivity than the average-school SAT > score. Based on the straightforward regression results in column 1, > men who attend the most competitive schools earn 23% more than men who > attend very competitive colleges, other variables in the equation > being equal. In the self-revelation model, the gap is 13 percent… > \[An\] F-test of the null hypothesis that the Barron’s ratings jointly > have no effect on earnings is rejected at the .05 level in the matched > applicant model for men.”
+> “The effect of the Barron’s rating is more robust to our attempts to > adjust for unobserved school selectivity than the average-school SAT > score. Based on the straightforward regression results in column 1, > men who attend the most competitive schools earn 23% more than men who > attend very competitive colleges, other variables in the equation > being equal. In the self-revelation model, the gap is 13 percent… \[An\] F-test of the null hypothesis that the Barron’s ratings jointly have no effect on earnings is rejected at the .05 level in the matched applicant model for men.”
 
 Now, this was in response to Hanson’s point. Hanson picked up on the 23% number, and Dale and Krueger are right to note that’s a little high (and Hanson is right to concede). But note that the very next sentence reports results from a specification which does adjust for student unobserved characteristics; and it is also quite high.
 

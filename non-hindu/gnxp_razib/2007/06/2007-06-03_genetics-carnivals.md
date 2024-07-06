@@ -13,7 +13,8 @@ Genetics carnivals
 
 ### Related Posts:
 
-- [Mendel's Garden - Genetics
+- [Mendel's Garden
+- Genetics
   "Carnival"](https://www.gnxp.com/WordPress/2006/06/12/mendel-s-garden-genetics-carnival/) - [Mendel's Garden in the
   house](https://www.gnxp.com/WordPress/2006/07/03/mendels-garden-in-the-house/) - [Mendel's Garden \#2 is
   out](https://www.gnxp.com/WordPress/2006/07/03/mendel-s-garden-2-is-out/) - [Mendel's Garden

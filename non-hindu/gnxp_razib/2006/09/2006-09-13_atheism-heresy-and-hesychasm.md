@@ -13,7 +13,8 @@ I have a long post, [Atheism, Heresy and Hesychasm](http://scienceblogs.com/gnxp
 
 ### Related Posts:
 
-- [Friday Fluff - October 29th,
+- [Friday Fluff
+- October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [The adaptiveness of
   religion](https://www.gnxp.com/WordPress/2007/04/23/the-adaptiveness-of-religion/) - [The New
   Atheism](https://www.gnxp.com/WordPress/2006/10/23/the-new-atheism/) - [New Atheism is dead, long live New

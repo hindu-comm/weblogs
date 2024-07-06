@@ -11,7 +11,7 @@ Who are you….
 
 [Edmund Yong](http://blogs.discovermagazine.com/notrocketscience/2010/07/05/the-return-of-the-“who-are-you”-thread/) has rebooted the “Who are you?” meme. I’ll quote him:
 
-> So let’s do it again. In the comments below, tell me who you are, what > your background is and what you do. What’s your interest in science > and your involvement with it? How did you come to this blog, how long > have you been reading, what do you think about it, and how could it be > improved?
+> So let’s do it again. In the comments below, tell me who you are, what > your background is and what you do. What’s your interest in science and your involvement with it? How did you come to this blog, how long have you been reading, what do you think about it, and how could it be improved?
 
 I will try and be a little less…abrasive…on this thread in relation to comments, so feel free to let your hair down and “de-lurk” 🙂
 

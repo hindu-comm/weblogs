@@ -20,7 +20,7 @@ By the way, as personal stories like this become more common hopefully we’ll s
 
 Update: OK, I think I need to repost this link, [The incidence of superfecundation and of double paternity in the general population](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7871943&dopt=Abstract):
 
-> Sometimes superfecundation occurs by two different men. The frequency > with which this occurs must depend on rates of infidelity > (promiscuity). It is suggested that among DZ twins born to married > white women in the U.S., **about one pair in 400 is bipaternal**. The > incidence may be substantially higher in small selected groups of > dizygotic twin maternities, eg. those of women engaged in > prostitution.
+> Sometimes superfecundation occurs by two different men. The frequency > with which this occurs must depend on rates of infidelity > (promiscuity). It is suggested that among DZ twins born to married > white women in the U.S., **about one pair in 400 is bipaternal**. The incidence may be substantially higher in small selected groups of dizygotic twin maternities, eg. those of women engaged in prostitution.
 
 In other words, double paternity is a possible explanation, but if the number of loci in question is seven or less than this is surely will the expected range due to variance emerging from heterozygosity in the parents1 (and we are only looking at skin color here from what I can tell, the two infants are still of the “baby race,” other features are not at play). I don’t think that the expectation of double paternity, evening adjusting for SES, approaches the probability that “white” and “black” color genes will resegregate in this fashion.
 

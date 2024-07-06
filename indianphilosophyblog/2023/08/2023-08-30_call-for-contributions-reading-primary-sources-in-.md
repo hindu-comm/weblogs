@@ -15,7 +15,8 @@ The purpose of this collection is to confront one of the challenges in expanding
 
 **Submission details:**
 
-- **Length**: Submitted entries should be between 2,000 and 3,000 words. - **Topic**: Each guide should focus on a single primary text,
+- **Length**: Submitted entries should be between 2,000 and 3,000 words.
+- **Topic**: Each guide should focus on a single primary text,
   introducing the reader to the text’s author (where relevant),
   situating it in its historical context, and then discussing a
   particular section, theme, or argument in detail. - **Style**: These entries are aimed at the undergraduate classroom, and

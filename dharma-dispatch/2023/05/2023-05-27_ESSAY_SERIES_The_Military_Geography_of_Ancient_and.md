@@ -87,19 +87,19 @@ Share
 
 ACHARYA JADUNATH SARKAR has commandeered a lasting maxim as far as the military geography of Bharatavarsha is concerned:
 
-> Geography has laid down some inexorable laws for the time and manner > of conducting military operations in our country.
+> Geography has laid down some inexorable laws for the time and manner of conducting military operations in our country.
 
 Because the maxim is so straightforward and commonsensical, its centrality in deciding the fortunes of Bharatavarsha at critical junctures in our history has been overlooked for the most part. Geography is also war because terrain dictates both strategy and tactics. Intertwined with terrain is climate. Together, they author and alter history, and nowhere is this more pronounced than in India.
 
 And so, we humbly echo the profound question the Acharya asked himself more than sixty years ago: What is the practical use of the study of the history of military geography to a soldier of today? Is it an unprofitable act of pedantry? And he answers:
 
-> No; for if it were so, an intensely practical nation like the English > would not have found chairs of military history nor made the military > historian a necessary member of a Staff College. The Navy is the > senior service in Great Britain, and the importance of military > history in its proper functioning is clearly set forth in discussing > the life of Sir Herbert Richmond, an experienced admiral and erudite > scholar, who may well be called “the Mahan of England.” … History > \[is\] not an end in itself, but as a means of learning something > about strategy… Seeing clearly the need to evolve a doctrine of war if > the Navy’s effort was not to be wasted when the test came, Richmond > was an enthusiastic advocate of the creation of a Naval Staff. (This > was done by Mr. Churchill in 1912 and Richmond was appointed to it as > Assistant Director of Operations next year. The World War came on 4th > August, 1914).
+> No; for if it were so, an intensely practical nation like the English > would not have found chairs of military history nor made the military > historian a necessary member of a Staff College. The Navy is the > senior service in Great Britain, and the importance of military > history in its proper functioning is clearly set forth in discussing > the life of Sir Herbert Richmond, an experienced admiral and erudite > scholar, who may well be called “the Mahan of England.” … History > \[is\] not an end in itself, but as a means of learning something > about strategy… Seeing clearly the need to evolve a doctrine of war if > the Navy’s effort was not to be wasted when the test came, Richmond > was an enthusiastic advocate of the creation of a Naval Staff. (This was done by Mr. Churchill in 1912 and Richmond was appointed to it as Assistant Director of Operations next year. The World War came on 4th August, 1914).
 
 Jadunath Sarkar had correctly hit the spot. Sometime in mid-19th century, Lord Canning proudly boasted that India would firmly remain under England’s stranglehold as long as “our Naval superiority in both Europe and the Indian Seas remained intact.” In fact, there is a crying to study the manner in which the centuries-old Indian naval prowess was criminally squandered away by the Mughals to the great delight of European powers. The indomitable naval Kshatra built up and fortified and sustained by the Gupta and the Chola had sunk into the decadence unleashed by Muslim rule. Thus, even as early as Jahangir’s rule, substantial maritime areas in and around the Bengal region were under the control of the Dutch, Portuguese and later, the British.
 
 But to summarise a long story, the patriot and nationalist in Sarkar offers a precise but humble explanation for the aforementioned study:
 
-> This is a civilian’s sufficient apologia for venturing into this > field. There is a practical necessity why the wars of India in the > past ages should be studied by the soldiers and sailors who are to > defend the free India today.
+> This is a civilian’s sufficient apologia for venturing into this field. There is a practical necessity why the wars of India in the past ages should be studied by the soldiers and sailors who are to defend the free India today.
 
 It must be remembered that the Acharya wrote this about fifteen years after India attained political independence and was dangerously perched on the branch of a skirmish with China.
 
@@ -129,7 +129,7 @@ The third and the most important feature in the geography of *Uttarapatha* is wh
 
 FROM A CONTEMPORARY PERSPECTIVE, this is the vast arc and a magnificent geographical umbrella that shelters and nurtures a 3300-kilometre expanse from Calcutta in the East to Karachi in the West. The journey which begins at Calcutta first slopes upwards, reaches Patna, moves west, touches Varanasi and then Prayaga, and travels further northwest passing through Agra and then hits Delhi and from there, climbs upwards to the northwest and culminates at Lahore. From Lahore, it slopes downwards to reach Multan before ending its journey in Karachi. Acharya Jadunath Sarkar describes this entire terrain in his characteristic fashion:
 
-> From Calcutta to Lahore the distance is 1,300 miles and yet the > difference in height above sea-level between these two cities is only > a thousand feet, or in other words the ground rises only nine inches > in one mile of road… This would not be surprising in the Bengal Delta, > but a thousand miles upcountry from Calcutta, the ground formation is > the same in the Delhi district. The river Jamuna enters the district > at a height of some 710 feet (at the north end) and leaves it at about > 630 feet above sea level, with a course within the Delhi limits of > rather over 90 miles and the average fall of between ten and eleven > inches to the mile.
+> From Calcutta to Lahore the distance is 1,300 miles and yet the > difference in height above sea-level between these two cities is only > a thousand feet, or in other words the ground rises only nine inches > in one mile of road… This would not be surprising in the Bengal Delta, > but a thousand miles upcountry from Calcutta, the ground formation is > the same in the Delhi district. The river Jamuna enters the district > at a height of some 710 feet (at the north end) and leaves it at about 630 feet above sea level, with a course within the Delhi limits of rather over 90 miles and the average fall of between ten and eleven inches to the mile.
 
 This is the Great Indian Fertile Plain, home to the maximum number of sites venerated by the Hindu civilisational memory. It includes the hallowed *Aryavarta,* it was home to the largely forgotten but glorious *Sindhu-Sauvira Desha,* it is the *Ganga-Kshetra* (generally but incorrectly known as the Indo-Gangetic Plain) and is the pocket of the celebrated *Pancha-Nada Kshetra* (undivided Punjab). To an appreciable extent, the entire region retains its preeminence as one of the most ancient civilisational locales in human history.
 
@@ -164,7 +164,7 @@ This complex geography is further complicated when we survey its zigzagged river
 
 From a historical perspective, Dr. Jadunath Sarkar again paints a captivating panorama of *Dakshinapatha:*
 
-> Thus Nature has cut the Deccan up into many small isolated > compartments, each with poor resources and difficulty of communication > with its neighbours… long parallel mountain chains… run west to east, > cutting the country up into isolated districts…
+> Thus Nature has cut the Deccan up into many small isolated compartments, each with poor resources and difficulty of communication with its neighbours… long parallel mountain chains… run west to east, cutting the country up into isolated districts…
 
 This overall picture of Bharatavarsha’s geography comes alive in a brilliant and often brutal fashion when we regard it as a Great Military Theatre placed on the canvas of Time. In a limited sense, in some of its particulars, it has all the dimensions of a Cosmic Play that Bharatavarsha was both fortunate and ill-fated to participate in.
 

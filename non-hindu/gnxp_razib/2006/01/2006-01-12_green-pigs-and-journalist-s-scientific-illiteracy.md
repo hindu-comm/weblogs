@@ -21,7 +21,7 @@ Now, the pig’s “genetic material” is not green, it is the *product* of the
 
 Also, I do not think (though I could be wrong) that this part is correct:
 
-> So if, for instance, some of its stem cells are injected into another > animal, scientists can track how they develop without the need for a > biopsy or invasive test.
+> So if, for instance, some of its stem cells are injected into another animal, scientists can track how they develop without the need for a biopsy or invasive test.
 
 I don’t see how if stem cells were injected to repair a kidney or heart muscle how they would track their proliferation without *some* kind of invasive technique; the excitation wavelength and the resulting fluorescence would be blocked by the layers of the epidermis.
 

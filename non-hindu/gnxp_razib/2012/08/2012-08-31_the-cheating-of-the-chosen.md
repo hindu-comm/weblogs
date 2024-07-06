@@ -13,9 +13,9 @@ The cheating of the chosen
 
 [Harvard Says 125 Students May Have Cheated on a Final Exam](http://www.nytimes.com/2012/08/31/education/harvard-says-125-students-may-have-cheated-on-exam.html):
 
-> Officials said that nearly half of the more than 250 students in the > class were under investigation by the Harvard College Administrative > Board and that if they were found to have cheated, they could be > suspended for a year. The students have been notified that they are > suspected and will be called to give their accounts in investigative > hearings. >
-> “This is unprecedented in its scope and magnitude,” said Jay Harris, > the dean of undergraduate education. >
-> Administrators would not reveal the name of the class or even the > department, saying that they wanted to protect the identities of the > accused students. The Harvard Crimson, the university’s student > newspaper, reported that it was a government class, Introduction to > Congress, which had 279 students, and that it was taught by Matthew B. > Platt, an assistant professor.
+> Officials said that nearly half of the more than 250 students in the > class were under investigation by the Harvard College Administrative > Board and that if they were found to have cheated, they could be suspended for a year. The students have been notified that they are suspected and will be called to give their accounts in investigative hearings. >
+> “This is unprecedented in its scope and magnitude,” said Jay Harris, the dean of undergraduate education. >
+> Administrators would not reveal the name of the class or even the > department, saying that they wanted to protect the identities of the > accused students. The Harvard Crimson, the university’s student newspaper, reported that it was a government class, Introduction to Congress, which had 279 students, and that it was taught by Matthew B. Platt, an assistant professor.
 
 Anyone have opinions on this? I know plenty of readers are in the local area in various capacities. My working assumption is that these kids will get off with a slap on the wrist. The meritocracy does not eat its own young. With such widespread cheating in this course this not a matter of intellectual incompetents, but very smart kids who simply wanted to push their advantages on the margin. This is the university that was sending half its graduates to investment banks a few years ago, so what’s new?
 

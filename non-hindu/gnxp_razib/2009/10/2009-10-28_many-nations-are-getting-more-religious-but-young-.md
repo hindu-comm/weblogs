@@ -17,7 +17,7 @@ One thing that has bothered me, or at least piqued my interest, are two seemingl
 
 I decided to present the data which I’m basing the second assertion on. The WVS has several “waves.” I decided to look at wave 5, wave 4 and wave 2, which were done during the mid to late 2000s, around 2000 and 1990 respectively. I also looked at the question:
 
-> How important is God in your life? Please use this scale to indicate- > 10 means very important and 1 means not at all important.
+> How important is God in your life? Please use this scale to indicate- 10 means very important and 1 means not at all important.
 
 The WVS interface outputs mean values (as well as standard deviations). You can then drill-down and cross with age of the respondents in 3 classes:, 15-29, 30-49, and 50+. I was curious as to age related changes, so I simply put the mean values of the importance of God by age class into the [linest](http://office.microsoft.com/en-us/excel/HP052091551033.aspx) function. So, if the mean values were 7, 8 and 9 for the age classes from youngest to oldest, the linest would output a slope of 1 as I omitted x values (so the classes would be recoded implicitly as 1, 2, 3, etc. for x’s). If you reversed it, it would output -1. So, **negative values indicate that the younger are more religious than the old.** Here are some trends in the data…..
 

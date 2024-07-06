@@ -104,11 +104,11 @@ What no book on the Vijayanagara Empire will tell you is the fact that Vidyarany
 > Agrataścaturō vēdāḥ pr̥ṣṭhataḥ sahasram dhanuh \|  
 > Idaṁ brāhmam idaṁ kṣātraṁ śāpādapi śarādapi \|\| >
 > In front of me are the Four Vedas, behind me are weapons.  
-> This is brāhma, this is kṣātra; we are well-versed both in the Sastra > and the sword.
+> This is brāhma, this is kṣātra; we are well-versed both in the Sastra and the sword.
 
 D.V. Gundappa paints a highly evocative miniature that brings out the ennobling personality of Vidyaranya Swami:
 
-> Six hundred years ago, the spirit of brāhma in Sage Vidyaranya, > instead of becoming a vocation of supplication, was transformed into a > courageous endeavor and contributed to the rejuvenation of the Vedas. > However, the renunciate life of this glorious eminence did not > culminate in passivity but instead, radiated the light of steely > valour, and whose Vedanta instead of becoming dry recitation, directly > became the cause for the Hindu civilisational overhaul.
+> Six hundred years ago, the spirit of brāhma in Sage Vidyaranya, > instead of becoming a vocation of supplication, was transformed into a > courageous endeavor and contributed to the rejuvenation of the Vedas. > However, the renunciate life of this glorious eminence did not culminate in passivity but instead, radiated the light of steely valour, and whose Vedanta instead of becoming dry recitation, directly became the cause for the Hindu civilisational overhaul.
 
 As we have repeatedly mentioned in *The Dharma Dispatch* and elsewhere, treating Vidyaranya Swami, the Forest of Knowledge as if he were a mere twig counts as an unforgivable crime against the Sanatana civilizational memory and cultural inheritance.
 

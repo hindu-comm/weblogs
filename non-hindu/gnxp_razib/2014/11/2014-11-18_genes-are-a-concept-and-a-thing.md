@@ -29,7 +29,8 @@ Concrete physical locations of genes as structures in the material world are imp
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Gay sheep, forbidden
   science?](https://www.gnxp.com/WordPress/2006/12/31/gay-sheep-forbidden-science/) - [Homosexuaity & blood group & hair & eye
   color](https://www.gnxp.com/WordPress/2008/01/11/homosexuaity-blood-group-hair-eye-color/) - [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/) - [Gay

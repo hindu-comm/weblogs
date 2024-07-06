@@ -13,7 +13,7 @@ There have been many posting here on Colleges of Education, and the Education pr
 
 A sneak preview
 
-> one school in the town of Wellingborough is allowing pupils to swear > at teachers, providing they only do so no more than five times in a > class. A tally of how many times the f-word is used will be kept and > if the class exceeds the limit, they will be â€œspokenâ€? to…
+> one school in the town of Wellingborough is allowing pupils to swear at teachers, providing they only do so no more than five times in a class. A tally of how many times the f-word is used will be kept and if the class exceeds the limit, they will be â€œspokenâ€? to…
 
 *Eventus stultorum magister*
 

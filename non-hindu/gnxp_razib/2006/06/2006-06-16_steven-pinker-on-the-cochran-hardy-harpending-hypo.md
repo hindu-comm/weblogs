@@ -13,13 +13,14 @@ Steven Pinker on the Cochran-Hardy-Harpending hypothesis
 
 The closing words:
 
-> \[T\]he power to uncover genetic and evolutionary roots of group > differences in psychological traits is both more likely to materialize > and more incendiary in its consequences. And it is a prospect that we > are, intellectually and emotionally, very poorly equipped to confront.
+> \[T\]he power to uncover genetic and evolutionary roots of group differences in psychological traits is both more likely to materialize and more incendiary in its consequences. And it is a prospect that we are, intellectually and emotionally, very poorly equipped to confront.
 
 There is at least one typo in the piece that got past the TNR fact checkers. Those readers who were once newbies, let’s see if you can spot it.  
 
 ### Related Posts:
 
-- [Pinker on Jews, Genes and Intelligence - reports from
+- [Pinker on Jews, Genes and Intelligence
+- reports from
   the…](https://www.gnxp.com/WordPress/2005/12/02/pinker-on-jews-genes-and-intelligence-reports-from-the-lecture/) - [Skeptalk](https://www.gnxp.com/WordPress/2006/03/31/skeptalk/) - [Steven Pinker
   interview](https://www.gnxp.com/WordPress/2008/06/20/steven-pinker-interview/) - [Pinker replies to Lakoff's
   reply](https://www.gnxp.com/WordPress/2006/10/20/pinker-replies-to-lakoffs-reply/) - [Pinker on Ashkenazi

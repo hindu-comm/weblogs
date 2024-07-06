@@ -13,7 +13,7 @@ A paper in PLoS Genetics, [Assumption-Free Estimation of Heritability from Genom
 
 From the synopsis:
 
-> Quantitative geneticists attempt to understand variation between > individuals within a population for traits such as height in humans > and the number of bristles in fruit flies. This has been traditionally > done by partitioning the variation in underlying sources due to > genetic and environmental factors, using the observed amount of > variation between and within families. A problem with this approach is > that one can never be sure that the estimates are correct, because > nature and nurture can be confounded without one knowing it. The > authors got around this problem by comparing the similarity between > relatives as a function of **the exact proportion of genes that they > have in common**, looking only within families.
+> Quantitative geneticists attempt to understand variation between > individuals within a population for traits such as height in humans > and the number of bristles in fruit flies. This has been traditionally > done by partitioning the variation in underlying sources due to > genetic and environmental factors, using the observed amount of > variation between and within families. A problem with this approach is > that one can never be sure that the estimates are correct, because > nature and nurture can be confounded without one knowing it. The authors got around this problem by comparing the similarity between relatives as a function of **the exact proportion of genes that they have in common**, looking only within families.
 
 While children inherit more or less exactly half of their genomes from each parent (and thus — usually — have a coefficient of kinship of 1/2) due to the mechanism of two hapolid genomes combining at feritilization, for full siblings the actual coefficient is merely distributed around a mean of about 1/2. Due to chance segregation, some siblings have an actual relatedness which is greater than 1/2 and others less than 1/2. Here’s the actual distribution of relatedness that they measure:
 
@@ -21,11 +21,11 @@ While children inherit more or less exactly half of their genomes from each pare
 
 The rest of the synopsis:
 
-> Using this approach, the authors estimated the amount of total > variation for height in humans that is due to genetic factors from > 3,375 sibling pairs. For each pair, the authors estimated the > proportion of genes that they share from DNA markers. **It was found > that about 80% of the total variation can be explained by genetic > factors, close to results that are obtained from classical studies.** > This study provides the first validation of an estimate of genetic > variation by using a source of information that is free from > natureâ€“nurture assumptions.
+> Using this approach, the authors estimated the amount of total > variation for height in humans that is due to genetic factors from > 3,375 sibling pairs. For each pair, the authors estimated the > proportion of genes that they share from DNA markers. **It was found > that about 80% of the total variation can be explained by genetic > factors, close to results that are obtained from classical studies.** This study provides the first validation of an estimate of genetic variation by using a source of information that is free from natureâ€“nurture assumptions.
 
 They get a h^2 of 0.8. My reading of there paper is that this may be an underestimate:
 
-> We have ignored the contribution of the sex chromosomes to genome-wide > IBD. In humans, the X chromosome accounts for 4% of genes and 5% of > physical length \[29\]. If all chromosomes account for genetic > variation in proportion to the number of genes or physical length, > then our estimate of heritability will be biased downwards by about 4% > to 5%.
+> We have ignored the contribution of the sex chromosomes to genome-wide > IBD. In humans, the X chromosome accounts for 4% of genes and 5% of > physical length \[29\]. If all chromosomes account for genetic variation in proportion to the number of genes or physical length, then our estimate of heritability will be biased downwards by about 4% to 5%.
 
 This is a very important paper for several reasons. First, it should permit the verification of heritability coefficients for phenotypes like IQ where there has been some dispute. Second, it will permit the estimation of heritability in tandem with mapping projects that have sibs. I imagine there are already suitable datasets out there waiting to be mined.
 

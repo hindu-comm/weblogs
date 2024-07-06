@@ -11,8 +11,8 @@ Handicap breeds excellence?
 
 There’s a [wide-ranging story](http://www.laweekly.com/2012-04-12/film-tv/35-mm-film-digital-Hollywood/4/) in *LA Weekly* on the decline of 35mm film. It covers a lot of angles, but this one issue jumped out at me:
 
-> No wonder, then, that directors like Christopher Nolan worry that if > 35mm film dies, so will the gold standard of how movies are made. Film > cameras require reloading every 10 minutes. **They teach discipline. > Digital cameras can shoot far longer,** much to the dismay of actors > like Robert Downey Jr. — who, rumor has it, protests by leaving > bottles of urine on set. >
-> “Because when you hear the camera whirring, you know that money is > going through it,” Wright says. “There’s a respectfulness that comes > when you’re burning up film.”
+> No wonder, then, that directors like Christopher Nolan worry that if > 35mm film dies, so will the gold standard of how movies are made. Film > cameras require reloading every 10 minutes. **They teach discipline. Digital cameras can shoot far longer,** much to the dismay of actors like Robert Downey Jr. — who, rumor has it, protests by leaving bottles of urine on set. >
+> “Because when you hear the camera whirring, you know that money is going through it,” Wright says. “There’s a respectfulness that comes when you’re burning up film.”
 
 This particular variant of critique of new technologies is very old. It is famously well known that writing and printing both ushered in warnings that these were simply crutches, and might diminish mental acuity. **But I’m 99% sure that when bow & arrow become common, some hunters warned that the skills and traditions associated with the [atlatl](https://en.wikipedia.org/wiki/Atlatl#History) would decay.** The piece highlights some genuine advantages of analog over digital. I do not think making filming more difficult is an advantage, to state the obvious.
 

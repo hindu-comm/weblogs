@@ -24,19 +24,19 @@ At individual level the key consideration is the effect on the offspring. There 
 
 Against interracial marriage (or other interracial mating), it may be said that:
 
-> a\. the main races \[see note 1\] have evolved over thousands of years > to be adapted to a specific geographical environment, whereas their > offspring will not be well-adapted to any environment, and >
-> b\. the genes at different loci in each major race have evolved to be > adapted to each other, forming â€˜co-adapted gene-complexesâ€™. > Interracial mating would break up these gene-complexes.
+> a\. the main races \[see note 1\] have evolved over thousands of years to be adapted to a specific geographical environment, whereas their offspring will not be well-adapted to any environment, and >
+> b\. the genes at different loci in each major race have evolved to be adapted to each other, forming â€˜co-adapted gene-complexesâ€™. Interracial mating would break up these gene-complexes.
 
 For interracial mating it may be said:
 
-> a\. Mating between different races of animals or plants within the > same species often results in â€˜hybrid vigourâ€™: the offspring are > superior to either of the parents (or at least to their mean). The > main reason for this is probably that it reduces the harmful effects > of inbreeding. As human racial and ethnic groups are to some extent > inbred, then some degree of hybrid vigour might be expected when > different groups interbreed. >
-> b\. As a more specific benefit, the offspring of interracial mating > are likely to avoid genetic diseases arising from homozygous harmful > recessive genes found mainly in particular groups, such as cystic > fibrosis in Europeans and sickle-cell anaemia in West Africans.
+> a\. Mating between different races of animals or plants within the > same species often results in â€˜hybrid vigourâ€™: the offspring are > superior to either of the parents (or at least to their mean). The > main reason for this is probably that it reduces the harmful effects of inbreeding. As human racial and ethnic groups are to some extent inbred, then some degree of hybrid vigour might be expected when different groups interbreed. >
+> b\. As a more specific benefit, the offspring of interracial mating are likely to avoid genetic diseases arising from homozygous harmful recessive genes found mainly in particular groups, such as cystic fibrosis in Europeans and sickle-cell anaemia in West Africans.
 
 The last of these points is the only one that can be asserted with any confidence. The others are more speculative, and it is a matter for research whether they are significant or not. The subject has not been studied very fully. On searching I found only three areas where mixed-race offspring are said to have some health problems:
 
-> a\. it is more difficult for mixed-race individuals to find genetic > matches if they need tissue or organ donors. >
-> b\. in a study of American students, individuals who identified > themselves as mixed-race were reported to have higher than average > levels of stress and stress-related health problems. Of course, there > is no evidence that this is a genetic effect. >
-> c\. according to one study (link > [here](http://www3.interscience.wiley.com/cgi-bin/abstract/109584724/ABSTRACT)), > mixed-race offspring may have a moderately higher risk of certain > birth defects, but a moderately lower risk of others.
+> a\. it is more difficult for mixed-race individuals to find genetic matches if they need tissue or organ donors. >
+> b\. in a study of American students, individuals who identified themselves as mixed-race were reported to have higher than average levels of stress and stress-related health problems. Of course, there is no evidence that this is a genetic effect. >
+> c\. according to one study (link [here](http://www3.interscience.wiley.com/cgi-bin/abstract/109584724/ABSTRACT)), mixed-race offspring may have a moderately higher risk of certain birth defects, but a moderately lower risk of others.
 
 On the positive side, it is sometimes suggested (e.g. by Armand Marie Leroi) that mixed-race offspring are physically fitter or better-looking than the average of their parents. From personal observation I find this plausible, but I donâ€™t know of any statistically valid evidence: it is easy to point to individual cases like Halle Berry or Thandie Newton, but this doesnâ€™t prove much. (Razib recently commented on a study which provides some of the kind of evidence needed.)
 

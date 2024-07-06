@@ -24,8 +24,8 @@ In the interests of “mixing it up” I’ve decided to try something different
 > Do you aware of you’ve been using a photo of the founder of Turkey?  
 > And do you think this revilement will not be punished?  
 > I would like to inform you the answar is “NO”. >
-> razib khan or whatever, from pakistan, from a country that we’re > helping for the flood disaster. is that your appreciation? Seems > you’ve forgotten who’d deigned your lifes. >
-> razib khan, I’m sincerely informing and underlining that will not be > forgotten, also your name too. >
+> razib khan or whatever, from pakistan, from a country that we’re helping for the flood disaster. is that your appreciation? Seems you’ve forgotten who’d deigned your lifes. >
+> razib khan, I’m sincerely informing and underlining that will not be forgotten, also your name too. >
 > If you like take it as a threat, because it is. >
 > Turk.
 
@@ -37,7 +37,8 @@ In the interests of “mixing it up” I’ve decided to try something different
 
 ### Related Posts:
 
-- [Friday Fluff - September 17th,
+- [Friday Fluff
+- September 17th,
   2010](https://www.gnxp.com/WordPress/2010/09/17/friday-fluff-september-17th-2010/) - [Friday Fluff – December 17th,
   2010](https://www.gnxp.com/WordPress/2010/12/17/friday-fluff-december-17th-2010/) - [Friday Fluff - June 10th,
   2011](https://www.gnxp.com/WordPress/2011/06/10/friday-fluff-june-10th-2011/) - [Friday Fluff – November 19th,

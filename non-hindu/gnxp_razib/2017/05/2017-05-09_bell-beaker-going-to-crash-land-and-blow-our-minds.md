@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2017/05/09/bell-beaker-going-to-cr
 
 Bell Beaker going to crash-land and blow our minds soon?
 
-> Lovers of European prehistory and ancient DNA should stay tuned to > [@biorxivpreprint](https://twitter.com/biorxivpreprint) this week > [\#BeakTheInternet](https://twitter.com/hashtag/BeakTheInternet?src=hash) >
-> — Pontus Skoglund (@pontus_skoglund) [May 9, > 2017](https://twitter.com/pontus_skoglund/status/862056974376210433)
+> Lovers of European prehistory and ancient DNA should stay tuned to [@biorxivpreprint](https://twitter.com/biorxivpreprint) this week [\#BeakTheInternet](https://twitter.com/hashtag/BeakTheInternet?src=hash) >
+> — Pontus Skoglund (@pontus_skoglund) [May 9, 2017](https://twitter.com/pontus_skoglund/status/862056974376210433)
 
 I’m pretty sure that the *Beak* part is not a typo…. (if it is, Pontus better delete it)
 

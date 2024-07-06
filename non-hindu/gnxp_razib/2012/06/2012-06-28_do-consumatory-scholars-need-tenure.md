@@ -11,7 +11,7 @@ Do consumatory scholars need tenure?
 
 [John Hawks](http://johnhawks.net/node/28937) pointed me to this really strange article, [Just Because We’re Not Publishing Doesn’t Mean We’re Not Working](http://chronicle.com/article/Just-Because-Were-Not/132183/):
 
-> We have no concise term to describe what we spend much of our time > doing. Our colleges are focused on scholarly products that can be > peer-reviewed and published, but the reality is that many of us spend > much of our time on being scholarly, not on producing scholarship. > **We are, and should be, consuming the scholarship of others.** > Consuming scholarship includes preparatory time for teaching but is > much broader. We need a name for this ubiquitous activity. I offer > “consumatory scholarship.”
+> We have no concise term to describe what we spend much of our time > doing. Our colleges are focused on scholarly products that can be > peer-reviewed and published, but the reality is that many of us spend > much of our time on being scholarly, not on producing scholarship. > **We are, and should be, consuming the scholarship of others.** Consuming scholarship includes preparatory time for teaching but is much broader. We need a name for this ubiquitous activity. I offer “consumatory scholarship.”
 
 I suppose the arguments is that by consuming the production of others you become a better teacher and communicator. But is this good bang-for-the-buck? One could argue that argue that I’m a “consumatory scholar,” but at least I have 10 years of a huge amount of text production of commentary which is widely circulated (e.g., I’ve been cited in a few books, just query “Razib Khan”).
 

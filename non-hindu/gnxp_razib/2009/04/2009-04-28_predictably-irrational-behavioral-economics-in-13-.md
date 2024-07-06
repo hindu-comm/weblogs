@@ -47,7 +47,7 @@ Hershey’s Kiss – Free! (69% prefer)
 4) **The Cost of Social norms**  
 From page 71:
 
-> A few years ago, for instance, the AARP asked some lawyers if they > would offer less expensive services to needy retirees, at something > like \$30 an hour. The lawyers said no. Then the program manager from > AARP had a brilliant idea: he asked the lawyers if they would offer > free services to needy retirees. Overwhelmingly, the lawyers said yes
+> A few years ago, for instance, the AARP asked some lawyers if they > would offer less expensive services to needy retirees, at something like \$30 an hour. The lawyers said no. Then the program manager from AARP had a brilliant idea: he asked the lawyers if they would offer free services to needy retirees. Overwhelmingly, the lawyers said yes
 
 5\) **The Influence of Arousal**  
 See [this post](https://www.gnxp.com/blog/2009/04/sex-choice.php).  

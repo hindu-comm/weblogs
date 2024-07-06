@@ -183,22 +183,32 @@ The weekend is here! This weekend I'm going to build a small app to solve a very
 
 🔸 We also have an exciting lineup of live guest classes coming up. These are all 100% free for all [members](https://www.smallbets.co/) of the Small Bets Community:
 
-- Apr 3 - [Espree Devora](https://twitter.com/EspreeDevora) - **The Art
+- Apr 3
+- [Espree Devora](https://twitter.com/EspreeDevora)
+- **The Art
   of Podcasting**
 
-- Apr 5 - [Sean O'Dowd](https://twitter.com/SeanODowd15) - **Make \$500
+- Apr 5
+- [Sean O'Dowd](https://twitter.com/SeanODowd15)
+- **Make \$500
   on Upwork by Monday**
 
-- Apr 11 - [Peter Askew](https://twitter.com/searchbound) - **Domain
+- Apr 11
+- [Peter Askew](https://twitter.com/searchbound)
+- **Domain
   First Development**
 
-- Apr 25 - [Justin Welsh](https://twitter.com/thejustinwelsh) -
+- Apr 25
+- [Justin Welsh](https://twitter.com/thejustinwelsh) -
   **Understanding LinkedIn**
 
-- May 1 - [Aprilynne Alter](https://twitter.com/AprilynneAlter) -
+- May 1
+- [Aprilynne Alter](https://twitter.com/AprilynneAlter) -
   **Getting Started on YouTube**
 
-- May 3 - [Greg Lim](https://twitter.com/greglim81) - **Amazon KDP Crash
+- May 3
+- [Greg Lim](https://twitter.com/greglim81)
+- **Amazon KDP Crash
   Course**
 
 ------------------------------------------------------------------------

@@ -41,7 +41,7 @@ It is this amazing relationship that forms the foundation of **statistical mecha
 
 The fans went wild. In 1949, Claude Shannon was characterizing information loss, and needed a term for the degree to which information is scrambled. Visiting mathematical physicist John von Neumann, he received the following advice:
 
-> You should call it entropy…nobody knows what entropy really is, so in > a debate you will always have the advantage.
+> You should call it entropy…nobody knows what entropy really is, so in a debate you will always have the advantage.
 
 Gee, von Neumann couldn’t have been more right. The resulting duplicate use of the term “entropy” in both thermodynamic and information contexts has created an unfortunate degree of confusion. While they share some properties and mathematical relationships, only one is bound to obey the Second Law of Thermodynamics (can you guess which one?). But this does not stop folks from invoking entropy as a trump card in arguments—usually unchallenged.
 
@@ -51,7 +51,8 @@ But informational entropy does not generally transfer into the thermodynamic rea
 
 To determine whether two different states of some real or imagined system is meaningfully different in thermodynamic entropy, ask yourself these questions:
 
-1.  If I took the system to zero temperature and then added energy until getting back to the original temperature, would the amount of energy required be different for the two configurations? 2.  Is there an intrinsic physical process by which one state may evolve to the other spontaneously? In other words, are the items continuously jostling about and changing configuration via collisions or some other form of agitation?
+1.  If I took the system to zero temperature and then added energy until getting back to the original temperature, would the amount of energy required be different for the two configurations?
+2.  Is there an intrinsic physical process by which one state may evolve to the other spontaneously? In other words, are the items continuously jostling about and changing configuration via collisions or some other form of agitation?
 
 The first question primarily boils down to whether the microscopic structure has been changed, so that the places energy gets stored will look different before and after. If the change has been chemical in nature, then almost certainly the micro-level energy storage properties will be different. If it’s just a matter of moving macroscopic pieces about, then any entropy change is probably too small to care about.
 
@@ -81,7 +82,7 @@ So there *can be* a real thermodynamic difference between the two states, some t
 
 In order to clarify some mistaken themes relating to entropy, let’s look again at the third paragraph of the post, repeated here:
 
-> A narrative has developed around this theme that we take in low > entropy energy and emit a high entropy wake of waste. That life > displays marvelous order—permitted by continuous feeding of this low > entropy energy—while death and decay represent higher entropy end > states. That we extract low entropy concentrations of materials (ores) > from the ground, then disperse the contents around the world in a > higher entropy arrangement. The Second Law warns that there is no > going back: at least not without substantial infusion of energy.
+> A narrative has developed around this theme that we take in low > entropy energy and emit a high entropy wake of waste. That life > displays marvelous order—permitted by continuous feeding of this low > entropy energy—while death and decay represent higher entropy end > states. That we extract low entropy concentrations of materials (ores) from the ground, then disperse the contents around the world in a higher entropy arrangement. The Second Law warns that there is no going back: at least not without substantial infusion of energy.
 
 #### Low Entropy Energy?
 
@@ -117,7 +118,9 @@ The context of this discussion is mis-application of the Second Law of Thermodyn
 
 Simpler statements that are consistent with the laws of thermodynamics and bear on our societal options are:
 
-1.  Energy may be extracted when temperature differences exist (e.g., combustion chamber compared to ambient environment; solar surface temperature compared to Earth surface). Entropy measures of the energy itself are not meaningful. 2.  Net energy from fossil fuels may only be extracted once. 3.  Efficiencies are capped at 100%, and often are theoretically much lower as a consequence of the Second Law.
+1.  Energy may be extracted when temperature differences exist (e.g., combustion chamber compared to ambient environment; solar surface temperature compared to Earth surface). Entropy measures of the energy itself are not meaningful.
+2.  Net energy from fossil fuels may only be extracted once.
+3.  Efficiencies are capped at 100%, and often are theoretically much lower as a consequence of the Second Law.
 
 Meanwhile, we should break the habit of invoking the Second Law to point to the irreversibility or even just the energy cost of restoring ordered arrangements of matter (as in mined ores and recycling). Even if the thermodynamic entropy of processed goods is higher than the feedstock (usually not the case, and at best negligibly different), the Second Law is not the primary barrier to reversing the process. As long as 10¹⁷W flows from the Sun to the Earth, physics and entropy impose no fundamental limits on irreversibility. Our limitations are more on the practical than on the theoretical side.
 

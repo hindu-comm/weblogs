@@ -15,13 +15,13 @@ The primary variables are BIBLE & SCITEST4.
 
 BIBLE is:
 
-> Which of these statements comes closest to describing your feelings > about teh Bible? 1. The Bible is the actual word of God and is to be > taken literally, word for word. 2. The Bible is the inspired word of > God but not everything in it should be taken literally, word for word. > 3. The Bible is an ancient book of fables, legends, history, and moral > precepts recorded by men.
+> Which of these statements comes closest to describing your feelings > about teh Bible? 1. The Bible is the actual word of God and is to be > taken literally, word for word. 2. The Bible is the inspired word of God but not everything in it should be taken literally, word for word. 3. The Bible is an ancient book of fables, legends, history, and moral precepts recorded by men.
 
 I recoded so that responses 2 and 3 are classed as non-Fundamentalist.
 
 SCITEST4:
 
-> For each statement below, just check the box that comes closest to > your opinion of how true it is. In your opinion, how true is this? d. > Human beings developed from earlier species of animals.
+> For each statement below, just check the box that comes closest to your opinion of how true it is. In your opinion, how true is this? d. Human beings developed from earlier species of animals.
 
 I created the Index of Creationism = (% “definitely not true”) X 3 + (% “probably not true”) X 2 + (% “probably true”) X 1, from three of the four responses to SCITEST4.
 

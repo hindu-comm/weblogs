@@ -11,13 +11,13 @@ Socialized medicine + personal genomics = ?
 
 My own working assumption is that the **demand** side impulse toward mass adoption of human genomic technology in the USA is going to be dampened by fear of downside consequences, [GINA](https://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act) notwithstanding. Rather, I assume that the more deregulated consumer environment in parts of Asia with very low fertility rates, as well as European states with more thorough socialized medical systems, will “punch above their weight” in this domain. It looks likes a genuine socialized medical system (i.e., the doctors are state employees), that of the UK, is preparing to step up to the plate, [Genomic innovation will better target treatment in the NHS](http://mediacentre.dh.gov.uk/2012/01/25/genomic-innovation-will-better-target-treatment/):
 
-> The independent cross-government advisory group was set up in response > to the 2009 House of Lords report on genomic medicine. It draws on > expertise from across Government and research institutes and makes six > recommendations to Government: >
+> The independent cross-government advisory group was set up in response to the 2009 House of Lords report on genomic medicine. It draws on expertise from across Government and research institutes and makes six recommendations to Government: >
 > The recommendations are: >
-> • to develop a cross-cutting strategic document, to set out the > direction on genomic technology adoption in the NHS; >
+> • to develop a cross-cutting strategic document, to set out the direction on genomic technology adoption in the NHS; >
 > **• to develop a national central genomic data storage facility;** >
-> • that the NHS Commissioning Board should lead on developing genomic > technology adoption; >
-> • to work to develop a service delivery model for genomic > technologies; >
-> • that the NHS should continue to develop genomics education and > training; and >
+> • that the NHS Commissioning Board should lead on developing genomic technology adoption; >
+> • to work to develop a service delivery model for genomic technologies; >
+> • that the NHS should continue to develop genomics education and training; and >
 > • to raise public awareness of genomic technology and its benefits.
 
 Many researchers believe that personal genomics will really not hit the biomedical sweet spot until you have on the order of a million people sequenced. But even then in the American system how to get a hold of all that information is going to be problematic, since it will likely be decentralized. In contrast in Britain tens of millions of people have one primary healthcare provider, their national government.

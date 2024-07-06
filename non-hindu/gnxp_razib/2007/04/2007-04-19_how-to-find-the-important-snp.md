@@ -11,7 +11,7 @@ How to find the important SNP
 
 There is a gene I care about carrying a SNP associated with a phenotype I care about. Unfortunately, that SNP is intronic, and if it has an effect the prediction isn’t obvious. I would like very much to find a list of SNPs in significant LD with this one, but I am finding the HapMap/Mart impenetrable. In this article, [Navigating the HapMap](http://bib.oxfordjournals.org/cgi/content/full/7/3/211), I got a hint of hope:
 
-> Alternatively, one might use the SNP filter function to highlight > other SNPs that are in LD with a specific list of SNPs of interest > (e.g. SNPs associated in a study). This enables the user to identify > all SNPs in LD with an associated SNP to allow functional analysis to > identify putative causal SNPs for further analysis in the lab.
+> Alternatively, one might use the SNP filter function to highlight > other SNPs that are in LD with a specific list of SNPs of interest (e.g. SNPs associated in a study). This enables the user to identify all SNPs in LD with an associated SNP to allow functional analysis to identify putative causal SNPs for further analysis in the lab.
 
 I can’t find this option. Any helpful hints?
 

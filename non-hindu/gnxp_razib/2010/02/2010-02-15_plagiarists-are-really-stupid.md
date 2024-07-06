@@ -11,8 +11,8 @@ Plagiarists are really stupid
 
 Another instance of a really dumb plagiarist, from *The New York Times* [Corrections](http://www.nytimes.com/2010/02/15/pageoneplus/corrections.html):
 
-> In a number of business articles in The Times over the past year, and > in posts on the DealBook blog on NYTimes.com, a Times reporter appears > to have improperly appropriated wording and passages published by > other news organizations.  
-> The reporter, Zachery Kouwe, reused language from The Wall Street > Journal, Reuters and other sources without attribution or > acknowledgment.
+> In a number of business articles in The Times over the past year, and in posts on the DealBook blog on NYTimes.com, a Times reporter appears to have improperly appropriated wording and passages published by other news organizations.  
+> The reporter, Zachery Kouwe, reused language from The Wall Street Journal, Reuters and other sources without attribution or acknowledgment.
 
 You work for *The New York Times*, and you plagiarize from *The Wall Street Journal*, *Reuters*, etc.? Seriously. Dude even [paid for J-school](http://www.colorado.edu/journalism/bylinesbriefly/feb09.html#LETTER.BLOCK4). Am I just not “getting” the plagiarist logic here? If you’re going to steal copy, why not steal it from somewhere obscure, instead of your primary American rivals? (in the domain of business news) There are gonna be lots of people reading all of them, someone will notice. [Sean Paul Kelley](http://www.wired.com/politics/law/news/2003/04/58346) is looking like a genius….
 

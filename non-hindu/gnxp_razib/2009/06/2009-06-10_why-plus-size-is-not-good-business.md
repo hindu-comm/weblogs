@@ -13,7 +13,8 @@ Why plus size is not good business
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Most people gain from resistance
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Most people gain from resistance
   training](https://www.gnxp.com/WordPress/2015/12/18/most-people-gain-from-resistance-training/) - [Not all brown people take
   stats](https://www.gnxp.com/WordPress/2009/03/16/not-all-brown-people-take-stats/) - [The inferred distribution of grandparental
   contribution](https://www.gnxp.com/WordPress/2013/10/21/inferred-distribution-grandparental-contribution/) - [Paternity uncertainty, the present & the

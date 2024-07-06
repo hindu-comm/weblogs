@@ -21,7 +21,8 @@ I Googled the author. The first hit really surprised me,[josephsmithdna.com](htt
 
 ### Related Posts:
 
-- [ASHG 2012 - which
+- [ASHG 2012
+- which
   sessions](https://www.gnxp.com/WordPress/2012/10/02/ashg-2012-which-sessions/) - [Open Thread,
   11-08-2012](https://www.gnxp.com/WordPress/2012/11/08/open-thread-11-08-2012/) - [It's what's for
   dinner](https://www.gnxp.com/WordPress/2012/11/02/its-whats-for-dinner/) - [2012,

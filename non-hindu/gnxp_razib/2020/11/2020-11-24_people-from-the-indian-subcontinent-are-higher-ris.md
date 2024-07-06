@@ -14,7 +14,7 @@ People of Indian subcontinental origin. South Asians. Are at higher risk for hea
 
 Right now, it is the turn of *The Washington Post*, [South Asian Americans face disproportionately higher risks of heart disease, other cardiovascular ailments](https://www.washingtonpost.com/health/asian-american-heart-disease-risk/2020/11/13/3a6c8f18-236a-11eb-952e-0c475972cfc0_story.html):
 
-> South Asian Americans — people with roots in Nepal, India, Pakistan, > Sri Lanka, Bangladesh, Bhutan and the Maldives — have a > disproportionately higher risk of heart disease and other > cardiovascular ailments. Worldwide, South Asians account for 60 > percent of all heart disease cases, even though — at 2 billion people > — they make up only a quarter of the planet’s population.
+> South Asian Americans — people with roots in Nepal, India, Pakistan, > Sri Lanka, Bangladesh, Bhutan and the Maldives — have a > disproportionately higher risk of heart disease and other cardiovascular ailments. Worldwide, South Asians account for 60 percent of all heart disease cases, even though — at 2 billion people — they make up only a quarter of the planet’s population.
 
 One common refrain is that socioeconomics explains between-group differences. But in the USA Indian Americans are the wealthiest and most educated ethnic group. Many people who are colleagues of Indian Americans begin to notice the high propensity for heart diseases amongst their South Asian friends. People who are vegetarian. People who live the same “healthy lifestyle” as their professional peers.
 

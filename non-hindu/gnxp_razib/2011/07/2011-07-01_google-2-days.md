@@ -11,7 +11,7 @@ Google+ 2 days
 
 [Google+ for the Blogger and Researcher](http://scienceblogs.com/thoughtfulanimal/2011/07/google_for_the_blogger_and_res.php):
 
-> After a couple days of playing with it, I haven’t quite identified > what it is for, or at least how I’m going to use it differently from > twitter or facebook, but so far I am generally impressed – it’s easy, > intuitive, and fast. It also allows you a level of selective privacy > that – while possible to achieve – is very clunky on Facebook. It only > took me 10 minutes on the web interface and another 10 minutes after > downloading the Android app to figure out how it all worked. And > Google+ is already far better integrated into the mobile user > experience than Facebook is (though this is to be expected for a phone > that runs Android).
+> After a couple days of playing with it, I haven’t quite identified > what it is for, or at least how I’m going to use it differently from > twitter or facebook, but so far I am generally impressed – it’s easy, > intuitive, and fast. It also allows you a level of selective privacy > that – while possible to achieve – is very clunky on Facebook. It only > took me 10 minutes on the web interface and another 10 minutes after > downloading the Android app to figure out how it all worked. And Google+ is already far better integrated into the mobile user experience than Facebook is (though this is to be expected for a phone that runs Android).
 
 Yes. I haven’t used Google+ much, but:
 

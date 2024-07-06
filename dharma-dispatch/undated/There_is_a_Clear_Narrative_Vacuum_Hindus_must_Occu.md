@@ -110,7 +110,7 @@ But what this simultaneously means for Hindus is just one word: *opportunity*. A
 
 The same hindsight also reveals another historical fact which the British historian Vincent Smith had alluded to in a different but related context. Remarking on the barbarism and bigotry of Islamic invaders of India, he says,
 
-> All the leaders in the Muslim conquest of Hindostan similarly rejoiced > in committing wholesale massacres of Hindu idolaters, armed or > unarmed…The Muslim chronicler thoroughly approved of the ferocity of > his heroes… The modern reader of the panegyrics recorded by Muslim > authors in praise of 'beneficent' monarchs who slaughtered hundreds of > thousands of Hindus with delight often longs for an account of their > character as it appeared to the friends and countrymen of the victims. > But NO VOICE HAS COME FROM THE \[HINDU\] GRAVE, AND THE STORY OF THE > MUHAMMADAN CONQUEST AS SEEN FROM THE HINDU POINT OF VIEW WAS NEVER > WRITTEN… (Capitalized)
+> All the leaders in the Muslim conquest of Hindostan similarly rejoiced > in committing wholesale massacres of Hindu idolaters, armed or > unarmed…The Muslim chronicler thoroughly approved of the ferocity of > his heroes… The modern reader of the panegyrics recorded by Muslim > authors in praise of 'beneficent' monarchs who slaughtered hundreds of > thousands of Hindus with delight often longs for an account of their > character as it appeared to the friends and countrymen of the victims. But NO VOICE HAS COME FROM THE \[HINDU\] GRAVE, AND THE STORY OF THE MUHAMMADAN CONQUEST AS SEEN FROM THE HINDU POINT OF VIEW WAS NEVER WRITTEN… (Capitalized)
 
 *No voice has come from the Hindu grave.*
 

@@ -207,7 +207,8 @@ and [Spotify](https://open.spotify.com/show/0qC7KtuzPG9azwjt3opYlI)).
 
 Here were my June guests:
 
--   [Samo Burja (again): finding "lost civilizations" - What if
+-   [Samo Burja (again): finding "lost civilizations"
+- What if
     everything we thought we knew about the past is totally
     wrong?](https://razib.substack.com/p/samo-burja-again-finding-lost-civilizations)
 
@@ -215,7 +216,8 @@ Here were my June guests:
     Chinese century - Talking contrarianism and public
     policy](https://razib.substack.com/p/richard-hanania-israel-wokeness-is)
 
--   [Ramez Naam: a promising future - Futurism, science fiction, and
+-   [Ramez Naam: a promising future
+- Futurism, science fiction, and
     rebutting
     catastrophism](https://razib.substack.com/p/ramez-naam-a-promising-future)
 
@@ -223,7 +225,8 @@ Here were my June guests:
     inadvertent
     controversialist](https://razib.substack.com/p/colin-wright-wasps-new-atheism-and)
 
--   [David Mittelman: genomics for justice - The next generation of
+-   [David Mittelman: genomics for justice
+- The next generation of
     forensic DNA through
     genomics](https://razib.substack.com/p/david-mittelman-genomics-for-justice)
 

@@ -11,7 +11,7 @@ Aryan Brazilian twins aren't that exciting
 
 A few days ago I mentioned that the [story](http://www.nytimes.com/2009/02/23/world/americas/23twins.html) about a bumper crop of twins in a German town in southern Brazil was notable because of the elevated frequency of *identical*, not fraternal, twins. A reader points out that that was an error, and *The New York Times* has appended a [correction](http://www.nytimes.com/2009/02/23/world/americas/23twins.html):
 
-> The Cândido Godói Journal article on Monday, about the unexplained > proliferation of twins born in the farming town of Cândido Godói in > southern Brazil, misstated the type of twins usually associated with a > genetic tendency of the mother. They are fraternal twins — like a > majority of those born in the town. They are not identical twins, > which are generally believed to be conceived by chance.
+> The Cândido Godói Journal article on Monday, about the unexplained > proliferation of twins born in the farming town of Cândido Godói in > southern Brazil, misstated the type of twins usually associated with a genetic tendency of the mother. They are fraternal twins — like a majority of those born in the town. They are not identical twins, which are generally believed to be conceived by chance.
 
 As I noted before, variation between populations and due to environmental inputs that affect twinning rates affect the rate of fraternal, not identical, twins. Inbreeding\* or some environmental parameter, or a combination, probably explain this then.  
 \* Since twinning is somewhat heritable, the alleles which modulate twinning rates could have increased in frequency in an inbred population through drift.

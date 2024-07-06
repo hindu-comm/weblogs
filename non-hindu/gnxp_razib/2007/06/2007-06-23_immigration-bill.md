@@ -11,17 +11,17 @@ Immigration bill
 
 An FOB (friend of the blog) has a prescription for how you can be proactive if you are a restrictionist and want to affect the pending senatorial proceedings.
 
-> According to Krikorian and Kaus, these are the 12 Senators on the > fence (there may be more). Perhaps you could post this list with the > following directions. It took me all of 10 minutes to do this. >
+> According to Krikorian and Kaus, these are the 12 Senators on the fence (there may be more). Perhaps you could post this list with the following directions. It took me all of 10 minutes to do this. >
 > 1\) open up each link in a new tab in Firefox >
 > 2\) prepare a message in a text editor, such as the following: >
 > “Dear Senator, >
-> Please vote AGAINST cloture on the upcoming immigration bill. It is > a  
+> Please vote AGAINST cloture on the upcoming immigration bill. It is a  
 > disaster and would be ruinous for this country if passed. Thank you. >
 > Sincerely, >
 > XXX >
 > \[Signature with affiliations, etc. may also be useful to include\]” >
-> 3\) paste it into each text field, update the contact info, and hit > send.  
-> It’s ok if you’re out of state, the Senate in particular is a > national  
+> 3\) paste it into each text field, update the contact info, and hit send.  
+> It’s ok if you’re out of state, the Senate in particular is a national  
 > organ. >
 > ————- >
 > Bond (R-Mo.) >

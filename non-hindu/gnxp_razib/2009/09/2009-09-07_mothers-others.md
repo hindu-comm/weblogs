@@ -14,7 +14,9 @@ At [Cognition & Culture](http://www.cognitionandculture.net/index.php?option=com
 
 ### Related Posts:
 
-- [Open Thread - 05/08/2022 - Gene
+- [Open Thread
+- 05/08/2022
+- Gene
   Expression](https://www.gnxp.com/WordPress/2022/05/08/open-thread-05-08-2022-gene-expression/) - [Evolution and Sarah
   Palin](https://www.gnxp.com/WordPress/2008/09/06/evolution-and-sarah-palin/) - [Genetic conflicts in human
   pregnancy](https://www.gnxp.com/WordPress/2006/06/28/genetic-conflicts-in-human-pregnancy/) - [Robert Trivers wins the Crafoord

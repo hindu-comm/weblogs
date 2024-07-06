@@ -11,11 +11,12 @@ Recent bird evolution
 
 [Blackbirds Evolving Uptown](http://sciencenow.sciencemag.org/cgi/content/full/2007/518/1?rss=1):
 
-> More than a century ago, some European Blackbirds gave up the > commuting life. The traditional routine was to nest in northern > forests but head for southern Europe or northern Africa at the first > sign of winter. Then some populations discovered that winter in the > city isn’t half-bad: The microclimate is warm with plenty of tasty > leftovers. So strong is the appeal of city life, according to a > research team in Germany, that it is has not only changed the > blackbirds’ behavior, but their genetics, too.
+> More than a century ago, some European Blackbirds gave up the > commuting life. The traditional routine was to nest in northern > forests but head for southern Europe or northern Africa at the first > sign of winter. Then some populations discovered that winter in the > city isn’t half-bad: The microclimate is warm with plenty of tasty leftovers. So strong is the appeal of city life, according to a research team in Germany, that it is has not only changed the blackbirds’ behavior, but their genetics, too.
 
 ### Related Posts:
 
-- [Kat](https://www.gnxp.com/WordPress/2006/12/01/kat-6/) - [Cities of
+- [Kat](https://www.gnxp.com/WordPress/2006/12/01/kat-6/)
+- [Cities of
   plague](https://www.gnxp.com/WordPress/2010/09/24/cities-of-plague/) - [Europe and
   alcoholism](https://www.gnxp.com/WordPress/2006/11/21/europe-and-alcoholism/) - [Boom & bust -
   Ramadan](https://www.gnxp.com/WordPress/2006/10/14/boom-bust-ramadan/) - [Merry

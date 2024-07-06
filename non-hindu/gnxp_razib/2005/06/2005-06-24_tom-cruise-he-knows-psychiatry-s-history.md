@@ -27,7 +27,8 @@ Posted by A. Beaujean at [06:42 PM](https://www.gnxp.com/MT2/archives/004114.htm
 
 ### Related Posts:
 
-- [Cool Cruise](https://www.gnxp.com/WordPress/2006/05/06/cool-cruise/) - [Creativity, because it's 2017 The Mummy is being
+- [Cool Cruise](https://www.gnxp.com/WordPress/2006/05/06/cool-cruise/)
+- [Creativity, because it's 2017 The Mummy is being
   rebooted](https://www.gnxp.com/WordPress/2017/05/18/creativity-because-its-2017/) - [Tom & Katie's freak is
   here!!!!](https://www.gnxp.com/WordPress/2006/04/18/tom-katies-freak-is-here/) - [Cruise control: does holoprosencephaly explain some
   of…](https://www.gnxp.com/WordPress/2006/12/19/cruise-control-does-holoprosencephaly-explain-some-of-tom-s-behavior/) - [Movies; watch, and

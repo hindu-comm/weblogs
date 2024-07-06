@@ -35,7 +35,9 @@ The first army of Islam, that of the Arabs, met with rapid somewhat surprising s
 This period of 120 years can be considered the period of true success of the Arabic Army of Islam. The Jihad of the Arabs was wildly successful in this period regularly defeating armies of most of the major civilizations of the old world. This string of successes against very different adverseries is actually pretty surprising because after this the Arabs more or less underwent a stagnation and faded out as a military power of note. After their intial string of spectacular successes their attempts their thrusts were blunted in most directions by several defeats. 
 
 - In Europe, the Franks stopped the Islamic advance in the famed battle of Tours. 
-- Byzantium withstood all further attacks despite the siege of the capital by Caliph Sulaiman. - In India the Karkotakas, Chahamanas, Pratiharas and Chalukyas repeatedly repulsed many Arab attempts and prevented any further depredations on India. - In Central Asia the last remnants of the Gok Turks and later the Uighur Khanate defeated the Arabs and prevented any further encroachment. 
+- Byzantium withstood all further attacks despite the siege of the capital by Caliph Sulaiman.
+- In India the Karkotakas, Chahamanas, Pratiharas and Chalukyas repeatedly repulsed many Arab attempts and prevented any further depredations on India.
+- In Central Asia the last remnants of the Gok Turks and later the Uighur Khanate defeated the Arabs and prevented any further encroachment. 
 
 These defeats are as striking as the initial expansions, especially given that after that the Arabs ceased to be a major military force.
 

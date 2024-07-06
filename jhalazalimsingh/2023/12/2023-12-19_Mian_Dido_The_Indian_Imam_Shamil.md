@@ -87,7 +87,7 @@ Joined by prominent Rajputs such as Mian Dharam Singh Raipuriah, Mian Ch’affu,
 
 The Gulabnama describes him thus
 
-> Mian Dido, a gallant and valiant man, took to highway robbery on > account of exuberance of chivalry. He had commenced plundering and > pillaging villages around Jammu. Moreover, he would often enter even > Jammu and fight with Sikh troops. Every one who encountered him was > dispossessed of his life and property. Such a course caused immense > disorder in administration……Whoever got wounded at his hands could not > survive
+> Mian Dido, a gallant and valiant man, took to highway robbery on > account of exuberance of chivalry. He had commenced plundering and > pillaging villages around Jammu. Moreover, he would often enter even > Jammu and fight with Sikh troops. Every one who encountered him was dispossessed of his life and property. Such a course caused immense disorder in administration……Whoever got wounded at his hands could not survive
 
 **Sikh Invasions**
 
@@ -103,16 +103,16 @@ The area was then given to Prince Kharak Singh as a jagir in 1811 and a multitud
 
 Ganeshi Lal too provides a description of Mian Dido’s activities
 
-> “a petty Jagirdar of Jugtee had not, however, allowed a peaceful > possession of his new conquests and was always plundering the country > with a large gang of followers, killing the Sikh officials and > functionaries and in short, had given Ranjit a great annoyance and > trouble.”
+> “a petty Jagirdar of Jugtee had not, however, allowed a peaceful > possession of his new conquests and was always plundering the country with a large gang of followers, killing the Sikh officials and functionaries and in short, had given Ranjit a great annoyance and trouble.”
 
 They employed numerous strategies including capturing local leaders and imprisoning them in Shekhupura fort. Some of these were subjected to brutal punishments, like Jara Langeh, accused of sheltering Mian Dido, who was summoned to Jammu by Diwan Bhawani Das and had his stomach incised on mere suspicion alone. Despite these brutal tactics failed and the Dogra rebellion persisted as it is put by the Gulabnama
 
-> “(*Gives a long list of Sikh commanders*) …who arrived continuously > with large troops, found themselves helpless in that affair.”
+> “(*Gives a long list of Sikh commanders*) …who arrived continuously with large troops, found themselves helpless in that affair.”
 
 A newsletter dated 15th December, 1814 (2rd Zihaj, 1229 A.H ) depicts the situation of Jammu when Ranjit Singh questioned Bhayya Ram Singh and Kanwar Kharak Singh about the district of Jammu.
 
-> “Ram Singh replied that ‘disturbance and unrest prevailed there’. > Reinforcements might have been despatched but things could not be > improved. >
-> On 26th August, 1815 Bhayia Ram Singh had to state that ‘the condition > of the district of Jammu was the same as before.”
+> “Ram Singh replied that ‘disturbance and unrest prevailed there’. Reinforcements might have been despatched but things could not be improved. >
+> On 26th August, 1815 Bhayia Ram Singh had to state that ‘the condition of the district of Jammu was the same as before.”
 
 **Mian Dido’s rebellious activities**
 
@@ -142,7 +142,7 @@ On the other occasion the Mian was imprisoned by the Sikh forces through tricker
 
 The situation of Mian Dido is aptly described in the Gulabnama
 
-> “Yet the Mian Dido affair aggravated day after day. The sword of his > valour sent a panic in the Khalsa army; and the more bloodshed they > perpetrated the more up flared the fire of rebellion. The war-like > Rajputs showed no fear of the authority of the Khalsa government.”
+> “Yet the Mian Dido affair aggravated day after day. The sword of his valour sent a panic in the Khalsa army; and the more bloodshed they perpetrated the more up flared the fire of rebellion. The war-like Rajputs showed no fear of the authority of the Khalsa government.”
 
 **The Proverb**
 
@@ -156,9 +156,9 @@ As his strength grew, Mian Dido intercepted a 'dali' of dry and fresh fruits sen
 
 As Ranjit Singh contemplated action against the rebel, a Dogra in his service by the name of Gulab Singh interjected, recounting a proverb about a fierce lion disturbed by a mouse nibbling at his whiskers when he was asleep. This man would eventually go on to write history playing a vital role in the Khalsa Kingdom before eventually founding his own dynasty. The Gulabnama of Diwan Kripa Ram describes the episode thus
 
-> At this the Sarkar's (Ranjit Singh) sense of honour was pricked so > that he started brooding over taking steps to suppress his rebellion. > At that time his Lordship (Gulab Singh) submitted, “There is proverb > that a fierce lion was once asleep when a mouse nibbed his moustaches. > The lion made several inroads to take revenge on him, But because of > its smallness he could not lay his hands on it. He therefore became > restless and gloomy. >
-> A cat, becoming aware of this affair said to the lion, ‘With all this > prowess and valour confined in your nature it would be below your > dignity to seek quarrel with such a trifling thing having no ability > to equal; and in fact no lionine valour is needed to take action > against it. If this meek cat is allowed she may possibly chastise it.’ >
-> The lion thus considered the worth of the cat a divine aid and > promised that if she relieved him of that anxiety he would set apart a > portion of flesh for her maintenance. As a mouse is a cat’s natural > hunt so she killed it in no time. In the same manner if the work of > doing away with Dido is entrusted to this humblest of the humble > servants, it will be readily accomplished.”
+> At this the Sarkar's (Ranjit Singh) sense of honour was pricked so > that he started brooding over taking steps to suppress his rebellion. > At that time his Lordship (Gulab Singh) submitted, “There is proverb > that a fierce lion was once asleep when a mouse nibbed his moustaches. The lion made several inroads to take revenge on him, But because of its smallness he could not lay his hands on it. He therefore became restless and gloomy. >
+> A cat, becoming aware of this affair said to the lion, ‘With all this > prowess and valour confined in your nature it would be below your dignity to seek quarrel with such a trifling thing having no ability to equal; and in fact no lionine valour is needed to take action against it. If this meek cat is allowed she may possibly chastise it.’ >
+> The lion thus considered the worth of the cat a divine aid and > promised that if she relieved him of that anxiety he would set apart a > portion of flesh for her maintenance. As a mouse is a cat’s natural hunt so she killed it in no time. In the same manner if the work of doing away with Dido is entrusted to this humblest of the humble servants, it will be readily accomplished.”
 
 Amused by Gulab Singh's eloquence, Ranjit Singh bestowed upon him the pair of shawls he was wearing (Khilats) and appointed him to lead the expedition against Mian Dido, accompanied by the Sardars Atar Singh Kalal, Jagat Singh Atariwala, and other prominent chiefs.
 
@@ -166,8 +166,8 @@ The tremendous impact of Mian Dido’s successful guerilla campaign can be ascer
 
 The “Qabuliat” reads:
 
-> “W-Dido mutmarrad-e-badkesh ra asir Karda hazir sazem weya-bKusham > w-ya az darya-e-Sutlej abur Karda Khwahem dad.” >
-> “and we undertake either to capture and send to the presence, Dido, > the recalcitrant, or kill him or drive him across the river Sutlej.”
+> “W-Dido mutmarrad-e-badkesh ra asir Karda hazir sazem weya-bKusham w-ya az darya-e-Sutlej abur Karda Khwahem dad.” >
+> “and we undertake either to capture and send to the presence, Dido, the recalcitrant, or kill him or drive him across the river Sutlej.”
 
 **Gulab Singh’s Strategy**
 
@@ -181,8 +181,8 @@ Gulab Singh and his men managed to reach the spot by mid-day and managed to take
 
 Despite his failure in the engagement it gave Gulab Singh vital experience and offered him a close look at the challenges encountered while facing rebels in a mountainous terrain. The Gulabnama vividly describes how Gulab Singh led by example and the hardships he endured
 
-> “As whole of the Lordship’s attention and valour had been directed > towards the suppression of enemies, he thought that cooking(*time > consuming and the smoke might alert the enemy*) might retard the > undertaking so he contented himself with eating half-parched wheat > picked up from harvested fields. Not stripping his weapons off his > body he used to sleep, ready for action, all the time. >
-> Such were the wonders of courage and endurance of his Lordship that > all through the period of suppression of disturbances and uprooting of > rebels which exceeded a year, he went to the battle everyday, and > never removed his weapons from his person even at night.”
+> “As whole of the Lordship’s attention and valour had been directed > towards the suppression of enemies, he thought that cooking(*time > consuming and the smoke might alert the enemy*) might retard the undertaking so he contented himself with eating half-parched wheat picked up from harvested fields. Not stripping his weapons off his body he used to sleep, ready for action, all the time. >
+> Such were the wonders of courage and endurance of his Lordship that all through the period of suppression of disturbances and uprooting of rebels which exceeded a year, he went to the battle everyday, and never removed his weapons from his person even at night.”
 
 The Gulabnama mentions two of Gulab Singh’s engagements with Dido in this earlier campaign. The second engagement involved a skirmish with Mian Dido and his men in the Dron hills where gunfire was exchanged for two hours. Eventually unable to hold their ground the rebels retreated to the hill-tops.
 
@@ -225,7 +225,7 @@ While this endeavour would have definitely impacted the logistical capabilities 
 
 Dido’s family too was actively sought by the government forces. A contingent was dispatched to Jagati, where Mian Dido’s elderly father Mian Hazari was present. A Sikh commander in the army Sardar Atar Singh urged him to surrender and lay down his arms in order for his life to be spared. The ageing Rajput in his nineties however stood his ground displaying valour characteristic of his race as he defiantly retorted to calls for surrender
 
-> “Don’t you know that to lay down life bravely under a sword is > thousand times preferable to fall crying in enemy hands?”
+> “Don’t you know that to lay down life bravely under a sword is thousand times preferable to fall crying in enemy hands?”
 
 When calls for surrender went unheard Atar Singh engaged in a duel with Mian Hazari where the latter was slain as a result of his infirmity. It is alleged by local ballads that after killing Dido’s father Atar Singh dismembered his body into four and transpired the pieces to each wall of his house.
 
@@ -245,7 +245,7 @@ On observing the movements of the Government forces Mian Dido realised that the 
 
 The Saint narrated a dream he had last night to Mian Dido attempting to induce the brave warrior to seek pardon and lay down his arms
 
-> “(it was) metaphorically revealed to me that the tree of your life was > uprooted, and the blossom of the everfresh rose of ‘Sri Devi-ji’ > bloomed afresh in the garden of Gulab Singh. For this reason I will > humbly advise you that if you deem life worthwhile seek protection and > turn to the divine blessings in the presence of that rose of eternal > spring.”
+> “(it was) metaphorically revealed to me that the tree of your life was > uprooted, and the blossom of the everfresh rose of ‘Sri Devi-ji’ > bloomed afresh in the garden of Gulab Singh. For this reason I will humbly advise you that if you deem life worthwhile seek protection and turn to the divine blessings in the presence of that rose of eternal spring.”
 
 Mian Dido however defiant as ever rejected the counsel of the Faquir emphasising that in no case he would seek anybody’s protection. Thus preparing for battle he headed fully equipped towards Chhat, where he found his passage blocked by Gulab Singh’s troops. Taking note of this Mian Dido attempted to break through the encirclement and leaving the path he attacked the enemy’s centre where the contingent of Jagat Singh Atariwala had stationed itself. Here he came face to face with the killer of his father Sardar Atar Singh Kalal whom he engaged in a duel. Sardar Atar Singh himself a seasoned fighter managed to strike Mian Dido on the head with his sword cutting a piece of noose tied around his head slightly scratching Dido’s skull.
 
@@ -257,13 +257,13 @@ Without a moment’s delay, he struck his adversary and in a single powerful blo
 
 Bravely smoking his huqa in the face of an overwhelming force of the enemy he dared Gulab Singh to engage him in a duel shouting
 
-> “Where is he ? So that in a duel in this battlefield we may prove our > manliness.”
+> “Where is he ? So that in a duel in this battlefield we may prove our manliness.”
 
 Unable to confront him directly and realising it was impossible to capture him alive, some of the Khalsa soldiers discharged their matchlocks as a result of which a bullet struck his throat eventually killing him. It was thus Mian Dido met his death near the Vaishno Devi temple, the paths to which he got repaired according to local legend during his annual visit during the Navratras.
 
 Gulab Singh was filled sorrow at the death of the rebel leader for Dido was not only a valiant commander but also his relative. The episode is depicted thus in the Gulabnama
 
-> “His Lordship felt distressed on the news of the death of such a brave > one; for he had set his heart on capturing him alive and to present > him before the Sarkar, and also because he was his relative, so his > death caused him much anguish.
+> “His Lordship felt distressed on the news of the death of such a brave one; for he had set his heart on capturing him alive and to present him before the Sarkar, and also because he was his relative, so his death caused him much anguish.
 
 **Winning Hearts and Minds**
 
@@ -271,8 +271,8 @@ But Gulab Singh’s campaign did not end with merely killing the rebel leaders a
 
 This decision earned Gulab Singh the loyalty of the sons of the very person his men had killed in battle. The Gulabnama narrates an incident where Gulab Singh after a forced march had halted at Yakamusi and headed for a desolate area with a view to hunt. In the hunt there arose a moment when the troopers accompanying him lagged behind as he chased the game alone. Only Mian Basant Singh, the eldest son of Mian Dido managed to keep up with Gulab Singh’s horse. What followed was as follows:
 
-> When they had travelled far from the guards he (Gulab Singh) removed > his own weapons and handed them over to the said Mian and declared, “O > Basant Singh ! Your illustrious father has been killed by me; and **a > Rajput is one who avenges his father’s blood**. Now I am without > weapon and removed far from my troops. What more favourable > opportunity you will get to avenge on me for the blood of your father > ?’’ >
-> On hearing these words the said Mian stood bewildered and submitted > humbly, “I am reared of the blessings of your benefactions. How such > an act can be done by me.” He thus let the weapons drop and himself > fell on his feet. Such manliness and trial of fortune is not possible > of the people at large
+> When they had travelled far from the guards he (Gulab Singh) removed > his own weapons and handed them over to the said Mian and declared, “O > Basant Singh ! Your illustrious father has been killed by me; and **a > Rajput is one who avenges his father’s blood**. Now I am without weapon and removed far from my troops. What more favourable opportunity you will get to avenge on me for the blood of your father ?’’ >
+> On hearing these words the said Mian stood bewildered and submitted > humbly, “I am reared of the blessings of your benefactions. How such an act can be done by me.” He thus let the weapons drop and himself fell on his feet. Such manliness and trial of fortune is not possible of the people at large
 
 Thanks for reading The Garuda Gazette ! Subscribe for free to receive new posts and support my work.
 

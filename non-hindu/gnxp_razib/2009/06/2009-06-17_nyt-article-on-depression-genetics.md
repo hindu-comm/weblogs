@@ -15,7 +15,7 @@ First, beginning with the title â€œReport on Gene for Depression Is Now Faultedâ
 
 Second, the critics of depression genetics make misleading points:
 
-> By contrast, she said, a major stressful event, like divorce, in > itself raised the risk of depression by 40 percent.
+> By contrast, she said, a major stressful event, like divorce, in itself raised the risk of depression by 40 percent.
 
 Stressful life events are themselves quite heritable.
 

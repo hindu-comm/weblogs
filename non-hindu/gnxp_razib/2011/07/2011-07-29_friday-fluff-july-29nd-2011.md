@@ -18,7 +18,7 @@ Friday Fluff – July 29nd, 2011
 
 3\) **Comment of the week**, in response to [“Smart educated men less likely to think cheating always wrong”](http://blogs.discovermagazine.com/gnxp/2011/07/smart-educated-men-less-likely-to-think-cheating-always-wrong/#comment-80147):
 
-> BTW – the most interesting bit in that chart is the difference between > atheists and agnostics. It makes sense when I think about it. To say > one is an atheist rather than an agnostic requires a level of > certainty towards ones beliefs. If there was a way to tease out > relativism I’d lay good odds more agnostics are relativists than > atheists are.
+> BTW – the most interesting bit in that chart is the difference between > atheists and agnostics. It makes sense when I think about it. To say > one is an atheist rather than an agnostic requires a level of certainty towards ones beliefs. If there was a way to tease out relativism I’d lay good odds more agnostics are relativists than atheists are.
 
 4\) And finally, your weekly **fluff fix**:
 
@@ -26,7 +26,8 @@ Friday Fluff – July 29nd, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - July 8th,
+- [Friday Fluff
+- July 8th,
   2011](https://www.gnxp.com/WordPress/2011/07/08/friday-fluff-july-8th-2011/) - [How common are godless
   liberals?](https://www.gnxp.com/WordPress/2012/02/24/how-common-are-godless-liberals/) - [Agnostics smarter than
   Atheists?](https://www.gnxp.com/WordPress/2007/02/16/agnostics-smarter-than-atheists/) - [Atheists who believe in

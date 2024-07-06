@@ -13,7 +13,8 @@ I generally skim only a few political/public policy weblogs via my RSS to get a 
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Blogging Heads, is it worth
   it?](https://www.gnxp.com/WordPress/2007/03/23/blogging-heads-is-it-worth-it/) - [The evolution of
   blogging](https://www.gnxp.com/WordPress/2009/07/02/the-evolution-of-blogging/) - [A note on "Science

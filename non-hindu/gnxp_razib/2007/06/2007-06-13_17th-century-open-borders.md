@@ -11,12 +11,12 @@ Source: [here](https://www.gnxp.com/WordPress/2007/06/13/17th-century-open-borde
 
 [Andrew Sullivan](http://andrewsullivan.theatlantic.com/the_daily_dish/2007/06/strawberry_fiel.html) says:
 
-> And lepers everywhere! I tell you: the nineteenth century was one > frigging amnesty after another. **And the seventeenth century! We had > no control of the borders whatsoever**.
+> And lepers everywhere! I tell you: the nineteenth century was one frigging amnesty after another. **And the seventeenth century! We had no control of the borders whatsoever**.
 
 This is a common perception that comes up over and over again. From [Albion’s Seed](https://www.amazon.com/exec/obidos/ASIN/0195069056//geneexpressio-20):
 
-> …The founders of Massachusetts, unlike rulers of other European > colonies, deliberately excluded an aristocracy from their ranking > system. >
-> At the same time, the leaders of Massachussets also **made a concerted > and *highly successful* effort to discourage immigration from the > bottom of English society**. They prohibited entry of convincted > felons (many of whom ahd been punished for crimes of poverty) and > place heavy impediments on the path of the migrant poor. A series of > poor laws were enacted in Massachusetts, which rules of settlement and > “warning out” that were even more strict than in England.
+> …The founders of Massachusetts, unlike rulers of other European colonies, deliberately excluded an aristocracy from their ranking system. >
+> At the same time, the leaders of Massachussets also **made a concerted > and *highly successful* effort to discourage immigration from the > bottom of English society**. They prohibited entry of convincted > felons (many of whom ahd been punished for crimes of poverty) and place heavy impediments on the path of the migrant poor. A series of poor laws were enacted in Massachusetts, which rules of settlement and “warning out” that were even more strict than in England.
 
 The author, David Hackett Fisher, argues that the character of various American regions, in particular New England, the Mid-Atlantic, and the lowland and upland South, was shaped in large part by the character of the British immigrant streams to each region. Whether you quibble with the details of his thesis, the general picture seems to be one where the initial parameters had a strong influence on the future course of events for centuries. In any case, the American colonies were not really characterized by “open borders” by any stretch of the imagination.
 

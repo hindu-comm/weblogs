@@ -47,7 +47,8 @@ But doing those sums is for another post.
 
 ### Related Posts:
 
-- [Ötzi - more Neandertal than the average
+- [Ötzi
+- more Neandertal than the average
   bear](https://www.gnxp.com/WordPress/2012/08/15/otzi-more-neandertal-than-the-average-bear/) - [The essence of the
   alien](https://www.gnxp.com/WordPress/2010/10/13/the-essence-of-the-alien/) - [Brazil, the case of triracial white
   people](https://www.gnxp.com/WordPress/2009/09/15/brazil-the-case-of-triracial-white-people/) - [Recent human evolution in the New

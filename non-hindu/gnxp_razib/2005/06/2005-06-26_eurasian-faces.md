@@ -33,7 +33,8 @@ Posted by razib at [08:49 PM](https://www.gnxp.com/MT2/archives/004119.html) [](
 
 ### Related Posts:
 
-- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/) - [The changing face of
+- [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/)
+- [The changing face of
   fame](https://www.gnxp.com/WordPress/2011/02/25/the-changing-face-of-fame/) - [The global human -
   II](https://www.gnxp.com/WordPress/2010/10/30/the-global-human-ii/) - [Not much
   evolution....](https://www.gnxp.com/WordPress/2006/02/04/not-much-evolution/) - [She So Hot](https://www.gnxp.com/WordPress/2009/09/04/she-so-hot/) - [Facial attractiveness and correlation vs.

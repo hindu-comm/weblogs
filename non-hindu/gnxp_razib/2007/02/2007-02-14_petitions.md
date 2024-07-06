@@ -22,7 +22,8 @@ Matt
 
 ### Related Posts:
 
-- [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/) - [Eating their
+- [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/)
+- [Eating their
   own](https://www.gnxp.com/WordPress/2005/07/28/eating-their-own/) - [Pausing research on autism (for
   now)](https://www.gnxp.com/WordPress/2021/09/29/pausing-research-on-autism-for-now/) - [Why I signed on "against Intelligent Design" as
   a…](https://www.gnxp.com/WordPress/2006/06/02/why-i-signed-on-against-intelligent-design-as-a-conservative/) - [Endings &

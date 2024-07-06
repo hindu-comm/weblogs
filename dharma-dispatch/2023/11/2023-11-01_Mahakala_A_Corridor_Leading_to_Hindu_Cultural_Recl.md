@@ -113,11 +113,11 @@ Subscribe
 
 WHO BETTER than Kalidasa to give us the scenic, vibrant, dynamic, lilting and above all, a *living, throbbing* portrait of the Ujjayini he not only saw but lived and experienced to the hilt? That he has chosen the cloud messenger (*Meghaduta*) to deliver Ujjayini to us tells us how he lovingly close he had held the city to his heart. The cloud-messenger, a great symbol, a kind of bridge separating divinity with mortality is a lasting metaphor of the Sanatana civilisation itself. Here is a sample of Kalidasa’s Ujjayini from *Meghaduta.*
 
-> *Though the road will be circuitous for you, set out for the north, do > not be averse to forming the acquaintance of the upper vaults of the > mountains of Ujjayini; and if you will not be charmed there with the > eyes of the town’s fair, with their outer corners tremulous and > dazzled by the flashes of the streaks of lightning, you would have > missed the fruit of existence itself.* >
-> *On reaching the country of Avanti… go to the city* \[Ujjayini\]*, > great by its opulence…the city… is a bright part of heaven borne down > to the earth by the remaining merit of those, who, after having lived > in heaven, have come down to the earth, because the stock of the > fruits of their virtuous deeds have run short.* >
-> *In the early mornings, the breeze from the Kshipra River, prolonging > the loud cooing of the cranes indistinctly sweet through intoxication, > fragrant being charged with the extremely pleasing smell of blow'n > lotuses, and agreeable to the body…* >
-> *And on seeing in crores, pearl-necklaces with precious stones forming > their central gems, conches, pearl-shells, emerald gems, dark-green > like young grass, with their shooting rays spread upwards, and pieces > of corals, arranged for sale in the marketplaces whereof, the oceans > appear to have only water left in them.* >
-> *With your size augmented by the smoke of the incense used for > perfuming hair and escaping through the lattices of the windows, and > welcomed with presents in the form of their dancing by the domestic > peacocks through fraternal affection, you will dispel the fatigue of > your journey enjoying the beauty therein: in its mansions, > sweet-smelling with flowers and marked with red lac applied to the > feet of graceful ladies.*
+> *Though the road will be circuitous for you, set out for the north, do > not be averse to forming the acquaintance of the upper vaults of the > mountains of Ujjayini; and if you will not be charmed there with the eyes of the town’s fair, with their outer corners tremulous and dazzled by the flashes of the streaks of lightning, you would have missed the fruit of existence itself.* >
+> *On reaching the country of Avanti… go to the city* \[Ujjayini\]*, > great by its opulence…the city… is a bright part of heaven borne down to the earth by the remaining merit of those, who, after having lived in heaven, have come down to the earth, because the stock of the fruits of their virtuous deeds have run short.* >
+> *In the early mornings, the breeze from the Kshipra River, prolonging the loud cooing of the cranes indistinctly sweet through intoxication, fragrant being charged with the extremely pleasing smell of blow'n lotuses, and agreeable to the body…* >
+> *And on seeing in crores, pearl-necklaces with precious stones forming > their central gems, conches, pearl-shells, emerald gems, dark-green like young grass, with their shooting rays spread upwards, and pieces of corals, arranged for sale in the marketplaces whereof, the oceans appear to have only water left in them.* >
+> *With your size augmented by the smoke of the incense used for > perfuming hair and escaping through the lattices of the windows, and > welcomed with presents in the form of their dancing by the domestic > peacocks through fraternal affection, you will dispel the fatigue of your journey enjoying the beauty therein: in its mansions, sweet-smelling with flowers and marked with red lac applied to the feet of graceful ladies.*
 
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F888d6684-e0d2-4971-a05a-2593a9837400_1024x1024.png)
 
@@ -125,19 +125,19 @@ WHO BETTER than Kalidasa to give us the scenic, vibrant, dynamic, lilting and ab
 
 AND THEN KALIDASA DESCRIBES the Mahakala Temple, true to his befitting mantle of being a glorious devotee of Shiva. First, he tells the cloud-messenger what to do *before* even setting foot into the temple.
 
-> *Ardently gazed upon by the Ganas, as one possessed of the complexion > of their master’s neck, you should visit the holy abode \[i.e., > temple\] of the husband of Chandi, Lord of the three worlds, the > gardens of which are shaken by the breezes from Gandhavati, redolent > of lotus-pollen and scented with perfumes…*
+> *Ardently gazed upon by the Ganas, as one possessed of the complexion > of their master’s neck, you should visit the holy abode \[i.e., temple\] of the husband of Chandi, Lord of the three worlds, the gardens of which are shaken by the breezes from Gandhavati, redolent of lotus-pollen and scented with perfumes…*
 
 But Kalidasa *insists* that the cloud should stay on to watch the evening unfold at the Mahakala Temple.
 
-> *On arriving at Mahakala, even though it be at another time than the > evening, you should stay there, O cloud, till the sun passes beyond > the range of sight. Serving the noble purpose of a drum at the evening > worship of Siva, you will obtain the full fruit of your moderately > deep thunderings.*
+> *On arriving at Mahakala, even though it be at another time than the > evening, you should stay there, O cloud, till the sun passes beyond the range of sight. Serving the noble purpose of a drum at the evening worship of Siva, you will obtain the full fruit of your moderately deep thunderings.*
 
 The metaphor of the cloud’s thunder as a *damaru* in service of Mahakala is highly evocative. And then we get a lovely picture of the Devadasis offering *Natya-Seva* to Mahakala, the Cosmic Dancer himself.
 
-> *…the dancing girls, with their waists jingling at the planting of > their feet while dancing, and with their hands fatigued by the > Chamaras gracefully waved and having their handles covered with the > lustre of gems, will cast side-glances at you like rows of bees.*
+> *…the dancing girls, with their waists jingling at the planting of their feet while dancing, and with their hands fatigued by the Chamaras gracefully waved and having their handles covered with the lustre of gems, will cast side-glances at you like rows of bees.*
 
 And then, Kalidasa describes Nataraja’s dance.
 
-> *Thereafter, at the commencement of Siva’s dance, resting in a round > form on the lofty forests of his arms possessing the twilight lustre > as red as the fresh-brown japa flower, do you remove the desire for > the wet elephant’s hide of the Lord of creatures. Your devotion is > then marked by Bhavani with her eyes steady owing to her inward > agitation being calmed down.*
+> *Thereafter, at the commencement of Siva’s dance, resting in a round > form on the lofty forests of his arms possessing the twilight lustre > as red as the fresh-brown japa flower, do you remove the desire for the wet elephant’s hide of the Lord of creatures. Your devotion is then marked by Bhavani with her eyes steady owing to her inward agitation being calmed down.*
 
 This is poetry and music and painting in verse. This is cultural inheritance authored by a talented laureate, a refined connoisseur (*rasika*) and a profound devotee.
 

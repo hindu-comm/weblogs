@@ -11,7 +11,7 @@ Peak Facebook?
 
 Three weeks ago I observed that Google trend data indicated that [Facebook had finally plateaued in its growth in the USA](http://blogs.discovermagazine.com/gnxp/2011/05/facebook-finally-plateaus-in-2011/). Today a [story on data](http://marketplace.publicradio.org/display/web/2011/06/13/am-facebook-loses-some-friends/?refid=0) from [Inside Facebook](http://www.insidefacebook.com/):
 
-> Facebook just lost a few faces. **Six million users in the U.S. > ditched their Facebook accounts last month.** And the number of people > using the site during the month of May also fell in Canada, Russia and > the U.K. That’s according to new data from a company called Inside > Facebook.
+> Facebook just lost a few faces. **Six million users in the U.S. > ditched their Facebook accounts last month.** And the number of people using the site during the month of May also fell in Canada, Russia and the U.K. That’s according to new data from a company called Inside Facebook.
 
 According to their data June 1st 2010 to June 1st 2011 Facebook grew \~20% in the USA, vs \~50% worldwide. There’s lots of room for growth in the rest of the world, but it may be that like the internet overall Facebook has hit its saturation point in the developed English speaking world. And I’m pretty happy with that. I get a lot fewer requests for annoying apps like “Mafia Wars.” Now that the novelty has worn off people are using the “social graph” tools of Facebook as background utilities (and since I have a set of “Facebook friends” who use [twitter](https://twitter.com), I suspect that that’s cannibalizing some of the stuff that would otherwise be posted to Facebook).
 

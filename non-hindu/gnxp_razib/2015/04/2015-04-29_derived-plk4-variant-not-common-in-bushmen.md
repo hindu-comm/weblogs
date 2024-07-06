@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2015/04/29/derived-plk4-variant-no
 
 Derived PLK4 variant not common in Bushmen
 
-> just read PLK4 association aneuplody paper by > [@rajivmccoy](https://twitter.com/rajivmccoy) > [@PetrovADmitri](https://twitter.com/PetrovADmitri) et al, was > interested and checked Khoe-San HGs: SNP freq only 1/38. >
-> — Pontus Skoglund (@pontus_skoglund) [April 29, > 2015](https://twitter.com/pontus_skoglund/status/593492339949236224)
+> just read PLK4 association aneuplody paper by [@rajivmccoy](https://twitter.com/rajivmccoy) [@PetrovADmitri](https://twitter.com/PetrovADmitri) et al, was interested and checked Khoe-San HGs: SNP freq only 1/38. >
+> — Pontus Skoglund (@pontus_skoglund) [April 29, 2015](https://twitter.com/pontus_skoglund/status/593492339949236224)
 
 I get sad when I read things like this in [Slate](http://www.slate.com/articles/technology/bitwise/2015/04/twitter_earnings_and_acquisitions_the_company_s_in_trouble_and_its_options.html), [Twitter at the Crossroads: The company knows it’s in trouble. And its options are bleak](http://www.slate.com/articles/technology/bitwise/2015/04/twitter_earnings_and_acquisitions_the_company_s_in_trouble_and_its_options.html). That’s because in **areas such as genomics so much of the cutting-edge discussion has moved to Twitter that you can be privy to information which was previously the purview of the “scientific 1%.”** Today for example I see the above from [Pontus Skoglund](https://twitter.com/pontus_skoglund).
 

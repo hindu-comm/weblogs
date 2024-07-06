@@ -11,8 +11,8 @@ Evolutionary game theory and international relations
 
 [![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/animal.jpg?resize=200%2C300)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/animal.jpg?resize=200%2C300)](https://www.amazon.com/exec/obidos/ASIN/0198526857/geneexpressio-20)[The North Korea Paradox: Why There Are No Good Options](https://www.nytimes.com/2017/04/17/world/asia/north-korea-nuclear-weapons-missiles-sanctions.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news):
 
-> Denny Roy, a political scientist who studies Asian security issues, > told me last fall that North Korea “intentionally employs a posture of > seemingly hyper-risk acceptance and willingness to go to war as a > means of trying to intimidate its adversaries.” >
-> This puts the world in a quandary: How could any outside threat > possibly exceed the risk that North Korea already takes on itself? How > could any concession remove the North Korean weakness that drives its > behavior?
+> Denny Roy, a political scientist who studies Asian security issues, told me last fall that North Korea “intentionally employs a posture of seemingly hyper-risk acceptance and willingness to go to war as a means of trying to intimidate its adversaries.” >
+> This puts the world in a quandary: How could any outside threat possibly exceed the risk that North Korea already takes on itself? How could any concession remove the North Korean weakness that drives its behavior?
 
 Basically North Korea is a weak state. Its only leverage is to hold the world hostage and act crazy. Unfortunate, but true.
 

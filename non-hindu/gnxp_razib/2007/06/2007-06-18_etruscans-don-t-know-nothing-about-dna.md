@@ -11,9 +11,9 @@ Etruscans – don't know nothing about DNA
 
 The [Etruscan origin](https://www.gnxp.com/blog/2007/03/etruscans-consensus.php) story is now in the news again after the lead researcher presented his findings that these ancient people show strong evidence of a genetic affinity with Anatolians at a conference. I put a [quick round up](http://scienceblogs.com/gnxp/2007/06/etruscans_follow_up.php) over at *ScienceBlogs*, but [this piece](http://www.latimes.com/news/nationworld/world/la-sci-etruscans18jun18,1,5297311.story?coll=la-headlines-world&track=crosspromo) in the *LA Times* is a bit disconcerting. Here are some archaeologists:
 
-> “I guess I would have to say that I am unconvinced at this stage,” > said archeologist Anthony Tuck of the University of Massachusetts at > Amherst, who is excavating an Etruscan site in Italy. “It is premature > to declare the issue resolved on our current understanding of this > genetic evidence.” >
-> Archeologist Jean Macintosh Turfa of the University of Pennsylvania’s > Museum of Archeology and Anthropology was more dismissive. “There is > really no sound archeological evidence that shows the influx of a big > migration, or any kind of influx, from Asia Minor,” she said. “There > is never a sharp break in cultures, no destroyed villages, etcetera.” >
-> Turfa and Tuck hold to the view that the Etruscans evolved from the > Villanovan culture, which emerged in central Italy. But the genetic > findings will force a harder look at the evidence about their origins.
+> “I guess I would have to say that I am unconvinced at this stage,” > said archeologist Anthony Tuck of the University of Massachusetts at Amherst, who is excavating an Etruscan site in Italy. “It is premature to declare the issue resolved on our current understanding of this genetic evidence.” >
+> Archeologist Jean Macintosh Turfa of the University of Pennsylvania’s > Museum of Archeology and Anthropology was more dismissive. “There is really no sound archeological evidence that shows the influx of a big migration, or any kind of influx, from Asia Minor,” she said. “There is never a sharp break in cultures, no destroyed villages, etcetera.” >
+> Turfa and Tuck hold to the view that the Etruscans evolved from the Villanovan culture, which emerged in central Italy. But the genetic findings will force a harder look at the evidence about their origins.
 
 I really hope that the reporter didn’t go quote mining until he found someone with a “dissenting” view, that’s just bad journalism. Let’s review the lines of evidence:
 

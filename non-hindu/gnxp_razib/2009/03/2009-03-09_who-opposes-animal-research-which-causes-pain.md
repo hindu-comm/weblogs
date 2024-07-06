@@ -11,7 +11,7 @@ Who opposes animal research which causes pain?
 
 As noted by a reader the [2008 GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) just came out. I noticed this variable, ANSCITST:
 
-> Scientists should be allowed to do research that causes pain and > injury to animals like dogs and chimpanzees if it produces new > information about human health problems. (Do you strongly agree, > agree, disagree, or strongly disagree?)
+> Scientists should be allowed to do research that causes pain and injury to animals like dogs and chimpanzees if it produces new information about human health problems. (Do you strongly agree, agree, disagree, or strongly disagree?)
 
 I checked a few demographics. Results below the fold. I had to label them because the font was so small (also, red = “Strongly Agree,” yellow = “Strongly Disagree”).
 

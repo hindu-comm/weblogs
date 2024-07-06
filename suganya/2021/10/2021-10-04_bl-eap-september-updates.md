@@ -33,7 +33,7 @@ And there was also a Noṇṭi nāṭakam, one of the minor literary forms that 
 
 We found a colophon in one of them (a copy of the Sundarakanda) that gives the date the copying work was done:
 
-> அக்ஷயவருஷம்அர்ப்பிசிமாஸம்8வெள்ளீகேஷமை72நஷிகைக்கியெழுததோங்கினதுவிழுப்புறம்அ > குப்புசாமிஅய்யங்கார்சுத்தலிகிதம்ஸுந்தரகாண்டம்-ஶ்ரீராமஜெயம்-உண்டாகவும்.
+> அக்ஷயவருஷம்அர்ப்பிசிமாஸம்8வெள்ளீகேஷமை72நஷிகைக்கியெழுததோங்கினதுவிழுப்புறம்அ குப்புசாமிஅய்யங்கார்சுத்தலிகிதம்ஸுந்தரகாண்டம்-ஶ்ரீராமஜெயம்-உண்டாகவும்.
 
 This corresponds to Friday 10^(th)of October, 1746!! But the same manuscript mentions the same Kuppucāmi Aiyaṅkār, and gives 1866 as the date. So it’s a little confusing. Was that a grandson? Is one the dates wrong (especially the older one)? Need to check all that!
 

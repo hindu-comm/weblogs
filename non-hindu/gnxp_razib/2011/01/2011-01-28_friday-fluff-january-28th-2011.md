@@ -17,7 +17,7 @@ Friday Fluff – January 28th, 2011
 
 3\) **Comment of the week**, in response to [Portlandia](http://blogs.discovermagazine.com/gnxp/2011/01/portlandia/#comment-57080):
 
-> Razib, is this post locally grown? And I know it’s organic but is it > \*certified\* organic?
+> Razib, is this post locally grown? And I know it’s organic but is it \*certified\* organic?
 
 4\) And finally, your weekly **fluff fix**:
 
@@ -25,7 +25,8 @@ Friday Fluff – January 28th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - July 8th,
+- [Friday Fluff
+- July 8th,
   2011](https://www.gnxp.com/WordPress/2011/07/08/friday-fluff-july-8th-2011/) - [Friday Fluff - July 1st,
   2011](https://www.gnxp.com/WordPress/2011/07/01/friday-fluff-july-1st-2011/) - [Friday Fluff - April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff – February 18th,

@@ -25,7 +25,7 @@ In this post, I examine a few *implausible* scenarios for the purpose of isolati
 
 The first few of these explorations are not intended to be realistic as much as they are illustrative of the relative importance of various factors. I learned from the exercises, at least, and hope you will, too.
 
-# Replacement Plus Pyramid?
+## Replacement Plus Pyramid?
 
 Before firing up the full demographic propagator machinery, let’s address a basic question that wasn’t obvious to me. What if a population having a strong demographic pyramid shape (young-heavy) suddenly began practicing replacement rates of reproduction. Would the pyramid shape force continued growth to produce ever-more babies despite operating at replacement rate?
 
@@ -47,7 +47,7 @@ So: replacement ultimately settles things, despite the inertia caused by the ini
 
 Incidentally, keeping the linear ramp going, so that 101 female babies succeed the 100 in the prior year, requires a TFR of 2.94. But the next year would require a small drop to 2.93, followed by a continuous (and nonlinear) drop to maintain this artificial linear structure. Without the continuous drop in fertility, the result would be a predictable exponential progression.
 
-# Baseline Reminder
+## Baseline Reminder
 
 Last week, I presented essentially six model outcomes based on two regional fertility trends (that imagined by the U.N. and my own creation) and three survival trends (U.N.’s optimistic ever-better; locking at 2023 values; a slow reversal in mirror fashion). For the purposes of this post, I will present results of the most extreme differences in this set to establish a semi-plausible range of possibilities, but breaking out by region this time (as defined in [last week’s post](https://dothemath.ucsd.edu/2024/06/peak-population-projections/)). Each cell contains three numbers: year of peak; peak in billions, and billions remaining in 2100 (this last number being highly dubious, as the model surely fails in all sorts of ways in a post-peak world).
 
@@ -62,7 +62,7 @@ For reference, today’s population in each region, in billions, is approximatel
 | Africa | Asia | Europe | Latin | N.A. | Oceania | World    |
 | 1.49   | 4.79 | 0.74   | 0.67  | 0.38 | 0.05    | **8.12** |
 
-# Replacement Now!
+## Replacement Now!
 
 The first experiment involves immediately (and rather artificially) locking TFR at a replacement value of 2.1 in three survival models (as described [last week](https://dothemath.ucsd.edu/2024/06/peak-population-projections/)). This gets at what the current age distribution has in store, neutralizing fertility as neither driving nor suppressing growth: what does *inertia alone* produce based on current age distributions?
 
@@ -74,7 +74,7 @@ A wrinkle here is that the way I compute survival folds in migration. Migration 
 
 My takeaway is that demographic inertia alone would keep population growing for at least two decades under replacement fertility conditions, and much longer if survival rates do not drop.
 
-# Lock It In!
+## Lock It In!
 
 Now we play a similar game but instead of locking TFR at a replacement value, we lock in regions to their pre-COVID fertility levels (2019 values). This leaves Africa rather high (4.4) whose resulting exponential growth overwhelms the eventual contraction in other places.
 
@@ -86,7 +86,7 @@ Africa runs away with it, in an unhinged (biophysically unrealistic) manner. Tha
 
 But let’s get real: this model can’t likely manifest in the **actual world**. In the U.N. survival case, Africa itself would hold over 10 billion, which is exceedingly unlikely to happen for many reasons. Not least of which I infer from [this U.N. report](https://unctad.org/news/covid-19-threat-food-security-africa):
 
-> From 2016 to 2018, Africa imported about 85% of its food from outside > the continent.
+> From 2016 to 2018, Africa imported about 85% of its food from outside the continent.
 
 On its own, the agriculturally-limited and resource-constrained continent is unlikely to support even the present-day population of 1.5 billion, given its current massive reliance on imported food. Some people object to the simple equation that food equals people. How about: not-food equals not-people? What can I say: we’re biophysically-dependent beings who expire after only a few weeks without food.
 
@@ -123,7 +123,7 @@ The point here is that the U.N. model for TFR evolution appears to follow drama-
 
 A final point before returning to scenarios: of all the defined regions, Africa has the lightest per-capita resource footprint, using energy as a proxy (see Table 3.5 in my [textbook](https://escholarship.org/uc/item/9js5291m#subsection.3.3.1)). The planet cares more about ecological impact than a count of humans, so that Africa can still be rising in population while pressure on Earth has already peaked and enters a relief phase. There’s my topic for next week.
 
-# Africa Accelerates
+## Africa Accelerates
 
 Let’s formulate a scenario for the “earliest plausible” peak in global population. To do this, we will use the mirror-reverse survival trends and my TFR evolution that allows current down-trends to continue for a bit before settling to stability. The *new* feature is allowing Africa to reduce its fertility rate as quickly as some countries (and regions) have exhibited in recent decades—as something that *could* happen.
 
@@ -145,7 +145,7 @@ I call this 2038 peak the “earliest plausible,” but I don’t *really* mean 
 
 Keep in mind that the same conditions resulting in lowered access to birth control would likely be accompanied by reduced access to medical care in general, so that both fertility and mortality could rise together in such a way as to prevent another population surge. This is how [Limits to Growth](https://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf) models typically went, which we can’t credibly condemn as being wrong.
 
-# Global Strife
+## Global Strife
 
 Time to be not-so-nice. All the models explored so far have been gentle in the sense that survival rates have been spared any dramatic declines as may happen in a pandemic or global resource war. I don’t produce the cases that follow in an effort to be *accurate* in any sense, but purse these cases because I have some tools and am willing to at least peek at various consequences. Conservative bodies are politically constrained to avoid the associated unpleasantness and outcry: you won’t see this sort of thing from U.N. demographers—in part due to an immense amount of uncertainty so that a model is almost pointless.
 
@@ -203,7 +203,7 @@ The resulting numbers are almost identical to the pandemic case, although the de
 
 Missing from this analysis is potential hardships such as famine brought on by disrupted agriculture: planting, fertilization, harvest, processing, distribution—all dependent on fossil fuels that may be hard to acquire in wartime and beyond. Also, in both of these “strife” cases, when the episode terminates, my model resumes the previous course as if nothing has happened. In reality, economic systems would be struggling, infrastructure (including cropland) would be destroyed, climate change would be worse, and ecological deterioration would be more advanced, so that we might not expect a blithe return to the previous trend. Just sayin’: lots can happen—including nuclear exchanges which could very quickly put peak population in the rear-view mirror in a less-than-desirable way.
 
-# Overall Lessons
+## Overall Lessons
 
 What do I take away from these explorations? Mainly, further validation that the second half of this century could change dramatically from the hundred-plus years preceding it—in a good way. Population could be in sustained decline, damaging economic systems predicated on growth would be tattered ghosts, ecologically destructive global supply chains—including industrial international agriculture—may no longer be the norm. In these circumstances the snazzy models we bandy about today may be effectively meaningless—completely out of context.
 

@@ -60,7 +60,8 @@ When I first began reading Brandon Sanderson 12 years ago I thought he was somew
 
 ### Related Posts:
 
-- [Open thread - August 8th,
+- [Open thread
+- August 8th,
   2010](https://www.gnxp.com/WordPress/2010/08/08/open-thread-2/) - [Open Thread - July 23rd,
   2010](https://www.gnxp.com/WordPress/2010/07/23/open-thread-july-23rd-2010/) - [Open thread,
   4/21/2013](https://www.gnxp.com/WordPress/2013/04/21/open-thread-4212013/) - [Open Thread -

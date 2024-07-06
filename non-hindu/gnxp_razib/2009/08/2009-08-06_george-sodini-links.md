@@ -13,7 +13,8 @@ George Sodini links
 
 ### Related Posts:
 
-- [Half Sigma](https://www.gnxp.com/WordPress/2006/06/26/half-sigma/) - [Fun with the GSS: Ghosts and
+- [Half Sigma](https://www.gnxp.com/WordPress/2006/06/26/half-sigma/)
+- [Fun with the GSS: Ghosts and
   IQ](https://www.gnxp.com/WordPress/2006/06/20/fun-with-the-gss-ghosts-and-iq/) - [Math Test](https://www.gnxp.com/WordPress/2007/08/14/math-test/) - [Two posts at Half Sigma, John McCain's daughter
   &…](https://www.gnxp.com/WordPress/2008/01/20/two-posts-at-half-sigma-john-mccain-s-daughter-rawls-human-biodiversity/) - [Which Americans do and don't accept
   evolution?](https://www.gnxp.com/WordPress/2008/01/26/which-americans-do-and-dont-accept-evolution/) - [Religious people are less

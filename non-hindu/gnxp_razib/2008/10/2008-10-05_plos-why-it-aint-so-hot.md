@@ -13,7 +13,8 @@ Read all about it, [When Open Access Fails](http://anthropology.net/2008/10/04/w
 
 ### Related Posts:
 
-- [PLOS One](https://www.gnxp.com/WordPress/2007/03/15/plos-one/) - [PLoS, does it
+- [PLOS One](https://www.gnxp.com/WordPress/2007/03/15/plos-one/)
+- [PLoS, does it
   suck?](https://www.gnxp.com/WordPress/2008/07/02/plos-does-it-suck/) - [Against Open
   Access???](https://www.gnxp.com/WordPress/2007/08/27/against-open-access/) - [Frank's RedHot
   Original](https://www.gnxp.com/WordPress/2007/05/01/franks-redhot-original/) - [Open Thread,

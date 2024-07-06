@@ -17,10 +17,10 @@ Saturday Stuff – October 8th, 2011
 
 3\) [Comment of the week](http://blogs.discovermagazine.com/gnxp/2011/10/political-correctness-in-1900-and-2000/comment-page-1/#comment-94216):
 
-> Frank Sweet’s “Legal History of the Color Line” is a good read on this > topic. One of Sweet’s arguments is that black leaders, particularly > Northeastern leaders, had a seminal role in the creation of an > artificial, fiat-defined African American ethnos. >
-> I think Sweet stresses the centrality of black leaders too much. They > were more in a reactive, rather than proactive position vis-a-vis > white racial codes and attitudes. But, still, a worthwhile read and > this is not his central point. >
-> The one drop rule wasn’t enforced effectively because the Jim Crow > system was not totalitarian, the funds for an effectively intrusive > bureucracy weren’t there. I think people are finally discussing the > many ways it was ignored in practice. I had relatives who were > remembered as “white colored men” in newspapers, and in one government > document from the 1930s was described as “white” with some black > ancestry. In other words, these are people who were legally and > socially white, they voted, their kids went to white schools, and they > married, but local memory knew that they had some African ancestry. My > father told me that as a child it was the equivalent of having a crazy > aunt in the family. >
-> I read an old article from the Richmond Times Dispatch, by Walter > Plecker, a colleague of Grant’s, and the VA state registrar of vital > statistics. In the article Plecker was complaining about Greene > County, and some other counties, I believe, midwives listing mixed > ancestry children as Mexican. On the face of it, Plecker was correct, > the kids obviously weren’t Mexican. But it shows how Plecker was > relatively powerless in the face of local ad hoc decisions on who was > non-black and who wasn’t. Unlike the Nazis, he was not operating in a > totalitarian system. I’ve never seen these Mexican birth certificates, > they are still closed per state laws. Plecker also made an infamous > list of surnames, you can find it online, of mixed-race families.
+> Frank Sweet’s “Legal History of the Color Line” is a good read on this topic. One of Sweet’s arguments is that black leaders, particularly Northeastern leaders, had a seminal role in the creation of an artificial, fiat-defined African American ethnos. >
+> I think Sweet stresses the centrality of black leaders too much. They were more in a reactive, rather than proactive position vis-a-vis white racial codes and attitudes. But, still, a worthwhile read and this is not his central point. >
+> The one drop rule wasn’t enforced effectively because the Jim Crow > system was not totalitarian, the funds for an effectively intrusive > bureucracy weren’t there. I think people are finally discussing the > many ways it was ignored in practice. I had relatives who were > remembered as “white colored men” in newspapers, and in one government > document from the 1930s was described as “white” with some black > ancestry. In other words, these are people who were legally and > socially white, they voted, their kids went to white schools, and they married, but local memory knew that they had some African ancestry. My father told me that as a child it was the equivalent of having a crazy aunt in the family. >
+> I read an old article from the Richmond Times Dispatch, by Walter > Plecker, a colleague of Grant’s, and the VA state registrar of vital > statistics. In the article Plecker was complaining about Greene > County, and some other counties, I believe, midwives listing mixed > ancestry children as Mexican. On the face of it, Plecker was correct, > the kids obviously weren’t Mexican. But it shows how Plecker was > relatively powerless in the face of local ad hoc decisions on who was > non-black and who wasn’t. Unlike the Nazis, he was not operating in a totalitarian system. I’ve never seen these Mexican birth certificates, they are still closed per state laws. Plecker also made an infamous list of surnames, you can find it online, of mixed-race families.
 
 4\) Your weekly **fluff fix**:
 
@@ -28,7 +28,8 @@ Saturday Stuff – October 8th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - October 29th,
+- [Friday Fluff
+- October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [Friday Fluff – February 25th,
   2011](https://www.gnxp.com/WordPress/2011/02/25/friday-fluff-february-25th-2011/) - [Post-Modernism and Stuff White People
   Like](https://www.gnxp.com/WordPress/2008/08/02/post-modernism-and-stuff-white-people-like/) - [Saturday Stuff - October 1st,

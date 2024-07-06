@@ -17,7 +17,7 @@ Since I support free speech, offensive speech, and engage in a fair amount of of
 
 But my old standby is **what do the data say?** Back when “trigger warnings” were in the news I noticed that there was a question in the [general social survey](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss14) about the removal of library books. There is a variable LIBMSLM which asks about an “anti-American Muslim clergymen’s book”:
 
-> If some people in your community suggested that a book he wrote which > preaches hatred of the United States should be taken out of your > public library, would you favor removing this book, or not.
+> If some people in your community suggested that a book he wrote which preaches hatred of the United States should be taken out of your public library, would you favor removing this book, or not.
 
 There are also similar questions about anti-religious books, militarist books, a book promoting homosexuality, and a book promoting racism. My question is simple: **what demographic groups support the removal of these books?** The detailed methods are at the end of this post (you should be able to replicate), but what I basically did is used a [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) to compare the effects of several variables at once in terms of predicting attitude toward book removal. The samples were limited to the year 2000 and later.
 

@@ -11,7 +11,7 @@ The American professoriate: godless liberals?
 
 In short, liberal, yes, but godless, far less so. [Religious Beliefs and Behavior of College Faculty](http://www.jewishresearch.org/PDFs2/FacultyReligion07.pdf):
 
-> Faculty are, however, not monolithic. There are divisions among > faculty ranks. Science and math faculty are the least religious in > belief and behavior. Business faculty are the most conservative and > most religious. **Humanities faculty, though the most politically > liberal, are not less religious than other faculty and on some > measures are more religious.** Faculty, while less religious than the > general population, are complex in their religiosity.
+> Faculty are, however, not monolithic. There are divisions among > faculty ranks. Science and math faculty are the least religious in > belief and behavior. Business faculty are the most conservative and > most religious. **Humanities faculty, though the most politically liberal, are not less religious than other faculty and on some measures are more religious.** Faculty, while less religious than the general population, are complex in their religiosity.
 
 Am I the only one who has had the experience of a non-science background friend who is surprised that I’m not terrified by the idea of fish genes being spliced into tomatoes? In other words, yes, a modern liberal arts education might make one more skeptical of conventional “mainstream” world-views, but that skepticism is often not complemented much with a commitment toward rational & empirical analysis of the issues at hand. So naturally intuitive morality with roots in our cognitive hardware kick in.  
 Most interesting figures below the fold….
@@ -22,7 +22,7 @@ Most interesting figures below the fold….
 ![fac1fig5.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/fac1fig5.jpg?resize=500%2C494)![fac1fig5.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/fac1fig5.jpg?resize=500%2C494)  
 The 19% of definitional (as opposed to identifed) atheists is probably an underestimate. From page 27:
 
-> We can conclude that those who did not answer are more likely to > answer that they do not believe in God. The overall proportion of > atheists among the faculty as a whole is actually more like 24% than > the 19% shown by those who answered affirmatively.
+> We can conclude that those who did not answer are more likely to answer that they do not believe in God. The overall proportion of atheists among the faculty as a whole is actually more like 24% than the 19% shown by those who answered affirmatively.
 
 ![fac1fig7.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/fac1fig7.jpg?resize=315%2C670)![fac1fig7.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/fac1fig7.jpg?resize=315%2C670)  
 ![fac1fig37.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/fac1fig37.jpg?resize=393%2C567)![fac1fig37.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/fac1fig37.jpg?resize=393%2C567)  

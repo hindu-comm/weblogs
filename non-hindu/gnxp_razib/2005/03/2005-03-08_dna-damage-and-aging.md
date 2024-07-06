@@ -27,7 +27,9 @@ Posted by rikurzhen at [09:53 PM](https://www.gnxp.com/MT2/archives/003722.html)
 
 ### Related Posts:
 
-- [Aging](https://www.gnxp.com/WordPress/2005/03/09/aging/) - [Ouroboros](https://www.gnxp.com/WordPress/2009/06/10/ouroboros/) - [The Aging
+- [Aging](https://www.gnxp.com/WordPress/2005/03/09/aging/)
+- [Ouroboros](https://www.gnxp.com/WordPress/2009/06/10/ouroboros/)
+- [The Aging
   Penis](https://www.gnxp.com/WordPress/2005/03/04/the-aging-penis/) - [Be safe and live
   long](https://www.gnxp.com/WordPress/2010/02/25/be-safe-and-live-long/) - [Beyond Belief
   2006](https://www.gnxp.com/WordPress/2006/11/26/beyond-belief-2006/) - [Youth is wasted on the

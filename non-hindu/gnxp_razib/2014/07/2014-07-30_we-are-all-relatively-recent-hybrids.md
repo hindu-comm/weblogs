@@ -13,7 +13,7 @@ We are all relatively recently admixed (OK, most)
 
 In the [comments below](http://www.unz.com/gnxp/mixed-race-babies-are-designer-babies/#comment-662274) in regards to mixed-race children:
 
-> “Designer baby”? How about “genetic experiment”? Like sitting all day > long, eating lots of sugar, etc., **mixed race offspring are > biological experiments we are doing on ourselves that *very seldom > happened among our ancestors in the environments of evolution*.** > Ideological certainty notwithstanding, we don’t know what most of the > biological consequences, good or bad, for mixed-race descendants are > going to be.
+> “Designer baby”? How about “genetic experiment”? Like sitting all day > long, eating lots of sugar, etc., **mixed race offspring are > biological experiments we are doing on ourselves that *very seldom > happened among our ancestors in the environments of evolution*.** Ideological certainty notwithstanding, we don’t know what most of the biological consequences, good or bad, for mixed-race descendants are going to be.
 
 On the one hand there is some truth in this is, insofar as contact between populations which are very genetically divergent was likely to be a rare event in the past. That is because even minimal gene flow between populations can homogenize between population genetic differences (population genetic theory usually gives 1 migrant per generation). Sustained contact between populations genetically and physically different to a magnitude which we would term racial probably required very specific events, such as trans-continental migrations, or the opening of virgin land due to deglaciation and demographic expansion from differing directions.
 

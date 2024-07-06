@@ -26,7 +26,7 @@ Here is a representativesample of what I’m talking about. The first section is
 > When he led them into battle,  
 > That beloved leader of men from Susa?  
 > *  
-> What matters here is that **Asia speaks through and by virtue of the > European imagination**, which is depicted as victorious over Asia, > that hostile “other” world beyond the seas….
+> What matters here is that **Asia speaks through and by virtue of the European imagination**, which is depicted as victorious over Asia, that hostile “other” world beyond the seas….
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/platotonato.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/platotonato.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0684827891/geneexpressio-20/ref=as_at?creativeASIN=0684827891&linkCode=w61&imprToken=ABv4xFaO9wCuk7R5lTWIOQ&slotNum=111)Said is quoting someone who lived in the **5th century BC.** What Aeschylus meant by “Asia” had a much different connotation than what we think of today. In part, the idea of a decadent civilization and the decline from more vigorous ages is a common theme in the ancient world, and the Romans in their turn depicted the Greeks as the Greeks had depicted the Persians.
 

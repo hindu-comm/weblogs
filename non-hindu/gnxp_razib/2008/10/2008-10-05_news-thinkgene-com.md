@@ -13,7 +13,8 @@ news.thinkgene.com
 
 ### Related Posts:
 
-- [news.thinkgene.com](https://www.gnxp.com/WordPress/2008/10/05/news-thinkgene-com/) - [Vitamin D deficiency & heart
+- [news.thinkgene.com](https://www.gnxp.com/WordPress/2008/10/05/news-thinkgene-com/)
+- [Vitamin D deficiency & heart
   disease](https://www.gnxp.com/WordPress/2008/06/12/vitamin-d-deficiency-heart-disease/) - [The decline of Digg, the rise of
   reddit](https://www.gnxp.com/WordPress/2011/12/27/the-decline-of-digg-the-rise-of-reddit/) - [Why some like it
   spicy?](https://www.gnxp.com/WordPress/2008/05/20/why-some-like-it-spicy/) - [Admin, etc.](https://www.gnxp.com/WordPress/2007/02/20/admin-etc/) - [Top 25 referral sites in 2011 to
@@ -27,7 +28,8 @@ news.thinkgene.com
 
 ### Related Posts:
 
-- [news.thinkgene.com](https://www.gnxp.com/WordPress/2008/10/05/news-thinkgene-com/) - [Vitamin D deficiency & heart
+- [news.thinkgene.com](https://www.gnxp.com/WordPress/2008/10/05/news-thinkgene-com/)
+- [Vitamin D deficiency & heart
   disease](https://www.gnxp.com/WordPress/2008/06/12/vitamin-d-deficiency-heart-disease/) - [The decline of Digg, the rise of
   reddit](https://www.gnxp.com/WordPress/2011/12/27/the-decline-of-digg-the-rise-of-reddit/) - [Why some like it
   spicy?](https://www.gnxp.com/WordPress/2008/05/20/why-some-like-it-spicy/) - [Admin, etc.](https://www.gnxp.com/WordPress/2007/02/20/admin-etc/) - [Top 25 referral sites in 2011 to

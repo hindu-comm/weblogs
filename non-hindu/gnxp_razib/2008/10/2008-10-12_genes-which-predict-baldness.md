@@ -11,11 +11,11 @@ Genes which predict baldness?
 
 [](https://www.gnxp.com/blog/uploaded_images/PH2008100601285-719029.jpg)[Male-pattern baldness susceptibility locus at 20p11](http://www.nature.com/ng/journal/vaop/ncurrent/abs/ng.255.html):
 
-> We conducted a genome-wide association study for androgenic alopecia > in 1,125 men and identified a newly associated locus at chromosome > 20p11.22, confirmed in three independent cohorts (n = 1,650; OR = > 1.60, P = 1.1 10-14 for rs1160312). The **one man in seven who harbors > risk alleles at both 20p11.22 and AR (encoding the androgen receptor) > has a sevenfold-increased odds of androgenic alopecia (OR = 7.12, P = > 3.7 10-15).**
+> We conducted a genome-wide association study for androgenic alopecia > in 1,125 men and identified a newly associated locus at chromosome > 20p11.22, confirmed in three independent cohorts (n = 1,650; OR = > 1.60, P = 1.1 10-14 for rs1160312). The **one man in seven who harbors risk alleles at both 20p11.22 and AR (encoding the androgen receptor) has a sevenfold-increased odds of androgenic alopecia (OR = 7.12, P = 3.7 10-15).**
 
 *ScienceDaily* has a somewhat amusing headline, [Baldness Gene Discovered: 1 In 7 Men At Risk](http://www.sciencedaily.com/releases/2008/10/081012164437.htm):
 
-> “I would presume male pattern baldness is caused by the same genetic > variation in non-caucasians,” said Richards, an assistant professor in > genetic epidemiology, “but we haven’t studied those populations, so we > can’t say for certain.”
+> “I would presume male pattern baldness is caused by the same genetic variation in non-caucasians,” said Richards, an assistant professor in genetic epidemiology, “but we haven’t studied those populations, so we can’t say for certain.”
 
 Well, the [SNP](http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=1160312) at 20p11 exhibits different frequencies of the alleles across the HapMap populations (Europeans are the outgroup to Africans and Asians, just as they are to a great extent on the phenotype). I was amused at the use of the term “risk,” I understand the technical reason, but it seems to make male pattern baldness seems like a much more problematic condition than it really is.  
 Update: [Genetic Future](http://scienceblogs.com/geneticfuture/2008/10/male_pattern_baldness_enters_t.php) has a [much more thorough post](http://scienceblogs.com/geneticfuture/2008/10/male_pattern_baldness_enters_t.php).

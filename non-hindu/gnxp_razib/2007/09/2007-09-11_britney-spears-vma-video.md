@@ -14,7 +14,8 @@ It’s science, bitch! Watch it [here](http://www.mtv.com/overdrive/?vid=173440)
 
 ### Related Posts:
 
-- [Britney Spears VMA video - uncut with special
+- [Britney Spears VMA video
+- uncut with special
   angles](https://www.gnxp.com/WordPress/2007/09/12/britney-spears-vma-video-uncut-with-special-angles/) - [Evolution of B.
   Spears](https://www.gnxp.com/WordPress/2008/01/17/evolution-of-b-spears/) - [A symbiotic social
   organism?](https://www.gnxp.com/WordPress/2007/10/08/a-symbiotic-social-organism/) - [Money can't buy Britney Spears

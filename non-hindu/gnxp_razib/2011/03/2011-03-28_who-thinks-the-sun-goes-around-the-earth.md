@@ -11,7 +11,7 @@ Who thinks the sun goes around the earth?
 
 My post [earlier today](http://blogs.discovermagazine.com/gnxp/2011/03/the-republican-fluency-with-science/) prompted a few emails about the bizarre result that a substantial minority of Americans accept that the sun goes around the earth. The [General Social Science](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) variable is EARTHSUN, and it asks:
 
-> Now, does the Earth go around the Sun, or does the Sun go around the > Earth?
+> Now, does the Earth go around the Sun, or does the Sun go around the Earth?
 
 The answers are “Earth around the Sun,” “Sun around the Earth,” and “Don’t Know.” A substantial minority of Americans answer \#2. What’s going on here? This isn’t something limited to America. The same question [has been asked internationally](http://www.nsf.gov/statistics/seind06/append/c7/at07-10.pdf). I’ve underlined the geocentrism/heliocentrism question below:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/earthsun.png?resize=599%2C226)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/earthsun.png?resize=599%2C226)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/earthsun.png)
@@ -24,7 +24,8 @@ Below is a side show generated from the GSS which measures reflexive geocentrism
 
 ### Related Posts:
 
-- [Friday Fluff - April 1st,
+- [Friday Fluff
+- April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Old people scientifically
   illiterate?](https://www.gnxp.com/WordPress/2008/07/10/old-people-scientifically-illiterate/) - [What Copernican
   Revolution?](https://www.gnxp.com/WordPress/2005/08/30/what-copernican-revolution/) - [And a Merry Christmas to

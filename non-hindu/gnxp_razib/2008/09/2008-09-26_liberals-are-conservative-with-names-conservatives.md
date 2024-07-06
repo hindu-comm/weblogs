@@ -11,8 +11,8 @@ Liberals are conservative with names; conservatives not really?
 
 [Of Names and Politics: The Palin Story](http://www.babynamewizard.com/archives/2008/9/of-names-and-politics-the-palin-story) (H/T [Statistical Modeling, Causal Inference, and Social Science](http://www.stat.columbia.edu/~cook/movabletype/archives/2008/09/blue_parents_wh.html)):
 
-> Characteristic blue state names: Angela, Catherine, Henry, Margaret, > Mark, Patrick, Peter and Sophie.  
-> Characteristic red state names: Addison, Ashlyn, Dakota, Gage, Peyton, > Reagan, Rylee and Tanner.
+> Characteristic blue state names: Angela, Catherine, Henry, Margaret, Mark, Patrick, Peter and Sophie.  
+> Characteristic red state names: Addison, Ashlyn, Dakota, Gage, Peyton, Reagan, Rylee and Tanner.
 
 I would like to see state-level data broken down on a finer grained level. After all, it could be that people in red states who give their children very conservative names are the most conservative, and inverted in the liberal states. But it’s a really interesting observation. Remember that on the grandest scale baby names vary [through random drift](http://www.abc.net.au/science/news/stories/s879314.htm).  
 Below the fold I’ve placed a map which shows the regions. I’ve reedited to fit within the ScienceBlogs space limitations. You can find the original at [Baby Name Wizard](http://www.babynamewizard.com/).

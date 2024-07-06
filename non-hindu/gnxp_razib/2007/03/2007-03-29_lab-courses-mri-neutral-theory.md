@@ -13,7 +13,7 @@ RPM [has a long post about the importance of lab courses](http://scienceblogs.co
 
 **Update:** From the author of the original post (in the comments):
 
-> Actually, I don’t advocate doing away with undergraduate labs. > Undergraduate labs, done well, can be valuable and are essential in > training undergraduate majors in the sciences. What I argue is that > the attitude prevailing at many institutions that every or most theory > classes needs a corresponding lab keeps science departments from being > able to teach classes that would be of great value to students, > especially non-majors.
+> Actually, I don’t advocate doing away with undergraduate labs. > Undergraduate labs, done well, can be valuable and are essential in > training undergraduate majors in the sciences. What I argue is that > the attitude prevailing at many institutions that every or most theory classes needs a corresponding lab keeps science departments from being able to teach classes that would be of great value to students, especially non-majors.
 
 **Update II:** Also, I’d be remiss in not pointing to RPM’s excellent [intro post](http://scienceblogs.com/evolgen/2007/03/neutral_expectations.php#more) to Neutral Theory (check out the graphs!).
 

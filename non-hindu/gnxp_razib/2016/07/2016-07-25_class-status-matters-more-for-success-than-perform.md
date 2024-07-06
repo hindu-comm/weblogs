@@ -15,8 +15,8 @@ One of Taleb’s hobby-horses in [Fooled by Randomness](https://www.amazon.com/F
 
 So consider this from *The Wall Street Journal*, [Best-Paid CEOs Run Some of Worst-Performing Companies](http://www.wsj.com/articles/best-paid-ceos-run-some-of-worst-performing-companies-1469419262?mod=e2tw):
 
-> The analysis, from corporate-governance research firm MSCI, examined > the pay of some 800 CEOs at 429 large and midsize U.S. companies > during the decade ending in 2014, and also looked at the total > shareholder return of the companies during the same period. >
-> MSCI found that \$100 invested in the 20% of companies with the > highest-paid CEOs would have grown to \$265 over 10 years. The same > amount invested in the companies with the lowest-paid CEOs would have > grown to \$367. The report is expected to be released as early as > Monday.
+> The analysis, from corporate-governance research firm MSCI, examined the pay of some 800 CEOs at 429 large and midsize U.S. companies during the decade ending in 2014, and also looked at the total shareholder return of the companies during the same period. >
+> MSCI found that \$100 invested in the 20% of companies with the > highest-paid CEOs would have grown to \$265 over 10 years. The same amount invested in the companies with the lowest-paid CEOs would have grown to \$367. The report is expected to be released as early as Monday.
 
 The [original report](https://www.msci.com/documents/10199/91a7f92b-d4ba-4d29-ae5f-8022f9bb944d) is also online. There are other studies which support this conclusion. The correlation between CEO pay and firm performance is relatively weak to non-existent.
 

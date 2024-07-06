@@ -11,13 +11,13 @@ A Neandertal genome in two years?
 
 This week’s Nature has [an article](http://www.nature.com/nature/journal/v444/n7117/abs/nature05336.html) from Svante Paabo’s group analysing the first megabase (1 million base pairs) of sequence from the Neandertal genome. Coming out later this week in Science will be an article from a competing/collaborating group which is looking to accomplish the same goals using a different technique. So the Neandertal Genome Project(s) is well on its way:
 
-> In view of that prospect, we have recently initiated a project that > aims at achieving an initial draft version of the Neanderthal genome > within two years.
+> In view of that prospect, we have recently initiated a project that aims at achieving an initial draft version of the Neanderthal genome within two years.
 
 But a million base pairs is still quite a bit (though the human genome is around 3.3 billion bases); is there anything of major biological interest in this paper?
 
 I’d argue no, this is essentially a proof of priniciple– they’ve shown that ancient DNA can be sequenced in a large-scale, feasible way. But there are some tantalizing hints of what’s to come:
 
-> \[T\]his high level of derived alleles in the Neanderthal is > incompatible with the simple population split model estimated in the > previous section, given split times inferred from the fossil record. > This may suggest gene flow between modern humans and Neanderthals. > Given that the Neanderthal X chromosome shows a higher level of > divergence than the autosomes (R.E.G., unpublished observation), gene > flow may have occurred predominantly from modern human males into > Neanderthals. More extensive sequencing of the Neanderthal genome is > necessary to address this possibility.
+> \[T\]his high level of derived alleles in the Neanderthal is > incompatible with the simple population split model estimated in the > previous section, given split times inferred from the fossil record. > This may suggest gene flow between modern humans and Neanderthals. > Given that the Neanderthal X chromosome shows a higher level of > divergence than the autosomes (R.E.G., unpublished observation), gene flow may have occurred predominantly from modern human males into Neanderthals. More extensive sequencing of the Neanderthal genome is necessary to address this possibility.
 
 ### Related Posts:
 

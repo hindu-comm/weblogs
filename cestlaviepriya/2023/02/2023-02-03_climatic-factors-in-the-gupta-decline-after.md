@@ -17,7 +17,10 @@ Decline of an empire is never a linear process and involves complex to and fro o
 
 Table of Contents & Links
 
-- **[Introduction](#Introduction)** - **[The Paradox](#Paradox)** - **[Palaeoclimatology](#Palaeoclimatology)** - **[Correlation with the Dark Ages Cold
+- **[Introduction](#Introduction)**
+- **[The Paradox](#Paradox)**
+- **[Palaeoclimatology](#Palaeoclimatology)**
+- **[Correlation with the Dark Ages Cold
   Period](#Dark-Ages-Cold-Period)** - **[Floods in the Eastern Regions of the Gupta Empire](#Floods)** - **[The Nile Flood Data](#Nile)** - **[Climatic Factor in the Hunnic Movements](#Hunnic-Movements)** - **[Volcanic Eruptions](#Volcanic-Eruptions)** - **[Cosmic Body: A Possibility](#Cosmic-Body)** - **[Indian Literary Sources](#Literary-Sources)** - **[Conclusion](#Conclusion)** - **[Notes](#Notes)** - **[Bibliography](#Bibliography)**
 
 **§ Introduction**
@@ -56,7 +59,7 @@ Even considering these issues, there is however no doubt that in the later-Gupta
 
 There is no doubt that this trade had relatively declined but some scholars like Thakur, Kennet etc. question the level of importance that is given to the external, particularly Roman trade and its role in affecting the Indian economy extensively. Thakur points out that if this was the sole determinant of urban growth then how these towns emerged to prominence in the 7^(th)-6^(th) century BCE (Thakur, 1992: 98). And he is of the opinion that this also goes against the internal dynamism of the Indian system. This also would not be the first time when Roman trade in India was on the decline. Similar situation had arose with the Antonine Plague of the mid-to-late second century. Kennet is also of the opinion that there has been too much emphasis on Roman trade and its economic significance to the exclusion of trade with other regions. The trade with Western Asiatic countries like Iraq, Iran and Arabia was at least as significant, if not more to the Early Historic and Early Medieval economy of India. This is proved by the high proportions of Western Asiatic pottery on sites along the west coast and inland India as well as large quantities of Indian pottery on sites of this date in the Gulf (Kennet, 2013: 349).
 
-> **Analysis of the local trade networks in the Early Historic Period in > the subcontinent shows that the over-all impact of long distance > exchange on its socio-political constructs may be over estimated, > especially in case of exotic commodities**. >
+> **Analysis of the local trade networks in the Early Historic Period in the subcontinent shows that the over-all impact of long distance exchange on its socio-political constructs may be over estimated, especially in case of exotic commodities**. >
 > **(Smith, 2002)**
 
 However, this does not mean that it was a smooth road in the later-Gupta and the Early Medieval period. As stated before, this period seems to signal transition at the very least and decline at the worst. What it definitely shows is a period of instability. Kennet is right in his assessment when he concludes that the urban decline may not have been as abrupt or as absolute as believed, but the evidence suggests that this was, nonetheless, a difficult and unstable period. He defines it by three main features – first, coin deposition in occupied areas was dramatically reduced that lead excavators to date late Early Historic layers too early. Second, many sites declined in size that lead to many excavation trenches being located in the abandoned areas once occupied by larger Early Historic sites. And third, the centres of many towns shifted that lead excavators to fail to locate medieval occupation buried under modern settlement (Kennet, 2013: 348). All the points mentioned by the scholar points to some significant and fundamental structural changes. So what was the cause of this instability, that too for such a long period? If external trade could not have played a major role in it, then what explains the phenomenon? This is where analyzing climatic factor becomes even more important.

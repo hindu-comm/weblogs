@@ -15,7 +15,7 @@ Whilst it’s obviously not Hanuman Jayanti at present … I’d just received t
   
 The English-language original may be found here:  
 
-> [Hanuman Jayanti : The Indo-European Situation Of The > Striker/Thunderer Deific In > ApelikeForm](https://aryaakasha.com/2021/04/27/hanuman-jayanti-the-indo-european-situation-of-the-striker-thunderer-deific-in-apelike-form/)
+> [Hanuman Jayanti : The Indo-European Situation Of The Striker/Thunderer Deific In ApelikeForm](https://aryaakasha.com/2021/04/27/hanuman-jayanti-the-indo-european-situation-of-the-striker-thunderer-deific-in-apelike-form/)
 
 We would also direct interested parties to some of our more recent work wherein Hanuman in relation to the Sky Father deific complex – specifically, an Emanation of Rudra – is considered in more detail. But more upon that elsewhere.
 

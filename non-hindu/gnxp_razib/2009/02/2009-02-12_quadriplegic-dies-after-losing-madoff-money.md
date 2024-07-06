@@ -11,7 +11,7 @@ Quadriplegic dies after losing Madoff money
 
 [Daughter blames dad’s death on Madoff scheme](http://www.njjewishnews.com/njjn.com/021209/njDaughterBlamesDadsDeath.html):
 
-> “He used to go to a wound clinic for bedsores,” she told NJJN. “After > he found out \[about his financial losses\], he wouldn’t go. Then he > developed double pneumonia. He needed 24-hour care. It took at least > \$200,000 a year just to keep him alive.”
+> “He used to go to a wound clinic for bedsores,” she told NJJN. “After he found out \[about his financial losses\], he wouldn’t go. Then he developed double pneumonia. He needed 24-hour care. It took at least \$200,000 a year just to keep him alive.”
 
 Pretty straightforward, and not surprising. Among the thousands of investors who lost money because of Bernie there are surely others in similar circumstances who will suffer shorter life expectancies. This is why Bernie should be locked up forever.
 

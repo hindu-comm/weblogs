@@ -11,7 +11,8 @@ Kanye West is a gay fish
 
 ### Related Posts:
 
-- [Kanye West is a gay fish - full
+- [Kanye West is a gay fish
+- full
   version](https://www.gnxp.com/WordPress/2009/04/13/kanye-west-is-a-gay-fish-full-version/) - [Vatican official not gay - not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/) - [The vast majority of Muslims believe that being gay is
   not…](https://www.gnxp.com/WordPress/2017/04/02/the-vast-majority-of-muslims-believe-that-being-gay-is-not-morally-acceptable/) - [Gay sheep, forbidden

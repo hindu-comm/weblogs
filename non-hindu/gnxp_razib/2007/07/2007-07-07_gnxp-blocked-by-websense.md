@@ -11,7 +11,7 @@ GNXP blocked by Websense
 
 From a reader:
 
-> I thought you might find this interesting and sad. I tried to log on > to gnxp from work yesterday- web access was blocked by Websense > (cisco) – reason- racial hatred. A pathetic sign of the times. Luckily > I have a 3g capable smartphone so I was able to log on. But that > really sucks. BTW instapundit was also blocked – reason – weapons. PC > = damnation!
+> I thought you might find this interesting and sad. I tried to log on > to gnxp from work yesterday- web access was blocked by Websense > (cisco) – reason- racial hatred. A pathetic sign of the times. Luckily I have a 3g capable smartphone so I was able to log on. But that really sucks. BTW instapundit was also blocked – reason – weapons. PC = damnation!
 
 ### Related Posts:
 

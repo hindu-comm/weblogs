@@ -13,10 +13,10 @@ Carl Zimmer profile of the Reich group at work
 
 The last few paragraphs are pretty tantalizing:
 
-> As of last month, Dr. Reich’s team has published about three-quarters > of all the genome-wide data from ancient human remains in the > scientific literature. But the scientists are only getting started. >
-> They also have retrieved DNA from about 3,000 more samples. And the > lab refrigerators are filled with bones from 2,000 more denizens of > prehistory. >
-> Dr. Reich’s plan is to find ancient DNA from every culture known to > archaeology everywhere in the world. Ultimately, he hopes to build a > genetic atlas of humanity over the past 50,000 years. >
-> “I try not to think about it all at once, because it’s so > overwhelming,” he said.
+> As of last month, Dr. Reich’s team has published about three-quarters of all the genome-wide data from ancient human remains in the scientific literature. But the scientists are only getting started. >
+> They also have retrieved DNA from about 3,000 more samples. And the lab refrigerators are filled with bones from 2,000 more denizens of prehistory. >
+> Dr. Reich’s plan is to find ancient DNA from every culture known to archaeology everywhere in the world. Ultimately, he hopes to build a genetic atlas of humanity over the past 50,000 years. >
+> “I try not to think about it all at once, because it’s so overwhelming,” he said.
 
 Three years ago I was having a discussion with someone from Reich’s group and mentioned offhand that in terms of **getting data** I give the nod to Eske Willerslev’s group of researchers, though I thought the people around David and Nick Patterson tended to perform a deeper analysis. Three years is a long time, and as the results since then have shown, the “SNP capture” methodology is very cost effective. They might not get the whole genome sequences of individuals, but they get lots of individuals. And for a lot of population genomic analysis, you want lots of individuals more than the whole genome sequence.
 

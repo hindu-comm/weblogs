@@ -11,7 +11,7 @@ Women are more fundamentalist because they are more religious
 
 A comment below asks:
 
-> Well, good for you for getting me to click through by using an > interesting post title. But how do you know women who “know god > exists” aren’t assuming a female god?
+> Well, good for you for getting me to click through by using an interesting post title. But how do you know women who “know god exists” aren’t assuming a female god?
 
 In a vacuum of all knowledge about this sort of topic this is a reasonable question. But there’s plenty of social science data showing that American women tend to be more religiously conservative & “orthodox” as a whole than men (in contrast to female ministers or rabbis, who are more likely to be progressive than their male counterparts from what I gather). But I decided to see how textually “conservative” men and women were who “know God exists” (a subset of the population) were in relation to each other. Data below….
 

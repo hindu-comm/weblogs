@@ -501,7 +501,7 @@ Subscribe
 
 IT WAS THE SO-CALLED KHILAFAT MOVEMENT that truly revived this project. The scholar Mumtaz Ahmad in *The Jamaat-i-Islami and the Tablighi Jamaat of South Asia*, observes that “the beneficiary of the Khilafat movement was not only Jinnah \[but also\] … Maulana Ilyas (the founder of the Tablighi Jamaat).” To this, Sita Ram Goel adds,
 
-> …the most important beneficiary of the Khilafat…. \[was\] the > Jamiat-ul-Ulama-i-Hind which really fathered the Tablighi Jamaat and… > still supplies most of its leaders to the latter. **The Jamiat can > also take credit for Islamicizing the Indian National Congress.** > (Emphasis added) ****
+> …the most important beneficiary of the Khilafat…. \[was\] the > Jamiat-ul-Ulama-i-Hind which really fathered the Tablighi Jamaat and… still supplies most of its leaders to the latter. **The Jamiat can also take credit for Islamicizing the Indian National Congress.** (Emphasis added) ****
 
 In 1926, the selfsame Maulana Mohammad Ilyas started the Tablighi Jamaat at Basti Nizamuddin in Delhi and began the *Daawa* missionary work in Mewat — the place now known as Nuh.
 

@@ -22,9 +22,9 @@ The audacity is the tacit assertion that the idea of the Muslim world is somethi
 
 Let me quote in full a few portions of the last chapter:
 
-> **Simplistic and ahistorical frameworks** of European empires vesus > non-European subaltern colonized masses must be scrapped and replaced > with the history of the world as it actuall existed…. >
-> …Critically they \[Muslims\] talked to each other, all over the world, > and to non-Muslim Asians and Africans, about solidarity against > imperial domination, racism, **patriarchy**, and economic > exploitation…. >
-> …By decolonizing (and perhaps deconstructing) our categories and > conceptions of religion, civilization, and the world order, we can > better confront the rising anti-Muslim racism in Europe and the United > States and work in solidarity to tackkle the ongoing crsis of the > **unjust global order**.
+> **Simplistic and ahistorical frameworks** of European empires vesus non-European subaltern colonized masses must be scrapped and replaced with the history of the world as it actuall existed…. >
+> …Critically they \[Muslims\] talked to each other, all over the world, and to non-Muslim Asians and Africans, about solidarity against imperial domination, racism, **patriarchy**, and economic exploitation…. >
+> …By decolonizing (and perhaps deconstructing) our categories and > conceptions of religion, civilization, and the world order, we can better confront the rising anti-Muslim racism in Europe and the United States and work in solidarity to tackkle the ongoing crsis of the **unjust global order**.
 
 After having read the book I was a bit surprised that the author wants us to move beyond the simplistic dichotomy between European and non-European, because to a great extent the book operates within that framework. Since this workseems in the tradition of [postcolonialism](https://en.wikipedia.org/wiki/Postcolonialism), that makes sense. The argument that I see at the heart of the book is that the “imagined Muslim world” (a phrase the author uses repeatedly) emerged as a response to the intrusion of European imperialism and that Islamic solidarity precipitated out of the context of a rising ideology of white supremacy which racialized Muslims as colored people.
 

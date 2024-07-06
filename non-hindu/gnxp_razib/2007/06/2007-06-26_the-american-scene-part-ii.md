@@ -13,7 +13,8 @@ The American Scene – part II
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Daniel Larison & the
   Doppelganger](https://www.gnxp.com/WordPress/2007/01/16/daniel-larison-the-doppelganger/) - [Hagarism, revision, and everything we think is wrong
   (?)](https://www.gnxp.com/WordPress/2009/11/19/hagarism-revision-and-everything-we-think-is-wrong/) - [Do you like the sound of your own

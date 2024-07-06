@@ -25,7 +25,11 @@ Before we get going on practical matters, let me share the results of a survey q
 
 *Approximately how far have humans traveled from the surface of the Earth in your lifetime? \[e.g., since 1980 or so\]*
 
-- a\) 600 km (low Earth orbit, 0.1 times the Earth radius) - b\) 6,000 km (about the radius of the Earth) - c\) 36,000 km (geosynchronous orbit; about 6 Earth radii) - d\) 385,000 km (about the distance to the Moon; 60 Earth radii) - e\) beyond the Moon
+- a\) 600 km (low Earth orbit, 0.1 times the Earth radius)
+- b\) 6,000 km (about the radius of the Earth)
+- c\) 36,000 km (geosynchronous orbit; about 6 Earth radii)
+- d\) 385,000 km (about the distance to the Moon; 60 Earth radii)
+- e\) beyond the Moon
 
 I make the question visual, which you can do as well. Start with a standard Earth globe (12inch or 30cm diameter). The first answer is 0.6 inches (1.5 cm) from the surface, followed by 6inches (15cm), then a yard (meter), then 30feet (9m) for the Moon. Take a minute to picture this.
 

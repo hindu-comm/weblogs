@@ -17,7 +17,7 @@ I did end up reading[In Gods We Trust](https://www.amazon.com/exec/obidos/ASIN/0
 
 So I was surprised to see this [comment](https://www.gnxp.com/WordPress/2017/04/25/dost-thou-know-the-equilibrium-at-panmixia/#comment-905):
 
-> I’ll give it a go. I tried starting with Principles of Population > Genetics but found it heavy going (**Ive only been reading here for a > few years and mainly got into it for the posts about religion**, but > the genetics stuff is quite interesting)
+> I’ll give it a go. I tried starting with Principles of Population Genetics but found it heavy going (**Ive only been reading here for a few years and mainly got into it for the posts about religion**, but the genetics stuff is quite interesting)
 
 I suppose I still write about religion enough that that might hook some people. Though honestly I don’t have anything original to say…it’s just that much of mainstream commentary strikes me as totally dumb and uninformed.
 

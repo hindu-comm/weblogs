@@ -13,7 +13,8 @@ If you have problems getting Ubuntu Hardy Heron to work properly, I strongly rec
 
 ### Related Posts:
 
-- [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/) - [Jaunty Jackalope
+- [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/)
+- [Jaunty Jackalope
   Ubuntu](https://www.gnxp.com/WordPress/2009/04/29/jaunty-jackalope-ubuntu/) - [Windows
   Vista](https://www.gnxp.com/WordPress/2008/01/13/windows-vista/) - [Manjoo on
   Ubuntu](https://www.gnxp.com/WordPress/2008/10/25/manjoo-on-ubuntu/) - [Desktop linux will never happen for the

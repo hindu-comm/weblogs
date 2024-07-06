@@ -15,7 +15,7 @@ Yet I remain firmly in the grip of modern ways. I am still a member of “normal
 
 When reading the book [*Hospicing Modernity*](https://www.penguinrandomhouse.com/books/675703/hospicing-modernity-by-vanessa-machado-de-oliveira/), by Vanessa Machado de Oliveira, I came across this great analogy:
 
-> There is a popular saying in Brazil that illustrates this insight > using water… The saying goes that in a flood situation, it is only > when the water reaches people’s hips that it becomes possible for them > to swim. Before that, with the water at our ankles or knees, it is > only possible to walk or to wade. In other words, we might only be > able to learn to swim—that is, to exist differently—once we have no > other choice.
+> There is a popular saying in Brazil that illustrates this insight > using water… The saying goes that in a flood situation, it is only > when the water reaches people’s hips that it becomes possible for them > to swim. Before that, with the water at our ankles or knees, it is only possible to walk or to wade. In other words, we might only be able to learn to swim—that is, to exist differently—once we have no other choice.
 
 I instantly had a new friend in this metaphor. In fact, it filled a gaping hole that had been present for many years. Sure, I could flop down and try to swim right now, but I would look a fool floundering in the muddy water. Yet, I can help *prepare* myself and others for the day when we must swim.
 

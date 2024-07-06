@@ -12,7 +12,7 @@ Developmental cell biology of ASPM
 [  
 Aspm specifically maintains symmetric proliferative divisions of neuroepithelial cells](http://www.pnas.org/cgi/content/abstract/0604066103v1):
 
-> …Our results demonstrate that Aspm is crucial for maintaining a > cleavage plane orientation that allows symmetric, proliferative > divisions of NE cells during brain development. These data provide a > cell biological explanation of the primary microcephaly observed in > humans with mutations in ASPM, which also has implications for the > evolution of mammalian brains.
+> …Our results demonstrate that Aspm is crucial for maintaining a > cleavage plane orientation that allows symmetric, proliferative > divisions of NE cells during brain development. These data provide a cell biological explanation of the primary microcephaly observed in humans with mutations in ASPM, which also has implications for the evolution of mammalian brains.
 
 **Update:** [Previous commentary](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=aspm&btnG=Search+google&domains=gnxp.com&sitesearch=gnxp.com) on *ASPM*.
 

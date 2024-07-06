@@ -23,7 +23,8 @@ At some point ancient DNA will start to exhibit diminishing returns. Then the lo
 
 ### Related Posts:
 
-- [Readings....](https://www.gnxp.com/WordPress/2006/01/06/readings-2/) - [mtDNA, selection and
+- [Readings....](https://www.gnxp.com/WordPress/2006/01/06/readings-2/)
+- [mtDNA, selection and
   paleoanthropology](https://www.gnxp.com/WordPress/2005/09/18/mtdna-selection-and-paleoanthropology/) - [Bad historical population
   genetics?](https://www.gnxp.com/WordPress/2007/03/06/bad-historical-population-genetics/) - [The flood of selection
   rises](https://www.gnxp.com/WordPress/2006/04/27/the-flood-of-selection-rises/) - [The rise of the

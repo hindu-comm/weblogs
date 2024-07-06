@@ -11,7 +11,7 @@ The BTNL2 Gene and Sarcoidosis Susceptibility in African Americans and Whites
 
 [Abstract](http://www.journals.uchicago.edu/AJHG/journal/issues/v77n3/42221/brief/42221.abstract.html):
 
-> …Although rs2076530 was not associated with sarcoidosis in either > African American sample, a three-locus haplotype that included > rs2076530 was associated with sarcoidosis across all three study > samples. Multivariable logistic regression analyses showed that BTNL2 > effects are **independent of human leukocyte antigen class II genes in > whites but may *interact antagonistically* in African Americans**. Our > results underscore the complexity of genetic risk for sarcoidosis > emanating from the MHC region.
+> …Although rs2076530 was not associated with sarcoidosis in either > African American sample, a three-locus haplotype that included > rs2076530 was associated with sarcoidosis across all three study > samples. Multivariable logistic regression analyses showed that BTNL2 > effects are **independent of human leukocyte antigen class II genes in whites but may *interact antagonistically* in African Americans**. Our results underscore the complexity of genetic risk for sarcoidosis emanating from the MHC region.
 
 ### Related Posts:
 

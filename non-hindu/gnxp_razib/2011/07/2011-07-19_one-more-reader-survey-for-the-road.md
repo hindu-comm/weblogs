@@ -12,17 +12,18 @@ One more reader survey for the road….
 It has been brought to my attention that *Discover Magazine* has a [reader survey](http://bit.ly/lPcbUa) as well. Here’s the first page:
 
 > Welcome! >
-> All responses to this survey will remain completely confidential and > will be studied and interpreted only in combination with all other > responses received. >
-> As a thank you for participating, you will have an opportunity to > enter into a drawing to win one of ten \$50 Amazon Gift cards. >
-> During the survey, please answer each question and avoid hitting your > Web browser’s Back button. >
+> All responses to this survey will remain completely confidential and will be studied and interpreted only in combination with all other responses received. >
+> As a thank you for participating, you will have an opportunity to enter into a drawing to win one of ten \$50 Amazon Gift cards. >
+> During the survey, please answer each question and avoid hitting your Web browser’s Back button. >
 > For a copy of the sweepstakes rules, click on the link rules page. >
-> For a copy of the Internet privacy policy, click on the link privacy > policy.
+> For a copy of the Internet privacy policy, click on the link privacy policy.
 
 It took me \<2 minutes to complete.
 
 ### Related Posts:
 
-- [GNXP survey](https://www.gnxp.com/WordPress/2007/09/11/gnxp-survey/) - [ScienceBlogs
+- [GNXP survey](https://www.gnxp.com/WordPress/2007/09/11/gnxp-survey/)
+- [ScienceBlogs
   Survey](https://www.gnxp.com/WordPress/2007/07/02/scienceblogs-survey/) - [Reader survey
   questions?](https://www.gnxp.com/WordPress/2011/07/14/reader-survey-questions/) - [Reader
   survey](https://www.gnxp.com/WordPress/2007/11/10/reader-survey/) - [Gene Expression Brave New World

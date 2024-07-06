@@ -11,9 +11,9 @@ Twins in Kerala
 
 [The strange case of the twins of Kodinji](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100313/MAGAZINE/703129992/1284/ART):
 
-> The latest survey, from December 2009, counted 265 pairs of twins in > the village, which is home to about 3,000 families and 13,000 > inhabitants. This equates to a twinning rate of about 30 to 35 per > 1,000 live births within a radius of about 500 metres. The average in > the rest of the country is 8.1 per 1,000 live births.  
+> The latest survey, from December 2009, counted 265 pairs of twins in > the village, which is home to about 3,000 families and 13,000 inhabitants. This equates to a twinning rate of about 30 to 35 per 1,000 live births within a radius of about 500 metres. The average in the rest of the country is 8.1 per 1,000 live births.  
 > …  
-> Unlike in Cândido Godói, consanguineous (blood-related) marriages are > not a factor in the Kodinji twin phenomenon. “The majority of the > population is Muslim, but the incidences of twinning are present even > among the small minority of Hindu families,” Sribiju explains. “More > importantly, brides who are not originally from Kodinji are giving > birth to twins after they move to the village.”
+> Unlike in Cândido Godói, consanguineous (blood-related) marriages are > not a factor in the Kodinji twin phenomenon. “The majority of the > population is Muslim, but the incidences of twinning are present even among the small minority of Hindu families,” Sribiju explains. “More importantly, brides who are not originally from Kodinji are giving birth to twins after they move to the village.”
 
 ### Related Posts:
 

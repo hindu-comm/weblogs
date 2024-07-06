@@ -13,7 +13,8 @@ I noticed that John Derbyshire’s latest column was [not posted](http://olimu.c
 
 ### Related Posts:
 
-- [Derb & I](https://www.gnxp.com/WordPress/2006/02/02/derb-i/) - [Derb on
+- [Derb & I](https://www.gnxp.com/WordPress/2006/02/02/derb-i/)
+- [Derb on
   Darwin](https://www.gnxp.com/WordPress/2005/08/30/derb-on-darwin/) - [Religion & Politics &
   Derb](https://www.gnxp.com/WordPress/2007/02/20/religion-politics-derb/) - [The Secular Right
   (again)](https://www.gnxp.com/WordPress/2006/08/29/the-secular-right-again/) - [Derbyshire stirring some serious

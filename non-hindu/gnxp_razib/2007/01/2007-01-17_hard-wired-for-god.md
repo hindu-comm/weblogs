@@ -11,7 +11,7 @@ Source: [here](https://www.gnxp.com/WordPress/2007/01/17/hard-wired-for-god/).
 
 Both [Jason Rosenhouse](http://scienceblogs.com/evolutionblog/2007/01/are_people_predisposed_to_reje.php) and [Rand Simberg](http://www.transterrestrial.com/archives/008343.html#008343) have offered in the past few days that they have never exhibited an inclination to accept theism. Jason wonders:
 
-> I have very clear memories of attending Sunday school as a kid, and > spending most of that time thinking my teachers were putting me on. Do > I lack something that other people have? **Are there genes that > predispose people to belief or non-belief?**
+> I have very clear memories of attending Sunday school as a kid, and spending most of that time thinking my teachers were putting me on. Do I lack something that other people have? **Are there genes that predispose people to belief or non-belief?**
 
 There certainly are such genes involved in predisposition to religiousness. There is [non-trivial heritability](http://www.scienceblogs.com/gnxp/2006/11/heritability_of_religiosity.php) toward religious zeal. By heritability I mean **the proportion of popuation level variation in a trait than can be explained by variation in the genes**. This is a subtle point: just because a constellation of genes may affect the propensity toward religiosity, that does not imply that there were selection for religious belief. Rather, it maybe that religion is a phenomenon which is a byproduct of normal human psychological processes. And just as humans exhibit variation on a whole host of psychological characteristics, so any trait which emerges as a side effect of said traits shall also exhibit variation.
 

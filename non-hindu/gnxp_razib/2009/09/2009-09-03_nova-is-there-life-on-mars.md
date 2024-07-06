@@ -13,7 +13,8 @@ I notice that the NOVA documentary, [Is there life on Mars?](http://www.pbs.org/
 
 ### Related Posts:
 
-- [NOVA, online](https://www.gnxp.com/WordPress/2007/04/01/nova-online/) - [NOVA: Judgment Day: Intelligent Design on
+- [NOVA, online](https://www.gnxp.com/WordPress/2007/04/01/nova-online/)
+- [NOVA: Judgment Day: Intelligent Design on
   Trial](https://www.gnxp.com/WordPress/2007/11/13/nova-judgment-day-intelligent-design-on-trial/) - [The Phoenix has
   landed](https://www.gnxp.com/WordPress/2008/05/26/the-phoenix-has-landed/) - [What Darwin Never Knew
   (online)](https://www.gnxp.com/WordPress/2009/12/31/what-darwin-never-knew-online/) - [Hobbits on

@@ -18,7 +18,7 @@ Friday Fluff – September 17th, 2010
 
 3\. **Comment of the week**, in response to [More exercise = more I.Q.?](http://blogs.discovermagazine.com/gnxp/2010/09/more-exercise-more-i-q/#comments):
 
-> but how does this explain Steven Hawkings , he has a great IQ and is > on a wheelchair!
+> but how does this explain Steven Hawkings , he has a great IQ and is on a wheelchair!
 
 4\) **Poll question**….
 

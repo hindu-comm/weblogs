@@ -72,7 +72,7 @@ Note 1: I don’t question Israel’s high score on E, but it’s low score on N
 
 Note 2: Quoth [Hofstede & McCrae (2004)](http://ccr.sagepub.com/cgi/content/abstract/38/1/52):
 
-> Angleitner and Ostendorf (2000) provided some provocative evidence > \[…\]. They compared mean levels of NEO-PI-R scores from former East > and West Germans. Despite decades of enforced communism in East > Germany that included control of law, education, and mass > communications, the only difference between the two samples was that > West Germans were slightly higher in openness than East Germans.
+> Angleitner and Ostendorf (2000) provided some provocative evidence > \[…\]. They compared mean levels of NEO-PI-R scores from former East > and West Germans. Despite decades of enforced communism in East Germany that included control of law, education, and mass communications, the only difference between the two samples was that West Germans were slightly higher in openness than East Germans.
 
 The ref is: Angleitner & Ostendorf (2000, July). The FFM: A comparison of German-speaking countries (Austria, Former East and West Germany, and Switzerland). Paper presented at the 27th International Congress of Psychology, Stockholm, Sweden.
 

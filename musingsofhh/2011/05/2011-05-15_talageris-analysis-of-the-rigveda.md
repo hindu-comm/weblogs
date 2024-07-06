@@ -85,7 +85,18 @@ Advertisement
 
 **Tagged with:**
 
-- [ahura mazda](https://musingsofhh.wordpress.com/tag/ahura-mazda/) - [anus](https://musingsofhh.wordpress.com/tag/anus/) - [aryans](https://musingsofhh.wordpress.com/tag/aryans/) - [divodasa](https://musingsofhh.wordpress.com/tag/divodasa/) - [indo-european](https://musingsofhh.wordpress.com/tag/indo-european/) - [linguistics](https://musingsofhh.wordpress.com/tag/linguistics/) - [mahabharata](https://musingsofhh.wordpress.com/tag/mahabharata/) - [mazda](https://musingsofhh.wordpress.com/tag/mazda/) - [purus](https://musingsofhh.wordpress.com/tag/purus/) - [rig veda](https://musingsofhh.wordpress.com/tag/rig-veda/) - [shrikant](https://musingsofhh.wordpress.com/tag/shrikant/) - [talageri](https://musingsofhh.wordpress.com/tag/talageri/)
+- [ahura mazda](https://musingsofhh.wordpress.com/tag/ahura-mazda/)
+- [anus](https://musingsofhh.wordpress.com/tag/anus/)
+- [aryans](https://musingsofhh.wordpress.com/tag/aryans/)
+- [divodasa](https://musingsofhh.wordpress.com/tag/divodasa/)
+- [indo-european](https://musingsofhh.wordpress.com/tag/indo-european/)
+- [linguistics](https://musingsofhh.wordpress.com/tag/linguistics/)
+- [mahabharata](https://musingsofhh.wordpress.com/tag/mahabharata/)
+- [mazda](https://musingsofhh.wordpress.com/tag/mazda/)
+- [purus](https://musingsofhh.wordpress.com/tag/purus/)
+- [rig veda](https://musingsofhh.wordpress.com/tag/rig-veda/)
+- [shrikant](https://musingsofhh.wordpress.com/tag/shrikant/)
+- [talageri](https://musingsofhh.wordpress.com/tag/talageri/)
 
 **[sound changes in prakritsetc.](https://musingsofhh.wordpress.com/2011/05/15/sound-changes-in-prakrits/)**
 

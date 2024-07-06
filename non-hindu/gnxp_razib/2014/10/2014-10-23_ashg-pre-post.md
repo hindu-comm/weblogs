@@ -21,7 +21,8 @@ Finally, [Larry Moran](https://sandwalk.blogspot.com/2014/10/razib-khan-defends-
 
 ### Related Posts:
 
-- [ASHG 2012 - which
+- [ASHG 2012
+- which
   sessions](https://www.gnxp.com/WordPress/2012/10/02/ashg-2012-which-sessions/) - [South Asian Genotype Project
   update](https://www.gnxp.com/WordPress/2018/01/06/south-asian-genotype-project-update/) - [ASHG 2014, Razib's fun times
   (hopefully)](https://www.gnxp.com/WordPress/2014/09/21/ashg-2014-razibs-fun-times-hopefully/) - ["Can you watch my

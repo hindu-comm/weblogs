@@ -11,7 +11,7 @@ Mike on group selection
 
 Mike [offers his 2 cents](http://scienceblogs.com/mikethemadbiologist/2007/07/dear_intelligent_designerlevel.php) on the levels of selection debates. He says:
 
-> If it doesn’t provide me with **testable hypotheses** and the > conceptual tools to do so, it’s just not useful. That’s what happened > the last go around with this in the late 80s and early 90s. Do the > experiments and I’ll be interested, because the last time it was a lot > of yak and very little data.
+> If it doesn’t provide me with **testable hypotheses** and the > conceptual tools to do so, it’s just not useful. That’s what happened the last go around with this in the late 80s and early 90s. Do the experiments and I’ll be interested, because the last time it was a lot of yak and very little data.
 
 Focusing on the “replicators” as opposed to the “vehicles” is so appealing because the former is so easier to grasp on to than the latter.
 

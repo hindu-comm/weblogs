@@ -15,11 +15,11 @@ Friday Fluff – December 10th, 2010
 
 3.**Comment of the week**, in response to [The history of us all](http://blogs.discovermagazine.com/gnxp/2010/12/the-history-of-us-all/#comments):
 
-> 1\. I take it you think Angus Maddison’s *Contours of the World > Economy 1-2030 AD* is too technical for a general reading list? >
-> 2\. Some other ‘easy to read but rather informative books’ on > social/economic history: >
-> Alfred Crosuby’s *[Environmental > Imperialism](https://www.amazon.com/Ecological-Imperialism-Biological-Expansion-Environment/dp/0521546184/ref=pd_sim_b_87)* >
-> William McNiell’s *[Plagues and > Peoples](https://www.amazon.com/Plagues-Peoples-William-H-McNeill/dp/0385121229/ref=sr_1_4?s=books&ie=UTF8&qid=1291830697&sr=1-4)* >
-> 3\. Razib, have you reviewed *After Tamerlane* before? I have not read > the book myself, but have heard much good and bad about it. What is > your take on the book?
+> 1\. I take it you think Angus Maddison’s *Contours of the World Economy 1-2030 AD* is too technical for a general reading list? >
+> 2\. Some other ‘easy to read but rather informative books’ on social/economic history: >
+> Alfred Crosuby’s *[Environmental Imperialism](https://www.amazon.com/Ecological-Imperialism-Biological-Expansion-Environment/dp/0521546184/ref=pd_sim_b_87)* >
+> William McNiell’s *[Plagues and Peoples](https://www.amazon.com/Plagues-Peoples-William-H-McNeill/dp/0385121229/ref=sr_1_4?s=books&ie=UTF8&qid=1291830697&sr=1-4)* >
+> 3\. Razib, have you reviewed *After Tamerlane* before? I have not read the book myself, but have heard much good and bad about it. What is your take on the book?
 
 See, not always making fun of people Clark.
 

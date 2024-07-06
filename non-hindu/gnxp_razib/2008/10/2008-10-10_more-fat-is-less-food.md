@@ -11,7 +11,7 @@ More fat is less food?
 
 [How Fatty Foods Curb Hunger](http://www.sciencedaily.com/releases/2008/10/081007123647.htm):
 
-> Fatty foods may not be the healthiest diet choice, but those rich in > unsaturated fats – such as avocados, nuts and olive oil – have been > found to play a pivotal role in sending this important message to your > brain: stop eating, you’re full.
+> Fatty foods may not be the healthiest diet choice, but those rich in unsaturated fats – such as avocados, nuts and olive oil – have been found to play a pivotal role in sending this important message to your brain: stop eating, you’re full.
 
 The broad point is probably known to you, but read the whole press release, as there’s more biochemical detail….
 

@@ -15,11 +15,11 @@ Ancestry testing as a Rorschach test
 The website *The Root* often has a Q & A with various African Americans, famous and not so famous, about their genealogy in relation to personal genomics. In most cases these tests tell you what you already know, but for African Americans there is often actually value-add in terms of greater specificity and precision, which would otherwise be lacking for [obvious](https://en.wikipedia.org/wiki/Atlantic_slave_trade) historical reasons. Despite its objective scientific patina the processing and interpretation of the resultant information can be rather subject, and illuminating. Recently [they sat down with actress](http://blogs.ancestry.com/cm/2013/05/14/actress-vanessa-williams-explains-how-dna-powers-her-family-tree/?o_xid=55843&o_lid=55843&o_sch=External+Paid+Media), and the first black winner of Miss America, Vanessa L. Williams, to discuss her results. There were two passages which I think were particularly interesting, so I’ll quote them below:
 
 > **What did you find out about your DNA?** >
-> My DNA breaks down as follows: I’m 23% from Ghana, 17% from the > British Isles, 15% from Cameroon, 12% Finnish, 11% Southern European, > 7% Togo, 6% Benin, 5% Senegal and 4% Portuguese. >
-> Now, **I can’t wait to go to Ghana and Cameroon and Togo and Senegal** > — it’s a great opportunity to see why the customs resonate with you. I > love to travel and I love to explore, and I have to admit that I was > always jealous of people who knew their cultural background. Both my > family and myself came out with light eyes, so obviously there is a > recessive gene here. Not knowing what that was just made me very > curious. >
+> My DNA breaks down as follows: I’m 23% from Ghana, 17% from the British Isles, 15% from Cameroon, 12% Finnish, 11% Southern European, 7% Togo, 6% Benin, 5% Senegal and 4% Portuguese. >
+> Now, **I can’t wait to go to Ghana and Cameroon and Togo and Senegal** > — it’s a great opportunity to see why the customs resonate with you. I > love to travel and I love to explore, and I have to admit that I was > always jealous of people who knew their cultural background. Both my family and myself came out with light eyes, so obviously there is a recessive gene here. Not knowing what that was just made me very curious. >
 > … >
 > **How did your family react to all this information?** >
-> They loved it. They really can’t wait to go on our world tour of where > we’re from. **The biggest surprise was Finland. How did that happen?** > Who is Finnish? That is definitely going to be one of my trips coming > up. It’s all surprising, really interesting and it’s really > incredible.
+> They loved it. They really can’t wait to go on our world tour of where > we’re from. **The biggest surprise was Finland. How did that happen?** Who is Finnish? That is definitely going to be one of my trips coming up. It’s all surprising, really interesting and it’s really incredible.
 
 
 

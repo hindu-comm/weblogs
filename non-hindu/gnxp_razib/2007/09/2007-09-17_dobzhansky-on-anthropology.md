@@ -11,7 +11,7 @@ Dobzhansky on anthropology
 
 John Hawks has a [series of great quotes](http://johnhawks.net/weblog/topics/meta/culture/dobzhansky_1963_problem_human_evolution.html) from a 1963 article by [Dobzhansky](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky) on the interplay between genetic and cultural evolution. How about this:
 
-> Being an anthropologist only by avocation, I may perhaps venture to > claim for anthropology more than most anthropologists dare claim for > themselves. The ultimate function of anthropology is no less than to > provide the knowledge requisite for the guidance of human evolution
+> Being an anthropologist only by avocation, I may perhaps venture to claim for anthropology more than most anthropologists dare claim for themselves. The ultimate function of anthropology is no less than to provide the knowledge requisite for the guidance of human evolution
 
 Rather ambitious, no?
 

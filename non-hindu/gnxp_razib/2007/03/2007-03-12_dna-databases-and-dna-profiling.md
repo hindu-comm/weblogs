@@ -11,11 +11,13 @@ DNA databases and DNA profiling
 
 Everything I’ve read about DNA profiling and DNA databases suggests the following:
 
-1.  A universal national DNA database should be constructed 2.  DNA profiling for this database should switch to SNP genotyping
+1.  A universal national DNA database should be constructed
+2.  DNA profiling for this database should switch to SNP genotyping
 
 DNA database – The U.S. national and state governments operate a number of DNA databases. Most law enforcement databases are integrated under the FBI’s CODIS system, which now contains several million DNA profiles in its “offender” index. Privacy advocates raise a number of concerns about these databases, but most political action concerns the criteria for getting profiles into and out of these databases. As far as I can tell, all of the concerns about inclusion/exclusion criteria would be circumvented by the existence of a universal database. For example, issues of contention include:
 
-- What crimes warrant the collection of DNA? - Should DNA be automatically collected at arrest or not until
+- What crimes warrant the collection of DNA?
+- Should DNA be automatically collected at arrest or not until
   conviction? - If DNA is collected at arrest, should DNA profiles be expunged if no
   conviction is made? - Does the mass collection of DNA raise the risk of false positives and
   subsequent false convictions? \[Note, ostensibly it does – especially

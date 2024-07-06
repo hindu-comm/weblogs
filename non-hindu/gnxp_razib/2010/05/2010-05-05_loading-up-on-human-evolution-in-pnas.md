@@ -13,7 +13,8 @@ Click the [Early Edition](http://www.pnas.org/content/early/recent) and control-
 
 ### Related Posts:
 
-- [Chimps more evolved? - part
+- [Chimps more evolved?
+- part
   III](https://www.gnxp.com/WordPress/2007/04/20/chimps-more-evolved-part-iii/) - [Differences can
   kill](https://www.gnxp.com/WordPress/2006/06/22/differences-can-kill/) - [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/) - [Who manages PNAS'
   site?](https://www.gnxp.com/WordPress/2006/06/28/who-manages-pnas-site/) - [Neurogenomics and genetic

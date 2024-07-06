@@ -53,7 +53,7 @@ Nature does not care about our fate. Evolution results in many blind trials. The
 
 After drafting this post, I happened upon Ronald Wright’s *A Short History of Progress* after first reading it about 15 years ago. Although I did not appreciate or absorb it at the time, I seem to have slowly drifted to a similar conclusion. On page 30, he says:
 
-> This \[human\] experiment has never been tried before. And we, its > unwitting authors, have never controlled it. This experiment is now > moving very quickly and on a colossal scale. \[…\] We have reached a > stage where we must bring the experiment under rational control, and > guard against present and potential dangers. It’s entirely up to us. > If we fail—if we blow up or degrade the biosphere so it can no longer > sustain us—nature will merely shrug and conclude that letting apes run > the laboratory was fun for a while but in the end a bad idea.
+> This \[human\] experiment has never been tried before. And we, its > unwitting authors, have never controlled it. This experiment is now > moving very quickly and on a colossal scale. \[…\] We have reached a > stage where we must bring the experiment under rational control, and > guard against present and potential dangers. It’s entirely up to us. If we fail—if we blow up or degrade the biosphere so it can no longer sustain us—nature will merely shrug and conclude that letting apes run the laboratory was fun for a while but in the end a bad idea.
 
 ### What’s the Point?
 

@@ -13,7 +13,8 @@ Frontpage Magazine has an interesting symposium titled [The Death of Multicultur
 
 ### Related Posts:
 
-- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/) - [The Islamic
+- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/)
+- [The Islamic
   race](https://www.gnxp.com/WordPress/2007/11/26/the-islamic-race/) - [Against multiculturalism
   (multireligionism)](https://www.gnxp.com/WordPress/2009/11/01/against-multiculturalism-multireligionism/) - [The God Delusion in The
   Economist](https://www.gnxp.com/WordPress/2006/10/08/the-god-delusion-in-the-economist/) - [A change in the Zeitgeist regarding

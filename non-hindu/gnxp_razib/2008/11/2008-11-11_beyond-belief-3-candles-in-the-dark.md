@@ -13,7 +13,8 @@ You can [watch](http://thesciencenetwork.org/programs/beyond-belief-candles-in-t
 
 ### Related Posts:
 
-- [Beyond Belief 3 - Candles in the
+- [Beyond Belief 3
+- Candles in the
   Dark](https://www.gnxp.com/WordPress/2008/11/11/beyond-belief-3-candles-in-the-dark/) - [Peter Turchin @ Beyond
   Belief](https://www.gnxp.com/WordPress/2009/03/05/peter-turchin-beyond-belief/) - [Beyond Belief
   2006](https://www.gnxp.com/WordPress/2006/11/26/beyond-belief-2006/) - [The Dark
@@ -29,7 +30,8 @@ You can [watch](http://thesciencenetwork.org/programs/beyond-belief-candles-in-t
 
 ### Related Posts:
 
-- [Beyond Belief 3 - Candles in the
+- [Beyond Belief 3
+- Candles in the
   Dark](https://www.gnxp.com/WordPress/2008/11/11/beyond-belief-3-candles-in-the-dark/) - [Peter Turchin @ Beyond
   Belief](https://www.gnxp.com/WordPress/2009/03/05/peter-turchin-beyond-belief/) - [The Dark
   Knight](https://www.gnxp.com/WordPress/2008/07/21/the-dark-knight/) - [Beyond Belief

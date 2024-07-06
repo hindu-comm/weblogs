@@ -11,11 +11,11 @@ Males: who needs 'em?
 
 I spend most of my days reading about humans and our close relations, so I always get a kick out of the crazy-ass shit that goes down in other taxa. Like this, for example:
 
-> The battle over access to mates is perhaps one of the most extreme > conflicts in evolution. Maleâ€“male conflict sometimes becomes so > intense that it can result in the death of all males in the > population. For example, in marsupials of the genera Antechinus and > Dasyurus, the diseases that appear to follow from excessive investment > in mating can wipe out all males in the population after the mating > season.
+> The battle over access to mates is perhaps one of the most extreme > conflicts in evolution. Maleâ€“male conflict sometimes becomes so > intense that it can result in the death of all males in the > population. For example, in marsupials of the genera Antechinus and Dasyurus, the diseases that appear to follow from excessive investment in mating can wipe out all males in the population after the mating season.
 
 But don’t worry…
 
-> This is not harmful to population persistence, however, as inseminated > females produce new males. > ([link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VJ1-4JHMF9F-2&_user=10&_coverDate=05%2F31%2F2006&_rdoc=2&_fmt=summary&_orig=browse&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=c1289524753ba8d0dbc6ff2d62893150))
+> This is not harmful to population persistence, however, as inseminated females produce new males. ([link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VJ1-4JHMF9F-2&_user=10&_coverDate=05%2F31%2F2006&_rdoc=2&_fmt=summary&_orig=browse&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=c1289524753ba8d0dbc6ff2d62893150))
 
 Tangentially related: [Sperm competition](https://www.gnxp.com/MT2/archives/003062.html) and [its handiwork](http://human-nature.com/ep/articles/ep021223.html)
 

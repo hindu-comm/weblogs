@@ -11,13 +11,13 @@ Crime way down. Who exactly knows stuff?
 
 [Despite recession, crime keeps falling](https://www.google.com/hostednews/ap/article/ALeqM5jemMpMgkQVsHs7IdckAx2PLmm1XgD9CNVLSG1):
 
-> In times of recession, property crimes, in particular, are expected to > rise. >
+> In times of recession, property crimes, in particular, are expected to rise. >
 > They haven’t. >
-> Overall, property crimes fell by 6.1 percent, and violent crimes by > 4.4 percent, according to the six-month data collected by the FBI. > Crime rates haven’t been this low since the 1960’s, and are nowhere > near the peak reached in the early 1990’s.
+> Overall, property crimes fell by 6.1 percent, and violent crimes by 4.4 percent, according to the six-month data collected by the FBI. Crime rates haven’t been this low since the 1960’s, and are nowhere near the peak reached in the early 1990’s.
 
 Who expected crime to increase? Did you? I did. But I didn’t know anything about crime statistics over time so I was working off naive intuition. Did social scientists expect this? I recall a lot of worry in the media about a year ago that the crime drop which started in the 1990s would be reversed, and I shared the worry. Here’s [Matt Yglesias worrying last January](http://yglesias.thinkprogress.org/archives/2009/01/by_request_crime_and_recession.php):
 
-> I think this is worth worrying about. One thing we know about crime is > that when wages and employment levels for low-skill workers are high, > crime goes down. Another is that mass incarceration works – increase > the number of beds in prison and the number of sentence-years handed > out and the crime rate drops. But the first of these is the reverse of > what happens in a recession, and the second we’ve already pushed well > past the limit of cost-effectiveness (see here) and it’s inconceivable > to me that you could actually push this far enough to compensate for > the declining economy in the context of declining state budgets.
+> I think this is worth worrying about. One thing we know about crime is > that when wages and employment levels for low-skill workers are high, > crime goes down. Another is that mass incarceration works – increase > the number of beds in prison and the number of sentence-years handed > out and the crime rate drops. But the first of these is the reverse of > what happens in a recession, and the second we’ve already pushed well past the limit of cost-effectiveness (see here) and it’s inconceivable to me that you could actually push this far enough to compensate for the declining economy in the context of declining state budgets.
 
 It’s easy to find national uniform crime reports data back to 1960, and unemployment rates. Quick correlations between 1960-2008 are:
 

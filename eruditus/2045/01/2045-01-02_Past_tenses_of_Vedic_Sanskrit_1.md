@@ -103,7 +103,7 @@ Pāṇini defines it as **अनद्यतने लङ् (3.2.111)** which m
 > mahān r̥ṣiḥ deva-jāḥ deva-jūtaḥ astabhnāt sindhum arṇavam nr̥-cakṣāḥ  
 > viśvāmitraḥ yat avahat su-dāsam apriyāyata kuśikebhiḥ indraḥ*  
 >   
-> “The great sage \[RSi\] born of gods, impelled by gods, having the > sight of men–– stopped the flowing river. When Vishvāmitra carried > Sudās \[across the river\], Indra made friends with the Kushikas”
+> “The great sage \[RSi\] born of gods, impelled by gods, having the sight of men–– stopped the flowing river. When Vishvāmitra carried Sudās \[across the river\], Indra made friends with the Kushikas”
 
   
 All 3 verbs in this verse (astabhnāt,avahat,apriyāyata) are in **लङ्** and convey a narration that happened in the remote past. There is no reference to present time. The verb locates an incident that happened before speech time.  
@@ -137,21 +137,21 @@ Let us see examples of this immediate past function in vedic texts.
 >   
 > *वस॑न्नरण्या॒न्यां सा॒यमक्रु॑क्ष॒दिति॑ मन्यते  
 > vasan araṇyānyām sāyam akrukṣat iti manyate*  
-> “In the forest at night, one imagines that someone **has just > screamed**“
+> “In the forest at night, one imagines that someone **has just screamed**“
 
 Someone has \*just\* screamed as shown by akrukṣat. Sayanacharya translates this as “koShati” meaning “cries” indicating the “flow” of the action of crying into the present state of speech time. Think of a forest, someone just shrieked and you are hearing the reverberations of the shriek in your head. This is the mental imagery that is trying to be conveyed.
 
 >   
 > *चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः  
 > आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒*  
-> *citram devānām ut agāt anīkam cakṣuḥ mitrasya varuṇasya agneḥ ā aprāḥ > dyāvāpr̥thivī iti antarikṣam*  
-> “The brilliant face of the gods **has risen**.. the eye of mitra, > varuṇa and agni. It **has filled** heaven and earth and the space > between them”  
+> *citram devānām ut agāt anīkam cakṣuḥ mitrasya varuṇasya agneḥ ā aprāḥ dyāvāpr̥thivī iti antarikṣam*  
+> “The brilliant face of the gods **has risen**.. the eye of mitra, varuṇa and agni. It **has filled** heaven and earth and the space between them”  
 >   
 > *प्रति॒दि॒वो अ॑दर्शि दुहि॒ता*  
 > “The daughter of heaven **has appeared**“  
 >   
 > *परी ’मे गाम् अनेषत पर्य् अग्निम् अहृषत, देवेष्व् अक्रत श्रवः*  
-> “These here have led about a cow, they have carried around the fire, > they have done honor to the gods“
+> “These here have led about a cow, they have carried around the fire, they have done honor to the gods“
 
 These are sufficient examples for the main function of the aorist. There is one “subfunction” of t. It’s used in an occasion in which, 1) It expresses what results from a ritual act or is antecedent to it.
 
@@ -171,7 +171,7 @@ Example –
 > शुष्णं॒ पिप्रुं॒ कुय॑वं वृ॒त्रमि॑न्द्र य॒दाव॑धी॒र्वि पुरः॒ शम्ब॑रस्य  
 > víśve devā́so amadann ánu tvā;  
 > śúṣṇam pípruṁ kúyavaṁ vr̥trám indra yadā́vadhīr ví púraḥ śámbarasya*  
-> “All the gods cheered you, O Indra, **when you had smashed** śuṣna, > pipru, kuyava, vṛtra and the forts of śambara”
+> “All the gods cheered you, O Indra, **when you had smashed** śuṣna, pipru, kuyava, vṛtra and the forts of śambara”
 
   
 Notice how the pluperfect “had done” usage is introduced by the relative clause adverb “yadā”, also note how the main verb is in imperfect (amadan) while the relative clause verb is in aorist (avadhīḥ). This pattern of verb switch + relative marker should indicate the pluperfect usage.
@@ -179,10 +179,10 @@ Notice how the pluperfect “had done” usage is introduced by the relative cla
 >   
 > *तदिद्ध्य॑स्य॒ सव॑नं वि॒वेर॒पो यथा॑ पु॒रा मन॑वे गा॒तुमश्रे॑त्  
 > tat it hi asya savanam viveḥ apaḥ yathā purā manave gātum aśret*  
-> “The oblation indeed has fulfilled it’s purpose, **just as it once had > prepared** the way for Manu”  
+> “The oblation indeed has fulfilled it’s purpose, **just as it once had prepared** the way for Manu”  
 >   
 > *उ॒ग्रम॑यात॒मव॑हो ह॒ कुत्सं॒ सं ह॒ यद्वा॑मु॒शनार॑न्त दे॒वाः*  
-> “The two of you went to the terrible one. You took Kutsa, **when the > gods had united** you with Uśanā”
+> “The two of you went to the terrible one. You took Kutsa, **when the gods had united** you with Uśanā”
 
   
 With this, we finish the second main function and come to the last major function of the aorist in indicative tenses. The aorist ***functions as a statement of fact***. The aorist who have this function typically occur amidst imperfects being used in a narrative dialogue, often at end of a narrative or to show a change in point of view. They can carry the story forward, comment upon it or summarize it. While the imperfect “reports narration”, the aorist carries it forward or summarizes it or changes the narrative in some manner.  
@@ -192,7 +192,7 @@ Examples –
 > *  
 > न्या॑विध्यदिली॒बिश॑स्य दृ॒ळ्हा वि शृ॒ङ्गिण॑मभिन॒च्छुष्ण॒मिन्द्रः॑  
 > याव॒त्तरो॑ मघव॒न्याव॒दोजो॒ वज्रे॑ण॒ शत्रु॑मवधीः पृत॒न्युम्*  
-> “Indra struck down Ilībiśa’s forts and split apart the horned Shuṣna . > . . with your thunderbolt **you have slain the enemy** (o Indra)
+> “Indra struck down Ilībiśa’s forts and split apart the horned Shuṣna . . . with your thunderbolt **you have slain the enemy** (o Indra)
 
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc958ad71-99af-4f10-a615-9e118923a29e_564x265.png)
 

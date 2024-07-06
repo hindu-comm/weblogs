@@ -52,11 +52,11 @@ As we never tire of repeating in these pages of *The Dharma Dispatch,* the admin
 
 The first is by a British joint collector, B. Knight:
 
-> It is in the villages of southern India that we must go to see Hindu > life at its best, unaffected as it is by Mahommedan conquest or by the > influence of Western civilisation.
+> It is in the villages of southern India that we must go to see Hindu life at its best, unaffected as it is by Mahommedan conquest or by the influence of Western civilisation.
 
 The second is by another British official, the vile racist Grant Duff:
 
-> …no good can be effected for these people, but only much harm, by > introducing European methods of Government, foreign to their > characters and conditions. What we can do is to enable these myriad > little worlds to live in peace, instead of being perpetually liable to > be harried and destroyed by every robber or petty tyrant who could pay > a handful of scoundrels to follow him.
+> …no good can be effected for these people, but only much harm, by > introducing European methods of Government, foreign to their > characters and conditions. What we can do is to enable these myriad little worlds to live in peace, instead of being perpetually liable to be harried and destroyed by every robber or petty tyrant who could pay a handful of scoundrels to follow him.
 
 However, within the scope of this essay, we shall focus on just one chief feature: the typical, timeless Hindu village as a centre of noble jurisprudence, a feature that “democracy” has wholly obliterated and made irrecoverable.
 
@@ -72,11 +72,11 @@ Then, Kautilya wisely says that disputes should be settled by *Sāmanta-grāma-v
 
 All these ancient Sanatana lawgivers and luminaries of jurisprudence were unanimous on a cardinal precept: the centrality of custom and usage which were honoured by time and which no law-book can adequately and *fully* define. This among others is the reason for Kautilya’s emphasis on the wisdom and the sense of judgement of *grāma-vrd'dhāh.* In this, he echoes his predecessor Manu:
 
-> The customs handed down in regular succession (since time immemorial) > … in any country is called the conduct of virtuous man.
+> The customs handed down in regular succession (since time immemorial) … in any country is called the conduct of virtuous man.
 
 The other famed lawgiver Gautama says:
 
-> The customs of countries, varnas, and families, which are not opposed > to the sacred literature (i.e., Vedas), have authority.
+> The customs of countries, varnas, and families, which are not opposed to the sacred literature (i.e., Vedas), have authority.
 
 We can append any number of such citations but all of them affirm and reaffirm the same truth of Sanatana jurisprudence: Custom and usage were inextricable from the life of Hindus taken in a total sense. And in the specific case of justice, ancient usage was raised to the dignity of law. The more ancient, greater the dignity, i.e., this antiquity added sanctity to the sanction of law.
 

@@ -21,7 +21,8 @@ Finally, there is the issue of biology-culture evolution. This is perhaps the mo
 
 ### Related Posts:
 
-- [Cladistics & culture - Wilkins responds,
+- [Cladistics & culture
+- Wilkins responds,
   etc.](https://www.gnxp.com/WordPress/2006/09/27/cladistics-culture-wilkins-responds-etc/) - [Evolution of
   language](https://www.gnxp.com/WordPress/2007/10/10/evolution-of-language/) - [A new evolution
   textbook](https://www.gnxp.com/WordPress/2007/08/10/a-new-evolution-textbook/) - [The rate of cultural evolution, jerky or

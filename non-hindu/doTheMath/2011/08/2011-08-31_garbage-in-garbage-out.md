@@ -23,11 +23,11 @@ In this post, we’ll look at human waste, waste cooking oil, and household garb
 
 [![sewage settling pond](https://dothemath.ucsd.edu/wp-content/uploads/2011/08/sewage-150x150.jpg "sewage")](https://dothemath.ucsd.edu/wp-content/uploads/2011/08/sewage.jpg)A recent story describes a new venture to [use sewer gas for fueling hydrogen cars](http://www.physorg.com/news/2011-08-waste-not-want.html) in the Los Angeles area. Two quotes from the article got my goat:
 
-> “This is a paradigm shift. We’ll be truly fuel-independent and no > longer held hostage by other countries. This is the epitome of > sustainability, where we’re taking an endless stream of human waste > and transforming it to transportation fuel and electricity. This is > the first time this has ever been done.”
+> “This is a paradigm shift. We’ll be truly fuel-independent and no > longer held hostage by other countries. This is the epitome of sustainability, where we’re taking an endless stream of human waste and transforming it to transportation fuel and electricity. This is the first time this has ever been done.”
 
 and
 
-> “…a third of all cars on the road in the U.S. could eventually be > powered by ‘biogas,’ made from human waste, plant products and other > renewable elements.”
+> “…a third of all cars on the road in the U.S. could eventually be powered by ‘biogas,’ made from human waste, plant products and other renewable elements.”
 
 I’m so flummoxed I don’t know where to start. Deep breaths. Start small. When we import 60% of our oil, even reaching the goal of powering one-third of cars on the road with biogas can’t claim to make us “truly fuel-independent.” I could *maybe* be convinced that all-out (labor intensive) efforts to derive biogas from plant products could replace substantial fractions of our oil. But *human waste* (which gets top billing in the quote)?! Let’s do some numbers.
 

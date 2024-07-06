@@ -13,7 +13,8 @@ Neandertals were human?
 
 ### Related Posts:
 
-- [Neandertals - "human" or
+- [Neandertals
+- "human" or
   not?](https://www.gnxp.com/WordPress/2007/06/13/neandertals-human-or-not/) - [Living Neandertals & another idea about the
   Hobbits](https://www.gnxp.com/WordPress/2006/04/21/living-neandertals-another-idea-about-the-hobbits/) - [The Others, in black and
   white](https://www.gnxp.com/WordPress/2012/09/29/the-others-in-black-and-white/) - [Ötzi - more Neandertal than the average

@@ -16,7 +16,7 @@ Grooming =\> Language \~ Larger Social Groups](https://www.gnxp.com/MT2/archives
 
 3.**Comment of the week**, in response to \<a href="http://blogs.discovermagazine.com/gnxp/2010/12/incest-vs-polygamy/#comment-55084"Incest vs. polygamy:
 
-> Hey Razib, how about dueling polls, one on the ‘ick’ factor for incest > and one for homosexuality?  
+> Hey Razib, how about dueling polls, one on the ‘ick’ factor for incest and one for homosexuality?  
 > Be interesting to see how your readers feel when anonymous.
 
 4\) Strange that it’s been over 30 years since the 1970s.
@@ -26,7 +26,8 @@ Grooming =\> Language \~ Larger Social Groups](https://www.gnxp.com/MT2/archives
 
 ### Related Posts:
 
-- [Friday Fluff - July 8th,
+- [Friday Fluff
+- July 8th,
   2011](https://www.gnxp.com/WordPress/2011/07/08/friday-fluff-july-8th-2011/) - [Friday Fluff - September 17th,
   2010](https://www.gnxp.com/WordPress/2010/09/17/friday-fluff-september-17th-2010/) - [Friday Fluff – December 3rd,
   2010](https://www.gnxp.com/WordPress/2010/12/03/friday-fluff-december-3rd-2010/) - [Friday Fluff – November 19th,

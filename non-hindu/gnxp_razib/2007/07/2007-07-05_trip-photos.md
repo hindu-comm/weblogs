@@ -19,7 +19,8 @@ Hope all my fellow Americans out there had a good Independence Day. I was away o
 
 ### Related Posts:
 
-- [Katz update](https://www.gnxp.com/WordPress/2008/03/28/katz-update/) - [Totality,
+- [Katz update](https://www.gnxp.com/WordPress/2008/03/28/katz-update/)
+- [Totality,
   2017](https://www.gnxp.com/WordPress/2017/08/21/totality-2017/) - [Voyage to
   Antarctica](https://www.gnxp.com/WordPress/2009/07/06/voyage-to-antarctica/) - [Twitpic, all your photos are
   ours](https://www.gnxp.com/WordPress/2011/05/26/twitpic-all-your-photos-are-ours/) - [ISIS and its fellow

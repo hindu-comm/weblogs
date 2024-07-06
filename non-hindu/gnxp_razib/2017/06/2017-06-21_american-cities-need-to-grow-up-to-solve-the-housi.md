@@ -15,13 +15,13 @@ The oldest[free standing timber building](https://en.wikipedia.org/wiki/Nanchan_
 
 *Willamette Week* has an article up on the attempt to “maintain historic character,” and how it prevents the emergence of affordable housing.**[Portland’s Laurelhurst Neighborhood Fights to Keep the Housing Crisis Out](http://www.wweek.com/news/city/2017/06/21/portlands-laurelhurst-neighborhood-fights-to-keep-the-housing-crisis-out/):
 
-> At the end of last month, residents of Laurelhurst turned out in > record numbers to vote in their neighborhood association election for > one reason: to get protection from developers. >
-> The winning candidates pledged to bypass City Hall and ask the > National Park Service to declare much of the 425-acre eastside > neighborhood a historic site.
+> At the end of last month, residents of Laurelhurst turned out in record numbers to vote in their neighborhood association election for one reason: to get protection from developers. >
+> The winning candidates pledged to bypass City Hall and ask the National Park Service to declare much of the 425-acre eastside neighborhood a historic site.
 
 By being labeled “historic” the residents can block development, and preserve the state of their neighborhood the way they like it. They are very explicit about what they want to do:
 
-> By seeking to make the neighborhood a historic district, Laurelhurst > residents are taking aim at what they see as the neighborhood’s > greatest enemy: a real estate developer with a backhoe, bent on > tearing down 100-year-old houses to replace them with apartments, a > duplex or a huge new house. >
-> **“The whole street—it will look like Beaverton by the time they’re > done,”** says John Deodato, a longtime Laurelhurst homeowner who says > he gets 20 letters a month from developers seeking to buy his home. > “The city won’t do anything about it unless we do.”
+> By seeking to make the neighborhood a historic district, Laurelhurst > residents are taking aim at what they see as the neighborhood’s greatest enemy: a real estate developer with a backhoe, bent on tearing down 100-year-old houses to replace them with apartments, a duplex or a huge new house. >
+> **“The whole street—it will look like Beaverton by the time they’re done,”** says John Deodato, a longtime Laurelhurst homeowner who says he gets 20 letters a month from developers seeking to buy his home. “The city won’t do anything about it unless we do.”
 
 Beaverton is a suburb of Portland. Though the analogy is imperfect, if Portland is West LA, Beaverton is Irvine. The connotation of this insult is clear to any Oregonian. It’s a sneer at those without refined sophistication and breeding.
 
@@ -29,16 +29,16 @@ Beaverton is a suburb of Portland. Though the analogy is imperfect, if Portland 
 
 The recent neighborhood association seats were contested. The outcomes were clear:
 
-> More than 800 people voted in the election—a record for the > neighborhood, and more than 10 times the number of voters in the > previous election. The vote went overwhelmingly for the historic > district candidates. Pratt, the pro-historic district candidate for > president, won just under 80 percent of the vote.
+> More than 800 people voted in the election—a record for the > neighborhood, and more than 10 times the number of voters in the previous election. The vote went overwhelmingly for the historic district candidates. Pratt, the pro-historic district candidate for president, won just under 80 percent of the vote.
 
 It is no surprise that the people who live in Laurelhurst are voting to protect their interests. Their implicit gated community, with its high property values. They may be progressive in their avowed values, but when their self-interest is at state, they make sure to take care of their self-interest and conserve what they have the way they like it.
 
 There are of opponents to this trend of gentrified Portland neighborhoods. They profile an alliance between a developer and the head of 1000 Friends of Oregon, a nonprofit which favors density over sprawl. Below is some of their rationale, along with what someone in Laurelhurst has to say about these men:
 
-> “The reasons we are involved with this bill has nothing to do with > whether the home builders are involved with it,” says McCurdy. “The > bill increases housing opportunities—diverse housing opportunities and > affordable housing opportunities—all of those inside our towns and > cities, which is part of the land-use deal that we as Oregonians have > had in place for 40 years.” >
-> McCurdy believes what’s happening in Laurelhurst is a **“misuse of > historic district designation to prevent change.”** >
-> Critics of the bill call 1000 Friends’ and the home builders’ support > an unholy alliance. >
-> “Gov. McCall would be spinning in his grave to see his beloved 1000 > Friends of Oregon organization working side-by-side with the Home > Builders Association, **buying into the alt-right**, fake-news theory > of demolition as the cure for affordability,” wrote Tracy Prince, vice > president of the Goose Hollow Foothills League, in a May 17 letter to > legislators.
+> “The reasons we are involved with this bill has nothing to do with > whether the home builders are involved with it,” says McCurdy. “The > bill increases housing opportunities—diverse housing opportunities and affordable housing opportunities—all of those inside our towns and cities, which is part of the land-use deal that we as Oregonians have had in place for 40 years.” >
+> McCurdy believes what’s happening in Laurelhurst is a **“misuse of historic district designation to prevent change.”** >
+> Critics of the bill call 1000 Friends’ and the home builders’ support an unholy alliance. >
+> “Gov. McCall would be spinning in his grave to see his beloved 1000 > Friends of Oregon organization working side-by-side with the Home > Builders Association, **buying into the alt-right**, fake-news theory of demolition as the cure for affordability,” wrote Tracy Prince, vice president of the Goose Hollow Foothills League, in a May 17 letter to legislators.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-28-1.jpeg?resize=183%2C276)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-28-1.jpeg?resize=183%2C276)](https://www.amazon.com/exec/obidos/ASIN/B013VLC728/geneexpressio-20)In the early 2000s anything and anyone that self-styled progressives did not like was “neocon.” Today it is “alt-right.” Somehow this woman believes that allowing for development which would allow for an increase in the local housing supply and destroy some of the quaint town-like character of East Portland streets is “alt-right.” If she lived in the 1950s I wonder if she would accuse her enemies of being “Communists.”
 
@@ -46,9 +46,9 @@ The article has a definite slant against the Laurelhurst neighborhood associatio
 
 The piece concludes:
 
-> Pratt, the neighborhood association president, knows plenty about > homelessness. A couple years ago, he served on the board of social > services agency JOIN, which coordinates shelter beds. >
-> Pratt acknowledges Portland needs to build more housing. But not too > much of it in Laurelhurst. >
-> “Everybody says the solution to homelessness is housing,” he says. “I > don’t think the solution is that every neighborhood looks the same, > and every neighborhood has everything, and your neighborhood \[has\] > **no uniqueness** anymore.”
+> Pratt, the neighborhood association president, knows plenty about homelessness. A couple years ago, he served on the board of social services agency JOIN, which coordinates shelter beds. >
+> Pratt acknowledges Portland needs to build more housing. But not too much of it in Laurelhurst. >
+> “Everybody says the solution to homelessness is housing,” he says. “I don’t think the solution is that every neighborhood looks the same, and every neighborhood has everything, and your neighborhood \[has\] **no uniqueness** anymore.”
 
 People have interests. But they don’t want to admit those interests in public. The Laurelhurst neighborhood association’s attempt to gain historic designation is regulatory arbitrage. They want to preserve their neighborhood and property values, and not let in the riff-raff have any space. Earlier in the piece there is a quote from the association president: “Pratt warns that if Laurelhurst isn’t allowed to decide what gets developed within its boundaries, **the neighborhood will indeed become cheaper eventually—because it will become hideous.**”
 
@@ -56,8 +56,8 @@ Beauty is important. It has value. **But if we need to sacrifice beauty for affo
 
 The political Left on the national level is at least waking up to the problem. Recently *Mother Jones* wrote [Berkeley Says It’s Standing Up to Trump, But It’s Actually Busy Arguing About Zucchini](http://www.motherjones.com/environment/2017/06/climate-change-housing-berkeley/). The title comes from this passage:
 
-> At Tuesday night’s city council meeting, which touched on a number of > housing issues, this dissonance was on display in **a resident’s > complaint about a proposed new building that would cast shadows on her > zucchini plants.** The project was returned to the city’s Zoning > Adjustments Board. The zukes live another day. >
-> “Delaying or denying housing approvals suggests to Berkeley neighbors > that their stalling tactics will work, and invites more of them in the > future,” web developer Kevin Burke wrote in a letter to the council > after the meeting, expressing his disappointment with the decision. “I > would also much rather have a zucchini garden crisis than a housing > crisis.”
+> At Tuesday night’s city council meeting, which touched on a number of > housing issues, this dissonance was on display in **a resident’s complaint about a proposed new building that would cast shadows on her zucchini plants.** The project was returned to the city’s Zoning Adjustments Board. The zukes live another day. >
+> “Delaying or denying housing approvals suggests to Berkeley neighbors > that their stalling tactics will work, and invites more of them in the > future,” web developer Kevin Burke wrote in a letter to the council after the meeting, expressing his disappointment with the decision. “I would also much rather have a zucchini garden crisis than a housing crisis.”
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-27-1.jpeg?resize=182%2C277)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-27-1.jpeg?resize=182%2C277)](https://www.amazon.com/exec/obidos/ASIN/B002VDF5NG/geneexpressio-20)The gut-punch is that an anti-development mayor has been elected in Berkeley. How “radical.” In San Francisco and San Mateo counties \$105,000 a year for a household of four is [low income](http://www.mercurynews.com/2017/04/22/in-costly-bay-area-even-six-figure-salaries-are-considered-low-income/). The [average household income](https://www.point2homes.com/US/Neighborhood/CA/San-Francisco-Demographics.html) in San Francisco happens to be \$105,000 per year.
 

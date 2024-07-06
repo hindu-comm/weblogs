@@ -11,7 +11,7 @@ History through biology
 
 [Ancient DNA: Reconstruction Of The Biological History Of A Human Society](http://www.sciencedaily.com/releases/2008/04/080408112112.htm):
 
-> A research team has reconstructed the history of the evolution of > human population and answered questions about history, using DNA > extracted from skeleton remains. **Knowing the history of past > populations and answering unresolved questions about them is highly > interesting**, more so when the information is obtained from the > extraction of genetic material from historical remains. An example is > the necropolis at Aldaieta (Araba) where some of these mysteries about > these peoples have been answered – thanks to the study of their DNA.
+> A research team has reconstructed the history of the evolution of > human population and answered questions about history, using DNA > extracted from skeleton remains. **Knowing the history of past > populations and answering unresolved questions about them is highly > interesting**, more so when the information is obtained from the extraction of genetic material from historical remains. An example is the necropolis at Aldaieta (Araba) where some of these mysteries about these peoples have been answered – thanks to the study of their DNA.
 
 Expect more in the near future….
 

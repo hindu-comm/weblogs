@@ -11,8 +11,8 @@ A positive rate of rate of change
 
 [A Cheaper Plan at Netflix Offers Films for Online Only](http://www.nytimes.com/2010/11/23/technology/23netflix.html?hpw=&pagewanted=print):
 
-> Netflix said Monday that it was introducing a subscription plan for > customers who want to watch movies only online, underscoring yet > another step away from its roots in DVD rentals by mail. >
-> The new plan offers unlimited access to Netflix’s library of streaming > movies and TV shows for \$8 a month. That is cheaper than virtually > all of the company’s DVD plans.
+> Netflix said Monday that it was introducing a subscription plan for customers who want to watch movies only online, underscoring yet another step away from its roots in DVD rentals by mail. >
+> The new plan offers unlimited access to Netflix’s library of streaming movies and TV shows for \$8 a month. That is cheaper than virtually all of the company’s DVD plans.
 
 I of course immediately downgraded; I haven’t received a physical DVD from Netflix since circa 2007 (it took me a year to return it because I forgot where I’d left it, and never watched it). But when I’m not feeling so well and can’t focus on anything cognitively challenging Netflix is very convenient. There are plenty of free alternatives on the net, but I’ll pay sub-\$10 fees to save some time and headache.
 

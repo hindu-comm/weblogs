@@ -14,9 +14,9 @@ ScienceBlogger threatend with legal action vs. Fair Use
   
 **Update III:** Shelly has another [post on what she wants out of this](http://scienceblogs.com/retrospectacle/2007/04/what_i_want_out_of_this_is.php):
 
-> Some have called for the boycott of all Wiley journals. While I > appreciate the sentiment (more than any of you can know), I’m not sure > that that is the best idea for science. I’d like to think that we > bloggers can deal with these types of things with some grace, roll > with the punches, get up, and keep on going. Wiley didn’t exercise the > best judgment in choosing to prod me into submission, but I don’t > think we have to return tit-for-tat.  
-> Instead, I’d like this to be a discussion between old and new media, > and how the old can be ushered into the new with the least trauma > possible. It does affect us all, and I’m not thrilled to be bullied, > but Wiley is a company which I’ve had just one interaction with (and > not a high-up). So, I want to give them every chance to respond to my > last email (still nothing so far).  
-> Who knows? Maybe when they see the amount of respectful, intelligent > discourse going on here (and other places) they might start to value > blogs as publication forums a bit more.
+> Some have called for the boycott of all Wiley journals. While I > appreciate the sentiment (more than any of you can know), I’m not sure > that that is the best idea for science. I’d like to think that we > bloggers can deal with these types of things with some grace, roll with the punches, get up, and keep on going. Wiley didn’t exercise the best judgment in choosing to prod me into submission, but I don’t think we have to return tit-for-tat.  
+> Instead, I’d like this to be a discussion between old and new media, > and how the old can be ushered into the new with the least trauma > possible. It does affect us all, and I’m not thrilled to be bullied, but Wiley is a company which I’ve had just one interaction with (and not a high-up). So, I want to give them every chance to respond to my last email (still nothing so far).  
+> Who knows? Maybe when they see the amount of respectful, intelligent discourse going on here (and other places) they might start to value blogs as publication forums a bit more.
 
 **Update II:** Bora has a [mega-roundup](http://scienceblogs.com/clock/2007/04/fair_use_and_open_science.php).  
 **Update:** Shelley is [encouraging a pile on](http://scienceblogs.com/retrospectacle/2007/04/fair_use_piling_on_tomorrow_ta.php) tomorrow. If you have a blog, you have the power….  

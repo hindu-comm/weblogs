@@ -23,7 +23,7 @@ Now consider the repro-genetics article. This article is better than most in tha
 
 However, consider this segment:
 
-> “Where do you draw the line?” said Mark A. Rothstein, director of the > Bioethics Institute at the University of Louisville School of > Medicine. “On the one hand we have to view this as a positive in terms > of preventing disability and illness. But at what point are we > engaging in eugenics and not accepting the normal diversity within a > population?”
+> “Where do you draw the line?” said Mark A. Rothstein, director of the > Bioethics Institute at the University of Louisville School of > Medicine. “On the one hand we have to view this as a positive in terms of preventing disability and illness. But at what point are we engaging in eugenics and not accepting the normal diversity within a population?”
 
 Rothstein seems to be suggesting that extreme deviation from the population mean is an acceptable target for screening, but that (for example) variation within 3 SD of the mean should be off limits. I fail to see any good argument for such a differentiation.
 

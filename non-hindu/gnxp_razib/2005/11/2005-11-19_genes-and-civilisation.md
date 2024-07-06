@@ -13,7 +13,7 @@ Genes and Civilisation
 
 In a previous post on[interracial marriage](https://www.gnxp.com/blog/2005/08/interracial-marriage.php)I suggested:
 
-> It is conceivable…that the distinctive achievements of European > culture have depended on the prevalence of certain combinations of > intelligence and personality which in turn depended on > gene-combinations that are more common among Europeans than elsewhere, > and which would become rarer if the European gene-pool were to merge > with, say, the Chinese gene-pool. I don’t know of any serious evidence > for this, but I don’t think it can be dismissed as absurd.
+> It is conceivable…that the distinctive achievements of European > culture have depended on the prevalence of certain combinations of > intelligence and personality which in turn depended on > gene-combinations that are more common among Europeans than elsewhere, and which would become rarer if the European gene-pool were to merge with, say, the Chinese gene-pool. I don’t know of any serious evidence for this, but I don’t think it can be dismissed as absurd.
 
 In comments there was a lot of discussion on this point, so I want to consider it further. The present post will give some reasons for being sceptical about any close link between genes and cultural achievement, while a second post will give reasons for not dismissing it as absurd.
 

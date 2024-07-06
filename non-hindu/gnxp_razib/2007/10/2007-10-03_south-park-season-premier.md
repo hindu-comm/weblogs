@@ -13,7 +13,9 @@ You can [watch it online](http://allabout-sp.net/) today!
 
 ### Related Posts:
 
-- [South Park](https://www.gnxp.com/WordPress/2011/04/24/south-park-2/) - [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/) - [South Park
+- [South Park](https://www.gnxp.com/WordPress/2011/04/24/south-park-2/)
+- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/)
+- [South Park
   today](https://www.gnxp.com/WordPress/2008/03/12/south-park-today/) - [South Park + 300 =\>
   genius!!!!](https://www.gnxp.com/WordPress/2007/04/11/south-park-300-genius/) - [South Park Scientology
   episode](https://www.gnxp.com/WordPress/2006/03/21/south-park-scientology-episode/) - [Important

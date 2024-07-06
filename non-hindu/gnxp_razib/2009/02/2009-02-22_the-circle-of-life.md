@@ -11,8 +11,8 @@ The circle of life
 
 [In Turnabout, Children Care For Sick Elders](http://www.nytimes.com/2009/02/23/health/23care.html?pagewanted=print):
 
-> Partly paralyzed, with diabetes and colitis, Linda Lent needs > extensive care at home.  
-> But with her husband working long hours at a bowling alley, Ms. Lent, > 47, relies on a caregiver who travels by school bus toting a > homework-filled backpack: her 13-year-old daughter, Annmarie.
+> Partly paralyzed, with diabetes and colitis, Linda Lent needs extensive care at home.  
+> But with her husband working long hours at a bowling alley, Ms. Lent, 47, relies on a caregiver who travels by school bus toting a homework-filled backpack: her 13-year-old daughter, Annmarie.
 
 Younger people caring for the aged or ill is nothing new, it’s the way it’s always been. Widespread outsourcing the care of the elderly and the very young to “professionals” is an innovation of the market economy. But there are other issues that the modern world imposes  
 1) Health care has improved so that many will live on in a state of moderate to extreme morbidity deep into their 70s & 80s.  

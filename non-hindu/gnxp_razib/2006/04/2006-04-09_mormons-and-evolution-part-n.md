@@ -11,7 +11,7 @@ Mormons and evolution, part n
 
 Well…Mitt Romney’s stock is starting to rise from what I can sense, not that I’m much of a politics follower. I’ve expressed why I’m skeptical of Romney’s [candidacy](https://www.gnxp.com/blog/2005/09/one-nation-under-gods-and-mitt-romney.php), in short, **I doubt Americans are ready to elect a non-monotheist to our highest office**. That being said, here is a revealing [quote](http://www.sltrib.com/arts/ci_3688637) from the president of the Latter Day Saints:
 
-> Although there’s nothing in *Mormonism and Evolution* to suggest any > high church official agrees with that accommodation, the next to last > document in the book, a quote from current church president Gordon B. > Hinckley, is revealing. He told a reporter in 2002 he had studied > evolution. “Studied all about it,” he said. “Didn’t bother me then. > Doesn’t bother me now.”
+> Although there’s nothing in *Mormonism and Evolution* to suggest any > high church official agrees with that accommodation, the next to last > document in the book, a quote from current church president Gordon B. Hinckley, is revealing. He told a reporter in 2002 he had studied evolution. “Studied all about it,” he said. “Didn’t bother me then. Doesn’t bother me now.”
 
 Remember, this is a religion which believes that humans evolve up a great chain of being.
 

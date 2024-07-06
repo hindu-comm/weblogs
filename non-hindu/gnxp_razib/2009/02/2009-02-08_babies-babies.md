@@ -11,9 +11,9 @@ Babies, babies….
 
 [And Baby Makes How Many?](http://www.nytimes.com/2009/02/08/fashion/08bigfam.html?pagewanted=print):
 
-> In 1976, census data show, 59 percent of women ages 40 to 44 had three > or more children, 20 percent had five or more and 6 percent had seven > or more. >
-> By 2006, four decades after the Supreme Court declared a > constitutional right to use birth control (and the last year available > from census studies), 28 percent of women ages 40 to 44 had three or > more children, 4 percent had five or more and just 0.5 percent had > seven or more. >
-> “Three is still O.K.,” said Michelle Lehmann, the founder of > lotsofkids.com and a mother of eight children who lives outside > Chicago. “When you have four, people start raising eyebrows. **When > you go to five, people are like, ‘No way.'”**
+> In 1976, census data show, 59 percent of women ages 40 to 44 had three or more children, 20 percent had five or more and 6 percent had seven or more. >
+> By 2006, four decades after the Supreme Court declared a > constitutional right to use birth control (and the last year available from census studies), 28 percent of women ages 40 to 44 had three or more children, 4 percent had five or more and just 0.5 percent had seven or more. >
+> “Three is still O.K.,” said Michelle Lehmann, the founder of lotsofkids.com and a mother of eight children who lives outside Chicago. “When you have four, people start raising eyebrows. **When you go to five, people are like, ‘No way.'”**
 
 ### Related Posts:
 

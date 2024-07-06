@@ -11,7 +11,7 @@ Cheaters beware
 
 [More ‘altruistic’ punishment in larger societies](http://journals.royalsociety.org/content/p542u4871xu4324g/):
 
-> …Second-party punishment is when you punish someone who defected on > you; third-party punishment is when you punish someone who defected on > someone else. Third-party punishment is an effective way to enforce > the norms of strong reciprocity and promote cooperation. Here we > present new results that expand on a previous report from a large > cross-cultural project. This project has already shown that there is > considerable cross-cultural variation in punishment and cooperation. > Here we test the hypothesis that population size (and complexity) > predicts the level of third-party punishment. Our results show that > people in larger, more complex societies engage in significantly more > third-party punishment than people in small-scale societies.
+> …Second-party punishment is when you punish someone who defected on > you; third-party punishment is when you punish someone who defected on > someone else. Third-party punishment is an effective way to enforce > the norms of strong reciprocity and promote cooperation. Here we > present new results that expand on a previous report from a large > cross-cultural project. This project has already shown that there is > considerable cross-cultural variation in punishment and cooperation. > Here we test the hypothesis that population size (and complexity) predicts the level of third-party punishment. Our results show that people in larger, more complex societies engage in significantly more third-party punishment than people in small-scale societies.
 
 ### Related Posts:
 

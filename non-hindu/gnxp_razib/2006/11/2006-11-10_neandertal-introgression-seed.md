@@ -11,7 +11,7 @@ Neandertal introgression & SEED
 
 *SEED* [hits the major points](http://www.seedmagazine.com/news/2006/11/post_4.php?page=all&p=y), and Paabo confirms:
 
-> At last, anthropology and genetics have a point of agreement in terms > of the fate of Neanderthals. Henry Harpending, an anthropologist at > the University of Utah who edited Lahn’s paper, described the analysis > supporting its conclusions as “quite bulletproof.”**Pääbo, made famous > for his mtDNA evidence against interbreeding, hailed it as “the most > compelling case to date showing a genetic contribution of Neanderthals > to modern humans,” and said he plans to to seek confirmation of Lahn’s > findings in his own work on the Neanderthal genome.**
+> At last, anthropology and genetics have a point of agreement in terms > of the fate of Neanderthals. Henry Harpending, an anthropologist at > the University of Utah who edited Lahn’s paper, described the analysis > supporting its conclusions as “quite bulletproof.”**Pääbo, made famous > for his mtDNA evidence against interbreeding, hailed it as “the most compelling case to date showing a genetic contribution of Neanderthals to modern humans,” and said he plans to to seek confirmation of Lahn’s findings in his own work on the Neanderthal genome.**
 
 ### Related Posts:
 

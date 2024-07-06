@@ -12,12 +12,12 @@ Talks and podcast
 The Henry Stewart [free ‘talk of the month’](http://www.hstalks.com/free-talks/index.htm) in on vascular tissue engineering.
 
 > Talk Summary >
-> Tissue engineering approaches â€“ Different cell sources for a blood > vessel substitute â€“ Circulating endothelial progenitor cells: their > characteristics, their use in a blood cell substitute and recruitment > from the host circulating blood â€“ Differentiation from ES into > endothelial cells in vitro and their endothelial-like characterization > â€“ The use of different types of scaffolds â€“ in vivo and in vitro > remodeling â€“ Engineering immune acceptance â€“ Clinical > applications: EC-seeded ePTFE grafts for peripheral applications and > cell-seeded polymer scaffold grafts for pulmonary artery/Fontan > procedure.
+> Tissue engineering approaches â€“ Different cell sources for a blood > vessel substitute â€“ Circulating endothelial progenitor cells: their > characteristics, their use in a blood cell substitute and recruitment > from the host circulating blood â€“ Differentiation from ES into > endothelial cells in vitro and their endothelial-like characterization > â€“ The use of different types of scaffolds â€“ in vivo and in vitro > remodeling â€“ Engineering immune acceptance â€“ Clinical applications: EC-seeded ePTFE grafts for peripheral applications and cell-seeded polymer scaffold grafts for pulmonary artery/Fontan procedure.
 
 Cell has [a new podcast](http://www.cellpress.com/misc/page?page=podcast).
 
 > June Podcast >
-> In our third podcast appearing online on 14th June 2007, Dr Emilie > Marcus talks to Dr Jonathan Weissman about exciting new technologies > that are changing the research enterprise and we hear from Dr John > Kuriyan about how kinases keep themselves switched off until they are > needed. We also learn about some of the exciting research published in > Cell in the last few months, including a study by Dr Wolf-Dieter > Schubert that shows how to coax a human pathogen to invade a mouse.
+> In our third podcast appearing online on 14th June 2007, Dr Emilie > Marcus talks to Dr Jonathan Weissman about exciting new technologies > that are changing the research enterprise and we hear from Dr John > Kuriyan about how kinases keep themselves switched off until they are needed. We also learn about some of the exciting research published in Cell in the last few months, including a study by Dr Wolf-Dieter Schubert that shows how to coax a human pathogen to invade a mouse.
 
 ### Related Posts:
 

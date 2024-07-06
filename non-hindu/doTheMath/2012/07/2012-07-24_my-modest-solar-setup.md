@@ -39,15 +39,27 @@ The following list isn’t quite at the level of detail you would need to replic
 
 ##### System 1: Running Television, DVD/VCR, stereo
 
-- Kyocera 130W polycrystalline panel, 16% efficient - Xantrex C-35 charge controller - 400W modified sine wave inverter (cheap!) - Trojan T-1275 golf-cart battery (12-volt, 150 amp-hour) - Class-T 110 Amp fuse & holder
+- Kyocera 130W polycrystalline panel, 16% efficient
+- Xantrex C-35 charge controller
+- 400W modified sine wave inverter (cheap!)
+- Trojan T-1275 golf-cart battery (12-volt, 150 amp-hour)
+- Class-T 110 Amp fuse & holder
 
 ##### System 2: Running Two CFL Torchier Lights
 
-- Unisolar 64W multi-junction thin-film PV panel, 8% efficient - Phocos CML-20 charge controller - 400W modified sine wave inverter - Trojan T-1275 golf-cart battery (12-volt, 150 amp-hour) - Class-T 110 Amp fuse
+- Unisolar 64W multi-junction thin-film PV panel, 8% efficient
+- Phocos CML-20 charge controller
+- 400W modified sine wave inverter
+- Trojan T-1275 golf-cart battery (12-volt, 150 amp-hour)
+- Class-T 110 Amp fuse
 
 ##### Shared Items
 
-- Current shunts for later use with system monitor - Extension cords for delivering power indoors - Lots of \#6, \#8, \#10 stranded wire in red, white, and green - Quality crimper, crimp rings, heat shrink - Conduit, feedthroughs, terminals, ground clamp, etc.
+- Current shunts for later use with system monitor
+- Extension cords for delivering power indoors
+- Lots of \#6, \#8, \#10 stranded wire in red, white, and green
+- Quality crimper, crimp rings, heat shrink
+- Conduit, feedthroughs, terminals, ground clamp, etc.
 
 Trojan T-105 batteries (6-volt 225 amp-hours) are more frequently seen in PV systems than are T-1275 units. I opted for the T-1275 because I favored a single 12-volt unit for convenience. Later, in researching battery details for the [nation-sized battery post](https://dothemath.ucsd.edu/2011/08/nation-sized-battery/ "A Nation-Sized Battery"), I learned from a Trojan engineer that the T-1275 and T-105 cells use exactly the same lead plates/grids. So they should have the same cycle performance—just packaged differently and with differing capacity.
 Incidentally, a battery’s storage capacity in kilowatt-hours can be obtained simply by multiplying voltage and amp-hour capacity (then dividing by 1000). So the T-1275 battery, at 12V and 150Ah, comes to 1.8 kWh, for instance.
@@ -102,7 +114,8 @@ As satisfying as it was to watch movies and entertain guests on the modest syste
 
 #### New Items:
 
-- Outback VFX3524 3500 Watt, 24 volt inverter - Outback “Mate” for indoor display and access to advanced inverter
+- Outback VFX3524 3500 Watt, 24 volt inverter
+- Outback “Mate” for indoor display and access to advanced inverter
   settings - Outback Hub to link charge controller and inverter with the “Mate”
 
 The MPPT charge controller allowed complete freedom as to how the panels were configured. So in February 2008, I switched over to the single system, using two 130W panels in series. After a mere four days, I added a third panel in series (the MPPT makes it *that* easy). Three months later, I had four panels running in series. At this point, I had an open-circuit voltage (maximum voltage that panels reach when no current is delivered) in the neighborhood of 80 volts. My circuit breakers were rated for 80V, so I became shy about simply extending series combinations beyond this—even though during proper operation the voltage drop across the breaker is trivially small. The point of a breaker is to offer protection if something shorts out or goes wrong.
@@ -120,7 +133,15 @@ And I don’t have to be vigilant about the battery state-of-charge with the eve
 
 In late 2009, we stepped back into the housing market after a crash-hiatus. This meant I could configure my house any way I wanted, up to spousal approval. Okay. Eight panels this time. More power. More stuff connected. But extension cords running through the house was a non-starter. So I set about running standard household electrical cable through the house (attic/walls) to dedicated PV power outlets (colored gray) throughout the house in strategic locations. I put a breaker box next to the PV installation so the dedicated PV circuits would have over-current protection. At present, I have five outlets throughout the house running on PV, plus the direct-wired attic fan. The items powered by the PV system change a bit from time to time (no longer run TiVo; changed fridge; changed television). At present, we run:
 
-- Refrigerator (40W average) - attic fan (on thermostat; can easily switch to utility as needed) - LCD TV (20–45W when on, depending on Eco mode) - Entertainment cabinet (stereo, DVD/VCR, Roku) - Cable modem and wireless router - “Normal” locations of two laptop computers - Printer (hog when off, at 9W!) - TED LCD display - garage plug for electronics projects, charging cordless tool
+- Refrigerator (40W average)
+- attic fan (on thermostat; can easily switch to utility as needed)
+- LCD TV (20–45W when on, depending on Eco mode)
+- Entertainment cabinet (stereo, DVD/VCR, Roku)
+- Cable modem and wireless router
+- “Normal” locations of two laptop computers
+- Printer (hog when off, at 9W!)
+- TED LCD display
+- garage plug for electronics projects, charging cordless tool
   batteries, etc.
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/elec-use-pv.png "elec-use-pv")](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/elec-use-pv.png)

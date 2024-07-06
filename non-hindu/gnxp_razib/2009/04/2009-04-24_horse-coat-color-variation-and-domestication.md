@@ -11,7 +11,7 @@ Horse coat color variation and domestication
 
 [Coat Color Variation at the Beginning of Horse Domestication](http://www.sciencemag.org/cgi/content/abstract/324/5926/485):
 
-> The transformation of wild animals into domestic ones available for > human nutrition was a key prerequisite for modern human societies. > However, no other domestic species has had such a substantial impact > on the warfare, transportation, and communication capabilities of > human societies as the horse. Here, we show that the analysis of > ancient DNA targeting nuclear genes responsible for coat coloration > allows us to shed light on the timing and place of horse > domestication.**We conclude that it is unlikely that horse > domestication substantially predates the occurrence of coat color > variation, which was found to begin around the third millennium before > the common era.**
+> The transformation of wild animals into domestic ones available for > human nutrition was a key prerequisite for modern human societies. > However, no other domestic species has had such a substantial impact > on the warfare, transportation, and communication capabilities of > human societies as the horse. Here, we show that the analysis of > ancient DNA targeting nuclear genes responsible for coat coloration > allows us to shed light on the timing and place of horse > domestication.**We conclude that it is unlikely that horse domestication substantially predates the occurrence of coat color variation, which was found to begin around the third millennium before the common era.**
 
 Also see [ScienceDaily](http://www.sciencedaily.com/releases/2009/04/090423142541.htm).
 

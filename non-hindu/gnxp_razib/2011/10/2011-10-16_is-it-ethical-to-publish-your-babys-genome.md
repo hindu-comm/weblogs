@@ -15,7 +15,8 @@ But then again, **this is a quantitative issue, not a qualitative one.** Genetic
 
 ### Related Posts:
 
-- [Genomes Unzipped - the naked
+- [Genomes Unzipped
+- the naked
   sequence](https://www.gnxp.com/WordPress/2010/10/11/genomes-unzipped-the-naked-sequence/) - [Genetic Future has
   moved!](https://www.gnxp.com/WordPress/2011/01/18/genetic-future-has-moved/) - [It all started with talk.origins (and
   Usenet)](https://www.gnxp.com/WordPress/2012/05/07/it-all-started-with-talk-origins-and-usenet/) - [Is publishing your genotype

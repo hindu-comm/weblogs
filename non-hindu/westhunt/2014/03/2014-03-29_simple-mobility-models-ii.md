@@ -83,13 +83,15 @@ no*need* to invoke any social or cultural transmission at all.
 
 ------------------------------------------------------------------------
 
-1.  Clark, G., 2014. The Son Also Rises: Surnames and the History of
+1.  Clark, G.,
+2014. The Son Also Rises: Surnames and the History of
     Social Mobility. Princeton University Press.
     [↩](1 "return to article")
 2.  Intergenerational income mobility in Sweden compared to the United
     States. A. Björklund and M. Jäntti.  
     The American Economic Review (1997):1009–1018.
     [↩](2 "return to article")
-3.  Clark, G., 2007. A Farewell to Alms. Princeton: Princeton University
+3.  Clark, G.,
+2007. A Farewell to Alms. Princeton: Princeton University
     Press. [↩](3 "return to article")
 

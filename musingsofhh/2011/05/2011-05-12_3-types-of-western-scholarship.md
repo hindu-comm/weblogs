@@ -120,7 +120,17 @@ Advertisement
 
 **Tagged with:**
 
-- [bhagavat](https://musingsofhh.wordpress.com/tag/bhagavat/) - [brahmana](https://musingsofhh.wordpress.com/tag/brahmana/) - [edwin bryant](https://musingsofhh.wordpress.com/tag/edwin-bryant/) - [fritz staal](https://musingsofhh.wordpress.com/tag/fritz-staal/) - [george hart](https://musingsofhh.wordpress.com/tag/george-hart/) - [gonda](https://musingsofhh.wordpress.com/tag/gonda/) - [indologists](https://musingsofhh.wordpress.com/tag/indologists/) - [mahabharata](https://musingsofhh.wordpress.com/tag/mahabharata/) - [parpola](https://musingsofhh.wordpress.com/tag/parpola/) - [van Buitenen](https://musingsofhh.wordpress.com/tag/van-buitenen/) - [witzel](https://musingsofhh.wordpress.com/tag/witzel/)
+- [bhagavat](https://musingsofhh.wordpress.com/tag/bhagavat/)
+- [brahmana](https://musingsofhh.wordpress.com/tag/brahmana/)
+- [edwin bryant](https://musingsofhh.wordpress.com/tag/edwin-bryant/)
+- [fritz staal](https://musingsofhh.wordpress.com/tag/fritz-staal/)
+- [george hart](https://musingsofhh.wordpress.com/tag/george-hart/)
+- [gonda](https://musingsofhh.wordpress.com/tag/gonda/)
+- [indologists](https://musingsofhh.wordpress.com/tag/indologists/)
+- [mahabharata](https://musingsofhh.wordpress.com/tag/mahabharata/)
+- [parpola](https://musingsofhh.wordpress.com/tag/parpola/)
+- [van Buitenen](https://musingsofhh.wordpress.com/tag/van-buitenen/)
+- [witzel](https://musingsofhh.wordpress.com/tag/witzel/)
 
 **[The pravargya ritual](https://musingsofhh.wordpress.com/2011/05/12/the-pravargya-ritual/)**
 

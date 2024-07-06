@@ -16,7 +16,8 @@ At least 6 known murders this spring. How many more unsolved mysteries? How many
 
 ### Related Posts:
 
-- [I am evil](https://www.gnxp.com/WordPress/2006/03/28/i-am-evil/) - [Pigmentation variation in
+- [I am evil](https://www.gnxp.com/WordPress/2006/03/28/i-am-evil/)
+- [Pigmentation variation in
   humans](https://www.gnxp.com/WordPress/2009/03/18/pigmentation-variation-in-humans/) - [The luck of the
   Irish](https://www.gnxp.com/WordPress/2010/03/18/the-luck-of-the-irish/) - [Eliezer Yudkowsky staying on
   Bloggingheads.tv](https://www.gnxp.com/WordPress/2009/09/08/eliezer-yudkowsky-staying-on-bloggingheads-tv/) - [Meow Friday](https://www.gnxp.com/WordPress/2006/04/28/meow-friday/) - [Evil ideas](https://www.gnxp.com/WordPress/2006/03/13/evil-ideas/)

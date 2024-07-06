@@ -15,7 +15,8 @@ Do you think *The New York Times* reporter was playing an inside joke? Or is Jam
 
 ### Related Posts:
 
-- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Has the Insane Clown Posse gone
+- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/)
+- [Has the Insane Clown Posse gone
   insane?](https://www.gnxp.com/WordPress/2010/04/20/has-the-insane-clown-posse-gone-insane/) - [Important New York Times
   Article](https://www.gnxp.com/WordPress/2007/11/12/important-new-york-times-article/) - [James F. Crow,
   1916-2012](https://www.gnxp.com/WordPress/2012/01/05/james-f-crow-1916-2012/) - [James F. Crow

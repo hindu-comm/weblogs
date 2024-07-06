@@ -14,7 +14,10 @@ I’ve been working on the [South Asian Genotype Project](https://www.gnxp.com/W
 
 In the subject please put:
 
-1.  “South Asian Genotype Project” 2.  The state/province your family is from 3.  Ethnolinguistic group 4.  If applicable, caste
+1.  “South Asian Genotype Project”
+2.  The state/province your family is from
+3.  Ethnolinguistic group
+4.  If applicable, caste
 
 I changed the reference populations because the earlier ones were too complicated. You can see the population averages from public data sets for some groups. The results for project members are [here](https://docs.google.com/spreadsheets/d/124F0p1foJpnSt2DJcmo_cgxhq1sht34WLErxU9TJuRw/edit?usp=sharing). I re-ran everyone who has sent data in so far. I’ll leave commentary for later.
 

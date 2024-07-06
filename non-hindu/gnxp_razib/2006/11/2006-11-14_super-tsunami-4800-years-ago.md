@@ -11,9 +11,9 @@ Super-tsunami 4,800 years ago?
 
 [Ancient Crash, Epic Wave](http://www.nytimes.com/2006/11/14/science/14WAVE.html?_r=1&oref=slogin&pagewanted=all) is a story in *The New York Times* about an enormous impact 4,800 years which might have had world-wide repercussions:
 
-> At the southern end of Madagascar lie four enormous wedge-shaped > sediment deposits, called chevrons, that are composed of material from > the ocean floor. Each covers twice the area of Manhattan with sediment > as deep as the Chrysler Building is high.  
+> At the southern end of Madagascar lie four enormous wedge-shaped sediment deposits, called chevrons, that are composed of material from the ocean floor. Each covers twice the area of Manhattan with sediment as deep as the Chrysler Building is high.  
 > …  
-> The explanation is obvious to some scientists. A large asteroid or > comet, **the kind that could kill a quarter of the world’s > population**, smashed into the Indian Ocean 4,800 years ago, producing > a tsunami at least 600 feet high, about 13 times as big as the one > that inundated Indonesia nearly two years ago. The wave carried the > huge deposits of sediment to land.
+> The explanation is obvious to some scientists. A large asteroid or > comet, **the kind that could kill a quarter of the world’s > population**, smashed into the Indian Ocean 4,800 years ago, producing a tsunami at least 600 feet high, about 13 times as big as the one that inundated Indonesia nearly two years ago. The wave carried the huge deposits of sediment to land.
 
 If it killed 1/4 of the world’s population, and probably a disproportionate number around the rim of the Indian Ocean, we would probably be able to see a concurrent population bottleneck, and subsequent demographic expansion, in the genetic record. The [Toba Catastrophe Theory](https://en.wikipedia.org/wiki/Toba_catastrophe_theory) after all is predicated on population genetic signatures correlated with a volcanic explosion 75,000 years ago.
 

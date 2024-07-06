@@ -15,7 +15,7 @@ Scott Jackisch (a.k.a., “Oakland Futurist Guy”) has a post up with the title
 
 Mama June farting up a storm is still superior to cat burning. But about the Sistine Chapel, I’ll leave you with [Mr. Jackisch’s ruminations](http://sjackisch.wordpress.com/2012/11/04/jersey-shore-is-better-than-cat-burning/) on that and genital mutilation:
 
-> Take genital mutilation. That’s cultural. I place it right along side > of the Sistine Chapel as an example of culture. Most of the Mills > Students agreed that we need to take the good and leave the bad behind > in regard to the old cultures. **But I wonder how divisible cultural > artifacts truly are.** Is the Sistine Chapel integrally linked to > oppression and Inquisition? Can the beauty really be expunged of the > horrors that funded it and the message it inheres? Some things were > lost with the passing of Culture. Some horrible things along with the > great.
+> Take genital mutilation. That’s cultural. I place it right along side > of the Sistine Chapel as an example of culture. Most of the Mills > Students agreed that we need to take the good and leave the bad behind > in regard to the old cultures. **But I wonder how divisible cultural > artifacts truly are.** Is the Sistine Chapel integrally linked to > oppression and Inquisition? Can the beauty really be expunged of the horrors that funded it and the message it inheres? Some things were lost with the passing of Culture. Some horrible things along with the great.
 
 The question of modularity and contingency in cultural production is one that we don’t often consider. I suspect it’s because we don’t want to.
 

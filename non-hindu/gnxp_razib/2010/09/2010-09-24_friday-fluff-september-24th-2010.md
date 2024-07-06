@@ -17,7 +17,7 @@ Friday Fluff – September 24th, 2010
 
 3\. **Comment of the week**, in response to [Swedes are not sexist or nativist](http://blogs.discovermagazine.com/gnxp/2010/09/swedes-are-not-sexist-or-nativist/#comments):
 
-> I’ve been living in Sweden for somewhat more than a year now. I > previously lived in Canada, the USA, and Germany. From those > countries, the Swedes are at least in my impression the most backward > thinking nation I’ve encountered. Nowhere else have I heard so often > the replies “Because we’ve always done it like that.” or “That’s just > how we do it in Sweden,” when I inquired about the reason for a > particularly dumb procedure or policy. (An example: You won’t get a > contract for a phone unless you’ve paid taxes for at least 7 months. > WTF, I wonder, is that business of the phone company? And let me not > get started about the rental situation in that country, but hey, > they’ve always done it like that.) I always want to tell them, if we’d > all be thinking that way, we’d still live in the stone age. But then, > the Swedes are way too polite to tolerate my bickering.
+> I’ve been living in Sweden for somewhat more than a year now. I > previously lived in Canada, the USA, and Germany. From those > countries, the Swedes are at least in my impression the most backward > thinking nation I’ve encountered. Nowhere else have I heard so often > the replies “Because we’ve always done it like that.” or “That’s just > how we do it in Sweden,” when I inquired about the reason for a > particularly dumb procedure or policy. (An example: You won’t get a > contract for a phone unless you’ve paid taxes for at least 7 months. > WTF, I wonder, is that business of the phone company? And let me not > get started about the rental situation in that country, but hey, they’ve always done it like that.) I always want to tell them, if we’d all be thinking that way, we’d still live in the stone age. But then, the Swedes are way too polite to tolerate my bickering.
 
 4\) **Poll question**….
 
@@ -29,7 +29,8 @@ Friday Fluff – September 24th, 2010
 
 ### Related Posts:
 
-- [Friday Fluff - September 17th,
+- [Friday Fluff
+- September 17th,
   2010](https://www.gnxp.com/WordPress/2010/09/17/friday-fluff-september-17th-2010/) - [Friday Fluff - October 8th,
   2010](https://www.gnxp.com/WordPress/2010/10/08/friday-fluff-october-8th-2010/) - [Friday Fluff – January 28th,
   2011](https://www.gnxp.com/WordPress/2011/01/28/friday-fluff-january-28th-2011/) - [Friday Fluff – December 3rd,

@@ -11,8 +11,8 @@ Neandertals & humans gettin’ along
 
 [Were Neanderthals our enemies or lovers?](http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2007/07/31/scineanderthal131.xml):
 
-> One difficulty in working out how these ancient humans rubbed along is > that there is a lack of clear evidence of close encounters. That > changed two years ago when a paper was published by Prof Paul Mellars, > of Cambridge University, and his student Brad Gravina, suggesting the > two kinds of human lived together at Grotte des Fées at Châtelperron > in France.  
-> The study was criticised but the Cambridge team published a detailed > rebuttal. **“The importance of the new paper is that it confirms at > least 2,000 years of coexistence/overlap between Neanderthals and > modern humans in this one small region**,” said Prof Mellars. “This is > the only direct, unambiguous evidence of this so far.”
+> One difficulty in working out how these ancient humans rubbed along is > that there is a lack of clear evidence of close encounters. That > changed two years ago when a paper was published by Prof Paul Mellars, of Cambridge University, and his student Brad Gravina, suggesting the two kinds of human lived together at Grotte des Fées at Châtelperron in France.  
+> The study was criticised but the Cambridge team published a detailed > rebuttal. **“The importance of the new paper is that it confirms at least 2,000 years of coexistence/overlap between Neanderthals and modern humans in this one small region**,” said Prof Mellars. “This is the only direct, unambiguous evidence of this so far.”
 
 ### Related Posts:
 

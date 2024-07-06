@@ -11,7 +11,8 @@ Are Jews white?
 
 A little over two years ago I [put up](http://blogs.discovermagazine.com/gnxp/2010/06/genetics-the-jewish-question/) [some posts](http://blogs.discovermagazine.com/gnxp/2010/06/genetics-the-jews-its-still-complicated/) on Jewish genetics due to the publication of some really exciting research. Looking at the referrals I noticed two trends which together were relatively bizarre. People would look [at the same PCA plot and conclude that](http://www.nature.com/nature/journal/v466/n7303/images/nature09103-f2.2.jpg):
 
-- Ashkenazi Jews are white - Ashkenazi Jews are non-white
+- Ashkenazi Jews are white
+- Ashkenazi Jews are non-white
 
 First, some context. Most of these referrals were from websites with [white nationalist](https://en.wikipedia.org/wiki/White_nationalism) or quasi-white nationalist sympathies. The non-Jews of this set tended toward the position that Jews were non-white, while the Jews felt that the genetic results vindicated the whiteness of Jews. In some cases the links were from Jews who were not necessarily white nationalists, but were also keen on making it clear that European Jews were not [“schwartza”](http://www.urbandictionary.com/define.php?term=schwartza).
 

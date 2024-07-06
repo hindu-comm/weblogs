@@ -11,13 +11,13 @@ The "Jews" of Afghanistan?
 
 [Hazaras Hustle to Head of the Class in Afghanistan](http://www.nytimes.com/2010/01/04/world/asia/04hazaras.html?ref=global-home&pagewanted=print):
 
-> For much of this country’s history, the Hazara were typically > servants, cleaners, porters and little else, a largely Shiite minority > sidelined for generations, and in some instances massacred, by Pashtun > rulers. >
+> For much of this country’s history, the Hazara were typically servants, cleaners, porters and little else, a largely Shiite minority sidelined for generations, and in some instances massacred, by Pashtun rulers. >
 > … >
-> The Hazara resurgence is not so geographically concentrated. The > principal Hazara provinces, while relatively safe, remain impoverished > and, their leaders complain, are bypassed by the foreign aid sent to > Pashtun areas as a carrot to lure people from the insurgency. >
-> Instead, it is a revival built largely on education, an asset Hazaras > could carry with them during their years as refugees. >
-> “With education you can take everything you want,” says Qasim, one of > Mustafa’s classmates, a 15-year-old Hazara who moved to Kabul, the > Afghan capital, from the northern city of Kunduz five years ago > because his parents wanted better-educated children. >
-> The old Afghan rulers “wanted to exploit Hazara people, and they > didn’t want us to become leaders in this country or to improve,” he > said. But that will change. “By studying we can dictate our future.” >
-> The Hazara gains have already been rapid. Two Hazara-dominated > provinces, Bamian and Daykondi, have the highest passing rates on > admissions exams for the country’s top rung of universities, according > to officials from the Ministry of Higher Education. In the high school > graduating class of 2008, three-fourths of students in Daykondi who > took the test passed, and two-thirds in Bamian, compared with the > national rate of 22 percent.
+> The Hazara resurgence is not so geographically concentrated. The principal Hazara provinces, while relatively safe, remain impoverished and, their leaders complain, are bypassed by the foreign aid sent to Pashtun areas as a carrot to lure people from the insurgency. >
+> Instead, it is a revival built largely on education, an asset Hazaras could carry with them during their years as refugees. >
+> “With education you can take everything you want,” says Qasim, one of Mustafa’s classmates, a 15-year-old Hazara who moved to Kabul, the Afghan capital, from the northern city of Kunduz five years ago because his parents wanted better-educated children. >
+> The old Afghan rulers “wanted to exploit Hazara people, and they didn’t want us to become leaders in this country or to improve,” he said. But that will change. “By studying we can dictate our future.” >
+> The Hazara gains have already been rapid. Two Hazara-dominated > provinces, Bamian and Daykondi, have the highest passing rates on > admissions exams for the country’s top rung of universities, according > to officials from the Ministry of Higher Education. In the high school graduating class of 2008, three-fourths of students in Daykondi who took the test passed, and two-thirds in Bamian, compared with the national rate of 22 percent.
 
 As some of you know during the Taliban years the part-Mongol Shia Hazaras were targeted for cultural, and sometimes physical, genocide. From what I know their residence in the highlands of central Afghanistan is partially a function of their marginalization; many persecuted minorities withdraw to geographically isolated regions to escape notice. In any case, at the current pace it looks like the Hazaras will flood the service sectors of the Afghan economy in the near future. I assume there will be demands for quotas for Tajiks and Pashtuns at some point….
 

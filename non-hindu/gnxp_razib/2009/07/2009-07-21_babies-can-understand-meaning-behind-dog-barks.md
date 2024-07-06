@@ -11,8 +11,8 @@ Babies can understand meaning behind dog barks?
 
 We know that [dogs can read human faces](http://www.sciencemag.org/cgi/content/abstract/298/5598/1634), it turns out that [babies can infer the meaning of different dog barks](http://www.sciencedaily.com/releases/2009/07/090720163559.htm):
 
-> New research shows babies have a handle on the meaning of different > dog barks – despite little or no previous exposure to dogs.  
-> Infants just 6 months old can match the sounds of an angry snarl and a > friendly yap to photos of dogs displaying threatening and welcoming > body language.
+> New research shows babies have a handle on the meaning of different dog barks – despite little or no previous exposure to dogs.  
+> Infants just 6 months old can match the sounds of an angry snarl and a friendly yap to photos of dogs displaying threatening and welcoming body language.
 
 ### Related Posts:
 

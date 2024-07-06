@@ -15,7 +15,7 @@ I was interested to see that the origin of the term was ascribed to **Francis Ga
 
 On searching the internet for ‘genophilia’ I came across a Wiktionary entry for that term, which states (as of 24 October 2007), that the term was ‘apparently coined by Sir Francis Galton’, and contains the following alleged quotation:
 
-> 1883: We would include among our standards of eugenic value sound > physical health and good physique, intelligence, and moral qualities > which make for social cohesion. The latter would comprise courage (but > not aggressiveness), serenity or contentment, and cooperativeness. We > would also here include the quality described above as genophilia > (love of children). – Sir Francis Galton, Inquiries into Human Faculty > and Development (Macmillan 1883)
+> 1883: We would include among our standards of eugenic value sound > physical health and good physique, intelligence, and moral qualities > which make for social cohesion. The latter would comprise courage (but > not aggressiveness), serenity or contentment, and cooperativeness. We would also here include the quality described above as genophilia (love of children). – Sir Francis Galton, Inquiries into Human Faculty and Development (Macmillan 1883)
 
 I have been unable to find this passage in Galton’s ‘Inquiries into Human Faculty and its \[sic\] Development’ or any other of Galton’s works. The substance and style of the passage are vaguely Galtonian, but there are three points of difficulty:
 

@@ -11,7 +11,7 @@ Is fertility heritable?
 
 [Correlation of Intergenerational Family Sizes Suggests a Genetic Component of Reproductive Fitness](http://www.journals.uchicago.edu/AJHG/journal/issues/v81n1/44597/brief/44597.abstract.html):
 
-> Reproductive fitness is a complex phenotype that is a direct measure > of Darwinian selection. Estimation of the genetic contribution to this > phenotype in human populations is confounded by within-family > correlations of sociocultural, economic, and other nongenetic factors > that influence family sizes. Here, we report an intergenerational > correlation in reproductive success in the Hutterites, a human > population that is relatively homogeneous with respect to > sociocultural factors that influence fertility…We interpret these > results as indicating a significant genetic component to reproductive > fitness in the Hutterites.
+> Reproductive fitness is a complex phenotype that is a direct measure > of Darwinian selection. Estimation of the genetic contribution to this > phenotype in human populations is confounded by within-family > correlations of sociocultural, economic, and other nongenetic factors > that influence family sizes. Here, we report an intergenerational > correlation in reproductive success in the Hutterites, a human > population that is relatively homogeneous with respect to sociocultural factors that influence fertility…We interpret these results as indicating a significant genetic component to reproductive fitness in the Hutterites.
 
 The Hutterites are notoriously fecund, I wouldn’t be surprised if recent, recent, human evolution is at work here….
 

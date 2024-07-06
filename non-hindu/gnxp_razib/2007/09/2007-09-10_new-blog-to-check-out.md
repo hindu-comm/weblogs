@@ -13,7 +13,8 @@ Our local unicorn rider TGGP has a [blog up](http://entitledtoanopinion.wordpres
 
 ### Related Posts:
 
-- [I'm back!](https://www.gnxp.com/WordPress/2006/12/07/im-back/) - [New blog
+- [I'm back!](https://www.gnxp.com/WordPress/2006/12/07/im-back/)
+- [New blog
   posts](https://www.gnxp.com/WordPress/2007/02/27/new-blog-posts/) - [Notes on the
   future](https://www.gnxp.com/WordPress/2011/01/27/notes-on-the-future/) - [Spengler's
   game](https://www.gnxp.com/WordPress/2009/05/28/spengler-s-game/) - [Crazy delicious! (update: or nasty

@@ -17,7 +17,8 @@ Addendum: One thing I found interesting was the suggestion that one of the major
 
 ### Related Posts:
 
-- [Mongol](https://www.gnxp.com/WordPress/2010/01/23/mongol/) - [Summer books, what's
+- [Mongol](https://www.gnxp.com/WordPress/2010/01/23/mongol/)
+- [Summer books, what's
   readable?](https://www.gnxp.com/WordPress/2010/07/27/summer-books-whats-readable/) - [The greatest killer of all
   time?](https://www.gnxp.com/WordPress/2020/08/18/the-greatest-killer-of-all-time/) - [Perhaps the 'Genghis Khan haplotype' is not Genghis
   Khan's?](https://www.gnxp.com/WordPress/2018/02/03/perhaps-the-genghis-khan-modal-haplotype-is-not-genghis-khans/) - [The real secret history of the

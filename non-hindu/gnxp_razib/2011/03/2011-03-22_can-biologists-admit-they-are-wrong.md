@@ -11,7 +11,7 @@ Can biologists admit they are wrong?
 
 Jason Collins, an economist strongly grounded in biological principles, [has a post up](http://www.jasoncollins.org/2011/03/economists-and-biology/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+jasoncollins+%28Evolving+Economics%29) in response to [Mike the Mad Biologist’s critique of economic misunderstandings of biology](http://scienceblogs.com/mikethemadbiologist/2011/03/when_economists_misunderstand.php). Jason asks:
 
-> On the flip side, did Dawkins or Gould (or their respective > supporters) ever concede to the other side that they were wrong and > substantially change their world view?
+> On the flip side, did Dawkins or Gould (or their respective supporters) ever concede to the other side that they were wrong and substantially change their world view?
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/479px-Richard_Dawkins_Cooper_Union_Shankbone1.jpg?resize=200%2C266)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/479px-Richard_Dawkins_Cooper_Union_Shankbone1.jpg?resize=200%2C266)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/03/479px-Richard_Dawkins_Cooper_Union_Shankbone1.jpg)  
 ***WRONG!***

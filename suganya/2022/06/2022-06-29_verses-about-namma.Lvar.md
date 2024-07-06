@@ -23,7 +23,7 @@ Let’s look at an example now. This following verse is attributed to a certain 
 
 *cāykkum paṭikkuk kavi-pāṭu ñāṉat tamiḻkkaṭalē.*
 
-> You gave the Supreme Abode to the dog that ate up the leftover from > the sacred streets of the flourishing Kurukai!Will it be wrong to > give a spot for this fiend along with that dog? O ocean of erudite > Tamil who sings poems in such a waythat the Lord inclines \[His\] > crown!
+> You gave the Supreme Abode to the dog that ate up the leftover from > the sacred streets of the flourishing Kurukai!Will it be wrong to give a spot for this fiend along with that dog? O ocean of erudite Tamil who sings poems in such a waythat the Lord inclines \[His\] crown!
 
 Isn’t this a wonderful verse? The earthy feel that it comes along with is so raw, I think. Such a crisp way of stating the greatness and purity of Nammāḻvār’s town. And, we can also see that it is Nammāḻvār, not Nārāyaṇa, who grants liberation. How surprising can that be, if he can make Him bend before his verses?
 

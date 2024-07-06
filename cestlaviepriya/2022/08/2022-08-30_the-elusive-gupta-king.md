@@ -13,7 +13,15 @@ Of the many mysteries of Indian history, the illustrious Gupta Empire can claim 
 
 Table of Contents & Links
 
--   [Background](#Background) -   [Numismatic Sources](#Numismatic-Sources) -   [Literary Sources](#Literary-Sources) -   **[Epigraphic Sources](#Epigraphic-Sources)** -   [Earlier Theories](#Earlier-Theories) -   **[Kācha and Rāmagupta – One and Same](#One-Same)** -   **[The Matrimonial Alliances](#Matrimonial-Alliances)** -   **[Conclusion](#Conclusion)** -   [Bibliography](#Bibliography)
+-   [Background](#Background)
+-   [Numismatic Sources](#Numismatic-Sources)
+-   [Literary Sources](#Literary-Sources)
+-   **[Epigraphic Sources](#Epigraphic-Sources)**
+-   [Earlier Theories](#Earlier-Theories)
+-   **[Kācha and Rāmagupta – One and Same](#One-Same)**
+-   **[The Matrimonial Alliances](#Matrimonial-Alliances)**
+-   **[Conclusion](#Conclusion)**
+-   [Bibliography](#Bibliography)
 
 **Background**
 
@@ -240,7 +248,7 @@ The argument that we discussed above regarding the title of Sarvarājochchettā 
 
 The often repeated claim that the names of Kācha and Rāmagupta are not found on any of the genealogical list of the Guptas has also been discussed in the sections above. Jayaswal has also put his views on the subject that the only role of inscriptions is to give the line of a particular king for example of Chandragupta II, Kumāragupta, Skandagupta and as the son and the descendants of Chandragupta II succeeded, there was therefore no necessity or even possibility for mentioning Rāmagupta. (Jayaswal, 1932; 23-24).
 
-> Neither Chandra-Gupta nor his descendants would go out of their way to > bring in Rāmagupta in the official records: the descent from father to > son was complete in itself. >
+> Neither Chandra-Gupta nor his descendants would go out of their way to bring in Rāmagupta in the official records: the descent from father to son was complete in itself. >
 > Jayaswal, 1932; 24
 
 We learn from the inscriptions of Chandragupta that his succession was specifically by the wishes of his father Samudragupta. The fact was mentioned to justify the unusual succession of the younger son, which became probably necessary on account of the existence of some other brother elder than Chandragupta (Jayaswal, 1932; 24). The Eraṇ inscription of Samudragupta mentions the existence of several sons and grandsons of Datta-Devī and Samudragupta. This detail has also been mentioned in the Majamal-ut-Tawārīkh that states about Rawwāl (identified with Rāmagupta) who had his ‘brothers’ with him, with possibly Barkamāris (identified with Chandragupta) being one of the younger ones. (Jayaswal, 1932; 24). Usually primogeniture has been the rule and not the exception but the Guptas seems to have given priority to talent. Jayaswal points to a rather continuous succession of young sons in the dynasty—e.g. in the known cases of Samudragupta, Chandragupta and Skandagupta and this also explains, according to him the high average of reigns in the dynasty (Jayaswal, 1932; 24).
@@ -262,12 +270,12 @@ The Gupta monarchs have always had a good eye in choosing their successor, even 
 
 There are two possibilities as to why Rāmagupta issued his copper coins. An earlier theory suggested by Altekar was that the coinage in ancient India was local and it is quite likely that a need for small copper currency, similar to the Nāga coinage current earlier there, may have been felt by the Gupta administration after the region was conquered by Samudragupta. And Rāmagupta on his accession may have decided to meet it by issuing coins of the type which we have now found, which closely imitate the Nāga coinage. But this theory has its limits because if Rāmagupta issued these coins after his ascension, then why were they not issued with the title of a Gupta emperor i.e. mahārājādhirāja, rather than a simple mahārāja. The second possibility is that Rāmagupta issued these coins when he was a governor. But minting currency in their name is not something associated with the princes of the Gupta-s in this early Gupta history as currency was only issued under the name of the monarch. Though there are some later examples like that of Ghaṭotkaca. The other possibility is that rather than an armed revolt, Rāmagupta might have expressed his displeasure at the decision of not accepting him as the heir by issuing his own copper coins with his title Rāmagupta ma\[hāraja\], signaling to his father, that the succession would not go uncontested. 
 
-> To mark his position and to finance it, he had begun issuing his own > coinage, for which he used the local mints that earlier struck the > copper coins of the Nāga kings. >
+> To mark his position and to finance it, he had begun issuing his own coinage, for which he used the local mints that earlier struck the copper coins of the Nāga kings. >
 > Bakker, 2022; 5
 
 This also explains why his copper coins are so much similar to the coins of the Nāga kings. Therefore, it is possible that the copper coins with his title Rāmagupta ma\[hāraja\] title, one of which also includes his other name Kācha were issued prior to the announcement of the new heir Chandragupta, only to bolster his position and not as a revolt. It was instead a revolt on his part when he issued his Aśvamedha Type coins writing for the first time both his personal name Kācha on the obverse below the Horse and Rāmagupta ma\[hāraja\] on the reverse. The Aśvamedha Type coins were prerogative of the monarch and not the prince. Though princes can accompany the Horse when it was set free to roam before the sacrifice but issuing coins with specifically the name of a mere prince-governor i.e. ma\[hāraja\] without mentioning the sovereign could be a serious sign of revolt. Another example discussed previously was of the Jain images where his name was written as ‘Rāmagupta mahārajādhirāja’ on the Jain images which were ordered (kārita) by the ‘emperor’ himself (Bakker, 2022; 5).
 
-> “The imperial mints still beyond his reach, at home, in his own power > base Vidiśā, Rāmagupta could adorn himself with the grand titles to > which he claimed the right ” >
+> “The imperial mints still beyond his reach, at home, in his own power base Vidiśā, Rāmagupta could adorn himself with the grand titles to which he claimed the right ” >
 > Bakker, 2022; 5
 
 However, it is also possible that the Jain image inscription is of the time when was able to ascend the throne and not before it. Though, if his name on these images was inscribed after his ascension, then the name should have been Kācha, which he clearly wanted to be his royal personal name. But the region in which these images were issued i.e. Vidiśā had known the king for a good amount of time as a viceroy Rāmagupta mahāraja, thus using the name the locals were much more familiar with would make sense, especially when it is certain that he anyway didn’t rule long enough to make his royal name Kācha popular.

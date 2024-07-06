@@ -11,11 +11,11 @@ Staring at "freaks"
 
 [Why We Stare, Even When We Don’t Want To](http://www.wired.com/wiredscience/2009/05/freaks/):
 
-> “When a face is distorted, we have no pattern to match that,” > Rosenberg said. “All primates show this \[staring\] at something very > different, something they have not evolved to see. They need to > investigate further. ‘Are they one of us or not?’ In other species, > when an animal looks very different, they get rejected.”  
-> And so, we stare. (An averted gaze is triggered in some people. This > too can be overridden only with great difficulty.)  
-> **It doesn’t take much of a facial anomaly to trigger a transfixed > response; a normal human face upside down will do it. Or one that is > simply unmoving.**  
-> In her work with Paul Ekman, who pioneered the widely accepted theory > that human emotion conveyed via facial expressions is biological in > origin, Rosenberg studied a group of people with a condition that > prevents their facial muscles from moving.  
-> “They talk about how difficult it is to interact with people because > people can’t handle looking at a face that doesn’t move,” Rosenberg > said.
+> “When a face is distorted, we have no pattern to match that,” > Rosenberg said. “All primates show this \[staring\] at something very different, something they have not evolved to see. They need to investigate further. ‘Are they one of us or not?’ In other species, when an animal looks very different, they get rejected.”  
+> And so, we stare. (An averted gaze is triggered in some people. This too can be overridden only with great difficulty.)  
+> **It doesn’t take much of a facial anomaly to trigger a transfixed response; a normal human face upside down will do it. Or one that is simply unmoving.**  
+> In her work with Paul Ekman, who pioneered the widely accepted theory that human emotion conveyed via facial expressions is biological in origin, Rosenberg studied a group of people with a condition that prevents their facial muscles from moving.  
+> “They talk about how difficult it is to interact with people because people can’t handle looking at a face that doesn’t move,” Rosenberg said.
 
 ### Related Posts:
 

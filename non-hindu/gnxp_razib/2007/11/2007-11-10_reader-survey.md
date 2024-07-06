@@ -14,7 +14,8 @@ Here are [the results](http://www.advancedsurvey.com/results/public_results.asp?
 
 ### Related Posts:
 
-- [GNXP survey](https://www.gnxp.com/WordPress/2007/09/11/gnxp-survey/) - [Science blogging
+- [GNXP survey](https://www.gnxp.com/WordPress/2007/09/11/gnxp-survey/)
+- [Science blogging
   survey](https://www.gnxp.com/WordPress/2007/09/17/science-blogging-survey/) - [A survey on genetic testing, attitudes &
   opinions](https://www.gnxp.com/WordPress/2009/09/08/a-survey-on-genetic-testing-attitudes-opinions/) - [A survey on genetic testing, attitudes &
   opinions](https://www.gnxp.com/WordPress/2009/09/08/a-survey-on-genetic-testing-attitudes-opinions/) - [One more reader survey for the

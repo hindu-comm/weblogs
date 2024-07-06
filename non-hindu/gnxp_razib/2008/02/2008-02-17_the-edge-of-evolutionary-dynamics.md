@@ -21,7 +21,8 @@ In the end dynamics are dynamics. Though population transfers of Europeans to So
 
 ### Related Posts:
 
-- [HIV & cities](https://www.gnxp.com/WordPress/2008/10/03/hiv-cities/) - [Polygamy and human evolution: maybe it's
+- [HIV & cities](https://www.gnxp.com/WordPress/2008/10/03/hiv-cities/)
+- [Polygamy and human evolution: maybe it's
   agriculture](https://www.gnxp.com/WordPress/2010/10/01/polygamy-and-human-evolution-maybe-its-agriculture/) - [Europe had a lot of demographic turnover because there
   were…](https://www.gnxp.com/WordPress/2019/02/16/europe-had-a-lot-of-demographic-turnover-because-there-were-never-many-humans/) - [Why
   agriculture?](https://www.gnxp.com/WordPress/2007/02/02/why-agriculture/) - [Civilization makes you short: the Andaman

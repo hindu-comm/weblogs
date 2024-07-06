@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2015/05/05/liberals-and-the-intell
 
 Liberals and the intelligent stand by free speech
 
-> Free speech aside, why would anyone do something as provocative as > hosting a “Muhammad drawing contest”? >
-> — Rukmini Callimachi (@rcallimachi) [May 4, > 2015](https://twitter.com/rcallimachi/status/595047367100989441)
+> Free speech aside, why would anyone do something as provocative as hosting a “Muhammad drawing contest”? >
+> — Rukmini Callimachi (@rcallimachi) [May 4, 2015](https://twitter.com/rcallimachi/status/595047367100989441)
 
 [![On-Liberty](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/05/On-Liberty-193x300.jpg?resize=193%2C300)![On-Liberty](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/05/On-Liberty-193x300.jpg?resize=193%2C300)](https://www.amazon.com/exec/obidos/ASIN/B004UJ8LVM/geneexpressio-20)In the wake of the events in [Garland](https://en.wikipedia.org/wiki/Curtis_Culwell_Center_attack) a few days ago the above tweet by a reporter at *The New York Times* has garnered a fair amount of attention. It’s really hard for some (including me frankly) to not see this as “victim-blaming.” Free speech is a very special and distinctive liberty, in particular the liberty to speak in public without censure in a manner which assaults the basis of what is holy and sacred. In much of the world this particular absolutism, neigh, idolatry, of freedom of thought even unto the bounds of blasphemy and hatred that is adhered to in the United States thanks to our Bill of Rights is viewed as strange and offensive. The insights of classical liberal thinkers were strange and novel in their time, but they captured our imagination. We put freedom of conscience first and foremost not because that is how it has always been, but it is how we believe it should be. Conscience even for the devil himself!
 
@@ -18,7 +18,7 @@ To some extent there are aspects of incommensurability here. The right to blasph
 
 But in any case, with all that in mind,**I was curious about attitudes toward speech in the [GSS](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss14).** There are a series of questions which exhibit the form:
 
-> *If such a person wanted to make a speech in your community preaching > hatred of the United States, should he be allowed to speak, or not?*
+> *If such a person wanted to make a speech in your community preaching hatred of the United States, should he be allowed to speak, or not?*
 
 In this case, a Muslim cleric who preaches hatred of the United States. Other questions refer to racists, atheists, militarists, homosexuals, and communists. Basically, these questions get at whether respondents would tolerate public expression of views which they might personally find objectionable. Look at the trend line over the years it is generally heartening:
 

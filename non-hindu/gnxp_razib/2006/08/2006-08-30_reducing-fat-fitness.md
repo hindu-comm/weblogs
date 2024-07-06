@@ -11,7 +11,7 @@ Reducing fat fitness
 
 In the wake of the British National Health Service [denying IVF treatments](http://news.bbc.co.uk/1/hi/health/5296200.stm) to very obese women [Big Fat Blog](http://www.bigfatblog.com/archives/001887.php) says:
 
-> This recommendation is discrimination, pure and simple. What the hell, > really? Fat people are told they can’t adopt and told they can’t get > pregnant (from both societal and medical angles); let’s just add in > some more. For people who want to get pregnant, this is a slap in the > face. And it speaks a little more to social engineering, methinks – > don’t even allow fat people to breed, because, well, their kids might > be fat. And you know what that means.
+> This recommendation is discrimination, pure and simple. What the hell, > really? Fat people are told they can’t adopt and told they can’t get > pregnant (from both societal and medical angles); let’s just add in > some more. For people who want to get pregnant, this is a slap in the face. And it speaks a little more to social engineering, methinks – don’t even allow fat people to breed, because, well, their kids might be fat. And you know what that means.
 
 No comment.
 

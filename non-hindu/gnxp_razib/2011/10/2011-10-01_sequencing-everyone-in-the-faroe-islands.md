@@ -11,8 +11,8 @@ Sequencing everyone in the Faroe Islands
 
 There was [some speculation last week](http://blogs.discovermagazine.com/gnxp/2011/09/243-full-human-genomes-sequenced-per-second/) about which nation would have everyone sequenced first. We now have a contender, the [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), a self-governing Danish dependency (they’re not part of the E.U.) is going to [try and sequence](http://www.foxnews.com/health/2011/09/30/faroe-islands-is-first-country-in-world-to-read-populations-dna/) most of the population of \~50,000 over the next five years:
 
-> Around 100 people who are likely to be chosen at random will be > sequenced this year. The project will then be extended to 1,000 > people, followed by the whole population, with the aim of sequencing > everybody within five years. >
-> **The full project, which is expected to cost around 257 million > Danish kroner (\$47 million),** involves scientists from Baylor > University, Texas and from the UK’s University of Oxford.
+> Around 100 people who are likely to be chosen at random will be sequenced this year. The project will then be extended to 1,000 people, followed by the whole population, with the aim of sequencing everybody within five years. >
+> **The full project, which is expected to cost around 257 million Danish kroner (\$47 million),** involves scientists from Baylor University, Texas and from the UK’s University of Oxford.
 
 That comes to \$940 per person over the five years. I assume that they have some reasonable estimates of the real decline in genome sequencing costs over the next five years. And remember, just because they’re the first out of the gates in aim does not mean that they’ll be first to the finish line. There are small Gulf Arab nations, like Qatar, which have more money to throw at such projects, and because of high inbreeding coefficients more practical medical rationales for a database of whole genome sequences (e.g., select the niece or nephew you want to have your child marry by the lowest shared number of deleterious mutations).
 

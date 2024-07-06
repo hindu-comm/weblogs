@@ -11,8 +11,8 @@ Chili peppers go way back
 
 ![beyonce-781573.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2007/07/beyonce-781573.jpg?resize=250%2C314)![beyonce-781573.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2007/07/beyonce-781573.jpg?resize=250%2C314)[Ancient Americans Liked It Hot: Mexican Cuisine Traced To 1,500 Years Ago](http://www.sciencedaily.com/releases/2007/07/070709171645.htm):
 
-> Plant remains from two caves in southern Mexico analyzed by a > Smithsonian ethnobotanist/archaeologist and a colleague indicate that > as early as 1,500 years ago, Pre-Columbian inhabitants of the region > enjoyed a spicy fare similar to Mexican cuisine today. The two caves > yielded 10 different cultivars (cultivated varieties) of chili > peppers.  
-> “This analysis demonstrates that chilies in Mexican food have been > numerous and complex for a long period of time,” said lead author > Linda Perry, of the Smithsonian’s National Museum of Natural History. > “It reveals a great antiquity for the Mexican cuisine that we’re > familiar with today.”
+> Plant remains from two caves in southern Mexico analyzed by a > Smithsonian ethnobotanist/archaeologist and a colleague indicate that > as early as 1,500 years ago, Pre-Columbian inhabitants of the region enjoyed a spicy fare similar to Mexican cuisine today. The two caves yielded 10 different cultivars (cultivated varieties) of chili peppers.  
+> “This analysis demonstrates that chilies in Mexican food have been > numerous and complex for a long period of time,” said lead author Linda Perry, of the Smithsonian’s National Museum of Natural History. “It reveals a great antiquity for the Mexican cuisine that we’re familiar with today.”
 
 ### Related Posts:
 

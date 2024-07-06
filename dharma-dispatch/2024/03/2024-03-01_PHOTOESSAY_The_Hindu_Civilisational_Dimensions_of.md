@@ -359,11 +359,11 @@ THE STORY OF SIDI MAULA is intriguing and illustrative. A Sufi dervish hailing f
 
 This 13^(th) century episode is symptomatic of a central theme in the history of Muslim rule in India. It clearly shows the reality that despite being the guardians and interpreters of the Islamic law, the Ulema’s power was circumscribed by and overridden at the whim of the Sultan. Thus, for all its exalted and revered status within the Muslim community, there were practical limits to enforce the Shariat even in an absolute Islamic regime. Arun Shourie in his brilliant *A Secular Agenda,* summarises this theme quite well:
 
-> In the Mughal period the Shariat had its downs and ups — from Akbar > not using it as the rule of decision, from Jehangir whose own conduct > … could scarcely be said to be in accordance with the \[Shariat\], to > Aurangzeb’s well-known attempts to enforce it.
+> In the Mughal period the Shariat had its downs and ups — from Akbar not using it as the rule of decision, from Jehangir whose own conduct … could scarcely be said to be in accordance with the \[Shariat\], to Aurangzeb’s well-known attempts to enforce it.
 
 Aurangzeb is perhaps the best example. Although he out-orthodoxed his orthodox Ulema, he ultimately failed to enforce the Sharia. It cost him his empire. But to turn to Shourie again (emphasis added):
 
-> …the life of the people in general continued outside the Shariat…As > Mughal rule waned rapidly after Aurangzeb, **the Shariat became even > more of an abstraction to be merely revered from a distance**… The > growth of revivalist movements, the fiery exhortations of \[its\] > leaders... Shah Waliullah \[et al\]., to return to ordering affairs > according to the Shariat show…that **life and rulership were** > ***not*** **organised in accordance with it**. \[Italics in the > original\]
+> …the life of the people in general continued outside the Shariat…As > Mughal rule waned rapidly after Aurangzeb, **the Shariat became even > more of an abstraction to be merely revered from a distance**… The > growth of revivalist movements, the fiery exhortations of \[its\] > leaders... Shah Waliullah \[et al\]., to return to ordering affairs according to the Shariat show…that **life and rulership were** ***not*** **organised in accordance with it**. \[Italics in the original\]
 
 Barring Aurangzeb’s dogged and fanatical attempts to enforce the Shariat throughout his empire, most sultans had grudgingly chosen pragmatism over force. U.C. Sarkar’s magnificent work, *Epochs in Hindu Legal History,* shows how this pragmatism operated in the realm of laws (Emphases added):
 
@@ -447,7 +447,7 @@ Through a series of legislations beginning in mid 19^(th) century, the colonial 
 
 In practical terms, this meant the effective demolition of such portions of the Shariat as were still in operation. In no particular order, these were mainly the Caste Disabilities Act, the Married Women’s Property Act, the Majority Act, the Transfer of Property Act, the Guardians Wards Act, the Indian Contract Act, the Indian Evidence Act, the Criminal Procedure Code, and the Indian Succession Act. The last of these legislations, the Child Marriages Restraint Act (the Sarda Act), was passed in 1929. To invoke Arun Shourie yet again (emphases added):
 
-> **What was still called “the Shariat” was by now a thorough amalgam** > — of what Islamic jurists had held, of elements of Hindu law and > **local custom, which was invariably the Hindu custom of the > locality,** and the rulings of .. British magistrates and judges. So > much so that it went by the name of “**Anglo-Mohamedan Law**…”
+> **What was still called “the Shariat” was by now a thorough amalgam** > — of what Islamic jurists had held, of elements of Hindu law and **local custom, which was invariably the Hindu custom of the locality,** and the rulings of .. British magistrates and judges. So much so that it went by the name of “**Anglo-Mohamedan Law**…”
 
 So, what had changed from 1929 to 1937?
 
@@ -487,7 +487,7 @@ The Government of India Act, 1935, was followed by sweeping Congress victories (
 
 THE MUSLIM PERSONAL LAW (SHARIAT) APPLICATION ACT, 1937 was abolished after the partition of India, which was the civilisational cost of our political independence. Sardar Patel’s fiery words in the Constituent Assembly are worth recalling:
 
-> I want the consent of all minorities to change the course of > history…whatever may be the credit for having won a Muslim homeland, > please do not forget what the poor Muslims have suffered… **I…appeal > to believers in the two-nation theory to go and enjoy the fruits of > their freedom and leave us here in peace**.
+> I want the consent of all minorities to change the course of > history…whatever may be the credit for having won a Muslim homeland, please do not forget what the poor Muslims have suffered… **I…appeal to believers in the two-nation theory to go and enjoy the fruits of their freedom and leave us here in peace**.
 
 The Uniform Civil Code — included in the Directive Principles — was clearly meant as a safeguard against future two-nation theorists. It is now common knowledge that for 75 years, it has practically remained a dead letter. The Congress party’s obsessive Muslim appeasement has ensured that the Muslim Personal Law (Shariat) Application Act, 1937 continued to enforce a voiceless veto *against* the implementation of the UCC. As a consequence, the power of the worst elements of the Islamic clergy has only grown to frightening levels. In this light, the Sidi Maula episode offers invaluable lessons.
 

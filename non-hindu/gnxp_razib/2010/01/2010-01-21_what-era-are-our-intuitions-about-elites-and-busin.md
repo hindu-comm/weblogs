@@ -27,14 +27,14 @@ First, the view that capturing more of the audience — whether measured by the 
 
 Of course, that hasn’t gone away since then, as everyone says that “providers of online content” can never charge their consumers. The business model must be to give away something cool for free, attract a huge group of followers, and sell this audience to advertisers. (I don’t think most people believe that charging a subset for “premium content” is going to make them rich.) For example, [here is Felix Salmon’s reaction](http://blogs.reuters.com/felix-salmon/2010/01/20/the-nyts-paywall/) to the NYT’s official statement that they’re going to start charging for website access starting in 2011:
 
-> Successful media companies go after audience first, and then watch > revenues follow; failing ones alienate their audience in an attempt to > maximize short-term revenues.
+> Successful media companies go after audience first, and then watch revenues follow; failing ones alienate their audience in an attempt to maximize short-term revenues.
 
 Wrong. YouTube is the most popular provider of free media, but they haven’t made jackshit four years after their founding. Ditto Wikipedia. The Wall Street Journal and Financial Times websites charge, and they’re incredibly profitable — and popular too (the WSJ has the highest newspaper circulation in the US, ousting USA Today). There is no such thing as “go after audiences” — they must do that in a way that’s profitable, not just in a way that makes them popular. If you could “watch revenues follow” by merely going after an audience, everyone would be billionaires.
 
-> The NYT here seems to be voluntarily giving up on all its readers > outside the US, who canâ€™t be reasonably expected to have the ability > or inclination to p  
-> ay for web access. It had the opportunity to be a global newspaper, > leveraging both the NYT and the IHT brands, and has now thrown that > away for the sake of short-term revenues.  
+> The NYT here seems to be voluntarily giving up on all its readers outside the US, who canâ€™t be reasonably expected to have the ability or inclination to p  
+> ay for web access. It had the opportunity to be a global newspaper, leveraging both the NYT and the IHT brands, and has now thrown that away for the sake of short-term revenues.  
 > \[…\]  
-> As such, a project which was meant to bring nytimes.com into the same > space as Wikipedia will now become largely irrelevant.
+> As such, a project which was meant to bring nytimes.com into the same space as Wikipedia will now become largely irrelevant.
 
 This sums up the pre-industrial mindset perfectly: who cares about getting paid more and spending less, when what truly matters is owning a brand that is popular, influential, and celebrated and sucked up to? In a natural state, that is the non-violent path to success because you can only become a member of the dominant coalition by knowing the right in-members. They will require you to have a certain amount of influence, prestige, power, etc., in order to let you move up in rank. It doesn’t matter if you nearly bankrupt yourself in the process of navigating these personalized patron-client networks because once you become popular and influential enough, you stand a good chance of being allowed into the dominant coalition and then coasting on rents for the rest of your life.
 

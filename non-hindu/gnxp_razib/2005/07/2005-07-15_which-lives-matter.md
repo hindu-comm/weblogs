@@ -11,7 +11,7 @@ Which lives matter?
 
 In a follow up of my [earlier post](https://www.gnxp.com/blog/2005/07/all-lives-are-not-equal-in-our-eyes.php):
 
-> “We know that the killing of innocents is forbidden,” Dr. Waheed said. > “But we don’t see two classes of blood; the blood of Iraqis is **just > as important to us as English blood**.”
+> “We know that the killing of innocents is forbidden,” Dr. Waheed said. “But we don’t see two classes of blood; the blood of Iraqis is **just as important to us as English blood**.”
 
 (source: [Anger Burns on the Fringe of Britain’s Muslims](http://www.nytimes.com/2005/07/16/international/europe/16muslims.html?ei=5094&en=7b1f44fe6658c193&amp;amp;amp;amp;hp=&ex=1121572800&partner=homepage&pagewanted=all))
 

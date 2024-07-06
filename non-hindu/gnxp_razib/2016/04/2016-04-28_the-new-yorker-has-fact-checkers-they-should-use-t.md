@@ -13,7 +13,7 @@ The New Yorker has fact-checkers, they should use them
 
 But there’s a major factual problem which I mentioned when it came out, and, which some friends on Facebook have been griping about. I’ll quote the section where the error is clearest:
 
-> …Conceptually, a key element of classical Darwinian evolution is that > genes do not retain an organism’s experiences in a permanently > heritable manner. Jean-Baptiste Lamarck, in the early nineteenth > century, had supposed that when an antelope strained its neck to reach > a tree its efforts were somehow passed down and its progeny evolved > into giraffes. Darwin discredited that model….
+> …Conceptually, a key element of classical Darwinian evolution is that > genes do not retain an organism’s experiences in a permanently > heritable manner. Jean-Baptiste Lamarck, in the early nineteenth century, had supposed that when an antelope strained its neck to reach a tree its efforts were somehow passed down and its progeny evolved into giraffes. Darwin discredited that model….
 
 It is true that in *Neo-Darwinian* evolution, the modern synthesis, which crystallized in the second quarter of the 20th century, genes do not retain an organism’s experiences in a permanently heritable manner. But this is **not** true for Charles Darwin’s theories, which most people would term a “classical Darwinian” evolutionary theory. This is because first, Darwin worked in the pre-genetic era. He did not posit particulate inheritance, and had no genetic model. Second, though it is correct that Charles Darwin’s deemphasized the role of acquired characteristics, **he himself was quite open to Lamarckianism in some cases.** This openness persisted into the early 20th century, Ernst Mayr started his career as a Lamarckian!
 

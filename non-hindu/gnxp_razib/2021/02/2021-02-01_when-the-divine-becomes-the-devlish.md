@@ -17,9 +17,9 @@ So here’s the context: **I’ve been online for twenty years and have a “nam
 
 Last week I put a “blind item” out:
 
-> many years ago a prominent crypto-pagan who has the ear and esteem of > many Christians told me they were considering coming out of the > shadows and declaring their fidelity to the old gods. but i told them > “no, you’re better off influencing the powers of this age.” >
+> many years ago a prominent crypto-pagan who has the ear and esteem of many Christians told me they were considering coming out of the shadows and declaring their fidelity to the old gods. but i told them “no, you’re better off influencing the powers of this age.” >
 > such is life >
-> — Razib 🥥 Khan (@razibkhan) [January 29, > 2021](https://twitter.com/razibkhan/status/1355290982883991553?ref_src=twsrc%5Etfw)
+> — Razib 🥥 Khan (@razibkhan) [January 29, 2021](https://twitter.com/razibkhan/status/1355290982883991553?ref_src=twsrc%5Etfw)
 
 Once there is a reasonable gap in time I feel more comfortable saying things like this. For example, the far-left socialist who has more 50,000 Twitter followers who sent me a gushing fan message on Facebook in 2008, can you guess who that is? I won’t say!
 

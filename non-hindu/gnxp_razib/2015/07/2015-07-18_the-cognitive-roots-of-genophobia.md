@@ -11,13 +11,13 @@ The cognitive roots of genophobia
 
 Over at *Slate* Will Saletan has a [very long piece](http://www.slate.com/articles/health_and_science/science/2015/07/are_gmos_safe_yes_the_case_against_them_is_full_of_fraud_lies_and_errors.html) [Unhealthy Fixation: The war against genetically modified organisms is full of fearmongering, errors, and fraud. Labeling them will not make you safer](http://www.slate.com/articles/health_and_science/science/2015/07/are_gmos_safe_yes_the_case_against_them_is_full_of_fraud_lies_and_errors.html). The survey is useful if you are unfamiliar with the topic, though it will be sadly familiar to the rest of us. Saletan makes two observations which I think need highlighting. First, he asserts that “the deeper you dig, the more fraud you find in the case against GMOs. It’s full of errors, fallacies, misconceptions, misrepresentations, and lies.” Basically it’s a shell game, and the reason is that **those who oppose GMO obfuscate the fundamental roots of their objections (consciously or subconsciously).** Saletan notes:
 
-> Third, there are valid concerns about some aspects of GE agriculture, > such as herbicides, **monocultures**, and patents. But none of these > concerns is fundamentally about genetic engineering. **Genetic > engineering isn’t a thing. It’s a process that can be used in > different ways to create different things.** To think clearly about > GMOs, you have to distinguish among the applications and focus on the > substance of each case. If you’re concerned about pesticides and > transparency, you need to know about the toxins to which your food has > been exposed. A GMO label won’t tell you that. And it can lull you > into buying a non-GMO product even when the GE alternative is safer.
+> Third, there are valid concerns about some aspects of GE agriculture, > such as herbicides, **monocultures**, and patents. But none of these > concerns is fundamentally about genetic engineering. **Genetic > engineering isn’t a thing. It’s a process that can be used in > different ways to create different things.** To think clearly about > GMOs, you have to distinguish among the applications and focus on the > substance of each case. If you’re concerned about pesticides and transparency, you need to know about the toxins to which your food has been exposed. A GMO label won’t tell you that. And it can lull you into buying a non-GMO product even when the GE alternative is safer.
 
 The concrete and coherent objection to GMO which lies just under the surface of the arguments put forward by activist groups like [Greenpeace](https://en.wikipedia.org/wiki/Greenpeace) is that the technology**is part of the agricultural-industrial complex.** But as many have observed, if the problem with GMO is their connection to big agriculture, then why aren’t the arguments simply recycled from those used against industrial agriculture? There are two dynamics at work. First, there is broad popular suspicion of “genetically modified organisms.” Using GMO as a hook, and engaging in [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt), is more effective than arguing against corporate agriculture. Second, as Saletan implies in the piece, even anti-corporate considerationsaside there are genuine concerns rooted in the idea that there is something “wrong” with genetically modifying organisms (in fact, with the emergence of cheap CRISPR, we’re potentially at the precipice of a revolution of small scale agricultural innovation, though right now it is unlikely to happen because of regulation).
 
 This sentiment is very broad, and, **it is not ideological.** Or at least it wasn’t as of 2006, when the EATGM question on for the [GSS](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss14) was put toover 900 respondents. It asks:
 
-> Which statement best describes your own view about eating foods that > have been genetically modified? 1. I don’t care whether the food I eat > has been genetically modified. 2. I am willing to eat genetically > modified foods, but would prefer unmodified foods if they are > available. 3. I will not eat food that I know has been genetically > modified.
+> Which statement best describes your own view about eating foods that > have been genetically modified? 1. I don’t care whether the food I eat > has been genetically modified. 2. I am willing to eat genetically modified foods, but would prefer unmodified foods if they are available. 3. I will not eat food that I know has been genetically modified.
 
 The results:
 
@@ -37,7 +37,8 @@ As you can see,**there’s no ideological difference.** The slightly greater ske
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [More GSS, less
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [More GSS, less
   speculation!](https://www.gnxp.com/WordPress/2012/08/20/more-gss-less-speculation/) - [Rise of the
   zombies?](https://www.gnxp.com/WordPress/2008/10/26/rise-of-the-zombies/) - [The Madoff
   curse?](https://www.gnxp.com/WordPress/2009/10/26/the-madoff-curse/) - [Open Thread,

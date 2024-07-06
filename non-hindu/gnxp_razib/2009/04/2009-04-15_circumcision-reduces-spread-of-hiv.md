@@ -11,7 +11,7 @@ Circumcision reduces spread of HIV
 
 [Male Circumcision Reduces HIV Risk: No Further Evidence Needed, According To Review](http://www.sciencedaily.com/releases/2009/04/090415074940.htm):
 
-> The clinical trials included in the review took place in South Africa, > Uganda, and Kenya between 2002 and 2006, and included a total of > 11,054 men. The results show that circumcision in heterosexual men > significantly **reduces their risk of acquiring HIV by 54% over a two > year period**, compared with uncircumcised men. This reduced risk is > the best estimate of the average effect and the researchers report > that the true risk will be reduced by between 38 to 66%. Further > research, however, is required to establish whether male circumcision > offers any benefit to women partners of circumcised men and homosexual > men.
+> The clinical trials included in the review took place in South Africa, > Uganda, and Kenya between 2002 and 2006, and included a total of > 11,054 men. The results show that circumcision in heterosexual men > significantly **reduces their risk of acquiring HIV by 54% over a two > year period**, compared with uncircumcised men. This reduced risk is > the best estimate of the average effect and the researchers report > that the true risk will be reduced by between 38 to 66%. Further research, however, is required to establish whether male circumcision offers any benefit to women partners of circumcised men and homosexual men.
 
 **Related:** Circumcision & AIDS.
 

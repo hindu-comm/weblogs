@@ -18,10 +18,10 @@ A second aspect I noted is that except for [Ron Bailey](http://reason.com/blog/2
 
 But there are some new tidbits, from researchers in the field of study:
 
-> “There is little doubt that this haplotype is present because of > mating with our ancestors and Neanderthals,” said Nick Patterson of > the Broad Institute of MIT and Harvard University. Patterson did not > participate in the latest research. He added, “This is a very nice > result, and further analysis may help determine more details.” >
-> David Reich, a Harvard Medical School geneticist, added, “Dr. Labuda > and his colleagues were the first to identify a genetic variation in > non-Africans that was likely to have come from an archaic population. > This was done entirely without the Neanderthal genome sequence, but in > light of the Neanderthal sequence, it is now clear that they were > absolutely right!” >
-> The modern human/Neanderthal combo likely benefitted our species, > enabling it to survive in harsh, cold regions that Neanderthals > previously had adapted to. >
-> **“Variability is very important for long-term survival of a species,” > Labuda concluded. “Every addition to the genome can be enriching.”**
+> “There is little doubt that this haplotype is present because of > mating with our ancestors and Neanderthals,” said Nick Patterson of the Broad Institute of MIT and Harvard University. Patterson did not participate in the latest research. He added, “This is a very nice result, and further analysis may help determine more details.” >
+> David Reich, a Harvard Medical School geneticist, added, “Dr. Labuda > and his colleagues were the first to identify a genetic variation in > non-Africans that was likely to have come from an archaic population. This was done entirely without the Neanderthal genome sequence, but in light of the Neanderthal sequence, it is now clear that they were absolutely right!” >
+> The modern human/Neanderthal combo likely benefitted our species, enabling it to survive in harsh, cold regions that Neanderthals previously had adapted to. >
+> **“Variability is very important for long-term survival of a species,” Labuda concluded. “Every addition to the genome can be enriching.”**
 
 Since Nick comments here on occasion I probably should have asked him what he thought of these results back in January, but it goes to show that I’m not thinking like a journalist. Yet.
 

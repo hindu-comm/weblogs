@@ -16,7 +16,7 @@ The book [When Asia Was the World](https://www.amazon.com/exec/obidos/ASIN/B004W
 
 A story in *The New York Times* brings this to mind, [IBM Now Has More Employees in India Than in the U.S.](https://www.nytimes.com/2017/09/28/technology/ibm-india.html):
 
-> Today, the company employs 130,000 people in India — about one-third > of its total work force, and more than in any other country. Their > work spans the entire gamut of IBM’s businesses, from managing the > computing needs of global giants like AT&T and Shell to performing > cutting-edge research in fields like visual search, artificial > intelligence and computer vision for self-driving cars. One team is > even working with the producers of Sesame Street to teach vocabulary > to kindergartners in Atlanta.
+> Today, the company employs 130,000 people in India — about one-third > of its total work force, and more than in any other country. Their > work spans the entire gamut of IBM’s businesses, from managing the > computing needs of global giants like AT&T and Shell to performing > cutting-edge research in fields like visual search, artificial intelligence and computer vision for self-driving cars. One team is even working with the producers of Sesame Street to teach vocabulary to kindergartners in Atlanta.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/tribeskotkin.jpeg?resize=183%2C276)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/tribeskotkin.jpeg?resize=183%2C276)](https://www.amazon.com/exec/obidos/ASIN/0679412824/geneexpressio-20)This is as much a social story as it is a matter of economics. A new global class is organically developing along the scaffolds provided by international corporations. This class, dare I say caste, is beginning to supersede the importance of the [Tribes](https://www.amazon.com/exec/obidos/ASIN/0679412824/geneexpressio-20) which Joel Kotkin wrote about in the early 1990s.
 
@@ -26,7 +26,8 @@ We can look at economic projections all we want. But the protean and unpredictab
 
 ### Related Posts:
 
-- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/) - [Why Burma will beat Bangaldesh: human capital
+- [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/)
+- [Why Burma will beat Bangaldesh: human capital
   matters](https://www.gnxp.com/WordPress/2008/04/10/why-burma-will-beat-bangaldesh-human-capital-matters/) - [Globalization has losers &
   winners](https://www.gnxp.com/WordPress/2009/04/06/globalization-has-losers-winners/) - [Basa beats
   catfish](https://www.gnxp.com/WordPress/2009/06/25/basa-beats-catfish/) - [Walking & racing to

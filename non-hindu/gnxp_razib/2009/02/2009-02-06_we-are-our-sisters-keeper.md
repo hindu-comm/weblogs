@@ -11,8 +11,8 @@ We are our sister's keeper….
 
 [Octuplets’ mother wanted ‘huge family’ for feeling of connection](http://latimesblogs.latimes.com/lanow/2009/02/post.html):
 
-> The mother of octuplets born last week in Bellflower told NBC News she > wanted to have a “huge family” because she longed for personal > connections she felt she lacked in her childhood.  
-> “I just longed for certain connections and attachments with another > person that I — I really lacked, I believe, growing up,” Nadya Suleman > said in an interview today with NBC’s Ann Curry. “Reflecting back on > my childhood, I know it wasn’t functional. It was pretty — pretty > dysfunctional, and whose isn’t?”
+> The mother of octuplets born last week in Bellflower told NBC News she wanted to have a “huge family” because she longed for personal connections she felt she lacked in her childhood.  
+> “I just longed for certain connections and attachments with another > person that I — I really lacked, I believe, growing up,” Nadya Suleman said in an interview today with NBC’s Ann Curry. “Reflecting back on my childhood, I know it wasn’t functional. It was pretty — pretty dysfunctional, and whose isn’t?”
 
 ### Related Posts:
 

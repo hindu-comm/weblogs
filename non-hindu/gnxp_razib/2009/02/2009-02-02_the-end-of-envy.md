@@ -11,9 +11,9 @@ The end of envy
 
 [Jim Manzi](http://theamericanscene.com/2009/02/03/popper-is-my-homeboy-a-manifesto):
 
-> **This Baconian revolution is coming to economics and social > science.** >
-> In fact, it’s already happening. Weirdo experimental economists are > starting to win the Nobel Prize. The recent Economist magazine > round-up of the 10 most promising young economists in the world is > rife with it. Established economists working in the current paradigm, > as always, either dismiss it, or imagine that it is a niche sub-field > that won’t affect them. Time will tell, but I think theyâ€™re entirely > wrong. >
-> Much of the work that we now think of as economics, political science > and other social sciences will likely be displaced by some hybrid of > biology, experimental economics, psychology and other fields that can > evaluate hypotheses for the quantified prediction of human behavior > through structured falsification tests (or, sometimes, true “natural > experiments” in which non-intentional random assignment has > occurred)….
+> **This Baconian revolution is coming to economics and social science.** >
+> In fact, it’s already happening. Weirdo experimental economists are > starting to win the Nobel Prize. The recent Economist magazine > round-up of the 10 most promising young economists in the world is > rife with it. Established economists working in the current paradigm, as always, either dismiss it, or imagine that it is a niche sub-field that won’t affect them. Time will tell, but I think theyâ€™re entirely wrong. >
+> Much of the work that we now think of as economics, political science > and other social sciences will likely be displaced by some hybrid of > biology, experimental economics, psychology and other fields that can > evaluate hypotheses for the quantified prediction of human behavior through structured falsification tests (or, sometimes, true “natural experiments” in which non-intentional random assignment has occurred)….
 
 Jim is describing what [Michael Vassar](http://www.kurzweilai.net/bios/frame.html?main=/bios/bio0266.html?) terms “integrative social science.” My own interests in [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) and [economic history](https://en.wikipedia.org/wiki/Economic_history) make it rather clear that I do hope that Jim is right.
 

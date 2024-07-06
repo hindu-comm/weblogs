@@ -11,7 +11,7 @@ East Asian origins?
 
 [Y-Chromosome Evidence of Southern Origin of the East Asianâ€“Specific Haplogroup O3-M122](http://www.journals.uchicago.edu/AJHG/journal/issues/v77n3/42338/brief/42338.abstract.html):
 
-> …Our results indicate that the O3-M122 lineage is dominant in East > Asian populations, with an average frequency of 44.3%. The > microsatellite data show that the O3-M122 haplotypes in southern East > Asia are more diverse than those in northern East Asia, suggesting a > southern origin of the O3-M122 mutation. It was estimated that the > early northward migration of the O3-M122 lineages in East Asia > occurred âˆ¼25,000â€“30,000 years ago, consistent with the fossil > records of modern humans in East Asia.
+> …Our results indicate that the O3-M122 lineage is dominant in East > Asian populations, with an average frequency of 44.3%. The > microsatellite data show that the O3-M122 haplotypes in southern East > Asia are more diverse than those in northern East Asia, suggesting a > southern origin of the O3-M122 mutation. It was estimated that the early northward migration of the O3-M122 lineages in East Asia occurred âˆ¼25,000â€“30,000 years ago, consistent with the fossil records of modern humans in East Asia.
 
 Take it all with a grain of salt, in light of [possible revisions](https://www.gnxp.com/blog/2005/07/model-rising.php) in the “Standard Model” of modern human origins, but a date of 25-30,000 years BP isn’t that much earlier than the coalescence points some bandy about for New World lineages.
 

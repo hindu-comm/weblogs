@@ -11,8 +11,8 @@ City slickers
 
 *Wired* has an article up about [urban coyotes](http://www.wired.com/news/technology/0,70136-0.html?tw=wn_index_6):
 
-> …coyotes are thriving in city suburbs like Itasca and Palatine > Village, and have even been spotted in the heart of Chicago’s > metropolitan area.  
-> They’ve also been sighted in other major urban areas, including St. > Louis, Minneapolis, Detroit, Cleveland and Boston, Gehrt said — a > result, in part, of increased urban sprawl and coyotes’ adaptability.
+> …coyotes are thriving in city suburbs like Itasca and Palatine Village, and have even been spotted in the heart of Chicago’s metropolitan area.  
+> They’ve also been sighted in other major urban areas, including St. Louis, Minneapolis, Detroit, Cleveland and Boston, Gehrt said — a result, in part, of increased urban sprawl and coyotes’ adaptability.
 
 **Update:** It’s been pointed out to me that *Seed* has already [covered this topic](http://www.seedmagazine.com/news/2006/01/wily_coyotes_move_to_the_windy.php?page=all&p=y).
 

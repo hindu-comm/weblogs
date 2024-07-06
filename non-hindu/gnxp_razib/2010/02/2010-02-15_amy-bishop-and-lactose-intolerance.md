@@ -11,8 +11,8 @@ Amy Bishop and lactose intolerance
 
 It just gets weirder. [Ipswich neighbors recall confrontations with Amy Bishop](http://www.boston.com/news/local/breaking_news/2010/02/ipswich_neighbo.html):
 
-> Bishop once stopped a local ice cream truck from coming into their > neighborhood. According to WBZ-1030 radio, she said it because her own > kids were lactose intolerant, and she didn’t think it was fair that > her kids couldn’t have ice cream.  
-> “That’s who it was!” Lafoe said. “When we were younger the ice cream > truck just stopped coming around. That’s strange.”
+> Bishop once stopped a local ice cream truck from coming into their neighborhood. According to WBZ-1030 radio, she said it because her own kids were lactose intolerant, and she didn’t think it was fair that her kids couldn’t have ice cream.  
+> “That’s who it was!” Lafoe said. “When we were younger the ice cream truck just stopped coming around. That’s strange.”
 
 Bishop & her husband both seem to have a history of self-centered anti-social behavior. There seems a precedent of many actions aimed at optimizing their own short-term utility at the expense of the greater good. No one else existed in their universe. This sort of behavior isn’t totally uncommon, the prickly neighbor who dictates the norms of the community through threats of legal action has often been a problem. I recall reading years ago about a woman who had a litigious reputation who set off a wave of home sales in one community after she relocated because her potential neighbors anticipated a much lower quality of life after she moved to their block. She’d had a notorious past history of simply suing everyone who displeased her.\*
 

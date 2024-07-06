@@ -11,13 +11,13 @@ Who is the decider of the good life?
 
 [‘Ashley treatment’ on the rise amid concerns from disability rights groups](http://www.guardian.co.uk/society/2012/mar/15/ashley-treatment-rise-amid-concerns):
 
-> A controversial procedure to limit the growth of severely disabled > children to keep them forever small – which ignited a fiery debate > about the limits of medical intervention when it was first revealed > five years ago – has begun to spread among families in America, Europe > and beyond. >
+> A controversial procedure to limit the growth of severely disabled > children to keep them forever small – which ignited a fiery debate about the limits of medical intervention when it was first revealed five years ago – has begun to spread among families in America, Europe and beyond. >
 > … >
-> Five years ago details first emerged of Ashley, a nine-year-old girl > living near Seattle. She was born with developmental disabilities that > meant she was unable to talk or walk, and continues to have the > cognitive ability of an infant. >
+> Five years ago details first emerged of Ashley, a nine-year-old girl living near Seattle. She was born with developmental disabilities that meant she was unable to talk or walk, and continues to have the cognitive ability of an infant. >
 > … >
-> The core of the treatment was hormone therapy: high estrogen doses to > bring forward the closure of the growth plates in her bones, which > would in turn stop her growing. In addition, surgical interventions > included removal of her nascent breast buds to avoid the discomfort of > fully-formed breasts later in life, and a hysterectomy to avoid > menstruation. >
+> The core of the treatment was hormone therapy: high estrogen doses to > bring forward the closure of the growth plates in her bones, which > would in turn stop her growing. In addition, surgical interventions included removal of her nascent breast buds to avoid the discomfort of fully-formed breasts later in life, and a hysterectomy to avoid menstruation. >
 > .. >
-> Silvia Yee, a lawyer with the Disability Rights Education & Defense > Fund that is run jointly by disabled people themselves and parents of > children with disabilities, said: “This is what we were fearing. It is > becoming just one **more choice on the menu of possibilities** – a > medical operation that will change a person’s life. **Who has the > right to decide to change an *individual into a different entity?***“
+> Silvia Yee, a lawyer with the Disability Rights Education & Defense > Fund that is run jointly by disabled people themselves and parents of > children with disabilities, said: “This is what we were fearing. It is becoming just one **more choice on the menu of possibilities** – a medical operation that will change a person’s life. **Who has the right to decide to change an *individual into a different entity?***“
 
   
 There are two dimensions of evaluation here. The positive, and the normative. As alluded to above **the menu of possibilities are going to expand radically in the foreseeable future.** So there’s no point in putting our heads in the sand on this. You start out with preimplanation genetic screening, and move all the way to irreversible physical changes as outlined in the story at the link. In the specific case the rationale for these changes is pretty straightforward; humans with the minds of infants or toddlers but the bodies of adults can be extremely difficult to control. I have a little personal experience in this area, as I worked with a mentally handicapped young man as his “minder” for a term in secondary school. His cognitive profile was probably similar in many ways to a one to two year old, but he was of average height and somewhat above average weight. One of the major issues with this young man is that he needed to be kept under surveillance, as he had a tendency throw fits and assault random people. Conventional moral reasoning simply did not work with him, because as I said he was barely a toddler mentally (he has a very minimal comprehension of language). Now expand this to the problem which parents and relatives have in caring for an individual with the physical capacities of an adult, but the mental aptitudes of a very young child. Imagine the temper tantrums of a two year old in the body of a thirty year old. This is a reality for many.
@@ -30,7 +30,8 @@ The root problem we have as a society about discussing these issues is that **we
 
 ### Related Posts:
 
-- [Morality](https://www.gnxp.com/WordPress/2007/01/03/morality/) - [Pro forma hand
+- [Morality](https://www.gnxp.com/WordPress/2007/01/03/morality/)
+- [Pro forma hand
   wringing?](https://www.gnxp.com/WordPress/2007/05/12/pro-forma-hand-wringing/) - [Pro forma hand
   wringing?](https://www.gnxp.com/WordPress/2007/05/12/pro-forma-hand-wringing/) - [Making
   babies](https://www.gnxp.com/WordPress/2005/11/20/making-babies/) - [Computing the spread of lactase

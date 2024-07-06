@@ -15,7 +15,8 @@ Follow me @razibkhan on Clubhouse. I have internet and plan on doing my usual 7 
 
 ### Related Posts:
 
-- [Open thread - August 8th,
+- [Open thread
+- August 8th,
   2010](https://www.gnxp.com/WordPress/2010/08/08/open-thread-2/) - [Open Thread,
   11-29-2012](https://www.gnxp.com/WordPress/2012/11/29/open-thread-11-29-2012/) - [Open Thread - 02/28/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/02/28/open-thread-02-28-2021-gene-expression/) - [Subhouse clubstack, an unholy

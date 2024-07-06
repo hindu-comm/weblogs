@@ -17,7 +17,7 @@ Friday Fluff – October 29th, 2010
 
 3\. **Comment of the week**, in response to [Daily Data Dump – October 25th, 2010](http://blogs.discovermagazine.com/gnxp/2010/10/daily-data-dump-october-25th-2010/#comment-47598):
 
-> White bread tastes good because its a more neutral base on to which to > add other flavours. This is something you hicks will never understand.
+> White bread tastes good because its a more neutral base on to which to add other flavours. This is something you hicks will never understand.
 
 4\) OK, so last week’s poll didn’t work. In that it didn’t record any responses. Rather than do polls, I’ll just throw out a question, and let people answer if they so choose: which science blogs do you read? And do you have one yourself?
 

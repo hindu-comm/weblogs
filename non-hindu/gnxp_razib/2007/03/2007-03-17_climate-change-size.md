@@ -11,11 +11,11 @@ Climate change & size
 
 [Climate change said to affect evolution](http://www.sciencedaily.com/upi/index.php?feed=Science&article=UPI-1-20070316-12365200-bc-britain-sheep.xml):
 
-> Researchers found that while more of the largest sheep survived in the > harshest winters, smaller sheep also survived mild winters, bringing > down the average size and reducing natural selection among the sheep, > the Times reported.
+> Researchers found that while more of the largest sheep survived in the harshest winters, smaller sheep also survived mild winters, bringing down the average size and reducing natural selection among the sheep, the Times reported.
 
 This seems to be confirmation of [Bergmann’s Rule](https://en.wikipedia.org/wiki/Bergmann%27s_rule):
 
-> In zoology, Bergmann’s Rule is a principle that correlates > environmental temperature with body mass in warm-blooded animals. It > asserts that within a species, the body mass increases with latitude > and colder climate.
+> In zoology, Bergmann’s Rule is a principle that correlates environmental temperature with body mass in warm-blooded animals. It asserts that within a species, the body mass increases with latitude and colder climate.
 
 As size increases, the ratio between surface area and mass decreases, resulting is less loss of heat through radiation. This is obviously convenient if you are a warm-blooded mammal trying to maximize metabolic efficiency in a low temperature clime. Since it is a “Rule,” it isn’t always operative. But, for example, [humans became smaller](http://scienceblogs.com/gnxp/2006/09/tall_to_short_to_tall_again.php) after the Ice Age. The only issue I would quibble in regards to the press release is the idea that natural selection was “reduced.” It seems to assume that there is a set species size which the population regresess to naturally, when in reality large size likely comes with some cost which might exceed the reduced payoff in regards to metabolic efficiency at higher temperatures (or, smaller individuals might develop and reproduce faster).
 

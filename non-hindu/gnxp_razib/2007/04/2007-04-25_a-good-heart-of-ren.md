@@ -13,7 +13,8 @@ GNXP commenter Mencius [has a blog](https://unqualified-reservations.blogspot.co
 
 ### Related Posts:
 
-- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/) - [Against the
+- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/)
+- [Against the
   Ultracalvinists](https://www.gnxp.com/WordPress/2007/06/26/against-the-ultracalvinists/) - [New blog to check
   out](https://www.gnxp.com/WordPress/2007/09/10/new-blog-to-check-out/) - [Vitamin D deficiency & heart
   disease](https://www.gnxp.com/WordPress/2008/06/12/vitamin-d-deficiency-heart-disease/) - [Molecular

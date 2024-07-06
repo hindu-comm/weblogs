@@ -24,7 +24,8 @@ The commonality of the mark associated with the sacrificed animal is not the onl
 - While these offerings are being made a brAhmaNa sits on the southern side of the vedi and starts sing gAtha-s describing the dAna-s and yAga-s performed by the rAjan. 
 - Then the dhR^iti oblations of 4 ladles of ghee are made by the adhvaryu with the mantras beginning with ”iha dhR^itir svAhA…”. 
 - At his point a kShatriya sings gAtha-s describing the martial victories of the rajan against his foes that have led him to the path of the ashvamedha. 
-- The adhvaryu then mutters into the right ear of the horse along with the yajamAna the mantra “vibhUr mAtrA…” :Strong by your mother, powerful by your father, you are a horse, you are a steed, you are a runner, you are a male, you are a strong horse, you are a racer, you are powerful, you are a stallion, you are heroic; ‘goer’ is your name; follow the course of the Aditya-s. - Then in the vedic setting the horse is purified by sprinkling water with with the mantra “adbhyastva…” given oblations from the night sacrifice to eat and given water to drink with the mantra “apAM peruH…”. 
+- The adhvaryu then mutters into the right ear of the horse along with the yajamAna the mantra “vibhUr mAtrA…” :Strong by your mother, powerful by your father, you are a horse, you are a steed, you are a runner, you are a male, you are a strong horse, you are a racer, you are powerful, you are a stallion, you are heroic; ‘goer’ is your name; follow the course of the Aditya-s.
+- Then in the vedic setting the horse is purified by sprinkling water with with the mantra “adbhyastva…” given oblations from the night sacrifice to eat and given water to drink with the mantra “apAM peruH…”. 
 - Horse is made to stand on a large piece of cloth and the agnIdhra goes around it with a fire brand and finally it is smothered.
 
 In the Mesopotamian ritual the following account is given (From the Nineveh and Assur tablets):  
@@ -34,7 +35,8 @@ In the Mesopotamian ritual the following account is given (From the Nineveh and 
 - Then a brick is laid for the deity Lumha and on that meat of sheep, beer, wine and milk libations are made. 
 - Then through a reed pipe the priest whispers an incantation into the right ear of the bull \[in the Nineveh and Erech tablets\] or the horse \[Assur\]: “O great bull, who roams on the holy pasture, increasing fertility, who tills the grain, who makes the field happy, with my pure hands I offer and oblation before you”. 
 - A similar incantation is then recited into the left ear in the Babylonian case: O bull are the offspring of Zuu, you are you are for ritual and litany, you are for Ningizzida for ever, the ordinance of heaven and earth are fixed, you go to Lumha, you go to Bal. 
-- In the Assur tablet the statement is made to the horse to go to draw the chariot of Marduk \[even in the vedic rite at one point the hotar recites a mantra “yu\~njanti bradhnam aruSham…” which implies the horse is assigned to the chariot of indra\]. - In the Mesopotamian rite to the animal has a mouth washing rite with water being given to it, it is sprinkled with scented water, with incense and a fire they circle it, make it stand on a mat and then kill it with an axe while the incantation “dilmun nigin-na…” is recited.
+- In the Assur tablet the statement is made to the horse to go to draw the chariot of Marduk \[even in the vedic rite at one point the hotar recites a mantra “yu\~njanti bradhnam aruSham…” which implies the horse is assigned to the chariot of indra\].
+- In the Mesopotamian rite to the animal has a mouth washing rite with water being given to it, it is sprinkled with scented water, with incense and a fire they circle it, make it stand on a mat and then kill it with an axe while the incantation “dilmun nigin-na…” is recited.
 
 While the fine points are different, there are similarities in the broad details of the sacrificial ritual: 
 

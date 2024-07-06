@@ -11,7 +11,7 @@ Not bad for a “toy” database….
 
 [Sun to Buy Swedish Software Firm for \$1 Billion](http://www.nytimes.com/2008/01/17/technology/17sun.html?pagewanted=print):
 
-> Sun Microsystems, the large American seller of open-source software, > said Wednesday that it would spend \$1 billion to buy MySQL, a Swedish > company that is the world leader in open-source database software used > by Internet powers like Google, Yahoo, MySpace and YouTube.
+> Sun Microsystems, the large American seller of open-source software, said Wednesday that it would spend \$1 billion to buy MySQL, a Swedish company that is the world leader in open-source database software used by Internet powers like Google, Yahoo, MySpace and YouTube.
 
 I remember the sneering jibes about MySQL on [/.](http://slashdot.org/) back in 2000. Good for them. If you are doing mission critical work DBAs that recommend MySQL should get fired. Not ready for primetime. But in a world of blue-screens and Microsoft there’s a lot of space out there for “good enough.” In fact, chances are this website has a MySQL back end.
 

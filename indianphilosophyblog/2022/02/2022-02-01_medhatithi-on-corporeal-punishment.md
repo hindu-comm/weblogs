@@ -48,7 +48,9 @@ Thus:
 
 Conclusion: Corporeal punishment purifies the person who undergoes it by creating an invisible force, so that they can be admitted to heaven like innocent people, as said by Manu. What follows at this point seems a redundant addition, since it seems to come after the conclusion:
 
--   1\. There are restrictions concerning the cutting off of limbs… -   2\. Also prescriptions such as the one about the elephant, etc. -   3\. Therefore, it is established that one is liberated from one’s
+-   1\. There are restrictions concerning the cutting off of limbs…
+-   2\. Also prescriptions such as the one about the elephant, etc.
+-   3\. Therefore, it is established that one is liberated from one’s
     bad karman only once there is corporeal punishment, -   4\. And analogously, branding (aṅkana) will be prescribed in the
     case of major offenders, to whom everything has been confiscated,
     and who are punished by entering into water, so that people avoid

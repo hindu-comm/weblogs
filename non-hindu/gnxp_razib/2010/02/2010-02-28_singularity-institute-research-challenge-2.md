@@ -11,7 +11,7 @@ Singularity Institute Research Challenge
 
 Ends today. [Last Chance to Contribute to 2010 Singularity Research Challenge!](http://www.singinst.org/blog/2010/02/25/last-chance-to-contribute-to-2010-singularity-research-challenge/):
 
-> Thanks to generous contributions by our donors, we are only \$11,840 > away from fulfilling our \$100,000 goal for the 2010 Singularity > Research Challenge. For every dollar you contribute to SIAI, another > dollar is contributed by our matching donors, who have pledged to > match all contributions made before February 28th up to \$100,000. > That means that this Sunday is your final chance to donate for maximum > impact.
+> Thanks to generous contributions by our donors, we are only \$11,840 > away from fulfilling our \$100,000 goal for the 2010 Singularity > Research Challenge. For every dollar you contribute to SIAI, another > dollar is contributed by our matching donors, who have pledged to match all contributions made before February 28th up to \$100,000. That means that this Sunday is your final chance to donate for maximum impact.
 
 Since [\~1/3 of readers of GNXP are sympathetic to transhumanism](http://www.advancedsurvey.com/results/public_results.asp?SurveyID=70954) I thought it might be worthwhile to post this….
 
@@ -31,7 +31,7 @@ Since [\~1/3 of readers of GNXP are sympathetic to transhumanism](http://www.adv
 
 Ends today. [Last Chance to Contribute to 2010 Singularity Research Challenge!](http://www.singinst.org/blog/2010/02/25/last-chance-to-contribute-to-2010-singularity-research-challenge/):
 
-> Thanks to generous contributions by our donors, we are only \$11,840 > away from fulfilling our \$100,000 goal for the 2010 Singularity > Research Challenge. For every dollar you contribute to SIAI, another > dollar is contributed by our matching donors, who have pledged to > match all contributions made before February 28th up to \$100,000. > That means that this Sunday is your final chance to donate for maximum > impact.
+> Thanks to generous contributions by our donors, we are only \$11,840 > away from fulfilling our \$100,000 goal for the 2010 Singularity > Research Challenge. For every dollar you contribute to SIAI, another > dollar is contributed by our matching donors, who have pledged to match all contributions made before February 28th up to \$100,000. That means that this Sunday is your final chance to donate for maximum impact.
 
 Since [\~1/3 of readers of GNXP are sympathetic to transhumanism](http://www.advancedsurvey.com/results/public_results.asp?SurveyID=70954) I thought it might be worthwhile to post this….
 

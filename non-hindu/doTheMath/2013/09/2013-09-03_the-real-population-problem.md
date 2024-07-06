@@ -125,7 +125,7 @@ First is the growth rate against average income. We have a clear correlation at 
 
 Maybe this shouldn’t be too surprising from the perspective that economic powerhouses are dependent on growth, and a flagging population is a recipe for recession. A key ingredient for guaranteeing a bigger future is more working young people: in addition to providing labor, the growing youth enables pension systems and health insurance to function. Indeed, Germany is trying to battle its population decline, which imperils economic competitiveness. When I saw [this article in the NYT](http://www.nytimes.com/2013/08/14/world/europe/germany-fights-population-drop.html?pagewanted=all&_r=0), I lamented that the policy of protecting economic growth enslaves us to produce more children. I would rather humankind be the *master* of the economy, rather than the other way around. A quote from the article:
 
-> There is perhaps nowhere better than the German countryside to see the > dawning impact of Europe’s plunge in fertility rates over the decades, > a problem that has frightening implications for the economy and the > psyche of the Continent.
+> There is perhaps nowhere better than the German countryside to see the dawning impact of Europe’s plunge in fertility rates over the decades, a problem that has frightening implications for the economy and the psyche of the Continent.
 
 How about the energy correlation, which I find more intrinsically interesting?
 

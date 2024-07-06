@@ -11,7 +11,7 @@ Meritocracy & Caroline Kennedy
 
 ![kennedy_caroline.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/kennedy_caroline.jpg?resize=100%2C145)![kennedy_caroline.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/kennedy_caroline.jpg?resize=100%2C145)Matt Yglesias has a post up, [Illusions of Rationalism](http://yglesias.thinkprogress.org/archives/2008/12/illusions_of_rationalism.php), where he seems to dismiss some of the anger in the Left-blogosphere at the coronation of Princess Caroline. Like Matt, I don’t really care that much who gets [anointed to the throne](https://en.wikipedia.org/wiki/Caroline_Kennedy#U.S._Senate_seat) of the junior Senator from New York, though that has much to do with my relative minimal investment in the particularities of the Democrats within the legislative branch. Yglesias is correct to note:
 
-> But of course that’s not how things work at all. The whole business of > electioneering is full of irrationality and tradition all the way from > top to bottom. The notion that all members of the Kennedy family are > ex officio considered plausible candidates for public office is weird, > but it’s a particular oddity that exists against background conditions > that are also odd….
+> But of course that’s not how things work at all. The whole business of > electioneering is full of irrationality and tradition all the way from > top to bottom. The notion that all members of the Kennedy family are ex officio considered plausible candidates for public office is weird, but it’s a particular oddity that exists against background conditions that are also odd….
 
 I think a word which would add more precise clarity here would be “meritocracy,” as opposed to rationality in a general sense. Obviously unlike career civil servants elected officials don’t have to pass any test, and have minimal constraints placed up them (citizenship, age, etc.).
 
@@ -22,7 +22,8 @@ I do not refer to the Emperors of Rome to suggest that American Presidents are q
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [The Future is
   Kennedy](https://www.gnxp.com/WordPress/2010/08/15/the-future-is-kennedy/) - [A New Yorker in
   Finland](https://www.gnxp.com/WordPress/2008/12/09/a-new-yorker-in-finland/) - [Really Evil

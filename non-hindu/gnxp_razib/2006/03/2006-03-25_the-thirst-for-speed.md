@@ -13,7 +13,7 @@ Some horses are fast, and some horses are [Secretariat](https://en.wikipedia.org
 
 But there could be other reasons that Secretariat’s offsprings weren’t quite what he was, circulatory physiology aside. [A new study](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W8G-4JD0H63-1&_user=10&_handle=V-WA-A-W-B-MsSAYVW-UUW-U-AAVCYAEDCZ-AAVBVUUCCZ-DCUVCVEVV-B-U&_fmt=summary&_coverDate=03%2F03%2F2006&_rdoc=2&_orig=browse&_srch=%23toc%236654%239999%23999999999%2399999%21&_cdi=6654&amp;amp;view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=976b6e181607ac99db1a67f25f0004d8) has just come out which concludes that mitochondrial genetics might play a crucial role in the respiratory performance of a horse.
 
-> Importantly, we have observed that there is also independent and > extensive functional mitochondrial gene variation in the current > thoroughbred racehorse population and that significant associations > exist between mtDNA haplotype, as defined by functional genes, and > aspects of racing performance.
+> Importantly, we have observed that there is also independent and > extensive functional mitochondrial gene variation in the current thoroughbred racehorse population and that significant associations exist between mtDNA haplotype, as defined by functional genes, and aspects of racing performance.
 
 Mitochondria are of course only passed through the female line, so none of Secretariat’s offspring would have had his particular respiratory engine. You can read [the full paper](http://www.thoroughbredgenetics.com/MITOCHONDRION%20APRIL%202006.pdf) on the site of the [company](http://www.thoroughbredgenetics.com/news_and_development.htm) that is sponsoring this research. I can’t help but wonder if some Arab sheikh knew this all along….
 

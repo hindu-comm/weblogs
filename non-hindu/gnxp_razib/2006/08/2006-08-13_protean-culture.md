@@ -36,7 +36,8 @@ Finally, I want to tack to one issue in Balmer’s narrative which deals with re
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Conservatives against Intelligent
   Design](https://www.gnxp.com/WordPress/2006/06/01/conservatives-against-intelligent-design/) - [Conservatives against Intelligent
   Design](https://www.gnxp.com/WordPress/2006/06/01/conservatives-against-intelligent-design/) - [Steve Sailer on Grand New

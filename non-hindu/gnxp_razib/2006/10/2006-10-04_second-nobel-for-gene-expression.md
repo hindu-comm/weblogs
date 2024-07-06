@@ -11,7 +11,7 @@ Second Nobel for Gene Expression
 
 [Nobelprize.org:](http://nobelprize.org/nobel_prizes/chemistry/laureates/2006/)
 
-> The Nobel Prize in Chemistry goes to Roger D. Kornberg “for his > studies of the molecular basis of eukaryotic transcription”.
+> The Nobel Prize in Chemistry goes to Roger D. Kornberg “for his studies of the molecular basis of eukaryotic transcription”.
 
 First, something entertaining: [on The NewsHour](http://www.pbs.org/newshour/science/), when asked to speculate about why Kornberg is a second generation Nobel-winner, the answer given by the senior Kornberg was “genes”, and this was echoed by the Junior Kornberg as being at least one explanation.
 

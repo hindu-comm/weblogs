@@ -347,15 +347,15 @@ On one end of the spectrum we could look at the Japanese sumo wrestling traditio
 
 Another variant found across the world is the ‘fattening room’ ritual. This typically involves young women, and sometimes men, being secluded from the community and fed large amounts of obesogenic foods, as well as other beautification practices. The emphasis seems to be on becoming bigger, more voluptuous, more energised and sexy. Prior to access to modern food, many Pacific Polynesian islands had a fattening room practice. Curiously the two modifications most prized during seclusion were weight gain and skin lightening, as described here by Nancy Pollock (1995):
 
-> Nineteenth century European visitors described Nauruan people as > powerful and well-nourished, with bodies that were “inclined to be a > little plump’” one woman’s weight “increased to 400 pounds”, and > several women bearing names meaning fat or plump, “thin or bony people > were the exception”. **Another writer described the women “in their > middle years as perambulating lumps of fat”**. >
-> Such enlarged bodies together with lightened skin were considered > hallmarks of beauty in which the whole community took pride.
+> Nineteenth century European visitors described Nauruan people as > powerful and well-nourished, with bodies that were “inclined to be a > little plump’” one woman’s weight “increased to 400 pounds”, and several women bearing names meaning fat or plump, “thin or bony people were the exception”. **Another writer described the women “in their middle years as perambulating lumps of fat”**. >
+> Such enlarged bodies together with lightened skin were considered hallmarks of beauty in which the whole community took pride.
 
 Both Tahiti and Nauru made use of breadfruit, bananas, coconuts and fatty fish to build up weight in their fattening rooms. Excessive amounts of breadfruit were considered to make the skin more pale while in seclusion.
 
 Similar fattening rooms or institutions are found in Nigeria and the surrounding regions, including amongst the Igbo, Ekoi, Efik, Ibibio and Anaang peoples. In Cameroon the Massa people perform one of the strangest such rites, where the men attempt to get as fat as possible within a two-month window:
 
-> The Massa, who consider themselves herders and fishermen, are > reluctant farmers. This adds to the environmental constraints they > endure with the result that, on average, they cultivate a small > acreage (0.4 hectares per adult) of food crops, too little to satisfy > their needs. Their only access to cash is through the irregular income > derived from cotton growing and fishing. Having to fulfil the > requirements of a costly bridewealth system, they do not devote > systematically their income to buying the missing food stores, with > the result that they constantly face a seasonal pre-harvest cereal > shortage. The restricted dietary period usually lasts about one month, > resulting in an average weight loss of about 2 kg. In bad years, such > as 1980 and 1985, it can reach 7 kg, and is experienced as a dramatic > period of hunger. Famines have often occurred in the area. Until the > beginning of the century they resulted in children being sold to > better-off Fulani neighbours. Oral literature reflects food anxiety, > and eating abundantly remains a concern in daily life. >
-> -Guru-Fattening Sessions Among The Massa (1990) Igor de Garine & > Georgius Koppert
+> The Massa, who consider themselves herders and fishermen, are > reluctant farmers. This adds to the environmental constraints they > endure with the result that, on average, they cultivate a small > acreage (0.4 hectares per adult) of food crops, too little to satisfy > their needs. Their only access to cash is through the irregular income > derived from cotton growing and fishing. Having to fulfil the > requirements of a costly bridewealth system, they do not devote > systematically their income to buying the missing food stores, with > the result that they constantly face a seasonal pre-harvest cereal > shortage. The restricted dietary period usually lasts about one month, > resulting in an average weight loss of about 2 kg. In bad years, such > as 1980 and 1985, it can reach 7 kg, and is experienced as a dramatic > period of hunger. Famines have often occurred in the area. Until the beginning of the century they resulted in children being sold to better-off Fulani neighbours. Oral literature reflects food anxiety, and eating abundantly remains a concern in daily life. >
+> -Guru-Fattening Sessions Among The Massa (1990) Igor de Garine & Georgius Koppert
 
 In order to demonstrate their skill at coaxing excess food from their lands, men will undergo a grueling period of weight gain in the second part of the rainy season, between August and October - the *guru*.
 
@@ -377,21 +377,21 @@ The necessity of being overweight before marriage has been so historically inten
 
 The food intake is staggering. Some descriptions speak of 14 - 16,000 calories *per day*, coming from a brutal combination of camel milk and buttery porridge. 20 liters of milk might be forced down a girl’s throat, some as young as six years old. Little wonder the French term *gavage* is used, the word for force-feeding *foie gras* geese.
 
-> "I make them eat lots of dates, lots and lots of couscous and other > fattening food," Fatematou, a voluminous woman in her sixties who runs > a kind of "fat farm" in the northern desert town of Atar, told BBC > World Service's The World Today programme. >
-> Although she had no clients when I met her, she said she was soon > expecting to take charge of some seven-year-olds. >
-> "I make them eat and eat and eat. And then drink lots and lots of > water," she explained. >
-> She said the girls could end up weighing between 60 to 100 kilograms, > "with lots of layers of fat." >
-> Fatematou said that it was rare for a girl to refuse to eat, and that > if they did, she was helped by the child's parents. >
+> "I make them eat lots of dates, lots and lots of couscous and other fattening food," Fatematou, a voluminous woman in her sixties who runs a kind of "fat farm" in the northern desert town of Atar, told BBC World Service's The World Today programme. >
+> Although she had no clients when I met her, she said she was soon expecting to take charge of some seven-year-olds. >
+> "I make them eat and eat and eat. And then drink lots and lots of water," she explained. >
+> She said the girls could end up weighing between 60 to 100 kilograms, "with lots of layers of fat." >
+> Fatematou said that it was rare for a girl to refuse to eat, and that if they did, she was helped by the child's parents. >
 > "They punish the girls and in the end the girls eat," she said. >
-> "If a girl refuses we start nicely, saying 'come on, come on' sweetly, > until she agrees to eat." >
+> "If a girl refuses we start nicely, saying 'come on, come on' sweetly, until she agrees to eat." >
 > Fatematou admitted that sometimes the girls cried at the treatment. >
 > "Of course they cry - they scream," she said. >
-> "We grab them and we force them to eat. If they cry a lot we leave > them sometimes for a day or two and then we come back to start again. >
+> "We grab them and we force them to eat. If they cry a lot we leave them sometimes for a day or two and then we come back to start again. >
 > "They get used to it in the end." >
 > She argued that in the end the girls were grateful. >
-> "When they are small they don't understand, but when they grow up they > are fat and beautiful," she said. >
-> "They are proud and show off their good size to make men dribble. > Don't you think that's good?" >
-> -**[Mauritania's 'wife-fattening' farm (BBC > News)](http://news.bbc.co.uk/1/hi/3429903.stm)**
+> "When they are small they don't understand, but when they grow up they are fat and beautiful," she said. >
+> "They are proud and show off their good size to make men dribble. Don't you think that's good?" >
+> -**[Mauritania's 'wife-fattening' farm (BBC News)](http://news.bbc.co.uk/1/hi/3429903.stm)**
 
 The prevalence of *leblouh* is unknown, but [some studies](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0060594&type=printable) estimate 20% of women have undergone some version of the practice. Others may resort to steroids or antihistamines to help gain weight, if the food is too expensive. The brutality of the ‘farms’ also seems to be increasing. Women have described the agony of distended stomachs, being beaten, having their toes crushed for refusing to eat, being forced to eat any regurgitated food, [even rumours of animal growth hormones](https://edition.cnn.com/2010/WORLD/africa/10/12/mauritania.force.feed/index.html) being slipped into the mix.
 

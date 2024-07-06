@@ -28,7 +28,7 @@ All this is on my mind because one of the scientists involved with [Britain’s 
 
 Going back to Eve, Wilson marshals a very strange argument:
 
-> “The claim that Adam and Eve really existed, as you suggest, refers to > the most recent common ancestors of the mtDNA and non-recombining part > of the Y chromosome. I don’t agree that there is nothing special about > these individuals: **there must have been a reason why mitochondrial > Eve was on the front cover of Time magazine in the late 80s!**….
+> “The claim that Adam and Eve really existed, as you suggest, refers to > the most recent common ancestors of the mtDNA and non-recombining part of the Y chromosome. I don’t agree that there is nothing special about these individuals: **there must have been a reason why mitochondrial Eve was on the front cover of Time magazine in the late 80s!**….
 
 A minor quibble, but I suspect he means the *Newsweek* cover. More seriously, this line of argumentation is bizarre on scientific grounds. Rather, it is a tack which is more rational when aiming toward a general audience which might purchase a kit which they believe might tell them of their relationship to “Eve.”
 

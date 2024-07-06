@@ -11,7 +11,7 @@ Schizo genes
 
 [Study finds gene related to brain development and function plays causal role in schizophrenia](http://www.eurekalert.org/pub_releases/2006-08/tmsh-sfg081506.php):
 
-> The study showed that genetic variation in OLIG2 was strongly > associated with schizophrenia. In addition, OLIG2 also showed a > genetic association with schizophrenia when examined together with two > other genes previously associated with schizophrenia–CNP and > ERBB4–which are also active in the development of myelin. The > expression of these three genes was also coordinated. Taken together > the data support an etiological role for oligodendrocyte abnormalities > in the development of schizophrenia.
+> The study showed that genetic variation in OLIG2 was strongly > associated with schizophrenia. In addition, OLIG2 also showed a > genetic association with schizophrenia when examined together with two > other genes previously associated with schizophrenia–CNP and > ERBB4–which are also active in the development of myelin. The expression of these three genes was also coordinated. Taken together the data support an etiological role for oligodendrocyte abnormalities in the development of schizophrenia.
 
 The [paper](http://www.pnas.org/cgi/content/abstract/103/33/12469) is in *PNAS*. Interestingly the authors seriously consider the possibility of epistatic (gene to gene interaction) as being part of the risk for schizophrenia.
 

@@ -11,7 +11,7 @@ Signals of recent positive selection, words vs. figures
 
 [Dan MacArthur](http://scienceblogs.com/geneticfuture/2009/03/genetic_signatures_of_recent_h.php) already posted some of the supplementary figures from [Signals of recent positive selection in a worldwide sample of human populations](http://genome.cshlp.org/content/early/2009/03/20/gr.087577.108), but he didn’t put up one that I thought was really striking. The text:
 
-> First, there is extensive sharing of extreme iHS and XP-EHH signals > between Europe, the Middle East, and Central Asia, while overlap > between other regions is much more limited. In fact, 44% of the > genomic segments in the 1% tail of iHS in Europe fall in the 5% tail > for both the Middle East and Central Asia (89% are shared between > Europe and at least one of these two), while only 12% of European > signals are present in East Asia by the same criterion. **Second, > XP-EHH signals seemto be shared on a larger geographic scale than iHS > signals.**
+> First, there is extensive sharing of extreme iHS and XP-EHH signals > between Europe, the Middle East, and Central Asia, while overlap > between other regions is much more limited. In fact, 44% of the > genomic segments in the 1% tail of iHS in Europe fall in the 5% tail > for both the Middle East and Central Asia (89% are shared between > Europe and at least one of these two), while only 12% of European signals are present in East Asia by the same criterion. **Second, XP-EHH signals seemto be shared on a larger geographic scale than iHS signals.**
 
 Below the fold the figures. Rather stark.
 

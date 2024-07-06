@@ -13,7 +13,8 @@ Thirst, Korean vampires at work & play
 
 ### Related Posts:
 
-- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/) - [Movies to
+- [Avatar](https://www.gnxp.com/WordPress/2009/12/20/avatar/)
+- [Movies to
   watch](https://www.gnxp.com/WordPress/2007/05/14/movies-to-watch/) - [What is best in
   life?](https://www.gnxp.com/WordPress/2011/04/28/what-is-best-in-life/) - [Koreans are like the
   Hmong](https://www.gnxp.com/WordPress/2009/01/16/koreans-are-like-the-hmong/) - [Transformers: Revenge of the

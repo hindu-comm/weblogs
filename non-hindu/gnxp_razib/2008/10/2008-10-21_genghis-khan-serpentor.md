@@ -11,7 +11,7 @@ Genghis Khan → Serpentor?
 
 ![Gijoe23.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Gijoe23.jpg?resize=211%2C320)![Gijoe23.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Gijoe23.jpg?resize=211%2C320)[Finding Hidden Tomb Of Genghis Khan Using Non-Invasive Technologies](http://www.sciencedaily.com/releases/2008/10/081017081030.htm). Cool right? My first thought was [Serpentor](https://en.wikipedia.org/wiki/Serpentor):
 
-> …He was created through a breakthrough in cloning research by Dr. > Mindbender from the DNA extracted from the unearthed remains of the > most ruthless and effective military leaders in history, including > Julius Caesar, Napoleon Bonaparte, Attila the Hun, Philip II of > Macedon and his son Alexander the Great, Ivan the Terrible, Vlad the > Impaler, Hannibal, Genghis Khan, and Grigori Rasputin….
+> …He was created through a breakthrough in cloning research by Dr. > Mindbender from the DNA extracted from the unearthed remains of the > most ruthless and effective military leaders in history, including Julius Caesar, Napoleon Bonaparte, Attila the Hun, Philip II of Macedon and his son Alexander the Great, Ivan the Terrible, Vlad the Impaler, Hannibal, Genghis Khan, and Grigori Rasputin….
 
 With ancient DNA extraction techniques if there’s genetic material perhaps we could actually check if the [Y-chromosomal lineage](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&rendertype=abstract&artid=1180246) adduced to be that of Temujin is actually his. And if Temujin, why not others?  
 H/T [Kambiz](http://anthropology.net/)

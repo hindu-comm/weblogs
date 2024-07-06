@@ -11,15 +11,15 @@ The Malagasy Ancestry Project
 
 Just a heads up, [Dr. Joseph K. Pickrell](https://sites.google.com/site/josephpickrell/) has begun moving on the [Malagasy Ancestry Project](http://www.malagasyancestry.com/home). More information:
 
-> The genetics of the Malagasy people have been essentially unstudied. > Analysis of Y chromosome and mitochondrial DNA markers have > corroborated the lingustic evidence that the Malagasy result from > admixture between southeast Asian and east African populations > \[1,2\]. However, no genome-wide data from Malagasy individuals has > been analyzed to date (with the exception of the individuals in this > project). >
-> Our goal is to address a number of questions about the genetics of the > Malagasy. These include, but are not limited to: >
-> 1\. What fraction of ancestry in the Malagasy is from Africa rather > than southeast Asia?  
+> The genetics of the Malagasy people have been essentially unstudied. > Analysis of Y chromosome and mitochondrial DNA markers have > corroborated the lingustic evidence that the Malagasy result from > admixture between southeast Asian and east African populations \[1,2\]. However, no genome-wide data from Malagasy individuals has been analyzed to date (with the exception of the individuals in this project). >
+> Our goal is to address a number of questions about the genetics of the Malagasy. These include, but are not limited to: >
+> 1\. What fraction of ancestry in the Malagasy is from Africa rather than southeast Asia?  
 > 2. Does this fraction vary geographically and/or ethnically?  
 > 3. Who were the populations that first settled Madagascar?  
-> 4. Was Madagascar settled once from southeast Asia, or multiple > times?  
-> 5. Can we use genetics to more precisely date the arrival of African > populations in Madagascar? >
-> Our approach to this project is to use data contributed from Malagasy > individuals who have been genotyped by a personal genomics companies. > If you would like to contribute your data, please > [contact](http://www.malagasyancestry.com/contact-me) us. >
-> Current results are available from the tabs at the top of this site, > and will be updated as the project progresses.
+> 4. Was Madagascar settled once from southeast Asia, or multiple times?  
+> 5. Can we use genetics to more precisely date the arrival of African populations in Madagascar? >
+> Our approach to this project is to use data contributed from Malagasy individuals who have been genotyped by a personal genomics companies. If you would like to contribute your data, please [contact](http://www.malagasyancestry.com/contact-me) us. >
+> Current results are available from the tabs at the top of this site, and will be updated as the project progresses.
 
 Again, thanks to the people who contributed to genotype the second person. Second, there were several complaints in the origin threads that these individuals were not representative. **If this is so, get some genotypes!**
 

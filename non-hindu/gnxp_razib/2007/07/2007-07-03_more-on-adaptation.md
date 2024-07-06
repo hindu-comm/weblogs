@@ -11,7 +11,7 @@ More on adaptation
 
 Larry Moran has [a response](https://sandwalk.blogspot.com/2007/07/visible-mutations-and-evolution-by.html) to [my post](https://www.gnxp.com/blog/2007/06/do-phenotypes-evolve-neutrally.php) on adaptation. I say my piece in the comments on that post, and RPM has some [further thoughts](http://scienceblogs.com/evolgen/2007/07/whither_adaptation.php):
 
-> The modern selectionist does not invoke adatationist explanations for > every evolutionary change. But he does not, by default, say “drift did > it”, either. Instead, he requires evidence for whichever conclusion he > reaches. Maybe he’s not really a selectionist; maybe he’s just a > population geneticist who understands how to detect selection.
+> The modern selectionist does not invoke adatationist explanations for > every evolutionary change. But he does not, by default, say “drift did it”, either. Instead, he requires evidence for whichever conclusion he reaches. Maybe he’s not really a selectionist; maybe he’s just a population geneticist who understands how to detect selection.
 
 This is the beauty of these here internets– every time you start talking out your ass, there are enough people watching that most of the time someone will call you on it\[1\]. If I ever make a bone-headed remark about biochemistry, I certainly hope Larry Moran shows up and corrects me in the comments.
 

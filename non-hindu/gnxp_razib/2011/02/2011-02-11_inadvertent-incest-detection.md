@@ -11,9 +11,9 @@ Source: [here](https://www.gnxp.com/WordPress/2011/02/11/inadvertent-incest-dete
 
 [Ruchira](http://accidentalblogger.typepad.com/) and [Randall Parker](http://www.futurepundit.com/archives/007894.html) point me to a new story about routine genomics screens [detecting first degree incest](http://www.chron.com/disp/story.mpl/metropolitan/7422653.html):
 
-> Beaudet wrote in the letter that “clinicians uncovering a likely > incestuous relationship may be legally required to report it to child > protection services and, potentially, law enforcement officials” since > the pregnancy might have occurred “in the setting of sexual abuse.” >
-> The letter was prompted by a Baylor laboratory’s discoveries that > developmental disorders in a number of pediatric patients were caused > by incestuous relations not previously disclosed to doctors. >
-> The testing is done to find the disorder’s genetic basis, typically > involving mutations, deletions or duplications. **But large blocks of > identical DNA are evidence the child’s parentage involved first-degree > relatives.**
+> Beaudet wrote in the letter that “clinicians uncovering a likely incestuous relationship may be legally required to report it to child protection services and, potentially, law enforcement officials” since the pregnancy might have occurred “in the setting of sexual abuse.” >
+> The letter was prompted by a Baylor laboratory’s discoveries that developmental disorders in a number of pediatric patients were caused by incestuous relations not previously disclosed to doctors. >
+> The testing is done to find the disorder’s genetic basis, typically involving mutations, deletions or duplications. **But large blocks of identical DNA are evidence the child’s parentage involved first-degree relatives.**
 
 If you’re curious if you are the product of incest, [David Pike’s runs of homozygosity (ROH) detector](http://www.math.mun.ca/~dapike/FF23utils/roh.php) (Mozilla only) might be useful if you have a genotype file. Sometimes I wonder if mass technology is going to come to fruition far earlier than it takes to write up editorials and publish them.
 

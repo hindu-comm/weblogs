@@ -102,7 +102,17 @@ Advertisement
 
 **Tagged with:**
 
-- [agni](https://musingsofhh.wordpress.com/tag/agni/) - [dravidians](https://musingsofhh.wordpress.com/tag/dravidians/) - [fire](https://musingsofhh.wordpress.com/tag/fire/) - [gonds](https://musingsofhh.wordpress.com/tag/gonds/) - [languages](https://musingsofhh.wordpress.com/tag/languages/) - [linguistics](https://musingsofhh.wordpress.com/tag/linguistics/) - [prakrit](https://musingsofhh.wordpress.com/tag/prakrit/) - [sanskrit](https://musingsofhh.wordpress.com/tag/sanskrit/) - [tadbhava](https://musingsofhh.wordpress.com/tag/tadbhava/) - [tamils](https://musingsofhh.wordpress.com/tag/tamils/) - [tatsama](https://musingsofhh.wordpress.com/tag/tatsama/)
+- [agni](https://musingsofhh.wordpress.com/tag/agni/)
+- [dravidians](https://musingsofhh.wordpress.com/tag/dravidians/)
+- [fire](https://musingsofhh.wordpress.com/tag/fire/)
+- [gonds](https://musingsofhh.wordpress.com/tag/gonds/)
+- [languages](https://musingsofhh.wordpress.com/tag/languages/)
+- [linguistics](https://musingsofhh.wordpress.com/tag/linguistics/)
+- [prakrit](https://musingsofhh.wordpress.com/tag/prakrit/)
+- [sanskrit](https://musingsofhh.wordpress.com/tag/sanskrit/)
+- [tadbhava](https://musingsofhh.wordpress.com/tag/tadbhava/)
+- [tamils](https://musingsofhh.wordpress.com/tag/tamils/)
+- [tatsama](https://musingsofhh.wordpress.com/tag/tatsama/)
 
 **[bAvari in the land of theassakas](https://musingsofhh.wordpress.com/2011/05/15/bavari-in-the-land-of-the-assakas/)**
 

@@ -15,7 +15,8 @@ Addendum: Another [funny title](http://links.jstor.org/sici?sici=0094-8373%28197
 
 ### Related Posts:
 
-- [Borat](https://www.gnxp.com/WordPress/2006/11/03/borat/) - [Associative neurons in the
+- [Borat](https://www.gnxp.com/WordPress/2006/11/03/borat/)
+- [Associative neurons in the
   amygdala](https://www.gnxp.com/WordPress/2006/10/19/associative-neurons-in-the-amygdala/) - [What if aliens had an Indian
   accent?](https://www.gnxp.com/WordPress/2006/06/15/what-if-aliens-had-an-indian-accent/) - [Superman
   Returns](https://www.gnxp.com/WordPress/2005/11/18/superman-returns/) - [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Power

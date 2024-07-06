@@ -143,7 +143,7 @@ To those who are culturally rooted, this episode also shows that H.J. Bhabha had
 
 TO RETURN TO OUR opening remark, a full century later, Rohinton Nariman added further insult to injury when he let loose [another](https://www.news18.com/news/india/even-my-religion-has-been-hinduised-says-justice-rohinton-f-nariman-1846315.html) pearl of wisdom:
 
-> THERE IS NO CASTE IN THE MOTHER COUNTRY OF MY RELIGION. But here, we > have it. It doesn't matter there, where you are born, but here you > have to take birth in a priestly family to become a priest. I couldn't > have become a priest, if I was not born in a priestly family…TO THAT > EXTENT, EVEN MY RELIGION HAS BEEN HINDUISED. (*Capitalisation Added)*
+> THERE IS NO CASTE IN THE MOTHER COUNTRY OF MY RELIGION. But here, we > have it. It doesn't matter there, where you are born, but here you have to take birth in a priestly family to become a priest. I couldn't have become a priest, if I was not born in a priestly family…TO THAT EXTENT, EVEN MY RELIGION HAS BEEN HINDUISED. (*Capitalisation Added)*
 
 But just to remind His (erstwhile) Honour, his ”mother country” Iran, publicly flogs and canes and jails and kills ladies who are not properly… oppressed … err… attired in the Burqa. And to set the record straight, if his religion has been “Hinduised,” he should only be grateful to Hindu Dharma for it. Illustrious people from his own community like Hormus J. Bhabha and Nani Palkhivala showed that gratitude.
 

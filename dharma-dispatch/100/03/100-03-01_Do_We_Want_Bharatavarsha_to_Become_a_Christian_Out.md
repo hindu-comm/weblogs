@@ -349,7 +349,7 @@ In brief, we need to place stress on the phrase that India is the “only surviv
 
 Dr S Radhakrishnan in his preface to the fifth volume of P V Kane’s *History of the Dharmashastras* holds that
 
-> True religion should have three sides to it: (i) State of Mind (ii) > Relationship to reality and (iii) A way of life
+> True religion should have three sides to it: (i) State of Mind (ii) Relationship to reality and (iii) A way of life
 
 And PV Kane himself, in the same volume notes how
 

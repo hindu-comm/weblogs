@@ -11,7 +11,7 @@ Who are the conservative Democrats? (part 2)
 
 A question below:
 
-> I’m curious about the demographics of this category, specifically > their geographic distribution, religion and ethnicity.
+> I’m curious about the demographics of this category, specifically their geographic distribution, religion and ethnicity.
 
 First, I limited the sample to whites to remove confounds of ethnicity. Interestingly, in the GSS in the period between 1998-2008 24% of black Democrats/lean Democrats considered themselves conservatives, as opposed to 18% of whites. This surprised me, I generally remove blacks from he GSS sample in politics so had no data to fill in the gap where intuition lay. It does reiterate my suspicion that personal assertions of political ideology are less important than revealed preferences as determined by voting patterns. Another way of characterizing the racial breakdown is that while 21% of liberal + moderate Democrats were black, 28% of conservative Democrats were black.  
 As for the rest of the question, that’s rather easy to explore. I simply combined the liberals and moderates into one category, placed the conservatives into other, and cross-referenced them when other variables. For your information, “SEI” = socioeconomic index below. The short of it is that conservative Democrats are less intelligent and educated, more Protestant and religious, less affluent, and of course, more Southern. This is for whites only again.

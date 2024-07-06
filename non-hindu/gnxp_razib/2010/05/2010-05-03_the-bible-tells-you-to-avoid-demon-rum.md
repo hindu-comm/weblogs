@@ -13,10 +13,10 @@ A few quick points on the [post below](http://blogs.discovermagazine.com/gnxp/20
 
 Now, in terms of controls for the results below, I did look into that, and I came to the conclusion (supported by some [logits](https://en.wikipedia.org/wiki/Logistic_regression) I ran) that the biggest influence on the patterns is BIBLE. This is the question from the GSS:
 
-> **Which of these statements comes closest to describing your feelings > about teh Bible?** >
-> 1\. The Bible is the actual word of God and is to be taken literally, > word for word. >
-> 2\. The Bible is the inspired word of God but not everything in it > should be taken literally, word for word. >
-> 3\. The Bible is an ancient book of fables, legends, history, and > moral precepts recorded by men.
+> **Which of these statements comes closest to describing your feelings about teh Bible?** >
+> 1\. The Bible is the actual word of God and is to be taken literally, word for word. >
+> 2\. The Bible is the inspired word of God but not everything in it should be taken literally, word for word. >
+> 3\. The Bible is an ancient book of fables, legends, history, and moral precepts recorded by men.
 
 In other words, the variable is an index of Protestant Fundamentalism. As you can see below, separating out this category into its classes reduces a lot of the variance. A few notes. SEI = “socioeconomix index.” It runs from 17 to 97, and I combined it into three categories. On Wordsum I also combined at the extremes, since the N was small there. I also took the Census Divisions and combined them so that all the Southern regions are together, and so forth. Here’s what I input into the [GSS browser](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08nw):
 

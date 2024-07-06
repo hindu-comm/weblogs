@@ -19,7 +19,7 @@ Whether you think elite public paganism lost its vitality in the last decades of
 
 Which brings me to the people of the [Mani peninsula](https://en.wikipedia.org/wiki/Mani_Peninsula), in the southern Peloponnese. **This isolated region was reputed to retain the practices of Greek paganism as late as the year 1000 A.D.** Let me quote [Constantine VII](https://en.wikipedia.org/wiki/Constantine_VII), Byzantine emperor from 913 to 959:
 
-> Be it known that the inhabitants of Castle Maina are not from the race > of aforesaid Slavs (Melingoi and Ezeritai dwelling on the Taygetus) > but from the older Romaioi, who up to the present time are termed > Hellenes by the local inhabitants on account of their being in olden > times idolaters and **worshippers of idols like the ancient Greeks**, > and who were baptized and became Christians in the reign of the > glorious Basil. The place in which they live is waterless and > inaccessible but has olives from which they gain some consolation.
+> Be it known that the inhabitants of Castle Maina are not from the race > of aforesaid Slavs (Melingoi and Ezeritai dwelling on the Taygetus) > but from the older Romaioi, who up to the present time are termed > Hellenes by the local inhabitants on account of their being in olden > times idolaters and **worshippers of idols like the ancient Greeks**, and who were baptized and became Christians in the reign of the glorious Basil. The place in which they live is waterless and inaccessible but has olives from which they gain some consolation.
 
 The Basil in question reigned from 867 to 886.
 

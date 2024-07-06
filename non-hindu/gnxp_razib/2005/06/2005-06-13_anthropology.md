@@ -17,7 +17,8 @@ Posted by razib at [06:08 PM](https://www.gnxp.com/MT2/archives/004072.html) [](
 
 ### Related Posts:
 
-- [Anthropology - science &
+- [Anthropology
+- science &
   politics](https://www.gnxp.com/WordPress/2007/10/07/anthropology-science-politics/) - [Dobzhansky on
   anthropology](https://www.gnxp.com/WordPress/2007/09/17/dobzhansky-on-anthropology/) - [In the academic
   trenches](https://www.gnxp.com/WordPress/2013/03/11/in-the-academic-trenches/) - ["The" unbearable "whiteness"

@@ -16,7 +16,10 @@ The way it works is simple: **send me a 23andMe, Ancestry, or Family Tree DNA ra
 
 In the subject please put:
 
-1.  “South Asian Genotype Project” 2.  The state/province your family is from 3.  Ethnolinguistic group 4.  If applicable, caste
+1.  “South Asian Genotype Project”
+2.  The state/province your family is from
+3.  Ethnolinguistic group
+4.  If applicable, caste
 
 In the body of the email you can put Y and mtDNA and any other information you want. Obviously your data is **confidential** and I won’t identify you by name, just ethnolinguistic group and such.
 

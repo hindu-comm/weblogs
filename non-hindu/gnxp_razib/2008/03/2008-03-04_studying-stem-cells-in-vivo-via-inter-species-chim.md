@@ -17,11 +17,11 @@ A [new paper](http://hmg.oxfordjournals.org/cgi/content/abstract/17/1/27) from [
 
 This seems to be the first step of a much larger research programme, and the authors hint at their next moves:
 
-> Owing to various practical and ethical constraints, however, it is > impossible to introduce ES cells of **certain species** into > blastocysts of the same species.  
+> Owing to various practical and ethical constraints, however, it is impossible to introduce ES cells of **certain species** into blastocysts of the same species.  
 > …  
-> We next performed immunofluorescence (IF) staining to examine the > identity of Apodemus-derived cells in a wide range of tissues (Fig. > 4). We **first examined the three major types of neural cells**: > neurons, oligodendrocytes and astrocytes.  
+> We next performed immunofluorescence (IF) staining to examine the identity of Apodemus-derived cells in a wide range of tissues (Fig. 4). We **first examined the three major types of neural cells**: neurons, oligodendrocytes and astrocytes.  
 > …  
-> Further genetic manipulation of either the ES cells or the host > blastocysts could in theory increase or decrease the degree to which > ES cells contribute to a particular tissue or organ. For example, **if > the host blastocysts are engineered to carry genetic defects that > block the development of a particular tissue (e.g. Pdx-1 mutation > which leads to the agenesis of the pancreas), the percentage > contribution of the ES cells to the affected tissue may increase > dramatically**.
+> Further genetic manipulation of either the ES cells or the host > blastocysts could in theory increase or decrease the degree to which > ES cells contribute to a particular tissue or organ. For example, **if > the host blastocysts are engineered to carry genetic defects that > block the development of a particular tissue (e.g. Pdx-1 mutation which leads to the agenesis of the pancreas), the percentage contribution of the ES cells to the affected tissue may increase dramatically**.
 
 The implication is clear: this sort of approach could lead to a full *in vivo* analysis of the development of tissues from “certain” species where research is currently considered unethical. It’s worth noting that this work was largely done in China; my guess is that will continue to be the case.
 

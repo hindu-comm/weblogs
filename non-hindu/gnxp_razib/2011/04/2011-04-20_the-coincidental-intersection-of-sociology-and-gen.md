@@ -11,8 +11,8 @@ The coincidental intersection of sociology & genetics
 
 [Hispanic – Definitions in the United States](https://en.wikipedia.org/wiki/Hispanic#Definitions_in_the_United_States):
 
-> The 1970 Census was the first time that a “Hispanic” identifier was > used and data collected with the question. The definition of > “Hispanic” has been modified in each successive census. The 2000 > Census asked if the person was “Spanish/Hispanic/Latino”. >
-> The U.S. Office of Management and Budget currently defines “Hispanic > or Latino” as “a person of Mexican, Puerto Rican, Cuban, South or > Central American, or other Spanish culture or origin, regardless of > race.”
+> The 1970 Census was the first time that a “Hispanic” identifier was used and data collected with the question. The definition of “Hispanic” has been modified in each successive census. The 2000 Census asked if the person was “Spanish/Hispanic/Latino”. >
+> The U.S. Office of Management and Budget currently defines “Hispanic or Latino” as “a person of Mexican, Puerto Rican, Cuban, South or Central American, or other Spanish culture or origin, regardless of race.”
 
 Because Hispanics can be any race, you need to look at their own self-identification. The breakdowns [as per the American census](https://en.wikipedia.org/wiki/Latino#Race) are that somewhat over 50% of American Hispanics/Latinos identify as white, most of the rest as “some other race,” with a small minority as black, Native American, etc.
 
@@ -20,7 +20,7 @@ This came to mind when I saw this paper in *BMC Genetics*, [Comparing self-repor
 
 Here are the results:
 
-> Four clusters are identified using 96 ancestry informative markers. > Three of these clusters are well delineated, but 30% of the > self-reported Hispanic-Americans are misclassified. We also found that > MESA SRE provides type I error rates that are consistent with the > nominal levels. More extensive simulations revealed that this finding > is likely due to the multi-ethnic nature of the MESA. Finally, we > describe situations where SRE may perform as well as a GBMA in > controlling the effect of population stratification and admixture in > association tests.
+> Four clusters are identified using 96 ancestry informative markers. > Three of these clusters are well delineated, but 30% of the > self-reported Hispanic-Americans are misclassified. We also found that > MESA SRE provides type I error rates that are consistent with the > nominal levels. More extensive simulations revealed that this finding > is likely due to the multi-ethnic nature of the MESA. Finally, we describe situations where SRE may perform as well as a GBMA in controlling the effect of population stratification and admixture in association tests.
 
 Below is a principal component analysis plot which illustrates the largest dimensions of genetic variation in their data set for the individuals from four different populations, African Americans, European Americans, Hispanic Americans, and Chinese Americans. I thought of the above census results when I saw the distributions on the plot:
 

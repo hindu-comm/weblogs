@@ -11,7 +11,7 @@ Twins – Korean that is….
 
 [Genetic and environmental contributions to prosocial behaviour in 2- to 9-year-old South Korean twins](http://www.journals.royalsoc.ac.uk/content/h5683214202v8372/):
 
-> …The best-fitting model indicated that 55%…of the variance in the 2- > to 9-year-olds’ prosocial behaviour was due to genetic factors and > 45%…was due to non-shared environmental factors. It is concluded that > genetic and environmental influences on prosocial behaviour in young > South Koreans are mostly similar to those in western samples.
+> …The best-fitting model indicated that 55%…of the variance in the 2- > to 9-year-olds’ prosocial behaviour was due to genetic factors and 45%…was due to non-shared environmental factors. It is concluded that genetic and environmental influences on prosocial behaviour in young South Koreans are mostly similar to those in western samples.
 
 This is the “standard” finding, **most of the variation in behavior is due to genes or non-shared environment**. In [The Nurture Assumption](https://www.amazon.com/exec/obidos/ASIN/0684857073/geneexpressio-20) Judith Rich Harris posited that the “non-shared environment” basically meant peer groups. Remember though that this is measuring a component of variance, so it applies to traits which vary throughout a population.
 

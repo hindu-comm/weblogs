@@ -11,7 +11,7 @@ Methodists are still Baptists who can read
 
 [Income by Religions](https://isteve.blogspot.com/2010/02/income-by-religions.html):
 
-> Good has a rather unwieldy graph showing religion by income. No > surprises, with Jews first and Hindus second in percent with six > figure incomes, and Jehovah’s Witnesses and black Protestant churches > last. **It would be interesting to know whether there are still > affluence distinctions mainline white Protestants, such as > Episcopalian v. Methodist.**
+> Good has a rather unwieldy graph showing religion by income. No > surprises, with Jews first and Hindus second in percent with six > figure incomes, and Jehovah’s Witnesses and black Protestant churches last. **It would be interesting to know whether there are still affluence distinctions mainline white Protestants, such as Episcopalian v. Methodist.**
 
 On a national level, there are. Pew’s [Religious Landscape Survey](https://religions.pewforum.org/) has detailed tables on educations, income, etc., broken down by denomination. Here’s a table I created (I left out historically black denominations). The values are percentages in each category, though the last column is a ratio:  
 

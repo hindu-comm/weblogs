@@ -19,8 +19,8 @@ Except it isn’t true.
 
 > Thor : Dies from serpent poison  
 >   
-> Christ : Crushes the head of serpents <https://t.co/ZMsaxqxP3E> > [pic.twitter.com/zkGJbitWI9](https://t.co/zkGJbitWI9) >
-> — Christians Posting Ws (@ChristianWposts) [September 10, > 2023](https://twitter.com/ChristianWposts/status/1700732185718714480?ref_src=twsrc%5Etfw)
+> Christ : Crushes the head of serpents <https://t.co/ZMsaxqxP3E> [pic.twitter.com/zkGJbitWI9](https://t.co/zkGJbitWI9) >
+> — Christians Posting Ws (@ChristianWposts) [September 10, 2023](https://twitter.com/ChristianWposts/status/1700732185718714480?ref_src=twsrc%5Etfw)
 
 Now, the reason *why* people think Jormungandr kills Thor … well, there are two, really. The first one is because of something Sturluson says in the Gylfaginning – and the second is because, in light of Drengr, it makes for a powerfully resonant tale.
 

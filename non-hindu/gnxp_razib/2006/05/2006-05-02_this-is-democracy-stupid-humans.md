@@ -12,8 +12,8 @@ This is democracy: stupid humans
 [Study: Geography Greek to young Americans](http://www.cnn.com/2006/EDUCATION/05/02/geog.test/):
 
 > …33 percent could not point out Louisiana on a U.S. map….  
-> …showed that 88 percent of those questioned could not find Afghanistan > on a map of Asia….  
-> …”half or fewer of young men and women 18-24 can identify the states > of New York or Ohio on a map \[50 percent and 43 percent, > respectively\],”….
+> …showed that 88 percent of those questioned could not find Afghanistan on a map of Asia….  
+> …”half or fewer of young men and women 18-24 can identify the states of New York or Ohio on a map \[50 percent and 43 percent, respectively\],”….
 
 But I’m sure many could pinpoint Britney Spears’ [butt crack](https://www.gnxp.com/blog/2006/04/brit-pic.php).
 

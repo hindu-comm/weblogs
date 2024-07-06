@@ -44,7 +44,8 @@ I’ll probably order[Melinda’s Naga Jolokia](https://www.amazon.com/exec/obid
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Thumbs up on the Rapture Trinidad Scorpion
   sauce](https://www.gnxp.com/WordPress/2017/05/15/thumbs-up-on-the-rapture-trinidad-scorpion-sauce/) - [Day 3 of hot sauce - Hottest Fuckin'
   Sauce](https://www.gnxp.com/WordPress/2007/03/29/day-3-of-hot-sauce-hottest-fuckin-sauce/) - [Yellowbird hot sauce should engage in some truth

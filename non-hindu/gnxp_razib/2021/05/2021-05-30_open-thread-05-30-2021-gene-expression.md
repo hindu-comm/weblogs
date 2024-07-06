@@ -47,7 +47,9 @@ I’ve been corresponding with a reader who is of English Romanichal background,
 
 ### Related Posts:
 
-- [Open Thread - 11/29/2021 - Gene
+- [Open Thread
+- 11/29/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/11/29/open-thread-11-29-2021-gene-expression/) - [Open Thread - 10/01/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/10/01/open-thread-10-01-2021-gene-expression/) - [Open Thread – 11/07/2021 – Gene
   Expression](https://www.gnxp.com/WordPress/2021/11/07/open-thread-11-07-2021-gene-expression/) - [Open Thread - 07/09/2021 - Gene

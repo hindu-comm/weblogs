@@ -11,7 +11,7 @@ A Stanford Escape?
 
 [Felix Salmon on Mini-Madoff Allen Stanford](http://www.portfolio.com/views/blogs/market-movers/2009/02/17/stanford-the-manhunt-begins):
 
-> Allen Stanford might be a moustachioed crook, but he’s not stupid. > There’s still a good chance that he could live out the rest of his > life in sybaritic luxury, even as his investors lose substantially > everything they entrusted to him and his offshore bank.
+> Allen Stanford might be a moustachioed crook, but he’s not stupid. There’s still a good chance that he could live out the rest of his life in sybaritic luxury, even as his investors lose substantially everything they entrusted to him and his offshore bank.
 
 1\) 7% on CDs is *crazy*. If it’s too good to be true….  
 2) If Stanford screwed so many people, what’s to stop one of them (or some of them) from taking the law into their own hands? He might be beyond the reach of the law, but vengeance….

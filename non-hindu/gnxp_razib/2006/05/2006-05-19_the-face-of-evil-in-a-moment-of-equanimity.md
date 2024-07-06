@@ -14,7 +14,8 @@ The face of evil in a moment of equanimity
 
 ### Related Posts:
 
-- [I am evil](https://www.gnxp.com/WordPress/2006/03/28/i-am-evil/) - [What was Francis Collins
+- [I am evil](https://www.gnxp.com/WordPress/2006/03/28/i-am-evil/)
+- [What was Francis Collins
   "thinking"](https://www.gnxp.com/WordPress/2006/06/15/what-was-francis-collins-thinking/) - [Friday Face](https://www.gnxp.com/WordPress/2011/03/04/friday-face/) - [Evil ideas](https://www.gnxp.com/WordPress/2006/03/13/evil-ideas/) - [English is my first
   language](https://www.gnxp.com/WordPress/2006/03/06/english-is-my-first-language/) - [Peer pressure
   works](https://www.gnxp.com/WordPress/2006/03/04/peer-pressure-works/)

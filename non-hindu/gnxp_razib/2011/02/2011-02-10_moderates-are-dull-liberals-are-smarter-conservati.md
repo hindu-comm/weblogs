@@ -11,7 +11,7 @@ Moderates are dull, liberals are smarter, conservatives are middling
 
 Long time reader [Ian](http://blogs.discovermagazine.com/gnxp/2011/02/the-academy-is-liberal-deal/#comment-57585) comments:
 
-> A comparison with “the American public” isn’t really appropriate – to > even be in the pool where you’re thinking about an academic career, > you need to have a college degree. **And that population if memory > serves, is far more liberal than the population at large.** More > realistic would be a comparison with the population of people who have > graduate degree….
+> A comparison with “the American public” isn’t really appropriate – to > even be in the pool where you’re thinking about an academic career, > you need to have a college degree. **And that population if memory serves, is far more liberal than the population at large.** More realistic would be a comparison with the population of people who have graduate degree….
 
 Roughly about \~20% of Americans self-identify as “liberal,” and \~40% as conservative. The [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08nw) has a variable POLVIEWS, which asks individuals to assign themselves to a position on a political spectrum, from “extremely liberal” to “extremely conservative,” like so:
 

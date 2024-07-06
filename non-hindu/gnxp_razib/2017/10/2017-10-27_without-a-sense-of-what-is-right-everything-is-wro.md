@@ -35,7 +35,8 @@ Whatever we’re doing, **it’s not making many people happy**, though it is in
 
 ### Related Posts:
 
-- [Open Thread - December 25th,
+- [Open Thread
+- December 25th,
   2010](https://www.gnxp.com/WordPress/2010/12/25/open-thread-december-25th-2010/) - [Merry
   Christmas!](https://www.gnxp.com/WordPress/2014/12/25/merry-christmas-2/) - [Merry
   Christmas](https://www.gnxp.com/WordPress/2007/12/23/merry-christmas/) - [The seasons](https://www.gnxp.com/WordPress/2011/12/22/the-seasons/) - [The season needs no

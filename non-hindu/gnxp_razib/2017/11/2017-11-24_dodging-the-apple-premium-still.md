@@ -21,7 +21,8 @@ So pass for now….
 
 ### Related Posts:
 
-- [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/) - [Desktop linux will never happen for the
+- [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/)
+- [Desktop linux will never happen for the
   masses](https://www.gnxp.com/WordPress/2015/08/25/desktop-linux-will-never-happen-for-the-masses-i-guess/) - [Manjoo on
   Ubuntu](https://www.gnxp.com/WordPress/2008/10/25/manjoo-on-ubuntu/) - [Safari for
   Windows](https://www.gnxp.com/WordPress/2007/06/16/safari-for-windows/) - [Windows

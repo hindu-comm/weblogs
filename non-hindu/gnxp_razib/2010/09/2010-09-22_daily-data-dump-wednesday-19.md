@@ -22,7 +22,8 @@ Daily Data Dump – Wednesday
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Sichuan and
   spice](https://www.gnxp.com/WordPress/2016/04/18/sichuan-and-spice/) - [Why some like it hot:
   awesomeness](https://www.gnxp.com/WordPress/2011/11/30/why-some-like-it-hot-awesomeness/) - [Day 3 of hot sauce - Hottest Fuckin'

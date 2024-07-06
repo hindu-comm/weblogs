@@ -17,13 +17,13 @@ Note: I added geographic labels to the PC chart for clarification.
 
 Update: Steve has another [post up](https://isteve.blogspot.com/2008/04/ashkenazi-jewish-genes-in-3-d.html):
 
-> On the first two axes, Ashkenazi Jews are rather close to “Europeans” > and “Russians.” They are similar to Yemenites (from Southern Arabian > peninsula) on the first axis, but not on the second. And they are > similar to Samaritans (who currently subsist on two hilltops in > Israel), good, bad or indifferent, on the second axis but not on the > first. They are fairly similar to the Druze (of Lebanon and Israel) on > the first two axes, but not on the third. >
+> On the first two axes, Ashkenazi Jews are rather close to “Europeans” > and “Russians.” They are similar to Yemenites (from Southern Arabian > peninsula) on the first axis, but not on the second. And they are > similar to Samaritans (who currently subsist on two hilltops in Israel), good, bad or indifferent, on the second axis but not on the first. They are fairly similar to the Druze (of Lebanon and Israel) on the first two axes, but not on the third. >
 > … >
-> So, Ashkenazis look pretty European on this chart compared to a few > Middle Eastern groups. But, as the recent graph showed, genetics has > progressed to the point where Ashkenazis (at least those with four > Ashkenazi grandparents) can now be reliably distinguished from other > Europeans.
+> So, Ashkenazis look pretty European on this chart compared to a few > Middle Eastern groups. But, as the recent graph showed, genetics has progressed to the point where Ashkenazis (at least those with four Ashkenazi grandparents) can now be reliably distinguished from other Europeans.
 
 The Samaritans are cousins of the Jews. [But](https://en.wikipedia.org/wiki/Samaritans#DNA_testing_of_Samaritans):
 
-> In the past, the Samaritans are believed to have numbered several > hundred thousand, but persecution and assimilation have reduced their > numbers drastically. In 1919, **an illustrated National Geographic > report on the community stated that their numbers were less than > 150.**
+> In the past, the Samaritans are believed to have numbered several > hundred thousand, but persecution and assimilation have reduced their numbers drastically. In 1919, **an illustrated National Geographic report on the community stated that their numbers were less than 150.**
 
 Like the [Kalash](https://en.wikipedia.org/wiki/Kalash) or [Sardinians](https://en.wikipedia.org/wiki/Sardinia#Genetics) the Samaritans are going to be weird outliers because of their demographic history. Inbreeding and no gene flow in for that long will do that to you (many people in the Middle East are descended from Samaritans of course, but very few Samaritans are descended from non-Samaritans).
 

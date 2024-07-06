@@ -30,7 +30,8 @@ The importance of indepdent cognitive subroutines and emotional associations are
 
 ### Related Posts:
 
-- ["A wild man"](https://www.gnxp.com/WordPress/2006/11/06/a-wild-man/) - [Religion & public attitudes: Europe vs.
+- ["A wild man"](https://www.gnxp.com/WordPress/2006/11/06/a-wild-man/)
+- [Religion & public attitudes: Europe vs.
   USA](https://www.gnxp.com/WordPress/2008/05/22/religion-public-attitudes-europe-vs-usa/) - [Logical consistency is
   irreligious](https://www.gnxp.com/WordPress/2006/07/25/logical-consistency-is-irreligious/) - [True
   unbeliever](https://www.gnxp.com/WordPress/2006/10/29/true-unbeliever/) - [Post-Christian Europe, part

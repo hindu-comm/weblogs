@@ -11,7 +11,7 @@ Immigration & DNA testing
 
 [Refugee program stayed after feds confirm fraud](http://www.t-g.com/story/1478471.html):
 
-> DNA testing conducted earlier this year by the government to verify > blood ties between anchor refugees and their supposed family members > revealed that **fewer than 20 percent of those checked could confirm > their biological relationships**, the fact sheet stated.
+> DNA testing conducted earlier this year by the government to verify blood ties between anchor refugees and their supposed family members revealed that **fewer than 20 percent of those checked could confirm their biological relationships**, the fact sheet stated.
 
 Doesn’t matter how high “paternity uncertainty” is in a culture, this is just way too high a number.
 

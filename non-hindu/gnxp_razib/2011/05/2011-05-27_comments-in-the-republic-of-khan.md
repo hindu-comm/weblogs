@@ -11,7 +11,7 @@ Comments in the republic of Khan
 
 So today I received an email from regular commenter German Dziebel:
 
-> Razib, what’s your relationship with the Discover Magazine? Up until > now I thought of your blog as more or less a public forum, rather than > a private franchise. Please clarify, so we don’t bicker about ethics > in public.
+> Razib, what’s your relationship with the Discover Magazine? Up until now I thought of your blog as more or less a public forum, rather than a private franchise. Please clarify, so we don’t bicker about ethics in public.
 
 I have no idea what German precisely means by “public forum” or “private franchise,” though I have a general sense. *Discover Magazine* pays me to blog. I also have an editor who I consult now and then. For example when I discussed traffic patterns to this website I asked if that would be OK, since I know that sort of information is often material sites like to keep somewhat private. When Marnie Dunsmore threatened to sue me for “stealing her ideas” I shot an email to the editor to notify him of her strange accusations. **But in general my communication with *Discover Magazine* is limited to technical issues, as well as some exchanges of ideas and topics to post on** (this isn’t formal, the editor knows the kind of stories and papers I dig, and will send me an email or point a tweet my way).
 

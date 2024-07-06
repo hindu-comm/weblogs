@@ -70,7 +70,17 @@ Advertisement
 
 **Tagged with:**
 
-- [afghans](https://musingsofhh.wordpress.com/tag/afghans/) - [altaic](https://musingsofhh.wordpress.com/tag/altaic/) - [buddhist](https://musingsofhh.wordpress.com/tag/buddhist/) - [ghori](https://musingsofhh.wordpress.com/tag/ghori/) - [hindus](https://musingsofhh.wordpress.com/tag/hindus/) - [india](https://musingsofhh.wordpress.com/tag/india/) - [khalji](https://musingsofhh.wordpress.com/tag/khalji/) - [khilji](https://musingsofhh.wordpress.com/tag/khilji/) - [khokars](https://musingsofhh.wordpress.com/tag/khokars/) - [mongols](https://musingsofhh.wordpress.com/tag/mongols/) - [northern
+- [afghans](https://musingsofhh.wordpress.com/tag/afghans/)
+- [altaic](https://musingsofhh.wordpress.com/tag/altaic/)
+- [buddhist](https://musingsofhh.wordpress.com/tag/buddhist/)
+- [ghori](https://musingsofhh.wordpress.com/tag/ghori/)
+- [hindus](https://musingsofhh.wordpress.com/tag/hindus/)
+- [india](https://musingsofhh.wordpress.com/tag/india/)
+- [khalji](https://musingsofhh.wordpress.com/tag/khalji/)
+- [khilji](https://musingsofhh.wordpress.com/tag/khilji/)
+- [khokars](https://musingsofhh.wordpress.com/tag/khokars/)
+- [mongols](https://musingsofhh.wordpress.com/tag/mongols/)
+- [northern
   alliance](https://musingsofhh.wordpress.com/tag/northern-alliance/) - [pagan](https://musingsofhh.wordpress.com/tag/pagan/) - [superpower](https://musingsofhh.wordpress.com/tag/superpower/) - [taliban](https://musingsofhh.wordpress.com/tag/taliban/) - [tengri](https://musingsofhh.wordpress.com/tag/tengri/) - [timur](https://musingsofhh.wordpress.com/tag/timur/)
 
 **[Madrassa and terrorists in the expansion of Dar ulIslam](https://musingsofhh.wordpress.com/2011/09/27/madrassa-and-terrorists-in-the-expansion-of-dar-ul-islam/)**

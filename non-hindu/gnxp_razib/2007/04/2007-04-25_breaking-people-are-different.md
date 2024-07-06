@@ -11,15 +11,15 @@ Breaking: People are different
 
 Heredity has [a summary](http://www.nature.com/hdy/journal/v98/n5/full/6800970a.html) of a study on the genetics of gene expression differences between European and Asian populations (which I summarized [here](https://www.gnxp.com/blog/2007/01/differences-in-gene-expression-between.php)). The opening lines are a striking glimpse into the academic world:
 
-> It has often been observed that people are different. Indeed, some > observers have gone further to suggest that this diversity exists > between people from different parts of the world, or of different > ethnic groups, and it is hereditary. This latter observation has led > to a certain amount of contention over time. As a result, many > geneticists have been wary about asserting that such differences > exist.
+> It has often been observed that people are different. Indeed, some > observers have gone further to suggest that this diversity exists > between people from different parts of the world, or of different > ethnic groups, and it is hereditary. This latter observation has led to a certain amount of contention over time. As a result, many geneticists have been wary about asserting that such differences exist.
 
 That’s right, it’s contentious to say that the “diversity” we are all so fond of might have some relation to genetic diversity, something that is patently obvious given a basic knowledge of evolutionary processes and a pair of eyes.
 
 But whatever, it’s a good summary of the research, though I must take issue with the argument that gene expression variation between individuals may have no effect on phenotype:
 
-> \[W\]hile the exact numbers of differences could be debated, the data > at least suggest that there should be considerable variation in actual > humans. But, does this matter? One problem with establishing the > importance of microarray results is that they only tell about gene > expression, not about the physiological effects of the gene. Earlier > studies on the dynamics of metabolic pathways have shown that fluxes > through the pathways may be relatively insensitive to changes in the > concentration of many of the enzymes in a pathway  
+> \[W\]hile the exact numbers of differences could be debated, the data > at least suggest that there should be considerable variation in actual > humans. But, does this matter? One problem with establishing the > importance of microarray results is that they only tell about gene > expression, not about the physiological effects of the gene. Earlier studies on the dynamics of metabolic pathways have shown that fluxes through the pathways may be relatively insensitive to changes in the concentration of many of the enzymes in a pathway  
 > …  
-> Overall, it is not clear how the variation in gene expression relates > to phenotype, and fitness
+> Overall, it is not clear how the variation in gene expression relates to phenotype, and fitness
 
 This shows a striking lack of familiarity with studies on the evolution of gene expression. Where it has been well-studied, it’s clear that gene expression levels are under strict control– they are under strong negative selection and do not vary neutrally\[1\]. This implies, of course, that changes in gene expression have an effect on fitness (though it’s true the precise effects of individual genes are mainly unknown). Changes in gene expression levels are very likely to have some sort of phenotypic consequence.
 

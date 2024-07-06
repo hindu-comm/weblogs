@@ -15,7 +15,8 @@ Genetics of speciation
 
 ### Related Posts:
 
-- [On Words: II](https://www.gnxp.com/WordPress/2006/06/09/on-words-ii/) - [Species are what you want them to
+- [On Words: II](https://www.gnxp.com/WordPress/2006/06/09/on-words-ii/)
+- [Species are what you want them to
   be](https://www.gnxp.com/WordPress/2018/01/29/species-are-what-you-want-them-to-be/) - [Electric
   sympatry](https://www.gnxp.com/WordPress/2006/06/03/electric-sympatry/) - [Bayesian Estimation of the Timing and Severity of
   a…](https://www.gnxp.com/WordPress/2006/04/20/bayesian-estimation-of-the-timing-and-severity-of-a-population-bottleneck-from-ancient-dna/) - [Bayesian Estimation of the Timing and Severity of

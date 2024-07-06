@@ -11,7 +11,7 @@ Lead, Crime, and a decent newspaper article on methodology
 
 Was the drop in crime causes by a drop in lead exposure? [This Wash Post piece](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/07/AR2007070701073.html) does a nice job reviewing a few recent studies on this issue, focusing mostly economist Rick Nevin’s cross-country work. From the abstract to his [key paper](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WDS-4NJP3V8-2&_user=4429&_coverDate=07%2F31%2F2007&_rdoc=1&_fmt=summary&_orig=search&_cdi=6774&_sort=d&_docanchor=&view=c&_acct=C000059602&_version=1&_urlVersion=0&_userid=4429&md5=5e6a942a230521f3dea3d0bcdc2cb85a):
 
-> This study shows a very strong association between preschool blood > lead and subsequent crime rate trends over several decades in the USA, > Britain, Canada, France, Australia, Finland, Italy, West Germany, and > New Zealand. The relationship is….consistent with neurobehavioral > damage in the first year of life and the peak age of offending for > index crime, burglary, and violent crime….Regression analysis of > average 1985-1994 murder rates across USA cities suggests that murder > could be especially associated with more severe cases of childhood > lead poisoning.
+> This study shows a very strong association between preschool blood > lead and subsequent crime rate trends over several decades in the USA, > Britain, Canada, France, Australia, Finland, Italy, West Germany, and > New Zealand. The relationship is….consistent with neurobehavioral > damage in the first year of life and the peak age of offending for > index crime, burglary, and violent crime….Regression analysis of average 1985-1994 murder rates across USA cities suggests that murder could be especially associated with more severe cases of childhood lead poisoning.
 
 I’m not qualified to address the medical angle, but the statistical discussion in the Post article is solid. I was pleasantly surprised to see a decent lit review that noted the inclusion of control variables and decent econometric identification methods in a few different studies. The key to Levin’s statistical method, of course, is that the changes in lead exposure across time and across countries have to be uncorrelated with any omitted variables that might also impact crime. Any takers on the bet that some other variable can knock out lead’s statistical significance?
 
@@ -21,7 +21,8 @@ Oh, and for what it’s worth, this line of research is just another example of 
 
 ### Related Posts:
 
-- [Open Thread - December 4th,
+- [Open Thread
+- December 4th,
   2010](https://www.gnxp.com/WordPress/2010/12/04/open-thread-december-4th-2010/) - [Crime way down. Who exactly knows
   stuff?](https://www.gnxp.com/WordPress/2009/12/21/crime-way-down-who-exactly-knows-stuff/) - [One year after the financial collapse, Gotham in a
   downward…](https://www.gnxp.com/WordPress/2009/12/29/one-year-after-the-financial-collapse-gotham-in-a-downward-spiral/) - [Religion & public attitudes: Europe vs.

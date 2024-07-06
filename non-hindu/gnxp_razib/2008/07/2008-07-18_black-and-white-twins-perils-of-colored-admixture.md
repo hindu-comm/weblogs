@@ -11,9 +11,9 @@ Black and white twins & perils of Colored admixture
 
 ![1_61_320_biracial_twins.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/1_61_320_biracial_twins.jpg?resize=320%2C240)![1_61_320_biracial_twins.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/1_61_320_biracial_twins.jpg?resize=320%2C240)I was curious why an old [Genetics and Health](http://www.geneticsandhealth.com/2006/10/21/twins-with-different-skin-color-genes/) post, [Twins with Different Skin Color Genes](http://www.geneticsandhealth.com/2006/10/21/twins-with-different-skin-color-genes/), was sending me many referrals today. Now I know, [Two in a Million: Twins Born – One Black, One White](http://www.foxnews.com/story/0,2933,384862,00.html):
 
-> The twin boys, named Ryan and Leo, are the offspring of a mixed-race > couple.  
-> The mother, Florence, hails from Ghana in western Africa, and dad, > Stephan, is from Potsdam in Germany.  
-> **“Ryan came first, and *everything was as usual*,” said the > hospital’s doctor, Birgit Weber. “But when Leo was born, *I couldn’t > believe my eyes*.”**  
+> The twin boys, named Ryan and Leo, are the offspring of a mixed-race couple.  
+> The mother, Florence, hails from Ghana in western Africa, and dad, Stephan, is from Potsdam in Germany.  
+> **“Ryan came first, and *everything was as usual*,” said the hospital’s doctor, Birgit Weber. “But when Leo was born, *I couldn’t believe my eyes*.”**  
 > “Both kids have definitely the same father,” the doctor added.
 
 These aren’t the first of these “amazing” of twins. I’ve posted on this sort of story before, Can you tell if you’re black or white?, “Black” & white twins again and Ivory & ebony, twins again…and again…. I touched on the major genetic points in depth in those posts, but this case is a bit different since you have two parents who are monoracial; this makes the odds in terms of genotypic combinations a bit confusing. I think that the easiest way to explain the outcomes are stochasticity of gene expression during development, and, possibly [gene-gene interactions](https://www.gnxp.com/blog/2005/07/through-rugged-roads-of-gene-land.php) between these two parents which allow for deviations outside of the expected range. If what I’m saying is unintelligible to you, I recommend you read the posts I linked to above, it will make the context clearer.

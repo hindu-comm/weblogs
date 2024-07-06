@@ -33,6 +33,6 @@ p.*99*
 
 While discussing how Deśika had respect for Piḷḷai Lokācārya and vice versa, and that Deśika asserted that there might be “different interpretations of texts” but no “difference of philosophy or theology” among the followers of Rāmānuja, the author says the following, which made me smile (p.132):
 
-> “Thus, research on the Tāmizh (sic.) cats and ‘Sānskrit (sic.) > monkeys’ as some inquisitive students put it, is unwarranted and > surely, not the need of the hour”
+> “Thus, research on the Tāmizh (sic.) cats and ‘Sānskrit (sic.) monkeys’ as some inquisitive students put it, is unwarranted and surely, not the need of the hour”
 
 Sridhar, Dushyanth (2018). *Vedānta Deśika*: *The Peerless Poet-Preceptor.* Coimbatore: Jagathguru Sri Jayendra Saraswathi Trust.

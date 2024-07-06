@@ -13,7 +13,8 @@ Congratulations to [Dr. Daniel MacArthur & the Mrs.](http://scienceblogs.com/gen
 
 ### [Related Posts:](http://scienceblogs.com/geneticfuture/2010/02/my_genetic_future.php)
 
-- [Genomes Unzipped - the naked
+- [Genomes Unzipped
+- the naked
   sequence](https://www.gnxp.com/WordPress/2010/10/11/genomes-unzipped-the-naked-sequence/) - [Research blogger of the year
   is....](https://www.gnxp.com/WordPress/2010/03/23/research-blogger-of-the-year-is/) - ["Genetic Map of Europe" Wins a MacArthur
   Grant!](https://www.gnxp.com/WordPress/2015/09/29/genetic-map-of-europe-wins-a-macarthur-grant/) - [\$48,000 genome now, what in 6

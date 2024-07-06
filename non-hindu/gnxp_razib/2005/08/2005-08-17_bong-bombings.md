@@ -17,7 +17,8 @@ Bong bombings
 
 ### Related Posts:
 
-- [Asian Nazis](https://www.gnxp.com/WordPress/2006/10/30/asian-nazis/) - [Still not understanding the nature of
+- [Asian Nazis](https://www.gnxp.com/WordPress/2006/10/30/asian-nazis/)
+- [Still not understanding the nature of
   affairs](https://www.gnxp.com/WordPress/2012/07/07/still-not-understanding-the-nature-of-affairs/) - [The future is
   here](https://www.gnxp.com/WordPress/2012/01/17/the-future-is-here/) - [The end of the
   blogroll](https://www.gnxp.com/WordPress/2013/01/04/the-end-of-the-blogroll/) - [Polygyny as a function of nation and

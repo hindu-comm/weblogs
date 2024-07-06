@@ -11,13 +11,13 @@ Social science = study of Western college students
 
 Or at least that’s the joke. [Interesting post](https://bhascience.blogspot.com/2009/08/is-social-function-of-religion-changing.html) from Tom Rees which illustrates the utility of **cross-cultural tests of general theories-of-religion.** Rees notes:
 
-> One of the leading theories of why religion is so popular goes by the > ominous name of ‘Terror Management Theory’. Put simply, **this is the > idea that people turn to religion to ease their fear of death.**  
+> One of the leading theories of why religion is so popular goes by the ominous name of ‘Terror Management Theory’. Put simply, **this is the idea that people turn to religion to ease their fear of death.**  
 > …  
-> While Christians did indeed have a lower death anxiety than the > non-religious, Muslims did not. In fact, their death anxiety was > markedly higher than both the other groups.  
-> When the participants were asked to explain why they felt the way they > did about death, the reasons for the anxiety of Muslims became clear: >
-> > \[For Christians\] themes of heaven and eternal life are prevalent, > > **whereas for Muslims the afterlife may be something to fear** (“I > > don’t know if I have been a good Muslim and so go to heaven or > > hell”). >
-> In other words, the Christians in this group had low death anxiety > because they mostly don’t believe in hell!  
-> This focus on heaven, and disbelief in Hell, is very popular among > Western Christians today. But it’s a fairly recent development. For > most of the history of Christianity, the fear of punishment in Hell > was an ever-present and vivid theme.
+> While Christians did indeed have a lower death anxiety than the non-religious, Muslims did not. In fact, their death anxiety was markedly higher than both the other groups.  
+> When the participants were asked to explain why they felt the way they did about death, the reasons for the anxiety of Muslims became clear: >
+> > \[For Christians\] themes of heaven and eternal life are prevalent, > > **whereas for Muslims the afterlife may be something to fear** (“I > don’t know if I have been a good Muslim and so go to heaven or hell”). >
+> In other words, the Christians in this group had low death anxiety because they mostly don’t believe in hell!  
+> This focus on heaven, and disbelief in Hell, is very popular among Western Christians today. But it’s a fairly recent development. For most of the history of Christianity, the fear of punishment in Hell was an ever-present and vivid theme.
 
 According to the General Social Survey in the United States 80% of Southern Baptists “definitely believe in hell,” as opposed to 35% of Episcopalians and 50% of Methodists, so our religious population has a diverse enough array of beliefs among Christians to serve as an interesting test of the generalizability of these theories even within religious groups. Anyone familiar with sermons such as Jonathan Edwards’ [Sinners in the Hands of the Angry God](https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God), or [the literature](https://en.wikipedia.org/wiki/Nathaniel_Hawthorne#Literary_style_and_themes) which examines the world of the early American Puritans, is aware of the fact that terror of damnation was a very common theme among Christians of earlier eras. Additionally, a broader historical and cultural survey reminds us that many ancient religions conceived of afterlives which were generally less than pleasant, from the domain of [Hades](https://en.wikipedia.org/wiki/Greek_underworld) to [sheol](https://en.wikipedia.org/wiki/Sheol).
 

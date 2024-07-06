@@ -16,7 +16,8 @@ The paper [Genetic Evidence for the Convergent Evolution of Light Skin in Europe
 
 ### Related Posts:
 
-- [Convergent evolution in skin color - part
+- [Convergent evolution in skin color
+- part
   n](https://www.gnxp.com/WordPress/2006/12/31/convergent-evolution-in-skin-color-part-n/) - [Another genetics of skin color
   review...](https://www.gnxp.com/WordPress/2006/09/23/another-genetics-of-skin-color-review/) - [I was wrong about skin color in Europeans and East
   Asians](https://www.gnxp.com/WordPress/2006/04/22/i-was-wrong-about-skin-color-in-europeans-and-east-asians/) - [Gene expression, overdominance and skin

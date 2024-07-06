@@ -11,11 +11,11 @@ Trolley problem
 
 You might have encountered the [Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem):
 
-> A trolley is running out of control down a track. In its path are 5 > people who have been tied to the track by a mad philosopher. > Fortunately, you can flip a switch which will lead the trolley down a > different track. Unfortunately, there is a single person tied to that > track. Should you flip the switch?
+> A trolley is running out of control down a track. In its path are 5 > people who have been tied to the track by a mad philosopher. Fortunately, you can flip a switch which will lead the trolley down a different track. Unfortunately, there is a single person tied to that track. Should you flip the switch?
 
 It seems obvious to most people that you should. (Don’t fret if you disagree — so do I.) But what if we change the scenario:
 
-> As before, a trolley is hurtling down a track towards five people. You > are on a bridge under which it will pass, and you can stop it by > dropping a heavy weight in front of it. As it happens, there is a very > fat man next to you – your only way to stop the trolley is to push him > over the bridge and onto the track, killing him to save five. Should > you proceed?
+> As before, a trolley is hurtling down a track towards five people. You > are on a bridge under which it will pass, and you can stop it by > dropping a heavy weight in front of it. As it happens, there is a very fat man next to you – your only way to stop the trolley is to push him over the bridge and onto the track, killing him to save five. Should you proceed?
 
 Polls find that most people think this is not permissible. Indeed, the high degree of agreement among people’s intuitions about these problems has led to the [speculation that they may be revealing the facets of an intuitive morality instinct/module/faculty.](http://bostonreview.net/BR30.5/saxe.html)
 

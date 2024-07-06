@@ -13,7 +13,8 @@ About a week ago I got hyperpedantic [over at Aziz’s blog](https://dean2004.bl
 
 ### Related Posts:
 
-- [Shia & Sunni](https://www.gnxp.com/WordPress/2006/12/04/shia-sunni/) - [When mental algebra goes
+- [Shia & Sunni](https://www.gnxp.com/WordPress/2006/12/04/shia-sunni/)
+- [When mental algebra goes
   wrong....](https://www.gnxp.com/WordPress/2005/02/26/when-mental-algebra-goes-wrong/) - [Switching
   typologies....](https://www.gnxp.com/WordPress/2005/02/28/switching-typologies/) - [Simple math](https://www.gnxp.com/WordPress/2007/11/17/simple-math/) - [Substance &
   style](https://www.gnxp.com/WordPress/2006/02/17/substance-style/) - [The idea of

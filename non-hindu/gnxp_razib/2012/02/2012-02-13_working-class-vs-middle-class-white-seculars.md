@@ -11,7 +11,7 @@ Working class vs. middle class white seculars
 
 Rod Dreher at *The American Conservative, [White Working-Class ‘Seculars’](http://www.theamericanconservative.com/dreher/2012/02/12/white-working-class-secular/):*
 
-> **What’s interesting to think about is that these working-class > non-churchgoers are probably not secular in the same way white > intellectual elites are secular.** I bet if you polled them, 999 out > of 1,000 would say they believed in God and considered themselves to > be Christians. It’s just that they don’t go to church. Where I live, > during deer hunting season, to be a white male is to be seasonally > “secular” in this way.
+> **What’s interesting to think about is that these working-class > non-churchgoers are probably not secular in the same way white > intellectual elites are secular.** I bet if you polled them, 999 out > of 1,000 would say they believed in God and considered themselves to be Christians. It’s just that they don’t go to church. Where I live, during deer hunting season, to be a white male is to be seasonally “secular” in this way.
 
 One way to answer this question is look at the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10). I used the ATTEND (attend church that is) variable to ascertain secularity. Those who never attended church or did so less than once a year (in other words, some years they did attend, in other years they did not), are “secular.” Those who attend nearly weekly, or more, are “religious.” To assess class I simply divided the non-Hispanic white population into those who had a college degree or higher (middle class), and those who did not (working class).
 

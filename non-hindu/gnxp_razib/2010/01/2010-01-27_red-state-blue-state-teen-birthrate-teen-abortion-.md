@@ -11,7 +11,7 @@ Red State, Blue State, Teen Birthrate, Teen Abortion rate
 
 A reader pointed to this [post in *Free Exchange*](http://www.economist.com/blogs/democracyinamerica/2010/01/teen_pregnancy_and_abortion):
 
-> Here are the 15 states with the biggest percentage drop from 1988-2005 > in the ratio of teen abortionsâ€”the percentage of teen pregnancies > that ended in abortion, not counting miscarriages. Crudely put, these > are the states where pregnant white teens stopped having abortions > between 1988-2005. >
+> Here are the 15 states with the biggest percentage drop from 1988-2005 > in the ratio of teen abortionsâ€”the percentage of teen pregnancies that ended in abortion, not counting miscarriages. Crudely put, these are the states where pregnant white teens stopped having abortions between 1988-2005. >
 > 1\. Kentucky  
 > 2. Nebraska  
 > 3. Arkansas  

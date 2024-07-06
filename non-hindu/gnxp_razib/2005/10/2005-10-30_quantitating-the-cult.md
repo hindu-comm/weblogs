@@ -29,7 +29,8 @@ Addendum: Let me be specific as to why I posted this, I really tire of the abstr
 
 ### Related Posts:
 
-- ["Diversity"](https://www.gnxp.com/WordPress/2006/11/10/diversity/) - [Lewontin's Paradox in the 21st
+- ["Diversity"](https://www.gnxp.com/WordPress/2006/11/10/diversity/)
+- [Lewontin's Paradox in the 21st
   century](https://www.gnxp.com/WordPress/2021/02/04/lewontins-paradox-in-the-21st-century/) - [The value of Diversity and
   Homogeneity](https://www.gnxp.com/WordPress/2005/03/02/the-value-of-diversity-and-homogeneity/) - [The rise of the black
   wolf](https://www.gnxp.com/WordPress/2009/02/05/the-rise-of-the-black-wolf/) - [Promiscuity and vaginal bacterial

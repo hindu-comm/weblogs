@@ -15,7 +15,8 @@ Update: Kambiz has [the expat view](http://anthropology.net/user/kambiz_kamrani/
 
 ### Related Posts:
 
-- [Noruz & Iran](https://www.gnxp.com/WordPress/2007/03/24/noruz-iran/) - [Why Pakistanis are more Muslim than
+- [Noruz & Iran](https://www.gnxp.com/WordPress/2007/03/24/noruz-iran/)
+- [Why Pakistanis are more Muslim than
   thou](https://www.gnxp.com/WordPress/2010/02/01/why-pakistanis-are-more-muslim-than-thou/) - [The dynasty which created
   Iran](https://www.gnxp.com/WordPress/2012/01/13/the-dynasty-which-created-iran/) - [Only a minority of Iranian Americans are
   Muslims](https://www.gnxp.com/WordPress/2010/03/08/only-a-minority-of-iranian-americans-are-muslims/) - [The

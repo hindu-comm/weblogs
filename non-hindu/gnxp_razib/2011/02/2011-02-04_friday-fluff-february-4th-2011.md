@@ -17,8 +17,8 @@ Friday Fluff – February 4th, 2011
 
 3\) **Comment of the week**, in response to [Why siblings differ differently](http://blogs.discovermagazine.com/gnxp/2011/02/why-siblings-differ-differently/#comments):
 
-> The people who criticize twin and adoption experiments in behavioral > genetics don’t seem to realize that using genotyping we’ll be able to > test heritability over a continuous range of relatedness, as you > emphasize in your post.  
-> Already it is significant that Visscher obtains the same heritability > for height that the twin experiments obtained. IQ is next …
+> The people who criticize twin and adoption experiments in behavioral genetics don’t seem to realize that using genotyping we’ll be able to test heritability over a continuous range of relatedness, as you emphasize in your post.  
+> Already it is significant that Visscher obtains the same heritability for height that the twin experiments obtained. IQ is next …
 
 4\) And finally, your weekly **fluff fix**:
 
@@ -26,7 +26,8 @@ Friday Fluff – February 4th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - August 26th,
+- [Friday Fluff
+- August 26th,
   2011](https://www.gnxp.com/WordPress/2011/08/26/friday-fluff-august-26th-2011/) - [Friday Fluff - March 4th,
   2011](https://www.gnxp.com/WordPress/2011/03/04/friday-fluff-march-4th-2011/) - [Friday Fluff - June 10th,
   2011](https://www.gnxp.com/WordPress/2011/06/10/friday-fluff-june-10th-2011/) - [Friday Fluff - September 9th,

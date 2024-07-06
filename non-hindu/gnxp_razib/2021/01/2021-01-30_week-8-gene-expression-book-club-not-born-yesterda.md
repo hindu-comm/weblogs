@@ -19,7 +19,8 @@ The overall message that people have a mind of their own is mostly correct. But 
 
 ### Related Posts:
 
-- [Week 7, Gene Expression Book Club - Not Born
+- [Week 7, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/30/week-7-gene-expression-book-club-not-born-yesterday/) - [Week 5, Gene Expression Book Club - Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/16/week-5-gene-expression-book-club-not-born-yesterday/) - [Week 4, Gene Expression Book Club - Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/10/week-4-gene-expression-book-club-not-born-yesterday/) - [Gene Expression Book Club - it's off to the

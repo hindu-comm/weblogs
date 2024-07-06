@@ -30,7 +30,8 @@ ation-state stand for? Well, sometimes it is easiest to define what one doesn’
 
 ### Related Posts:
 
-- [Black moving objects - part
+- [Black moving objects
+- part
   n](https://www.gnxp.com/WordPress/2007/06/23/black-moving-objects-part-n/) - [Veils, part
   n](https://www.gnxp.com/WordPress/2006/11/01/veils-part-n/) - [The veil](https://www.gnxp.com/WordPress/2006/10/20/the-veil/) - [Daily Data
   Dump](https://www.gnxp.com/WordPress/2010/04/06/daily-data-dump-2/) - [Ethics is hard and so is

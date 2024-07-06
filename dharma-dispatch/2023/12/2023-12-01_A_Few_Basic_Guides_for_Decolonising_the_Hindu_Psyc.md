@@ -250,7 +250,7 @@ The second historical point: India’s experience with alien invasions and regim
 
 FINALLY, DECOLONISATION CANNOT be taught through books or in classrooms. Those are crutches at best. Decolonisation is a civilizational endeavour in which the entire Hindu society should *consciously* *participate*. This quote drawn from Sita Ram Goel, gives a sample of the magnitude of the effort involved:
 
-> … in today's India it is not sufficient to be a Hindu by birth. Hindu > society and culture are under attack from several quarters. **One has > to be a convinced and conscious Hindu** to meet and survive that > attack. **One has to find one's roots in Sanatana Dharma**. (Emphasis > added) 
+> … in today's India it is not sufficient to be a Hindu by birth. Hindu > society and culture are under attack from several quarters. **One has to be a convinced and conscious Hindu** to meet and survive that attack. **One has to find one's roots in Sanatana Dharma**. (Emphasis added) 
 
 Thus, decolonization is a function of both the immediate and the larger cultural and social atmosphere that incubates and nurtures it.
 

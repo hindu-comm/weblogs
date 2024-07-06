@@ -13,9 +13,9 @@ A few weeks ago [I wrote on my Substack](https://razib.substack.com/p/current-st
 
 [Laos cave fossils prompt rethink of human migration map](https://razib.substack.com/p/current-status-its-complicated):
 
-> Archaeologists have uncovered two new bone fragments in a cave in > northern Laos, suggesting that Homo sapiens wandered southeast Asia up > to 86,000 years ago. The findings, published this week in Nature > Communications1, indicate that humans migrated through the area > earlier than previously thought. >
-> Over more than a decade, excavations in the Tam Pà Ling cave have > uncovered seven bone fragments sandwiched between layers of clay. > Laura Shackelford, an anthropologist at the University of Illinois > Urbana–Champaign, and her colleagues have regularly had to hike > through sticky tropical heat to reach the mountain-top cave. >
-> After digging 7 metres down, excavations have finally hit bedrock, and > the team has been able to reconstruct a complete chronology of the > cave, says Shackelford. Sediment and bones unearthed in the cave show > that modern humans have inhabited the mountainous region for at least > 68,000 years, and passed through even earlier.
+> Archaeologists have uncovered two new bone fragments in a cave in > northern Laos, suggesting that Homo sapiens wandered southeast Asia up to 86,000 years ago. The findings, published this week in Nature Communications1, indicate that humans migrated through the area earlier than previously thought. >
+> Over more than a decade, excavations in the Tam Pà Ling cave have > uncovered seven bone fragments sandwiched between layers of clay. Laura Shackelford, an anthropologist at the University of Illinois Urbana–Champaign, and her colleagues have regularly had to hike through sticky tropical heat to reach the mountain-top cave. >
+> After digging 7 metres down, excavations have finally hit bedrock, and > the team has been able to reconstruct a complete chronology of the cave, says Shackelford. Sediment and bones unearthed in the cave show that modern humans have inhabited the mountainous region for at least 68,000 years, and passed through even earlier.
 
 These archaeological findings seem to solidify the idea of modern (African) humans in Southeast Asia. They don’t seem to have left an imprint, but that’s OK, the first modern [Europeans didn’t either](https://academic.oup.com/gbe/article/14/4/evac045/6563828).
 

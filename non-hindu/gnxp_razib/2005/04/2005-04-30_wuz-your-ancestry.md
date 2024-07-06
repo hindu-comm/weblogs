@@ -21,7 +21,9 @@ Posted by razib at [11:29 AM](https://www.gnxp.com/MT2/archives/003942.html) [](
 
 ### Related Posts:
 
-- [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/) - [Gayrabia - full
+- [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/)
+- [Gayrabia
+- full
   article](https://www.gnxp.com/WordPress/2007/04/09/gayrabia-full-article/) - [Borders we forget: Saudi Arabia &
   Yemen](https://www.gnxp.com/WordPress/2010/10/21/borders-we-forget-saudi-arabia-yemen/) - [Ancient finds in Saudi
   Arabia?](https://www.gnxp.com/WordPress/2005/07/07/ancient-finds-in-saudi-arabia/) - [The impact of genetic ancestry

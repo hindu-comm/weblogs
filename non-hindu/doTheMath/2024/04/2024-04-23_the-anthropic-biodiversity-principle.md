@@ -13,7 +13,7 @@ The Anthropic Biodiversity Principle
 
 When I proposed ten tenets of [a new “religion” around life](https://dothemath.ucsd.edu/2024/01/a-religion-of-life/) a few months back, the first tenet on the list said:
 
-> The universe is not here for us, or because of us, or designed to lead > to us. We are simply here because we can be. It would not be possible > for us to find ourselves in a universe in which the rules did not > permit our existence.
+> The universe is not here for us, or because of us, or designed to lead to us. We are simply here because we can be. It would not be possible for us to find ourselves in a universe in which the rules did not permit our existence.
 
 While simply stated—perhaps to the point of being obvious—it is shorthand for a fundamental principle that has become a wedge issue among professionals who seek to understand the nature of the universe we live in, and the rules by which it operates. In this post, I will elaborate on the meaning and the controversy behind this deceptively simple statement.
 
@@ -111,7 +111,7 @@ The Biodiversity Principle elegantly removes a problematic sense of purpose (tel
 
 A repeat of the first of [ten tenets](https://dothemath.ucsd.edu/2024/01/a-religion-of-life/) I proposed has more complete context now:
 
-> The universe is not here for us, or because of us, or designed to lead > to us. We are simply here because we can be. It would not be possible > for us to find ourselves in a universe in which the rules did not > permit our existence.
+> The universe is not here for us, or because of us, or designed to lead to us. We are simply here because we can be. It would not be possible for us to find ourselves in a universe in which the rules did not permit our existence.
 
 When constructing this tenet, I had exactly the topic of this post in mind, and now perhaps it is more clear what I meant by it. I hope it is also more clear how this topic ties into the thread I’ve been on lately. Belief in the Biodiversity Principle is an important foundation in my approach to life (enough so that it was the first tenet in my list), and I can’t easily tell how necessary it is in order to possess the rest of my worldview. At least I can see the connection, and recommend trying it on. We are tiny, but we’re here, as a matter of luck. Now, don’t squander that luck in a fit of false self-aggrandizement.
 

@@ -13,13 +13,13 @@ Tiger, Tiger
 
 But I happily note that this year we seem to have hit the bottom (hopefully) for the number of tigers, [World’s wild tiger count rising for first time in a century](http://phys.org/news/2016-04-world-wild-tiger-century.html):
 
-> The world’s count of wild tigers roaming forests from Russia to > Vietnam has gone up for the first time in more than a century, with > some 3,890 counted by conservation groups and national governments in > the latest global census, wildlife conservation groups said Monday.  
-> The tally marks a turnaround from the last worldwide estimate in 2010, > when the number of tigers in the wild hit an all-time low of about > 3,200, according to the World Wildlife Fund and the Global Tiger > Forum. >
-> India alone holds more than half of them, with 2,226 tigers roaming > reserves across the country, from the southern tip of Kerala state to > the eastern swamps in West Bengal, according to its last count in > 2014.
+> The world’s count of wild tigers roaming forests from Russia to Vietnam has gone up for the first time in more than a century, with some 3,890 counted by conservation groups and national governments in the latest global census, wildlife conservation groups said Monday.  
+> The tally marks a turnaround from the last worldwide estimate in 2010, when the number of tigers in the wild hit an all-time low of about 3,200, according to the World Wildlife Fund and the Global Tiger Forum. >
+> India alone holds more than half of them, with 2,226 tigers roaming reserves across the country, from the southern tip of Kerala state to the eastern swamps in West Bengal, according to its last count in 2014.
 
 This is down from \~100,000 in 1900, with declines pretty much every year. Part of this is probably basic economics: the last refuges of tigers are probably the most marginal for farmland. Additionally, economic development and cultural changes are probably having some effect. But the census here is very small. And there are genetic concerns if you look at the sizes for some nations:
 
-> Bangladesh, 106; Bhutan, 103; Cambodia, 0; China, more than 7; India, > 2,226; Indonesia, 371; Laos, 2; Malaysia, 250; Myanmar, no data > available; Nepal, 198; Russia, 433; Thailand, 189; Vietnam, fewer than > 5.
+> Bangladesh, 106; Bhutan, 103; Cambodia, 0; China, more than 7; India, 2,226; Indonesia, 371; Laos, 2; Malaysia, 250; Myanmar, no data available; Nepal, 198; Russia, 433; Thailand, 189; Vietnam, fewer than 5.
 
 For a large mammal a bottleneck of \~100 is probably not a major genetic concern, though some of these populations have been through many decades of small population size. But in terms of sustainability 100 is too close to the edge, so that a low population year might result in some genetic problems, which would result in more problems down the line.
 

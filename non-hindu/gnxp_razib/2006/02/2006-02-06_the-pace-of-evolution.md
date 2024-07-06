@@ -15,7 +15,7 @@ What is a hill? I mean, how do you define a hill as opposed to a mountain, or, f
 
 That is rather vague. Is a small mound of dirt that my cousin made a “hill.” And what is a mountain? Here is a definition:
 
-> A natural elevation of the earth’s surface having considerable mass, > generally steep sides, and a height greater than that of a hill.
+> A natural elevation of the earth’s surface having considerable mass, generally steep sides, and a height greater than that of a hill.
 
 Since a hill does not have explicit bounds (e.g., defined gradients, minimum elevations), then a mountain does not either because its low bound (the hill) is not well defined. **Nevertheless, we use terms like mountains and hills in everyday discourse**. It works operationally because we know what we want to get across. There are no “mountainists” who argue that all hills are really mountains, that hills are a fallacious category. There are no “hillists” who argue that all mountains are really large hills, that mountains are artificial constructs. Hillists don’t talk about “ultra-mountainists” and mountainnists don’t refer to “ultra-hillists.” Each of whom take the concepts of mountains and hills, which all sides accept as valid, to extreme ends that are not justified. People just don’t care about mountains and hills enough to worry about details so long as mountains and hills work in everyday communication.  
 Sometimes, reading about debates between “gradualists” and “non-gradualists” in evolution strikes me as the same. Most of you likely know the main players, Steven Jay Gould and Richard Dawkins. The origins of this debate can be found as early as the 19th century, when Charles Darwin argued for gradual change due to selection upon small variations, while many others, including T.H. Huxely, argued for larger jumps in phenotype due to the emergence of “sports.” I won’t recapitulate the details, but the theme seems to have reemerged every generation (e.g. Goldschmidt vs. Fisher, etc.). But in the end, I think we are seeing an argument between hillists vs. mountainists. No “gradualist” argues for a constant rate of change over time, and no proponent of punctuated equilibrium today proposes a macromutationist saltationist model. Myself, I am pretty conventional in that I don’t accept some of Gould and Niles Eldridge’s processes which explain the empirical observation of punctuated equilibrium (which I accept). Armand Leroi’s [The Scale Independence of Evolution](http://armandleroi.com/research/pdf/Leroi013.pdf) is a good exposition of my general bias toward viewing macroevolution as simply an extension of microevolution, a difference of degree, not kind. Nevertheless, in [The Blind Watchmaker](https://www.amazon.com/exec/obidos/ASIN/0393315703/geneexpressio-20/) I recall Richard Dawkins engaging in some unartfull dodges of the reality that neutral theory and punctuated equilibrium emerged as a response to perplexing false predictions and perception implied by the models promoted by R.A. Fisher (Fisher being the Doyen of Dawkins’ adaptationist school)  
@@ -24,7 +24,8 @@ Nevertheless, **I do not grant that plain vanilla evolutionary processes can not
   
 In the most simple cases evolution is a process of change that occurs contingent upon a variety of parameters. In the real world these parameters are multitudinous, which is why that the process of evolution and the various theories are still being mooted, and an explanation for the periodic emergence of disciplines like evo-devo to shed light on an unexplored domain. Nevertheless, consider a trait like height. It is normally distributed, roughly a bell curve. Why? One explanation² is that height is controlled by hundreds of small loci which cumulatively shape the phenotype.
 
-- Imagine for example that you have 180 loci, n₁ to n₁₈₀. - Imagine that all loci have independent effects (they are additive),
+- Imagine for example that you have 180 loci, n₁ to n₁₈₀.
+- Imagine that all loci have independent effects (they are additive),
   and that they have the small effects. - To simplify it further, imagine that their effects are equal, and
   consider that each locus can add 1 or 0 centimeters to the total. - Neglect environment, so the phenotype is totally dependent on the
   genotype.
@@ -48,7 +49,8 @@ A basic understanding of such simple algebra as the breeder’s equation will al
 
 ### Related Posts:
 
-- [Communist Creationism - "Black Mountain Grape
+- [Communist Creationism
+- "Black Mountain Grape
   Hominids"](https://www.gnxp.com/WordPress/2007/06/06/communist-creationism-black-mountain-grape-hominids/) - [\$150,000 only gets you so
   far....](https://www.gnxp.com/WordPress/2017/04/12/150000-only-gets-you-so-far/) - [The dog as
   rat](https://www.gnxp.com/WordPress/2009/08/25/the-dog-as-rat/) - [Genetical Theory, chapter

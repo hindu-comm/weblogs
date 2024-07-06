@@ -21,7 +21,8 @@ I do agree that the GSS (or WVS) aren’t oracles which are infallible. There ar
 
 ### Related Posts:
 
-- [Hypocrisy](https://www.gnxp.com/WordPress/2006/09/03/hypocrisy/) - [Why is New York coffee so
+- [Hypocrisy](https://www.gnxp.com/WordPress/2006/09/03/hypocrisy/)
+- [Why is New York coffee so
   bad?](https://www.gnxp.com/WordPress/2007/05/08/why-is-new-york-coffee-so-bad/) - [Am I evil?](https://www.gnxp.com/WordPress/2006/10/12/am-i-evil/) - [Rotten in Denmark? You
   decide....](https://www.gnxp.com/WordPress/2006/11/21/rotten-in-denmark-you-decide/) - [Eric Alterman, a nationalist
   socialist](https://www.gnxp.com/WordPress/2007/02/21/eric-alterman-a-nationalist-socialist/) - [Linguistic

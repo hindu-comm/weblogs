@@ -17,7 +17,8 @@ Around ScienceBlogs
 
 ### Related Posts:
 
-- [Aquaforming](https://www.gnxp.com/WordPress/2006/03/10/aquaforming/) - [Socialized medicine + personal genomics =
+- [Aquaforming](https://www.gnxp.com/WordPress/2006/03/10/aquaforming/)
+- [Socialized medicine + personal genomics =
   ?](https://www.gnxp.com/WordPress/2012/01/28/socialized-medicine-personal-genomics/) - [DTC testing, mailing addresses, contact information,
   etc.](https://www.gnxp.com/WordPress/2011/03/13/dtc-testing-mailing-addresses-contact-information-etc/) - [Around
   ScienceBlogs](https://www.gnxp.com/WordPress/2009/07/15/around-scienceblogs-12/) - [The last word on dog genesis is not

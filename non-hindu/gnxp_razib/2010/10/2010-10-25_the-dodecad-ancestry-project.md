@@ -13,9 +13,9 @@ Dienekes Pontikos, [Introducing the Dodecad ancestry project](https://dodecad.bl
 
 > **1) Project goals** >
 > The Dodecad ancestry project has two goals: >
-> – To provide detailed ancestry analysis to individuals who have tested > with 23andMe; other testing companies may be included in the future. >
-> – To build samples of individuals for regions of the world (e.g. > Greeks, Finns, Albanians, Southern Italians, etc.) currently > under-represented in publicly available datasets. >
-> I neither endorse nor am I affiliated with any genetic testing > company. I have chosen to base the project on 23andMe results, because > (i) I perceive that quite a few people have used the service, (ii) the > Illumina genotyping platform it uses has substantial overlap with the > publicly available datasets on which my analysis depends.
+> – To provide detailed ancestry analysis to individuals who have tested with 23andMe; other testing companies may be included in the future. >
+> – To build samples of individuals for regions of the world (e.g. Greeks, Finns, Albanians, Southern Italians, etc.) currently under-represented in publicly available datasets. >
+> I neither endorse nor am I affiliated with any genetic testing > company. I have chosen to base the project on 23andMe results, because (i) I perceive that quite a few people have used the service, (ii) the Illumina genotyping platform it uses has substantial overlap with the publicly available datasets on which my analysis depends.
 
 Basically some of you need to send him your 23andMe raw data files. The potential sample space of this group is going to be in the tens of thousands from what 23andMe representatives have stated about how many of the Complete Edition kits they’ve sold. Naturally due to labor and computational constraints he only wants people from particular populations. I think that’s fine. I’m a little taken aback by how demanding and critical Dienekes’ readers have been about the choice of populations he analyzes. You can [install ADMIXTURE yourself](http://www.genetics.ucla.edu/software/admixture/), get data sets, and [manipulate them in PLINK](http://pngu.mgh.harvard.edu/~purcell/plink/), etc. I hope many people will participate in this project. I would have given my sample, but I’m not of an appropriate population, and even if he wanted South Asians I’m pretty sure I’m not very representative of South Asians (I have very few runs-of-homozygosity and seem to have recent admixture from other world population groups).
 

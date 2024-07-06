@@ -365,7 +365,7 @@ It was no ordinary meeting. The Mahatma had himself condescended to attend.
 
 Naturally, the preparations for his reception and stay had to be immaculate and faultless, and they began days before the great saint would arrive. It was not easy being a Gandhian especially when the Gandhian was Gandhi himself. This is how Nirad describes the pre-arrangements:
 
-> Gandhi was to have one of the principal bedrooms on the first floor, > which was made Gandhian, that is, as bare as possible. The meetings of > the Working Committee were to be held in the drawing-room on the same > floor in order to spare Gandhi the strain of having to climb stairs.
+> Gandhi was to have one of the principal bedrooms on the first floor, which was made Gandhian, that is, as bare as possible. The meetings of the Working Committee were to be held in the drawing-room on the same floor in order to spare Gandhi the strain of having to climb stairs.
 
 ### The Formidable Gandhian Diet
 
@@ -383,13 +383,13 @@ Naturally, the preparations for his reception and stay had to be immaculate and 
 
 ACCOMMODATION WAS THE LEAST of Sarat Bose’s problems. The Gandhian diet was a different monster altogether. Woe befall any host who erred even to the slightest degree in this regard. Needless, Sarat Bose was fully acquainted with this Gandhian intransigence and went about the job with an attitude bordering almost on fear. This is how it looked.
 
-> Gandhi’s dietary prescriptions were not only rigid and numerous, but > also odd. **SINCE THEY WERE NOT IDENTICAL WITH THE WELL-KNOWN HINDU > DIETARY RULES** but somewhat esoteric, Sarat Babu asked an orthodox > disciple of Gandhi in Calcutta to let him have a list of the > vegetables Gandhi ate. The list I saw was formidably long…Of course, > Gandhi did not eat the full range of vegetables at one meal or even on > one single day, BUT HE OR HIS SECRETARY IN CHARGE MIGHT DEMAND ONE OR > OTHER OF THEM ON A PARTICULAR DAY OR FOR A PARTICULAR MEAL IN ORDER TO > TEST THE RESOURCES AND LOYALTY OF HIS HOST.
+> Gandhi’s dietary prescriptions were not only rigid and numerous, but > also odd. **SINCE THEY WERE NOT IDENTICAL WITH THE WELL-KNOWN HINDU > DIETARY RULES** but somewhat esoteric, Sarat Babu asked an orthodox > disciple of Gandhi in Calcutta to let him have a list of the > vegetables Gandhi ate. The list I saw was formidably long…Of course, > Gandhi did not eat the full range of vegetables at one meal or even on one single day, BUT HE OR HIS SECRETARY IN CHARGE MIGHT DEMAND ONE OR OTHER OF THEM ON A PARTICULAR DAY OR FOR A PARTICULAR MEAL IN ORDER TO TEST THE RESOURCES AND LOYALTY OF HIS HOST.
 
 The capitalized words are self-explanatory to say the least, and are highly reflective of the real ghosts within Gandhi that impelled this Mahatma-like behaviour. Without sounding blunter, this much can be said: Gandhi’s behaviour vis a vis his hosts was an absolute inversion of the ancient noble dictum of *Atithi Devobhava.*
 
 But the ruthless nature of this loyalty test went even further.
 
-> The secretary would not specify the herb or vegetable for that day > before ten in the morning, and Mahatma Gandhi wanted his meal at about > midday. Therefore, no time would be available to buy a particular > vegetable if demanded, and all had to be ready in the kitchen, so that > the particular one called for would be at hand.
+> The secretary would not specify the herb or vegetable for that day > before ten in the morning, and Mahatma Gandhi wanted his meal at about midday. Therefore, no time would be available to buy a particular vegetable if demanded, and all had to be ready in the kitchen, so that the particular one called for would be at hand.
 
 Oh! And the secretary in question was the fabled Mahadev Desai.
 
@@ -411,11 +411,11 @@ But the worst was yet to come. Perhaps the central-most ingredient of the formid
 
 This is the Gandhian ordeal that Sarat Bose had to undergo.
 
-> The supply of milk for Mahatma Gandhi presented no less difficult a > problem, for he took only goat’s milk… **BUT, BEFORE BEING PERMITTED > TO SERVE GANDHI, THE SHE-GOATS HAD TO BE SCREENED BY HIS PRINCIPAL > PRIVATE SECRETARY, MAHADEV DESAI**, and therefore no goat’s milk could > be bought or stored in advance. Thus the she-goat had to be brought to > Sarat Babu’s house and milked there…on the morning of the second day, > when I arrived at about seven, I found a row of up to fifteen > she-goats in the outer courtyard munching leaves and bleating away for > all they were worth. Behind them, the goatherds were standing to > attention as though on parade…The she-goats got a secular and hygienic > inspection, but over and above that they might have got moral > inspection as well. **I WAS TOLD THAT MAHADEV DESAI HIMSELF WOULD COME > DOWN TO EXAMINE THE SHE-GOATS, AND CHOOSE THE ONE WHICH WAS TO HAVE > THE PRIVILEGE OF SERVING GANDHI AS FOSTER-MOTHER**… I went about > telling everybody frivolously that he was trying to find out which > she-goat was the chastest among the lot.
+> The supply of milk for Mahatma Gandhi presented no less difficult a > problem, for he took only goat’s milk… **BUT, BEFORE BEING PERMITTED > TO SERVE GANDHI, THE SHE-GOATS HAD TO BE SCREENED BY HIS PRINCIPAL > PRIVATE SECRETARY, MAHADEV DESAI**, and therefore no goat’s milk could > be bought or stored in advance. Thus the she-goat had to be brought to > Sarat Babu’s house and milked there…on the morning of the second day, > when I arrived at about seven, I found a row of up to fifteen > she-goats in the outer courtyard munching leaves and bleating away for > all they were worth. Behind them, the goatherds were standing to > attention as though on parade…The she-goats got a secular and hygienic > inspection, but over and above that they might have got moral > inspection as well. **I WAS TOLD THAT MAHADEV DESAI HIMSELF WOULD COME > DOWN TO EXAMINE THE SHE-GOATS, AND CHOOSE THE ONE WHICH WAS TO HAVE THE PRIVILEGE OF SERVING GANDHI AS FOSTER-MOTHER**… I went about telling everybody frivolously that he was trying to find out which she-goat was the chastest among the lot.
 
 Mohandas Gandhi stayed in Sarat Bose’s home for about four weeks and demanded and got the aforementioned hospitality, custom-made to suit his austerity. About a month into his stay, Nirad Chaudhuri approached Sarat Bose’s accounting clerk and asked him the cost of funding this Gandhian austerity. This was the answer:
 
-> It was well-known that Gandhi with his vow of poverty would only allow > three annas a day to be spent on his food. But Sarat Bose’s clerk told > me four weeks later that ALREADY ABOUT THREE THOUSAND RUPEES HAD BEEN > SPENT, WHICH WAS SIX HUNDRED TIMES THE AMOUNT ALLOWED BY GANDHI > HIMSELF.
+> It was well-known that Gandhi with his vow of poverty would only allow > three annas a day to be spent on his food. But Sarat Bose’s clerk told me four weeks later that ALREADY ABOUT THREE THOUSAND RUPEES HAD BEEN SPENT, WHICH WAS SIX HUNDRED TIMES THE AMOUNT ALLOWED BY GANDHI HIMSELF.
 
 In retrospect, the whole thing seems incredible to people endowed with basic common sense, decency and propriety. With rare exceptions, even Prime Ministers and Presidents do not throw tantrums on this scale and at this level of detail in matters of food and drink. And here, Mohandas Gandhi completely got away with this sort of whimsical, petty and obtrusive behavior throughout his political career…in what capacity? He was neither President nor Prime Minister…he was not even the President of the Congress Party which he tyrannized with his non-violence and infantile fasting.
 

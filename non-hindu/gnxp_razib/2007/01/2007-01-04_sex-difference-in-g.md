@@ -13,8 +13,8 @@ A new La Griffe is up: [Intelligence, Gender and Race](http://www.lagriffedulion
 
 Inspired by [Jackson and Rushton (Intelligence 34 (2006) 479-486)](http://www.ssc.uwo.ca/psychology/faculty/rushtonpdfs/2006%20Intell%20Jackson%20&%20Rushton.pdf), La Griffe (Prodigy?) seeks to use a version of the “method of thresholds” to estimate the female distribution of g relative to males. The details are well spelled out in the article. Combining a variety of data sources, the article arrives at a least-squares estimate of the parameters defining the distribution of g first for blacks and then for women.
 
-> A white-black mean difference in g of 1.09 SD exists in favor of > whites, equivalent to 16 IQ points. The black g distribution is > narrower than the white, with a variance ratio (B/W) of 0.888. >
-> A male-female mean difference in g of 0.164 SD exists in favor of men, > equivalent to 2.46 IQ points. The female g distribution is narrower > than the male, with a variance ratio (F/M) of 0.916.
+> A white-black mean difference in g of 1.09 SD exists in favor of whites, equivalent to 16 IQ points. The black g distribution is narrower than the white, with a variance ratio (B/W) of 0.888. >
+> A male-female mean difference in g of 0.164 SD exists in favor of men, equivalent to 2.46 IQ points. The female g distribution is narrower than the male, with a variance ratio (F/M) of 0.916.
 
 Contrast the sex-difference estimate with Jackson and Rushton’s estimate of 3.63 IQ points. At the time of publication of the Jackson and Rushton paper, I noted that no attempt was made to take into account the very well documented difference in variability of IQ between men and women. We can now compare Jackson and Rushton’s estimate with La Griffe’s. Above a +1 sd threshold, women would make up only 40% of the population using Jackson and Rushton’s estimate and assuming equal variance. Notably, using La Griffe’s estimates of mean and variance, women would make up 39% of the population above a +1 SD threshold.
 
@@ -41,7 +41,8 @@ Even small differences in mean and variance can have large effects at the tails.
 
 ### Related Posts:
 
-- [Rushton](https://www.gnxp.com/WordPress/2006/09/17/rushton/) - [Scores on the new SAT for the 2006 cohort of
+- [Rushton](https://www.gnxp.com/WordPress/2006/09/17/rushton/)
+- [Scores on the new SAT for the 2006 cohort of
   college-bound…](https://www.gnxp.com/WordPress/2007/04/09/scores-on-the-new-sat-for-the-2006-cohort-of-college-bound-seniors-sex-and-ethnic-breakdown/) - [Race IQ and
   SES](https://www.gnxp.com/WordPress/2007/02/22/race-iq-and-ses/) - [Politics, Prison, Race, and
   Gas](https://www.gnxp.com/WordPress/2006/04/19/politics-prison-race-and-gas/) - [Interracial marriage and Asian

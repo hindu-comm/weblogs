@@ -23,7 +23,7 @@ People who in other circumstances were entirely rational would just lose their s
 
 Related to all this, check out this rebuke from the socialist Left against the “1619 Project”, [The New York Times’s 1619 Project: A racialist falsification of American and world history](https://www.wsws.org/en/articles/2019/09/06/1619-s06.html). Obviously, I don’t agree on every single detail, and I’m very much **not** a socialist. But I think the piece captures the myths of the moment. These few sentences in particular strike at the heart of the matter:
 
-> The methodology that underlies the 1619 Project is idealist (i.e., it > **derives social being from thought, rather than the other way > around**) and, in the most fundamental sense of the word, > irrationalist. All of history is to be explained from the existence of > a supra-historical emotional impulse.
+> The methodology that underlies the 1619 Project is idealist (i.e., it > **derives social being from thought, rather than the other way around**) and, in the most fundamental sense of the word, irrationalist. All of history is to be explained from the existence of a supra-historical emotional impulse.
 
 Anyone with a cursory understanding of American social and economic history could see that the 1619 Project was an exercise in propaganda. Too much “did not compute.” But most of the criticisms I saw were from the Right, and so were dismissed or ignored. The usual “historian here” Twitter stars were quiet. The 1619 Project was presenting **sacred truths, outside of the purview of analysis.** Facts were not going to get in the way of the idea. And that idea fed upon and nourished by emotions.
 

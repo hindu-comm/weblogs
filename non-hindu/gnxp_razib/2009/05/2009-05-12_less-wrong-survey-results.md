@@ -12,9 +12,9 @@ Less Wrong survey results
 [Check out the results](http://lesswrong.com/lw/fk/survey_results/) (you can also get the data yourself). Here’s a sample:
 
 > Out of 166 respondees: >
-> 160 (96.4%) were male, 5 (3%) were female, and one chose not to reveal > their gender. >
-> The mean age was 27.16, the median was 25, and the SD was 7.68. The > youngest person was 16, and the oldest was 60. Quartiles were 30. >
-> Of the 158 of us who disclosed our race, 148 were white (93.6%), 6 > were Asian, 1 was Black, 2 were Hispanic, and one cast a write-in vote > for Middle Eastern. Judging by the number who put “Hinduism” as their > family religion, most of those Asians seem to be Indians.
+> 160 (96.4%) were male, 5 (3%) were female, and one chose not to reveal their gender. >
+> The mean age was 27.16, the median was 25, and the SD was 7.68. The youngest person was 16, and the oldest was 60. Quartiles were 30. >
+> Of the 158 of us who disclosed our race, 148 were white (93.6%), 6 were Asian, 1 was Black, 2 were Hispanic, and one cast a write-in vote for Middle Eastern. Judging by the number who put “Hinduism” as their family religion, most of those Asians seem to be Indians.
 
 They really should have asked status re: virginity.
 

@@ -11,11 +11,11 @@ When ferocity is a feature, not a bug
 
 ![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/11/sent.jpeg?resize=225%2C225&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/11/sent.jpeg?resize=225%2C225&ssl=1)The sad story of John Allen Chau, the young self-styled missionary who was killed on North Sentinel Island, has some really strange elements that are coming to the surface. [The New York Times](https://www.nytimes.com/2018/11/23/world/asia/andaman-missionary-john-chau.html?action=click&module=Top%20Stories&pgtype=Homepage) has published a piece which reports on extracts of a letter he wrote to his parents describing his motivations and observations when it came to proselytizing among the Sentinelese.
 
-> The people Mr. Chau chose for his mission are among the most > impenetrable communities in the world, **known for their intense > hostility to outsiders.** They have killed or tried to kill many > outsiders who attempted to step on their rugged island 700 miles off > India’s mainland, where they are one of the last undiluted hunter and > gatherer societies. >
+> The people Mr. Chau chose for his mission are among the most > impenetrable communities in the world, **known for their intense > hostility to outsiders.** They have killed or tried to kill many outsiders who attempted to step on their rugged island 700 miles off India’s mainland, where they are one of the last undiluted hunter and gatherer societies. >
 > … >
-> The man yelled, and Mr. Chau tried to respond, singing some worship > songs and yelling back something in Xhosa, a language he apparently > knew a few words of from when he coached soccer in South Africa a few > years ago. >
+> The man yelled, and Mr. Chau tried to respond, singing some worship songs and yelling back something in Xhosa, a language he apparently knew a few words of from when he coached soccer in South Africa a few years ago. >
 > … >
-> In one passage, he asked God if North Sentinel was “Satan’s last > stronghold.” In another: “**What makes them become this defensive and > hostile?”**
+> In one passage, he asked God if North Sentinel was “Satan’s last stronghold.” In another: “**What makes them become this defensive and hostile?”**
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/11/thirdchimp.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/11/thirdchimp.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0060845503/geneexpressio-20/ref=as_at?creativeASIN=1400032059&linkCode=w61&imprToken=PbhERoJIK5xi4ypDSzT-vA&slotNum=0)The article mentions that “Anthropologists say the islanders’ ancestors possibly migrated from Africa more than a thousand years ago.” This really [doesn’t make any sense](https://www.gnxp.com/WordPress/2018/11/21/the-people-of-the-andaman-islands-are-not-genetic-fossils/), but it jumped out at me because of the weird fact that Chau tried to speak to them in Xhosa, a Bantu language with influences from Khoesan dialects. Perhaps the reason he did this inexplicable thing is he’s read too much the pap that the people of North Sentinel are some pristine population descended from early Africans?
 
@@ -23,8 +23,8 @@ A more interesting aspect of the article is the questioning of why these last is
 
 The [hostility](https://www.atlasobscura.com/places/sentinelese) of the peoples of the Andaman Islanders to outsiders has long been attested:
 
-> Situated in the bay of Bengal, the Andaman islands have been known to > outsiders since ancient times. Andaman islanders respond with intense > hostility at any attempt of outside contact, hurling arrows and stones > at any unlucky visitor approaching their shores. >
-> Early Arab and Persian documents report that Andaman islands were > inhabited by cannibals – **an exaggeration probably originating from > the ferocity of attacks with which these travelers were greeted**. > Later Indian and European explorers steered clear off these islands to > avoid the hostile inhabitants.
+> Situated in the bay of Bengal, the Andaman islands have been known to outsiders since ancient times. Andaman islanders respond with intense hostility at any attempt of outside contact, hurling arrows and stones at any unlucky visitor approaching their shores. >
+> Early Arab and Persian documents report that Andaman islands were > inhabited by cannibals – **an exaggeration probably originating from the ferocity of attacks with which these travelers were greeted**. Later Indian and European explorers steered clear off these islands to avoid the hostile inhabitants.
 
 And this is why the Andaman Islanders remained relatively distinct ethnographically down to the early modern period. The Negrito people of Malaysia and the Philippines no longer speak their ancestral languages, while the Andamanese did until recently.
 

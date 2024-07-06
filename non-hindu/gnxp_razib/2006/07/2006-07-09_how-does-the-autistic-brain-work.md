@@ -11,11 +11,11 @@ How does the autistic brain work?
 
 Found a [video program](http://www.researchchannel.org/prog/displayevent.asp?rid=3565) on the topic featuring this autistic guy who writes poetry and some neuroscientists.
 
-> Crammed into our craniums, the three-pound human brain may be the most > complex matter in the universe. And, scientists are learning more > about how it works by investigating how it doesn’t work. A 13 year-old > young man named Tito Mukhopadhyay may be the Rosetta stone for autism, > revealing what it feels like to be autistic. Joining host Robert Kuhn > are Eric Courchesne, Professor of Neuroscience, UC San Diego; Portia > Iversen of Cure Autism Now; Teacher Soma Mukhopadhyay; Erin Schuman, > Associate Professor of Biology, Caltech; and Terrence Sejnowski, > Director of Computational Biology, Salk Institute.
+> Crammed into our craniums, the three-pound human brain may be the most > complex matter in the universe. And, scientists are learning more > about how it works by investigating how it doesn’t work. A 13 year-old > young man named Tito Mukhopadhyay may be the Rosetta stone for autism, > revealing what it feels like to be autistic. Joining host Robert Kuhn > are Eric Courchesne, Professor of Neuroscience, UC San Diego; Portia Iversen of Cure Autism Now; Teacher Soma Mukhopadhyay; Erin Schuman, Associate Professor of Biology, Caltech; and Terrence Sejnowski, Director of Computational Biology, Salk Institute.
 
 The transcript is [here](http://www.pbs.org/kcet/closertotruth/transcripts/303_autisticbrain.pdf) in case you can’t watch videos. From the excerpts I think I might actually like his poetry. Maybe I just like the color orange.
 
-> Every time, like one day he wrote everything about orange, he got so > obsessed with that, here he starts orange. “On a hidden back with > orange sparks on little dust grains, orange on this and that. Orange > on hidden wild flower behind a hidden rock, gathering time with ages > to stay, green with gathering moss. Orange on a peeping beam, through > the canopy green.”
+> Every time, like one day he wrote everything about orange, he got so > obsessed with that, here he starts orange. “On a hidden back with > orange sparks on little dust grains, orange on this and that. Orange on hidden wild flower behind a hidden rock, gathering time with ages to stay, green with gathering moss. Orange on a peeping beam, through the canopy green.”
 
 ### Related Posts:
 

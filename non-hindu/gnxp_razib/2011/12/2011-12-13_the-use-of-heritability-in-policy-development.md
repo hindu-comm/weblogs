@@ -15,7 +15,7 @@ The[heritability straw man has copped another bashing](http://www.aeaweb.org/art
 
 Manski starts by arguing that heritability estimates are based on the assumption that there is no gene-environment correlation. Manski writes:
 
-> The assumption that g and e are uncorrelated is at odds with the > reasonable conjecture that persons who inherit relatively strong > genetic endowments tend to grow up in families with more favorable > environments for child development.
+> The assumption that g and e are uncorrelated is at odds with the reasonable conjecture that persons who inherit relatively strong genetic endowments tend to grow up in families with more favorable environments for child development.
 
 Any review of discussions of heritability, whether in the peer-reviewed literature or the blogosphere, will show that his claim is generally false. The proviso that the heritability estimate is only relevant to the existing environment is usually threaded through any discussion of heritability.
 
@@ -23,9 +23,9 @@ It is true that gene-environment covariance can affect estimates of heritability
 
 Manski’s broader claim, adopted directly from Goldberger, is that even if you knew the heritability of a trait, it tells you nothing about social policy. Manski uses Goldberger’s eyeglasses example as an illustration:
 
-> Consider Goldberger’s use of distribution of eyeglasses as the > intervention.For simplicity, suppose that nearsightedness derives > entirely from the presence of a particular allele of a specific gene. > Suppose that this gene is observable, taking the value g = 0 if a > person has the allele for nearsightedness and g = 1 if he has the one > that yields normal sight. >
-> Let the outcome of interest be effective quality of sight, where > “effective” means sight when augmented by eyeglasses, should they be > available. A person has effective normal sight either if he has the > allele for normal sight or if eyeglasses are available. A person is > effectively nearsighted if that person has the allele for > nearsightedness and eyeglasses are unavailable. >
-> Now suppose that the entire population lacks eyeglasses. Then the > heritability of effective quality of sight is one. What does this > imply about the usefulness of distributing eyeglasses as a treatment > for nearsightedness? Nothing, of course. The policy question of > interest concerns effective quality of sight in a conjectured > environment where eyeglasses are available. However, the available > data only reveal what happens when eyeglasses are unavailable.
+> Consider Goldberger’s use of distribution of eyeglasses as the > intervention.For simplicity, suppose that nearsightedness derives > entirely from the presence of a particular allele of a specific gene. Suppose that this gene is observable, taking the value g = 0 if a person has the allele for nearsightedness and g = 1 if he has the one that yields normal sight. >
+> Let the outcome of interest be effective quality of sight, where > “effective” means sight when augmented by eyeglasses, should they be > available. A person has effective normal sight either if he has the allele for normal sight or if eyeglasses are available. A person is effectively nearsighted if that person has the allele for nearsightedness and eyeglasses are unavailable. >
+> Now suppose that the entire population lacks eyeglasses. Then the > heritability of effective quality of sight is one. What does this > imply about the usefulness of distributing eyeglasses as a treatment > for nearsightedness? Nothing, of course. The policy question of interest concerns effective quality of sight in a conjectured environment where eyeglasses are available. However, the available data only reveal what happens when eyeglasses are unavailable.
 
 Manski and Goldberger may be correct that the heritability estimate is uninformative as to the efficacy of distributing eyeglasses, but it is useful in assessing other policy responses to the problem and the trade-offs between them. Is it possible to prevent the eyesight loss in the first place? Is that policy cheaper and more effective than eyeglasses? If the heritability estimate was zero, you would look to the environmental causes and ask whether the eyesight problem is more appropriately dealt with by addressing the cause rather than by distribution of eyeglasses.
 
@@ -41,7 +41,7 @@ A second issue is that with 30,000 odd genes and the ability to test so many of 
 
 Finally, genome based research is now feeding back into estimates of heritability. From [a recent paper](http://www.nature.com/doifinder/10.1038/mp.2011.85):
 
-> We conducted a genome-wide analysis of 3511 unrelated adults with data > on 549 692 single nucleotide polymorphisms (SNPs) and detailed > phenotypes on cognitive traits. We estimate that 40% of the variation > in crystallized-type intelligence and 51% of the variation in > fluid-type intelligence between individuals is accounted for by > linkage disequilibrium between genotyped common SNP markers and > unknown causal variants. These estimates provide lower bounds for the > narrow-sense heritability of the traits.
+> We conducted a genome-wide analysis of 3511 unrelated adults with data > on 549 692 single nucleotide polymorphisms (SNPs) and detailed > phenotypes on cognitive traits. We estimate that 40% of the variation > in crystallized-type intelligence and 51% of the variation in > fluid-type intelligence between individuals is accounted for by linkage disequilibrium between genotyped common SNP markers and unknown causal variants. These estimates provide lower bounds for the narrow-sense heritability of the traits.
 
 Despite all the critiques about methodology, most new studies confirm that the old “methodologically poor” heritability estimates were in the right ballpark. The problem is not that the estimates are not useful, but rather that they are not used.
 

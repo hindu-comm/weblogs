@@ -11,7 +11,7 @@ A genomic map of human variation, where we're at
 
 Zack has [started exploring the K’s of his merged data set](http://www.harappadna.org/2011/02/reference-admixture-k-2-5/) for HAP. A [commenter](http://www.harappadna.org/2011/02/reference-admixture-k-2-5/#comment-99) suggests that:
 
-> As you have begun interpreting the reference results, let me make a > friendly warning: you have to keep in mind that most of the reference > populations of ethnic groups are extremely limited in sample size > (with only between 2 and 25 individuals) and from very obscure > sources, and you should keep away from drawing conclusions about > millions of people based on such limited number of individuals.
+> As you have begun interpreting the reference results, let me make a > friendly warning: you have to keep in mind that most of the reference > populations of ethnic groups are extremely limited in sample size (with only between 2 and 25 individuals) and from very obscure sources, and you should keep away from drawing conclusions about millions of people based on such limited number of individuals.
 
 This seems a rather reasonable caution. But I don’t think such a vague piece of advice really adds any value. These sorts of caveats are contingent upon:
 

@@ -11,14 +11,14 @@ Recent Human Evolution in the house
 
 [Early man ‘couldn’t stomach milk’](http://news.bbc.co.uk/1/hi/health/6397001.stm)
 
-> Working with scientists from Mainz University in Germany, the UCL team > looked for the gene that produces the lactase enzyme in **Neolithic > skeletons dating between 5480BC and 5000BC.**  
-> These are believed to be from some of the earliest farming communities > in Europe.  
-> The lactase gene was absent from the DNA extracted from these > skeletons, suggesting that these early Europeans would not be tolerant > to milk.
+> Working with scientists from Mainz University in Germany, the UCL team looked for the gene that produces the lactase enzyme in **Neolithic skeletons dating between 5480BC and 5000BC.**  
+> These are believed to be from some of the earliest farming communities in Europe.  
+> The lactase gene was absent from the DNA extracted from these skeletons, suggesting that these early Europeans would not be tolerant to milk.
 
 The paper will be *Absence of the Lactase-Persistence associated allele in early Neolithic Europeans* in **PNAS**. First *LCT*, then *OCA2*, and god knows what else? There is a limit in terms of what you can do with archeoDNA, but if the action went down in the last 10,000 years then it isn’t such a sweat.  
 One thing, the [summary](http://sciencenow.sciencemag.org/cgi/content/full/2007/226/3) in *Science* is weird. Check it:
 
-> The culture-historical hypothesis is that, shortly after the > domestication of livestock, a few lucky farmers with a genetic anomaly > hit white gold: nourishment via milk. Then, according to this theory, > natural selection took over and these lactase-persistent folks > proceeded to populate much of Europe with their milk-guzzling > offspring. A competing hypothesis argues that ancient Europeans > domesticated milk-bearing livestock because lactase persistence was > already quite common in certain populations.
+> The culture-historical hypothesis is that, shortly after the > domestication of livestock, a few lucky farmers with a genetic anomaly > hit white gold: nourishment via milk. Then, according to this theory, > natural selection took over and these lactase-persistent folks > proceeded to populate much of Europe with their milk-guzzling offspring. A competing hypothesis argues that ancient Europeans domesticated milk-bearing livestock because lactase persistence was already quite common in certain populations.
 
 Quite common? The area of the genome around *LCT* was hit by a hammer blow of selection less than 10,000 years ago, that’s why researchers [use it to check if](http://www.nature.com/nature/journal/v437/n7063/full/nature04226.html) their methods for detecting selection are working. The fact that independent events of lactase persistence exist among other populations via alternative genetic architectures seems to indicate clearly the power of gene-culture coevolution. What’s up with *Science* doing a “look at both sides” framework when the evidence is so lopsided? I suppose selection could have been induced by a causative factor aside from milk, but I think we’re verging into Humean skepticism at this point, denying the ability to discern causality at all….  
 Carl Zimmer has [much more](http://scienceblogs.com/loom/2007/02/26/in_the_footsteps_of_my_lactose.php)….  

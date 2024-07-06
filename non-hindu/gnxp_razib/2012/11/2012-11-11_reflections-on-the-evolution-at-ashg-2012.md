@@ -101,7 +101,8 @@ Finally, **there was A LOT of software, and A LOT of methods.** This is one of t
 
 ### Related Posts:
 
-- [ASHG 2012 - which
+- [ASHG 2012
+- which
   sessions](https://www.gnxp.com/WordPress/2012/10/02/ashg-2012-which-sessions/) - [Mutants documentary
   torrent](https://www.gnxp.com/WordPress/2006/10/16/mutants-documentary-torrent/) - [Joseph Smith prophesied ASHG
   2012](https://www.gnxp.com/WordPress/2012/09/06/joseph-smith-prophesied-asgh-2012/) - [Open Thread,

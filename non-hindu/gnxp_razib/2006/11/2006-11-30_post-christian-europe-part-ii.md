@@ -35,7 +35,7 @@ Note that 11% of Estonians are now explicit Neo-Pagans.
 
 At [Blogs for Bush](http://www.blogsforbush.com/mt/archives/008306.html) Mark Noonan states:
 
-> Europeans aren’t having children. Without the impetus of belief in a > definitive God who rules the universe, having children just becomes an > expensive nusiance. Most European countries are suffering net loss in > population – save for those countries which continue to allow mass > immigration from Arab nations.
+> Europeans aren’t having children. Without the impetus of belief in a > definitive God who rules the universe, having children just becomes an expensive nusiance. Most European countries are suffering net loss in population – save for those countries which continue to allow mass immigration from Arab nations.
 
 This is a common opinion. Secular European societies are dying. But this avoids an interesting point. There isn’t much of a correlation between European societies for birthrate and God belief. I acknowledge that within societies there is probably a positive correlation between religiosity and fecundity (aside from a few exceptions like South Korea, where greater religiosity predicts higher socioeconomic status), but as you note below there is a rather flat trendline, and that is birthrate normalized to the modal value (Ireland). Here are the values for the United States….
 

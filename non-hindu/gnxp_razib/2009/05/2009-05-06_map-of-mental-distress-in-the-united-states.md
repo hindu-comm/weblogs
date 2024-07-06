@@ -11,7 +11,7 @@ Map of mental distress in the United States
 
 [Dr. Deb](https://drdeborahserani.blogspot.com/2009/05/location-location-location.html) has posted a map [which illustrates](https://drdeborahserani.blogspot.com/2009/05/location-location-location.html):
 
-> The county-by-county map above shows the percentages of residents who > reported “Frequent Mental Distress” (FMD)–defined as 14 or more days > of emotional discomfort, including “stress, depression and problems > with emotion,” during the previous month. Of note, Kentucky was the > “saddest” state while Hawaii was the “gladdest”.
+> The county-by-county map above shows the percentages of residents who > reported “Frequent Mental Distress” (FMD)–defined as 14 or more days of emotional discomfort, including “stress, depression and problems with emotion,” during the previous month. Of note, Kentucky was the “saddest” state while Hawaii was the “gladdest”.
 
 And the map:
 

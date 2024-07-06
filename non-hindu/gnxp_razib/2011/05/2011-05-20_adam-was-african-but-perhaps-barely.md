@@ -20,7 +20,7 @@ A second major point in this paper is that **they recalculated the coalescence b
 
 Here’s their conclusion:
 
-> In conclusion, we present here a Y chromosome phylogenetic tree deeply > revised in its root and earliest branches. Our data do not uphold > previous models of Y chromosomal emergence…and demand a reevaluation > of some fundamental ideas concerning the early history of the human > genetic diversity we find today….Our phylogeny shows a root in > central-northwest Africa. Although this point requires further > attention, we think that it offers a new prospect from which to view > the initial development of our species in Africa.
+> In conclusion, we present here a Y chromosome phylogenetic tree deeply > revised in its root and earliest branches. Our data do not uphold > previous models of Y chromosomal emergence…and demand a reevaluation > of some fundamental ideas concerning the early history of the human > genetic diversity we find today….Our phylogeny shows a root in central-northwest Africa. Although this point requires further attention, we think that it offers a new prospect from which to view the initial development of our species in Africa.
 
 ### Related Posts:
 

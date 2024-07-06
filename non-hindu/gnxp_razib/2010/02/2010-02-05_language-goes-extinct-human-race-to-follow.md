@@ -11,9 +11,9 @@ Language goes extinct, human race to follow….
 
 [Last speaker of ancient language of Bo dies in India](http://news.bbc.co.uk/2/hi/south_asia/8498534.stm):
 
-> Professor Anvita Abbi said that the death of Boa Sr was highly > significant because one of the world’s oldest languages – Bo – had > come to an end. >
+> Professor Anvita Abbi said that the death of Boa Sr was highly significant because one of the world’s oldest languages – Bo – had come to an end. >
 > … >
-> “It is generally believed that all Andamanese languages might be the > last representatives of those languages which go back to pre-Neolithic > times,” Professor Abbi said. >
+> “It is generally believed that all Andamanese languages might be the last representatives of those languages which go back to pre-Neolithic times,” Professor Abbi said. >
 > “The Andamanese are believed to be among our earliest ancestors.”
 
 I have a tendency to eye roll when people come out with these weepy stories about dying languages. When a language dies a people dies, more or less. No doubt there are particular stories, memories passed down which maintain continuity of identity, which disappear. But **humans do not necessarily die.** If members of obscure tribe X all learn English, or Chinese, tribe X as tribe X disappears, more or less. This is not trivial, I believe most humans would prefer that the cultural forms which pervade their own lives would pass down to future generations. Memory is to a great extent the only form of immortality we’ve had access to. But for members of obscure tribe X learning a widely spoken language is often a boon, and brings great benefit as they can engage in more fruitful exchanges with the broader human race. The implicit contract that peoples make with their own ancestors extracts too high a cost at some point, and when the present ceases to uphold its pact with the past, the past becomes obscured in the mists.

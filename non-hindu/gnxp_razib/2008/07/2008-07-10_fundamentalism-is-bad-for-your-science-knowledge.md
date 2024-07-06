@@ -11,11 +11,11 @@ Fundamentalism is bad for your science knowledge
 
 This is a follow to the previous post focusing on which demographics know scientific facts. One of the major differences was between those who were very religious and those who were not, with more scientific literacy among the latter. [Inductivist](https://inductivist.blogspot.com/2008/07/another-look-at-sciq-in-last-post-on.html) looks into the question that many have asked:
 
-> …**I eliminated the three questions that touched on the question of > creation or the age of the earth** (i.e., the Big Bang, continental > drift, and human evolution) and re-calculated scores with the > remaining eight questions. Here are the results:  
+> …**I eliminated the three questions that touched on the question of creation or the age of the earth** (i.e., the Big Bang, continental drift, and human evolution) and re-calculated scores with the remaining eight questions. Here are the results:  
 > …  
-> The Protestant mean goes up a few points when…when the 3 questions are > removed. And, compared to the very religious, the folks who never go > to church no longer have higher scIQs. In fact, the churchgoers’ means > are higher for whites and all races together.  
-> I mentioned in the last post that there is practically no correlation > between IQ and church attendance, and after removing the 3 questions > from the scIQ quiz, there is now no correlation between it and going > to church–it is .01.  
-> So it’s not that people who are informed about science at a basic > level are staying away from church; **they just reject what science > says if it conflicts with their religious beliefs.**
+> The Protestant mean goes up a few points when…when the 3 questions are removed. And, compared to the very religious, the folks who never go to church no longer have higher scIQs. In fact, the churchgoers’ means are higher for whites and all races together.  
+> I mentioned in the last post that there is practically no correlation between IQ and church attendance, and after removing the 3 questions from the scIQ quiz, there is now no correlation between it and going to church–it is .01.  
+> So it’s not that people who are informed about science at a basic level are staying away from church; **they just reject what science says if it conflicts with their religious beliefs.**
 
 ### Related Posts:
 

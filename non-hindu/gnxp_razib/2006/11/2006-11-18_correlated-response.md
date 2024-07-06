@@ -13,7 +13,8 @@ Correlated response?
 
 ### Related Posts:
 
-- [A request for bloggingheads.tv - Larison vs.
+- [A request for bloggingheads.tv
+- Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Do you like the sound of your own
   voice?](https://www.gnxp.com/WordPress/2008/10/21/do-you-like-the-sound-of-your-own-voice/) - [Watching out
   Bloggingheads.TV](https://www.gnxp.com/WordPress/2007/12/20/watching-out-bloggingheads-tv/) - [Ross Douthat talks

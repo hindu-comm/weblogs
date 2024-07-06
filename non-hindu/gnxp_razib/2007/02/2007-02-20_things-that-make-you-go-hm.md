@@ -11,7 +11,7 @@ Things that make you go hm….
 
 Bora [sayeth](http://scienceblogs.com/cortex/2007/02/is_neuroscience_conservative.php#comment-347908):
 
-> Are you sure? How can a hierarchical, Chain-of-Being, authoritarian, > sexist, racist, homophobic, xenophobic, religious ideology be ‘normal’ > when it does not understand the world correctly? Isn’t it maladaptive > to hold erroneous views of nature (and human nature) and try to > organize societies to fit that view instead of trying to organize > societies in synch with our best understanding of the way the world > really works?
+> Are you sure? How can a hierarchical, Chain-of-Being, authoritarian, > sexist, racist, homophobic, xenophobic, religious ideology be ‘normal’ > when it does not understand the world correctly? Isn’t it maladaptive > to hold erroneous views of nature (and human nature) and try to organize societies to fit that view instead of trying to organize societies in synch with our best understanding of the way the world really works?
 
 (mild typos fixed)  
 There’s so much I could say, and yet I will leave it without a word….

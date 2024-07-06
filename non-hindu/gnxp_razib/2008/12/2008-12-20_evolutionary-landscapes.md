@@ -11,7 +11,7 @@ Evolutionary landscapes
 
 Mark Chu-Carroll has a “must read” post, [Fitness Landscapes, Evolution, and Smuggling Information](http://scienceblogs.com/goodmath/2008/12/fitness_landscapes_evolution_a.php?utm_source=readerspicks&utm_medium=link):
 
-> If you look at the evolutionary process, it’s most like the iterative > search process described towards the beginning of this post. The > “search function” isn’t really static over time; it’s constantly > changing. At any point in time, you can loosely think of the search > function for a given species as exploring some set of mutations, and > selecting the ones that allow them to survive. After a step, you’ve > got a new population, which is going to have new mutations to explore. > So the search function itself is changing. And how is it changing? > Modelled mathematically, it’s changing by incorporating information > about the landscape.
+> If you look at the evolutionary process, it’s most like the iterative > search process described towards the beginning of this post. The > “search function” isn’t really static over time; it’s constantly > changing. At any point in time, you can loosely think of the search > function for a given species as exploring some set of mutations, and > selecting the ones that allow them to survive. After a step, you’ve > got a new population, which is going to have new mutations to explore. So the search function itself is changing. And how is it changing? Modelled mathematically, it’s changing by incorporating information about the landscape.
 
 Read the whole thing for context. If you are interested in the topic from a biological perspective, [Sergey Gavrilets’](http://eeb.bio.utk.edu/gavrilets.asp) has published a fair number of papers on this topic….
 

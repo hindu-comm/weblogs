@@ -15,7 +15,8 @@ Update: If you are curious, here is an [article](http://www.ncbi.nlm.nih.gov/ent
 
 ### Related Posts:
 
-- [Beyond MC1R](https://www.gnxp.com/WordPress/2005/08/26/beyond-mc1r/) - [Correction on
+- [Beyond MC1R](https://www.gnxp.com/WordPress/2005/08/26/beyond-mc1r/)
+- [Correction on
   MC1R....](https://www.gnxp.com/WordPress/2005/07/15/correction-on-mc1r/) - [New locus for skin
   color?](https://www.gnxp.com/WordPress/2005/09/15/new-locus-for-skin-color/) - [MC1R that makes you go
   hhhmmmuomii....](https://www.gnxp.com/WordPress/2006/04/20/mc1r-that-makes-you-go-hhhmmmuomii/) - [Cryptic variation & melanoma

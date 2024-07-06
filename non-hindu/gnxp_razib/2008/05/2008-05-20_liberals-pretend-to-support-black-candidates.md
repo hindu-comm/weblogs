@@ -37,7 +37,9 @@ Liberals pretend to support black candidates?
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Exit polls](https://www.gnxp.com/WordPress/2008/11/04/exit-polls/) - [Why the polls are wrong & John McCain will
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Exit polls](https://www.gnxp.com/WordPress/2008/11/04/exit-polls/)
+- [Why the polls are wrong & John McCain will
   win](https://www.gnxp.com/WordPress/2008/11/03/why-the-polls-are-wrong-john-mccain-will-win/) - [Stereotype
   Fret](https://www.gnxp.com/WordPress/2006/09/04/stereotype-fret/) - [Social Class and
   Smoking](https://www.gnxp.com/WordPress/2011/02/13/social-class-and-smoking/) - [Polls Are Smarter Than

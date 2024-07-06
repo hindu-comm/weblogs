@@ -13,17 +13,17 @@ In a recent [post](https://www.gnxp.com/blog/2005/11/ethnic-segregation-in-brita
 
 Simpson’s press releases say, inter alia:
 
-> After a couple of generations… the population growth of these groups > \[Black and Asian\] will have slowed and probably stopped… Fertility > \[of ethnic minorities\] has reduced rapidly from the high levels > associated with immigrant families. It is the youthfulness of > immigrant workers and therefore their low mortality which has caused > population growth, not high fertility, and not further immigration.
+> After a couple of generations… the population growth of these groups > \[Black and Asian\] will have slowed and probably stopped… Fertility > \[of ethnic minorities\] has reduced rapidly from the high levels associated with immigrant families. It is the youthfulness of immigrant workers and therefore their low mortality which has caused population growth, not high fertility, and not further immigration.
 
 A report in the **Guardian** says:
 
-> Immigration is not the reason for increased numbers of non-white > Britons over the past decade… the increase in the number of non-white > Britons is due to demographics rather than immigration. Ethnic > minority populations are younger and have fewer elderly people than > white communities. The number of Asian and black people is increasing > because fewer die from old age and they have more women of > childbearing age relative to white people. The author of the study, > Ludi Simpson, said: “The common myth is that the growth of the ethnic > minority population is due to immigration. That’s not true – it is > more due to the growth of \[ethnic minority\] people born in Britain.”
+> Immigration is not the reason for increased numbers of non-white > Britons over the past decade… the increase in the number of non-white > Britons is due to demographics rather than immigration. Ethnic > minority populations are younger and have fewer elderly people than > white communities. The number of Asian and black people is increasing > because fewer die from old age and they have more women of > childbearing age relative to white people. The author of the study, Ludi Simpson, said: “The common myth is that the growth of the ethnic minority population is due to immigration. That’s not true – it is more due to the growth of \[ethnic minority\] people born in Britain.”
 
 These statements are unclear as to whether the growth of the ethnic minority population is wholly or just mainly due to the age structure of the population, and whether fertility of ethnic minorities has already fallen to average levels, or whether this is a prediction for the future. But taking all the statements together, it seems that Simpson’s position is as follows:
 
-> – the main factor in the recent growth of ethnic minorities \[‘over > the last decade’\] has been the age structure of the ethnic minority > population, and in particular its relative youthfulness >
+> – the main factor in the recent growth of ethnic minorities \[‘over the last decade’\] has been the age structure of the ethnic minority population, and in particular its relative youthfulness >
 > – immigration has been only a minor factor >
-> – fertility of ethnic minorities has already fallen substantially and > can reasonably be expected to fall to replacement level.
+> – fertility of ethnic minorities has already fallen substantially and can reasonably be expected to fall to replacement level.
 
 Are these claims true?
 

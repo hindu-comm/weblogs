@@ -25,7 +25,8 @@ I hope that the [Long Now Foundation](https://en.wikipedia.org/wiki/Long_Now_Fou
 
 ### Related Posts:
 
-- [LaTeX notes](https://www.gnxp.com/WordPress/2017/04/23/latex-notes/) - [10 Questions for Heather Mac
+- [LaTeX notes](https://www.gnxp.com/WordPress/2017/04/23/latex-notes/)
+- [10 Questions for Heather Mac
   Donald](https://www.gnxp.com/WordPress/2007/01/02/10-questions-for-heather-mac-donald/) - [Game of Thrones spoiling A Song of Ice and
   Fire](https://www.gnxp.com/WordPress/2016/10/24/game-of-thrones-spoiling-a-song-of-ice-and-fire/) - [Heather Mac Donald interview
   responses](https://www.gnxp.com/WordPress/2007/01/14/heather-mac-donald-interview-responses/) - [George R. R. Martin on science

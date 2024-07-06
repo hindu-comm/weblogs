@@ -11,11 +11,12 @@ Beware the hungry judge!
 
 This is a datum which you can dine out on, [The Bias You Didn’t Expect](http://lesswrong.com/lw/58y/the_bias_you_didnt_expect/):
 
-> It turns out that legal realism is totally wrong. It’s not what the > judge had for breakfast. It’s how recently the judge had breakfast. A > a new study (media coverage) on Israeli judges shows that, **when > making parole decisions, they grant about 65% after meal breaks, and > almost all the way down to 0% right before breaks and at the end of > the day (i.e. as far from the last break as possible).** There’s a > relatively linear decline between the two points.
+> It turns out that legal realism is totally wrong. It’s not what the > judge had for breakfast. It’s how recently the judge had breakfast. A > a new study (media coverage) on Israeli judges shows that, **when > making parole decisions, they grant about 65% after meal breaks, and almost all the way down to 0% right before breaks and at the end of the day (i.e. as far from the last break as possible).** There’s a relatively linear decline between the two points.
 
 ### Related Posts:
 
-- [Ask a Science Blogger - "Justify my
+- [Ask a Science Blogger
+- "Justify my
   funding"](https://www.gnxp.com/WordPress/2006/05/25/ask-a-science-blogger-justify-my-funding/) - [The eternal question of calorie
   restriction](https://www.gnxp.com/WordPress/2012/08/29/the-eternal-question-of-calorie-restriction/) - [Visitor
   loyalty](https://www.gnxp.com/WordPress/2006/09/08/visitor-loyalty/) - [The future always

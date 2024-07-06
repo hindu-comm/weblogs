@@ -11,7 +11,7 @@ Being human is important because we're human
 
 There’s a rather vanilla piece in *The Philadelphia Inquirer* which reviews the ideas of [how humans became human](http://www.philly.com/philly/entertainment/20110926_Our_ancient_ancestors__When_did_they_become_human_.html). I say vanilla because the headline is somewhat more sensational than the text itself, which seems sober and accurate. But this paragraph jumped out at me:
 
-> **A main source of the idea that we humans are above the rest of the > living world is religion.** Even religions that accept evolution > espouse a kind of human exceptionalism.
+> **A main source of the idea that we humans are above the rest of the living world is religion.** Even religions that accept evolution espouse a kind of human exceptionalism.
 
 It is obviously true that human religions tend to place a special importance on humans. And it is accurate as well to observe that consistent messages of human uniqueness are most prominently espoused by particular religions. Even those religions such as Neo-paganism and Hinduism which adhere to a monism which collapses the distinction between human and non-human operationally do seem to privilege the human perspective.
 

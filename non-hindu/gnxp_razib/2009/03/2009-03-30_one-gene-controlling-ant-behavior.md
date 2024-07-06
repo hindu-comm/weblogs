@@ -11,8 +11,8 @@ One gene controlling ant behavior?
 
 [Single Gene Shapes the Toil of Ants’ Fighter and Forager Castes](http://www.nytimes.com/2009/03/31/science/31ants.html?ref=science&pagewanted=print):
 
-> Researchers studying the social behavior of ants have found that a > single gene underlies both the aggressive behavior of the ant colony’s > soldiers and the food gathering behavior of its foraging caste.  
-> The gene is active in soldier ants, particularly in five neurons in > the front of their brain, where it generates large amounts of its > product, a protein known as PKG. The exact amount of the protein in > the ants’ brains is critical to their behavior.
+> Researchers studying the social behavior of ants have found that a single gene underlies both the aggressive behavior of the ant colony’s soldiers and the food gathering behavior of its foraging caste.  
+> The gene is active in soldier ants, particularly in five neurons in the front of their brain, where it generates large amounts of its product, a protein known as PKG. The exact amount of the protein in the ants’ brains is critical to their behavior.
 
 The article goes on talk to about correlates of PKG variation in humans….
 

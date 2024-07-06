@@ -11,7 +11,7 @@ Brown gaucho & Tangled Bank #63
 
 Our old friend [Brown Gaucho](http://www.indiancowboy.net/blog/?p=329) is hosting [Tangled Bank \#63](http://www.indiancowboy.net/blog/?p=329). I enjoyed his post, [The importance of evolution in medicine](http://www.indiancowboy.net/blog/?p=328). BG is a primatologist-turned-med student, so he knows of what he speaks. But, I do have to take some issue with this contention:
 
-> Anatomically and **genetically**, humans haven’t changed all that much > in the past 100,000 years.
+> Anatomically and **genetically**, humans haven’t changed all that much in the past 100,000 years.
 
 Yes, *anatomically* modern humans emerged over 100,000 years ago, but, that does not suffice to allow us to assume that *genetically* humans haven’t changed “all that much.” Of course, that depends on how you define “all that much,” but a supercharged immune system forged in the fires of the Eurasian pathogen pool & lactose tolerance don’t show up in the fossil record….
 
@@ -31,7 +31,7 @@ Yes, *anatomically* modern humans emerged over 100,000 years ago, but, that does
 
 Our old friend [Brown Gaucho](http://www.indiancowboy.net/blog/?p=329) is hosting [Tangled Bank \#63](http://www.indiancowboy.net/blog/?p=329). I enjoyed his post, [The importance of evolution in medicine](http://www.indiancowboy.net/blog/?p=328). BG is a primatologist-turned-med student, so he knows of what he speaks. But, I do have to take some issue with this contention:
 
-> Anatomically and **genetically**, humans haven’t changed all that much > in the past 100,000 years.
+> Anatomically and **genetically**, humans haven’t changed all that much in the past 100,000 years.
 
 Yes, *anatomically* modern humans emerged over 100,000 years ago, but, that does not suffice to allow us to assume that *genetically* humans haven’t changed “all that much.” Of course, that depends on how you define “all that much,” but a supercharged immune system forged in the fires of the Eurasian pathogen pool & lactose tolerance don’t show up in the fossil record….
 

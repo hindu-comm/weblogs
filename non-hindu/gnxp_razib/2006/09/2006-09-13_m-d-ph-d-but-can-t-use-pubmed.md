@@ -11,29 +11,29 @@ M.D. Ph.D. but can't use Pubmed?
 
   
 
-> “What is needed is a healthy donor,” said Dr. Jamie Grifo, director of > reproductive endocrinology at New York University Medical Center. > **“There’s no evidence that because some guy made it through college > that his offspring will.”** > [\[link\]](http://www2.ljworld.com/news/2005/jun/05/babies/)
+> “What is needed is a healthy donor,” said Dr. Jamie Grifo, director of > reproductive endocrinology at New York University Medical Center. **“There’s no evidence that because some guy made it through college that his offspring will.”** [\[link\]](http://www2.ljworld.com/news/2005/jun/05/babies/)
 
 Really? Let’s check Pubmed:
 
 PMID 11523706
 
-> A high heritability was found for body height (h2 = 0.78 in men and h2 > = 0.75 in women), and a moderate heritability for education (h2 = 0.47 > and h2 = 0.43, respectively).
+> A high heritability was found for body height (h2 = 0.78 in men and h2 = 0.75 in women), and a moderate heritability for education (h2 = 0.47 and h2 = 0.43, respectively).
 
 PMID 8639155
 
-> In a “psychometric” model of twin resemblance, based on separate > self-reports in 1981 and 1989, genetic factors explained 57% of the > stable variance in educational achievement, while environmental > factors shared by twins accounted for 24% of the variance. Corrections > for phenotypic assortative mating for educational level, however, > suggested that estimated common-environmental effects could be > entirely explained by the correlation between additive genetic values > for mates. Taking this into account, heritability “true” educational > attainment in Australia may be as high as 82% with the remaining > variation being due to individual environments or experiences. Unlike > previous studies in Scandinavian countries, results in Australia > suggest that factors influencing educational success are comparable > between women and men and for individuals born at different points > during this century.
+> In a “psychometric” model of twin resemblance, based on separate > self-reports in 1981 and 1989, genetic factors explained 57% of the > stable variance in educational achievement, while environmental > factors shared by twins accounted for 24% of the variance. Corrections > for phenotypic assortative mating for educational level, however, > suggested that estimated common-environmental effects could be > entirely explained by the correlation between additive genetic values > for mates. Taking this into account, heritability “true” educational > attainment in Australia may be as high as 82% with the remaining > variation being due to individual environments or experiences. Unlike > previous studies in Scandinavian countries, results in Australia suggest that factors influencing educational success are comparable between women and men and for individuals born at different points during this century.
 
 PMID 2392892
 
-> The broad heritability of SES, educational attainment, fecundity, and > risk for divorce ranges from 0.30 to 0.50
+> The broad heritability of SES, educational attainment, fecundity, and risk for divorce ranges from 0.30 to 0.50
 
 PMID 2719624
 
-> Typical heritability values in the three youngest groups (weighted > means) were .43, .51, and .66 for occupation, education, and IQ, > respectively. … Genetic variance influencing educational attainment > also contributed approximately one-fourth of the genetic variance for > occupational status and nearly half the genetic variance for IQ. The > values for the between-families variances (reflecting family > environment and assortative mating) varied from 2 to 35% in the three > youngest groups… All the between-families variance was common to all > three variables. For educational attainment and IQ, the bulk of this > between-families variance is probably genetic variance due to > assortative mating. The common-factor environmental within-family > variances were generally small, and the specific estimates seemed to > contain mainly measurement error.
+> Typical heritability values in the three youngest groups (weighted > means) were .43, .51, and .66 for occupation, education, and IQ, > respectively. … Genetic variance influencing educational attainment > also contributed approximately one-fourth of the genetic variance for > occupational status and nearly half the genetic variance for IQ. The > values for the between-families variances (reflecting family > environment and assortative mating) varied from 2 to 35% in the three > youngest groups… All the between-families variance was common to all > three variables. For educational attainment and IQ, the bulk of this > between-families variance is probably genetic variance due to assortative mating. The common-factor environmental within-family variances were generally small, and the specific estimates seemed to contain mainly measurement error.
 
 PMID 4039415
 
-> For females born after 1940 and before 1961, the relative importance > of genetic (38-45%) and familial environmental (41-50%) differences > changes very little. For males born during the same period, the broad > heritability of educational attainment has increased substantially > (67-74%), and the environmental impact of family background has > correspondingly decreased (8-10%). For males, at least, having > well-educated parents no longer predicts educational success, as > measured by duration of education, independent of the individual’s own > innate abilities.
+> For females born after 1940 and before 1961, the relative importance > of genetic (38-45%) and familial environmental (41-50%) differences > changes very little. For males born during the same period, the broad > heritability of educational attainment has increased substantially > (67-74%), and the environmental impact of family background has > correspondingly decreased (8-10%). For males, at least, having well-educated parents no longer predicts educational success, as measured by duration of education, independent of the individual’s own innate abilities.
 
 ### Related Posts:
 

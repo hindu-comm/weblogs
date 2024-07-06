@@ -13,7 +13,8 @@ Ancient technology
 
 ### Related Posts:
 
-- ["Science and technology" - then &
+- ["Science and technology"
+- then &
   now](https://www.gnxp.com/WordPress/2008/07/30/science-and-technology-then-now/) - [George Packer in The New
   Yorker](https://www.gnxp.com/WordPress/2006/12/20/george-packer-in-the-new-yorker/) - [Fact checking The New Yorker's
   ass!](https://www.gnxp.com/WordPress/2007/08/08/fact-checking-the-new-yorkers-ass/) - [The Atlantic has

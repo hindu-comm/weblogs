@@ -11,7 +11,7 @@ The genetics of your kids; know thyself
 
 [Genetic Future](http://scienceblogs.com/geneticfuture/2009/08/chinese_summer_camp_to_offer_g.php) says basically what I was going to say about report about [genetic testing for abilities in China](http://www.cnn.com/2009/WORLD/asiapcf/08/03/china.dna.children.ability/). Dan MacArthur notes:
 
-> Unlike a lot of commentators on this story, I’ve got nothing > fundamentally against the idea of using genetics to make predictions > about a child’s future, and on guiding the activities a child engages > in based on those predictions. Here’s the thing, though: this only > makes sense if the predictions are both accurate and relevant, and > right now the predictions from genetics regarding complex traits are > neither. Parents should save their money for more useful ways to > enrich their children’s lives.
+> Unlike a lot of commentators on this story, I’ve got nothing > fundamentally against the idea of using genetics to make predictions > about a child’s future, and on guiding the activities a child engages > in based on those predictions. Here’s the thing, though: this only > makes sense if the predictions are both accurate and relevant, and right now the predictions from genetics regarding complex traits are neither. Parents should save their money for more useful ways to enrich their children’s lives.
 
 For most traits we’re interested in the best predictors are **the parents**.  
 ![800px-Galton_experiment.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/800px-Galton_experiment.png?resize=500%2C341)![800px-Galton_experiment.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/800px-Galton_experiment.png?resize=500%2C341)

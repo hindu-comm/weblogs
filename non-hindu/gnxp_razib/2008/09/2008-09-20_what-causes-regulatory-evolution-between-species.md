@@ -17,7 +17,7 @@ The authors begin by noting that several transcription factors bind different sp
 
 This has enormous implications–as the authors write:
 
-> Here we show that each layer of transcriptional regulation within the > adult hepatocyte, from the binding of liver master regulators and > chromatin remodeling complexes to the output of the transcriptional > machinery, is directed primarily by DNA sequence. Although > conservation of motifs alone cannot predict transcription factor > binding, we show that **within the genetic sequence there must be > embedded adequate instructions to direct species-specific > transcription.**
+> Here we show that each layer of transcriptional regulation within the > adult hepatocyte, from the binding of liver master regulators and > chromatin remodeling complexes to the output of the transcriptional > machinery, is directed primarily by DNA sequence. Although > conservation of motifs alone cannot predict transcription factor binding, we show that **within the genetic sequence there must be embedded adequate instructions to direct species-specific transcription.**
 
 Now it’s “just” a question of deciphering those instructions.
 

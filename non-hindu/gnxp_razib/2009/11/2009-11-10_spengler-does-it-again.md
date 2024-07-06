@@ -11,7 +11,7 @@ Spengler does it again!
 
 Just Spengler (David Goldman) being Spengler, [From “Zionism is Racism” to “Judaism is Racism”](http://www.firstthings.com/blogs/spengler/2009/11/08/from-zionism-is-racism-to-judaism-is-racism/):
 
-> Judaism has nothing to do with race-there are Jews of every race-but > it does have to do with family. Jews are members of Abraham’s family. > **Not only tradition, but a great deal of DNA evidence support this > claim.** To insist that Jews adopt the criterion of “belief” for > membership is to rule that God must act in accordance with a human > court’s notion of the permissible range of God’s behavior. No wonder > the Reform Jews and the British Humanist Association support this.
+> Judaism has nothing to do with race-there are Jews of every race-but > it does have to do with family. Jews are members of Abraham’s family. > **Not only tradition, but a great deal of DNA evidence support this > claim.** To insist that Jews adopt the criterion of “belief” for membership is to rule that God must act in accordance with a human court’s notion of the permissible range of God’s behavior. No wonder the Reform Jews and the British Humanist Association support this.
 
 1\) Yes, [Jews are genetically distinct](http://scienceblogs.com/gnxp/2009/01/how_ashkenazi_jewish_are_you.php).
 

@@ -85,7 +85,7 @@ The crafty politician in Afonso woke up. He issued an order to destroy the churc
 
 One account said this:
 
-> Tirupati, in…Madras, is celebrated throughout Southern India for the > temple on Tremmelle, the holy hill, 2,500 feet high… This place, often > known as Upper Tirupati where the shrine dedicated to > Venkateswaraswami, a incarnation of Vishnu, is considered so holy that > NO CHRISTIAN OR MUSALMAN WAS ALLOWED EVEN TO ASCEND THE HILL. From all > parts of India thousands of pilgrims annually flock to Tirupati with > rich offerings to the idol…the annual income of the temple averaged > upwards two lakhs in Rupees alone.
+> Tirupati, in…Madras, is celebrated throughout Southern India for the > temple on Tremmelle, the holy hill, 2,500 feet high… This place, often > known as Upper Tirupati where the shrine dedicated to > Venkateswaraswami, a incarnation of Vishnu, is considered so holy that > NO CHRISTIAN OR MUSALMAN WAS ALLOWED EVEN TO ASCEND THE HILL. From all parts of India thousands of pilgrims annually flock to Tirupati with rich offerings to the idol…the annual income of the temple averaged upwards two lakhs in Rupees alone.
 
 Another story told Afonso that the fabulous wealth of the “Temple of Tremmelle” was literally countless. It was said that on one occasion, the temple’s managers dispatched sacks of gold coins loaded on the backs of one hundred bullocks to the “King of Bisnaga.”
 

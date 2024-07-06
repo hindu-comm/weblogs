@@ -11,8 +11,8 @@ DTC testing, mailing addresses, contact information, etc.
 
 [Chris](https://cxlxmxrx.blogspot.com/2011/03/dtc-testing-mailing-addresses-etc.html), and others, have encouraged me to put up some contact information in regards to DTC testing and the . Here is what Chris has gathered….
 
-> TheCenter for Devices and Radiological Health (CDRH)is the division > of the FDA that would be responsible for DTC genetic testing. > AndOffice of In Vitro Diagnostic Device Evaluation and Safety > (OVID)is the relevant CDRH office. The CDRH director is Jeffrey > Shuren. OVID’s director is Alberto Gutierrez, and OVID’s personalized > medicine staff are headed by Elizabeth Mansfield. Use the following to > contact FDA staff:  
-> •[list of CDRH > personnel](http://www.fda.gov/aboutfda/centersoffices/cdrh/cdrhoffices/ucm127854.htm)  
+> TheCenter for Devices and Radiological Health (CDRH)is the division > of the FDA that would be responsible for DTC genetic testing. > AndOffice of In Vitro Diagnostic Device Evaluation and Safety > (OVID)is the relevant CDRH office. The CDRH director is Jeffrey Shuren. OVID’s director is Alberto Gutierrez, and OVID’s personalized medicine staff are headed by Elizabeth Mansfield. Use the following to contact FDA staff:  
+> •[list of CDRH personnel](http://www.fda.gov/aboutfda/centersoffices/cdrh/cdrhoffices/ucm127854.htm)  
 > •[contact info search form](http://directory.psc.gov/employee.htm). >
 > Dr. Jeffrey Shuren  
 > Director, CDRH  
@@ -45,7 +45,7 @@ DTC testing, mailing addresses, contact information, etc.
 > Silver Spring, MD 20993  
 > Phone 301-796-4664  
 > [\[emailprotected\]](/cdn-cgi/l/email-protection) >
-> TheCommissioner of the Food and Drug Administrationis Dr. Margaret > Hamburg. She’s probably busy, but her chief of staff is Molly Muldoon. > There is a list of the commissioner’s closest > staff[here](http://www.fda.gov/AboutFDA/CentersOffices/OC/ImmediateOfficeoftheCommissioner/default.htm) > and an address search > form[here](http://directory.psc.gov/employee.htm). >
+> TheCommissioner of the Food and Drug Administrationis Dr. Margaret > Hamburg. She’s probably busy, but her chief of staff is Molly Muldoon. > There is a list of the commissioner’s closest staff[here](http://www.fda.gov/AboutFDA/CentersOffices/OC/ImmediateOfficeoftheCommissioner/default.htm) and an address search form[here](http://directory.psc.gov/employee.htm). >
 > Dr. Margaret Hamburg  
 > Commissioner of the FDA  
 > White Oak Office Building 1  

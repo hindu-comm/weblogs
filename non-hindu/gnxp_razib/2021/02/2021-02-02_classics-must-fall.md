@@ -20,7 +20,8 @@ My own comment would be to repeat Terrence:
 
 ### Related Posts:
 
-- [On words](https://www.gnxp.com/WordPress/2007/04/29/on-words/) - [David Reich drops the
+- [On words](https://www.gnxp.com/WordPress/2007/04/29/on-words/)
+- [David Reich drops the
   mic](https://www.gnxp.com/WordPress/2019/01/20/david-reich-drops-the-mic/) - [Timelessness of the
   classics](https://www.gnxp.com/WordPress/2008/07/07/timelessness-of-the-classics/) - [Diversity &
   trust](https://www.gnxp.com/WordPress/2007/06/16/diversity-trust/) - [Empire (Rome that is, though really it is the

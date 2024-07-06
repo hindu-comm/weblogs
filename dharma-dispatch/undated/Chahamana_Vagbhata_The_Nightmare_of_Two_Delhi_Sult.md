@@ -68,7 +68,7 @@ When he reached adulthood, Viranarayana distinguished himself as a formidable th
 
 The *Hammira-Mahakavya* narrates what happened next.
 
-> The wily Muslim came out to receive him, and treated his guest > apparently with the greatest respect. The prince was delighted with > the reception…After a few days’ hospitality, however, the prince was > poisoned and died. The joy of the Muhammadans at this event was > excessive. They exclaimed that the whole tree was now prostrate at > their feet, and they could help themselves with any part of it.
+> The wily Muslim came out to receive him, and treated his guest > apparently with the greatest respect. The prince was delighted with > the reception…After a few days’ hospitality, however, the prince was poisoned and died. The joy of the Muhammadans at this event was excessive. They exclaimed that the whole tree was now prostrate at their feet, and they could help themselves with any part of it.
 
 [Read what happened next!](https://www.dharmadispatch.in/history/chahamana-vagbhata-the-nightmare-of-two-delhi-sultans)
 

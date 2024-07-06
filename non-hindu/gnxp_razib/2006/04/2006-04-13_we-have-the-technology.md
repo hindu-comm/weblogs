@@ -19,7 +19,8 @@ I know that this seems like it might be a bureaucratic morass. **But such is the
 
 ### Related Posts:
 
-- ["Science and technology" - then &
+- ["Science and technology"
+- then &
   now](https://www.gnxp.com/WordPress/2008/07/30/science-and-technology-then-now/) - [The Nanopore
   footnote?](https://www.gnxp.com/WordPress/2012/02/18/the-nanopore-footnote/) - [Genetic matching for dating is as good as
   astrology](https://www.gnxp.com/WordPress/2014/11/03/genetic-matching-for-dating-is-as-good-as-astrology/) - [Against

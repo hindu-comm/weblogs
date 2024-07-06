@@ -17,7 +17,7 @@ Are most people "behaviorally modern"?
 
 [Behavioral modernity](https://en.wikipedia.org/wiki/Behavioral_modernity):
 
-> Behavioral modernity is a term used in anthropology, archeology and > sociology to refer to a set of traits that distinguish present day > humans and their recent ancestors from both living primates and other > extinct hominid lineages. It is the point at which Homo sapiens began > to demonstrate a reliance on symbolic thought and to express cultural > creativity. These developments are often thought to be associated with > the origin of language.
+> Behavioral modernity is a term used in anthropology, archeology and > sociology to refer to a set of traits that distinguish present day > humans and their recent ancestors from both living primates and other > extinct hominid lineages. It is the point at which Homo sapiens began to demonstrate a reliance on symbolic thought and to express cultural creativity. These developments are often thought to be associated with the origin of language.
 
 First, I’d like to put into the record that I suspect that Neanderthals had language as we’d understand it. I suspect within the next few decades genomics may clarify the issue, because people with congenital linguistic defects will probably be sequenced to the point where we’ll get a sense of all the many regions of the genome necessary for language competency. We can then crosscheck that against the Neanderthal genome. So let’s take that off the table, even if it’s under dispute.
 

@@ -13,10 +13,10 @@ No two look-alikes
 
 *The New York Times* summarizes some new research in behavior and personality, [Holding a Mirror to Their Natures: Looking at Twin Personality Through Look-alikes](http://www.nytimes.com/2014/08/26/science/looking-at-twin-personality-through-look-alikes.html):
 
-> As she expected, the unrelated look-alikes showed little similarity in > either personality or self-esteem. By contrast, twins — especially > identical twins — score similarly on both scales, suggesting that the > likeness is largely because of genetics. Her results were published in > the journal Personality and Individual Differences. >
-> For a second study, she teamed with a skeptic, Ulrich Ettinger, a > psychologist at the University of Bonn in Germany who had heard about > the look-alike project during a postdoctorate at the University of > Montreal. >
-> “I thought that if two people looked alike, they would have similar > personality traits because people would treat them the same,” he said. > “For example, I thought men who looked alike and were tall and > handsome would probably be extroverts.” >
-> Their analysis was consistent with the findings of Dr. Segal’s first > study: Personality traits do not appear to be influenced by the way > people are treated because of appearance. Moreover, they found, there > appears to be no special bond between look-alikes.
+> As she expected, the unrelated look-alikes showed little similarity in > either personality or self-esteem. By contrast, twins — especially identical twins — score similarly on both scales, suggesting that the likeness is largely because of genetics. Her results were published in the journal Personality and Individual Differences. >
+> For a second study, she teamed with a skeptic, Ulrich Ettinger, a psychologist at the University of Bonn in Germany who had heard about the look-alike project during a postdoctorate at the University of Montreal. >
+> “I thought that if two people looked alike, they would have similar personality traits because people would treat them the same,” he said. “For example, I thought men who looked alike and were tall and handsome would probably be extroverts.” >
+> Their analysis was consistent with the findings of Dr. Segal’s first study: Personality traits do not appear to be influenced by the way people are treated because of appearance. Moreover, they found, there appears to be no special bond between look-alikes.
 
 ![Segal, Nancy L., Jamie L. Graham, and Ulrich Ettinger. “Unrelated look-alikes: Replicated study of personality similarity and qualitative findings on social relatedness.” Personality and Individual Differences 55.2 (2013): 169-174.](https://i0.wp.com/www.unz.com/wp-content/uploads/2014/08/twins-300x213.png?resize=300%2C213)
 

@@ -163,7 +163,7 @@ Continued negligence of this deadly ideological malaise will have long-term cons
 
 We can close this piece with what Sardar Patel had written to Ram Swarup, commending his work on combatting the Communist menace in the 1940s:
 
-> The Home Minister wants to convey to you that **if the work started by > you is not encouraged and assisted right now, it will have to be done > by the Indian Army one day.** >
+> The Home Minister wants to convey to you that **if the work started by you is not encouraged and assisted right now, it will have to be done by the Indian Army one day.** >
 > ------------------------------------------------------------------------
 
 ## Please Bless The Dharma Dispatch with Your Support

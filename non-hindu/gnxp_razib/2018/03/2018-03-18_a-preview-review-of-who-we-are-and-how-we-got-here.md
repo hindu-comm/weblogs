@@ -29,13 +29,13 @@ One reason to write[Who We Are and How We Got Here](https://www.amazon.com/exec/
 
 So why make the sacrifice and write this book? Let me quote David Reich himself:
 
-> …I finally thank several people who repeatedly encouraged me to write > this book. I resisted the idea for years because I did not want to > distract myself from the science, and because for geneticists papers > are the currency, not books. But my mind changed as **my colleagues > grew to include archaeologists, anthropologists, historians, > linguists**, and others eager to come to grips with the ancient DNA > revolution.
+> …I finally thank several people who repeatedly encouraged me to write > this book. I resisted the idea for years because I did not want to > distract myself from the science, and because for geneticists papers > are the currency, not books. But my mind changed as **my colleagues grew to include archaeologists, anthropologists, historians, linguists**, and others eager to come to grips with the ancient DNA revolution.
 
 I would expand the purview here more broadly: **all public intellectuals should know about the human past in its fullness.** It’s a shadow that hangs over us and frames our arguments about the present. How we came to be where we are matters unless you are the most clinical of logicians. If you are [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle), turn away!
 
 In[Who We Are and How We Got Here](https://www.amazon.com/exec/obidos/ASIN/110187032X/geneexpressio-20/ref=as_at?creativeASIN=0275961036&linkCode=w61&imprToken=T0XqexeBoDXvoyr0cR1T6A&slotNum=45)Reich recounts an encounter with an impudent undergraduate at MIT who wondered at the end of a lecture how it was he got funding for his abstruse projects. He responded with the standard pitch that goes into NIH grant proposals, that to understand human disease, one must also understand human population structure, and to understand human population structure it helps to understand human population history. After recollecting this anecdote Reich observes that he wishes he had responded differently. He concludes:
 
-> The study of the human past-as of art, music, literature, or > cosmology-is vital because it makes us aware of aspects of our common > condition that are profoundly important that we heretofore never > imagined.
+> The study of the human past-as of art, music, literature, or cosmology-is vital because it makes us aware of aspects of our common condition that are profoundly important that we heretofore never imagined.
 
 To me, this goes back to the Greek distinction of techne vs. telos. Science as an instrument in expanding the limits of human longevity and health is important, but it is not the only thing that science is capable of. If we turn science into pure instrument, we lose something essential and integral in its purpose.
 

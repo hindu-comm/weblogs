@@ -11,7 +11,7 @@ Film on evolution?
 
 I received this comment and thought I might tap into the community here:
 
-> Ok I’m really sorry but this has nothing to do with the above post. > I’m truly desperate to get my hands on a good pro-evolution film or > something that explains clearly what its all about. All I seem to get > locally is a bunch of bullshit about evolution vs. creationism. I’ve > gotten a few good books mainly Dawkins, Steve Gould and Steve Jones > but I’d love to see a good evolution film for once any > reccomendations?
+> Ok I’m really sorry but this has nothing to do with the above post. > I’m truly desperate to get my hands on a good pro-evolution film or > something that explains clearly what its all about. All I seem to get > locally is a bunch of bullshit about evolution vs. creationism. I’ve gotten a few good books mainly Dawkins, Steve Gould and Steve Jones but I’d love to see a good evolution film for once any reccomendations?
 
 The only things I can think of are the PBS series [Evolution](http://www.pbs.org/wgbh/evolution/) and [God, Darwin and Dinosaurs](http://www.pbs.org/wgbh/nova/listseason/16.html).
 

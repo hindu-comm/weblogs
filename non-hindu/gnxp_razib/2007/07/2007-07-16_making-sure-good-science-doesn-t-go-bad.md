@@ -11,11 +11,11 @@ Making sure good science doesn't go bad
 
 I picked up a copy of Cerebrum 2007, a collection of essays related to neuroscience published by Dana Press. There were a couple good articles on stroke and [pain](http://www.dana.org/news/cerebrum/detail.aspx?id=628) (arguing that cancer patients have little danger of addiction even using infamous opioids like morphine), but I was disappointed by [Henry Greely’s scaaarrry article](http://www.dana.org/news/cerebrum/detail.aspx?id=128) about the potential negative uses of neuroscience discoveries. He catalogs past misuses of scientific authority, perhaps the most egregious of which was the widespread use of lobotomy. But what to make of this:
 
-> Before eugenics disappeared in America after World War II, about > 60,000 men and women were surgically sterilized by court order, for > conditions such as feeblemindedness, alcoholism, insanity, epilepsy, > and criminality, which have little or no genetic basis.
+> Before eugenics disappeared in America after World War II, about 60,000 men and women were surgically sterilized by court order, for conditions such as feeblemindedness, alcoholism, insanity, epilepsy, and criminality, which have little or no genetic basis.
 
 Alcoholism? Really? Somebody better [tell the NIAAA](http://www.niaaa.nih.gov/ResearchInformation/ExtramuralResearch/SharedResources/projcoga.htm) quick.
 
-> In response to the overwhelming evidence from twin, family, and > adoption studies for a major genetic influence on vulnerability to > alcoholism, NIAAA has funded the Collaborative Studies on Genetics of > Alcoholism (COGA) since 1989, with the goal of identifying the > specific genes underlying this vulnerability.
+> In response to the overwhelming evidence from twin, family, and > adoption studies for a major genetic influence on vulnerability to alcoholism, NIAAA has funded the Collaborative Studies on Genetics of Alcoholism (COGA) since 1989, with the goal of identifying the specific genes underlying this vulnerability.
 
 When it comes time to argue about whether fMRI lie detection schemes should make their way into court, let’s hope we can get our facts straight at least. As to the actual ethical questions raised, as in coerced fMRI or drug treatments I find my utilitarian standbys running up against my empathy. I suppose if you are doing nothing criminal and have no expectations of running up against the government you should have no concern about efficacious lie detection. On the other hand, I already think we have unjust laws on the books.
 

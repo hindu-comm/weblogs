@@ -19,7 +19,8 @@ Of the constraints facing them, I think the obstacle of the man being married to
 
 ### Related Posts:
 
-- [Boy crisis?](https://www.gnxp.com/WordPress/2006/07/03/boy-crisis/) - [One RNA to bind them
+- [Boy crisis?](https://www.gnxp.com/WordPress/2006/07/03/boy-crisis/)
+- [One RNA to bind them
   all?](https://www.gnxp.com/WordPress/2007/09/24/one-rna-to-bind-them-all/) - [Yes, a young boy was forced from school for carrying
   cystic…](https://www.gnxp.com/WordPress/2012/10/18/yes-a-young-boy-was-forced-from-school-for-carrying-cystic-fibrosis-alleles/) - [My favorite boy
   band](https://www.gnxp.com/WordPress/2007/10/10/my-favorite-boy-band/) - [The "Hey girl" shaped hole in our

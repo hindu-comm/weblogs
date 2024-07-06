@@ -83,7 +83,7 @@ In a tangential fashion, we can also cite the lived instances where the ubiquito
 
 How these masters worked also has a bearing on what into making them. Here is a magnificent picture of Jadunath Sarkar’s method of working.
 
-> For Jadunath Sarkar, it was essential for a certain cultivation of > self-denying ethics in the personhood of the historian, a practice of > a sense of ascesis, for without that, the historian could not receive > the truths the facts told…it was a way of preparing oneself for a > truth that was beyond partisan interests. A self-denying quality he > willingly imposed on himself…It was an inextricable part of his > historical method; the man was the method.
+> For Jadunath Sarkar, it was essential for a certain cultivation of > self-denying ethics in the personhood of the historian, a practice of > a sense of ascesis, for without that, the historian could not receive > the truths the facts told…it was a way of preparing oneself for a truth that was beyond partisan interests. A self-denying quality he willingly imposed on himself…It was an inextricable part of his historical method; the man was the method.
 
 Indeed, our ancient greats spent an entire lifetime learning just *one* Sastra, and today, we have social media “experts” waxing pompously on everything from quantum physics to the “secret” of the Bhagavad Gita and *Nasadiya Sukta* with a self-arrogated haughtiness that is breathtaking in not its ignorance but folly. This happens because deep study and profound learning is confounded with making Twitter threads, the byte-sized equivalent of ammonia-coated beauty pageants.
 

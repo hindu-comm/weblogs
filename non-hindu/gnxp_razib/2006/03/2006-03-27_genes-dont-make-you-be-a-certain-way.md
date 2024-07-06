@@ -11,7 +11,7 @@ Genes don’t “make” you be a certain way….
 
 Apropos of my earlier post relating to heritability…this is the sort of confusing gibberish that ends up making it into the press, [Professor researches genetics of gambling](http://www.press-citizen.com/apps/pbcs.dll/article?AID=/20060326/NEWS01/603260309/1079/NEWS01). He tries to clear up problems of communication:
 
-> **This quote has been misconstrued**. In the logical development of > any investigation of the genetics of a disorder, once something is > shown to run in families and appears to have some > [heritable](http://psych-www.colorado.edu/hgss/hgssapplets/heritability/heritability.intro.html) > component, molecular genetic approaches follow. Studies can be done > with small numbers of DNA samples, as I propose doing, but definitive > studies require thousands of DNA samples. I doubt such an ambitious > undertaking will take place for many years.
+> **This quote has been misconstrued**. In the logical development of > any investigation of the genetics of a disorder, once something is > shown to run in families and appears to have some > [heritable](http://psych-www.colorado.edu/hgss/hgssapplets/heritability/heritability.intro.html) > component, molecular genetic approaches follow. Studies can be done with small numbers of DNA samples, as I propose doing, but definitive studies require thousands of DNA samples. I doubt such an ambitious undertaking will take place for many years.
 
 Good luck on getting nuance across to the press. All the while, [genetic association studies](http://www.ozaccom.com.au/cairns2004/sessdesign.html) will continue.
 

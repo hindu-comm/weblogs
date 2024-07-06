@@ -11,7 +11,7 @@ Selection & African Americans
 
 I [already posted on the new paper on African American Genetics](http://scienceblogs.com/gnxp/2009/12/africans_americans_mostly_west.php). I noticed that [Frank Sweet](http://thestudyofracialism.org/post-50731.html) says:
 
-> It is interesting that the 18 percent mean of Euro DNA markers in A-As > has been holding steady for about 8 years now, having replaced the > prior estimate of 25 percent.
+> It is interesting that the 18 percent mean of Euro DNA markers in A-As has been holding steady for about 8 years now, having replaced the prior estimate of 25 percent.
 
 Where did the prior estimate come from? I recall seeing it as well too. Were the older markers biased towards ones which might have been shaped by recent selection? The new paper doesn’t have anything definitive in regards to this (they they mention the variance in African vs. European across different regions of the genome), though certainly some genes which affect malaria seem to have been shifted away from what you’d expect.
 

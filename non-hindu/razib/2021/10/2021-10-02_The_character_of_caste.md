@@ -84,8 +84,8 @@ In 1030 AD, the Muslim ethnographer [al-Biruni](https://en.wikipedia.org/wiki/Al
 *The Hindus call their castes varna, i.e., colors, and from a genealogical point of view they call them jataka, i.e. births. These castes are from the very beginning only four.*
 
 > *I. The highest caste are the Brahmana...* >
-> *II. The next caste are the Kshatriya...Their degree is not much below > that of the Brahmana.* >
-> *III. After them follow the Vaisya, who were created from the thigh of > the Brahman.* >
+> *II. The next caste are the Kshatriya...Their degree is not much below that of the Brahmana.* >
+> *III. After them follow the Vaisya, who were created from the thigh of the Brahman.* >
 > *IV. The Sudra, who was created from his \[Brahma\] feet…*
 
 Clearly, already 1,000 years ago outsiders could readily discern the broad lineaments of Indian social structure. But even al-Biruni had much earlier predecessors. In 300 BC, Greek historian [Megasthenes](https://en.wikipedia.org/wiki/Megasthenes) was an ambassador at the court of Chandragupta Maurya, the ruler of most of India. He too contributed a work entitled *Indica*, and observed that there were seven hereditary and endogamous occupational groups in India, with the most esteemed being the “philosophers.”

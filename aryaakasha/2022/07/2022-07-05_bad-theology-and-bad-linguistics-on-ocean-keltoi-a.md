@@ -16,8 +16,8 @@ Earlier today our attention was drawn to [this tweet](https://twitter.com/OceanK
 
 
 
-> Njordr and Skadi are likely trans deities, and it would be completely > reasonable to venerate them as such. >
-> — Ocean 🇺🇦 (@OceanKeltoi) [July 4, > 2022](https://twitter.com/OceanKeltoi/status/1544028045073424385?ref_src=twsrc%5Etfw)
+> Njordr and Skadi are likely trans deities, and it would be completely reasonable to venerate them as such. >
+> — Ocean 🇺🇦 (@OceanKeltoi) [July 4, 2022](https://twitter.com/OceanKeltoi/status/1544028045073424385?ref_src=twsrc%5Etfw)
 
 This isn’t just Bad Theology. It’s also Bad Linguistics.
 

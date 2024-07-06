@@ -19,8 +19,8 @@ First, these are to **some extent** excess deaths (presumably some of the indivi
 
 I passed my numbers by a few people (e.g., Spencer Wells), and they thought they weren’t crazy, though they quibbled on particular parameter values here and there. By the middle of February I was becoming quite concerned, and, some of the people who along with me were quite sanguine around February 1st were now quite concerned as well. On February 28th I expressed my panic in a candid manner on Twitter. There were others who were like me. From a geneticist friend on March 2nd:
 
-> I have been trying to raise awareness in our local community through > Nextdoor, and it has been very painful. >
-> Especially because this is a very conservative area and somehow this > has gotten politicized so that pro-Trump people think the coronavirus > is just a cold
+> I have been trying to raise awareness in our local community through Nextdoor, and it has been very painful. >
+> Especially because this is a very conservative area and somehow this has gotten politicized so that pro-Trump people think the coronavirus is just a cold
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/06/fate_of_rome.jpg?resize=200%2C302&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/06/fate_of_rome.jpg?resize=200%2C302&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B071SLPWVL/geneexpressio-20)March 8th was the last time I was “out”, and I had a conversation with a neighbor who has a Ph.D. When my eyes started getting wild, and I told her she wasn’t going to see us for a while, she clearly thought I was crazy judging by her expression. On March 11th, she texted us that she was keeping her daughter home from school too.
 
@@ -32,7 +32,7 @@ There are two skeptical takes from a more purely analytical perspective that I w
 
 Let me quote Epstein:
 
-> First, they underestimate the rate of adaptive responses, which should > slow down the replication rate. Second, the models seem to assume that > the vulnerability of infection for the older population—from 70 > upward—gives some clue as to the rate of spread over the general > population, when it does not. Third, the models rest on a tacit but > questionable assumption that the strength of the virus will remain > constant throughout this period, when in fact its potency should be > expected to decline over time, in part because of temperature > increases.
+> First, they underestimate the rate of adaptive responses, which should > slow down the replication rate. Second, the models seem to assume that > the vulnerability of infection for the older population—from 70 > upward—gives some clue as to the rate of spread over the general > population, when it does not. Third, the models rest on a tacit but > questionable assumption that the strength of the virus will remain constant throughout this period, when in fact its potency should be expected to decline over time, in part because of temperature increases.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/03/greatmortal.jpeg?resize=181%2C279&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/03/greatmortal.jpeg?resize=181%2C279&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B008O8JWZY/geneexpressio-20)In relation to the first issue, I argued in early February that perhaps China, and Hubei, is different. We don’t know the comorbidities that are unique, and we don’t know if the Chinese healthcare system is particularly vulnerable. With foreknowledge, other nations will adapt and adjust. The spread of the pandemic to Iran and Italy, and now Spain and perhaps France and parts of the USA, indicates that **the replication rate, R₀, isn’t that different across societies without *extreme* measures.** That is, the R₀ \~ 2.5 or so.
 

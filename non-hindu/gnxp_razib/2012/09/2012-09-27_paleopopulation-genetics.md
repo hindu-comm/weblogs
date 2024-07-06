@@ -11,7 +11,7 @@ Paleopopulation Genetics
 
 It seems a new field is being born! Jeff Wall & Monty Slatkin have a pretty thorough review out, [Paleopopulation Genetics](http://www.ncbi.nlm.nih.gov/pubmed/22994357):
 
-> Paleopopulation genetics is a new field that focuses on the population > genetics of extinct groups and ancestral populations (i.e., > populations ancestral to extant groups). With recent advances in DNA > sequencing technologies, we now have unprecedented ability to directly > assay genetic variation from fossils. This allows us to address > issues, such as past population structure, changes in population size, > and evolutionary relationships between taxa, at a much greater > resolution than can traditional population genetics studies. In this > review, we discuss recent developments in this emerging field as well > as prospects for the future.
+> Paleopopulation genetics is a new field that focuses on the population > genetics of extinct groups and ancestral populations (i.e., > populations ancestral to extant groups). With recent advances in DNA > sequencing technologies, we now have unprecedented ability to directly > assay genetic variation from fossils. This allows us to address > issues, such as past population structure, changes in population size, > and evolutionary relationships between taxa, at a much greater resolution than can traditional population genetics studies. In this review, we discuss recent developments in this emerging field as well as prospects for the future.
 
 Nothing very new for close readers of this weblog, but the references are useful for later mining.
 

@@ -101,9 +101,9 @@ AS A COMMERCIAL POWERHOUSE, Vidisha and its surroundings were renowned for centu
 
 Above all, Vidisha has been immortalised by the Emperor of Poets, *Kavikulaguru* Kalidasa in his magnificent *Megadhuta.* Kalidasa, through the *Yaksha* (a demigod) instructs the cloud-messenger to soar over the majestic Vindhya peaks to witness the gurgling Narmada breaking into brilliant rivulets on its rocky side after which the cloud would arrive at the *Dasharna Desha*, whose capital was Vidisha. And then Kalidasa wields his poetic brush to paint a fantastic panorama of this *Desha*:
 
-> …the Dasharna country will have the hedges of its gardens coloured > white with the *Ketaka* flowers opened at their apexes; the sacred > trees of its villages will be disturbed by the nest-making of the > domestic birds; the *Jambu* forests that skirt this country will be > dark with their ripe fruit; swans will halt there for some days.
+> …the Dasharna country will have the hedges of its gardens coloured > white with the *Ketaka* flowers opened at their apexes; the sacred trees of its villages will be disturbed by the nest-making of the domestic birds; the *Jambu* forests that skirt this country will be dark with their ripe fruit; swans will halt there for some days.
 
-> O Cloud, when you reach its capital Vidisha, famed throughout all > lands, you will immediately obtain the entire fruit of your lovemaking > since you will drink the sweet water of Vetravati with its undulating > ripples, its face full of the knitting of eyebrows, in a charming > manner on account of your thundering on the borders of its banks. 
+> O Cloud, when you reach its capital Vidisha, famed throughout all > lands, you will immediately obtain the entire fruit of your lovemaking since you will drink the sweet water of Vetravati with its undulating ripples, its face full of the knitting of eyebrows, in a charming manner on account of your thundering on the borders of its banks. 
 
 Indeed, Vidisha was a geographical expression and a miniature of the panorama of Sanatana Dharma itself: ageless, eternal, self-fulfilled, gorgeous. It is one of those ancient civilisational and cultural nuclei of the Hindu people that survives continuously till date. Defaced over the centuries yet unbroken. Its environs exude its profound history like a sensory object. For a better part of two centuries, the amount of research that has gone into excavating its full history is nothing short of staggering.
 
@@ -121,7 +121,7 @@ One of its greatest patrons and devotees included Krishna III, the monarch of th
 
 Writing in 1030, Alberuni testifies to the enduring prestige, splendour and sanctity of Bhilsa in his famous travelogue in these words:
 
-> If a man travels from Mathura to Ujjain…he comes to a large village > called Dudahi; thence to Bamahur…and thence to Bhailsan \[Bhilsa\], a > place most famous among the Hindus. The name of the town is identical > with that of the idol worshipped there.
+> If a man travels from Mathura to Ujjain…he comes to a large village called Dudahi; thence to Bamahur…and thence to Bhailsan \[Bhilsa\], a place most famous among the Hindus. The name of the town is identical with that of the idol worshipped there.
 
 By any measure, Bhilsa was a flourishing economic nerve centre with large marketplaces or *Vithis,* where each *Vithi* was dedicated to trade in a specific class of goods. The crowning glory of its prosperous commerce was its sanctity as a place of pilgrimage. A beautiful inscriptional record narrates how Bhayillasvamin himself directed and regulated trade, commerce, justice and piety in Bhilsa. A *vyavastha* or system of jurisprudence was made whereby judicial decisions flowed from the “deity and his attendants and not from any judicial or administrative authority.”
 
@@ -135,7 +135,7 @@ Subscribe
 
 In 1232, Iltutmish had marched against the menacing fort of Gwalior then under the control of the Paramara feudatory, “Milak Deo, the accursed son of Basil, the accursed.” Basil is the Islamic corruption of “Vishaladeva.“ After a dogged siege lasting almost a year, he finally starved it into submission. And then,
 
-> During the night, the accursed Milak Deo evacuated the fort and fled > and about seven hundred *Gabrs* \[infidels or Hindus\] were directed > to be brought to public execution before the entrance of the sublime > pavilion \[Iltutmish’s tent\].
+> During the night, the accursed Milak Deo evacuated the fort and fled and about seven hundred *Gabrs* \[infidels or Hindus\] were directed to be brought to public execution before the entrance of the sublime pavilion \[Iltutmish’s tent\].
 
 Needless, all the seven hundred infidel Hindus were mercilessly butchered.
 
@@ -161,7 +161,7 @@ Even on the eve of Iltutmish’s invasion, Malwa had become a sorry mess. In fac
 
 By the time Ala-ud-din Khalji embarked on a renewed Turushka assault, Malwa had been incessantly ravaged by other *Hindu* kingdoms including but not limited to the Chalukyas of Gujarat, Yadavas of Devagiri, the Vaghelas of Gujarat, and Hammiradeva of Ranastambhapura. In fact, a direct evidence testifying this internecine Hindu warfare flows from Abdullah Wassaf, the 14th century Muslim panegyrist. Writing in 1300, he describes the situation in Malwa: 
 
-> And it may be about thirty years previous to \[writing\] this book > that the king of Malwa died, and dissension arose between his son and > minister. After long hostilities and much slaughter, each of them > acquired possession of a part of that country. In consequence of these > disturbances, every year incursions are made into it from most parts > of Hind, much property and wealth, and captives, and fine linen > (*Kirbas*) are carried off, and as yet no change (for the better) has > taken place.
+> And it may be about thirty years previous to \[writing\] this book > that the king of Malwa died, and dissension arose between his son and > minister. After long hostilities and much slaughter, each of them > acquired possession of a part of that country. In consequence of these > disturbances, every year incursions are made into it from most parts of Hind, much property and wealth, and captives, and fine linen (*Kirbas*) are carried off, and as yet no change (for the better) has taken place.
 
 In early 1293, Ala-ud-din Khalji marched towards Bhilsa armed with a sizeable force. The route to Bhilsa passed through one of India’s most important hubs of Jaina Dharma, Chanderi. It was an ancient and familiar route, which eventually terminated at the even more renowned Ujjaini. Ala-ud-din’s marauding force “cleared the entire road of vile infidel wretches” a euphemism for Hindu genocide, wanton pillage and destruction before reaching the ill-fated Bhilsa. The Turushka’s rude incursion predictably shook the defenceless city to its foundations. Its infidel inhabitants though, had prior experience of a Turushka invasion but all they could now do was salvage whatever they could and flee for safety.
 

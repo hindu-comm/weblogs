@@ -20,7 +20,7 @@ The major work of the paper above was assembling a large data set across a wide 
 
 I’ll leave you a quote from Yong’s piece:
 
-> When hominins like Neanderthals, Denisovans, and modern humans spread > through Europe and Asia, the average mass of mammals there halved. > When Homo sapiens later entered Australia, the mammals there became 10 > times smaller on average. And when they finally entered the Americas, > with effective long-range weapons in hand, they downsized the mammals > there to an even steeper degree. By around 15,000 years ago, the > average mass of North America’s mammals had fallen from 216 pounds to > just 17.
+> When hominins like Neanderthals, Denisovans, and modern humans spread > through Europe and Asia, the average mass of mammals there halved. > When Homo sapiens later entered Australia, the mammals there became 10 > times smaller on average. And when they finally entered the Americas, > with effective long-range weapons in hand, they downsized the mammals there to an even steeper degree. By around 15,000 years ago, the average mass of North America’s mammals had fallen from 216 pounds to just 17.
 
 **Addendum:** The reason that Holocene extinctions have a smaller size average is that there weren’t as many big mammals to kill. We’re pretty much moving down the trophic layers now….
 

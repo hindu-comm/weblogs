@@ -13,7 +13,8 @@ The Austrians and presuppositionalism
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [Hooray for
+- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/)
+- [Hooray for
   biology!](https://www.gnxp.com/WordPress/2008/01/10/hooray-for-biology/) - [The Cult of
   Rationality](https://www.gnxp.com/WordPress/2009/04/06/the-cult-of-rationality/) - [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [The continuing "death of
   comments"](https://www.gnxp.com/WordPress/2010/03/17/the-continuing-death-of-comments/) - [The follies of

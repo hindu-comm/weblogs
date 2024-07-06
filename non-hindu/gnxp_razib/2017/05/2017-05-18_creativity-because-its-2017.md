@@ -15,7 +15,8 @@ When I first heard that [The Mummy](https://www.amazon.com/exec/obidos/ASIN/B006
 
 ### Related Posts:
 
-- [Cool Cruise](https://www.gnxp.com/WordPress/2006/05/06/cool-cruise/) - [Shakira
+- [Cool Cruise](https://www.gnxp.com/WordPress/2006/05/06/cool-cruise/)
+- [Shakira
   mummy](https://www.gnxp.com/WordPress/2006/07/17/shakira-mummy/) - [Tom & Katie's freak is
   here!!!!](https://www.gnxp.com/WordPress/2006/04/18/tom-katies-freak-is-here/) - [Tom Cruise: He knows Psychiatry's
   History](https://www.gnxp.com/WordPress/2005/06/24/tom-cruise-he-knows-psychiatry-s-history/) - [Movies; watch, and

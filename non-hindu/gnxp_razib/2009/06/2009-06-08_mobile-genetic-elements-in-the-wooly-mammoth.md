@@ -11,7 +11,7 @@ Mobile genetic elements in the wooly mammoth
 
 Cool new paper about ancient DNA, [Mobile DNA Elements In Woolly Mammoth Genome Give New Clues To Mammalian Evolution](http://www.sciencedaily.com/releases/2009/06/090608182419.htm):
 
-> The woolly mammoth died out several thousand years ago, but the > genetic material they left behind is yielding new clues about the > evolution of mammals. In a study published online in Genome Research, > scientists have analyzed the mammoth genome looking for mobile DNA > elements, revealing new insights into how some of these elements arose > in mammals and shaped the genome of an animal headed for extinction.
+> The woolly mammoth died out several thousand years ago, but the > genetic material they left behind is yielding new clues about the > evolution of mammals. In a study published online in Genome Research, scientists have analyzed the mammoth genome looking for mobile DNA elements, revealing new insights into how some of these elements arose in mammals and shaped the genome of an animal headed for extinction.
 
 The paper isn’t online yet, but it will be [here](https://dx.doi.org/10.1101/gr.091363.109). Kind of mind-blowing that we might know so much about the genomics of an extinct organism. We’ve come a long way since [E. B. Ford](https://en.wikipedia.org/wiki/E.B._Ford).
 

@@ -29,7 +29,8 @@ What is true for Christianity is probably true for many complex human ideas and 
 
 ### Related Posts:
 
-- [The game](https://www.gnxp.com/WordPress/2006/09/07/the-game/) - [The fall of
+- [The game](https://www.gnxp.com/WordPress/2006/09/07/the-game/)
+- [The fall of
   Rome](https://www.gnxp.com/WordPress/2007/04/18/the-fall-of-rome/) - [Disruptive ages happen...and they happen
   fast](https://www.gnxp.com/WordPress/2017/11/12/disruptive-ages-happen-and-they-happen-fast/) - [How Rome
   Fell](https://www.gnxp.com/WordPress/2009/05/20/how-rome-fell/) - [A post-Christian

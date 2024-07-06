@@ -11,8 +11,8 @@ Introducing "genoeconomics"
 
 A new paper (open access) in *The Journal of Economic Perspectives*, [Molecular Genetics and Economics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.4.57). The authors introduce the term “genoecomics.” They start out with the proposition that the intersection of genomics and behavioral economics suffers from 1) the study samples are way too small, 2) there’s a publication bias toward false results. It’s a good review of the past decade or so. If the following surprises you, you might gain from reading the paper:
 
-> …While genetic variation can statistically account for a moderate to > large share of income in contemporary Western societies, this does not > mean that it would be infeasible to use redistributive policies or > policies that encourage human capital formation to change the > distribution of income. Heritability is a  
-> population parameter that depends on both the environmental effects > operating in a specifific population at a certain point in time and on > the genetic variation in that population. It says little about what > would happen to the mean and variance of the trait were the > environment to change….
+> …While genetic variation can statistically account for a moderate to > large share of income in contemporary Western societies, this does not mean that it would be infeasible to use redistributive policies or policies that encourage human capital formation to change the distribution of income. Heritability is a  
+> population parameter that depends on both the environmental effects > operating in a specifific population at a certain point in time and on the genetic variation in that population. It says little about what would happen to the mean and variance of the trait were the environment to change….
 
 I suspect that the caveats have to be stronger for [“endophenotypes”](https://en.wikipedia.org/wiki/Endophenotype).
 

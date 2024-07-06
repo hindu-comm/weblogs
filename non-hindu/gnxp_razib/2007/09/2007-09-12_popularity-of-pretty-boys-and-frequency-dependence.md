@@ -27,7 +27,8 @@ Bobbi Low has shown that pathogen stress is positively correlated with polygyny 
 
 ### Related Posts:
 
-- [Sex, Booze and Violence - Another tale from the Blank
+- [Sex, Booze and Violence
+- Another tale from the Blank
   Slate](https://www.gnxp.com/WordPress/2006/06/29/sex-booze-and-violence-another-tale-from-the-blank-slate/) - [Smarter Mothers Have
   Boys?](https://www.gnxp.com/WordPress/2005/05/11/smarter-mothers-have-boys/) - [Sex ratio &
   preferences](https://www.gnxp.com/WordPress/2007/12/22/sex-ratio-preferences/) - [Vulva - The

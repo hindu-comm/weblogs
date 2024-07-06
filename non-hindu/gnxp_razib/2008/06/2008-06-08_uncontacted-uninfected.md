@@ -11,7 +11,7 @@ Uncontacted, uninfected?
 
 [Twilight for the Forest People](http://www.nytimes.com/2008/06/08/weekinreview/08wilford.html):
 
-> If they are removed and **survive the exposure to diseases they have > never encountered**, it is likely that the unique knowledge and > beliefs that define them, the spirit of their life, will probably slip > away.
+> If they are removed and **survive the exposure to diseases they have never encountered**, it is likely that the unique knowledge and beliefs that define them, the spirit of their life, will probably slip away.
 
 I am to understand that governments like Brazil are better about this, but there has long been a problem with these tribal groups disappearing in 2-3 generations because of their lack of immune faculties to deal with the pathogens they’re newly exposed to. Something to think about.
 

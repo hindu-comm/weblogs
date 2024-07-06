@@ -11,7 +11,7 @@ Muslim Creationists & the real “Taliban” yo!
 
 ![chimp1.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/chimp1.jpg?resize=200%2C214)![chimp1.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/chimp1.jpg?resize=200%2C214)You might have heard that [Richard Dawkins’ website has been blocked in Turkey](http://www.guardian.co.uk/world/2008/sep/19/religion.turkey?gusrc=rss&feed=networkfront) because of that moron [Harun Yahya](https://en.wikipedia.org/wiki/Harun_Yahya) (H/T [Thabet](http://talkislam.info/2008/09/19/richard-dawkins-official-website-has-b/)). Here’s the justification:
 
-> His press assistant, Seda Aral, said: **“We are not against freedom of > speech or expression but you cannot insult people.** We found the > comments hurtful. It was not a scientific discussion. There was a line > and the limit has been passed. We have used all the legal means to > stop this site. We asked them to remove the comments but they did > not.”
+> His press assistant, Seda Aral, said: **“We are not against freedom of > speech or expression but you cannot insult people.** We found the > comments hurtful. It was not a scientific discussion. There was a line and the limit has been passed. We have used all the legal means to stop this site. We asked them to remove the comments but they did not.”
 
 This isn’t that strange of a claim; **contemporary** Anglo-American and to a lesser extent Continental European (to a greater extent Scandinavia, to a lesser extent France and Germany) attitudes toward free speech and expression are alien to most of the world. They would have been alien to the pre-modern West. They’re still alien to the nature of most people even in places like the United States. To some extent outrage at indecent transgressions against norms is species typical and probably adaptive. Overriding this tendency are various institutional structures, intellectual movements, and something called the [frontal cortex](https://en.wikipedia.org/wiki/Frontal_lobe). I’ve gotten into arguments with people who are not fully assimilated to the Anglo-American way who simply don’t grokk on any deep level that speech should always be given the extreme benefit of the doubt. More prosaically the little childhood ditty about “sticks & stones” is obviously not something that is imaginable in much of the world where people routinely kill each other over non-existent deities (granted, the West engaged in this sort of behavior until about 1700). Being raised in a subculture with primitive folkways naturally leads to primitive (that is, species typical) instincts on these topics and to some extent dialogue is rendered impossible because of the lack common normative referents.
 
@@ -26,7 +26,8 @@ I’m a admitted “appeaser” when it comes to religion in comparison to someo
 
 ### Related Posts:
 
-- [Harun Yahya - who is funding
+- [Harun Yahya
+- who is funding
   him?](https://www.gnxp.com/WordPress/2007/07/17/harun-yahya-who-is-funding-him/) - [The most secular Islamic country is
   Creationist](https://www.gnxp.com/WordPress/2009/10/22/the-most-secular-islamic-country-is-creationist/) - [Muslim Creationism: morons a
   publishin'](https://www.gnxp.com/WordPress/2007/07/17/muslim-creationism-morons-a-publishin/) - ["Harun Yahya" goes to

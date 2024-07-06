@@ -113,7 +113,14 @@ Advertisement
 
 **Tagged with:**
 
-- [brahmin](https://musingsofhh.wordpress.com/tag/brahmin/) - [farming](https://musingsofhh.wordpress.com/tag/farming/) - [nakshatras](https://musingsofhh.wordpress.com/tag/nakshatras/) - [pravargya](https://musingsofhh.wordpress.com/tag/pravargya/) - [ritual](https://musingsofhh.wordpress.com/tag/ritual/) - [vedic](https://musingsofhh.wordpress.com/tag/vedic/) - [yagna](https://musingsofhh.wordpress.com/tag/yagna/) - [yajna](https://musingsofhh.wordpress.com/tag/yajna/)
+- [brahmin](https://musingsofhh.wordpress.com/tag/brahmin/)
+- [farming](https://musingsofhh.wordpress.com/tag/farming/)
+- [nakshatras](https://musingsofhh.wordpress.com/tag/nakshatras/)
+- [pravargya](https://musingsofhh.wordpress.com/tag/pravargya/)
+- [ritual](https://musingsofhh.wordpress.com/tag/ritual/)
+- [vedic](https://musingsofhh.wordpress.com/tag/vedic/)
+- [yagna](https://musingsofhh.wordpress.com/tag/yagna/)
+- [yajna](https://musingsofhh.wordpress.com/tag/yajna/)
 
 **[Danava and other issues withOIT](https://musingsofhh.wordpress.com/2011/05/12/danava-and-other-issues-with-oit/)**
 

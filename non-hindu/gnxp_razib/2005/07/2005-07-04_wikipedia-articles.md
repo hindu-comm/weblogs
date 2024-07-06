@@ -35,7 +35,9 @@ Posted by Thrasymachus at [03:37 PM](https://www.gnxp.com/MT2/archives/004153.ht
 
 ### Related Posts:
 
-- [Ugric porn](https://www.gnxp.com/WordPress/2006/05/18/ugric-porn/) - [Who da man?](https://www.gnxp.com/WordPress/2006/10/16/who-da-man/) - [The other
+- [Ugric porn](https://www.gnxp.com/WordPress/2006/05/18/ugric-porn/)
+- [Who da man?](https://www.gnxp.com/WordPress/2006/10/16/who-da-man/)
+- [The other
   Romana](https://www.gnxp.com/WordPress/2012/08/12/the-other-romana/) - [The origins of
   China](https://www.gnxp.com/WordPress/2009/08/23/the-origins-of-china/) - [No one knows nothing about The
   Foundation](https://www.gnxp.com/WordPress/2008/07/30/no-one-knows-nothing-about-the-foundation/) - [Portlandia](https://www.gnxp.com/WordPress/2011/01/22/portlandia/)

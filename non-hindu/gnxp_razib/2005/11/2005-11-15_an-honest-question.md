@@ -11,8 +11,8 @@ An "honest" question
 
 My correspondent follows up:
 
-> As a scientist, how can you refute the design hypothesis? I am > assuming you donâ€™t support the presence of this theory in public > schools. I know it has virtually zero scientific backing, but isnâ€™t > it important to present as a belief, at least so our youth can reject > it? >
-> It just seems shameful to me that so many scientists refuse to present > a theory, lack of scientific backing and all. I consider myself an > anti-theist and would love this theory presented in public schools, as > opposed to denying that the theory even exists.
+> As a scientist, how can you refute the design hypothesis? I am > assuming you donâ€™t support the presence of this theory in public schools. I know it has virtually zero scientific backing, but isnâ€™t it important to present as a belief, at least so our youth can reject it? >
+> It just seems shameful to me that so many scientists refuse to present a theory, lack of scientific backing and all. I consider myself an anti-theist and would love this theory presented in public schools, as opposed to denying that the theory even exists.
 
 As I said, there are many hypotheses that are irrefutable. I think the design one is (so is the idea we are simulations in a computer of incredible power). Anyone who has even mildly looked into the topic knows that this is a serious problem.
 

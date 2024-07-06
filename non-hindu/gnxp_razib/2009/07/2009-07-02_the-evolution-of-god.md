@@ -11,8 +11,8 @@ The evolution of God
 
 [Nicholas Wade](http://tierneylab.blogs.nytimes.com/2009/07/02/the-non-evolution-of-god/?hp) is moderately skeptical of Robert Wright’s new book, [The Evolution of God](https://www.amazon.com/exec/obidos/ASIN/0316734918/geneexpressio-20/):
 
-> Robert Wright’s new book, “The Evolution of God,” has a provocative > title. But it’s a disappointment from the Darwinian perspective. He > doesn’t mean real evolution, just the development of ideas about > God.  
-> He argues that our morality has improved over the centuries and that > maybe the hand of the deity can be discerned in that progression, if > one looks hard enough. But he leaves fuzzy the matter of whether he > thinks a deity is there for real. There’s a moral order in history, he > says, which “makes it reasonable to suspect that humankind in some > sense has a ‘higher purpose.'” And maybe the source of that higher > purpose, he writes, “is something that qualifies for the label ‘god’ > in at least some sense of the word.”
+> Robert Wright’s new book, “The Evolution of God,” has a provocative title. But it’s a disappointment from the Darwinian perspective. He doesn’t mean real evolution, just the development of ideas about God.  
+> He argues that our morality has improved over the centuries and that > maybe the hand of the deity can be discerned in that progression, if > one looks hard enough. But he leaves fuzzy the matter of whether he > thinks a deity is there for real. There’s a moral order in history, he > says, which “makes it reasonable to suspect that humankind in some sense has a ‘higher purpose.'” And maybe the source of that higher purpose, he writes, “is something that qualifies for the label ‘god’ in at least some sense of the word.”
 
 Wade has his own book coming out in the fall, [The Faith Instinct: How Religion Evolved and Why It Endures](https://www.amazon.com/exec/obidos/ASIN/1594202281/geneexpressio-20).
 

@@ -25,8 +25,8 @@ It’s easy to see how this theoretical model can fit into a Diamond-style **Gun
 
 Galor and Moav’s paper, “Natural Selection and the Origin of Economic Growth,” was published in the Quarterly Journal of Economics (a top-5 econ journal) in 2004. A working paper version is [here](http://www.econ.yale.edu/seminars/macro/mac02/galor-020924.pdf). A less-technical review of the new field that Galor and his coauthors created, known as “Unified Growth Theory,” is [here](http://www.brown.edu/Departments/Economics/Papers/2004/2004-15_paper.pdf). Section 5.2 of the latter paper gives a quick overview of their theory. The closing paragraph of the review is worth citing:
 
-> The most promising and challenging future research in the field of > economic  
-> growth….would be the exploration of the interaction between human > evolution  
+> The most promising and challenging future research in the field of economic  
+> growth….would be the exploration of the interaction between human evolution  
 > and the process of economic development.
 
 ### Related Posts:

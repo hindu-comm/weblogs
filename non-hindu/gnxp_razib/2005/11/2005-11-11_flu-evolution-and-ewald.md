@@ -13,7 +13,8 @@ John Hawks has a [nice post up](http://johnhawks.net/weblog/topics/evolution/dis
 
 ### Related Posts:
 
-- [Flu - Remember
+- [Flu
+- Remember
   SARS?](https://www.gnxp.com/WordPress/2005/10/19/flu-remember-sars/) - [Avian Flu
   Hysteria](https://www.gnxp.com/WordPress/2005/10/18/avian-flu-hysteria/) - [Egypt going to kill its
   pigs?](https://www.gnxp.com/WordPress/2009/04/30/egypt-going-to-kill-its-pigs/) - [Less fear of the flu for

@@ -20,7 +20,7 @@ Been very busy of late.
 
 3\) **Comment of the week**, in response to [Why Melanesians are blonde resolved?](http://blogs.discovermagazine.com/gnxp/2011/08/why-melanesians-are-blonde-resolved/#comment-83975):
 
-> …Besides melianin production, tyrosinase (and hence Tyrp1) is at a key > step of catecholamine synthesis. And anything effecting > neurotransmitter synthesis has potential to significantly affect > fitness. Pleiotropy is a rule rather than exception.
+> …Besides melianin production, tyrosinase (and hence Tyrp1) is at a key step of catecholamine synthesis. And anything effecting neurotransmitter synthesis has potential to significantly affect fitness. Pleiotropy is a rule rather than exception.
 
 4\) And finally, your weekly **fluff fix**. I met this “Kitler” in Coeur d’Alene:
 
@@ -28,7 +28,8 @@ Been very busy of late.
 
 ### Related Posts:
 
-- [Friday Fluff - April 29th,
+- [Friday Fluff
+- April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff – January 28th,
   2011](https://www.gnxp.com/WordPress/2011/01/28/friday-fluff-january-28th-2011/) - [Friday Fluff - September 17th,
   2010](https://www.gnxp.com/WordPress/2010/09/17/friday-fluff-september-17th-2010/) - [Friday Fluff - April 15th,

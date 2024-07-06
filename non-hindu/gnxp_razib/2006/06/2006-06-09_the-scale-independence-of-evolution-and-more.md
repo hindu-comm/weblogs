@@ -13,7 +13,8 @@ In response to a few reflective posts of mine in regards to the â€œbig pictureâ€
 
 ### Related Posts:
 
-- [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/) - [Armand Leroi on human
+- [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/)
+- [Armand Leroi on human
   genetics](https://www.gnxp.com/WordPress/2007/11/18/armand-leroi-on-human-genetics/) - [A neo-neo-Darwinian
   Synthesis?](https://www.gnxp.com/WordPress/2005/12/27/a-neo-neo-darwinian-synthesis/) - [Flu, evolution and
   Ewald](https://www.gnxp.com/WordPress/2005/11/11/flu-evolution-and-ewald/) - [Am I evil?](https://www.gnxp.com/WordPress/2006/10/12/am-i-evil/) - [Cladistics & culture - Wilkins responds,

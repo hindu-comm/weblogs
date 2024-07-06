@@ -15,7 +15,7 @@ The basic concept is simple: during development (development *in utero*), the fe
 
 The main example given in the article concerns metabolic disease like type II diabetes and obesity. The argument goes like this: due to basic physics, a fetus can’t exceed a certain size (or couldn’t, before the C-section). Thus, in a nutrient-rich environment like we have today, where a fetus would “want” to get much bigger, the mother limits the environmental signal )so as not to have a giant child), leading to a fetus that “predicts” an environment much poorer than what really exists. Once developed, the grown individual is then predisposed to gain weight. The authors put is thusly:
 
-> We argue that it is this differential rate of change between the > limitations imposed by maternal constraint (which set the fetal > prediction) and the reality of the enriched modern postnatal > environment that has created the current high incidence of > cardiovascular and metabolic disease in humans.
+> We argue that it is this differential rate of change between the > limitations imposed by maternal constraint (which set the fetal prediction) and the reality of the enriched modern postnatal environment that has created the current high incidence of cardiovascular and metabolic disease in humans.
 
 This is a broader framework for what some have called the “[thrifty phenotype” hypothesis](http://www.springerlink.com/(ccdjpxijwbiojk3fsp4rcc55)/app/home/contribution.asp?referrer=parent&backto=issue,1,21;journal,208,461;linkingpublicationresults,1:100410,1) for the prevelance of type II diabetes, an alternative to the “[thrifty genotype](https://www.gnxp.com/blog/2006/05/fitness-and-disease-ii.php)” hypothesis.
 

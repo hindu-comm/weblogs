@@ -11,10 +11,10 @@ Bernie Madoff only squandered $21 billion
 
 In a [piece](http://www.nytimes.com/2009/10/31/business/31sec.html?hpw=&pagewanted=print) that outlines SEC follies:
 
-> In fact, Mr. Madoff said in the jailhouse interview that, on two > occasions, he was certain it was only a matter of days or even hours > before he would be caught. The first time, in 2004, he assumed the > investigators would check his clearinghouse account. He said he was > “astonished” that they did not, and theorized that they might have > decided against doing so because of his stature in the industry.  
-> “I’m very proud of the role I played in the industry,” he said. “Of > course I destroyed that now.”  
-> In Mr. Madoff’s second close call in 2006, investigators actually > asked for his clearinghouse account number on a Friday afternoon, but > then never followed up. He said he firmly expected the following > Monday would bring the curtain down on his crime. Again, nothing > happened. He recalled thinking at the time: “After all this, I got > away lucky.”  
-> His investors did not. According to estimates by a court-appointed > trustee who is liquidating his estate, **Mr. Madoff’s crime cost > thousands of victims at least \$21 billion in cash losses, part of the > \$64.8 billion in paper wealth that vanished when his scheme > collapsed.**
+> In fact, Mr. Madoff said in the jailhouse interview that, on two > occasions, he was certain it was only a matter of days or even hours > before he would be caught. The first time, in 2004, he assumed the investigators would check his clearinghouse account. He said he was “astonished” that they did not, and theorized that they might have decided against doing so because of his stature in the industry.  
+> “I’m very proud of the role I played in the industry,” he said. “Of course I destroyed that now.”  
+> In Mr. Madoff’s second close call in 2006, investigators actually > asked for his clearinghouse account number on a Friday afternoon, but > then never followed up. He said he firmly expected the following Monday would bring the curtain down on his crime. Again, nothing happened. He recalled thinking at the time: “After all this, I got away lucky.”  
+> His investors did not. According to estimates by a court-appointed > trustee who is liquidating his estate, **Mr. Madoff’s crime cost thousands of victims at least \$21 billion in cash losses, part of the \$64.8 billion in paper wealth that vanished when his scheme collapsed.**
 
 ### Related Posts:
 

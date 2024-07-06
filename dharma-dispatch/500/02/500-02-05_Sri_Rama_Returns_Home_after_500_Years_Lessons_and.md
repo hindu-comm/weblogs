@@ -95,13 +95,13 @@ NO SINGLE INCARNATION OF VISHNU has left behind such a pan-Indian *physical* imp
 
 More than anybody else, the vile cabal comprising the Congress, the Left and its cohorts unerringly understood this unifying power of Rama. This cabal became the greatest obstacle to the rebuilding of the Sri Rama Mandir. Their record shows that in their words, deeds and skulduggery, they proved worse than Timur, Babar and Aurangzeb put together. For nearly half a century, this gang had transformed the ancient *Tirthakshetra* and *Punyabhumi,* Ayodhya into an international crime scene. I vividly recall what a resident of Ayodhya had told me in 2019:
 
-> “All these people…(the then) government, bureaucrats, historians, > experts, secularists, film people… **all of them ganged up together > and painted all Hindus as criminals only because they worship Prabhu > Ram ji. In those days, if we said we were from Ayodhya, in some > circles, we were looked upon as if we were murderers**.”(Emphasis > added)
+> “All these people…(the then) government, bureaucrats, historians, > experts, secularists, film people… **all of them ganged up together > and painted all Hindus as criminals only because they worship Prabhu Ram ji. In those days, if we said we were from Ayodhya, in some circles, we were looked upon as if we were murderers**.”(Emphasis added)
 
 And a majority of them had Hindu names: Romila, Satish, Dwijendra Narayan, Bipan, Suraj, Dhaneshwar, Supriya, Sita Ram… This is perhaps the greatest tragedy of the whole issue.
 
 TO RETURN TO THE PARALLELS between Somanatha and Ayodhya, here is what the scholar, writer and statesman K.M. Munshi wrote. His words are embossed in gold:
 
-> **I cannot value freedom if it deprives us of the Bhagavad Gita or > uproots our millions from the faith with which they look upon our > temples** and thereby destroys the texture of our lives… **the > Somanath shrine once restored to a place of importance in our life > will give to our people a purer conception of religion and a more > vivid consciousness of our strength**. (Emphasis added)
+> **I cannot value freedom if it deprives us of the Bhagavad Gita or > uproots our millions from the faith with which they look upon our > temples** and thereby destroys the texture of our lives… **the Somanath shrine once restored to a place of importance in our life will give to our people a purer conception of religion and a more vivid consciousness of our strength**. (Emphasis added)
 
 As a culturally-rooted Hindu, Munshi had correctly grasped the intrinsic meaning of freedom: *Adhyatma* from which flows *Dharma*. Spiritual freedom is the only true freedom. 
 

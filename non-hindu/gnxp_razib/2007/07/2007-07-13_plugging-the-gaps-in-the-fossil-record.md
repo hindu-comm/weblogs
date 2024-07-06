@@ -11,7 +11,7 @@ Plugging the “gaps” in the fossil record
 
 [Ethiopia unveils new find of ancient fossils](http://africa.reuters.com/odd/news/usnL10754615.html):
 
-> Ethiopian scientists said on Tuesday they have discovered hominid > fossil fragments dating from between 3.5 million and 3.8 million years > ago in what could fill a crucial gap in the understanding of human > evolution.
+> Ethiopian scientists said on Tuesday they have discovered hominid fossil fragments dating from between 3.5 million and 3.8 million years ago in what could fill a crucial gap in the understanding of human evolution.
 
 ### Related Posts:
 

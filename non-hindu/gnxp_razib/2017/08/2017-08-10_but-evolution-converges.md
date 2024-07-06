@@ -15,10 +15,10 @@ But the scientist whose study of the formation that inspired Gould’s interpret
 
 This crossed my mind when reading Carl Zimmer’s new column, [When Dinosaurs Ruled the Earth, Mammals Took to the Skies](https://www.nytimes.com/2017/08/09/science/dinosaurs-flying-mammals-squirrels.html?rref=collection%2Fcolumn%2Fmatter&action=click&contentCollection=science&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection):
 
-> Today, placental mammals like flying squirrels and marsupials like > sugar gliders travel through the air from tree to tree. But > Volaticotherium belonged to a different lineage and independently > evolved the ability to glide. >
-> They were not the only mammals to do so, it turns out. Dr. Luo and his > colleagues have now discovered at least two other species of gliding > mammals from China, which they described in the journal Nature. >
+> Today, placental mammals like flying squirrels and marsupials like sugar gliders travel through the air from tree to tree. But Volaticotherium belonged to a different lineage and independently evolved the ability to glide. >
+> They were not the only mammals to do so, it turns out. Dr. Luo and his colleagues have now discovered at least two other species of gliding mammals from China, which they described in the journal Nature. >
 > … >
-> Dr. Meng said that the growing number of fossil gliders showed that > many different kinds of mammals followed the same evolutionary path. > “They did their own experiments,” he said.
+> Dr. Meng said that the growing number of fossil gliders showed that many different kinds of mammals followed the same evolutionary path. “They did their own experiments,” he said.
 
 This ultimately comes down to physics. There are only so many ways you can make an organize that flies or glides. Mammals come to the table with a general body plan, and that can be modified only so many different ways.
 

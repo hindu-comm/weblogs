@@ -17,7 +17,7 @@ Friday Fluff – November 12th, 2010
 
 3\. **Comment of the week**, in response to [Tariffs, not trade?](http://blogs.discovermagazine.com/gnxp/2010/11/tariffs-not-trade/#comment-49975):
 
-> You’re ignoring intergenerational wealth transfer. Grandparents don’t > like to see their grandchildren’s parents out of work, or forced to > move out of state to find work. They don’t like to see their former > workplaces (whether GM or “Main street” shops) “diminished” by > competition from cheap imports.
+> You’re ignoring intergenerational wealth transfer. Grandparents don’t > like to see their grandchildren’s parents out of work, or forced to move out of state to find work. They don’t like to see their former workplaces (whether GM or “Main street” shops) “diminished” by competition from cheap imports.
 
 4\) How do you feel about the fact that the *raison d’etre* of many public libraries is becoming their internet service?
 

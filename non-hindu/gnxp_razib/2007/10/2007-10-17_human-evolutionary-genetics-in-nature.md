@@ -13,7 +13,8 @@ In case you didn’t notice, the latest *Nature* is heavy on human evolutionary 
 
 ### Related Posts:
 
-- [For shame - "Evolutionary
+- [For shame
+- "Evolutionary
   Genetics"](https://www.gnxp.com/WordPress/2006/06/12/for-shame-evolutionary-genetics/) - [Evolutionary & ecological
   genetics](https://www.gnxp.com/WordPress/2006/03/03/evolutionary-ecological-genetics/) - [Thoughts on the \$1,000 genome, circa
   2007](https://www.gnxp.com/WordPress/2011/12/04/thoughts-on-the-1000-genome-circa-2007/) - [Nature Genetics

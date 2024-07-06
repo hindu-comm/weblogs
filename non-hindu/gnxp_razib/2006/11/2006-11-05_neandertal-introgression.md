@@ -11,8 +11,8 @@ Neandertal introgression
 
 [Hawks on Neandertal introgression:](http://johnhawks.net/weblog/reviews/early_modern/europe/pestera_muierii_2006.html)
 
-> The bottom line is that the bones are modern (i.e., not Neandertal), > but they include features that are common in Neandertals. Almost all > the other European bones of early Upper Paleolithic date also have > Neandertal features. The number and frequency of such features in this > earliest Upper Paleolithic sample are greater than in any later > sample.  
-> In other words, they look like they have genes from Neandertals. And > those genes declined in frequency or effect over time.
+> The bottom line is that the bones are modern (i.e., not Neandertal), > but they include features that are common in Neandertals. Almost all > the other European bones of early Upper Paleolithic date also have Neandertal features. The number and frequency of such features in this earliest Upper Paleolithic sample are greater than in any later sample.  
+> In other words, they look like they have genes from Neandertals. And those genes declined in frequency or effect over time.
 
 Info on specific genes coming soon….
 
@@ -32,8 +32,8 @@ Info on specific genes coming soon….
 
 [Hawks on Neandertal introgression:](http://johnhawks.net/weblog/reviews/early_modern/europe/pestera_muierii_2006.html)
 
-> The bottom line is that the bones are modern (i.e., not Neandertal), > but they include features that are common in Neandertals. Almost all > the other European bones of early Upper Paleolithic date also have > Neandertal features. The number and frequency of such features in this > earliest Upper Paleolithic sample are greater than in any later > sample. >
-> In other words, they look like they have genes from Neandertals. And > those genes declined in frequency or effect over time.
+> The bottom line is that the bones are modern (i.e., not Neandertal), > but they include features that are common in Neandertals. Almost all > the other European bones of early Upper Paleolithic date also have Neandertal features. The number and frequency of such features in this earliest Upper Paleolithic sample are greater than in any later sample. >
+> In other words, they look like they have genes from Neandertals. And those genes declined in frequency or effect over time.
 
 ### Related Posts:
 

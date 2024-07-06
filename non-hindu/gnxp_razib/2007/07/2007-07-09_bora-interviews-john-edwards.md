@@ -13,7 +13,8 @@ Check it, Bora [has an interview with John Edwards up](http://scienceblogs.com/c
 
 ### Related Posts:
 
-- [World](https://www.gnxp.com/WordPress/2008/08/11/world/) - [Bora around the
+- [World](https://www.gnxp.com/WordPress/2008/08/11/world/)
+- [Bora around the
   clock](https://www.gnxp.com/WordPress/2006/10/04/bora-around-the-clock/) - [Go Dennis Kucinich & Ron
   Paul!](https://www.gnxp.com/WordPress/2008/01/02/go-dennis-kucinich-ron-paul/) - [Off with her
   head!](https://www.gnxp.com/WordPress/2006/08/31/off-with-her-head/) - [10 Questions for A. W. F.

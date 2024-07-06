@@ -21,7 +21,8 @@ Since we’re focused on precision, what I mean by novel **refers to ideas and c
 
 ### Related Posts:
 
-- [Freedom](https://www.gnxp.com/WordPress/2006/02/09/freedom/) - [Google
+- [Freedom](https://www.gnxp.com/WordPress/2006/02/09/freedom/)
+- [Google
   Pundit](https://www.gnxp.com/WordPress/2008/06/06/google-pundit/) - [Back to the
   Future](https://www.gnxp.com/WordPress/2008/09/04/back-to-the-future/) - [The oldest science blog of
   all?](https://www.gnxp.com/WordPress/2010/08/24/the-oldest-science-blog-of-all/) - [Weird Chrome

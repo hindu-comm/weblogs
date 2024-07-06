@@ -11,7 +11,7 @@ A horrible "natural experiment"
 
 [Spanish Baby-Snatching Victims Seek Answers and Justice](http://www.spiegel.de/international/europe/spain-investigates-probe-hundreds-of-alleged-baby-thefts-a-844948.html):
 
-> Most of these stolen children were entrusted to the care of Catholics > loyal to the regime. **The aim behind this was to rid an entire people > of the “Marxist gene,”** at least according to the theories of Antonio > Vallejo-Nájera, the national psychiatrist of Francoist Spain, that > were widespread at the time.
+> Most of these stolen children were entrusted to the care of Catholics > loyal to the regime. **The aim behind this was to rid an entire people of the “Marxist gene,”** at least according to the theories of Antonio Vallejo-Nájera, the national psychiatrist of Francoist Spain, that were widespread at the time.
 
 More accurately it should be Marxist *meme*. But it brings up the question of looking into the correlation between the traits of biological parents and their long-lost children.
 

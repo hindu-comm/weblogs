@@ -21,8 +21,8 @@ They think they’re “punching-up” so it’s OK.
 
 Today people are surfacing this Vox/Recode piece again to settle some scores. So I reread the whole thing to be fair. This part shocked me:
 
-> “That’s like saying you can’t come in if you visited Chicago because > of the flu outbreak in New York City,” the employee told Recode \[find > someone to say what you want to say -Razib\]. >
-> Some \[“Some”, who? -Razib\] have criticized comparing the coronavirus > to the flu because it has a far higher fatality rate and that it > distracts from the new virus’s severity. But the fact remains that, so > far, the flu has impacted far more people \[No shit. Exponents. It’s > true. It’s disturbing -Razib\]. The CDC estimates that 10,000 people > have died from the flu this season, with some 19 million people in the > US having experienced flu illness. ***Data from the CDC suggests that > the flu is a greater threat to Americans than the coronavirus*.** Yet > unlike the flu, the coronavirus is new and not well understood, which > makes it especially scary to the public, including Silicon Valley’s > elite.
+> “That’s like saying you can’t come in if you visited Chicago because of the flu outbreak in New York City,” the employee told Recode \[find someone to say what you want to say -Razib\]. >
+> Some \[“Some”, who? -Razib\] have criticized comparing the coronavirus > to the flu because it has a far higher fatality rate and that it > distracts from the new virus’s severity. But the fact remains that, so > far, the flu has impacted far more people \[No shit. Exponents. It’s > true. It’s disturbing -Razib\]. The CDC estimates that 10,000 people > have died from the flu this season, with some 19 million people in the > US having experienced flu illness. ***Data from the CDC suggests that > the flu is a greater threat to Americans than the coronavirus*.** Yet unlike the flu, the coronavirus is new and not well understood, which makes it especially scary to the public, including Silicon Valley’s elite.
 
 What. The. Fuck.
 

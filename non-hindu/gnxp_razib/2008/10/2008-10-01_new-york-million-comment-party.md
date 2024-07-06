@@ -11,7 +11,7 @@ New York million comment party
 
 Hey, [check this out](http://scienceblogs.com/seed/2008/09/join_us_in_new_york_to_celebra.php):
 
-> We’ve rented out the top floor of the place for the event and will be > providing food and a bar tab up to about \$600. The Delancey will be > suspending their usual cover charge. In attendance will be > GrrlScientist, PhysioProf, Jake Young, Ginny Hughes, Erin Johnson, and > Logan Elsass, among others.
+> We’ve rented out the top floor of the place for the event and will be > providing food and a bar tab up to about \$600. The Delancey will be suspending their usual cover charge. In attendance will be GrrlScientist, PhysioProf, Jake Young, Ginny Hughes, Erin Johnson, and Logan Elsass, among others.
 
 Things that make you go hhhmm….
 

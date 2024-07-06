@@ -511,7 +511,7 @@ Afonso returned to Kollam on the same route he had come. Eight slaves carried th
 
 Bad luck. The *Jangade,* a ferocious Nair, had returned from Kanyakumari just in time. He was accompanied by a small force of other Nairs, all of them armed and furious and itching for vengeance. This is how Correa describes the encounter:
 
-> UNMINDFUL OF THEIR SMALL NUMBER, THEY ALL MADE A DARING ATTACK ON THE > PORTUGUESE AND DIED A HEROIC DEATH WITHOUT RETREATING EVEN AN INCH. In > spite of this misfortune, the native archers pursued the Portuguese on > their way through the woods and harassed them to the utmost. At last, > in the afternoon when they reached some open fields free from any > woods, the archers left them. (Capitalisation added)
+> UNMINDFUL OF THEIR SMALL NUMBER, THEY ALL MADE A DARING ATTACK ON THE > PORTUGUESE AND DIED A HEROIC DEATH WITHOUT RETREATING EVEN AN INCH. In > spite of this misfortune, the native archers pursued the Portuguese on their way through the woods and harassed them to the utmost. At last, in the afternoon when they reached some open fields free from any woods, the archers left them. (Capitalisation added)
 
 Further misfortune awaited them. In their frightened retreat from their Nair pursuers, they had lost direction and couldn’t find their way back to Kollam. After many hours of confused marching, they spotted an island from where they finally reached Kollam. Afonso lost much of the treasure that he had looted from the temple and publicly regretted that all that he now had was a “gold vessel worth about two thousand *Pardos*.”
 

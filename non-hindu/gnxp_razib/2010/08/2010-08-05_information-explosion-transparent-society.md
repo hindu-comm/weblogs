@@ -11,12 +11,12 @@ Information explosion & transparent society
 
 [No anonymity on future web says Google CEO](http://www.thinq.co.uk/2010/8/5/no-anonymity-future-web-says-google-ceo/):
 
-> “There was five exabytes \[five billion gigabytes\] of information > created between the dawn of civilization through 2003,” he said. “But > that much information is now created every two days, and the pace is > increasing… People aren’t ready for the technology revolution that’s > going to happen to them. >
+> “There was five exabytes \[five billion gigabytes\] of information > created between the dawn of civilization through 2003,” he said. “But that much information is now created every two days, and the pace is increasing… People aren’t ready for the technology revolution that’s going to happen to them. >
 > … >
-> The bulk of that information, Schmidt explained, comes in the form of > user-generated data. Every digital interaction throws up information, > he said. And that information can be used to minutely analyse and > predict human behaviour. >
+> The bulk of that information, Schmidt explained, comes in the form of user-generated data. Every digital interaction throws up information, he said. And that information can be used to minutely analyse and predict human behaviour. >
 > … >
-> Schmidt told delegates at the conference that the availability of > information increased convenience, and enabled society to more > effectively combat anti-social and criminal behaviour – but his talk > raised some unsettling issues. >
-> He said that addressing issues such as identity theft, for instance, > required **“true transparency and no anonymity”.**
+> Schmidt told delegates at the conference that the availability of information increased convenience, and enabled society to more effectively combat anti-social and criminal behaviour – but his talk raised some unsettling issues. >
+> He said that addressing issues such as identity theft, for instance, required **“true transparency and no anonymity”.**
 
 ### Related Posts:
 

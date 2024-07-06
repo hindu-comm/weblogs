@@ -29,8 +29,8 @@ My podcast this week, [American Civil War? Richard Hanania thinks it unlikely](h
 
 Mike Eisen weighs in:
 
-> There are good political/social reasons for wanting SARS-CoV-2 to have > entered humans directly from animals, and many pushing the WIV lab > accident hypothesis have nefarious intent. I am nonetheless surprised > at the degree of confidence people express in a natural origin. >
-> — Michael Eisen (@mbeisen) [January 16, > 2021](https://twitter.com/mbeisen/status/1350537123120570368?ref_src=twsrc%5Etfw)
+> There are good political/social reasons for wanting SARS-CoV-2 to have entered humans directly from animals, and many pushing the WIV lab accident hypothesis have nefarious intent. I am nonetheless surprised at the degree of confidence people express in a natural origin. >
+> — Michael Eisen (@mbeisen) [January 16, 2021](https://twitter.com/mbeisen/status/1350537123120570368?ref_src=twsrc%5Etfw)
 
 [Israel Vaccine Data Suggests Decrease in Covid-19 Infection Rate After First Dose](https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/israel-vaccine-data-suggests-decrease-in-covid-19-infection-rate-after-first-dose-11610658607).
 

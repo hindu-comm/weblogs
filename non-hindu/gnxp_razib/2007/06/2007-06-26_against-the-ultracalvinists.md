@@ -11,7 +11,7 @@ Against the Ultracalvinists
 
 Reguar GNXP reader Mencius has an [interesting post](https://unqualified-reservations.blogspot.com/2007/06/ultracalvinist-hypothesis-in.html) titled [The ultracalvinist hypothesis: in perspective](https://unqualified-reservations.blogspot.com/2007/06/ultracalvinist-hypothesis-in.html). Mencius is one of those rare bloggers who focuses on occasional essays where he develops his own ideas as opposed to a barrage of links and responses to the thoughts of others. Here’s his introduction:
 
-> The “ultracalvinist hypothesis” is the proposition that the > present-day belief system commonly called “progressive,” > “multiculturalist,” “universalist,” “liberal,” “politically correct,” > etc, is actually best considered as a sect of Christianity.
+> The “ultracalvinist hypothesis” is the proposition that the present-day belief system commonly called “progressive,” “multiculturalist,” “universalist,” “liberal,” “politically correct,” etc, is actually best considered as a sect of Christianity.
 
 **Update:** [Cryptocalvinism slight tweaked](https://unqualified-reservations.blogspot.com/2007/06/cryptocalvinism-slightly-tweaked.html), follow up post.
 

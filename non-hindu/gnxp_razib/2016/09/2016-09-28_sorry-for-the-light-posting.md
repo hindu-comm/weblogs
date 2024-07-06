@@ -13,7 +13,8 @@ Will be back soon.
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Open Thread,
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Open Thread,
   8/3/2014](https://www.gnxp.com/WordPress/2014/08/03/open-thread-832014/) - [Dan Davis prehistory YouTuber par
   excellence](https://www.gnxp.com/WordPress/2022/04/14/dan-davis-history-youtuber-par-excellence/) - [Most phenotypic evolution is
   neutral](https://www.gnxp.com/WordPress/2007/07/15/most-phenotypic-evolution-is-neutral/) - [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Do you

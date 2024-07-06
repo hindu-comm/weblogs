@@ -11,7 +11,7 @@ Risk taking 5-HTTLPR and DRD4
 
 [Genetic Determinants of Financial Risk Taking](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0004362):
 
-> Individuals vary in their willingness to take financial risks. Here we > show that variants of two genes that regulate dopamine and serotonin > neurotransmission and have been previously linked to emotional > behavior, anxiety and addiction (5-HTTLPR and DRD4) are significant > determinants of risk taking in investment decisions. We find that the > 5-HTTLPR s/s allele carriers take 28% less risk than those carrying > the s/l or l/l alleles of the gene. DRD4 7-repeat allele carriers take > 25% more risk than individuals without the 7-repeat allele. These > findings contribute to the emerging literature on the genetic > determinants of economic behavior.
+> Individuals vary in their willingness to take financial risks. Here we > show that variants of two genes that regulate dopamine and serotonin > neurotransmission and have been previously linked to emotional > behavior, anxiety and addiction (5-HTTLPR and DRD4) are significant > determinants of risk taking in investment decisions. We find that the > 5-HTTLPR s/s allele carriers take 28% less risk than those carrying > the s/l or l/l alleles of the gene. DRD4 7-repeat allele carriers take 25% more risk than individuals without the 7-repeat allele. These findings contribute to the emerging literature on the genetic determinants of economic behavior.
 
 I swear I blogged this before….
 

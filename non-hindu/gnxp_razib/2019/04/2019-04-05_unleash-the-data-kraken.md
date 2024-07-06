@@ -9,15 +9,16 @@ Source: [here](https://www.gnxp.com/WordPress/2019/04/05/unleash-the-data-kraken
 
 Unleash the data kraken!
 
-> The Reich lab has just released a single resource of all downloadable > genotypes of the world’s published ancient DNA data, including those > from our pre-prints! Check it out, we’re pretty excited about it. > <https://t.co/PecuH07guy> >
-> — Vagheesh Narasimhan (@vagheesh) [April 4, > 2019](https://twitter.com/vagheesh/status/1113869659659538433?ref_src=twsrc%5Etfw)
+> The Reich lab has just released a single resource of all downloadable genotypes of the world’s published ancient DNA data, including those from our pre-prints! Check it out, we’re pretty excited about it. <https://t.co/PecuH07guy> >
+> — Vagheesh Narasimhan (@vagheesh) [April 4, 2019](https://twitter.com/vagheesh/status/1113869659659538433?ref_src=twsrc%5Etfw)
 
   
 The Reich lab has done a mitzvah and released a huge merged dataset of their modern and [ancient populations in a big tarball](https://t.co/PecuH07guy). Actually, there are two files. One of them is a larger number of individuals with 600,000 SNPs (includes “Human Origins Array”) and the other has 1,200,000 SNPs, but fewer individuals. It is in EIGENSTRAT format.
 
 For the convenience of readers who are more comfortable in PLINK/PEDIGREE format, I’ve converted them, and replaced the family ID column with population labels. The links take to you a zip file that has the three files for the binary format.
 
-- [1240K+HO](https://www.dropbox.com/s/6vsihib6m462xqp/reichLabDataPlink.zip?dl=0) - [1240K](https://www.dropbox.com/s/te39gx4s447n8aa/1240K.zip?dl=0)
+- [1240K+HO](https://www.dropbox.com/s/6vsihib6m462xqp/reichLabDataPlink.zip?dl=0)
+- [1240K](https://www.dropbox.com/s/te39gx4s447n8aa/1240K.zip?dl=0)
 
 ### Related Posts:
 

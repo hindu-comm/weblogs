@@ -19,8 +19,8 @@ But once quinine, and machine guns, came into the equation the interior was acce
 
 Now, a new paper in [Cell](http://www.cell.com/cell/fulltext/S0092-8674(17)31008-5) **may herald the beginning of a great genomic scramble to understand the history of Africa**. Carl Zimmer in *The New York Times* has a piece up, [Clues to Africa’s Mysterious Past Found in Ancient Skeletons](https://www.nytimes.com/2017/09/21/science/africa-dna-migration.html?rref=collection%2Fcolumn%2Fmatter&action=click&contentCollection=science&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection). It begins:
 
-> It was only two years ago that researchers found the first ancient > human genome in Africa: a skeleton in a cave in Ethiopia yielded DNA > that turned out to be 4,500 years old. >
-> On Thursday, an international team of scientists reported that they > had recovered far older genes from bone fragments in Malawi dating > back 8,100 years. The researchers also retrieved DNA from 15 other > ancient people in eastern and southern Africa, and compared the genes > to those of living Africans.
+> It was only two years ago that researchers found the first ancient human genome in Africa: a skeleton in a cave in Ethiopia yielded DNA that turned out to be 4,500 years old. >
+> On Thursday, an international team of scientists reported that they > had recovered far older genes from bone fragments in Malawi dating back 8,100 years. The researchers also retrieved DNA from 15 other ancient people in eastern and southern Africa, and compared the genes to those of living Africans.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/africanCline.jpg?resize=300%2C347)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/africanCline.jpg?resize=300%2C347)](http://www.cell.com/cell/fulltext/S0092-8674(17)31008-5)The general results of the paper, Skoglund et.al’s[Reconstructing Prehistoric African Population Structure](http://www.cell.com/cell/fulltext/S0092-8674(17)31008-5), were presented at the SMBE meeting this summer. So in broad sketches I was not surprised, though the details require some digging into.
 

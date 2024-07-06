@@ -11,7 +11,7 @@ Who objects to painful tests on animals?
 
 In the year 2008 1,400 people were asked this question in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10):
 
-> Scientists should be allowed to do research that causes pain and > injury to animals like dogs and chimpanzees if it produces new > information about human health problems. (Do you strongly agree, > agree, disagree, or strongly disagree?)
+> Scientists should be allowed to do research that causes pain and injury to animals like dogs and chimpanzees if it produces new information about human health problems. (Do you strongly agree, agree, disagree, or strongly disagree?)
 
 (variable ANSCITST)
 

@@ -33,7 +33,9 @@ As for Harden’s project, I’m on the more pessimistic side because on social 
 
 ### Related Posts:
 
-- [Open Thread - 11/29/2021 - Gene
+- [Open Thread
+- 11/29/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/11/29/open-thread-11-29-2021-gene-expression/) - [Open Thread - 10/17/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/10/17/open-thread-10-17-2021-gene-expression/) - [Open Thread - 07/09/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/07/09/open-thread-07-09-2021-gene-expression/) - [Open Thread - 10/01/2021 - Gene

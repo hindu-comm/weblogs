@@ -19,7 +19,7 @@ Friday Fluff – March 4th, 2011
 3\) **Comment of the week**, in response to [“Are we still evolving”](http://blogs.discovermagazine.com/gnxp/2011/03/are-we-still-evolving/#comment-58703):
 
 > You know what would actually be a hoot for a documentary? >
-> What if we ran SNP chips on several people who study Neandertals, and > I tell them which Neandertal parts they have, all in front of the > cameras. >
+> What if we ran SNP chips on several people who study Neandertals, and I tell them which Neandertal parts they have, all in front of the cameras. >
 > That would be so much fun!
 
 4\) 4) And finally, your weekly **fluff fix**:  
@@ -27,7 +27,8 @@ Friday Fluff – March 4th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - March 18th,
+- [Friday Fluff
+- March 18th,
   2011](https://www.gnxp.com/WordPress/2011/03/18/friday-fluff-march-18th-2011/) - [Friday Fluff – February 4th,
   2011](https://www.gnxp.com/WordPress/2011/02/04/friday-fluff-february-4th-2011/) - [Friday Fluff - July 22nd,
   2011](https://www.gnxp.com/WordPress/2011/07/22/friday-fluff-july-22nd-2011/) - [Friday Fluff – February 18th,

@@ -11,7 +11,7 @@ What is a scientific or religious world view?
 
 Rik asks:
 
-> Off topic… what’s the best argument you’ve read, contra Dawkins and > Dennett, that Christianity is compatible with the scientific > worldview?
+> Off topic… what’s the best argument you’ve read, contra Dawkins and Dennett, that Christianity is compatible with the scientific worldview?
 
 I had to mull this over because I didn’t have a “pat” response. The short of it is that I like have my cake and eat it when it comes to science vs. religion, I think that both the confrontationists (Dawkins et. al.) and reconciliationists (Gould et. al.) go too far. Mostly, this is because I think that “religion” and to a lesser extent “science” can mean different things, and a subset of the pairwise associations will naturally contradict while others will not. To me, the “best” argument that Christianity and science do not necessarily conflict is Isaac Newton. In other words, it is an empirical observation, and I simply sidestep the issue of what science & religion are because it is generally agreed that Newton was both a scientist and a religionist (more broadly, many great scientists, such as R.A. Fisher and James Maxwell and Arthur Eddington were Christians).  
 But I’ll throw the question out to the readers: **what is a scientific and/or religious world view to you?**

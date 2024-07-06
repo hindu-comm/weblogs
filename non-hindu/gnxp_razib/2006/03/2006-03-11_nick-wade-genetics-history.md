@@ -11,11 +11,11 @@ Nick Wade, genetics & history
 
 Nick Wade’s [piece](http://www.nytimes.com/2006/03/12/weekinreview/12wade.html?ex=1299819600&en=4dfa8518bf6db229&ei=5090&partner=rssuserland&emc=rss) on history, genetics and human evolution is out. John McNeill says:
 
-> John McNeill, a historian at Georgetown University, said that “it > should be no surprise to anyone that human nature is not a constant” > and that selective pressures have probably been stronger in the last > 10,000 years than at any other epoch in human evolution. Genetic > information could therefore have a lot to contribute, although only a > minority of historians might make use of it, he said.
+> John McNeill, a historian at Georgetown University, said that “it > should be no surprise to anyone that human nature is not a constant” > and that selective pressures have probably been stronger in the last 10,000 years than at any other epoch in human evolution. Genetic information could therefore have a lot to contribute, although only a minority of historians might make use of it, he said.
 
 McNeill coauthored [The Human Web](https://www.amazon.com/exec/obidos/ASIN/039305179X/geneexpressio-20/) with his father a few years ago, and it was a pretty good interdisciplinary survey. I am not surprised that McNeill was the historian that Wade looked to for a quote. Money shot from Greg:
 
-> “Since it looks like there has been significant evolutionary change > over historical time, we’re going to have to rewrite every history > book ever written,” said Gregory Cochran, a population geneticist at > the University of Utah. “The distribution of genes influencing > relevant psychological traits must have been different in Rome than it > is today,” he added. “The past is not just another country but an > entirely different kind of people.”
+> “Since it looks like there has been significant evolutionary change > over historical time, we’re going to have to rewrite every history > book ever written,” said Gregory Cochran, a population geneticist at > the University of Utah. “The distribution of genes influencing relevant psychological traits must have been different in Rome than it is today,” he added. “The past is not just another country but an entirely different kind of people.”
 
 **Update:** So, [Brad DeLong](http://delong.typepad.com/sdj/2006/03/mutants.html) has a hyper-simplistic post where he “refutes” Greg and Pritchard’s contentions. Here is a case where simple models become very appealing when it supports your own prior beliefs…all of a sudden various interactional, environmental and other forces that buffet the frequency of one allele become irrelevant.
 

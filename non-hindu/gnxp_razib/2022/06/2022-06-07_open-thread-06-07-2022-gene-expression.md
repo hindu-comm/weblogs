@@ -25,7 +25,9 @@ Please check out my [Substack open thread](https://razib.substack.com/p/rkul-tim
 
 ### Related Posts:
 
-- [Open Thread - 9/15/2022 - Gene
+- [Open Thread
+- 9/15/2022
+- Gene
   Expression](https://www.gnxp.com/WordPress/2022/09/15/198923/) - [Open Thread - 11/16/2020 - Gene
   Expression](https://www.gnxp.com/WordPress/2020/11/16/open-thread-11-16-2020-gene-expression/) - [Open Thread - Late
   Feb.](https://www.gnxp.com/WordPress/2021/02/18/open-thread-late-feb/) - [Open Thread - 12/26/2021 - Gene

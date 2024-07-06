@@ -15,11 +15,11 @@ For those unaware of this, 454 Life Sciences is currently in the process of sequ
 
 Some quotes from those who don’t like this:
 
-> “This is almost like recreational genomics, or the molecular > equivalent of a whole-body scan, for those who have boundless > curiosity and cash,” says Kathy Hudson, director of Johns Hopkins > University’s Genetics and Public Policy Centre in Washington DC. “It > will be sort of a sad statement if that’s what we end up getting out > of the Human Genome Project.” >
+> “This is almost like recreational genomics, or the molecular > equivalent of a whole-body scan, for those who have boundless > curiosity and cash,” says Kathy Hudson, director of Johns Hopkins University’s Genetics and Public Policy Centre in Washington DC. “It will be sort of a sad statement if that’s what we end up getting out of the Human Genome Project.” >
 > .. >
-> “If all the sequences obtained over the next year or two are done on > scientists with strong financial positions, that will send a message > quite contrary to what the genome project aimed to achieve,” says > Francis Collins, head of the US National Human Genome Research > Institute (NHGRI) in Bethesda, Maryland. >
+> “If all the sequences obtained over the next year or two are done on > scientists with strong financial positions, that will send a message quite contrary to what the genome project aimed to achieve,” says Francis Collins, head of the US National Human Genome Research Institute (NHGRI) in Bethesda, Maryland. >
 > … >
-> “I’d hate the availability of single-genome sequencing to be based > purely on money and fame,” says Michael Ashburner, a geneticist at the > University of Cambridge, UK. “Just doing famous or very rich people is > bloody tacky, actually.”
+> “I’d hate the availability of single-genome sequencing to be based purely on money and fame,” says Michael Ashburner, a geneticist at the University of Cambridge, UK. “Just doing famous or very rich people is bloody tacky, actually.”
 
 I’ll grant that celebrating sequencing the genomes of a bunch of celebrities is pretty tacky. Fair enough. But these critcs are entirely missing the point.
 

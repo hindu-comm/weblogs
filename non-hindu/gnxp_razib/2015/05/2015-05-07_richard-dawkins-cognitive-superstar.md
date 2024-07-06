@@ -13,7 +13,8 @@ The below is \~2 minutes from [Julia Galef](http://juliagalef.com/). Not really 
 
 ### Related Posts:
 
-- [Bro off](https://www.gnxp.com/WordPress/2015/08/28/bro-off/) - [To Richard Dawkins: Fear of Death is
+- [Bro off](https://www.gnxp.com/WordPress/2015/08/28/bro-off/)
+- [To Richard Dawkins: Fear of Death is
   Adaptive](https://www.gnxp.com/WordPress/2009/04/01/to-richard-dawkins-fear-of-death-is-adaptive/) - [Richard Dawkins, The Economist &
   bylines](https://www.gnxp.com/WordPress/2009/07/23/richard-dawkins-the-economist-bylines/) - [Richard Dawkins
   retires](https://www.gnxp.com/WordPress/2008/02/11/richard-dawkins-retires/) - [Dawkins

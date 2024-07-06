@@ -11,7 +11,7 @@ What Makes Us Human
 
 [What Makes Us Human?](http://dsc.discovery.com/tvlistings/episode.jsp?episode=1&cpi=25446&gid=0&channel=DSC), on *The Discovery Channel*:
 
-> Back in the 19th century, scientists studying microcephaly – a > condition that severely stunts brain growth – were convinced that they > had found an evolutionary missing link. >
+> Back in the 19th century, scientists studying microcephaly – a condition that severely stunts brain growth – were convinced that they had found an evolutionary missing link. >
 > DEC 16 2006  
 > @ 08:00 PM >
 > DEC 17 2006  

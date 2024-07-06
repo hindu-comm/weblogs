@@ -21,7 +21,8 @@ Daily Data Dump – Thursday
 
 ### Related Posts:
 
-- [Complex traits & evolution - follow
+- [Complex traits & evolution
+- follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [Epigenetics, what it is, and
   ain't](https://www.gnxp.com/WordPress/2022/12/23/epigenetics-what-it-is-and-aint/) - [Daily Data Dump -
   Thursday](https://www.gnxp.com/WordPress/2010/06/17/daily-data-dump-thursday-4/) - [Selection does a

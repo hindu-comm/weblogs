@@ -11,7 +11,7 @@ Who's afraid of genetic testing?
 
 The [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) has a variable, GENEGOO2, with an N \~ 2,500, that asks:
 
-> Some people say that genetic testing may cause trouble. Others think > it is a wonderful medical advance. Based on what you know, do you > think genetic testing will do more harm than good or more good than > harm?
+> Some people say that genetic testing may cause trouble. Others think it is a wonderful medical advance. Based on what you know, do you think genetic testing will do more harm than good or more good than harm?
 
 Below the fold are charts which show attitudes based on politics, highest degree attained, vocab score, attitude toward Bible, sex, religion, income, socioeconomic index and race.
 

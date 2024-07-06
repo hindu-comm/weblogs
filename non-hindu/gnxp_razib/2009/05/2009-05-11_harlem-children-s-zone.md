@@ -11,8 +11,8 @@ Harlem Children's Zone
 
 Via [Steve Sailer](https://isteve.blogspot.com/2009/05/david-brooks-on-harlem-miracle.html) and [Half Sigma](http://www.halfsigma.com/2009/05/a-miracle-in-harlem-not-likely.html), we have this New York Times [op-ed](http://www.nytimes.com/2009/05/08/opinion/08brooks.html) by David Brooks on work ([pdf](http://www.economics.harvard.edu/faculty/fryer/files/hcz%204.15.2009.pdf)) by Will Dobbie and [Roland Fryer](http://www.economics.harvard.edu/faculty/fryer/papers_fryer) on the Harlem Children’s Zone (HCZ). Brooks writes:
 
-> The fight against poverty produces great programs but disappointing > results. You go visit an inner-city school, job-training program or > community youth center and you meet incredible people doing wonderful > things. Then you look at the results from the serious evaluations and > you find that these inspiring places are only producing incremental > gains. >
-> That’s why I was startled when I received an e-mail message from > Roland Fryer, a meticulous Harvard economist. It included this > sentence: “The attached study has changed my life as a scientist.”
+> The fight against poverty produces great programs but disappointing > results. You go visit an inner-city school, job-training program or > community youth center and you meet incredible people doing wonderful things. Then you look at the results from the serious evaluations and you find that these inspiring places are only producing incremental gains. >
+> That’s why I was startled when I received an e-mail message from Roland Fryer, a meticulous Harvard economist. It included this sentence: “The attached study has changed my life as a scientist.”
 
 No one else seems to have linked to (read?) the study itself. Here are the key graphics:
 
@@ -22,13 +22,13 @@ Extremely impressive, if true.
 
 Note, however, that there is no way (that I could find) to tell from the paper just how many observations make up the blue and red dots for 8th grade mean math scores in Fig 3A. Key paragraph:
 
-> We use two separate statistical strategies to account for the fact > that students who attend HCZ schools are not likely to be a random > sample. First, we exploit the fact that HCZ charter schools are > required to select students by lottery when the number of applicants > exceeds the number of available slots for admission. In this scenario, > the treatment group is composed of students who are lottery winners > and the control group consists of students who are lottery losers. > This allows us to provide a set of causal estimates of the effect of > being offered admission into the HCZ charter schools on a range of > outcomes, including test scores, attendance, and grade completion.
+> We use two separate statistical strategies to account for the fact > that students who attend HCZ schools are not likely to be a random > sample. First, we exploit the fact that HCZ charter schools are > required to select students by lottery when the number of applicants > exceeds the number of available slots for admission. In this scenario, > the treatment group is composed of students who are lottery winners > and the control group consists of students who are lottery losers. This allows us to provide a set of causal estimates of the effect of being offered admission into the HCZ charter schools on a range of outcomes, including test scores, attendance, and grade completion.
 
 Using a lottery as a method of randomly assigning students to treatment and control groups is far-and-away the best method for estimating causal effects. Their second statistical strategy, instrumental variables, is much less reliable. If the authors were merely reporting some regression-based estimates, few would take the results that seriously. Teasing out causal effects from a regression is very hard. That the authors do not use a propensity score approach (at least as a check against their estimates) makes me doubt their statistical chops.
 
 Anyway, the lottery aspect is key. To their credit, the authors are upfront in admitting that:
 
-> \[T\]he HCZ middle school was not significantly oversubscribed in > their first year of operation, and the HCZ elementary schools have > never been significantly oversubscribed, making it more difficult to > estimate the effect of being offered admission for these groups.
+> \[T\]he HCZ middle school was not significantly oversubscribed in their first year of operation, and the HCZ elementary schools have never been significantly oversubscribed, making it more difficult to estimate the effect of being offered admission for these groups.
 
 I think that the first year of operation refers to 2005, so the number of observations in the 8th grade loser category might be very low. Still, the authors report that “The effect of receiving a winning lottery number is generally larger for students in the 2006 cohort, though we only observe sixth and seventh grade scores for these students and so decided not to show it in our figures.” So, I expect that the 8th grade numbers reported here are not a fluke.
 

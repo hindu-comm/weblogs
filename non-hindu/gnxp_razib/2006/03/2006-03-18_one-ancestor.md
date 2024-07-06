@@ -11,7 +11,7 @@ One ancestor
 
 Apropos of our conversation in the [post below](https://www.gnxp.com/blog/2006/03/were-all-jesus-children-some-more-so.php) in regards to proving recent common ancestry, [Breakpoint Cloning and Haplotype Analysis Indicate a Single Origin of the Common Inv(10)(p11.2q21.2) Mutation among Northern Europeans](http://www.journals.uchicago.edu/AJHG/journal/issues/v78n5/43238/brief/43238.abstract.html):
 
-> The pericentric…mutation has been frequently identified in cytogenetic > laboratories, is phenotypically silent, and is considered to be a > polymorphic variant…All 20 apparently unrelated inv(10) families in > our study had identical breakpoints, and detailed haplotype analysis > showed that the inversions were identical by descent. Thus, although > considered a common variant, inv(10)(p11.2q21.2) has a single > ancestral founder among northern Europeans.
+> The pericentric…mutation has been frequently identified in cytogenetic > laboratories, is phenotypically silent, and is considered to be a > polymorphic variant…All 20 apparently unrelated inv(10) families in > our study had identical breakpoints, and detailed haplotype analysis showed that the inversions were identical by descent. Thus, although considered a common variant, inv(10)(p11.2q21.2) has a single ancestral founder among northern Europeans.
 
 ### Related Posts:
 

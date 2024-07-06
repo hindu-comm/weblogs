@@ -12,12 +12,12 @@ Popularism is probably stillborn
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2021/11/eoregon.jpg?resize=600%2C400&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2021/11/eoregon.jpg?resize=600%2C400&ssl=1)](https://www.nytimes.com/2021/11/06/us/rural-vote-democrats-virginia.html)  
 [Democrats Thought They Bottomed Out in Rural, White America. It Wasn’t the Bottom](https://www.nytimes.com/2021/11/06/us/rural-vote-democrats-virginia.html):
 
-> Republicans have never had a demographic stronghold as reliable as > Black voters have been for Democrats, a group that delivers as many as > nine out of 10 votes for the party. But some Democratic leaders are > now sounding the alarm: What if rural, white voters — of which there > are many — start voting that reliably Republican? >
+> Republicans have never had a demographic stronghold as reliable as > Black voters have been for Democrats, a group that delivers as many as nine out of 10 votes for the party. But some Democratic leaders are now sounding the alarm: What if rural, white voters — of which there are many — start voting that reliably Republican? >
 > … >
-> “In rural America the bottom for the Democratic Party is zero,” said > Ethan Winter, a senior analyst at the group Data for Progress, who > studies voter behavior. “I am serious about this.” >
+> “In rural America the bottom for the Democratic Party is zero,” said Ethan Winter, a senior analyst at the group Data for Progress, who studies voter behavior. “I am serious about this.” >
 > … >
-> Rural, white voters in the past in the North had historic ties to the > labor movement and an affinity for the Democratic Party. Increasingly, > Mr. Winter said, those voters are more akin culturally to their > neighbors to the South than to their local cities and suburbs. >
-> Tom Bonier, one of the Democratic Party’s leading experts on voter > data and the chief executive of TargetSmart, agreed. “You look at > places in the Deep South where the white, rural vote is approaching 90 > percent Republican,” he said. “That’s absolutely the concern.”
+> Rural, white voters in the past in the North had historic ties to the labor movement and an affinity for the Democratic Party. Increasingly, Mr. Winter said, those voters are more akin culturally to their neighbors to the South than to their local cities and suburbs. >
+> Tom Bonier, one of the Democratic Party’s leading experts on voter data and the chief executive of TargetSmart, agreed. “You look at places in the Deep South where the white, rural vote is approaching 90 percent Republican,” he said. “That’s absolutely the concern.”
 
 I actually looked up the Presidential year results from the county I grew up in eastern Oregon, and it doesn’t seem that the Democrats have really eroded much. They still get about 25-30% of the vote every election, which was the case a generation ago. So that suggests that the Deep South model does not hold everywhere, though it may apply to the Border States.
 

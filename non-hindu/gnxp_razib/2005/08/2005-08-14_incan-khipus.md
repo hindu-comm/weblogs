@@ -11,8 +11,8 @@ Incan Khipus
 
 [Chris Correa](http://www.chriscorrea.com/2005/incan-khipus/) has an interesting post on Incans Khipus.
 
-> Incans probably used knotted strings to communicate numerical values. > The precise meaning of these strings, known as khipus or quipus, have > been a mystery for quite some time and some people speculate that they > donâ€™t represent numbers at all. However, the strings are of > particular interest to many anthropologists because they are the only > known form of written communication developed by the Inca. >
-> Harvard anthropologist Gary Urton has been trying to untangle the > meanings behind the knots for quite some time. With the help of a > centralized database and a mathematician, he believes he has finally > deciphered the code.
+> Incans probably used knotted strings to communicate numerical values. > The precise meaning of these strings, known as khipus or quipus, have > been a mystery for quite some time and some people speculate that they donâ€™t represent numbers at all. However, the strings are of particular interest to many anthropologists because they are the only known form of written communication developed by the Inca. >
+> Harvard anthropologist Gary Urton has been trying to untangle the meanings behind the knots for quite some time. With the help of a centralized database and a mathematician, he believes he has finally deciphered the code.
 
 Chris has the rest of the story.
 

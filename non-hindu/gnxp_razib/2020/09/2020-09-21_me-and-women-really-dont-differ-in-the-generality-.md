@@ -19,7 +19,8 @@ The correlation between the two series over the years is 0.83. So your eyes aren
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Women care more about abortion
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Women care more about abortion
   rights](https://www.gnxp.com/WordPress/2008/08/29/women-care-more-about-abortion-rights/) - [Men have been more pro-choice over the past 30
   years](https://www.gnxp.com/WordPress/2014/12/23/men-have-been-more-pro-choice-over-the-past-30-years/) - [Latest op-ed in The New York
   Times](https://www.gnxp.com/WordPress/2015/01/02/latest-op-ed-in-the-new-york-times/) - [Americans don't like the word

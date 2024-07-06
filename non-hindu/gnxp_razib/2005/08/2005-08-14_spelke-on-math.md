@@ -39,7 +39,8 @@ American high school boys *show greater variability on the quantitative SAT*, **
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [The Prehistoric Origins of European Economic
+- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/)
+- [The Prehistoric Origins of European Economic
   Integration](https://www.gnxp.com/WordPress/2008/03/08/the-prehistoric-origins-of-european-economic-integration/) - [The next step for sex differences in mental
   abilities](https://www.gnxp.com/WordPress/2006/08/18/the-next-step-for-sex-differences-in-mental-abilities/) - [Men, women,
   math....](https://www.gnxp.com/WordPress/2005/07/18/men-women-math/) - [Il Principe as a evolutionary

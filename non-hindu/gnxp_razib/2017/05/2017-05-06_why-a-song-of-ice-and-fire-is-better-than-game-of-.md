@@ -13,7 +13,7 @@ Why A Song of Ice and Fire is more definitive than A Game of Thrones
 
 But the author dismisses an important point rather flippantly:
 
-> For the last few years being able to say **“Sure, yes, but the books > are better”** has provided a nice little dopamine rush. But beyond > that thrill, what Game of Thrones fans really want is more Game of > Thrones. And right now, their best bet for getting that is on premium > cable.
+> For the last few years being able to say **“Sure, yes, but the books > are better”** has provided a nice little dopamine rush. But beyond that thrill, what Game of Thrones fans really want is more Game of Thrones. And right now, their best bet for getting that is on premium cable.
 
 Earlier there are comparisons made to the books which inspired [Jaws](https://www.amazon.com/exec/obidos/ASIN/B008IU9KQO/geneexpressio-20), [The Godfather](https://www.amazon.com/exec/obidos/ASIN/B0022Q8CSC/geneexpressio-20), [The Shining](https://www.amazon.com/exec/obidos/ASIN/B001BANK32/geneexpressio-20), and [Blade Runner](https://www.amazon.com/exec/obidos/ASIN/B000SEGTI0/geneexpressio-20). These are all cases where films overshadowed the literary works which preceded them.
 

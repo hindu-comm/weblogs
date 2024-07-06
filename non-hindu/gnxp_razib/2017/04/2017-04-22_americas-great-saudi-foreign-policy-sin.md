@@ -15,7 +15,7 @@ America’s great Saudi foreign policy sin
 
 This is not the 1980s. Or the early 2000s. The President of the United States is a nominal Christian at best. Maggie Haberman, who covers Trump for *The New York States* had [this to say](http://www.npr.org/templates/transcript/transcript.php?storyId=524873266) about his relationship to Mike Pence:
 
-> …When Trump and Pence were first getting to know each other, the one > thing that Trump had relayed to people, according to several advisers > I spoke to at the time, **was that he was a little uncomfortable with > how frequently Pence prayed.** And Pence is fairly devout about his > praying. Trump is not a serious churchgoer and in an anomaly for a > presidential candidate, very rarely went to church services when he > was running….
+> …When Trump and Pence were first getting to know each other, the one > thing that Trump had relayed to people, according to several advisers > I spoke to at the time, **was that he was a little uncomfortable with > how frequently Pence prayed.** And Pence is fairly devout about his praying. Trump is not a serious churchgoer and in an anomaly for a presidential candidate, very rarely went to church services when he was running….
 
 We live in an age of [massive secularization](https://fivethirtyeight.com/features/dont-bet-on-the-emergence-of-a-religious-left/), even on the conservative Right. Ergo, the rise of a post-religious Right predicated on ethnic identity, whether implicitly or explicitly. Though Donald Trump and the Republicans in Congress are going to rollback a few of the victories of the cultural Left, there is no likelihood of turning back the clock on the biggest winof the last generation for that camp, gay marriage.
 
@@ -36,7 +36,7 @@ Many are aware that Saudi Arabia is complicit in [de facto slavery](http://www.t
 
 Saudi Arabia’s racism against Asian workers, especially, non-Muslims, has been extensively documented in the press. It’s a problem it shares with its neighbors. ButSaudi Arabia is also a racist society toward its own citizens. An [article](http://foreignpolicy.com/2013/03/15/the-execution-of-the-saudi-seven/) in *Foreign Policy* mentions this in passing:
 
-> …Judges must all espouse the government-approved Salafi version of > Islam. **Blacks, who make up around 10 percent of the population, are > banned from judgeships** — as are women and Muslims who observe a > different version of the faith — because the monarchy’s religious > tradition still views blacks as slaves, other Muslims as heretics, and > women as half human….
+> …Judges must all espouse the government-approved Salafi version of > Islam. **Blacks, who make up around 10 percent of the population, are > banned from judgeships** — as are women and Muslims who observe a different version of the faith — because the monarchy’s religious tradition still views blacks as slaves, other Muslims as heretics, and women as half human….
 
 The concept of [kufu or equality of status](https://my-sweet-islam.blogspot.com/2011/06/question-of-compatibility-or-kufu.html) in Muslim marriages is apparently used to [prevent marriages](https://www.facebook.com/SaudiGazette/posts/10151925164781024) of Saudis with African (ergo, slave) ancestry with those of pure tribal ancestry.
 
@@ -56,7 +56,7 @@ The Saudi state is not a conventional nation-state, it is a family owned corpora
 
 But it is not just the ruling caste, but the courtiers as well who have been captured, [How Saudi Arabia captured Washington](http://www.vox.com/2016/3/21/11275354/saudi-arabia-gulf-washington):
 
-> This contributes, they said, to a practice in Washington whereby the > bad behavior of other Middle East states — **particularly US > adversaries such as Iran** — receive heavy attention and debate. But > bad behavior by Gulf allies — human rights abuses, opposition to > democracy movements, foreign policy actions that often undercut US > interests — while far from ignored are discussed with less frequency > and vigor.
+> This contributes, they said, to a practice in Washington whereby the > bad behavior of other Middle East states — **particularly US > adversaries such as Iran** — receive heavy attention and debate. But > bad behavior by Gulf allies — human rights abuses, opposition to democracy movements, foreign policy actions that often undercut US interests — while far from ignored are discussed with less frequency and vigor.
 
 In other words, one explanation for the robustness of the American-Saudi relationship may not simply be geopolitical alignment of interests, but the powerful personal incentives that the American ruling class and *intelligensia* have been given by the Saudi ruling elite. This is a business opportunity that the American ruling class can’t overlook.
 

@@ -13,7 +13,7 @@ I take a guilty pleasure in reading the work of creationists and intelligent des
 
 Still, seeing Intelligent Design poster boy Bill Dembski in action is quite something. Here is [an exchange over bird evolution](http://www.uncommondescent.com/index.php/archives/1227) over at his Blog, “Uncommon descent”:
 
-> You’re mis-construing the importance. It’s not “we’ve found a missing > link, therefore evolution is proved”, but rather “we’ve found a fossil > ancestor that tells us something interesting about how birds evolved”. >
+> You’re mis-construing the importance. It’s not “we’ve found a missing link, therefore evolution is proved”, but rather “we’ve found a fossil ancestor that tells us something interesting about how birds evolved”. >
 > There’s a good write-up on Living the Scientific Life. Bob
 
 Here is the answer from the always-friendly management:

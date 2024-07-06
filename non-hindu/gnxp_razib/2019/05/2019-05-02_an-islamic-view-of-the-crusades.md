@@ -23,7 +23,8 @@ The world of Islam and the world of Westen Christianity view each other as exoti
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Inside the Dar
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Inside the Dar
   al-Islam](https://www.gnxp.com/WordPress/2014/08/08/inside-the-dar-al-islam/) - [Open Thread,
   04/28/2019](https://www.gnxp.com/WordPress/2019/04/28/open-thread-04-28-2019/) - [Measuring the age of white
   supremacy](https://www.gnxp.com/WordPress/2008/05/29/measuring-the-age-of-white-supremacy/) - [History repeating

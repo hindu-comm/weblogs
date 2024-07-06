@@ -11,7 +11,7 @@ People who spank are aggressive
 
 A [follow up to the previous post](https://www.gnxp.com/blog/2009/09/behavior-is-heritable-you-know.php). I keep seeing the research from this paper in the press, [Spanking detrimental to children, study says](http://www.cnn.com/2009/HEALTH/09/16/spanking.children.parenting/index.html):
 
-> Berlin and colleagues found that children who were spanked as > 1-year-olds tended to behave more aggressively at age 2, and did not > perform as well as other children on a test measuring thinking skills > at age 3. The study is published in the journal Child Development.
+> Berlin and colleagues found that children who were spanked as 1-year-olds tended to behave more aggressively at age 2, and did not perform as well as other children on a test measuring thinking skills at age 3. The study is published in the journal Child Development.
 
 The idea is that spanking has negative consequences, making children less intelligent and more aggressive. But what do you think? My thought was that there are two other reasons of possible interest:
 

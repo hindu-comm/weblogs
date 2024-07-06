@@ -11,7 +11,7 @@ The dog as rat
 
 Speaking of Richard Dawkins, he’s back to [science](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/book_extracts/article6808173.ece), in this case an excerpt from his new book, [The Greatest Show on Earth: The Evidence for Evolution](https://www.amazon.com/exec/obidos/ASIN/1416594787/geneexpressio-20/):
 
-> The evolution of the dog, then, if Coppinger is right, was not just a > matter of artificial selection, but a complicated mixture of natural > selection (which predominated in the early stages of domestication) > and artificial selection (which came to the fore more recently). The > transition would have been seamless, which again goes to emphasise the > similarity — as Darwin recognised — between artificial and natural > selection.
+> The evolution of the dog, then, if Coppinger is right, was not just a > matter of artificial selection, but a complicated mixture of natural > selection (which predominated in the early stages of domestication) > and artificial selection (which came to the fore more recently). The transition would have been seamless, which again goes to emphasise the similarity — as Darwin recognised — between artificial and natural selection.
 
 Nothing new in the article, which summarizes a lot of the fascinating new research on the evolution & genetics of domestication, particularly in the context of wolves & dogs. But Dawkins is a fluid writer who can weave in scientific data and theory to generate effortless narrative flow. Here lay his comparative advantage.
 

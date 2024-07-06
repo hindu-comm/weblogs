@@ -11,7 +11,7 @@ Who doesn’t like Genetically Modified Organisms?
 
 I was looking at poll results for Genetically Modified Organisms (GMO). Internationally the results are all over the place, but within nations the data suggest a pretty strong notional resistance to “playing God,” with a rank order of aversion spanning plants (least averse) to humans (most averse). There is some mild positive correlation between education and trust/acceptance of GMOs, and also some between irreligion and attitudes towards cloning and such for animals. The [The Pew Initiative On Food And Biotechnology](http://www.pewtrusts.org/uploadedFiles/wwwpewtrustsorg/Public_Opinion/Food_and_Biotechnology/2006summary.pdf) has some good data. For example:
 
-> Religious attendance also has a significant effect on comfort with > animal cloning, with less religious Americans expressing greater > comfort and more religious Americans harboring greater reservations. > Nearly one third (30%) of those who attend religious services a few > times a year or less are comfortable with animal cloning and just 54% > are uncomfortable; those who attend once a month exhibit somewhat less > comfort, at 21%, and great discomfort, at 64%; among somewhat frequent > churchgoers, just 12% are comfortable while 76% are uncomfortable; and > among weekly church attendees, 17% are comfortable with cloning and > 70% are uncomfortable.
+> Religious attendance also has a significant effect on comfort with > animal cloning, with less religious Americans expressing greater > comfort and more religious Americans harboring greater reservations. > Nearly one third (30%) of those who attend religious services a few > times a year or less are comfortable with animal cloning and just 54% > are uncomfortable; those who attend once a month exhibit somewhat less > comfort, at 21%, and great discomfort, at 64%; among somewhat frequent churchgoers, just 12% are comfortable while 76% are uncomfortable; and among weekly church attendees, 17% are comfortable with cloning and 70% are uncomfortable.
 
 Note that though the less religious are *more* comfortable they are mostly still uncomfortable. Additionally, there seems to be a consistent pattern where women are more suspicious of GMOs than men:  
 ![menwomenGMO.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/menwomenGMO.jpg?resize=500%2C377)![menwomenGMO.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/menwomenGMO.jpg?resize=500%2C377)  
@@ -23,9 +23,9 @@ Below is a chart I made that illustrates the attitude toward the benefits of GMO
 ![gmochart.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/gmochart.jpg?w=500)![gmochart.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/gmochart.jpg?w=500)  
 **Update:** Assman sayeth:
 
-> I checked Kendall’s tau for the correlation between GDP PPP and % > Trusting GMOs, looking at the rich and the poor separately. Within the > 12 countries labeled rich, the correlation is +0.62 (p = 0.007, > two-tailed). For the 22 countries labeled poor, the correlation is > -0.51 (p = 0.001, two-tailed). So, what you said.  
-> However, I looked at all 34 countries together — the correlation is > -0.46 (p = 0.0002, two-tailed). So “poorer = more trusting” holds at > the global level too.  
-> You can correct the p-values for testing 3 hypotheses, and they’re > still significant.
+> I checked Kendall’s tau for the correlation between GDP PPP and % > Trusting GMOs, looking at the rich and the poor separately. Within the 12 countries labeled rich, the correlation is +0.62 (p = 0.007, two-tailed). For the 22 countries labeled poor, the correlation is -0.51 (p = 0.001, two-tailed). So, what you said.  
+> However, I looked at all 34 countries together — the correlation is -0.46 (p = 0.0002, two-tailed). So “poorer = more trusting” holds at the global level too.  
+> You can correct the p-values for testing 3 hypotheses, and they’re still significant.
 
 ### Related Posts:
 

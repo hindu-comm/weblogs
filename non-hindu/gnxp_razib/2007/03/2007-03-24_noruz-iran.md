@@ -11,7 +11,7 @@ Noruz & Iran
 
 A few weeks ago we discussed the extent of non-Islamic cultural practices in Iran, in particular, Noruz, the Zoroastrian New Year. In an [article](http://www.time.com/time/world/article/0,8599,1601890,00.html) about the Kurds and Noruz here is a tidbit of interest:
 
-> The holiday is a much bigger deal next door in Iran – ancient Persia > is the birthplace of the Zoroastrian religion, and the government > practically shuts down for weeks. The Kurds are given fewer days off > and hold fewer rituals, but Noruz remains an important holiday, in > part because it is used to commemorate one of the founding myths of > Kurdish identity.
+> The holiday is a much bigger deal next door in Iran – ancient Persia > is the birthplace of the Zoroastrian religion, and the government > practically shuts down for weeks. The Kurds are given fewer days off and hold fewer rituals, but Noruz remains an important holiday, in part because it is used to commemorate one of the founding myths of Kurdish identity.
 
 ### Related Posts:
 

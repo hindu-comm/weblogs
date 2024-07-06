@@ -17,7 +17,9 @@ History does not repeat. Villains and heroes are not reborn. And yet the dramati
 
 ### Related Posts:
 
-- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/) - [Power of the media - to make you look like a
+- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/)
+- [Power of the media
+- to make you look like a
   schmuck](https://www.gnxp.com/WordPress/2005/11/19/power-of-the-media-to-make-you-look-like-a-schmuck/) - [Means vs. Ends &
   morality](https://www.gnxp.com/WordPress/2006/09/11/means-vs-ends-morality/) - [Nation
   Building](https://www.gnxp.com/WordPress/2006/06/19/nation-building/) - [How Blaze Pizza could really be more like

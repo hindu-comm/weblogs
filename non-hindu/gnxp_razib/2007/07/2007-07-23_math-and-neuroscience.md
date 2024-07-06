@@ -11,7 +11,7 @@ Math and neuroscience
 
 I’m assuming that readers who know some neuroscience can make more sense of this paper, [Monotonic Coding of Numerosity in Macaque Lateral Intraparietal Area](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0050208) ([Neurons for Numerosity: As Quantities Increase, So Does the Neuronal Response](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0050226), a summary for the general public). But this part of the abstract is what caught my eye:
 
-> The responses of these neurons resemble the outputs of “accumulator > neurons” postulated in computational models of number processing. > Numerical accumulator neurons may provide inputs to neurons encoding > specific cardinal values, such as “4,” that have been described in > previous work. Our findings may **explain the frequent *association* > of visuospatial and numerical deficits** following damage to parietal > cortex in humans.
+> The responses of these neurons resemble the outputs of “accumulator > neurons” postulated in computational models of number processing. > Numerical accumulator neurons may provide inputs to neurons encoding > specific cardinal values, such as “4,” that have been described in previous work. Our findings may **explain the frequent *association* of visuospatial and numerical deficits** following damage to parietal cortex in humans.
 
 I’m sure most of you know know in psychometrics there is a correlation between visuospatial & mathematical aptitude. There is one group though which decouples these two traits: Ashkenazi Jews (who are weak on visuospatial tests in relation to their mathematical aptitude).
 

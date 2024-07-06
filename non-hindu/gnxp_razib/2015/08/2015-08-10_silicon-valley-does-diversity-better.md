@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2015/08/10/silicon-valley-does-div
 
 Silicon Valley Does “Diversity” Better
 
-> Here’s a good argument for immigration: the CEOs of two of US’s three > biggest tech companies were born in India. >
-> — Nicholas Thompson (@nxthompson) [August 10, > 2015](https://twitter.com/nxthompson/status/630856735092293632)
+> Here’s a good argument for immigration: the CEOs of two of US’s three biggest tech companies were born in India. >
+> — Nicholas Thompson (@nxthompson) [August 10, 2015](https://twitter.com/nxthompson/status/630856735092293632)
 
 As you can see from the Tweet above some people are trying to score political points about off [Sundar Pichai](http://time.com/3991954/google-alphabet-sundar-pichai-ceo/) being tapped to lead Google. I joked in response that these CEOs “sure don’t look like America.” Excessive focus on whom/whom issues inevitably gets knotty and difficult to navigate. I don’t personally care who makes good products as long as the products are good. But reading a *Time* magazine piece, [Everything You Need to Know About the New CEO of Google](http://time.com/3991954/google-alphabet-sundar-pichai-ceo/), made me reconsider an assumption I’d had. The articleends: “He’ll join Microsoft chief Satya Nadella as one of the **few** minority CEOs in Silicon Valley.” This is a pretty strong assertion. My ***impression*** is that at large firms like Apple the management does tend to be white males, while the engineering talent is Asian or Asian American to a much higher degree. But I’d never bothered to check.
 

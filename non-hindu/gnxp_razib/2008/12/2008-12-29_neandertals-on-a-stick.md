@@ -11,11 +11,11 @@ Neandertals on a stick
 
 [Neanderthal Extinction by Competitive Exclusion](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0003972):
 
-> Despite a long history of investigation, considerable debate revolves > around whether Neanderthals became extinct because of climate change > or competition with anatomically modern humans (AMH).  
+> Despite a long history of investigation, considerable debate revolves around whether Neanderthals became extinct because of climate change or competition with anatomically modern humans (AMH).  
 > …  
-> We apply a new methodology integrating archaeological and > chronological data with high-resolution paleoclimatic simulations to > define eco-cultural niches associated with Neanderthal and AMH > adaptive systems during alternating cold and mild phases of Marine > Isotope Stage 3. Our results indicate that Neanderthals and AMH > exploited similar niches, and may have continued to do so in the > absence of contact.  
+> We apply a new methodology integrating archaeological and > chronological data with high-resolution paleoclimatic simulations to > define eco-cultural niches associated with Neanderthal and AMH > adaptive systems during alternating cold and mild phases of Marine Isotope Stage 3. Our results indicate that Neanderthals and AMH exploited similar niches, and may have continued to do so in the absence of contact.  
 > …  
-> The southerly contraction of Neanderthal range in southwestern Europe > during Greenland Interstadial 8 was not due to climate change or a > change in adaptation, **but rather concurrent AMH \[anatomically > modern human\] geographic expansion appears to have produced > competition that led to Neanderthal extinction.**
+> The southerly contraction of Neanderthal range in southwestern Europe > during Greenland Interstadial 8 was not due to climate change or a change in adaptation, **but rather concurrent AMH \[anatomically modern human\] geographic expansion appears to have produced competition that led to Neanderthal extinction.**
 
 The main problem I’ve always had with “the climate did it!” explanations for megafaunal extinctions is that it isn’t as if the climate didn’t vary quite a bit across the Pleistocene. For example, the warmest phase of the [Eemian interglacial](https://en.wikipedia.org/wiki/Eemian_Stage) 125,000 years ago saw forests in what is today tundra in northern Norway. So there was a different parameter on the scene more recently which did the big wildlife, including Neandertals. in….  
 More readable [ScienceDaily](http://www.sciencedaily.com/releases/2008/12/081229105039.htm) summary….

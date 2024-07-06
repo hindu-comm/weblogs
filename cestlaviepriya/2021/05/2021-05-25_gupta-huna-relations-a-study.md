@@ -43,8 +43,8 @@ On the other hand, a new set of people called the Chionites had started exerting
 
 Due to his wars with these Kushans (shahs) and the Chionites, Shāpur II was able to extend his direct control towards the southern territories formerly under the Kushānshāhs and he reached the Indus. Therefore, around this period the Sāsānian coinage starts to appear in Taxila. The Sāsānian control on these territories was maintained even under Shāpūr III (reigned 383-388 CE) but the control was far from absolute because the Chionite-Kidarites were seriously challenging them.
 
-> **The control of Gandhara by Shāpur** **II, known through the issue of > his copper denomination there, appears to be a side effect of the > increased Sāsānian** **interest in the east. Al-Tabari reports that > Shāpur** **made many cities in Sajistan (Sakistan) and Sind (Sindh) > and brought to his capital a doctor from India whose knowledge was > later spread throughout the **Sāsānian** realm (al-Tabari 845).** >
-> **K. Rezakhani, “From Kushan to the Western Turks”, King of the Seven > Climes.**
+> **The control of Gandhara by Shāpur** **II, known through the issue of > his copper denomination there, appears to be a side effect of the > increased Sāsānian** **interest in the east. Al-Tabari reports that Shāpur** **made many cities in Sajistan (Sakistan) and Sind (Sindh) and brought to his capital a doctor from India whose knowledge was later spread throughout the **Sāsānian** realm (al-Tabari 845).** >
+> **K. Rezakhani, “From Kushan to the Western Turks”, King of the Seven Climes.**
 
 These Chinoites or Xionites (one of the earliest Hunnic people) and among them, the first appearance of the tribe of Kidarites is suggested in the middle of the fourth century CE. They were to play a major role in the Indian sub-continent. The first reason for trying to understand the sequence of these events in the non-Indian world is that a lot of new research has been done by scholars pertaining to the Hunnic world in Asia of this period which involves physical evidence like artifacts and numismatics that shed new light on the subject. The second reason is that we can thus use this evidence with which we are less familiar with to corroborate and compare the evidence and information which is available pertaining to the Indian sequence of events of the time.
 
@@ -86,7 +86,7 @@ Whether the concentration on internal problems was a cause of the Kidarite-Persi
 
 But the Persian fortunes seems to have given away from now on. During the reign of Yazdigird II (r. 438-457) there were numerous struggles with the Huns. As Bakker mentions on the authority of the Armenian historian Elishē, Yazdigird attacked the Kidarite ‘Kushans’ in 449/50 CE and emerged victorious but in the next conflict when the Persian monarch attacked the Kidarites c. 453-54 CE, the result was the opposite – the Sāsānians ended up being tributary to the Kidara king.¹² The response of the Kidarite ruler to this Persian attack was this:
 
-> **…For although he was unable to face him in a pitched battle, > nonetheless, falling on his rear he inflicted many losses falling on > the king’s army. And he pressed, assailed them so hard that, > overcoming them with a small number of troops, he turned them back. In > hot pursuit, he plundered many royal provinces, and he he himself > \[the king of the Kushans\] returned safely to his own country.** >
+> **…For although he was unable to face him in a pitched battle, > nonetheless, falling on his rear he inflicted many losses falling on > the king’s army. And he pressed, assailed them so hard that, overcoming them with a small number of troops, he turned them back. In hot pursuit, he plundered many royal provinces, and he he himself \[the king of the Kushans\] returned safely to his own country.** >
 > **Hans T. Bakker, The Alkhan: A Hunnic People in South Asia.**
 
 We also learn that in the aforementioned struggle, rather than fighting the Persians in opposing battle lines, the Hunnic Kidarites unexpectedly fell upon each wing and put many Persians to sword and dissappeared unharmed. They continued these tactics for many days and “exhausted the Persian army.” The next Persian king Hormazd III was defeated by his own brother Peroz who with the help of Hephthalites was able to secure the Sāsānian throne. Motivated by the Hephthalite help, Peroz (r. 459-484) now decided to secure the eastern frontier of his empire and hostilities commenced with the Kidarites in 464-65 CE. As per Priscus (eastern Roman diplomat and Greek historian), the Kidarite king at this point was Kunkhas (κουνχας).¹³ Peroz saw some serious setbacks in these early conflicts but conclusively defeated the Kidarite King (possibly Kunkhas) in 467 CE and Kunkhas fled from his capital Balaam (possibly Balkh) and apparently took refuge in Gandhāra.¹⁴ Peroz also issued some gold coins from Balkh. The hegemony of Kidarites in this region was substantially reduced with the loss of Bactria and they had only Gandhāra (Swat) under their control.¹⁵ The later development in Persian fortunes in the eastern regions will be dealt in the section below concerning Hephthalites.
@@ -263,7 +263,8 @@ The Indian north west thus, had been a hotbed for further invasions into mainlan
 
 **Photo Credits:**
 
--   a, b, c, d, f, g, h: WikiMedia Commons. -   e: Hans T. Bakker, *The Alkhan: A Hunnic People in South Asia.* p.
+-   a, b, c, d, f, g, h: WikiMedia Commons.
+-   e: Hans T. Bakker, *The Alkhan: A Hunnic People in South Asia.* p.
     21
 
 <div id="atatags-370373-65f428456bc91">

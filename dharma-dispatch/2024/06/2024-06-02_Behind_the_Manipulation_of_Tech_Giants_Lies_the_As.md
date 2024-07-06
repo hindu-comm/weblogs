@@ -529,7 +529,7 @@ I will hazard a conjecture and I don’t mind being wrong. One reason why there 
 
 All of this boils down to the same underlying Asuric phenomenon: the capacity of the West to inflict organized violence on a global scale is unparalleled and they continue to do it with zero qualms to their conscience. One is reminded of the iconic Dharampal’s words in this context.
 
-> There is a fundamental difference between the educated and scholarly > class of India and its Western counterpart. **This class of India is > not endowed with heartlessness**…However, this class of Westerners > doesn't shy away from inflicting violence. **Even after killing crores > of his own people, Stalin remained akin to a Sthitaprajna, equanimous. > What Stalin committed in Russia was as well committed anywhere in > Europe with equal ease.**
+> There is a fundamental difference between the educated and scholarly > class of India and its Western counterpart. **This class of India is > not endowed with heartlessness**…However, this class of Westerners > doesn't shy away from inflicting violence. **Even after killing crores of his own people, Stalin remained akin to a Sthitaprajna, equanimous. What Stalin committed in Russia was as well committed anywhere in Europe with equal ease.**
 
 To put this in another fashion, there is no justification that cannot be invented to soothe away any such qualms of conscience. In the colonial era, this justification of the West’s enjoyment of the fruits of its brazen, genocidal violence included hypocrisies like “civilizing mission,” and “white man’s burden.” Today, it is “bringing democracy,” as if context-free and culture-free democracy is a universal good which is universally valid.
 

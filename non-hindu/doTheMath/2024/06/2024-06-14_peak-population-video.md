@@ -21,7 +21,7 @@ I put together a short (13.5 minute) video to synthesize the main points from my
 
 <div class="player-unavailable">
 
-# An error occurred.
+## An error occurred.
 
 <div class="submessage">
 

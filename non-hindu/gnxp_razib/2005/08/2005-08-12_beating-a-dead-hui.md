@@ -11,11 +11,11 @@ Beating a dead Hui
 
 [A genome-based study of the Muslim Hui community and the Han population of Liaoning Province](http://findarticles.com/p/articles/mi_qa3659/is_200112/ai_n9017785/print):
 
-> …**The contrast in the patterns of autosomal and Y-chromosome > diversity of the two communities was obvious**. Analysis of molecular > variance showed that only 4.6% of total autosomal molecular variance > was due to differences between the Hui and Han. The comparable value > for Y-chromosome haplotype distributions of 14.0% indicated that the > Hui and Han of Liaoning have separate paternal genetic histories….
+> …**The contrast in the patterns of autosomal and Y-chromosome > diversity of the two communities was obvious**. Analysis of molecular > variance showed that only 4.6% of total autosomal molecular variance was due to differences between the Hui and Han. The comparable value for Y-chromosome haplotype distributions of 14.0% indicated that the Hui and Han of Liaoning have separate paternal genetic histories….
 
 Also, [China’s hidden Muslims \[Hui\] find sense of belief](http://findarticles.com/p/articles/mi_qn4158/is_19960414/ai_n14049790):
 
-> In the 1980s, thousands of labourers went to work in North Yemen, > Egypt, Abu Dhabi and Kuwait. The contracts have since dried up, but > for some workers the experience has given them a deeper sense of their > Muslim identity. “After I came back from Abu Dhabi, I could tell > people in Ningxia **more about Islam in other countries**,”….
+> In the 1980s, thousands of labourers went to work in North Yemen, > Egypt, Abu Dhabi and Kuwait. The contracts have since dried up, but for some workers the experience has given them a deeper sense of their Muslim identity. “After I came back from Abu Dhabi, I could tell people in Ningxia **more about Islam in other countries**,”….
 
 This is a cog in my repeated contention: cut off from outside influences social norms can engage in a random walk, or adapt to local conditions. When a group is connected to the outside world, and feels a kinship to other groups who it notionally identifies with, they become part of a wider network of social norms and this often brings them “back in line” to median “orthodoxy.” The article makes it clear that Chinese openness to the world after 1979, and travel and interaction in the form of Haj and labor, have brought the Hui a sense of awareness as Muslims. No doubt their reform of religious practice will be justified on scriptural grounds, but, I strongly suspect that they will simply be emulating the norms in other countries and rationalizing post facto.1
 

@@ -22,7 +22,8 @@ Daily Data Dump – Wednesday
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Gayrabia](https://www.gnxp.com/WordPress/2007/04/07/gayrabia/) - [Daily Data Dump -
   Thursday](https://www.gnxp.com/WordPress/2010/10/14/daily-data-dump-thursday-20/) - [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/) - [Gay sheep, forbidden
   science?](https://www.gnxp.com/WordPress/2006/12/31/gay-sheep-forbidden-science/) - [Gay

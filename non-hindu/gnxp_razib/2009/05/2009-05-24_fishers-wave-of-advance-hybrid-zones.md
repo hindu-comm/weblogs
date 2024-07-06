@@ -11,8 +11,8 @@ Fisher's Wave of Advance & Hybrid Zones
 
 [Waves of stationary shape](https://www.gnxp.com/blog/2009/05/waves-of-stationary-shape.php):
 
-> Over at Scienceblogs, people are talking about waves. Of course, > everyone thinks that waves are in the domain of physics, and people > always forget about one of my favorite subjects: waves of advance. Way > back in the day, RA Fisher wondered what might happen if genes had to > spread not just locally but across space, and he published his > findings in a landmark article called The Wave of Advance of > Advantageous Genes. This paper was not just important for its > contributions to population genetics, but because of fundamental > contributions to applied mathematics. As far as I can tell, Fisher and > the great mathematician Kolmogorov published similar findings on this > same subject in the same year. To that end, these kinds of waves of > advance are often referred to as “Fisherian” waves.  
-> What was Fisher’s model, what did he find, and how has it been > extended?
+> Over at Scienceblogs, people are talking about waves. Of course, > everyone thinks that waves are in the domain of physics, and people > always forget about one of my favorite subjects: waves of advance. Way > back in the day, RA Fisher wondered what might happen if genes had to > spread not just locally but across space, and he published his > findings in a landmark article called The Wave of Advance of > Advantageous Genes. This paper was not just important for its > contributions to population genetics, but because of fundamental > contributions to applied mathematics. As far as I can tell, Fisher and the great mathematician Kolmogorov published similar findings on this same subject in the same year. To that end, these kinds of waves of advance are often referred to as “Fisherian” waves.  
+> What was Fisher’s model, what did he find, and how has it been extended?
 
 ### Related Posts:
 

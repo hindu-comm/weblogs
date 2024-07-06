@@ -52,7 +52,7 @@ Sneha Jyothi.
 
 ## Confirmation
 
--   -   A Google investigation reveals that founder TG Murthy’s son is
+-   A Google investigation reveals that founder TG Murthy’s son is
         named T.M David (from [this
         article](https://i.imgur.com/ANrha9a.jpg)). Interestingly, his
         mother is named Sarasamma.

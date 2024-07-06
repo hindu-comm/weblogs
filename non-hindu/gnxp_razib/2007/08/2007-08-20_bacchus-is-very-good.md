@@ -18,7 +18,8 @@ Check it out. And ask for ***hot*** sauce!
 
 ### Related Posts:
 
-- [Day 7 of hot sauce - Mad Dog's Revenge Habanero &
+- [Day 7 of hot sauce
+- Mad Dog's Revenge Habanero &
   Chile…](https://www.gnxp.com/WordPress/2007/04/03/day-7-of-hot-sauce-mad-dogs-revenge-habanero-chile-extract/) - [Day 2 of hot sauce - Ass in
   Space](https://www.gnxp.com/WordPress/2007/03/28/day-2-of-hot-sauce-ass-in-space/) - [7 days of hot
   sauce](https://www.gnxp.com/WordPress/2007/03/26/7-days-of-hot-sauce/) - [Day 1 of hot sauce - Dave's Insanity Hot

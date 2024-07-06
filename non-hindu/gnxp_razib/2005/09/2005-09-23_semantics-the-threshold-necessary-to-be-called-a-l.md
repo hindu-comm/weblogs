@@ -11,10 +11,10 @@ Semantics – The Threshold Necessary To Be Called A Liar
 
 For the last few days I’ve been involved in an ongoing debate with [Steve Verdon](http://www.steveverdon.com/archives/economics/002331.html) and one of his readers, Victor, on whether President Clinton is a bald-faced liar for making this [statement](http://news.yahoo.com/s/afp/20050918/ts_alt_afp/usweatheriraqeconomy;_ylt=At9cCMPjqC5q0.32Pp_bo7gDW7oF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl):
 
-> On the US budget, Clinton warned that the federal deficit may be > coming untenable, driven by foreign wars, the post-hurricane recovery > programme and tax cuts that benefitted just the richest one percent of > the US population, himself included. >
-> “What Americans need to understand is that … every single day of the > year, our government goes into the market and borrows money from other > countries to finance Iraq, Afghanistan, Katrina, and our tax cuts,” he > said. >
-> **“We have never done this before. Never in the history of our > republic have we ever financed a conflict, military conflict, by > borrowing money from somewhere else.”**–emphasis added >
-> Clinton added: “We depend on Japan, China, the United Kingdom, Saudi > Arabia, and Korea primarily to basically loan us money every day of > the year to cover my tax cut and these conflicts and Katrina. I don’t > think it makes any sense.”
+> On the US budget, Clinton warned that the federal deficit may be coming untenable, driven by foreign wars, the post-hurricane recovery programme and tax cuts that benefitted just the richest one percent of the US population, himself included. >
+> “What Americans need to understand is that … every single day of the year, our government goes into the market and borrows money from other countries to finance Iraq, Afghanistan, Katrina, and our tax cuts,” he said. >
+> **“We have never done this before. Never in the history of our republic have we ever financed a conflict, military conflict, by borrowing money from somewhere else.”**–emphasis added >
+> Clinton added: “We depend on Japan, China, the United Kingdom, Saudi Arabia, and Korea primarily to basically loan us money every day of the year to cover my tax cut and these conflicts and Katrina. I don’t think it makes any sense.”
 
 After a few rounds of back and forth it looks like we’ve adopted two differing interpretations of what “financed” means. Steve and Victor argue from the default position that there have always been **significant** foreign debt holders of US Securities, and their default hypothesis must be refuted entirely by accounting for 100% of the debt sourcing. To account for less than 100% automatically implies foreign contribution, and even an insignificant foreign contribution, falsifies President Clinton’s statement. I’m interpreting “financed” to mean the costs of the entire endeavor, not simply a minor part of the endeavor. This seems to be the more common usage, such as “I financed my house with a \$600,000 mortgage from the bank” being a true statement even though I received a \$5000 loan from my father-in-law in order to help with the downpayment.
 
@@ -22,10 +22,10 @@ Let’s get into the details of the argument. Steve points to WWII as the case t
 
 Aside from sticking to the position that any amount of foreign borrowing, no matter how minor, invalidates President Clinton’s position, Steve insists that the likely points of foreign capital were Canada and Britain. I think that contention unlikely, considering they had entered into WWII two years before the US and each were on a massive war footing with their own War Bond Drives, and in the case of Britain, were already receiving aid from the US in the form of [Lend-Lease](http://www.spartacus.schoolnet.co.uk/2WWlendlease.htm):
 
-> On 11th March 1941, Congress passed the Lend-Lease Act. The > legislation gave President Franklin D. Roosevelt the powers to sell, > transfer, exchange, lend equipment to any country to help it defend > itself against the Axis powers. >
-> A sum of \$50 billion was appropriated by Congress for Lend-Lease. The > money went to 38 different countries **with Britain receiving over > \$31 billion.** Over the next few years the British government repaid > \$650 million of this sum. >
+> On 11th March 1941, Congress passed the Lend-Lease Act. The legislation gave President Franklin D. Roosevelt the powers to sell, transfer, exchange, lend equipment to any country to help it defend itself against the Axis powers. >
+> A sum of \$50 billion was appropriated by Congress for Lend-Lease. The money went to 38 different countries **with Britain receiving over \$31 billion.** Over the next few years the British government repaid \$650 million of this sum. >
 > \[ . . . . \] >
-> Britain was in pawn, at the very time that Attlee was fighting to > exert some influence on the postwar European settlement. The only > solution was to negotiate a huge American loan, the repayment and > servicing of which placed a burden on Britain’s balance of payments > right into the twenty-first century.
+> Britain was in pawn, at the very time that Attlee was fighting to > exert some influence on the postwar European settlement. The only solution was to negotiate a huge American loan, the repayment and servicing of which placed a burden on Britain’s balance of payments right into the twenty-first century.
 
 The rest of the Commonwealth joined with Britain in fighting against the Axis powers before the US joined the war. Their economies were also set on a war footing, which included [extraordinary measures](http://www.anzacday.org.au/history/ww2/homefront/overview.html), such as found in Australia:
 

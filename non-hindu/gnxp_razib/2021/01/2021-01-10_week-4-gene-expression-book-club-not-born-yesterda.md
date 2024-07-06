@@ -21,7 +21,8 @@ Of course, there are cases when collective intuition can lead one astray. The au
 
 ### Related Posts:
 
-- [Week 6, Gene Expression Book Club - Not Born
+- [Week 6, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/17/week-6-gene-expression-book-club-not-born-yesterday/) - [Week 1, Gene Expression book
   club](https://www.gnxp.com/WordPress/2020/10/10/week-1-gene-expression-book-club/) - [Week 5, Gene Expression Book Club - Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/16/week-5-gene-expression-book-club-not-born-yesterday/) - [Gene Expression Book Club - it's off to the

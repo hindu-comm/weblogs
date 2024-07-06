@@ -11,7 +11,7 @@ Tolkien’s heir, R.I.P.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/silmar.jpeg?resize=196%2C257&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/silmar.jpeg?resize=196%2C257&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B007978PGI/geneexpressio-20)[Christopher Tolkien, Keeper of His Father’s Legacy, Dies at 95](https://www.nytimes.com/2020/01/16/books/christopher-tolkien-dead.html):
 
-> Christopher Tolkien, the son of the writer J.R.R. Tolkien, who guarded > his legacy and brought forth monumental posthumous works, like “The > Silmarillion,” based on his father’s writings, died on Wednesday in > Provence, France. He was 95.
+> Christopher Tolkien, the son of the writer J.R.R. Tolkien, who guarded his legacy and brought forth monumental posthumous works, like “The Silmarillion,” based on his father’s writings, died on Wednesday in Provence, France. He was 95.
 
 The younger Tolkien became notable in his own right over time. J. R. R. Tolkien died in 1973. Over the last 50 years, it is his son, Christopher, who carried the torch for the vision of the father. Though the older Tolkien would have been notable and known as a minor historical figure without his son’s efforts, **I think it is highly likely that he would be a much more marginal figure by now.** We would probably remember J. R. R. Tolkien mostly as one of C. S. Lewis’ acquaintances, who also wrote an expansive fantasy series that achieved some success after World War 2.
 

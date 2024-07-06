@@ -13,7 +13,8 @@ Living Neandertals?
 
 ### Related Posts:
 
-- [Ötzi - more Neandertal than the average
+- [Ötzi
+- more Neandertal than the average
   bear](https://www.gnxp.com/WordPress/2012/08/15/otzi-more-neandertal-than-the-average-bear/) - [Neandertal
   mtDNA](https://www.gnxp.com/WordPress/2006/06/05/neandertal-mtdna/) - [Neandertal
   introgression](https://www.gnxp.com/WordPress/2006/11/05/neandertal-introgression/) - [Neandertals & introgression - the past

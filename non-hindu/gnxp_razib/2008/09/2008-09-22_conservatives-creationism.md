@@ -24,7 +24,8 @@ So it seems the issue is more religion than politics; specifically, a form of Pr
 
 ### Related Posts:
 
-- [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/) - [Creationism and Its Critics in
+- [Eugenics](https://www.gnxp.com/WordPress/2006/10/31/eugenics/)
+- [Creationism and Its Critics in
   Antiquity](https://www.gnxp.com/WordPress/2008/02/14/creationism-and-its-critics-in-antiquity/) - [Creationism among doctors and the general
   public](https://www.gnxp.com/WordPress/2009/02/16/creationism-among-doctors-and-the-general-public/) - [Creationism
   evolves!](https://www.gnxp.com/WordPress/2011/09/05/creationism-evolves/) - [What Copernican

@@ -11,7 +11,7 @@ The Neandertal-modern cultural synthesis
 
 [![220px-Pointes_de_chatelperron](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/09/220px-Pointes_de_chatelperron.jpg?resize=220%2C190)![220px-Pointes_de_chatelperron](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/09/220px-Pointes_de_chatelperron.jpg?resize=220%2C190)](https://en.wikipedia.org/wiki/Ch%C3%A2telperronian)A new paper in *PNAS*, [Palaeoproteomic evidence identifies archaic hominins associated with the Châtelperronian at the Grotte du Renne](http://www.pnas.org/content/early/2016/09/13/1605834113.abstract), weighs in the question of whether the [Châtelperronian](https://en.wikipedia.org/wiki/Ch%C3%A2telperronian) culture were Neandertals, with an answer in the affirmative in this case:
 
-> The displacement of Neandertals by anatomically modern humans (AMHs) > 50,000–40,000 y ago in Europe has considerable biological and > behavioral implications. The Châtelperronian at the Grotte du Renne > (France) takes a central role in models explaining the transition, but > the association of hominin fossils at this site with the > Châtelperronian is debated. Here we identify additional hominin > specimens at the site through proteomic zooarchaeology by mass > spectrometry screening and obtain molecular (ancient DNA, ancient > proteins) and chronometric data to demonstrate that these represent > Neandertals that date to the Châtelperronian. The identification of an > amino acid sequence specific to a clade within the genus Homo > demonstrates the potential of palaeoproteomic analysis in the study of > hominin taxonomy in the Late Pleistocene and warrants further > exploration.
+> The displacement of Neandertals by anatomically modern humans (AMHs) > 50,000–40,000 y ago in Europe has considerable biological and > behavioral implications. The Châtelperronian at the Grotte du Renne > (France) takes a central role in models explaining the transition, but > the association of hominin fossils at this site with the > Châtelperronian is debated. Here we identify additional hominin > specimens at the site through proteomic zooarchaeology by mass > spectrometry screening and obtain molecular (ancient DNA, ancient > proteins) and chronometric data to demonstrate that these represent > Neandertals that date to the Châtelperronian. The identification of an > amino acid sequence specific to a clade within the genus Homo demonstrates the potential of palaeoproteomic analysis in the study of hominin taxonomy in the Late Pleistocene and warrants further exploration.
 
 The details about stratigraphy are beyond me. But the protein and mtDNA evidence is pretty conclusive in my opinion that there are Neandertal individuals in this assemblage. Therefore, assuming their stratigraphy is correct, what you see in the Châtelperronian may be a cultural influence upon Neandertals by anatomically modern humans who were pushing into Europe at this time.
 
@@ -25,7 +25,8 @@ My prediction is that when whole genomes of Châtelperronian Neandertals are ava
 
 ### Related Posts:
 
-- [Daily Data Dump - October 19th,
+- [Daily Data Dump
+- October 19th,
   2010](https://www.gnxp.com/WordPress/2010/10/19/daily-data-dump-october-19th-2010/) - [Neandertal
   mtDNA](https://www.gnxp.com/WordPress/2006/06/05/neandertal-mtdna/) - [Neandertals & humans gettin'
   along](https://www.gnxp.com/WordPress/2007/07/30/neandertals-humans-gettin-along/) - [Neandertal

@@ -13,8 +13,8 @@ Tyler Cowen [explains](http://www.marginalrevolution.com/marginalrevolution/2009
 
 Cowen begins:
 
-> That’s [a request I > received](http://www.marginalrevolution.com/marginalrevolution/2008/08/request-for-req.html) > and probably the reader is referring to IQ and race. >
-> Let me first say that I am not the [Steve > Sailer](https://isteve.blogspot.com/) oracle. On such a sensitive > matter I don’t wish to misrepresent anyone, so I’ll simply tell you > what I think of the issues, without suggesting that he or anyone else > necessarily disagrees.
+> That’s [a request I received](http://www.marginalrevolution.com/marginalrevolution/2008/08/request-for-req.html) and probably the reader is referring to IQ and race. >
+> Let me first say that I am not the [Steve > Sailer](https://isteve.blogspot.com/) oracle. On such a sensitive matter I don’t wish to misrepresent anyone, so I’ll simply tell you what I think of the issues, without suggesting that he or anyone else necessarily disagrees.
 
 That’s a reasonable way to begin the conversation, but if you are going to mention Sailer’s **name** in this context, a) You ought to give a brief summary of his views and b) Provide a [link](http://www.vdare.com/sailer/071203_iq.htm) or [two](http://www.vdare.com/Sailer/071216_race_faq.htm).
 
@@ -22,7 +22,7 @@ Sailer believes that “race” and “IQ” — like “atom” and “species�
 
 Cowen continues:
 
-> There is a belief that progress in genetics will resurrect old, > now-unpopular claims about race and IQ, namely that some races are > intrinsically inferior in terms of IQ. I very much expect that we will > instead learn more about the importance of the individual genome and > that variations within “groups” (whether defined in terms of race or > not) are where the traction lies. So I don’t expect “old style > eugenics views” to make a comeback as applied to race, quite the > contrary. On that point, here is > [more](http://www.slate.com/id/2198731/).
+> There is a belief that progress in genetics will resurrect old, > now-unpopular claims about race and IQ, namely that some races are > intrinsically inferior in terms of IQ. I very much expect that we will > instead learn more about the importance of the individual genome and > that variations within “groups” (whether defined in terms of race or > not) are where the traction lies. So I don’t expect “old style eugenics views” to make a comeback as applied to race, quite the contrary. On that point, here is [more](http://www.slate.com/id/2198731/).
 
 1\) It is good to see that Cowen does not deny the reality and usefulness of “race” as a scientific concept. Recruiting folks like Cowen should be a high priority for believers in human biodiversity (HBD).
 
@@ -36,11 +36,11 @@ And, if anything, Sailer seems to be more environmentalist than many in the HBD 
 
 4\) Cowen writes as if there is a conflict between the within and between races decomposition of IQ differences. Note the use of “instead.” But he offers no evidence that he and Sailer disagree. And what is the nonsense about “traction?”
 
-> I also think that IQ will be shown to be more multi-dimensional than > we now think.
+> I also think that IQ will be shown to be more multi-dimensional than we now think.
 
 As josh notes in the thread:
 
-> Sprinting ability is also quite “multidimensional” as is distance > running. Want to guess which part of the world the ancestors of the > next olympic 100m and 5000m gold medal winners will be from?
+> Sprinting ability is also quite “multidimensional” as is distance running. Want to guess which part of the world the ancestors of the next olympic 100m and 5000m gold medal winners will be from?
 
 Cowen is too smart to take that bet, or a bet about the racial distribution of SAT or GRE scores next year, or even decades from now. Cowen thinks IQ is “multi-dimensional.” So say we all. The results of an IQ test are not marked on an iron bar in Paris, like the original definition of a meter. They are imperfect.
 
@@ -48,11 +48,11 @@ Yet this is a post that is supposed to explain “Why Steve Sailer is Wrong,” 
 
 Cowen:
 
-> If you wish to understand the role of IQ in human affairs, you would > do better to study autism and ADHD than race (by the way, I discuss > the importance of neurodiversity in much greater detail in my > forthcoming book [Create Your Own > Economy](https://www.amazon.com/Create-Your-Own-Economy-Prosperity/dp/0525951237/ref=sr_1_1?ie=UTF8&s=books&qid=1243593765&sr=8-1/marginalrevol-20).)
+> If you wish to understand the role of IQ in human affairs, you would > do better to study autism and ADHD than race (by the way, I discuss the importance of neurodiversity in much greater detail in my forthcoming book [Create Your Own Economy](https://www.amazon.com/Create-Your-Own-Economy-Prosperity/dp/0525951237/ref=sr_1_1?ie=UTF8&s=books&qid=1243593765&sr=8-1/marginalrevol-20).)
 
 So what? This is more irrelevant hand-waving. Cowen is supposed to be arguing that Sailer is wrong about race and IQ, not that Sailer is wrong about “the role of IQ” or “neurodiversity.”
 
-> You may know that some nations — basically the wealthy ones — have > higher IQs than the poor nations.
+> You may know that some nations — basically the wealthy ones — have higher IQs than the poor nations.
 
 What do you mean by “you,” white man? Notice the strange second person construction, quite unlike the rest of Cowen’s prose. He is able to address almost all other topics by describing either what is true or what he thinks. Why bring “you” into it? Why can’t he just tell us what **he** thinks? Some nations have higher average IQ than other nations. Cowen is unlikely to make progress in his case against Sailer if he can’t even manage to describe reality in simple declarative sentences.
 
@@ -62,30 +62,30 @@ Moreover, Cowen can’t even seem to suggest the obvious long term bets that a s
 
 The key point is that if Cowen wanted to take seriously the notion that countries differ by IQ and that this fact matters for the future, there are all sorts of bets he might offer. Instead, he gives us nothing of substance. Cowen continues:
 
-> But IQ is endogenous to environment, as evidenced by the Flynn Effect, > namely the general rise in IQ scores with each generation. It is > sometimes noted that some racial IQ gaps are not closing but I find it > more significant that scores can continue to rise.
+> But IQ is endogenous to environment, as evidenced by the Flynn Effect, namely the general rise in IQ scores with each generation. It is sometimes noted that some racial IQ gaps are not closing but I find it more significant that scores can continue to rise.
 
 “It is sometimes noted” by whom? Again, the entire style of this post is quite different from Cowen’s typical contribution to [Marginal Revolution](http://www.marginalrevolution.com/marginalrevolution/). If someone is noting something, why do  
 esn’t Cowen provide a link or at least tell us their names? It almost **seems** like Cowen is familiar with the relevant literature but does not want his readers to know just **how familiar**. The easiest way to get Watsonized is to make too clear how deeply you have drunk at the fountain of forbidden knowledge.
 
 Note, also, that the fact that scores can continue to rise is largely besides the point. Sailer does not dispute the Flynn effect! So, whether or not Cowen finds it more (or less) significant than Sailer is irrelevant.
 
-> For instance it is quite possible that groups with higher measured IQs > simply have been on an “improvement track” for a longer period of > time. More generally I think we should consider the Flynn Effect a bit > of a mystery and that suggests an overall tone of caution on these > issues rather than polemicism.
+> For instance it is quite possible that groups with higher measured IQs > simply have been on an “improvement track” for a longer period of time. More generally I think we should consider the Flynn Effect a bit of a mystery and that suggests an overall tone of caution on these issues rather than polemicism.
 
 1\) There is [some evidence](https://www.gnxp.com/blog/2005/08/flynn-effect-in-denmark-norway-rip.php) that the Flynn effect has stopped, so talk of time on an “improvement track” may be pointless. Further discussion [here](https://www.gnxp.com/blog/2007/10/james-watson-tells-inconvenient-truth_296.php).
 
 2\) But, again, Sailer agrees with all of this! (Or, at least, he can grant all of this without backing down on his main thesis.) When is Cowen going to explain “Why Steve Sailer is Wrong?”
 
-> Most importantly, there is a critical distinction between hypocritical > discourse on race and racism itself. Hypocritical discourse on race is > harmful and often Sailer does a very good job skewering it. But racism > itself is far, far more harmful, whether in the course of previous > history or still today.
+> Most importantly, there is a critical distinction between hypocritical > discourse on race and racism itself. Hypocritical discourse on race is harmful and often Sailer does a very good job skewering it. But racism itself is far, far more harmful, whether in the course of previous history or still today.
 
 So what? Sailer does not deny that racism exists or that it is harmful. This sounds like more throat-cleaning to preserve Cowen’s place in the commentariat. As “tom” in the comment thread notes:
 
-> Would you say it if you thought that there were group differences? You > would probably lose your NYT column. You would probably be protested > on campus. You would probably be called a racist by young bloggers and > liberal bloggers to whom you frequently link. Publishers of the type > that put out your books would recoil. >
-> I am not saying that you are incorrect. I am saying that you could not > realistically answer the other way and keep your life the same as it > is now. >
-> Can you answer my question? Would you say if you thought Sailer was > right?
+> Would you say it if you thought that there were group differences? You > would probably lose your NYT column. You would probably be protested on campus. You would probably be called a racist by young bloggers and liberal bloggers to whom you frequently link. Publishers of the type that put out your books would recoil. >
+> I am not saying that you are incorrect. I am saying that you could not realistically answer the other way and keep your life the same as it is now. >
+> Can you answer my question? Would you say if you thought Sailer was right?
 
 Good question. Back to Cowen:
 
-> It is fine if a given individual, for reasons of division of labor, > spends his or her time attacking hypocritical discourse about race > rather than attacking racism itself. (For instance we shouldn’t all > focus on condemning Hitler and Stalin, simply because they were among > the most evil men; there are other battles to fight.) But I still wish > that specified individual to ardently believe that racism is the far > greater problem. Insofar as that individual holds such a belief about > racism, I am much happier than if not.
+> It is fine if a given individual, for reasons of division of labor, > spends his or her time attacking hypocritical discourse about race > rather than attacking racism itself. (For instance we shouldn’t all > focus on condemning Hitler and Stalin, simply because they were among > the most evil men; there are other battles to fight.) But I still wish that specified individual to ardently believe that racism is the far greater problem. Insofar as that individual holds such a belief about racism, I am much happier than if not.
 
 So, the key issue is comparing the harm caused by “hypocritical discourse about race” versus the harm caused by racism? What relevance does this have to the issue at hand?
 

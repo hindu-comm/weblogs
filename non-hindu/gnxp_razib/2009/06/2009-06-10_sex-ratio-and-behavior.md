@@ -11,8 +11,8 @@ Sex ratio and behavior
 
 [When Young Men Are Scarce, They’re More Likely To Play The Field Than To Propose](http://www.sciencedaily.com/releases/2009/06/090609220829.htm):
 
-> In places where young women outnumber young men, research shows the > hemlines rise but the marriage rates don’t because the young men feel > less pressure to settle down as more women compete for their > affections. >
-> But when those men reach their 30s, the reverse is true and > proportionately more older men are married in areas where women > outnumber men.
+> In places where young women outnumber young men, research shows the hemlines rise but the marriage rates don’t because the young men feel less pressure to settle down as more women compete for their affections. >
+> But when those men reach their 30s, the reverse is true and proportionately more older men are married in areas where women outnumber men.
 
 The original [paper is here](http://www.jsecjournal.com/krugerproof.pdf).
 

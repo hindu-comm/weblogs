@@ -13,8 +13,8 @@ Blank slate when you want it that way
 
 > Gregory pressed, asking “Is being gay a choice?” >
 > Pawlenty ultimately said, “I defer to the scientists in that regard.” >
-> Again, Gregory pressed: “So you, you think it’s not a choice. … That > you are, as Lady Gaga says, you’re born that way.” >
-> Said Pawlenty: “There’s no scientific conclusion that it’s genetic. We > don’t know that. So we don’t know to what extent, you know, it’s > behavioral, and that’s something that’s been debated by scientists for > a long time. **But as I understand the science, there’s no current > conclusion that it’s genetic.”**
+> Again, Gregory pressed: “So you, you think it’s not a choice. … That you are, as Lady Gaga says, you’re born that way.” >
+> Said Pawlenty: “There’s no scientific conclusion that it’s genetic. We > don’t know that. So we don’t know to what extent, you know, it’s behavioral, and that’s something that’s been debated by scientists for a long time. **But as I understand the science, there’s no current conclusion that it’s genetic.”**
 
   
 This is one issue where the American Left has a tendency to be on the side of the hereditarians. In contrast, the American Right emphasizes the plasticity of human behavior, and its amenability to cultural pressures and individual will and contingency. Transpose the structure of the arguments to male-female sex differences, and many of the basic elements would be preserved, but those espousing them would invert politically.

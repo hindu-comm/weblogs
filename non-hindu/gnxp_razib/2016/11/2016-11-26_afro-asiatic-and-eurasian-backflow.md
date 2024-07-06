@@ -22,7 +22,7 @@ Very high frequencies of R1b in modern Central Africa groups may indicate drift.
 
 Finally, here’s the last paragraph of the discussion:
 
-> Our study has shown that human genetic diversity in Africa is still > incompletely understood and that ancient admixture adds to its > complexity. This work highlights the importance of exploring > underrepresented populations, such as those from Chad, in genetic > studies to improve our understanding of the demographic processes that > shaped genetic variation in Africa and globally.
+> Our study has shown that human genetic diversity in Africa is still > incompletely understood and that ancient admixture adds to its > complexity. This work highlights the importance of exploring underrepresented populations, such as those from Chad, in genetic studies to improve our understanding of the demographic processes that shaped genetic variation in Africa and globally.
 
 ### Related Posts:
 

@@ -14,7 +14,8 @@ Will this change? I believe so. The article and the interview on NPR both point 
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/) - [Gay sheep, forbidden
   science?](https://www.gnxp.com/WordPress/2006/12/31/gay-sheep-forbidden-science/) - [The vast majority of Muslims believe that being gay is
   not…](https://www.gnxp.com/WordPress/2017/04/02/the-vast-majority-of-muslims-believe-that-being-gay-is-not-morally-acceptable/) - [Gayrabia](https://www.gnxp.com/WordPress/2007/04/07/gayrabia/) - [Minorities don't oppose gay marriage

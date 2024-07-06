@@ -11,11 +11,11 @@ How much is "The Situation" worth?
 
 [‘Jersey Shore’ — MTV Tries to Divide and Conquer](http://www.tmz.com/2010/01/25/jersey-shore-mtv-the-situation-pauly-d-the-situation-negotiating-contract/):
 
-> Sources tell TMZ the network has told the cast if they don’t accept > MTV’s deal by the end of business Monday, they will be replaced. And, > MTV has told them it does not have to be a package deal — the cast > members who accept the offer will stay … those who do not can have a > nice life. >
-> As we first reported, MTV offered each cast member a \$10,000 signing > bonus and \$5,000 per episode. We’re told the cast rejected the offer > and made it clear they would all stand together and hold out for their > price, though they didn’t say what it was. >
-> MTV made a new offer of \$10,000 an episode — there are 12 episodes in > the new season — but so far the cast hasn’t responded. >
-> We’re told MTV already has replacements if Snooki, Pauly D, The > Situation and the others don’t accept the offer on Monday. But, we’re > told, MTV is happy to mix and match if some of the cast accepts the > offer and others don’t. >
-> As for who’s being the most hard-headed in the negotiations — The > Situation and Pauly D.
+> Sources tell TMZ the network has told the cast if they don’t accept > MTV’s deal by the end of business Monday, they will be replaced. And, MTV has told them it does not have to be a package deal — the cast members who accept the offer will stay … those who do not can have a nice life. >
+> As we first reported, MTV offered each cast member a \$10,000 signing bonus and \$5,000 per episode. We’re told the cast rejected the offer and made it clear they would all stand together and hold out for their price, though they didn’t say what it was. >
+> MTV made a new offer of \$10,000 an episode — there are 12 episodes in the new season — but so far the cast hasn’t responded. >
+> We’re told MTV already has replacements if Snooki, Pauly D, The Situation and the others don’t accept the offer on Monday. But, we’re told, MTV is happy to mix and match if some of the cast accepts the offer and others don’t. >
+> As for who’s being the most hard-headed in the negotiations — The Situation and Pauly D.
 
 ### Related Posts:
 

@@ -11,9 +11,9 @@ Most people are cool with gays teaching kids (today)
 
 I noticed that [Jim DeMint has said some controversial things](http://tpmmuckraker.talkingpointsmemo.com/2010/10/demint_sexually_active_unmarried_women_and_gay_teachers_should_be_barred_from_classrooms.php?ref=fpa) about the demographic criteria of teachers:
 
-> Sen. Jim DeMint (R-S.C.) says that even though “no one” came to his > defense in 2004 after he said that gay people and unwed mothers should > be banned from teaching, “everyone” quietly told him that he shouldn’t > back down from his position. >
+> Sen. Jim DeMint (R-S.C.) says that even though “no one” came to his defense in 2004 after he said that gay people and unwed mothers should be banned from teaching, “everyone” quietly told him that he shouldn’t back down from his position. >
 > … >
-> The Spartanberg Herald-Journal described the comments this way: > “DeMint said if someone is openly homosexual, they shouldn’t be > teaching in the classroom and he holds the same position on an > unmarried woman who’s sleeping with her boyfriend — she shouldn’t be > in the classroom.” DeMint did not apparently state his position on > whether sexually active unmarried male teachers should be similarly > removed from classrooms.
+> The Spartanberg Herald-Journal described the comments this way: > “DeMint said if someone is openly homosexual, they shouldn’t be > teaching in the classroom and he holds the same position on an > unmarried woman who’s sleeping with her boyfriend — she shouldn’t be in the classroom.” DeMint did not apparently state his position on whether sexually active unmarried male teachers should be similarly removed from classrooms.
 
 My interest was piqued because there are questions in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) about allowing gays to teach. We can see how many people in the country agree with DeMint. How the proportion has changed over the years, and also the demographic correlates of variation in attitudes. Additionally, I wanted to compare attitudes to allowing homosexuals to teach with allowing anti-religionists and racists to teach. First, over time:
 

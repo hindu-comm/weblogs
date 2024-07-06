@@ -64,7 +64,8 @@ Also, [Suspect in Oregon Bomb Plot Is Called Confused](http://www.nytimes.com/20
 
 ### Related Posts:
 
-- [PGD:2010s::IVF:1980s](https://www.gnxp.com/WordPress/2012/01/07/pgd2010sivf1980s/) - [Heritable epimutation plays a role in colorectal
+- [PGD:2010s::IVF:1980s](https://www.gnxp.com/WordPress/2012/01/07/pgd2010sivf1980s/)
+- [Heritable epimutation plays a role in colorectal
   cancer](https://www.gnxp.com/WordPress/2006/09/14/heritable-epimutation-plays-a-role-in-colorectal-cancer/) - [Why aren't we all
   tall?](https://www.gnxp.com/WordPress/2012/08/09/why-arent-we-all-tall/) - [Fertility Rate
   Skepticism](https://www.gnxp.com/WordPress/2006/05/29/fertility-rate-skepticism/) - [Dirty old

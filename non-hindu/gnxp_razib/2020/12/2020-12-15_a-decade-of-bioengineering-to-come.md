@@ -15,9 +15,9 @@ For humans, where it is going to start and become ubiquitous over time is in Men
 
 Last year a young woman received treatment to “fix” the mutation. NPR has been following her, and the results are good, [1st Patients To Get CRISPR Gene-Editing Treatment Continue To Thrive](https://www.npr.org/sections/health-shots/2020/12/15/944184405/1st-patients-to-get-crispr-gene-editing-treatment-continue-to-thrive):
 
-> Gray and the two other sickle cell patients haven’t had any > complications from their disease since getting the treatment, > including any pain attacks or hospitalizations. Gray has also been > able to wean off the powerful pain medications she’d needed most of > her life. >
-> Prior to the treatment, Gray experienced an average of seven such > episodes every year. Similarly, the beta thalassemia patients haven’t > needed the regular blood transfusions that had been required to keep > them alive. >
-> “It is a big deal because we we able to prove that we can edit human > cells and we can infuse them safely into patients and it totally > changed their life,” says Dr. Haydar Frangoul at the Sarah Cannon > Research Institute in Nashville. Frangoul is Gray’s doctor and is > helping run the study.
+> Gray and the two other sickle cell patients haven’t had any > complications from their disease since getting the treatment, including any pain attacks or hospitalizations. Gray has also been able to wean off the powerful pain medications she’d needed most of her life. >
+> Prior to the treatment, Gray experienced an average of seven such episodes every year. Similarly, the beta thalassemia patients haven’t needed the regular blood transfusions that had been required to keep them alive. >
+> “It is a big deal because we we able to prove that we can edit human > cells and we can infuse them safely into patients and it totally changed their life,” says Dr. Haydar Frangoul at the Sarah Cannon Research Institute in Nashville. Frangoul is Gray’s doctor and is helping run the study.
 
 ### Related Posts:
 

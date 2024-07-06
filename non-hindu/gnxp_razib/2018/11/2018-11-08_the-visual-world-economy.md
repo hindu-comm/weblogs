@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2018/11/08/the-visual-world-econom
 
 The visual world economy
 
-> The World’s 10 Largest Economies by GDP (1960-Today) via > [@VisualCap](https://twitter.com/VisualCap?ref_src=twsrc%5Etfw)[pic.twitter.com/29KiDBuPnO](https://t.co/29KiDBuPnO) >
-> — Carl Zha (@CarlZha) [November 8, > 2018](https://twitter.com/CarlZha/status/1060386187318198272?ref_src=twsrc%5Etfw)
+> The World’s 10 Largest Economies by GDP (1960-Today) via [@VisualCap](https://twitter.com/VisualCap?ref_src=twsrc%5Etfw)[pic.twitter.com/29KiDBuPnO](https://t.co/29KiDBuPnO) >
+> — Carl Zha (@CarlZha) [November 8, 2018](https://twitter.com/CarlZha/status/1060386187318198272?ref_src=twsrc%5Etfw)
 
 The depiction of the change in the top 10 economies over the last 60 years in the above graph is pretty mesmerizing. It tells you so much without the recourse to narrative description.
 

@@ -11,10 +11,10 @@ Poachers attacking rhinos in the developed world
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-9.jpeg?resize=259%2C194)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-9.jpeg?resize=259%2C194)](http://news.nationalgeographic.com/2017/03/wildlife-watch-rhino-poaching-zoo-trafficking/)This is shocking. [Poachers Kill Rhino in Brazen Attack at French Zoo](http://news.nationalgeographic.com/2017/03/wildlife-watch-rhino-poaching-zoo-trafficking/):
 
-> On Tuesday morning keepers at Thoiry Zoo, in the suburbs west of > Paris, found the body of Vince, a four-year-old white rhino, in his > enclosure with wounds to his head and one of his horns likely hacked > off by a chainsaw, the zoo said in a statement on its Facebook page. > His second horn was partially cut off, suggesting that the culprits > may have been interrupted or were using defective equipment after they > killed the rare animal on Monday night. >
-> The act was carried out “despite the presence of five members of the > zoological staff living on site and surveillance cameras,” the zoo > said. “The entire staff is extremely shocked.” >
+> On Tuesday morning keepers at Thoiry Zoo, in the suburbs west of > Paris, found the body of Vince, a four-year-old white rhino, in his > enclosure with wounds to his head and one of his horns likely hacked > off by a chainsaw, the zoo said in a statement on its Facebook page. His second horn was partially cut off, suggesting that the culprits may have been interrupted or were using defective equipment after they killed the rare animal on Monday night. >
+> The act was carried out “despite the presence of five members of the zoological staff living on site and surveillance cameras,” the zoo said. “The entire staff is extremely shocked.” >
 > … >
-> Tuesday’s gruesome event follows an attack on rhinos at an orphanage > in South Africa, home to 70 percent of the remaining 21,000 white > rhinos. Armed poachers broke into the Findimvelo Thula Thula Rhino > Orphanage on February 22 and removed the horns of two 18-month-old > rhinos, Impu and Gugu, after tying up staff members. One rhino was > killed, and the other was later euthanized.
+> Tuesday’s gruesome event follows an attack on rhinos at an orphanage > in South Africa, home to 70 percent of the remaining 21,000 white > rhinos. Armed poachers broke into the Findimvelo Thula Thula Rhino Orphanage on February 22 and removed the horns of two 18-month-old rhinos, Impu and Gugu, after tying up staff members. One rhino was killed, and the other was later euthanized.
 
 ### Related Posts:
 

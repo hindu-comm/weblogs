@@ -23,7 +23,9 @@ From the Substack: [Alex Mesoudi: the origins of cultural evolution](https://raz
 
 ### Related Posts:
 
-- [Open Thread - 10/01/2021 - Gene
+- [Open Thread
+- 10/01/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/10/01/open-thread-10-01-2021-gene-expression/) - [Unsupervised Learning Podcast
   reviews](https://www.gnxp.com/WordPress/2021/02/22/unsupervised-learning-podcast-reviews/) - [Open Thread - 06/26/2021 - Gene
   Expression](https://www.gnxp.com/WordPress/2021/06/26/open-thread-06-26-2021-gene-expression/) - [Recent human origins in

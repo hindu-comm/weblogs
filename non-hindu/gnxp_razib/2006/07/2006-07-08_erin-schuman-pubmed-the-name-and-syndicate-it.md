@@ -17,7 +17,8 @@ A further limit discussed in the paper is that of homeostatic inhibition of syna
 
 After I read about the work on mEPSPs, I searched “Schuman EM” in PubMed ([XML feed](http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0o8L_mZszhSWA5zh3hH8GWqni5xCWLHh8e7-HhcyQNB)) and had a WTF moment. Take a look at these titles, all within the past 5 months:
 
-- MicroRNA: microRNAs reach out into dendrites. - Single-trial learning of novel stimuli by individual neurons of the
+- MicroRNA: microRNAs reach out into dendrites.
+- Single-trial learning of novel stimuli by individual neurons of the
   human hippocampus-amygdala complex. - Miniature neurotransmission stabilizes synaptic function via tonic
   suppression of local dendritic protein synthesis. - Selective identification of newly synthesized proteins in mammalian
   cells using bioorthogonal noncanonical amino acid tagging (BONCAT). - Activity-dependent dynamics and sequestration of proteasomes in

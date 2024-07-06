@@ -19,9 +19,9 @@ Two papers, that didn’t get press releases, discuss RNA regulation pathways in
 
 And finally, I have to point out how egregious this press release is. Compare the headline to the article title:
 
-> Headline: Cure found for Huntington disease in mice offers hope for > treatment in humans
+> Headline: Cure found for Huntington disease in mice offers hope for treatment in humans
 
-> Article: [Cleavage at the Caspase-6 Site Is Required for Neuronal > Dysfunction and Degeneration Due to Mutant > Huntingtin](http://www.cell.com/content/article/abstract?uid=PIIS0092867406005587)
+> Article: [Cleavage at the Caspase-6 Site Is Required for Neuronal Dysfunction and Degeneration Due to Mutant Huntingtin](http://www.cell.com/content/article/abstract?uid=PIIS0092867406005587)
 
 Cure found for Huntington’s disease?! Awesome! Oh wait, it’s just a really cool paper discovering more about the mechanisms by which abnormal huntingtin protein leads to neural pathology. Huntington’s disease is one of a few that has been traced down to abnormality in a single gene. The gene has a big chunk of sequence added to it that causes the protein to contain a [long string of glutamine residues](http://www.humpath.com/article.php3?id_article=636). I was unaware that mutant huntingtin gets chopped up by cellular proteases and that these cleavage products accumulate early in the disease process. The article shows that, at least in mice, blocking this cleavage step blocks the rest of the disease. This does provide a target modification we might like to make in the genes of Huntington’s patients, but we had one of those already (remove the polyglutamine sequence). The hard part is going to be getting a gene therapy vector to neuronal populations and changing the sequence without negative side effects. I’m not discounting the importance of the paper, this may prove an easier change to make, but it might almost be considered cruel to start a headline with “Cure for Huntington disease..” when it is really only one more incremental step in the long process. Am I being too demanding/nit-picky?
 

@@ -11,7 +11,7 @@ Heinlein, pulp & greatness
 
 Peter Suderman asks, [Is Robert Heinlein Our Best Pulp Novelist](http://theamericanscene.com/2009/04/02/is-robert-heinlein-our-best-pulp-novelist)? I suppose this hinges on what you mean by “best,” but it seems like Heinlein is probably at the front of any list. Form [Isaac Asimov’s memoir](https://www.amazon.com/exec/obidos/ASIN/055356997X/geneexpressio-20) in regards to Heinlein:
 
-> …From the moment his first story appeared, an awed science fiction > world accepted him as the best science fiction writer in existence, > and he held that post throughout his life. Certainly, I was impressed. > I was among the very first to write letters of praise for him to the > magazines.
+> …From the moment his first story appeared, an awed science fiction > world accepted him as the best science fiction writer in existence, and he held that post throughout his life. Certainly, I was impressed. I was among the very first to write letters of praise for him to the magazines.
 
 ### Related Posts:
 

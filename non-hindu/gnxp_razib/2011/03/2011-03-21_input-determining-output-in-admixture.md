@@ -11,11 +11,11 @@ Input determining output in ADMIXTURE
 
 One reason I [posted about how to run ADMIXTURE](http://blogs.discovermagazine.com/gnxp/2011/03/analyzing-ancestry-with-admixture-step-by-step/) was so that the more readers themselves could become familiar with the biases of the program. That way they would get cautious about over-reading one particular set of results (the same goes for using PCA to visualize genetic relationships). [Dienekes](https://dienekes.blogspot.com/2011/03/note-of-caution-on-admixture-estimates.html) elaborates in detail on this point, [A note of caution on admixture estimates](https://dienekes.blogspot.com/2011/03/note-of-caution-on-admixture-estimates.html):
 
-> Much more can be said on this issue, but let’s summarize a couple of > lessons: >
-> – The full extent of an admixture cline can be captured only if > unadmixed populations on either side of the cline exist. Use as many > populations as possible to capture the full extent of an admixture > cline. >
-> – Use of an admixed population in lieu of an unadmixed native one > inflates the inferred native component. Use native populations if > possible instead of admixed ones . >
-> – Even in the absence of unadmixed native populations, it is sometimes > possible to reconstruct the admixture proportions as per Reich et al. > (2009). >
-> Capturing the complexities of human prehistory from modern populations > is tricky. Nonetheless, with increased coverage of human genetic > diversity **(there are already \~9k individuals in my database)**, new > analytical techniques, and, hopefully some archaeogenetic calibration > genotypic, we are bound to learn much more about the distant human > past in the not-so distant future.
+> Much more can be said on this issue, but let’s summarize a couple of lessons: >
+> – The full extent of an admixture cline can be captured only if unadmixed populations on either side of the cline exist. Use as many populations as possible to capture the full extent of an admixture cline. >
+> – Use of an admixed population in lieu of an unadmixed native one inflates the inferred native component. Use native populations if possible instead of admixed ones . >
+> – Even in the absence of unadmixed native populations, it is sometimes possible to reconstruct the admixture proportions as per Reich et al. (2009). >
+> Capturing the complexities of human prehistory from modern populations > is tricky. Nonetheless, with increased coverage of human genetic > diversity **(there are already \~9k individuals in my database)**, new analytical techniques, and, hopefully some archaeogenetic calibration genotypic, we are bound to learn much more about the distant human past in the not-so distant future.
 
 9,000 individuals in one random guy’s database. Wow. I know Zack has more than 6,000 now. I’ve got around 4,000 myself without much expenditure of effort.
 

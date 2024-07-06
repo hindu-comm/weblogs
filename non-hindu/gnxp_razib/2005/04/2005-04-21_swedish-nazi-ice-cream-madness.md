@@ -43,7 +43,8 @@ Posted by dobeln at [11:30 PM](https://www.gnxp.com/MT2/archives/003921.html) []
 
 ### Related Posts:
 
-- [Second front - Rise of the
+- [Second front
+- Rise of the
   GONGO](https://www.gnxp.com/WordPress/2005/07/21/second-front-rise-of-the-gongo/) - [Second front: Rise of the
   GNGO:s](https://www.gnxp.com/WordPress/2005/07/18/second-front-rise-of-the-gngo-s/) - [Amy Bishop and lactose
   intolerance](https://www.gnxp.com/WordPress/2010/02/15/amy-bishop-and-lactose-intolerance/) - [Interview with

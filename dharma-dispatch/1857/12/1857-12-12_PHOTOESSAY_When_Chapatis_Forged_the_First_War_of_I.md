@@ -105,7 +105,7 @@ Various theories about chapati-distribution flew thick and fast from all quarter
 
 The selfsame Malleson holds Maulvi Ahmadullah of Faizabad as the mastermind of the chapati-distribution conspiracy. In his words,
 
-> The Maulavi devised the scheme known as the chapati scheme, the > circulation of which amongst the rural population of the North-West > Provinces would notify to them that a great rising would take place on > the first favourable opportunity.
+> The Maulavi devised the scheme known as the chapati scheme, the circulation of which amongst the rural population of the North-West Provinces would notify to them that a great rising would take place on the first favourable opportunity.
 
 We shouldn’t take Malleson seriously because he was saving the Empire’s face using torturous prose. Facts and truth and evidence were the least of his concerns. Malleson’s compatriots blame the “miscreant Nana Sahib” for the chapati conspiracy.
 
@@ -125,7 +125,7 @@ Subscribe
 
 However, in devising and implementing the chapati scheme, Indians were merely drawing from recent history. Before the apocalyptic Third Battle of Panipat, chapatis were distributed throughout north India. Much later, John Malcolm recorded,
 
-> There has been a mysterious circulation of sugar just before the > mutiny of the Coast Army in 1806. There was also, in 1818, a very > perplexing distribution of coconuts in Central India.
+> There has been a mysterious circulation of sugar just before the mutiny of the Coast Army in 1806. There was also, in 1818, a very perplexing distribution of coconuts in Central India.
 
 We can also recall the heroic Santhal revolt. As a forerunner to the episode, a branch of the *Sal* tree was sent to each village under the control of the Santhals.
 

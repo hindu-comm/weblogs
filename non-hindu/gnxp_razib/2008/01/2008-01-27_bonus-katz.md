@@ -18,7 +18,9 @@ Bonus Katz
 
 ### Related Posts:
 
-- [Bonus Katz](https://www.gnxp.com/WordPress/2010/01/31/bonus-katz-3/) - [Bonus Katz - November 12th,
+- [Bonus Katz](https://www.gnxp.com/WordPress/2010/01/31/bonus-katz-3/)
+- [Bonus Katz
+- November 12th,
   2010](https://www.gnxp.com/WordPress/2010/11/12/bonus-katz-november-12th-2010/) - [A fell wind
   stirs....](https://www.gnxp.com/WordPress/2006/03/25/a-fell-wind-stirs/) - [Katz](https://www.gnxp.com/WordPress/2010/02/26/katz-98/) - [Katz](https://www.gnxp.com/WordPress/2010/02/05/katz-95/) - [Katz](https://www.gnxp.com/WordPress/2010/03/12/katz-100/)
 

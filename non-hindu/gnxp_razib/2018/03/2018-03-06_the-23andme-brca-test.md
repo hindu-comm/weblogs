@@ -15,7 +15,7 @@ But the short-term implications are not that earth-shaking.
 
 From the FDA [release](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm599560.htm):
 
-> The three BRCA1/BRCA2 hereditary mutations detected by the test are > present in about 2 percent of Ashkenazi Jewish women, according to a > National Cancer Institute study, but rarely occur (0 percent to 0.1 > percent) in other ethnic populations. All individuals, whether they > are of Ashkenazi Jewish descent or not, may have other mutations in > BRCA1 or BRCA2 genes, or other cancer-related gene mutations that are > not detected by this test. For this reason, a negative test result > could still mean that a person has an increased risk of cancer due to > gene mutations….
+> The three BRCA1/BRCA2 hereditary mutations detected by the test are > present in about 2 percent of Ashkenazi Jewish women, according to a > National Cancer Institute study, but rarely occur (0 percent to 0.1 > percent) in other ethnic populations. All individuals, whether they > are of Ashkenazi Jewish descent or not, may have other mutations in > BRCA1 or BRCA2 genes, or other cancer-related gene mutations that are not detected by this test. For this reason, a negative test result could still mean that a person has an increased risk of cancer due to gene mutations….
 
 Apparently, women with one of these variants have a 45-85% chance of developing breast cancer by age 70. So the penetrance is high.
 

@@ -21,7 +21,8 @@ Why does it matter? Again, **Helix banks a high quality exome+ (the + is for non
 
 ### Related Posts:
 
-- [The seasons](https://www.gnxp.com/WordPress/2011/12/22/the-seasons/) - [Merry Christmas, hold the
+- [The seasons](https://www.gnxp.com/WordPress/2011/12/22/the-seasons/)
+- [Merry Christmas, hold the
   Hanukkah?](https://www.gnxp.com/WordPress/2012/12/15/merry-christmas-hold-the-hanukkah/) - [Bank your exome with Helix for free (\$0.00) \[update,
   SALE…](https://www.gnxp.com/WordPress/2017/11/09/189976/) - [Happy
   Thanksgiving!](https://www.gnxp.com/WordPress/2007/11/22/happy-thanksgiving/) - [Open Thread,

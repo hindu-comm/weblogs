@@ -19,7 +19,8 @@ These data and the hints of wider patterns which we can discern make some parado
 
 ### Related Posts:
 
-- [God's trade](https://www.gnxp.com/WordPress/2010/08/29/gods-trade/) - [Quantities of
+- [God's trade](https://www.gnxp.com/WordPress/2010/08/29/gods-trade/)
+- [Quantities of
   Trade](https://www.gnxp.com/WordPress/2008/03/06/quantities-of-trade/) - [Roman Empire and Indian Ocean
   Trade](https://www.gnxp.com/WordPress/2018/02/26/roman-empire-and-indian-ocean-trade/) - [The leisure class of the ancient
   world](https://www.gnxp.com/WordPress/2018/10/13/the-leisure-class-of-the-ancient-world/) - [Tariffs, not

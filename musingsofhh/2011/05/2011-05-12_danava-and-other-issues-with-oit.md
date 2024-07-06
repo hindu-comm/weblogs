@@ -149,7 +149,13 @@ Advertisement
 
 **Tagged with:**
 
-- [arya](https://musingsofhh.wordpress.com/tag/arya/) - [danava](https://musingsofhh.wordpress.com/tag/danava/) - [druhyu](https://musingsofhh.wordpress.com/tag/druhyu/) - [origins](https://musingsofhh.wordpress.com/tag/origins/) - [puru](https://musingsofhh.wordpress.com/tag/puru/) - [saraswati](https://musingsofhh.wordpress.com/tag/saraswati/) - [vedas](https://musingsofhh.wordpress.com/tag/vedas/)
+- [arya](https://musingsofhh.wordpress.com/tag/arya/)
+- [danava](https://musingsofhh.wordpress.com/tag/danava/)
+- [druhyu](https://musingsofhh.wordpress.com/tag/druhyu/)
+- [origins](https://musingsofhh.wordpress.com/tag/origins/)
+- [puru](https://musingsofhh.wordpress.com/tag/puru/)
+- [saraswati](https://musingsofhh.wordpress.com/tag/saraswati/)
+- [vedas](https://musingsofhh.wordpress.com/tag/vedas/)
 
 **[taittiriya samhita and horseanatomy](https://musingsofhh.wordpress.com/2011/05/12/taittiriya-samhita-and-horse-anatomy/)**
 

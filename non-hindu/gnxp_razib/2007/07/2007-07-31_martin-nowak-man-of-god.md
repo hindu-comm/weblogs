@@ -11,7 +11,7 @@ Martin Nowak, man of God
 
 [Carl Zimmer](http://scienceblogs.com/loom/) has a [fascinating profile](http://www.nytimes.com/2007/07/31/science/31prof.html?8dpc=&pagewanted=all) of [Martin Nowak](https://www.google.com/search?q=martin+nowak&btnG=Search%21&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp), whose work I have [talked about](https://www.google.com/search?q=martin+nowak&btnG=Search%21&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) before. Carl saves the best for last:
 
-> Dr. Nowak sometimes finds his scientific colleagues astonished when he > defends religion. But he believes the astonishment comes from a > misunderstanding of the roles of science and religion. “Like > mathematics, many theological statements do not need scientific > confirmation. Once you have the proof of Fermat’s Last Theorem, it’s > not like we have to wait for the scientists to tell us if it’s right. > This is it.”
+> Dr. Nowak sometimes finds his scientific colleagues astonished when he > defends religion. But he believes the astonishment comes from a > misunderstanding of the roles of science and religion. “Like > mathematics, many theological statements do not need scientific confirmation. Once you have the proof of Fermat’s Last Theorem, it’s not like we have to wait for the scientists to tell us if it’s right. This is it.”
 
 ### Related Posts:
 

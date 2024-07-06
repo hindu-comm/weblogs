@@ -11,8 +11,8 @@ The excitement of clothed porn stars
 
 [Porn Stars, Clad? They Seem to Appeal to Indonesian Filmgoers](http://www.nytimes.com/2011/03/29/world/asia/29indonesia.html?partner=rss&emc=rss):
 
-> Ms. Aoi, and others like her, are the secret of a winning formula > stumbled upon by Maxima Pictures, the production house where Mr. > Hidayat is an executive producer. For two years, Maxima has made some > of Indonesia’s most popular domestic films based on a simple premise: > **that many in Muslim-majority Indonesia will pay to see foreign porn > stars perform — clothed — in local films.** Just don’t expect > Indonesians to own up to it. >
-> “We’re hypocrites,” said Mr. Hidayat, who is a Muslim. “People know > who they are, but they won’t admit it. It’s a love-hate thing.”
+> Ms. Aoi, and others like her, are the secret of a winning formula > stumbled upon by Maxima Pictures, the production house where Mr. > Hidayat is an executive producer. For two years, Maxima has made some > of Indonesia’s most popular domestic films based on a simple premise: **that many in Muslim-majority Indonesia will pay to see foreign porn stars perform — clothed — in local films.** Just don’t expect Indonesians to own up to it. >
+> “We’re hypocrites,” said Mr. Hidayat, who is a Muslim. “People know who they are, but they won’t admit it. It’s a love-hate thing.”
 
 This sort of “counter-intuitive” behavior makes total sense in light of the work reported in Paul Bloom’s [How Pleasure Works: The New Science of Why We Like What We Like](https://www.amazon.com/exec/obidos/ASIN/0393066320/geneexpressio-20). People consume in a particular context. The hedonic experience can’t be isolated from its history and the prior facts (and expectations) you bring into it. This sort of insight is essential when we start talking about utilitarianism as if it’s a simple calculus.
 

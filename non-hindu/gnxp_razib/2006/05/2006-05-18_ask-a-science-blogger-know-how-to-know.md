@@ -15,7 +15,8 @@ I assume others will answer this also, so I want to get this out first: my reply
 
 ### Related Posts:
 
-- [Ask a Science Blogger - "Justify my
+- [Ask a Science Blogger
+- "Justify my
   funding"](https://www.gnxp.com/WordPress/2006/05/25/ask-a-science-blogger-justify-my-funding/) - [Ask a Science Blogger - June
   15](https://www.gnxp.com/WordPress/2006/06/15/ask-a-science-blogger-june-15/) - [Just Science 2008
   update](https://www.gnxp.com/WordPress/2008/01/13/just-science-2008-update/) - [On being a

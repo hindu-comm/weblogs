@@ -13,7 +13,9 @@ Bora Zivkovic has what is basically a [short history of science blogging](http:/
 
 Oh, and in the interests of social media whoring:
 
-- [My Twitter](https://twitter.com/razibkhan) - [Facebook](https://www.facebook.com/razibkhan99) - And my site where you can find pointers to most of my online
+- [My Twitter](https://twitter.com/razibkhan)
+- [Facebook](https://www.facebook.com/razibkhan99)
+- And my site where you can find pointers to most of my online
   production, [razib.com](http://www.razib.com/)
 
 ### Related Posts:

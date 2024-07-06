@@ -17,15 +17,16 @@ Friday Fluff – February 25th, 2011
 
 3\) **Comment of the week**, in response to [The evolution of man is no cartoon](http://blogs.discovermagazine.com/gnxp/2011/02/the-evolution-of-man-is-no-cartoon/#comment-58198):
 
-> *I think the confounding notion here is that changes to the DNA which > don’t affect a protein’s amino acid sequence are selectively neutral. > It’s endemic, and yet there are several very obvious counterexamples.* >
-> True. But as a first approximation, it is still a reasonable practice. > For every 1000 amino acid changes one will find A LOT more functional > effects than for every 1000 silent mutations. Keep in mind that your > argument can be taken in reverse, too: there are some obvious examples > where amino acid change does not result in a detectable change of > properties.
+> *I think the confounding notion here is that changes to the DNA which don’t affect a protein’s amino acid sequence are selectively neutral. It’s endemic, and yet there are several very obvious counterexamples.* >
+> True. But as a first approximation, it is still a reasonable practice. > For every 1000 amino acid changes one will find A LOT more functional > effects than for every 1000 silent mutations. Keep in mind that your argument can be taken in reverse, too: there are some obvious examples where amino acid change does not result in a detectable change of properties.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/02/grey.jpg?resize=600%2C800)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/02/grey.jpg?resize=600%2C800)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/02/grey.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - September 9th,
+- [Friday Fluff
+- September 9th,
   2011](https://www.gnxp.com/WordPress/2011/09/09/friday-fluff-september-9th-2011/) - [Friday Fluff - October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [Friday Fluff - March 18th,
   2011](https://www.gnxp.com/WordPress/2011/03/18/friday-fluff-march-18th-2011/) - [Friday Fluff – February 18th,

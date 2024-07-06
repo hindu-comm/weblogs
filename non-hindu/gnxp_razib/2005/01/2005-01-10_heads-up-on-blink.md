@@ -15,7 +15,8 @@ Posted by razib at [10:55 PM](https://www.gnxp.com/MT2/archives/003430.html) [](
 
 ### Related Posts:
 
-- [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/) - [Miss Finland talks like an alien baby!!! (oh
+- [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/)
+- [Miss Finland talks like an alien baby!!! (oh
   wait,…](https://www.gnxp.com/WordPress/2006/05/12/miss-finland-talks-like-an-alien-baby-oh-wait-that-s-just-suomen-kieli/) - [Gladwell
   hatin'](https://www.gnxp.com/WordPress/2009/11/10/gladwell-hatin/) - [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/) - [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/) - [HS talks: calcium, calmodulin, and
   calcineurin](https://www.gnxp.com/WordPress/2007/06/11/hs-talks-calcium-calmodulin-and-calcineurin/)

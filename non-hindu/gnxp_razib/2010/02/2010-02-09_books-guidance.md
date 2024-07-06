@@ -11,7 +11,7 @@ Books & guidance
 
 [Read More Books!](http://motherjones.com/kevin-drum/2010/02/read-more-books):
 
-> If you really want to understand any issue more complex than Brad and > Angelina’s marital status, there’s really no substitute for a book. > Not instead of blogs and newspapers and Twitter, but in addition to > them. So: read more books! They’re good for you.
+> If you really want to understand any issue more complex than Brad and Angelina’s marital status, there’s really no substitute for a book. Not instead of blogs and newspapers and Twitter, but in addition to them. So: read more books! They’re good for you.
 
 I’ve heard and read about how awesome Charles Darwin was as a thinker, but I had to (re)[read](http://scienceblogs.com/gnxp/2010/02/charles_darwin_was_a_genius_i.php) [The Origin of Species](https://www.amazon.com/exec/obidos/ASIN/0451529065/geneexpressio-20/) to really *grok* what was being communicated here. So yes, books are important. The point that the **content** of what is being examined is critica can’t be overemphasized.
 

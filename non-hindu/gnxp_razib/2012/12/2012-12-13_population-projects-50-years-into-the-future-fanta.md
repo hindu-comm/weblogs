@@ -11,7 +11,7 @@ Population projections 50 years into the future are fantasy
 
 There’s [another Census Projection out](http://www.nationaljournal.com/thenextamerica/demographics/census-u-s-population-expected-to-slow-skew-older-and-more-diverse-by-2060-20121212). Yes, I understand that the character of the children born today is going to have obvious impacts on the nature of the population 50 years from now, but we really need to heed the stupidity of past projections. Here’s a piece from 1930, [A Nation of Elders in the Making](https://docs.google.com/viewer?url=http://64.62.200.70/PERIODICAL/PDF/AmMercury-1930apr/27-40/):
 
-> To explain convincingly why we believe that we shall certainly not > have more than 185,000,000 people here in 2000 A.D. and why we further > believe that our population may cease to grow before that time, it is > only necessary to make a rapid survey of our national trend of births > and deaths….
+> To explain convincingly why we believe that we shall certainly not > have more than 185,000,000 people here in 2000 A.D. and why we further believe that our population may cease to grow before that time, it is only necessary to make a rapid survey of our national trend of births and deaths….
 
 For what it’s worth, the population of the USA in 2000 A.D. was [\~280 million](https://en.wikipedia.org/wiki/2000_United_States_Census). The [Baby Boom](https://en.wikipedia.org/wiki/Baby_boom) + massive immigration = revisions to projections.
 

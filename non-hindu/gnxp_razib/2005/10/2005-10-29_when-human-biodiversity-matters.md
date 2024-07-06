@@ -11,12 +11,12 @@ When human biodiversity matters
 
 A few weeks ago I finished reading [1491](https://www.amazon.com/exec/obidos/ASIN/140004006X/geneexpressio-20/) by Charles C. Mann, which I haven’t said much about because it didn’t tell me much new (i.e., there were many more natives than we had earlier thought, the Clovis culture wasn’t here first, Amazonia shows strong evidence of being an anthropogenically shaped environment). I might comment in detail at some point, I have a book on Maya history that I want to read at some point that might give me some ideas that are bloggable, but, I want to highlight a passage in the book where the author talks to a geneticist in regards to native susceptibility to Old World pathogens:
 
-> …I again telephoned Francis Black. Being genetically determined, > Indian HLA homogeneity cannot be changed (except by intermarriage with > non-Indians). Did that mean that the epidemics were unavoidable…Could > the mass death have been averted? >
-> “There have been lots of cases where individual towns kept out > epidemics….” >
-> He stopped speaking for long enough that I asked him if he was still > on the line. >
+> …I again telephoned Francis Black. Being genetically determined, Indian HLA homogeneity cannot be changed (except by intermarriage with non-Indians). Did that mean that the epidemics were unavoidable…Could the mass death have been averted? >
+> “There have been lots of cases where individual towns kept out epidemics….” >
+> He stopped speaking for long enough that I asked him if he was still on the line. >
 > “I’m trying to imagine how you would do it….”  
 > …  
-> “You’d have to have the entire hemisphere doing that. And the > Europeans would presumably have to cooperate, or most of them, anyway. > I can’t imagine that happening, actually. Any of it.”
+> “You’d have to have the entire hemisphere doing that. And the Europeans would presumably have to cooperate, or most of them, anyway. I can’t imagine that happening, actually. Any of it.”
 
 As I [have noted many times before](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=hla&btnG=Search+google&domains=gnxp.com&sitesearch=gnxp.com), the HLA loci, which are crucial to our adaptive immune system, are undisputed cases where genetic diversity has been crucial to long term fitness. Some of the HLA alleles coalesce *before* the chimp-human speciation event, you might share some alleles with chimpanzees, but not with your own siblings! If a mutation is neutral, its chance of fixation is 1/2Ne, where Ne is the effective breeding population. In other words, the larger the population the less likely that a mutation is likely to random walk in frequency until fixation, but given enough time, there will always be turnover. If the mutation is favorable the probability of fixation is 2*s*, where *s* is the selection coefficient which defines the fitness advantage confered by the derived allele against the population mean fitness. Again, given enough time one imagines that one favored allele should fix itself within a breeding population. **The deep time persistence of numerous alleles on these loci in most world populations suggest either heterozygote advantage or frequency dependent selection** (where lower frequency would increase fitness).
 

@@ -11,7 +11,7 @@ When America was post-colonial
 
 [Below](http://blogs.discovermagazine.com/gnxp/2010/04/men-on-the-move/) I stated:
 
-> …until the late 20th century the majority of the ancestry of the white > population of the republic descended from those who were counted in > the 1790 census.
+> …until the late 20th century the majority of the ancestry of the white population of the republic descended from those who were counted in the 1790 census.
 
 A commenter questioned the assertion. The commenter was right to question it. My source was a 1992 [paper](https://www.gnxp.com/blog/2009/12/settlers-immigrants.php) that estimated that only in 1990 did the proportion of American ancestry which derived from those who arrived *after* the 1790 census exceeding 50%. In other words, if you ran the ancestors of all Americans back to 1790, a majority of that set would have been counted in the 1790 census (so people of mixed ancestry would contribute to the two components are weighted by their ancestry).  
   

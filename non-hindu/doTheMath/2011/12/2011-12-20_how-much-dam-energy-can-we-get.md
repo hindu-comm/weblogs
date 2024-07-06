@@ -80,7 +80,10 @@ At present, the U.S. has 78GW of installed hydro power (out of which we get 31 G
 
 I don’t want to discount the top-down approach we did here. After all, if anyone tried to tell me that hydro could deliver much more than 25TW of power, I would know that the basic physics of the planet does not allow it. But at the same time, the upper limit we established does not account for a whole host of practical considerations, like actual rivers with known flow rates and geographic potential for damming. So I turn to a study that has put some more time into the question than I can afford personally, outside of my day job. Specifically, a [report](http://www.eurelectric.org/Download/Download.aspx?DocumentID=5601) by the Eurelectric group assessed global hydro potential in four cascading steps:
 
-1.  Gross potential if all runoff is developed to sea level with no loss; 2.  Technical potential, ignoring economic limitations; 3.  Economically viable potential, cost competitive with other sources; 4.  Exploitable potential, considering environmental and other restrictions.
+1.  Gross potential if all runoff is developed to sea level with no loss;
+2.  Technical potential, ignoring economic limitations;
+3.  Economically viable potential, cost competitive with other sources;
+4.  Exploitable potential, considering environmental and other restrictions.
 
 For the first step, they come away with 5.8TW—not far at all from my estimate (I’m not cheating *I swear*: I did not look at *any* estimates prior to writing the above sections). Other assessments get [4.4TW](http://www.intpow.com/index.php?id=487&download=1 "IntPow assessment"), [4.6TW](http://www.undp.org/energy/activities/wea/drafts-frame.html "UN 2010 World Energy Assessment"), and [5.1TW](http://books.google.com/books?id=40XtqVMRxOUC&lpg=PP1&pg=PA76#v=onepage&q=Hydropower%20and%20its%20Constraints&f=false "Book: Hydropower and its Constraints").
 

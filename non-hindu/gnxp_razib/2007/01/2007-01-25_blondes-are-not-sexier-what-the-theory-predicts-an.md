@@ -15,7 +15,7 @@ Below the fold, I briefly review some theory but mostly present data from all wi
 
 First, Steve notes:
 
-> One of the most common storylines in movies is this: the blonde > debutante gets engaged to the blonde fraternity president, but then > she falls hard for the tall, dark, and handsome boy from the wrong > side of the tracks.
+> One of the most common storylines in movies is this: the blonde debutante gets engaged to the blonde fraternity president, but then she falls hard for the tall, dark, and handsome boy from the wrong side of the tracks.
 
 The idea again is that blonde hair is sexy in females, not males. But just as common as the above scenario is the guy whose feelings for his fair-haired maiden waver once he becomes enchanted by a woman with coal eyes and raven tresses. For instance, in The Hunchback of Notre Dame ([see here](http://www.bartleby.com/312/0804.html) starting at line 57), the once pure priest Frollo describes how, after watching the gypsy Esmeralda dance and sing, he became so bewitched that he could not stem the tide of lust rising within him and fell madly in love with her. Shakespeare’s [“Sonnet 147”](http://nfs.sparknotes.com/sonnets/sonnet_147.epl) expresses a similar predicament: the speaker’s got it bad for a bad girl! Not the first, nor the last. Interesting though literature and film may be, let’s get to the theory and data.
 

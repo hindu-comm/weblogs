@@ -11,7 +11,7 @@ But don't they all look alike?
 
 [](https://www.gnxp.com/blog/uploaded_images/Tarja-Halonen-nettiin-708624.jpg)[A face you can trust?:](http://www.shepherd-express.com/1editorialbody.lasso?-token.folder=2007-03-29&-token.story=176777.113121&-nothing)
 
-> The Intopii computer firm of Helsinki, Finland, announced in February > that it has installed software to help voters find candidates who look > like them. Intopii is basing this idea on studies that suggest Finnish > voters tend to select candidates who most resemble themselves….
+> The Intopii computer firm of Helsinki, Finland, announced in February that it has installed software to help voters find candidates who look like them. Intopii is basing this idea on studies that suggest Finnish voters tend to select candidates who most resemble themselves….
 
 ### Related Posts:
 

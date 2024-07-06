@@ -11,7 +11,7 @@ Check your buddy’s sloping brow, he might be a Neandertal!
 
 [Possible ancestral structure in human populations](http://genetics.plosjournals.org/perlserv/?request=get-document&doi=110.1371/journal.pgen.0020105.eor):
 
-> Using sequence data from the Environmental Genome Project, we find > strong evidence for ancient admixture in both a European and a West > African population (p \~ 10^{-7}), with contributions to the modern > gene pool of at least 5%. While Neanderthals form an obvious archaic > source population candidate in Europe, there is not yet a clear source > population candidate in West Africa.
+> Using sequence data from the Environmental Genome Project, we find > strong evidence for ancient admixture in both a European and a West > African population (p \~ 10^{-7}), with contributions to the modern gene pool of at least 5%. While Neanderthals form an obvious archaic source population candidate in Europe, there is not yet a clear source population candidate in West Africa.
 
 5% isn’t jack, but, that’s enough to introduce lots of novel alleles which might reshape the larger population into which admixture results in introgression. Remember, probability of fixation of a novel allele in a population is 2 X the selection coefficient. Admixture can be thought of as operationally a hypermutational event as a spike in strange mutants enters the gene pool.  
 Via [Dienekes](https://dienekes.blogspot.com/).

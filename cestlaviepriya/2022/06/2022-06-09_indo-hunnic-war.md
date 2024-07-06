@@ -19,7 +19,8 @@ The second phase which forms the topic of this blog post, began as soon as the e
 
 **Table of Contents & Links**
 
--   [Background](#Background) -   [Hunnic Consolidation in the Indian
+-   [Background](#Background)
+-   [Hunnic Consolidation in the Indian
     North-West](#Hunnic-Consolidation) -   [India on the Eve of the Invasion](#India-on-the-Eve-of-Invasion) -   [Archaeological & Literary Sources of the Indo-Hunnic
     War](#Archaeological-Literary-Sources) -   [The Later or Imperial Aulikara-s & the Naigama
     Family](#Later-Aulikara-the-Naigama-Family) -   [The Invasions – An Analysis](#The-Invasions-An-Analysis) -   [The Victorious Prakāśadharman](#The-Victorious) -   [The Effect of the Gupta-s](#The-Effect-of-the-Guptas) -   [The Śaiva Influence](#The-Shaiva-Influence) -   [Conclusion](#Conclusion) -   [References](#References) -   [Bibliography](#Bibliography)
@@ -58,7 +59,7 @@ Found from Panjāb (Salt Range, Pākistān), this inscription belonging to perio
 
 The use of such grandiose titles also has another bearing which Bakker mentions through the suggestion of Harry Falk – “this may indicate that Toramāṇa saw himself as the founder of a dynasty (Bakker, 2020; 60).” Aspirations of something more than being a part of a confederation seems to be taking shape. The titles used in this inscription are also significant because they signal that a clear leadership among the Hunnic people in India was coming to the fore. The problem is that the date mentioned in the inscription has been lost but Bakker does suggest a date with his analysis. As we do see a development towards leadership in this inscription and this coupled with the fact that it is very close to the Schøyen Copper Scroll as far as paleography is concerned, Bakker dates (Bakker, 2020; 26) this somewhere around a year later than the Schøyen Copper Scroll which belongs to 495/96 CE, therefore, this inscription can be dated to \~ 497 CE.
 
-> **Evidently, the quadrumvirate—known from the silver bowl, the common > coinage, and the copper scroll—had been superseded at the time of the > Khurā inscription**. >
+> **Evidently, the quadrumvirate—known from the silver bowl, the common coinage, and the copper scroll—had been superseded at the time of the Khurā inscription**. >
 > **Hans T. Bakker, The Alkhan: A Hunnic People in South Asia, 2020**.
 
 **§** **The Purāṇa-s**
@@ -188,7 +189,7 @@ Some scholars have tried to paint the Aulikara-s as quite independent of the Gup
 
 There is thus a possibility that later Aulikara line began as feudatories/subordinates of the Gupta-s but gradually became independent (Salomon, 1989; 26). Salomon emphasizes his point by quoting S. R. Goyal who says –
 
-> **“The rulers of this family enjoyed considerable freedom in the > administration of their state, though there is hardly any reason to > doubt their subordination to the Gupta Emperor.” ** >
+> **“The rulers of this family enjoyed considerable freedom in the administration of their state, though there is hardly any reason to doubt their subordination to the Gupta Emperor.” ** >
 > **S. R. Goyal, year, as cited in Richard Salomon, 1989.**
 
 There is no certainty that the Early Aulikara-s whose inscriptions trace their predecessors to \~ 380 CE were directly related to Later or Great Aulikara-s thought future excavations may unearth some new inscriptions or some new evidence might help us to understand their connection. As of now, it appears that they were not direct descendants but it is not improbable as well (Balogh, 2019; 29). The Later-Aulikara inscriptions mention at least five predecessors of Prakāśadharman going back to \~ 420 CE**³⁰ **who might have been local rulers or subordinate governors during the prime of Early Aulikara-s (Balogh, 2019; 29). Though Prakāśadharman was probably not as powerful as his successor he was nonetheless a figure of considerable stature (Salomon, 1989; 12).
@@ -314,7 +315,10 @@ This study shows that many a times, important events in history are much more li
 
 **References**
 
--   ¹ Salomon, 1989. p. 7 -   ² Bakker, 2020. p. 26 -   ³ *ibid.* -   ^(**4**) Bakker, 2020, *Hunnic Peoples in Central and South
+-   ¹ Salomon, 1989. p. 7
+-   ² Bakker, 2020. p. 26
+-   ³ *ibid.*
+-   ^(**4**) Bakker, 2020, *Hunnic Peoples in Central and South
     Asia*, 2020. Chapter X – Indic Sources, p. 280 -   ⁵ Bakker, 2020. p. 27 -   ⁶ *ibid*. p. 59 -   ⁷ Dezső & Hidas, 2020. *Hunnic Peoples in Central and South Asia*.
     Chapter X.1 , p. 296; also see Majumdar, 1970. p. 35 -   ⁸ Bakker, 2020. p. 62 -   ⁹ *ibid*. p. 67 -   ¹⁰ Majumdar, 1970. p. 29 -   ¹¹ *ibid*. p. 31 -   ¹² Dubey & Acharya, 2014. p. 1 -   ¹³ Corpus Inscriptionum Indicarum Volume 3 *(Inscriptions of the
     Early Gupta Kings)*. 1981. pp. 355-358 -   ¹⁴ *ibid*. pp. 358-360 -   ¹⁵ Bakker, 2020. p. 68 -   ¹⁶ *ibid*. p. 28 -   ¹⁷ *ibid*. p. 80 -   ¹⁸ Bakker 2020, *Hunnic Peoples in Central and South Asia*.
@@ -324,7 +328,8 @@ This study shows that many a times, important events in history are much more li
 
 **Bibliography**
 
-1.  Bakker, Hans T. 2014. The World of Skandapurāṇa: North India in the
+1.  Bakker, Hans T.
+2014. The World of Skandapurāṇa: North India in the
     Sixth and Seventh Centuries. Brill Academic Publication. Leiden. 2.  Bakker, Hans T. 2020. The Alkhan: A Hunnic People in South Asia (A
     Companion to Hunnic Peoples in Central and South Asia: Sources for
     their Origin and History). Barkhuis Publishing. Groningen. 3.  Balogh, Dániel. 2019. Inscriptions of the Aulikaras and their

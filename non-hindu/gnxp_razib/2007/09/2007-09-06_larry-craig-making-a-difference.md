@@ -13,7 +13,8 @@ Larry Craig, making a difference
 
 ### Related Posts:
 
-- [I'm back!](https://www.gnxp.com/WordPress/2006/12/07/im-back/) - ["It's Craig's
+- [I'm back!](https://www.gnxp.com/WordPress/2006/12/07/im-back/)
+- ["It's Craig's
   List"](https://www.gnxp.com/WordPress/2006/04/09/its-craigs-list/) - [Swedes are still having sex, and Finns are
   not](https://www.gnxp.com/WordPress/2006/06/26/swedes-are-still-having-sex-and-finns-are-not/) - [New blog to check
   out](https://www.gnxp.com/WordPress/2007/09/10/new-blog-to-check-out/) - [Synthetic

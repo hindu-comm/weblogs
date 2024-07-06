@@ -15,8 +15,8 @@ But this is an intellectual matter. What was happening “on the ground”? I de
 
 Here is the article, [Age of Consent in Jersey Expected to Revert to 16](https://www.nytimes.com/1979/05/03/archives/age-of-consent-in-jersey-expected-to-revert-to-16-jersey-debating.html?searchResultPosition=1):
 
-> Leaders of the New Jersey Assembly, responding to widespread fears > about a new criminal code that lowers the age of sexual consent to 13 > years, said today they expected the Assembly to pass a stopgap measure > tomorrow to restore 16 as the age of consent. The legislators hope to > allay fears that the state is endorsing sexual activity by teen‐agers. >
-> The reduced age of consent had been included in the criminal code, > which takes effect Sept. 1, at the urging of the **National > Organization for Women**. An official of the organization, Roberta > Kaufman, said it had lobbied for making the age of consent 13 not to > encourage sex among young teen‐agers, but to keep teen‐agers under 16 > from becoming entangled in the law if they did engage in sex.
+> Leaders of the New Jersey Assembly, responding to widespread fears > about a new criminal code that lowers the age of sexual consent to 13 years, said today they expected the Assembly to pass a stopgap measure tomorrow to restore 16 as the age of consent. The legislators hope to allay fears that the state is endorsing sexual activity by teen‐agers. >
+> The reduced age of consent had been included in the criminal code, > which takes effect Sept. 1, at the urging of the **National > Organization for Women**. An official of the organization, Roberta Kaufman, said it had lobbied for making the age of consent 13 not to encourage sex among young teen‐agers, but to keep teen‐agers under 16 from becoming entangled in the law if they did engage in sex.
 
 Reading the archives from that period a lot of things were on the table. Apparently, New Jersey was [looking to legalize](https://www.nytimes.com/1979/12/30/archives/new-jersey-opinion-trentons-policy-on-sexuality-is-laissezfaire.html?searchResultPosition=6) incest between adults over the age of 16 and necrophilia.
 

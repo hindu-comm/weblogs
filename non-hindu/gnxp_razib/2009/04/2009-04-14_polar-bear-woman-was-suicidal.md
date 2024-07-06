@@ -11,10 +11,10 @@ Polar bear woman was suicidal
 
 [Teacher who survived polar bear mauling at zoo ‘was depressed over job’](http://www.telegraph.co.uk/news/worldnews/europe/germany/5148900/Teacher-who-survived-polar-bear-mauling-at-zoo-was-depressed-over-job.html):
 
-> Rifles had already been issued to marksmen and Heiner Kloes, a zoo > spokesman, said: “This woman’s behaviour not only put her life in > danger but also that of the staff who had to rescue her.  
-> “However, we do have guns and we would have been prepared to use them > without hesitation if it was felt it was the only way to save the > woman.”  
+> Rifles had already been issued to marksmen and Heiner Kloes, a zoo spokesman, said: “This woman’s behaviour not only put her life in danger but also that of the staff who had to rescue her.  
+> “However, we do have guns and we would have been prepared to use them without hesitation if it was felt it was the only way to save the woman.”  
 > …  
-> On Monday it emerged that she is a teacher who had been driven to > despair by her failure to find a job.
+> On Monday it emerged that she is a teacher who had been driven to despair by her failure to find a job.
 
 **Related:** Woman attacked by polar bear (live footage).
 

@@ -11,8 +11,8 @@ Math convinces Dawkins
 
 [Richard Dawkins](http://edge.org/q2008/q08_15.html#dawkins) on his acceptance of [The Handicap Principle](https://www.gnxp.com/MT2/archives/000846.html):
 
-> **Verbal arguments of this kind can take us only so far. Mathematical > models are needed**, and various people supplied them, notably John > Maynard Smith who concluded that Zahavi’s idea, though interesting, > just wouldn’t work. Or, to be more precise, Maynard Smith couldn’t > find a mathematical model that led to the conclusion that Zahavi’s > theory might work. He left open the possibility that somebody else > might come along later with a better model. That is exactly what Alan > Grafen did, and now we all have to change our minds.  
-> I translated Grafen’s mathematical model back into words, in the > Second Edition of The Selfish Gene (pp 309-313), and I shall not > repeat myself here. In one sentence, Grafen found an evolutionarily > stable combination of male advertising strategy and female credulity > strategy that turned out to be unmistakeably Zahavian. I was wrong to > dismiss Zahavi, and so were a lot of other people.
+> **Verbal arguments of this kind can take us only so far. Mathematical > models are needed**, and various people supplied them, notably John > Maynard Smith who concluded that Zahavi’s idea, though interesting, > just wouldn’t work. Or, to be more precise, Maynard Smith couldn’t > find a mathematical model that led to the conclusion that Zahavi’s theory might work. He left open the possibility that somebody else might come along later with a better model. That is exactly what Alan Grafen did, and now we all have to change our minds.  
+> I translated Grafen’s mathematical model back into words, in the > Second Edition of The Selfish Gene (pp 309-313), and I shall not > repeat myself here. In one sentence, Grafen found an evolutionarily stable combination of male advertising strategy and female credulity strategy that turned out to be unmistakeably Zahavian. I was wrong to dismiss Zahavi, and so were a lot of other people.
 
 ### Related Posts:
 

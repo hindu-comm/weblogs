@@ -11,8 +11,8 @@ Gene therapy starting to get useful?
 
 Some [encouraging gene therapy news in Science](http://www.sciencemag.org/cgi/content/abstract/1129003v1):
 
-> Cancer Regression in Patients After Transfer of Genetically Engineered > Lymphocytes >
-> Using a retrovirus encoding a T cell receptor, we report here the > ability to specifically confer tumor recognition by autologous > lymphocytes from peripheral blood. Adoptive transfer of these > transduced cells in fifteen patients resulted in durable engraftment > at levels exceeding ten percent of peripheral blood lymphocytes for at > least two months post infusion. We observed high sustained levels of > circulating, engineered cells at one year post-infusion in two > patients, that both demonstrated objective regression of metastatic > melanoma lesions. This study suggests the therapeutic potential of > genetically engineered cells for the biologic therapy of cancer.
+> Cancer Regression in Patients After Transfer of Genetically Engineered Lymphocytes >
+> Using a retrovirus encoding a T cell receptor, we report here the > ability to specifically confer tumor recognition by autologous > lymphocytes from peripheral blood. Adoptive transfer of these > transduced cells in fifteen patients resulted in durable engraftment > at levels exceeding ten percent of peripheral blood lymphocytes for at > least two months post infusion. We observed high sustained levels of > circulating, engineered cells at one year post-infusion in two patients, that both demonstrated objective regression of metastatic melanoma lesions. This study suggests the therapeutic potential of genetically engineered cells for the biologic therapy of cancer.
 
 According to reports in Swedish media (i.e. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=597&a=569420&previousRenderType=6)) two late-stage terminal patients out of 17 trial subjects were cancer free after 18 months.
 

@@ -25,7 +25,8 @@ These changes in the rates of allele fixations should lead to a weaker signal of
 
 ### Related Posts:
 
-- [Chimps more evolved? - part
+- [Chimps more evolved?
+- part
   III](https://www.gnxp.com/WordPress/2007/04/20/chimps-more-evolved-part-iii/) - [Chimps more
   evolved?](https://www.gnxp.com/WordPress/2007/04/16/chimps-more-evolved-2/) - [Chimps more
   evolved?](https://www.gnxp.com/WordPress/2007/04/16/chimps-more-evolved/) - [Chimp vs. human

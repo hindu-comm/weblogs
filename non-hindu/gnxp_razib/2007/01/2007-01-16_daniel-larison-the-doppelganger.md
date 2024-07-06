@@ -15,7 +15,8 @@ On a different note, a few months ago I was in California at a burrito shop and 
 
 ### Related Posts:
 
-- [The American Scene - part
+- [The American Scene
+- part
   II](https://www.gnxp.com/WordPress/2007/06/26/the-american-scene-part-ii/) - [A request for bloggingheads.tv - Larison vs.
   Yglesias](https://www.gnxp.com/WordPress/2007/02/21/a-request-for-bloggingheads-tv-larison-vs-yglesias/) - [Do you like the sound of your own
   voice?](https://www.gnxp.com/WordPress/2008/10/21/do-you-like-the-sound-of-your-own-voice/) - [The unbelieving

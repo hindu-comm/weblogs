@@ -17,19 +17,19 @@ First, [Molecular Adaptations Underlying Susceptibility and Resistance to Social
 
 How could genetically identical mouse strains react so differently to stress? The authors don’t really know, offering only this:
 
-> Such examples of phenotypic variability in inbred mice have always > been attributed to environmental influences that are difficult to > control and measure, such as variations in prenatal and postnatal > development and early dominance hierarchies (\[Peaston and Whitelaw, > 2006\] and \[Wong et al., 2005\]). However, experiments performed on > inbred mice raised in strictly defined environments have shown that up > to 80% of random variability in quantitative traits (e.g., body > weight) are unrelated to genetic and environmental influences > (Gartner, 1990). This third component to natural variation is thought > to maintain Gaussian distributions of biological variables independent > of environmental influences and sequence constraints and is now > attributed to chromatin remodeling events such as histone acetylation > or methylation.
+> Such examples of phenotypic variability in inbred mice have always > been attributed to environmental influences that are difficult to > control and measure, such as variations in prenatal and postnatal > development and early dominance hierarchies (\[Peaston and Whitelaw, > 2006\] and \[Wong et al., 2005\]). However, experiments performed on > inbred mice raised in strictly defined environments have shown that up > to 80% of random variability in quantitative traits (e.g., body > weight) are unrelated to genetic and environmental influences > (Gartner, 1990). This third component to natural variation is thought > to maintain Gaussian distributions of biological variables independent of environmental influences and sequence constraints and is now attributed to chromatin remodeling events such as histone acetylation or methylation.
 
 So perhaps it’s just random chance?
 
 In humans, however, there is genetic variation in the genes these authors identify, including a non-synonymous (Met-\>Val) polymorphism in Bndf that affects the expression level of the gene. The authors are able to test this polymorphism in their framework:
 
-> We show here that while Val/Val and Met/Met mice showed comparable > behavior on baseline measures of emotionality, Met/Met mice displayed > a striking Unsusceptible \[to depression following social defeat\] > phenotype in the social defeat paradigm, which was associated with a > \~50% reduction in levels of BDNF protein
+> We show here that while Val/Val and Met/Met mice showed comparable > behavior on baseline measures of emotionality, Met/Met mice displayed a striking Unsusceptible \[to depression following social defeat\] phenotype in the social defeat paradigm, which was associated with a \~50% reduction in levels of BDNF protein
 
 It’s quite possible, then, that this polymorphism plays an important role in how humans respond to certain social situations, though this remains to be seen.
 
 The other paper that caught my eye was on [the results](http://content.nejm.org/cgi/content/short/357/18/1821?query=TOC) of performing brain MRIs on people from the general population. I never would have thought to check if individuals had had random small strokes, but that’s what they find:
 
-> Asymptomatic brain infarcts were present in 145 persons (7.2%). Among > findings other than infarcts, cerebral aneurysms (1.8%) and benign > primary tumors (1.6%), mainly meningiomas, were the most frequent. The > prevalence of asymptomatic brain infarcts and meningiomas increased > with age, as did the volume of white-matter lesions, whereas aneurysms > showed no age-related increase in prevalence.
+> Asymptomatic brain infarcts were present in 145 persons (7.2%). Among > findings other than infarcts, cerebral aneurysms (1.8%) and benign > primary tumors (1.6%), mainly meningiomas, were the most frequent. The prevalence of asymptomatic brain infarcts and meningiomas increased with age, as did the volume of white-matter lesions, whereas aneurysms showed no age-related increase in prevalence.
 
 So around 10% of individuals over 50 are walking around with some sort of brain damage. I suppose there are a couple ways to respond to that information– either you adapt your view of what a normal brain is, or you become suspicious of anyone above a certain age.
 

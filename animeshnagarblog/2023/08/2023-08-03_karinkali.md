@@ -16,7 +16,7 @@ she was born from the third eye of Lord Shiva, and she is considered to be more 
 
 In an unbroken oral lineage, kariṅkālī sevā vidhī is transferred from the master to deciple. Her form is described here is based on the kariṅkālī sevā manuscript.
 
-> ” Her complexion is dark, she has three eyes, and four hands. In her > hands, she has the sword, skull cup, trident, and vajra. Her canine > teeth are long and sharp, making her very ferocious. By digging into > their heart, she kills her enemy.” >
+> ” Her complexion is dark, she has three eyes, and four hands. In her hands, she has the sword, skull cup, trident, and vajra. Her canine teeth are long and sharp, making her very ferocious. By digging into their heart, she kills her enemy.” >
 > kariṅkālī sevā vidhī folio 8
 
 kariṅkālī is worshipped following shākteya rituals and tribal folklore practices. The tribal mantravādis invoke her primarily for the purpose of destroying enemies and exorcism. She is invoked for the elimination of evil spirits, ghosts and black magic. The typical blood sacrifice (gurūthī) is offered to her, along with the cock and alcohol. She is also given nei pāyasam.

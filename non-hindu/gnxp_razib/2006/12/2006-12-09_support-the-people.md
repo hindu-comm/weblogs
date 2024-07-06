@@ -11,7 +11,7 @@ Support the people
 
 [Mike Dunford](http://scienceblogs.com/authority/2006/12/supporting_the_families_left_b.php) points me to an [organization](http://taps.org/) that [supports families who’ve lost loved ones in the Iraq War](http://taps.kintera.org/faf/home/default.asp?ievent=212687). From Mike:
 
-> As I mentioned recently, a number of soldiers in Iraq will be running > the Honolulu Marathon this weekend. The course goes around a base > several times, mostly over dirt roads. In part, running the Honolulu > Marathon lets folks maintain a connection with home, but that’s not > the only reason that they are running. They’re also running to support > TAPS – an organization that provides support to the families of people > who die while on active duty in the armed forces.
+> As I mentioned recently, a number of soldiers in Iraq will be running > the Honolulu Marathon this weekend. The course goes around a base > several times, mostly over dirt roads. In part, running the Honolulu > Marathon lets folks maintain a connection with home, but that’s not the only reason that they are running. They’re also running to support TAPS – an organization that provides support to the families of people who die while on active duty in the armed forces.
 
 You can see the [casualty counts](http://www.icasualties.org/oif/) yourself, nothing to sniff at.
 

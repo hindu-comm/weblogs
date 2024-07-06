@@ -381,7 +381,7 @@ The African marksman made it impossible for any man attempting to get across the
 
 A veteran of the siege recalled
 
-> “when any one of our men ventured across the road he (“Bob the > Nailer”) would drop him by a rifle ball. Bob was a sure marksman. The > only way to get across the road for water from the well was to wait > until his gun flashed and then instantly cross, before he had time to > load.”
+> “when any one of our men ventured across the road he (“Bob the > Nailer”) would drop him by a rifle ball. Bob was a sure marksman. The only way to get across the road for water from the well was to wait until his gun flashed and then instantly cross, before he had time to load.”
 
 Attempts to eliminate him using gunfire proved unfruitful due to the protection afforded to him by the turret. In order to silence the enemy position, a British detachment composed of 50 Europeans and 20 Sikhs led by Captain Mansfield and engineers led by Captain Fulton and Lieutenant Anderson launched a sortie on the 7th of July 1857. While the detachment succeeded in surprising the rebel troops and inflicted twenty casualties on them, they failed to find and eliminate Bob the Nailer who had made his escape.
 
@@ -407,15 +407,15 @@ The African snipers left a lasting impact on the British forces, a fact evident 
 
 **LER Rees** testifies to the deadliness of the sharpshooter in his memoirs
 
-> “...A few well-aimed shots from the rifles of the late king’s African > eunuchs and other first-rate sharpshooters, often deprived us of > three, four, and even more stout English hearts. We were then more > careless of walking about the premises, and were picked off in the > midst of the most peaceful occupations. One poor soldier, I remember, > who was standing talking with me, every now and then giving a few > puffs of guava-leaf smoke from his self-manufactured wooden pipe, > suddenly fell dead at my feet. A rifle bullet had pierced his > temples.”
+> “...A few well-aimed shots from the rifles of the late king’s African > eunuchs and other first-rate sharpshooters, often deprived us of > three, four, and even more stout English hearts. We were then more > careless of walking about the premises, and were picked off in the > midst of the most peaceful occupations. One poor soldier, I remember, > who was standing talking with me, every now and then giving a few puffs of guava-leaf smoke from his self-manufactured wooden pipe, suddenly fell dead at my feet. A rifle bullet had pierced his temples.”
 
 He further states
 
-> “Our deaths were very numerous up to this day. They averaged about > fifteen to twenty daily, and were mostly caused by rifle and musket > balls. Many owed their deaths to a rebel African, who from Johannes’ > house, fired almost without ever missing his aim.”
+> “Our deaths were very numerous up to this day. They averaged about fifteen to twenty daily, and were mostly caused by rifle and musket balls. Many owed their deaths to a rebel African, who from Johannes’ house, fired almost without ever missing his aim.”
 
 **William Forbes Mitchell’s** ‘Reminiscences of the Great Mutiny, 1857-59’ showcases the lethality of the African snipers
 
-> “During the early part of the forenoon we had several men struck by > rifle bullets fired from one of the minarets in the Motee Mahal, which > was said to be occupied by one of the ex-King of Oude's eunuchs who > was a first-rate marksman, and armed with an excellent rifle; from his > elevated position in the minaret he could see right into the square of > the Shah Nujeef. We soon had several men wounded, and as there was no > surgeon with us”
+> “During the early part of the forenoon we had several men struck by > rifle bullets fired from one of the minarets in the Motee Mahal, which > was said to be occupied by one of the ex-King of Oude's eunuchs who > was a first-rate marksman, and armed with an excellent rifle; from his elevated position in the minaret he could see right into the square of the Shah Nujeef. We soon had several men wounded, and as there was no surgeon with us”
 
 Forbes also documented the remarkable presence of a female marksman. He recounts a fierce encounter between British forces and rebels, during which the soldiers, driven by unrelenting thirst, were enticed by the cool shade of a peepal tree whose base held jars brimming with water. A number of these from the Fifty-Third and Ninety-Third regiments, however, were soon found to be lying lifeless beneath the very tree. This caught Captain Dawson's observant eye, who upon meticulous inspection of the wounds, he discerned a recurring trait – each soldier had unmistakably fallen victim to shots fired from an elevated position.
 

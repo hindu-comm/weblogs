@@ -11,7 +11,7 @@ Darwin pedantry
 
 So, I [saw this article](http://www.suntimes.com/lifestyles/427259,WKP-News-muse15.article) about a Charles Darwin exhibit at a museum, and this quote irritated me:
 
-> “A lot of people don’t know his mother was heir to the Wedgwood > ceramics fortune or that Darwin married his first cousin,” Skwerski > \[the curator in charge of the exhibit\] says. “**For a man who > essentially studied *genetics***, you better believe he worried about > what damage he might be doing by intermarrying.”
+> “A lot of people don’t know his mother was heir to the Wedgwood > ceramics fortune or that Darwin married his first cousin,” Skwerski \[the curator in charge of the exhibit\] says. “**For a man who essentially studied *genetics***, you better believe he worried about what damage he might be doing by intermarrying.”
 
 Darwin didn’t know about genetics. The term “genetics” itself was coined by the Mendelian William Bateson in 1905 after the rediscovery of Mendel’s work. Darwin studied inheritance, of which Mendelian genetics is a model and system. To say Darwin studied genetics is like saying that Moses’ religious thinking was rooted in [Christology](https://en.wikipedia.org/wiki/Christology).
 

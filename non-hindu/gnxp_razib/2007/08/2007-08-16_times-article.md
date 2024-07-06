@@ -15,7 +15,7 @@ The article itself is not very impressive – largely a tired rehash of argument
 
 Addendum from p-ter: The author of the article makes an appeal the authority of geneticists on race:
 
-> This will not come as a surprise to geneticists who have long > understood that racial categories are social constructs lacking > genetically rigorous boundaries. Most genetic variation exists within > groups rather than between them and skin colour can be a highly > misleading measure of the genetic distance between populations.
+> This will not come as a surprise to geneticists who have long > understood that racial categories are social constructs lacking genetically rigorous boundaries. Most genetic variation exists within groups rather than between them and skin colour can be a highly misleading measure of the genetic distance between populations.
 
 These are tired claims to hear for long-time readers, but I feel the need to link to [my post on race](https://www.gnxp.com/blog/2007/01/race-current-consensus.php) and [AWF Edwards’s](https://www.gnxp.com/blog/2006/08/10-questions-for-awf-edwards.php) [paper on Lewontin’s fallacy](https://www.gnxp.com/MT2/archives/001525.html).
 

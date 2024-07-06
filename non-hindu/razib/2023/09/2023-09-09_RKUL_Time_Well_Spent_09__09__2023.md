@@ -180,7 +180,7 @@ There you’ll find links to the few different podcasts I’ve contributed to or
 
 [People In Brazil Are Quite “Mixed-Race”](https://www.gnxp.com/WordPress/2023/08/15/people-in-brazil-are-quite-mixed-race/):
 
-> The main problem with the first narrative is it is just a plain fact > that most Brazilians are mixed-race in the American context. Bündchen > is the exception, not the rule. This has been hard to ascertain > because of the lack of high density SNP array surveys in the early > years of this blog, but I decided to go back and check now that these > chips are very cheap, and a paper with 6,500 Brazilians typed on > 370,000 SNPs exists to illustrate the ancestry distributions within: > [A minimum set of ancestry informative markers for determining > admixture proportions in a mixed American population: the Brazilian > set](https://www.nature.com/articles/ejhg2015187).
+> The main problem with the first narrative is it is just a plain fact > that most Brazilians are mixed-race in the American context. Bündchen > is the exception, not the rule. This has been hard to ascertain > because of the lack of high density SNP array surveys in the early > years of this blog, but I decided to go back and check now that these > chips are very cheap, and a paper with 6,500 Brazilians typed on > 370,000 SNPs exists to illustrate the ancestry distributions within: [A minimum set of ancestry informative markers for determining admixture proportions in a mixed American population: the Brazilian set](https://www.nature.com/articles/ejhg2015187).
 
 ### **Over to you**
 

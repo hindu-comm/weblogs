@@ -11,8 +11,8 @@ Scitable, Nature as king of all science media?
 
 A few weeks ago I was pointed to [Scitable](http://www.nature.com/scitable), part of the *Nature* media empire. Here’s how it’s introduced:
 
-> A free science library and personal learning tool brought to you by > Nature Publishing Group, the world’s leading publisher of science.  
-> **Scitable currently concentrates on genetics, the study of evolution, > variation, and the rich complexity of living organisms.** As you > cultivate your understanding of modern genetics on Scitable, you will > explore not only what we know about genetics and the ways it impacts > our society, but also the data and evidence that supports our > knowledge.
+> A free science library and personal learning tool brought to you by Nature Publishing Group, the world’s leading publisher of science.  
+> **Scitable currently concentrates on genetics, the study of evolution, > variation, and the rich complexity of living organisms.** As you > cultivate your understanding of modern genetics on Scitable, you will explore not only what we know about genetics and the ways it impacts our society, but also the data and evidence that supports our knowledge.
 
 Due to the disciplinary focus I can see why *Nature Education* might have thought I would be curious. Since I’m rather confused by Facebook’s constant barrage of applications the relative simplicity of the interface was a relief. The site has the standard “social networking” features, but these sorts of utilities are useless without content. I clicked [Topics](http://www.nature.com/scitable/topics), then [Population and Quantitative Genetics](http://www.nature.com/scitable/topic/Population-and-Quantitative-Genetics-21). This is an area where I feel that Google has problems spanning the gap between Wikipedia and academic articles…because there isn’t much content in between in terms of difficulty and depth.
 
@@ -24,7 +24,8 @@ Finally, I do have to note that I believe their programmer got *just* a little t
 
 ### Related Posts:
 
-- [Scitable](https://www.gnxp.com/WordPress/2009/05/28/scitable/) - [Interview with Vikram Savkar of
+- [Scitable](https://www.gnxp.com/WordPress/2009/05/28/scitable/)
+- [Interview with Vikram Savkar of
   Scitable](https://www.gnxp.com/WordPress/2010/03/03/interview-with-vikram-savkar-of-scitable/) - [Behavioral genetics in Nature Reviews
   Genetics](https://www.gnxp.com/WordPress/2005/10/08/behavioral-genetics-in-nature-reviews-genetics/) - [New model
   organisms](https://www.gnxp.com/WordPress/2009/04/11/new-model-organisms/) - [Media meltdown hits science

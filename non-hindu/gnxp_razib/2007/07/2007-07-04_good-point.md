@@ -290,7 +290,8 @@ Note 7: Richard Lynn, Dysgenics: Genetic Deterioration in Modern Populations, 19
 
 ### Related Posts:
 
-- [Fisher web](https://www.gnxp.com/WordPress/2006/02/27/fisher-web/) - [A smarter
+- [Fisher web](https://www.gnxp.com/WordPress/2006/02/27/fisher-web/)
+- [A smarter
   population?](https://www.gnxp.com/WordPress/2006/09/07/a-smarter-population/) - [New Paper from the Journal of Bogus
   Sociology](https://www.gnxp.com/WordPress/2006/06/05/new-paper-from-the-journal-of-bogus-sociology/) - [IQ and Higher
   Education](https://www.gnxp.com/WordPress/2008/06/08/iq-and-higher-education/) - [R. A. Fisher on Inclusive Fitness

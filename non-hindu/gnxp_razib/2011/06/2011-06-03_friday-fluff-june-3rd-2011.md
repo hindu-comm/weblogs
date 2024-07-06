@@ -18,7 +18,7 @@ Friday Fluff – June 3rd, 2011
 
 3\) **Comment of the week**, in response to [“Hold the praise (re: comments)”](http://blogs.discovermagazine.com/gnxp/2011/06/hold-the-praise-re-comments/#comment-73912):
 
-> This was a great post. Very informative! By the way have you seen my > collection of genuine high end watches? I’m selling them cheap because > I lost a lot of money in the financial crisis and have loans to pay > off….
+> This was a great post. Very informative! By the way have you seen my collection of genuine high end watches? I’m selling them cheap because I lost a lot of money in the financial crisis and have loans to pay off….
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/SunSpotHowTo.jpg?resize=600%2C445)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/SunSpotHowTo.jpg?resize=600%2C445)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/SunSpotHowTo.jpg)

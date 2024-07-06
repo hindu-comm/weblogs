@@ -18,14 +18,15 @@ Friday Fluff – April 15th, 2011
 
 3\) **Comment of the week**, in response to [“When the doctor is the patient….”](http://blogs.discovermagazine.com/gnxp/2011/04/when-the-doctor-is-a-patient/#comment-64353):
 
-> It’s no different from decisions in other fiduciary situations. > Professionals should and generally do choose the low-risk alternative. > The analogy is a financial adviser who puts his clients in diversified > index funds, while taking a shot at a leveraged commodity play in his > personal account.
+> It’s no different from decisions in other fiduciary situations. > Professionals should and generally do choose the low-risk alternative. The analogy is a financial adviser who puts his clients in diversified index funds, while taking a shot at a leveraged commodity play in his personal account.
 
 4\) And finally, your weekly **fluff fix**:  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/up.jpg?resize=363%2C410)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/up.jpg?resize=363%2C410)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/04/up.jpg)
 
 ### Related Posts:
 
-- [Friday Fluff - April 29th,
+- [Friday Fluff
+- April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff - April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff - April 22nd,
   2011](https://www.gnxp.com/WordPress/2011/04/22/friday-fluff-april-22nd-2011/) - [Friday Fluff - July 8th,

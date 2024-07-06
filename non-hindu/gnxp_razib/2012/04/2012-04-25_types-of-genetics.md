@@ -9,7 +9,11 @@ Source: [here](https://www.gnxp.com/WordPress/2012/04/25/types-of-genetics/).
 
 Types of genetics
 
-- Molecular genetics - Developmental genetics - Population genetics - Quantitative genetics - Phylogenetics
+- Molecular genetics
+- Developmental genetics
+- Population genetics
+- Quantitative genetics
+- Phylogenetics
 
 Thoughts? Recently had a discussion whether phylogeneticists considered themselves geneticists (qualified “no”). Quantitative genetics really evolved out of biometrics, which actually opposed Mendelian genetics. You can construct quantitative genetics from Mendelian first principles, but it is not necessary. As for population vs. molecular, ask each group what they mean by “gene.” Modern developmental geneticists seem to be closely aligned with molecular geneticists.
 

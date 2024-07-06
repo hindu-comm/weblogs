@@ -17,7 +17,7 @@ That is changed by an article \[Note 2\] by a Dutch team in a recent issue of th
 
 The Abstract of the article is as follows:
 
-> A running controversy in evolutionary thought was Eldredge and Gould’s > punctuated equilibrium model, which proposes long periods of > morphological stasis interspersed with rapid bursts of dramatic > evolutionary change. One of the earliest and most iconic pieces of > research in support of punctuated equilibrium is the work of > Williamson on the Plio-Pleistocene molluscs of the Turkana Basin. > Williamson claimed to have found firm evidence for three episodes of > rapid evolutionary change separated by long periods of stasis in a > high-resolution sequence. Most of the discussions following this > report centered on the topics of (eco)phenotypy versus genotypy and > the possible presence of preservational and temporal artifacts. The > debate proved inconclusive, leaving Williamson’s reports as one of the > empirical foundations of the paradigm of punctuated equilibrium. Here > we conclusively show Williamson’s original interpretations to be > highly flawed. The supposed rapid bursts of punctuated evolutionary > change represent artifacts resulting from the invasion of extrabasinal > faunal elements in the Turkana palaeolakes during wet phases well > known from elsewhere in Africa.
+> A running controversy in evolutionary thought was Eldredge and Gould’s > punctuated equilibrium model, which proposes long periods of > morphological stasis interspersed with rapid bursts of dramatic > evolutionary change. One of the earliest and most iconic pieces of > research in support of punctuated equilibrium is the work of > Williamson on the Plio-Pleistocene molluscs of the Turkana Basin. > Williamson claimed to have found firm evidence for three episodes of > rapid evolutionary change separated by long periods of stasis in a > high-resolution sequence. Most of the discussions following this > report centered on the topics of (eco)phenotypy versus genotypy and > the possible presence of preservational and temporal artifacts. The > debate proved inconclusive, leaving Williamson’s reports as one of the > empirical foundations of the paradigm of punctuated equilibrium. Here > we conclusively show Williamson’s original interpretations to be > highly flawed. The supposed rapid bursts of punctuated evolutionary change represent artifacts resulting from the invasion of extrabasinal faunal elements in the Turkana palaeolakes during wet phases well known from elsewhere in Africa.
 
 I have read the full article (available [here](http://216.239.59.104/search?q=cache:SO2uwjTdAZ4J:www.paleontologie.be/file/2/Van_Bocxlaer_et_al_2008_Evolution/+%22p+g+williamson%22+turkana&hl=en&ct=clnk&cd=7&gl=uk)), which looks convincing on this particular case (but what do I know about old African molluscs?) \[Added: a more easily readable pdf version is also available. Google ‘bocxlaer turkana’ and you should find it.\] The strongest point is that it is not just armchair criticism but based on extensive new fossil collecting. But since I specialise in armchair criticism I can hardly throw any stones.
 
@@ -29,7 +29,8 @@ Note 2: Bert van Bocxlaer, Dirk van Damme, and Craig S. Feibel, ‘Gradual versu
 
 ### Related Posts:
 
-- [What Darwin Said: Part 5 - Gradualism
+- [What Darwin Said: Part 5
+- Gradualism
   (A)](https://www.gnxp.com/WordPress/2009/09/20/what-darwin-said-part-5-gradualism-a/) - [Flatfish Gradual
   Evolution](https://www.gnxp.com/WordPress/2009/09/25/flatfish-gradual-evolution/) - ["Arguments worth having
   ..."](https://www.gnxp.com/WordPress/2005/09/01/arguments-worth-having/) - [My Darwin, right or

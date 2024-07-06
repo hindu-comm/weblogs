@@ -56,7 +56,7 @@ Having thus defined who the good teacher is, Pavanandi proceeds to complete his 
 
 He says:
 
-> Those who are not conspicuous for some noble quality, those who are by > nature mean-minded and disposed to be jealous, greedy, deceitful, and > cowardly cannot be good teachers.
+> Those who are not conspicuous for some noble quality, those who are by nature mean-minded and disposed to be jealous, greedy, deceitful, and cowardly cannot be good teachers.
 
 One has only to think for a moment, and try and analyse the reasons for the pronounced failures in the teaching line, to realize the profound truth, underlying each of these statements. A correct understanding of Pavanandi’s meaning would find wider application for his statements.
 

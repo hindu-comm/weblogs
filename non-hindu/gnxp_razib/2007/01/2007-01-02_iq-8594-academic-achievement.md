@@ -27,7 +27,7 @@ Their major contribution was that in predicting (standardized) academic achievem
 
 In their own words:
 
-> General cognitive ability measures (Raven’s, Vocabulary) and specific > cognitive abilities (working memory, processing speed, spatial > ability) collectively accounted for between 16% \[GPA\] and 54% > \[SAT\] of the variance in academic achievement.
+> General cognitive ability measures (Raven’s, Vocabulary) and specific cognitive abilities (working memory, processing speed, spatial ability) collectively accounted for between 16% \[GPA\] and 54% \[SAT\] of the variance in academic achievement.
 
 2\) Marley W. Watkins, Pui-Wa Lei and Gary L. Canivez: Psychometric intelligence and achievement: A cross-lagged panel analysis
 
@@ -35,11 +35,11 @@ This study had 3 advantages over the former: (1) it is longitudinal, (2) the dat
 
 Because they have longitudinal data on both standardized IQ and standardized achievement tests, they can specifically test the IQ—\>Achievement hypothesis (see preamble). What do they find?
 
-> This notion of intelligence estimating a student’s ability to succeed > in school assumes the temporal precedence of intelligence to > achievement. . . Regardless, the present study supports the view that > intelligence, as measured by the VC \[Verbal Comprehension\] and PO > \[Perceptual Organization\] dimensions of the WISC-III, influences or > is related to future achievement whereas reading and math achievement > do not appear to influence or are not related to future psychometric > intelligence.
+> This notion of intelligence estimating a student’s ability to succeed > in school assumes the temporal precedence of intelligence to > achievement. . . Regardless, the present study supports the view that > intelligence, as measured by the VC \[Verbal Comprehension\] and PO > \[Perceptual Organization\] dimensions of the WISC-III, influences or is related to future achievement whereas reading and math achievement do not appear to influence or are not related to future psychometric intelligence.
 
 Stated more bluntly:
 
-> . . . the present study provides evidence that psychometric > intelligence is predictive of future achievement whereas achievement > is not predictive of future psychometric intelligence. This temporal > precedence is consistent with the theoretical position of Jensen > (2000)\[1\] that intelligence bears a causal relationship to > achievement and not the other way around.
+> . . . the present study provides evidence that psychometric > intelligence is predictive of future achievement whereas achievement > is not predictive of future psychometric intelligence. This temporal precedence is consistent with the theoretical position of Jensen (2000)\[1\] that intelligence bears a causal relationship to achievement and not the other way around.
 
 3\) Ian J. Deary, Steve Strand, Pauline Smith and Cres Fernandes: *Intelligence and educational achievement*
 
@@ -53,7 +53,7 @@ Deary took the analysis a step further however and did a little latent variable 
 
 Take home message: While general cognitive ability and academic achievement are not isomorphic, the former is necessary for the latter, while the converse is not necessarily true. [Spearman](http://psychclassics.yorku.ca/Spearman/) suggested this more than a century ago, and, to quote the last sentence in Deary’s work,
 
-> These data establish the validity of *g* for this important life > outcome.
+> These data establish the validity of *g* for this important life outcome.
 
 1\. Jensen, A. R. (2000, August). *The g factor and the design of education*. Paper presented at the annual meeting of the American Psychological Association, Washington, DC.
 

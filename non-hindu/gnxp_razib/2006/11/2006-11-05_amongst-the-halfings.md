@@ -11,7 +11,7 @@ Amongst the halfings
 
 From [Twilight People](https://www.amazon.com/exec/obidos/ASIN/0520243986/geneexpressio-20), a chronicle of a black American with a Coloured mother as he journeys through that community in South Africa:
 
-> …As we made our way to our table, we crossed paths with some of the > most striking and exotic-looking people I’d ever seen: olive-skinned > women with blonde hair and blue eyes; men with reddish brown skin and > mos pf dark, curly hair; girls with alabaster skin, aquiline noses, > full lips, and gray-blue eyes; boys with the swarthy complexion of > Italians and straight, sandy brown hair….
+> …As we made our way to our table, we crossed paths with some of the > most striking and exotic-looking people I’d ever seen: olive-skinned > women with blonde hair and blue eyes; men with reddish brown skin and mos pf dark, curly hair; girls with alabaster skin, aquiline noses, full lips, and gray-blue eyes; boys with the swarthy complexion of Italians and straight, sandy brown hair….
 
 The dominant Christian Afrikaans speaking element of the Coloureds are an admixture between Dutch European males, as well as slaves from Asia, and African slaves of Bantu, and especially, Khoikhoi origin.
 

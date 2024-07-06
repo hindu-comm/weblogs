@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2017/06/06/a-reticulation-pulse-ex
 
 A reticulation + pulse expansion of modern human genetic variation
 
-> Ancient genomes from S Africa pushes modern human divergence beyond > 260,000 years ago <https://t.co/HaO7GO2KAs> WANTED TO GO TO SLEEP!!! >
-> — Razib Khan (@razibkhan) [June 6, > 2017](https://twitter.com/razibkhan/status/871985557597036544)
+> Ancient genomes from S Africa pushes modern human divergence beyond 260,000 years ago <https://t.co/HaO7GO2KAs> WANTED TO GO TO SLEEP!!! >
+> — Razib Khan (@razibkhan) [June 6, 2017](https://twitter.com/razibkhan/status/871985557597036544)
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-14.jpeg?resize=183%2C275)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/06/download-14.jpeg?resize=183%2C275)](https://www.amazon.com/exec/obidos/ASIN/B01GYPKJ2I/geneexpressio-20)In response to a little bit of fatigue at the constant stream of ancient DNA, John Hawks digs the knife in a bit deeper. There’s more. Since Hawks is co-author with Lee Berger of [Almost Human: The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story](https://www.amazon.com/exec/obidos/ASIN/B01GYPKJ2I/geneexpressio-20), I’m hoping for something related to *naledi*. But barring that, there is still lots to come down the pipeline ([Alexander Kim](https://twitter.com/amwkim?lang=en) has a Twitter account worth following to keep up on this line of research).
 

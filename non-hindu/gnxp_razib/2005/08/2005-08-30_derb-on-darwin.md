@@ -11,11 +11,12 @@ Derb on Darwin
 
 John Derbyshire’s [latest column](http://www.nationalreview.com/derbyshire/derbyshire200508300823.asp) rips into Intelligent Design. I’ve been pretty heartened by Derb’s uncompromising adherence to the [scientific consensus](http://www.religioustolerance.org/ev_publi.htm). But honestly I’m a bit surprised. This is from Derb’s column [Confessions of a Metrocon](http://www.nationalreview.com/derbyshire/derbyshire050803.asp), written 2 years ago:
 
-> …it’ll be the legions of real, authentic conservatives out there in > the provinces. God bless them all for keeping America strong, free, > and true to her founding principles. If the price to be paid is a > sodomy law here, a high-school Creationism class there, well, far as I > am concerned, that’s a small price indeed. People who don’t like those > things can always head for the metropolis, after all.
+> …it’ll be the legions of real, authentic conservatives out there in > the provinces. God bless them all for keeping America strong, free, > and true to her founding principles. If the price to be paid is a sodomy law here, a high-school Creationism class there, well, far as I am concerned, that’s a small price indeed. People who don’t like those things can always head for the metropolis, after all.
 
 ### Related Posts:
 
-- [Derb & I](https://www.gnxp.com/WordPress/2006/02/02/derb-i/) - [Religion & Politics &
+- [Derb & I](https://www.gnxp.com/WordPress/2006/02/02/derb-i/)
+- [Religion & Politics &
   Derb](https://www.gnxp.com/WordPress/2007/02/20/religion-politics-derb/) - [Derb Before the
   Dawn](https://www.gnxp.com/WordPress/2006/06/20/derb-before-the-dawn/) - [Derbyshire stirring some serious
   shit](https://www.gnxp.com/WordPress/2006/06/04/derbyshire-stirring-some-serious-shit/) - [Behavior Genetics &

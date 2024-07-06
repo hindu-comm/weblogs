@@ -11,8 +11,8 @@ Elizabeth Warren carries Native American DNA – she’s running!
 
 ![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/warren2020.jpeg?resize=207%2C244&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/warren2020.jpeg?resize=207%2C244&ssl=1)Since I’ve talked about this issue before, [Warren releases results of DNA test](https://www.bostonglobe.com/news/politics/2018/10/15/warren-addresses-native-american-issue/YEUaGzsefB0gPBe2AbmSVO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter&__twitter_impression=true):
 
-> There were five parts of Warren’s DNA that signaled she had a Native > American ancestor, according to the report. The largest piece of > Native American DNA was found on her 10th chromosome, according to the > report. Each human has 23 pairs of chromosomes. >
-> “It really stood out,” said Bustamante in an interview. “We found five > segments, **and that long segment was pretty significant.** It tells > us about one ancestor, and we can’t rule out more ancestors.” >
+> There were five parts of Warren’s DNA that signaled she had a Native American ancestor, according to the report. The largest piece of Native American DNA was found on her 10th chromosome, according to the report. Each human has 23 pairs of chromosomes. >
+> “It really stood out,” said Bustamante in an interview. “We found five segments, **and that long segment was pretty significant.** It tells us about one ancestor, and we can’t rule out more ancestors.” >
 > He added: “We are confident it is not an error.”
 
 The proportion of ancestry is not large. But it is clearly there. They compared to the Utah white and British European 1000 Genomes populations, which is a good standard for Old Stock Anglo-Americans. She’s clearly an outlier, with about an order of magnitude more “Native American” ancestry. So it’s unlikely to be some artifact.

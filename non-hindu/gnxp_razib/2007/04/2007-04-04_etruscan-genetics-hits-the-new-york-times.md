@@ -11,7 +11,7 @@ Etruscan genetics hits The New York Times
 
 Nick Wade has a [long write up](http://www.nytimes.com/2007/04/03/science/03etruscan.html?_r=1&oref=slogin&pagewanted=print) about the recent work on Etruscan phylogenetics.
 
-> “The overwhelming proportion of archaeologists would regard the > evidence for eastern origins of the Etruscans as negligible,” said > Anthony Tuck, an archaeologist at the University of Massachusetts > Center for Etruscan Studies.
+> “The overwhelming proportion of archaeologists would regard the evidence for eastern origins of the Etruscans as negligible,” said Anthony Tuck, an archaeologist at the University of Massachusetts Center for Etruscan Studies.
 
 In terms of “evidence,” that would be **archaeological evidence**. Historical sciences do not rest upon one leg! Two minor points:  
 1) There is some concern that non-Indo-European languages were not extant from our textual knowledge in the region of ancient Asia Minor from which the Etruscans purportedly immigrated. But, our model of the ancient world is *very* truncated, and we almost certainly lack ethnological granularity. For example, the “Hittite” empire was multi-ethnic, with a preponderant non-Indo-European substratum, the “Hatti” (which might itself be a catchall term for the indigenous peoples). The Hittite elite, who were Indo-European speakers, called themselves the *Nesi*. A good analogy for the ancient world might be modern Africa in regards to cultural and linguistic diversity. The *official* language (and that of the elites) might be English or French, but that doesn’t mean that hundreds of local languages don’t thrive (Rome changed that over the centuries through Latinization and Hellenization).  
@@ -20,7 +20,8 @@ In terms of “evidence,” that would be **archaeological evidence**. Historica
 
 ### Related Posts:
 
-- [Etruscans - the
+- [Etruscans
+- the
   consensus?](https://www.gnxp.com/WordPress/2007/03/08/etruscans-the-consensus/) - [An Indo-Europeanist on
   Etruscans](https://www.gnxp.com/WordPress/2007/03/19/an-indo-europeanist-on-etruscans/) - [Etruscan genetics, a few nails in the
   coffin....](https://www.gnxp.com/WordPress/2008/12/03/etruscan-genetics-a-few-nails-in-the-coffin/) - [Etruscans - don't know nothing about

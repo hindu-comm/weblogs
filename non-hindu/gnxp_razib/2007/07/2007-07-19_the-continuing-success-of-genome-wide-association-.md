@@ -13,7 +13,7 @@ The first wave of [genome-wide association studies](https://www.google.com/searc
 
 A couple new papers add towards what could eventually be a detailed understanding of the genetics of human phenotypic variation: first, a [genome-wide association study of “restless leg syndrome”](http://www.nature.com/ng/journal/vaop/ncurrent/abs/ng2099.html), an ill-defined, heterogeneous disorder. The authors describe it thusly:
 
-> Nightwalkers, as individuals with RLS call themselves, are forced to > move their legs during periods of rest especially in the evening and > night to relieve uncomfortable or painful sensations in the deep calf. > This diurnal variation leads to impaired sleep onset, and the periodic > leg movements during sleep in the majority of patients contribute to > sleep disruption and a reduced quality of life as a major consequence
+> Nightwalkers, as individuals with RLS call themselves, are forced to > move their legs during periods of rest especially in the evening and > night to relieve uncomfortable or painful sensations in the deep calf. This diurnal variation leads to impaired sleep onset, and the periodic leg movements during sleep in the majority of patients contribute to sleep disruption and a reduced quality of life as a major consequence
 
 The association study identified three risk factors near genes about which, as tends to be the case in these studies, very little is known. However, these are leads that will be immediately followed up, and likely with great impact.
 

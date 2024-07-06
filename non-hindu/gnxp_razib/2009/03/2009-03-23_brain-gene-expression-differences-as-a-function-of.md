@@ -11,7 +11,7 @@ Brain gene expression differences as a function of time
 
 [Transcriptional neoteny in the human brain](http://www.pnas.org/content/early/2009/03/20/0900544106.short?rss=1):
 
-> In development, timing is of the utmost importance, and the timing of > developmental processes often changes as organisms evolve. In human > evolution, developmental retardation, or neoteny, has been proposed as > a possible mechanism that contributed to the rise of many > human-specific features, including an increase in brain size and the > emergence of human-specific cognitive traits. We analyzed mRNA > expression in the prefrontal cortex of humans, chimpanzees, and rhesus > macaques to determine whether human-specific neotenic changes are > present at the gene expression level. We show that the brain > transcriptome is dramatically remodeled during postnatal development > and that developmental changes in the human brain are indeed delayed > relative to other primates. This delay is not uniform across the human > transcriptome but affects a specific subset of genes that play a > potential role in neural development.
+> In development, timing is of the utmost importance, and the timing of > developmental processes often changes as organisms evolve. In human > evolution, developmental retardation, or neoteny, has been proposed as > a possible mechanism that contributed to the rise of many > human-specific features, including an increase in brain size and the > emergence of human-specific cognitive traits. We analyzed mRNA > expression in the prefrontal cortex of humans, chimpanzees, and rhesus > macaques to determine whether human-specific neotenic changes are > present at the gene expression level. We show that the brain > transcriptome is dramatically remodeled during postnatal development > and that developmental changes in the human brain are indeed delayed relative to other primates. This delay is not uniform across the human transcriptome but affects a specific subset of genes that play a potential role in neural development.
 
 Here are the 4 classes of gene expression trajectories they’re focusing on:
 
@@ -19,7 +19,7 @@ They found that there was a relative enrichment of genes which exhibited human n
 
 Finally:
 
-> We analyzed the genes affected by the neotenic shift in the human > prefrontal cortex with respect to their histological location, > function, regulation, and expression timing. First, with respect to > their histological location, we used published gene expression data > from human gray and white matter…and found that, in both brain > regions, **human neotenic genes are significantly overrepresented > among genes expressed specifically in gray matter**…but not among > genes expressed in white matter….
+> We analyzed the genes affected by the neotenic shift in the human > prefrontal cortex with respect to their histological location, > function, regulation, and expression timing. First, with respect to > their histological location, we used published gene expression data > from human gray and white matter…and found that, in both brain regions, **human neotenic genes are significantly overrepresented among genes expressed specifically in gray matter**…but not among genes expressed in white matter….
 
 ### Related Posts:
 

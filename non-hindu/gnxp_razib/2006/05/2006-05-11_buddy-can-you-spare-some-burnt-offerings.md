@@ -11,8 +11,8 @@ Buddy can you spare some burnt offerings?
 
 OK, some fluff…it seems that the [Greek Neo-Pagans](http://www.hellenicreligion.gr/doc_en/who-en.htm) have received permission to [worship in pagan temples](http://www.guardian.co.uk/international/story/0,,1767802,00.html). That might sound obvious, but most pagan temples in Greece are historic treasures, and so the purview of the government. The Greek Orthodox Church is not happy:
 
-> But Greece’s powerful Orthodox Church takes a less charitable view, > accusing the **worshippers of idolatry** and “poisonous New Age > practices”.  
-> Father Eustathios Kollas, who presides over the community of Greek > priests, said: “They are a handful of miserable resuscitators of a > degenerate dead religion who wish to return to the **monstrous dark > delusions of the past**.”
+> But Greece’s powerful Orthodox Church takes a less charitable view, accusing the **worshippers of idolatry** and “poisonous New Age practices”.  
+> Father Eustathios Kollas, who presides over the community of Greek priests, said: “They are a handful of miserable resuscitators of a degenerate dead religion who wish to return to the **monstrous dark delusions of the past**.”
 
 I reall that the Orthodox Church boycotted the [World Parliament of Religions](https://en.wikipedia.org/wiki/World_Parliament_of_Religions#1993_Parliament) in part because of the presence of Neo-Pagans. Issues….
 

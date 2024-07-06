@@ -11,7 +11,7 @@ Brighter than Isaac Newton?
 
 In his [presentation](http://beyondbelief2006.org/Watch/) for Beyond Belief 2006 [Neil deGrasse Tyson](http://sciencenet.vo.llnwd.net/o16/beyondbelief2006/Day%201/S2wBug-MPEG-4%20300Kbps%20Streaming.mp4) offered Isaac Newton as his candidate for the most brilliant intellectual ever. Because he is trained as a physicist Tyson can be accused of some bias, but the impact on him personally was pretty obvious, he was emotionally moved just comprehending Newton’s genius. Myself, I would tend to agree with Tyson though these things are always subject to the various weights on your parameters. Who would you offer up? Of the ancients I believe that Archimedes is likely to have been a magician in the mold of Newton. Here is what the great polymath J.M. Keynes had to say of Sir Isaac Newton:
 
-> He was the last of the magicians, the last of the Babylonians and > Sumerians, the last great mind which looked out on the visible and > intellectual world with the same eyes as those who began to build our > intellectual inheritance rather less than 10,000 years ago.
+> He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago.
 
 ### Related Posts:
 

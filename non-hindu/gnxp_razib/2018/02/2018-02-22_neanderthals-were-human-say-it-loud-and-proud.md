@@ -14,13 +14,13 @@ Neanderthals were human, say it loud and proud
 
 Today was a similar event. [Neanderthals, the World’s First Misunderstood Artists](https://www.nytimes.com/2018/02/22/science/neanderthals-cave-paintings-europe.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news):
 
-> The team found flowstones covering parts of the artworks and scraped > away samples for dating. In three caves, it turned out, some of the > art was over 64,000 years old — about 20,000 years earlier than the > first evidence of modern humans in Europe. >
+> The team found flowstones covering parts of the artworks and scraped away samples for dating. In three caves, it turned out, some of the art was over 64,000 years old — about 20,000 years earlier than the first evidence of modern humans in Europe. >
 > “They must have been made by Neanderthals,” said Dr. Pike. >
-> Wil Roebroeks, an archaeologist at Leiden University who was not > involved in the new study, said the evidence was conclusive. “This > constitutes a major breakthrough in the field of human evolution > studies,” he said. “Neanderthal authorship of some cave art is a > fact.” >
+> Wil Roebroeks, an archaeologist at Leiden University who was not > involved in the new study, said the evidence was conclusive. “This constitutes a major breakthrough in the field of human evolution studies,” he said. “Neanderthal authorship of some cave art is a fact.” >
 > … >
-> The colored, pierced shells themselves are probably not much older > than that. Up until about 118,000 years ago, the cave was flooded, > thanks to higher sea levels. >
-> That finding provides strong evidence that the shells were made by > Neanderthals. They were definitely living in Spain 115,000 years ago, > while modern humans would not arrive in Europe for another 70,000 > years. >
-> The two new studies don’t just indicate that Neanderthals could make > cave art and jewelry. They also establish that Neanderthals were > making these things long before modern humans — a blow to the idea > that they simply copied their cousins.
+> The colored, pierced shells themselves are probably not much older than that. Up until about 118,000 years ago, the cave was flooded, thanks to higher sea levels. >
+> That finding provides strong evidence that the shells were made by Neanderthals. They were definitely living in Spain 115,000 years ago, while modern humans would not arrive in Europe for another 70,000 years. >
+> The two new studies don’t just indicate that Neanderthals could make cave art and jewelry. They also establish that Neanderthals were making these things long before modern humans — a blow to the idea that they simply copied their cousins.
 
 [Chris Stringer](https://twitter.com/ChrisStringer65/status/966758130725150721) thinks this is real too.
 

@@ -22,7 +22,7 @@ A comment below about intelligent people who believe in dumb ideas made me want 
 
 I decided to limit the year to 2004 and later because to explore Creationism I want to use the variable EVOLVED, which was asked in 2004 and 2008. I selected EVOLVED because the sample size was not that small, nearly 1,500, and, the response is dichotomous. Here’s what EVOLVED asked:
 
-> Human beings, as we know them today, developed from earlier species of > animals. (Is that true or false?)
+> Human beings, as we know them today, developed from earlier species of animals. (Is that true or false?)
 
 Querying Americans about human descent from animals primes them to be a bit on the Creationist side. True and false come at at about 50:50 for the above question. Below is a table where the columns have mean WORDSUM scores for non-Creationists and Creationists, and the rows indicate the particular demographic. I have put in bold those variables where the horizontally adjacent cells are outside each other’s 95% confidence interval. Additionally I constrained the sample to non-Hispanic whites (so the N is closer to 1,350).
 

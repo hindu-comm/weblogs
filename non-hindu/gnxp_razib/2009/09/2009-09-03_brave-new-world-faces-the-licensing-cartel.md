@@ -11,9 +11,9 @@ Brave new world faces the licensing cartel
 
 Dan MacArthur has a very good post, [New York Times adopts medical establishment line on personal genomics](http://scienceblogs.com/geneticfuture/2009/09/new_york_times_adopts_medical.php):
 
-> The NY Times has an article entitled “Buyer beware of home DNA tests” > that adopts the paternalistic party line of the medical establishment: > taking DNA tests without a doctor’s advice is hazardous to your > health.  
-> Remarkably, the article acknowledges that qualified genetic > counsellors are few and far between and that “most practicing > physicians lack the knowledge and training in genetics to interpret > \[DNA tests\] properly”, and yet still suggests that customers should > “take the findings to a qualified expert”.  
-> Begging the question: which qualified expert should customers be > taking their test results to? **The over-worked genetic counsellor who > has enough on their plate dealing with serious genetic conditions > without having to worry about a patient with a type 2 diabetes > relative risk of *1.17*?** Or the general practitioner who understands > less about modern genetics than the typical DTC genetics customer?
+> The NY Times has an article entitled “Buyer beware of home DNA tests” that adopts the paternalistic party line of the medical establishment: taking DNA tests without a doctor’s advice is hazardous to your health.  
+> Remarkably, the article acknowledges that qualified genetic > counsellors are few and far between and that “most practicing physicians lack the knowledge and training in genetics to interpret \[DNA tests\] properly”, and yet still suggests that customers should “take the findings to a qualified expert”.  
+> Begging the question: which qualified expert should customers be > taking their test results to? **The over-worked genetic counsellor who > has enough on their plate dealing with serious genetic conditions without having to worry about a patient with a type 2 diabetes relative risk of *1.17*?** Or the general practitioner who understands less about modern genetics than the typical DTC genetics customer?
 
 Doctors [are bad at using Bayes’ Rule](https://books.google.com/books?id=3DPNR2AFpkoC&pg=PA140&dq=bayes+rule+medical+doctors&ei=HlefStWFD4PKkQSP1dl7#v=onepage&q=&f=false). There is no shame in that, it seems a human cognitive bias, **but if you’re a professional being paid a lot of money it’s a different issue altogether**.
 

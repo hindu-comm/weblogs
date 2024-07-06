@@ -13,7 +13,8 @@ Why you play the game
 
 ### Related Posts:
 
-- [MHC & mating](https://www.gnxp.com/WordPress/2009/05/25/mhc-mating/) - [Chimps, the ultimatum game & time
+- [MHC & mating](https://www.gnxp.com/WordPress/2009/05/25/mhc-mating/)
+- [Chimps, the ultimatum game & time
   preference](https://www.gnxp.com/WordPress/2007/10/04/chimps-the-ultimatum-game-time-preference/) - [Daily Data Dump -
   Tuesday](https://www.gnxp.com/WordPress/2010/09/07/daily-data-dump-tuesday-17/) - [All science, all the
   time](https://www.gnxp.com/WordPress/2008/09/03/all-science-all-the-time/) - [Did the Mavs get

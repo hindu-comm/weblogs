@@ -13,7 +13,8 @@ I’ve received a few emails which suggest that not everyone is aware that I’v
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [Latency in
+- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/)
+- [Latency in
   Haloscan](https://www.gnxp.com/WordPress/2007/05/19/latency-in-haloscan/) - [On "anonymous" comments,
   etc.](https://www.gnxp.com/WordPress/2014/06/15/on-anonymous-comments-etc/) - [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [Comments
   sections](https://www.gnxp.com/WordPress/2007/10/20/comments-sections/) - [Hold the praise (re:

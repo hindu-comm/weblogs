@@ -11,13 +11,13 @@ Drink wine to live longer!
 
 ![150px-Red_Wine_Glas.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/150px-Red_Wine_Glas.jpg?resize=75%2C140)![150px-Red_Wine_Glas.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/150px-Red_Wine_Glas.jpg?resize=75%2C140)I’m in the mood for a “feel good” story with the past week’s fixation in swine flu. [Half A Glass Of Wine A Day May Boost Life Expectancy By Five Years](http://www.sciencedaily.com/releases/2009/04/090429205609.htm):
 
-> The Dutch authors base their findings on a total of 1,373 randomly > selected men whose cardiovascular health and life expectancy at age 50 > were repeatedly monitored between 1960 and 2000.
+> The Dutch authors base their findings on a total of 1,373 randomly selected men whose cardiovascular health and life expectancy at age 50 were repeatedly monitored between 1960 and 2000.
 
 Here are the findings:
 
-> And men who drank only wine, and less than half a glass of it a day, > lived around 2.5 years longer than those who drank beer and spirits, > and almost five years longer than those who drank no alcohol at all.  
-> Drinking wine was strongly associated with a lower risk of dying from > coronary heart disease, cerebrovascular disease, and death from all > causes.  
-> **These results held true, irrespective of socioeconomic status, > dietary and other lifestyle habits, factors long thought to influence > the association between wine drinking and better health.**
+> And men who drank only wine, and less than half a glass of it a day, lived around 2.5 years longer than those who drank beer and spirits, and almost five years longer than those who drank no alcohol at all.  
+> Drinking wine was strongly associated with a lower risk of dying from coronary heart disease, cerebrovascular disease, and death from all causes.  
+> **These results held true, irrespective of socioeconomic status, dietary and other lifestyle habits, factors long thought to influence the association between wine drinking and better health.**
 
 Does this mean you should start drinking if you don’t? I wouldn’t. It seems that the biggest returns for good health you can control are relatively common sense; eat lots of vegetables, keep your weight in check, exercise, etc. But the balance of the data seem to suggest that if there is any effect of **moderate drinking**, it is positive.
 

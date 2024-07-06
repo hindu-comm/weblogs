@@ -11,8 +11,8 @@ Jane Galt: Modern Day Paul Erlich?
 
 Jane Galt [comments](http://www.janegalt.net/blog/archives/005743.html) on the immigration debate and is convinced by the argument put forth by Bryan Caplan:
 
-> Suppose we have an isolated society in which everyone is a genius. > Let’s call them the Brains. Who takes out the garbage? A Brain, > obviously. Who does the farming? Again, Brains. >
-> Now what happens if the geniuses come into contact with a society > where everyone is of average intelligence at best? Let’s call them the > Brawns. If the Brains allow the Brawns to join their society, the > average genetic quality of the Brains’ society plummets. But everyone > is better off as a result! Now the Brains can specialize in jobs that > require high intelligence, and the Brawns can take over the menial > labor. Total production goes up.
+> Suppose we have an isolated society in which everyone is a genius. Let’s call them the Brains. Who takes out the garbage? A Brain, obviously. Who does the farming? Again, Brains. >
+> Now what happens if the geniuses come into contact with a society > where everyone is of average intelligence at best? Let’s call them the > Brawns. If the Brains allow the Brawns to join their society, the > average genetic quality of the Brains’ society plummets. But everyone is better off as a result! Now the Brains can specialize in jobs that require high intelligence, and the Brawns can take over the menial labor. Total production goes up.
 
 When I read this analysis I couldn’t help but think that Jane and Bryan are backing the Paul Erlich position in the [Erlich-Simon Bet](http://www.overpopulation.com/faq/People/julian_simon.html) while those who favor rational immigration are backing the Julian Simon side. Now what’s odd here is that Erlich, the biologist, lost the bet against Simon, the economist, because he didn’t account for the role of technology and now we have two economics bloggers endorsing an analysis which also takes no account of the substitution effect of technology for unskilled labor.
 
@@ -24,11 +24,11 @@ Seeing how they’re mooting the question of Eugenic Immigration let me offer an
 
 What I don’t understand is how the net present value of a taxpayer subsidy of almost \$1.1 trillion for the 12 million illegals in our midst compares favorably to the labor substitution effect and the economic activity that is generated from the development, manufacture and maintenance of a robotic infrastructure and how supporting a dysgenic trend in an era of [lowered social mobility](https://www.gnxp.com/MT2/archives/003931.html) can be considered a winning bet. [Robert Samuelson](http://www.washingtonpost.com/wp-dyn/content/article/2006/03/21/AR2006032101146.html) sees the storm clouds on the horizon:
 
-> The most lunatic notion is that admitting more poor Latino workers > would ease the labor market strains of retiring baby boomers. The two > aren’t close substitutes for each other.
+> The most lunatic notion is that admitting more poor Latino workers would ease the labor market strains of retiring baby boomers. The two aren’t close substitutes for each other.
 
 And so does [Paul Krugman](http://select.nytimes.com/2006/03/27/opinion/27krugman.html): (discussed [here](http://economistsview.typepad.com/economistsview/2006/03/paul_krugman_no.html))
 
-> Finally, … our social safety net has more holes in it than it should – > and low-skill immigrants threaten to unravel that safety net. … > **Unfortunately, low-skill immigrants don’t pay enough taxes to cover > the cost of the benefits they receive.**
+> Finally, … our social safety net has more holes in it than it should – and low-skill immigrants threaten to unravel that safety net. … **Unfortunately, low-skill immigrants don’t pay enough taxes to cover the cost of the benefits they receive.**
 
 Further, our two econo-bloggers ignore the decline in worker/population ratio from 2000 to 2005: (Bureau of Labor Statistics)
 

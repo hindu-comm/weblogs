@@ -11,7 +11,7 @@ Desktop blogging
 
 [An Index Of Blogging Clients](http://www.loosewireblog.com/2009/07/an_index_of_blo_1.html):
 
-> Blogging clients allow you to prepare posts and then upload them > directly. Useful for  
+> Blogging clients allow you to prepare posts and then upload them directly. Useful for  
 > -composing drafts of posts offline  
 > -easier editing of HTML  
 > -easier inserting and handling of photos  

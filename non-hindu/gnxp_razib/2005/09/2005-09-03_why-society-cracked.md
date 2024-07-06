@@ -25,7 +25,8 @@ The table assumes that virtually all non-evacuees are black (as this fact is giv
 
 ### Related Posts:
 
-- [Them and Us](https://www.gnxp.com/WordPress/2005/09/06/them-and-us/) - [Another genetic map of
+- [Them and Us](https://www.gnxp.com/WordPress/2005/09/06/them-and-us/)
+- [Another genetic map of
   Europe](https://www.gnxp.com/WordPress/2008/11/21/another-genetic-map-of-europe/) - [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/) - [Twins in
   Kerala](https://www.gnxp.com/WordPress/2010/03/16/twins-in-kerala/) - [\$150,000 only gets you so
   far....](https://www.gnxp.com/WordPress/2017/04/12/150000-only-gets-you-so-far/) - [Heritability of behavioral

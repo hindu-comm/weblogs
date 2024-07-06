@@ -119,7 +119,7 @@ However, it is precisely in the *Cow Belt* that the reclamation of Sri Rama Mand
 
 While BIMARU is largely history, the forces that it unleashed have encircled the Hindu community in a multi-pronged manner as we have [narrated](https://www.dharmadispatch.in/commentary/the-great-creeping-encirclement-of-an-ancient-dharma) elsewhere. An isolationist approach treats economics and culture as separate or parallel tracks. But in the Sanatana civilizational heritage, both are parts of an organic whole. Today, the American society held hostage by the Far Left is desperately groping for just a sliver of light to resolve its *social* problems precisely because it has no cultural inheritance to offer it strength. Oscar Wilde’s brutal observation at the turn of the twentieth century is simply unfolding in a nightmarish fashion even as we speak:
 
-> America is the only country that went from barbarism to decadence > without civilization in between.
+> America is the only country that went from barbarism to decadence without civilization in between.
 
 But what is unfolding in India is a conscious effort to annihilate an ageless spiritual civilization by waging a deliberate and well-crafted war of narratives which Hindus are fighting with one hand tied behind their back. Which is why, as we saw at the beginning of this essay, it is *critical* not to leave anything unexamined.
 

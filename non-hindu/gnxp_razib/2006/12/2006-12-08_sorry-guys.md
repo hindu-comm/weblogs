@@ -11,7 +11,7 @@ Sorry, guys…
 
 From the BBC News Service:
 
-> A survey of more than 1,000 men in India has concluded that condoms > made according to international sizes are too large for a majority of > Indian men.
+> A survey of more than 1,000 men in India has concluded that condoms made according to international sizes are too large for a majority of Indian men.
 
 Full report [here](http://news.bbc.co.uk/1/hi/world/south_asia/6161691.stm).
 

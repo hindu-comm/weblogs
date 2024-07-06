@@ -11,7 +11,7 @@ How Worrysome is Habitat Loss?
 
 Razib’s [link](http://www.sciencedaily.com/releases/2010/10/101011083904.htm) to the discovery of a new mammal species in Madagascar makes the following point:
 
-> This species is probably the carnivore with one of the smallest ranges > in the world, and likely to be one of the most threatened. The Lac > Alaotra wetlands are under considerable pressure, and only urgent > conservation work to make this species a flagship for conservation > will prevent its extinction.
+> This species is probably the carnivore with one of the smallest ranges > in the world, and likely to be one of the most threatened. The Lac Alaotra wetlands are under considerable pressure, and only urgent conservation work to make this species a flagship for conservation will prevent its extinction.
 
 In the case of this particular species, that makes sense. This cat/rat looking thing appears to inhabit a threatened microclimate, and so faces a high risk of extinction.
 

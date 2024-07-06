@@ -15,7 +15,7 @@ Then there’s this post over at [Quartz](http://qz.com/441423/why-china-wont-li
 
 But this section of the *Quartz* piece jumped out at me:
 
-> “Confucian thinking says that someone becomes a person after they are > born. That is different from the United States or other countries with > a Christian influence, where because of religion they may feel > research on embryos is not ok,” Deng Rui, a medical ethicist at Shanxi > Medical University, told the New York Times.
+> “Confucian thinking says that someone becomes a person after they are > born. That is different from the United States or other countries with a Christian influence, where because of religion they may feel research on embryos is not ok,” Deng Rui, a medical ethicist at Shanxi Medical University, told the New York Times.
 
 Two East Asian nations have large numbers of Catholics, Protestants, Buddhists, and those who are irreligious, in [The World Values Survey](http://www.worldvaluessurvey.org/WVSOnline.jsp). There is a question which asks, “is abortion ever justifiable?” The respondents are given a 1 t o 10 scale. 10 is “always justifiable,” and “1” is “never justifiable.” Below are the results (Poland is a “control”).
 

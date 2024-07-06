@@ -11,7 +11,7 @@ Pope on evolution
 
 [AP](http://news.yahoo.com/s/nm/20070411/sc_nm/pope_evolution_dc;_ylt=AgCjl2ntAMJ1xpvAM9rNnRQhANEA) and [others](http://www.sfgate.com/cgi-bin/article.cgi?file=/n/a/2007/04/11/international/i144748D65.DTL) have the story.
 
-> Benedict added that the immense time span that evolution covers made > it impossible to conduct experiments in a controlled environment to > finally verify or disprove the theory. >
+> Benedict added that the immense time span that evolution covers made it impossible to conduct experiments in a controlled environment to finally verify or disprove the theory. >
 > “We cannot haul 10,000 generations into the laboratory,” he said.
 
 Setting aside the inappropriately narrow view of how science is done, this is factually incorrect. 10k E. coli generations take \~1 year. 10k yeast generations is

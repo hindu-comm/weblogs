@@ -11,8 +11,8 @@ Pray the virus away
 
 [Carl Zimmer](http://blogs.discovermagazine.com/loom/2009/04/28/the-swine-flu-is-all-in-your-head-is-anyone-awake-at-the-huffington-post/) points out that [Marianne Williamson](http://www.huffingtonpost.com/marianne-williamson/pray-away-the-swine-flu_b_192004.html) is making some real strange suggestions in regards to the swine flue in [The Huffington Post](http://www.huffingtonpost.com/marianne-williamson/pray-away-the-swine-flu_b_192004.html):
 
-> l\) Pray it away. Just pray it away, asking God as you understand Him, > the Divine Physician, Jesus or whatever other form of divine imagery > works for you. Simply ask that it be removed from our midst.  
-> 2) Send love to Mexico. Between what’s actually been happening there > with the drug wars, plus all the “Mexico is dangerous” thoughts we’ve > loaded onto it over the last several weeks, it needs a major dose of > love – the most powerful medicine of all – to dissolve the fear > thoughts that have produced this flu.
+> l\) Pray it away. Just pray it away, asking God as you understand Him, the Divine Physician, Jesus or whatever other form of divine imagery works for you. Simply ask that it be removed from our midst.  
+> 2) Send love to Mexico. Between what’s actually been happening there > with the drug wars, plus all the “Mexico is dangerous” thoughts we’ve loaded onto it over the last several weeks, it needs a major dose of love – the most powerful medicine of all – to dissolve the fear thoughts that have produced this flu.
 
 It’s not that surprising that this was published in *The Huffington Post*, which has some issues with regards to quality control. Remember the [Deepak Chopra post on evolution](http://www.huffingtonpost.com/deepak-chopra/intelligent-design-withou_b_6105.html)?
 

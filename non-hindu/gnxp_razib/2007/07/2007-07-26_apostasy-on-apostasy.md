@@ -13,7 +13,8 @@ Looks like there might be a recantation of the argument against death for aposta
 
 ### Related Posts:
 
-- [Death to the apostates - NOT
+- [Death to the apostates
+- NOT
   (?)](https://www.gnxp.com/WordPress/2007/07/24/death-to-the-apostates-not/) - [Harvard Muslim chaplain sees wisdom in my
   killing!](https://www.gnxp.com/WordPress/2009/04/03/harvard-muslim-chaplain-sees-wisdom-in-my-killing/) - [Apostasy in the
   Anglosphere](https://www.gnxp.com/WordPress/2015/01/03/apostasy-in-the-anglosphere/) - [Death to the apostates! (sans

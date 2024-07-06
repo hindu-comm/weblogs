@@ -53,7 +53,8 @@ An alternative would be to compare the value of all our stuff: buildings, infras
 
 Independent of the approach, or adjustments to make it more seem more reasonable, we probably always must conclude that life carries incredible, unappreciated value. Rather than getting hung up on the quantitative absurdity, try walking away with the following, more robust conclusions:
 
-1.  Surely, the sum of animal life on Earth is worth more to us than any mined commodities—or even all of them combined! Consider that we’re not lusting after barren Mars—at least the sane or emotionally mature among us are not. It’s life that makes Earth especially special for humans. 2.  Given this high valuation of animal life, imagine the deplorable behaviors that would result if animal value could be monetized by its destruction. While this is mercifully not *directly* the case, the thought experiment exposes our twisted prioritization of an artificial and ultimately disastrous economic edifice over the splendid and life-sustaining natural world—which is the *real treasure*.
+1.  Surely, the sum of animal life on Earth is worth more to us than any mined commodities—or even all of them combined! Consider that we’re not lusting after barren Mars—at least the sane or emotionally mature among us are not. It’s life that makes Earth especially special for humans.
+2.  Given this high valuation of animal life, imagine the deplorable behaviors that would result if animal value could be monetized by its destruction. While this is mercifully not *directly* the case, the thought experiment exposes our twisted prioritization of an artificial and ultimately disastrous economic edifice over the splendid and life-sustaining natural world—which is the *real treasure*.
 
 ### Flipping the Script
 

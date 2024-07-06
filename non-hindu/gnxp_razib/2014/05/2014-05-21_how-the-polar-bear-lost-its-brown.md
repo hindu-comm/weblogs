@@ -20,7 +20,7 @@ Because of the monetary investment by organizations such as the NIH (among other
   
 Using a variety of methods (IBS tracts and ∂a∂i) they found that polar bears and brown bears (or at least the ones in their sample) diverged on the order of \~500,000 years ago into two populations. More precisely 479-343,000 years ago. This overlaps with the fossil evidence. It translates to a separation between the ancestral populations about 20,000 generations ago. The authors state:
 
-> … the distinct adaptations of polar bears may have evolved in less > than 20,500 generations; this is truly exceptional for a large mammal. > In this limited amount of time, polar bears became uniquely adapted to > the extremities of life out on the Arctic sea ice, enabling them to > inhabit some of the world’s harshest climates and most inhospitable > conditions.
+> … the distinct adaptations of polar bears may have evolved in less > than 20,500 generations; this is truly exceptional for a large mammal. > In this limited amount of time, polar bears became uniquely adapted to the extremities of life out on the Arctic sea ice, enabling them to inhabit some of the world’s harshest climates and most inhospitable conditions.
 
 This seems a little hyperbolic to me. In fact the Neandertal-modern human divergence is only about half as far back in the past in generation time, and one could argue that our two lineages were pretty diverged as well. That being said, obviously there are huge visible and physiological differences between polar and brown bears. They include in their model estimates of effective population declines in the past, presumably due to the exigencies of the Pleistocene glaciations. Using paleontological results already known they suggest that the emergence, and derivation of the polar bear lineage occurred during a period of separation from the ancestors of brown bears. In other words, allopatric speciation. In line with earlier work they also report evidence of long term gene flow between the two lineages, in particular, gene flow from polar bears to brown bears. This seems to be an old and continuous event which has become attenuated of late (they didn’t detect the sort of long haplotypes indicative recent admixture).
 
@@ -30,7 +30,7 @@ Perhaps more thoroughly persuasive is the evidence they report in the paper that
 
 They conclude intriguingly:
 
-> …Such a drastic genetic response to chronically elevated levels of fat > and cholesterol in the diet has not previously been reported. It > certainly encourages a move beyond the standard model organisms in our > search for the underlying genetic causes of human cardiovascular > diseases.
+> …Such a drastic genetic response to chronically elevated levels of fat > and cholesterol in the diet has not previously been reported. It certainly encourages a move beyond the standard model organisms in our search for the underlying genetic causes of human cardiovascular diseases.
 
 As Sydney Brenner would say, we’ve learned enough (or not) about mouse diseases.
 
@@ -38,7 +38,8 @@ As Sydney Brenner would say, we’ve learned enough (or not) about mouse disease
 
 ### Related Posts:
 
-- [Pizzly shot](https://www.gnxp.com/WordPress/2008/05/26/pizzly-shot/) - [Bearish
+- [Pizzly shot](https://www.gnxp.com/WordPress/2008/05/26/pizzly-shot/)
+- [Bearish
   wisdom!](https://www.gnxp.com/WordPress/2011/07/12/bearish-wisdom/) - [Grizzly-Polar bear hybrids in the
   wild](https://www.gnxp.com/WordPress/2010/05/07/grizzly-polar-bear-hybrids-in-the-wild/) - [Older than
   Adam](https://www.gnxp.com/WordPress/2013/03/06/older-than-adam/) - [Clarification on

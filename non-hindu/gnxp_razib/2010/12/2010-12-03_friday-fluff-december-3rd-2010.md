@@ -17,8 +17,8 @@ Friday Fluff – December 3rd, 2010
 
 3\. **Comment of the week**, in response to [Latitudes and continents](http://blogs.discovermagazine.com/gnxp/2010/11/latitudes-and-continents/#comment-52932):
 
-> Why are you reviewing Physical Geography for Fourteen Year Olds? Back > to the genetics, please. >
-> Sorry, I’ve just realised. You’re poking fun at the provincialism of > your fellow Americans. Naughty boy. Subtle, but naughty.
+> Why are you reviewing Physical Geography for Fourteen Year Olds? Back to the genetics, please. >
+> Sorry, I’ve just realised. You’re poking fun at the provincialism of your fellow Americans. Naughty boy. Subtle, but naughty.
 
 4\) So what do you think about the ‘arsenic aliens.’?
 

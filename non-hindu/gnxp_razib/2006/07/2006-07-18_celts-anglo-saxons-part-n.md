@@ -17,7 +17,7 @@ But, there were *a priori* historical problems with this narrative. Every other 
 
 So enter genetics. Are the English a German “race,” or a British one? You can follow the link above for older articles, but there is a [new article](http://www.timesonline.co.uk/article/0,,2-2276083,00.html%3C/a), to be published in [Proceedings of the Royal Society: B](http://www.pubs.royalsoc.ac.uk/index.cfm?page=1087), where the author makes makes the following argument:
 
-> The Anglo-Saxons, who invaded Britain from the 5th century AD, used a > system of “medieval apartheid” to drive the indigenous population to > extinction, according to new genetic research.
+> The Anglo-Saxons, who invaded Britain from the 5th century AD, used a system of “medieval apartheid” to drive the indigenous population to extinction, according to new genetic research.
 
 The term **“apartheid”** shows up in all the articles about this research, suggesting this is the “hook” that the papers know will draw in readers. The authors seem to suggesting that the invading Germans outbred the Celtic natives, the beauty of compounding growth led to rough parity in 15 generations. In the generality how plausible is this? I find it very plausible, primarily for the two **historical** reasons above, the replacement of language and religion suggests a very powerful asymmetry between the two groups above and beyound what we understand elsewhere, and it is reasonable that this would be reflected in the genetic record.
 

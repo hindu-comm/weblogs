@@ -11,13 +11,13 @@ Disease driven human evolution?
 
 [Gene Expression Profiles during In Vivo Human Rhinovirus Infection](http://ajrccm.atsjournals.org/cgi/content/abstract/178/9/962) (also, [ScienceDaily summary](http://www.sciencedaily.com/releases/2008/10/081029101201.htm)):
 
-> **Rhinovirus infection** significantly alters the expression of many > genes associated with the immune response, including chemokines and > antivirals. The data obtained provide insights into the host response > to rhinovirus infection and identify potential novel targets for > further evaluation.
+> **Rhinovirus infection** significantly alters the expression of many > genes associated with the immune response, including chemokines and antivirals. The data obtained provide insights into the host response to rhinovirus infection and identify potential novel targets for further evaluation.
 
 .
 
 About those [viruses](https://books.google.com/books?id=2mLsTBmWgtUC&pg=PA46&dq=rhinovirus+population+density+hunter+gatherer&ei=OzIJSdK1OaPOtAOssfXfCg#PPA45,M1):
 
-> Epidemiologists have established minimal population size and density > thresholds for particular diseases (such as measels, mumps, rubella, > smallpox, influenza, rhinovirus) to survive and spread. In small > hunter-gatherer groups or even small farming villages, such diseases > would have been incapable of spreading very far and woul have > disappeared (Black 1975). **This implies that many diseases must be > recent.**
+> Epidemiologists have established minimal population size and density > thresholds for particular diseases (such as measels, mumps, rubella, > smallpox, influenza, rhinovirus) to survive and spread. In small > hunter-gatherer groups or even small farming villages, such diseases would have been incapable of spreading very far and woul have disappeared (Black 1975). **This implies that many diseases must be recent.**
 
 There’s a reason that some of the cites for the [adaptive acceleration](http://scienceblogs.com/gnxp/2007/12/accelerated_adaptive_human_evo.php) theory use microbial models; here are lot’s of them and they breed fast. Microbiologists are fond of reminding people that on the order of 90% of the cells in your body are bacteria resident in your gut; but I wonder if the last 10,000 years might not have been a boon for a whole host of virulent less friendly microbes which “tag along” with *H. sapiens.*
 

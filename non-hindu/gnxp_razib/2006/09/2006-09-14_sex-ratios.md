@@ -11,7 +11,7 @@ Sex ratios
 
 I just noticed that David C. Queller’s [review of the history of the evolutionary biology of sex ratios](http://www.current-biology.com/content/article/fulltext?uid=PIIS0960982206019919) is open access. Here’s the conclusion:
 
-> Most important, this seemingly arcane topic has played very prominent > roles in the development of game theory, in the debate over group > selection, in supporting kin selection and parent-offspring conflict, > and in the field of within-organism conflict. Many biological advances > will require high tech instrumentation and deeper probing into > molecular mechanisms of model organisms. But there remains room for a > good theory, for adroit choice of non-standard organisms, and even for > simple counting.
+> Most important, this seemingly arcane topic has played very prominent > roles in the development of game theory, in the debate over group > selection, in supporting kin selection and parent-offspring conflict, > and in the field of within-organism conflict. Many biological advances > will require high tech instrumentation and deeper probing into molecular mechanisms of model organisms. But there remains room for a good theory, for adroit choice of non-standard organisms, and even for simple counting.
 
 Unlike fiction knowing the ending doesn’t spoil the story, the details are worth checking out! And since it is free, you should avail yourselves of the opportunity!
 

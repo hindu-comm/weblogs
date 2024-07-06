@@ -21,7 +21,7 @@ I’m on a video kick lately, finding that it’s a good way to capture key poin
 
 <div class="player-unavailable">
 
-# An error occurred.
+## An error occurred.
 
 <div class="submessage">
 

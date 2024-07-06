@@ -11,7 +11,7 @@ Mammal hybridization potentialities….
 
 A new paper in *The American Naturalist* should interest some in these parts, [Placental Invasiveness Mediates the Evolution of Hybrid Inviability in Mammals](http://www.journals.uchicago.edu/AN/journal/issues/v168n1/41412/brief/41412.abstract.html):
 
-> …**Here, we show that the maximum genetic distance at which > interspecific mammalian pregnancies yield viable neonates is > significantly greater in clades with invasive (hemochorial) > placentation than in clades with noninvasive (epitheliochorial or > endotheliochorial) placentation**. Moreover, sister species with > invasive placentation exhibit higher allopatry in their geographic > ranges, suggesting that formerly separated populations in mammals with > this placental type fuse more readily on recontact.
+> …**Here, we show that the maximum genetic distance at which > interspecific mammalian pregnancies yield viable neonates is > significantly greater in clades with invasive (hemochorial) > placentation than in clades with noninvasive (epitheliochorial or > endotheliochorial) placentation**. Moreover, sister species with invasive placentation exhibit higher allopatry in their geographic ranges, suggesting that formerly separated populations in mammals with this placental type fuse more readily on recontact.
 
 Here is a [high resolution phylogram](http://www.journals.uchicago.edu/AN/journal/issues/v168n1/41412/fg2.h.jpg) of mammalian lineages showing those with invasive placentation as solid. Hominidae are invasive.
 

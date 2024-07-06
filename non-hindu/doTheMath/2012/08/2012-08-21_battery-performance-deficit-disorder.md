@@ -15,11 +15,11 @@ To set the stage, the specific energy of gasoline—measured in kWh per kg, for 
 
 A [recent article in APS News](http://www.aps.org/publications/apsnews/201207/electriccars.cfm "APS article on electric car batteries") reported on an emerging view that batteries are failing to live up to our dreams in the electric car realm:
 
-> Despite their many potential advantages, all-electric vehicles will > not replace the standard American family car in the foreseeable > future. This was the perhaps reluctant consensus at a recent symposium > focused on battery research.
+> Despite their many potential advantages, all-electric vehicles will not replace the standard American family car in the foreseeable future. This was the perhaps reluctant consensus at a recent symposium focused on battery research.
 
 I was somewhat stunned to see this article. I am accustomed to seeing articles emphasizing the *possible*—albeit often improbable, in my mind. Also appearing in the article is a quote from Paul Alivisatos, an accomplished physicist, summarizing the need for further research:
 
-> “It remains true today, as in the past, that we need a fundamental > understanding of the physics of how energy-conversion processes take > place, at a much deeper level, in order to achieve a truly sustainable > energy future.”
+> “It remains true today, as in the past, that we need a fundamental understanding of the physics of how energy-conversion processes take place, at a much deeper level, in order to achieve a truly sustainable energy future.”
 
 Rephrasing: the physics we currently understand is not sufficient to deliver the kind of battery we need to make the future work without fossil fuels. Red flags go up for me when it is our *understanding of physics* rather than practical engineering challenges standing in the way—as serious as the latter can be. Physics limitations instantly present a much taller order to overcome.
 

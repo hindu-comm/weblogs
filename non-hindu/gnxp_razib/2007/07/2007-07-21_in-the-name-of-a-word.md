@@ -19,7 +19,7 @@ Addendum: In the current context the importance of names is pretty obvious in a 
 
 **Update:** From the comments, this makes my point much clearer:
 
-> ….The associated metaphysics is secondary to **the potentiation of > collective action**. Once a flag gets carried across a tribal border, > be it a tribal flag, a national flag, a religious flag or whatever in > the home context, across the tribal border itâ€™s generally a de facto > tribal flag.
+> ….The associated metaphysics is secondary to **the potentiation of > collective action**. Once a flag gets carried across a tribal border, be it a tribal flag, a national flag, a religious flag or whatever in the home context, across the tribal border itâ€™s generally a de facto tribal flag.
 
 I want to emphasize that this issue isn’t limited to religion & metaphysics. After all, how many communists read *Das Kapital* front to back? Religious or political movements need the appropriate psychological “hooks” to have mass appeal, but they also seem to gain credibility through the generation of obscure intellectual justifications.
 

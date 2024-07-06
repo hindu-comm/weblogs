@@ -13,7 +13,8 @@ I rarely post much political commentary here, because it would add little value 
 
 ### Related Posts:
 
-- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/) - [Multiculturalism in
+- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/)
+- [Multiculturalism in
   Europe](https://www.gnxp.com/WordPress/2006/09/10/multiculturalism-in-europe/) - [Welcome](https://www.gnxp.com/WordPress/2010/03/25/welcome/) - [Going short and going long in terms of blog
   traffic](https://www.gnxp.com/WordPress/2012/11/25/going-short-and-going-long-in-terms-of-blog-traffic/) - [Tell 'em it ain't so
   Bora!!!](https://www.gnxp.com/WordPress/2006/04/13/tell-em-it-aint-so-bora/) - [Daily Data Dump -

@@ -11,7 +11,7 @@ Truly ancient of days
 
 ![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2021/05/1001344663-photo-u3.jpeg?resize=300%2C200&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2021/05/1001344663-photo-u3.jpeg?resize=300%2C200&ssl=1)[Why Civilization Is Older Than We Thought:](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
 
-> The Calusa of southwestern Florida might provide a natural experiment > for thinking about our Turkish neolithic site: a complex hierarchical > society that built mounds, towers, and wide canals, yet engaged in no > agriculture. A grand temple—if that is what Göbekli Tepe was—wouldn’t > have been beyond their abilities. Instead of the granaries posited by > conventional accounts of the origin of civilization, they built > “watercourts” to store the rich catches of fish they harvested from > the waters of the Florida Keys. The Calusa were a relatively advanced > society built on aquaculture instead of agriculture.
+> The Calusa of southwestern Florida might provide a natural experiment > for thinking about our Turkish neolithic site: a complex hierarchical > society that built mounds, towers, and wide canals, yet engaged in no > agriculture. A grand temple—if that is what Göbekli Tepe was—wouldn’t > have been beyond their abilities. Instead of the granaries posited by > conventional accounts of the origin of civilization, they built “watercourts” to store the rich catches of fish they harvested from the waters of the Florida Keys. The Calusa were a relatively advanced society built on aquaculture instead of agriculture.
 
 Well worth a read (it’s long). It’s not crazy anymore to suggest such things.
 

@@ -221,7 +221,7 @@ THERE IS ABSOLUTELY NO PARALLEL to the kind of educational system that the India
 
 Needless, the countless Gurus and the Acharyas have played the most significant role in preserving this educational heritage intact even to this day — although, today the condition is truly lamentable. At least *five generations* of such teachers and fine minds have been lost to engineering, medicine, and MBA, of late. In fact, in the words of Mookerjee:
 
-> Indian culture has been immortally preserved through an unbroken > succession of teachers. Every literary man of ancient India was > himself a living library.
+> Indian culture has been immortally preserved through an unbroken succession of teachers. Every literary man of ancient India was himself a living library.
 
 So, a physical library could be destroyed by natural disasters, alien invasions, etc, and the entire knowledge of India could be “destroyed at their very sources.” However, these teachers, these Gurus, these Acharyas, these living libraries could escape, move from place to place and keep their knowledge intact and impart it to succeeding generations. This is a recorded fact of Indian history. The fact that the Vedic tradition and a vast array of traditional knowledge has been preserved and still remains intact didn’t happen by accident. Thousands of gallons of blood have ensured their preservation. And like in the case of temples, this is a story that has never been told. Contrast this to the volumes narrating the horrors of the Holocaust — enough to fill several libraries. Or even the thousands of books about an incident as recent as September 11, 2001.
 

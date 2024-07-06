@@ -13,7 +13,7 @@ What was the population of the Americas in 1492?
 
 But the biggest thing that jumped out at me had to do with effective population size. Carl Zimmer’s [write-up](https://www.nytimes.com/2020/12/23/science/dna-caribbean-islands.html) highlights this issue:
 
-> The genetic variations also allowed Dr. Reich and his colleague to > estimate the size of the Caribbean society before European contact. > Christopher Columbus’s brother Bartholomew sent letters back to Spain > putting the figure in the millions. The DNA suggests that was an > exaggeration: the genetic variations imply that the total **population > was as low as the tens of thousands.**
+> The genetic variations also allowed Dr. Reich and his colleague to > estimate the size of the Caribbean society before European contact. > Christopher Columbus’s brother Bartholomew sent letters back to Spain putting the figure in the millions. The DNA suggests that was an exaggeration: the genetic variations imply that the total **population was as low as the tens of thousands.**
 
 This matters because it starts to change our sense of revisionism (now orthodox?) in books such as [1491: New Revelations of the Americas Before Columbus](https://www.amazon.com/exec/obidos/ASIN/B000JMKVE4/geneexpressio-20). To reconcile the small numbers of indigenous people by the 16th century in the Caribbean the hypothesis that there were mass die-offs due to disease, or, the Spanish were inordinately cruel (“The Black Legend”). These results suggest that the scale of the pandemic shock was less of an issue since the baseline number of native peoples is lower in the area.
 

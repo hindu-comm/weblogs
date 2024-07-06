@@ -109,7 +109,7 @@ Distribution of Hs & Nastika~s, from Xuanzang’s travelogue ~650AD
 
 #### Notes:
 
-> We’ll only briefly discuss this period relevant to Xuanzang’s work, a > detailed evaluation can be found in Dr Sarao’s work
+> We’ll only briefly discuss this period relevant to Xuanzang’s work, a detailed evaluation can be found in Dr Sarao’s work
 
 Nastika~s grew rapidly in Madhydesha after their inception and this growth continued under the Kushana period. As Srinivasan points out, less than 10 out of 300 inscriptions excavated from Mathura between the Maurya-Kushana period belonged to Hs. Fa Xian observed in the fourth century that nastika~s were losing ground in Uttar Pradesh while Xuanzang notes most ancient monasteries were in ruins around Magadha. Even in places like Mathura where nastika~s continued to dominate, their numbers were declining. Nastika~s were completely absent and their monasteries desolate when Xuanzang visited modern Rajasthan and Haryana. Strong nastika presence outside India ensured that even abandoned monasteries would continuously receive gifts from Myanmar, Sri Lanka and other foreign nations. Huna destruction of monasteries seems to have contributed slightly to it as later Korean travellers found many monasteries burnt around Sarnath but monasteries in neighbouring regions were safe nonetheless. In conclusion, barring a few urban centres like Mathura, Jhansi and Varanasi, nastika~s were rapidly losing ground in Madhya Desha and were already completely absent in Rajasthan and Haryana.
 

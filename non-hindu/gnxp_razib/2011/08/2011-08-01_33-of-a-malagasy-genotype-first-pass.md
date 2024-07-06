@@ -14,8 +14,8 @@ Last week I [begged for a Malagasy genotype](http://blogs.discovermagazine.com/g
 But first some preliminaries. Here’s what we know about this individual (or what this individual knows):
 
 > – 25% French (paternal grandfather)  
-> – 18.75% West African? 6.25% French? (paternal grandmother French > Antilles)  
-> – 19% Indian Muslim Bohras from Bombay + 6.25% Malagas, Sakalava > tribe, royal family of Mahajanga (maternal grand -father)  
+> – 18.75% West African? 6.25% French? (paternal grandmother French Antilles)  
+> – 19% Indian Muslim Bohras from Bombay + 6.25% Malagas, Sakalava tribe, royal family of Mahajanga (maternal grand -father)  
 > – 25% Malagasy (Sakalava, maternal grandmother mtDNA haplogroup M23)
 
 This is a very mixed individual in terms of ancestry. As for the Malagasy people, we know both a lot and a little about them. They’re a hybrid population, more or less, of Austronesians with a very close connection to the [to the Dayaks of southern Borneo](https://en.wikipedia.org/wiki/East_Barito_languages). I have hypothesized that these Austronesians were part of a circum-Indian ocean trading network which was marginalized by the rise of Islam in the second half of the first millennium. Such an early date would explain why the Malagasy seem to have been only lightly touched by Indic cultural influences, let alone Islamic ones. There is also the African component to their ancestry, which is more prominent in the lowland populations to the west of the island of Madagascar. The [Sakalava](https://en.wikipedia.org/wiki/Sakalava_people) are a somewhat more African group (as opposed to the Merina of the eastern highlands, who are more Austronesian).

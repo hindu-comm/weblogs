@@ -11,11 +11,11 @@ Atheist racialism
 
 Ed Brayton [says](http://scienceblogs.com/dispatches/2006/05/larry_darbys_white_supremacist.php#more):
 
-> To see an atheist taking a position that is **usually held by those > who claim to be Christian, typically southern nationalists, is quite > disconcerting**.
+> To see an atheist taking a position that is **usually held by those who claim to be Christian, typically southern nationalists, is quite disconcerting**.
 
 This is interesting. Here is what some might not know about: **the racialist far Right tends to be populated by many individuals who have left Christianity**. A substantial subset of these are atheists. Here is a [quote](http://www.amren.com/9778issue/9778issue.html) from *American Renaissance*, the most highbrow of racialist publications, in regards to their subscriber base:
 
-> Two thirds of respondents believe in God, a figure lower than the > national average of well over 90 percent. Fewer than half practice a > religion, however. Of those who practice religion, the great majority > are Christian, but among the respondents were two Odinists, a > Buddhist, a mystic, a Nature-worshiper and a Swedenborgian….
+> Two thirds of respondents believe in God, a figure lower than the > national average of well over 90 percent. Fewer than half practice a religion, however. Of those who practice religion, the great majority are Christian, but among the respondents were two Odinists, a Buddhist, a mystic, a Nature-worshiper and a Swedenborgian….
 
   
 The white nationalist mega-site *Stormfront* has a subcategory for “atheist/agnosticism” in its “Theology” section. Can you imagine any other right-wing movement setting apart a separate space for this group (there is also a section for Neo-Pagans)?  

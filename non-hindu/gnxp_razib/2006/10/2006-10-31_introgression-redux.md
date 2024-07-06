@@ -21,7 +21,8 @@ Bumping uglies with the Neandertal
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [Now It Can Be
   Told](https://www.gnxp.com/WordPress/2006/12/17/now-it-can-be-told/) - [John Hawks on
   introgression](https://www.gnxp.com/WordPress/2006/12/18/john-hawks-on-introgression/) - [Introgression, the

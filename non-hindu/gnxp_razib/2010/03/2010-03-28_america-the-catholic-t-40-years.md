@@ -11,11 +11,11 @@ America the Catholic, t + 40 years
 
 [Bryan Caplan](http://econlog.econlib.org/archives/2010/03/bad_prediction.html) points to a quote from Will Durant’s [The Lessons of History](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X/ref=sr_1_1?ie=UTF8&s=books&qid=1269736712&sr=1-1):
 
-> In the United States the lower birth rate of the Anglo-Saxons has > lessened their economic and political power; and the higher birth rate > of Roman Catholic families suggest that by the year 2000 the Roman > Catholic Church will be the dominant force in national as well as in > municipal or state governments. A similar process is helping restore > Catholicism in France, Switzerland, and Germany; the lands of > Voltaire, Calvin, and Luther may soon return to the papal fold.
+> In the United States the lower birth rate of the Anglo-Saxons has > lessened their economic and political power; and the higher birth rate > of Roman Catholic families suggest that by the year 2000 the Roman > Catholic Church will be the dominant force in national as well as in municipal or state governments. A similar process is helping restore Catholicism in France, Switzerland, and Germany; the lands of Voltaire, Calvin, and Luther may soon return to the papal fold.
 
 Caplan observes that I would not be surprised. Well as I was reading the first sentence I did think, “yes, this is what I talk about all the time….” I remember in 1994 telling a Roman Catholic friend that his church was projected to surpass Protestantism sometime around 2020-2030. Fifteen years later that seems to have been another false prophecy, and [data show](http://www.americanreligionsurvey-aris.org/2009/09/american_nones_the_profile_of_the_no_religion_population.html) that Roman Catholicism has had a very hard time hanging onto those raised Catholic in the United States over he past generation. As for France, [well](http://www.telegraph.co.uk/news/worldnews/1539093/France-no-longer-a-Catholic-country.html):
 
-> A poll published in Le Monde des Religions yesterday showed the number > of self-declared French Catholics had dropped from 80 per cent in the > early 1990s and 67 per cent in 2000 and to 51 per cent today.
+> A poll published in Le Monde des Religions yesterday showed the number of self-declared French Catholics had dropped from 80 per cent in the early 1990s and 67 per cent in 2000 and to 51 per cent today.
 
 The data for Switzerland and Germany are easy to get because church-state separation is not an issue as it is in France (or the USA). Here are some trends (keep in mind Durant wrote in the the late 1960s):
 

@@ -11,8 +11,8 @@ The slob factor
 
 [FuturePundit](http://www.futurepundit.com/archives/006656.html) observes a phenomenon which might open up a possible avenue for nudge:
 
-> Clean rooms also increased willingness to volunteer and donate to > charity. >
-> That’s just the sense of smell. We have other senses. What does room > color do to us? Which color makes us most unfair? Red? Yellow? Is it > the same color that makes us most cynical or most haughty? And what > does the feeling of slime on one’s hands do to one’s disposition? > Probably something similar to nasty smells is my guess.
+> Clean rooms also increased willingness to volunteer and donate to charity. >
+> That’s just the sense of smell. We have other senses. What does room > color do to us? Which color makes us most unfair? Red? Yellow? Is it the same color that makes us most cynical or most haughty? And what does the feeling of slime on one’s hands do to one’s disposition? Probably something similar to nasty smells is my guess.
 
 ### Related Posts:
 

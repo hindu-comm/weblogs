@@ -11,11 +11,11 @@ White skin does a body good (in certain climates)
 
 [EVOLUTIONARY ADAPTATIONS: THE IMPACT OF LIGHTER SKIN](http://www.theglobeandmail.com/servlet/story/LAC.20071219.VITAMINSKIN19/TPStory/):
 
-> **It would take someone with dark skin of African or South Asian > ancestry about 60 minutes at the same time of day to make the amount > of vitamin D that a person of European ancestry would make in about 10 > minutes**, estimates Reinhold Vieth, one of Canada’s top vitamin D > experts and a professor in the department of nutritional sciences at > the University of Toronto.
+> **It would take someone with dark skin of African or South Asian > ancestry about 60 minutes at the same time of day to make the amount > of vitamin D that a person of European ancestry would make in about 10 minutes**, estimates Reinhold Vieth, one of Canada’s top vitamin D experts and a professor in the department of nutritional sciences at the University of Toronto.
 
 You probably know of Vitamin D deficiency for rickets, but I think [more common ailments](https://en.wikipedia.org/wiki/Vitamin_D#Role_in_immunomodulation) might have a major fitness impact:
 
-> VDR ligands have also been shown to increase the activity of natural > killer cells, and enhance the phagocytic activity of > macrophages…Active vitamin D hormone also increases the production of > cathelicidin, an antimicrobial peptide that is produced in macrophages > triggered by bacteria, viruses, and fungi…Vitamin D deficiency tends > to increase the risk of infections, **such as influenza and > tuberculosis.** In a 1997 study, Ethiopian children with rickets were > **13 times more likely to get pneumonia** than children without > rickets
+> VDR ligands have also been shown to increase the activity of natural > killer cells, and enhance the phagocytic activity of > macrophages…Active vitamin D hormone also increases the production of > cathelicidin, an antimicrobial peptide that is produced in macrophages > triggered by bacteria, viruses, and fungi…Vitamin D deficiency tends > to increase the risk of infections, **such as influenza and tuberculosis.** In a 1997 study, Ethiopian children with rickets were **13 times more likely to get pneumonia** than children without rickets
 
 ### Related Posts:
 

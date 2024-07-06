@@ -134,8 +134,8 @@ In other words – it’s not a good criticism of Hellenic divinity to hurl agai
 
 You can also find a fellow Hindu’s take upon the matter – the sage Angiras – in this thread of his, here:  
 
-> Now, see this other 'argument'. The implied reference seems, most > probably, to be about the story of Ganymede, a beautiful youth lifted > up to heaven by Zeus in the form of an eagle so that he may assume the > office of the Gods' cup-bearer to pour nectar & ambrosia for them. > [pic.twitter.com/NoHSjk616t](https://t.co/NoHSjk616t) >
-> — āṅgīrasaśreṣṭha (@GhorAngirasa) [December 27, > 2019](https://twitter.com/GhorAngirasa/status/1210629680081952768?ref_src=twsrc%5Etfw)
+> Now, see this other 'argument'. The implied reference seems, most > probably, to be about the story of Ganymede, a beautiful youth lifted up to heaven by Zeus in the form of an eagle so that he may assume the office of the Gods' cup-bearer to pour nectar & ambrosia for them. [pic.twitter.com/NoHSjk616t](https://t.co/NoHSjk616t) >
+> — āṅgīrasaśreṣṭha (@GhorAngirasa) [December 27, 2019](https://twitter.com/GhorAngirasa/status/1210629680081952768?ref_src=twsrc%5Etfw)
 
 Of course, the suite of revelations that we are seeking to unpack here *could* potentially open up the countenancing of *another* (and not necessarily (mutually) exclusive) explication as to what has occurred here – and more upon this in due course.
 

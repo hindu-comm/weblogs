@@ -11,7 +11,7 @@ Asian American Demographics
 
 Googling the web I stumbled on to this nice little site on [Asian American demographics](http://www.ameredia.com/demographics/) (for some bizarre reason they add “Russians” to this list). There isn’t a whole lot there, but it is nice layout for the Census data they are presenting. On a mildly related note, no surprise, George Barna finds that Asian Americans are the [least religious](http://www.barna.org/FlexPage.aspx?Page=BarnaUpdateNarrow&BarnaUpdateID=203) of American ethno-racial groups while black Americans are the most (in the context of a wider survey). From the text:
 
-> …In fact, there was only one measure for which a majority of Asians > exhibited commitment: 52% said their religious faith is very important > to them, lagging the 68% among whites, 72% among Hispanics, and 89% > among African-Americans.
+> …In fact, there was only one measure for which a majority of Asians exhibited commitment: 52% said their religious faith is very important to them, lagging the 68% among whites, 72% among Hispanics, and 89% among African-Americans.
 
 No big surprise.
 

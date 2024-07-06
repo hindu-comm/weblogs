@@ -11,15 +11,15 @@ Moral intuitions & the evolution of cognition
 
 Over at The American Scene Ross [posts](http://www.theamericanscene.com/2006/06/souls-on-ice-theres-fascinating-pair.php) about the conundrum that many couples face when having to discard their excess embryos in the context of in vitro fertilization. He states:
 
-> Intuitions are unreliable and changeable, and they’re shaped by > cultural factors as much as they shape them.
+> Intuitions are unreliable and changeable, and they’re shaped by cultural factors as much as they shape them.
 
 I have basically argued before that the [axiomatic arguments made by both sides are a sham](https://dean2004.blogspot.com/2004/11/theater-of-abortion.html). I do not deny that pro-life individuals sincerley believe that life begins at conception, but, I do question why if abortion is a “genocide” equivalent to the “holocaust” they not take up arms in a just war against this murder? Yes, I know there are ways you can “reason” against such violence in the name of a good cause, but I find such reasoning as persuasive as “penumbras” which suggest a “right” to “privacy” in the American Constitution.
 
 Ross is correct to note that couples do not view embryos as a “clump of cells,” but neither does this imply that such attachment is equivalent to that that they would feel toward a 3 year old child. I would argue that “pro-life” sentiment is roughly proportional to the degree of resemblence of the embryo/fetus to a conventional human physiognomy. And I do not believe that all such sentiment derives from socialization, **much of it is hard-wired into us**. Over the past generation cognitive science has suggested that there are powerful biases in our mental hardware which constrains and shapes how we perceive the world. For example, it seems clear that we have primed hardware geared toward facial recognition. And, this might have moral implications. I offer [this research](http://www.cbc.ca/story/science/national/2006/06/27/eyes-honesty.html) to illustrate the thrust of my point:
 
-> Over 10 weeks, the researchers placed a sign above the box. Each week, > they alternated pictures of eyes with flowers. The eyes were male or > female and had various expressions. >
-> On average, people paid nearly three times as much for their drinks on > the weeks when the poster featured eyes, the team reports in > Wednesday’s issue of the journal Biology Letters. >
-> “Our brains are programmed to respond to eyes and faces whether we are > consciously aware of it or not,” the study’s lead author, Melissa > Bateson, said in a release.
+> Over 10 weeks, the researchers placed a sign above the box. Each week, they alternated pictures of eyes with flowers. The eyes were male or female and had various expressions. >
+> On average, people paid nearly three times as much for their drinks on the weeks when the poster featured eyes, the team reports in Wednesday’s issue of the journal Biology Letters. >
+> “Our brains are programmed to respond to eyes and faces whether we are consciously aware of it or not,” the study’s lead author, Melissa Bateson, said in a release.
 
 Two points:
 

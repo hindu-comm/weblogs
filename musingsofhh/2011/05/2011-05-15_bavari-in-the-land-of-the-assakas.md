@@ -105,7 +105,14 @@ Advertisement
 
 **Tagged with:**
 
-- [bauddha](https://musingsofhh.wordpress.com/tag/bauddha/) - [brahmana](https://musingsofhh.wordpress.com/tag/brahmana/) - [buddhist](https://musingsofhh.wordpress.com/tag/buddhist/) - [dravidian](https://musingsofhh.wordpress.com/tag/dravidian/) - [indo-aryan](https://musingsofhh.wordpress.com/tag/indo-aryan/) - [pali](https://musingsofhh.wordpress.com/tag/pali/) - [sangam](https://musingsofhh.wordpress.com/tag/sangam/) - [tamil](https://musingsofhh.wordpress.com/tag/tamil/)
+- [bauddha](https://musingsofhh.wordpress.com/tag/bauddha/)
+- [brahmana](https://musingsofhh.wordpress.com/tag/brahmana/)
+- [buddhist](https://musingsofhh.wordpress.com/tag/buddhist/)
+- [dravidian](https://musingsofhh.wordpress.com/tag/dravidian/)
+- [indo-aryan](https://musingsofhh.wordpress.com/tag/indo-aryan/)
+- [pali](https://musingsofhh.wordpress.com/tag/pali/)
+- [sangam](https://musingsofhh.wordpress.com/tag/sangam/)
+- [tamil](https://musingsofhh.wordpress.com/tag/tamil/)
 
 **[3 types of Westernscholarship](https://musingsofhh.wordpress.com/2011/05/12/3-types-of-western-scholarship/)**
 

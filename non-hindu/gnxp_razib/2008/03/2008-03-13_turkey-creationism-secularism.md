@@ -11,9 +11,9 @@ Turkey, Creationism & Secularism
 
 A [new story](http://www.isn.ethz.ch/news/sw/details.cfm?id=18752) highlighting the waxing of Creationism within modern Turkey. A depressing tidbit:
 
-> Education Minister Huseyin Celik, an AKP member, said he has an open > mind over the debate about evolution, but in 2005, the Ministry > reportedly suspended five teachers for advocating evolution too > strongly.  
+> Education Minister Huseyin Celik, an AKP member, said he has an open mind over the debate about evolution, but in 2005, the Ministry reportedly suspended five teachers for advocating evolution too strongly.  
 > …  
-> “In my school three out of five science teachers only teach > creationism and I face pressure from them everyday. They also try to > turn the children against us in their classes, saying we are > atheists,” a teacher told ISN Security Watch on the condition of > anonymity.
+> “In my school three out of five science teachers only teach > creationism and I face pressure from them everyday. They also try to turn the children against us in their classes, saying we are atheists,” a teacher told ISN Security Watch on the condition of anonymity.
 
 The [AKP](https://en.wikipedia.org/wiki/Justice_and_Development_Party_(Turkey)) is a moderate Islamist party attempting to resell itself as a block of Muslim Christian democrats. The analogy with European political traditions makes sense, since the time of [Ataturk](https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk) Turkey has been trying re-brand itself as the southeastern frontier of Europe as opposed to to the northwestern frontier of the Islamic world. From what I have read Ataturk was not personally a believer in religion, but he could only go so far. As it is, in comparison to what came before he went far indeed, enforcing radical ruptures with the past such as switching from Arabic script to the Roman alphabet! Abolishing the fez, which was originally picked up from Balkan Christians, is one thing, but by this act Ataturk made much of the documentary material of the Ottoman period temporarily inaccessible (one assumes that essential material would be translated by now).
 

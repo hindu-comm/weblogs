@@ -11,7 +11,7 @@ Shifting the balance on dogs
 
 The post below on the genetics (and relaxation of constraint) of dogs has given rise to many good comments. I want to highlight one:
 
-> …Yet most feral dog populations quickly revert to a medium-sized, > short-coated, yellowish dog – the so-called “Pariah Dog” that’s found > in so many places around the world – why don’t the feral populations > look more like their wolf ancestors?
+> …Yet most feral dog populations quickly revert to a medium-sized, short-coated, yellowish dog – the so-called “Pariah Dog” that’s found in so many places around the world – why don’t the feral populations look more like their wolf ancestors?
 
   
 There are many issues mooted below. But this comment is a good one. Why do dogs “revert” into [pariah dogs](http://www.canineworld.com/PADS/images/Indian-Pariah.JPG) instead of the Eurasian wolf? Remember what is happening here: being as “cute” as a poodle doesn’t matter once you’re a stray (at least unless you are adopted because of your cuteness), so the less cute dogs with skillz do better in the game of life (reproducing). And yet dogs do not quite turn back into the wolves from which they derived. Why not?  

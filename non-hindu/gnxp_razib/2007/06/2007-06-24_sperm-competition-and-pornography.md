@@ -11,19 +11,19 @@ Sperm competition and pornography
 
 Recently Razib [posted](https://www.gnxp.com/blog/2007/06/tao-of-sperm-competition.php) on a review of [sperm competition](http://www.toddkshackelford.com/downloads/Shackelford-Goetz-CD.pdf) (PDF), part of which claims:
 
-> Kilgallon & Simmons \[(2005)\] documented that men produce a higher > percentage of motile sperm in their ejaculates after viewing sexually > explicit images of two men and one woman (sperm competition images) > than after viewing sexually explicit images of three women.
+> Kilgallon & Simmons \[(2005)\] documented that men produce a higher percentage of motile sperm in their ejaculates after viewing sexually explicit images of two men and one woman (sperm competition images) than after viewing sexually explicit images of three women.
 
 Motile sperm are the kind that are capable of moving themselves by swimming. The idea is that if a guy watches a video with two guys and one girl, he’ll try to leave more swimming sperm since they now have to compete with those of the other man (so his mind thinks). Now, the proper reaction is to think that two guys going at one girl simultaneously was probably as rare, or even more rare, in our evolutionary past than it is today, so how would we show an adaptation to it? Fortunately the study in question is available online for free — [here](http://www.journals.royalsoc.ac.uk/content/xwr9qbwnrj9gbgut/fulltext.html) — and it’s only two pages long, so read it. Let’s review the key findings.
 
 In the Results, we read:
 
-> Subjects viewing images of sperm competition had a greater proportion > of motile sperm in their ejaculates than those viewing images of > females (52.1 +/- 7.3% versus 49.3 +/- 8.0%; F1,23=5.08, p=0.034).
+> Subjects viewing images of sperm competition had a greater proportion of motile sperm in their ejaculates than those viewing images of females (52.1 +/- 7.3% versus 49.3 +/- 8.0%; F1,23=5.08, p=0.034).
 
 That 3% difference in means is swamped by the standard-error bars of 7% – 8%, and the p-value, while under the 0.05 threshold, is uncomfortably close to it, considering the margin of error and the smallish sample size. So this result could easily be a fluke — or not, but it warrants no confident statement that the study “documented” a pattern. “Somewhat suggested,” perhaps, but gimme a break.
 
 This equivocal data aside, it gets worse when the authors looked at the concentration of sperm per volume:
 
-> Men viewing images depicting sperm competition had fewer sperm in > their ejaculate than those viewing images of females (61.35 +/- 1.27 > versus 76.64 +/- 1.26 \* 10^6 sperm ml^-1; F1,36=8.48, p=0.0061). \[my > emphasis\]
+> Men viewing images depicting sperm competition had fewer sperm in their ejaculate than those viewing images of females (61.35 +/- 1.27 versus 76.64 +/- 1.26 \* 10^6 sperm ml^-1; F1,36=8.48, p=0.0061). \[my emphasis\]
 
 Now the effect is clear, but it contradicts the hypothesis that men’s bodies will make more of an effort to defeat the other male’s sperm when watching “sperm competition” images. In fact, given these two findings, maybe “two guys on one girl” ought to be called “sperm anti-competition” images.
 

@@ -103,7 +103,7 @@ Also, I have to link another Yglesias piece: [Misinformation isn't just on the r
 
 [Where Digital Payments, Even for a 10-Cent Chai, Are Colossal in Scale: India’s homegrown instant payment system has remade commerce and pulled millions into the formal economy](https://www.nytimes.com/2023/03/01/business/india-digital-payments-upi.html). Here’s a relevant pull quote:
 
-> The value of instant digital transactions in India last year was far > more than in the United States, Britain, Germany and France. “Combine > the four and multiply by four — it is more than that,” as one Indian > cabinet minister, Ashwini Vaishnaw, told the World Economic Forum in > January.
+> The value of instant digital transactions in India last year was far > more than in the United States, Britain, Germany and France. “Combine the four and multiply by four — it is more than that,” as one Indian cabinet minister, Ashwini Vaishnaw, told the World Economic Forum in January.
 
 [Graduate Admissions Are Downstream of Faculty Hiring: Everything comes back to original sin](https://chadorzel.substack.com/p/graduate-admissions-are-downstream). We’re running in place. Many more bright students are produced than available jobs in research universities. This overwhelms the pipeline, and many research-oriented post-docs go into teaching institutions and transform them into research universities. This allows more and more undergraduates to get papers co-authored with these professors and boosts the number of promising candidates for graduate school, closing the loop, as they flood the next generation of the pipeline.
 
@@ -125,11 +125,11 @@ There’s still no free lunch, free subscribers; my most in-depth pieces for thi
 
 [After the Ice: how foragers and farmers conquered Scandinavia](https://razib.substack.com/p/after-the-ice-how-foragers-and-farmers):
 
-> Scandinavia's cultural and genetic rupture 4,800 years ago was > exceptional even in those brutal times. European Neolithic societies > 5,000 years ago were fragile, with collapses like that of vibrant > village-based economies like the Cucuteni–Trypillia in Romania due to > ecological stress, climatic shock and resource depletion growing > common. Across most of Europe, Neolithic farmers were swept aside by > Indo-Europeans, the only exceptions being islands like Sardinia or > rugged mountainous redoubts like the Pyrenees boundary zone, where the > ancestors of the Basque continued to flourish. But only in Scandinavia > did the descendants of the indigenous European farmers disappear in > totality. Perhaps the battle axes buried with males were ceremonial, > but the placement of weapons in the spare graves of the BAC people > more likely indicates their values, and the total erasure of the > Funnelbeaker people points to a prehistoric genocide. The BAC arrived > as an entire people, a folk wandering comprising men, women and > children, and they erased the last Neolithic communities, > reappropriating their monuments.
+> Scandinavia's cultural and genetic rupture 4,800 years ago was > exceptional even in those brutal times. European Neolithic societies > 5,000 years ago were fragile, with collapses like that of vibrant > village-based economies like the Cucuteni–Trypillia in Romania due to > ecological stress, climatic shock and resource depletion growing > common. Across most of Europe, Neolithic farmers were swept aside by > Indo-Europeans, the only exceptions being islands like Sardinia or > rugged mountainous redoubts like the Pyrenees boundary zone, where the > ancestors of the Basque continued to flourish. But only in Scandinavia > did the descendants of the indigenous European farmers disappear in > totality. Perhaps the battle axes buried with males were ceremonial, > but the placement of weapons in the spare graves of the BAC people > more likely indicates their values, and the total erasure of the > Funnelbeaker people points to a prehistoric genocide. The BAC arrived as an entire people, a folk wandering comprising men, women and children, and they erased the last Neolithic communities, reappropriating their monuments.
 
 [Chariots of Ice, Coursers of the Sun](https://razib.substack.com/p/chariots-of-ice-coursers-of-the-sun):
 
-> The Trundholm sun chariot, found in Denmark and dating to 1400 BC, > illustrates Scandinavia’s full embrace of the horse. The bones and > teeth of equids also appear in some burials during the Nordic Bronze > Age, suggesting horse sacrifices. This is not a practice unique to > Scandinavia; varieties of horse sacrifice are attested in many > Indo-European societies. For the Romans, the “October Horse” was > sacrificed to Mars on the 15th of that month. The Mahabharata, India’s > national epic, extensively discusses Ashvamedha, a horse sacrifice. It > involved letting the animal roam free for a year before an intricate > and detailed ritual preceding its suffocation. While this custom in > most Indo-European societies disappeared after antiquity, the > Scandinavian horse sacrifice continued until 1080 AD. This was when > the last pagan king of Sweden, Blot-Sweyn, presided over the ritual > slaughter and consumption of a horse and the sprinkling of its blood > on a sacred tree.
+> The Trundholm sun chariot, found in Denmark and dating to 1400 BC, > illustrates Scandinavia’s full embrace of the horse. The bones and > teeth of equids also appear in some burials during the Nordic Bronze > Age, suggesting horse sacrifices. This is not a practice unique to > Scandinavia; varieties of horse sacrifice are attested in many > Indo-European societies. For the Romans, the “October Horse” was > sacrificed to Mars on the 15th of that month. The Mahabharata, India’s > national epic, extensively discusses Ashvamedha, a horse sacrifice. It > involved letting the animal roam free for a year before an intricate > and detailed ritual preceding its suffocation. While this custom in > most Indo-European societies disappeared after antiquity, the > Scandinavian horse sacrifice continued until 1080 AD. This was when the last pagan king of Sweden, Blot-Sweyn, presided over the ritual slaughter and consumption of a horse and the sprinkling of its blood on a sacred tree.
 
 If you want to browse my more geographically focused pieces, [Dry.io](https://dry.io/) has created an [interactive map](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) of them. We’ll keep adding to that [page](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) over time. Also, [Dry.io](https://dry.io/) set up a nice skin for my [pinboard bookmarks](https://unsupervisedlearning.dry.io/v?t=tsr&oc=$5hodbpn3bqsbe&st=$5dwav6axuh9ad) and [a page for reader-submitted links](https://unsupervisedlearning.dry.io/v?t=tsr&oc=$5h_wn52cq7qnu&st=$4mm9yku6e4971).
 
@@ -139,18 +139,21 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests (and monologue topics) since the last Time Well Spent:
 
-- [Charles Fain Lehman: homicide, death in the charts - Reflecting on
+- [Charles Fain Lehman: homicide, death in the charts
+- Reflecting on
   the 2020's crime
   boomlet](https://razib.substack.com/p/charles-fain-lehman-homicide-death#details)
 
-- [Virginia Postrel: from synthetic meat to synthetic fabric - The
+- [Virginia Postrel: from synthetic meat to synthetic fabric
+- The
   cultural politics of lab-grown meat and the economic history of
   fabric](https://razib.substack.com/p/charles-fain-lehman-homicide-death#details)
 
 - [Glenn Loury: four decades in economics From econometrics to public
   policy](https://razib.substack.com/p/glenn-loury-four-decades-in-economics#details)
 
-- [Human pigmentation: the genetics and evolution of human shades - Why
+- [Human pigmentation: the genetics and evolution of human shades
+- Why
   do some humans blue eyes and others dark
   skin?](https://razib.substack.com/p/human-pigmentation-the-genetics-and#details)
 
@@ -199,8 +202,8 @@ There you’ll find links to the few different podcasts I’ve contributed to or
 
 [America Is Turning Into India: Our Coming “Caste Wars”](https://www.gnxp.com/WordPress/2023/02/23/america-is-turning-into-india-our-coming-caste-wars/):
 
-> The whole situation frustrates me because many lies buttress this new > truth that people are starting to get woke to. It’s really hard when > you see the consent of the dull masses manufactured out of whole cloth > right before your eyes. >
-> This particular issue won’t affect non-browns very much because no > non-brown will ever be asked about caste discrimination. But, it will > serve as a template to bring every social justice concern in the whole > world to the US. This means more jobs for DEI bureaucrats but a total > swamp in terms of America’s genuinely diverse society. We’ll be > drowning in identity categories soon. We need to stop dividing > Americans.
+> The whole situation frustrates me because many lies buttress this new truth that people are starting to get woke to. It’s really hard when you see the consent of the dull masses manufactured out of whole cloth right before your eyes. >
+> This particular issue won’t affect non-browns very much because no > non-brown will ever be asked about caste discrimination. But, it will > serve as a template to bring every social justice concern in the whole > world to the US. This means more jobs for DEI bureaucrats but a total swamp in terms of America’s genuinely diverse society. We’ll be drowning in identity categories soon. We need to stop dividing Americans.
 
 ### **Over to you**
 

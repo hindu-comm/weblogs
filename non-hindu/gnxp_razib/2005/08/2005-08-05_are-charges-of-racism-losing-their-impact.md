@@ -15,11 +15,11 @@ Here are three cases in point:
 
 1.) A follow-up to the [Eating their Own](https://www.gnxp.com/blog/2005/07/eating-their-own.php) post where the Ultra-PC brigades call the merely PC crowd of [Jared Diamond](https://www.gnxp.com/MT2/archives/003206.html) supporters racist. Brad DeLong offers a hilarious [follow-up.](http://delong.typepad.com/sdj/2005/08/more_guns_germs.html) He quotes David H. Holberg, Chair, Department of Anthropology, Cornell University:
 
-> From what I have read so far, I would conclude that Diamond’s > representations are fundamentally misrepresentations which, > unconsciously perhaps, disguise a racist and ethnocentric position…
+> From what I have read so far, I would conclude that Diamond’s representations are fundamentally misrepresentations which, unconsciously perhaps, disguise a racist and ethnocentric position…
 
 DeLong offers this analysis:
 
-> It’s beginning to look as if people like Ozma’s calling Guns, Germs, > and Steel “quasi-racist” and Tak’s saying that it “perpetuates racism” > may simply be aping their elders. It appears to be a thing their > sub-group does in order to close the circle of discourse against > outsiders–just as economists close the discourse to outsiders by > saying “they don’t have a mathematical model” and historians close to > discourse to outsiders by saying “they don’t have any new > primary-source evidence.” If so, Ozma’s and Tak’s claims that Diamond > is “quasi-racist,” or “perpetuates racism” should not be understood as > empirical claims about the world but merely as markers of their own > commitment to a group that seeks to close the discourse to outsiders.
+> It’s beginning to look as if people like Ozma’s calling Guns, Germs, > and Steel “quasi-racist” and Tak’s saying that it “perpetuates racism” > may simply be aping their elders. It appears to be a thing their > sub-group does in order to close the circle of discourse against > outsiders–just as economists close the discourse to outsiders by > saying “they don’t have a mathematical model” and historians close to > discourse to outsiders by saying “they don’t have any new > primary-source evidence.” If so, Ozma’s and Tak’s claims that Diamond is “quasi-racist,” or “perpetuates racism” should not be understood as empirical claims about the world but merely as markers of their own commitment to a group that seeks to close the discourse to outsiders.
 
 2.) The reception the Cochran, Harpending & Hardy paper received on [Kuroshin.](http://www.kuro5hin.org/story/2005/7/29/20293/9910) The loudest and most offensive comments were by the faction screaming racist and [Nazi](http://www.kuro5hin.org/comments/2005/7/29/20293/9910/100#100) and yet 49% of the respondents to the [associated poll](http://www.kuro5hin.org/poll/1122681043_yuAKQXBH) believe “*Race and IQ are valid concepts, and there are genetic differences in intelligence between races.*” It seems that those 49% didn’t feel the need to be so over the top with their opinions on the matter and saved themselves from the charges of racism.
 
@@ -30,10 +30,10 @@ DeLong offers this analysis:
 > -a bigot  
 > -a capitalist pig  
 > -a supporter of American imperialism (I have no idea why)  
-> -a symptom of the institutional Racism so prevalent at American > schools.  
-> -a supporter of corporate America (then he listed Enron, WorldCom, > Bechtel, and Halliburton as my choice picks)  
+> -a symptom of the institutional Racism so prevalent at American schools.  
+> -a supporter of corporate America (then he listed Enron, WorldCom, Bechtel, and Halliburton as my choice picks)  
 > -an ignorant supporter of racial profiling >
-> and that is only from answering one question, What are the > implications for today’s immigrants?
+> and that is only from answering one question, What are the implications for today’s immigrants?
 
 With few exceptions, the common thread I see connecting these three cases is that the charges of racism are wholly unwarranted yet in the game of “feeling superior one-upmanship” throwing out the racist charges seems to be more important to the self-esteem of the accuser than the downside of looking like a jack-ass for making a ludicrous charge and the commensurate diminishment of one’s reputation. Of course, I recognize the sample universe is completely biased because we’re not measuring the judgements that lead to restraint and thus avoid uttering slapdash charges of racism, but still, this is almost comedic to me rather than shocking. I’d much prefer that a charge of racism actually had some shame and injustice associated with it rather than being a tool for tools to whip out without thinking.
 

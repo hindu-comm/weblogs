@@ -15,7 +15,8 @@ Because our politics have been nationalized, it’s easy to forget there are sti
 
 ### Related Posts:
 
-- [Abortion & religion - an international
+- [Abortion & religion
+- an international
   view](https://www.gnxp.com/WordPress/2009/06/06/abortion-religion-an-international-view/) - [Men have been more pro-choice over the past 30
   years](https://www.gnxp.com/WordPress/2014/12/23/men-have-been-more-pro-choice-over-the-past-30-years/) - [The young do not support abortion rights
   inordinately](https://www.gnxp.com/WordPress/2015/01/23/the-young-do-not-support-abortion-rights-inordinately/) - [Men and women really don't differ in the generality

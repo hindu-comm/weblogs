@@ -79,7 +79,7 @@ The waves of this glorious Shiva Bhakti in Thanjavur were carried by the waters 
 
 Rajaraja Chola’s grandson, Rajendra Chola II continued this selfsame, illustrious cultural and spiritual tradition. Owing to his abiding reverence towards his grandfather, he made a grant in 1058 CE. A daily allowance of paddy had to be given from the treasury of the Brihadeeshwara Temple to a troupe of actors who had to perform a drama titled *Rajarajeshwara Nataka* during the *Vaikasi* Festival (Vaishakha: May/June in Tamil Nadu) in the Temple premises. Extant historical records tell us that the *Rajarajeshwara Nataka* presented scenes depicting the story of the construction of the Brihadeeshwara Temple narrated in a popular format (*Janaranjakam*) so it appealed to the masses. I am not aware what the condition today is, but a research paper of the Benares Hindu University published in 1932 says the following:
 
-> Even now, during the festival in the month of Vaikasi…a drama is > enacted in the temple on a platform near the main (eastern) entrance > into the courtyard of the temple…
+> Even now, during the festival in the month of Vaikasi…a drama is enacted in the temple on a platform near the main (eastern) entrance into the courtyard of the temple…
 
 Sadly, the original *Rajarajeshwara Nataka* has not survived.
 

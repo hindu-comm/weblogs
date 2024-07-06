@@ -13,7 +13,9 @@ Make up a name if you want to comment. I’m not going to let any “Guest” co
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [On "anonymous" comments,
+- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/)
+- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/)
+- [On "anonymous" comments,
   etc.](https://www.gnxp.com/WordPress/2014/06/15/on-anonymous-comments-etc/) - [Comments
   sections](https://www.gnxp.com/WordPress/2007/10/20/comments-sections/) - [What the frack was
   that?](https://www.gnxp.com/WordPress/2009/03/21/what-the-frack-was-that/) - [Open Thread,

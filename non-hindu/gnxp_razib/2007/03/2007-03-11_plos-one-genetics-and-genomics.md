@@ -136,7 +136,8 @@ PLoS One genetics and genomics
 
 ### Related Posts:
 
-- [PLOS One](https://www.gnxp.com/WordPress/2007/03/15/plos-one/) - [Genome-wide association study for breast
+- [PLOS One](https://www.gnxp.com/WordPress/2007/03/15/plos-one/)
+- [Genome-wide association study for breast
   cancer…](https://www.gnxp.com/WordPress/2007/06/28/genome-wide-association-study-for-breast-cancer-susceptibility/) - [What causes regulatory evolution between
   species?](https://www.gnxp.com/WordPress/2008/09/20/what-causes-regulatory-evolution-between-species/) - [Genes not
   patentable](https://www.gnxp.com/WordPress/2013/06/13/genes-not-patentable/) - [How do non-genic polymorphisms influence disease

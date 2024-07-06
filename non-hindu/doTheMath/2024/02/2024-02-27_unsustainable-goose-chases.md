@@ -19,7 +19,10 @@ Why so bold? Glad you asked.
 
 Past posts of mine have dealt with the question of what sustainability means, and associated timescales:
 
-1.  [Ultimate Success](https://dothemath.ucsd.edu/2021/04/ultimate-success/): thinking 10,000 years ahead, what’s still possible? 2.  [Can Modernity Last?](https://dothemath.ucsd.edu/2023/09/can-modernity-last/): an attempt to synthesize why continuance is not in the cards 3.  [Sustainable Timescales](https://dothemath.ucsd.edu/2024/02/sustainable-timescales/): the relevant scope is that of biological evolution 4.  [Inexhaustible Flows](https://dothemath.ucsd.edu/2024/02/inexhaustible-flows/): the dead end of materials-hungry “renewable” energy technology
+1.  [Ultimate Success](https://dothemath.ucsd.edu/2021/04/ultimate-success/): thinking 10,000 years ahead, what’s still possible?
+2.  [Can Modernity Last?](https://dothemath.ucsd.edu/2023/09/can-modernity-last/): an attempt to synthesize why continuance is not in the cards
+3.  [Sustainable Timescales](https://dothemath.ucsd.edu/2024/02/sustainable-timescales/): the relevant scope is that of biological evolution
+4.  [Inexhaustible Flows](https://dothemath.ucsd.edu/2024/02/inexhaustible-flows/): the dead end of materials-hungry “renewable” energy technology
 
 Additionally, [The Simple Story of Civilization](https://dothemath.ucsd.edu/2022/12/the-simple-story/) frames the current epoch as so mind-numbingly new and rapid that it boggles the mind how we could ever think of modernity as a normal time that might have staying power, rather than a fireworks show. It’s only because that’s all our short lives have shown us.
 
@@ -27,7 +30,11 @@ Additionally, [The Simple Story of Civilization](https://dothemath.ucsd.edu/2022
 
 I characterize previous modes of human lifestyles on the planet as follows, in reverse chronological order.
 
--   Present (modernity): **UNSUSTAINABLE!** -   Post-Enlightenment: **unsustainable** -   Antiquity: *unsustainable* -   Agriculture: unsustainable -   Hunter-Gatherer: sustainable?
+-   Present (modernity): **UNSUSTAINABLE!**
+-   Post-Enlightenment: **unsustainable**
+-   Antiquity: *unsustainable*
+-   Agriculture: unsustainable
+-   Hunter-Gatherer: sustainable?
 
 Most, I claim, are unsustainable, to varying degrees. I’ll expand on why below, but the short version is that all post-agricultural modes set up accumulating ecological decline that would eventually spell game-over. Monotonically downward measures of ecological health cannot be called sustainable, even if it takes millennia to drop to terminal levels. The only one I characterize as *potentially* sustainable is the last. The question mark is because of megafauna extinctions, being the only species to use fire, and the fact that an ability for symbolic representation and complex speech *might* be the recipe for a runaway species capable of rapid cultural evolution and technology development out of step with the rest of the community of life, and therefore maladapted to long-term co-existence in ecological relationship. If it looks like we’re winning the “battle against nature” right now, that’s actually what losing looks like.
 

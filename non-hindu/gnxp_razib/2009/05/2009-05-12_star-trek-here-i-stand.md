@@ -16,7 +16,8 @@ I liked the fact that the time travelers broke temporal continuity and that weâ€
 
 ### Related Posts:
 
-- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/) - [Too Much Time On My
+- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/)
+- [Too Much Time On My
   Hands](https://www.gnxp.com/WordPress/2006/07/26/too-much-time-on-my-hands/) - [Harlan Ellison,
   R.I.P.](https://www.gnxp.com/WordPress/2018/06/28/harlan-ellison-r-i-p/) - [New Star Trek Movie
   Trailer](https://www.gnxp.com/WordPress/2008/11/16/new-star-trek-movie-trailer/) - [Transformers: Revenge of the

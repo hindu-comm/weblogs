@@ -11,9 +11,9 @@ Dirty old men
 
 **Update:** Comment from Chris Surridge of PLOS One:
 
-> Just a quick note. The paper is now formally published on PLoS ONE. > The citation is: >
-> Tuljapurkar SD, Puleston CO, Gurven MD (2007) [Why Men Matter: Mating > Patterns Drive Evolution of Human > Lifespan.](http://www.plosone.org/doi/pone.0000785) PLoS ONE 2(8): > e785. > [doi:10.1371/journal.pone.0000785](https://dx.doi.org/10.1371/journal.pone.0000785) >
-> As it is PLoS ONE you can rate the paper, annotate and discuss it > there too.
+> Just a quick note. The paper is now formally published on PLoS ONE. The citation is: >
+> Tuljapurkar SD, Puleston CO, Gurven MD (2007) [Why Men Matter: Mating > Patterns Drive Evolution of Human Lifespan.](http://www.plosone.org/doi/pone.0000785) PLoS ONE 2(8): e785. [doi:10.1371/journal.pone.0000785](https://dx.doi.org/10.1371/journal.pone.0000785) >
+> As it is PLoS ONE you can rate the paper, annotate and discuss it there too.
 
 There’s a new preprint [posted](http://www.plos.org/press/pone-02-08-tuljapurkar.pdf) (PDF) on PLOS One titled [Why Men Matter: Mating Patterns Drive Evolution of Human Lifespan](http://www.plos.org/press/pone-02-08-tuljapurkar.pdf). The basic question is this: **why do humans live beyond the lifespan of the post-menopausal female, about \~55 at the outer bound?** You might ask, “Why not?” As alluded to in the paper there is the problem of [antagonistic pleiotropy](https://en.wikipedia.org/wiki/Pleiotropy#Antagonistic_pleiotropy), mutations which favor fertility early in life with a trade off of heightened mortality past reproductive age should always be favored. Over time these mutations would build up and there should be a “Wall of Death” past the age of 50 as these accumulated mutants manifest themselves.
 

@@ -23,7 +23,8 @@ Add: [Tyler Cowen on Economic Rationality](http://www.idiocentrism.com/cowen.htm
 
 ### Related Posts:
 
-- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/) - [The British: More patient than the
+- [Multiculturalism](https://www.gnxp.com/WordPress/2006/02/19/multiculturalism/)
+- [The British: More patient than the
   Greeks?](https://www.gnxp.com/WordPress/2007/02/13/the-british-more-patient-than-the-greeks/) - [Why do people believe in
   God?](https://www.gnxp.com/WordPress/2007/03/04/why-do-people-believe-in-god/) - [Notes on the
   future](https://www.gnxp.com/WordPress/2011/01/27/notes-on-the-future/) - [How We

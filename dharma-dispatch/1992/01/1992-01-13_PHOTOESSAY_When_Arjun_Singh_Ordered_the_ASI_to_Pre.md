@@ -109,7 +109,7 @@ It was a work extreme scholarly rigour that left nothing to chance and no scope 
 
 THE SELFSAME LUCKNOW BENCH of the Allahabad High Court summoned K.V. Ramesh to furnish evidence in the Babri Masjid case. Let’s hear it in his own words.
 
-> For five long days, I answered the hailstorm of questions hurled at me > by the pro-Babri Masjid lawyers backing my replies up with > inscriptional evidence…then I returned to Lucknow again and for two > and half days, answered a fresh set of questions. But the sad fact is > that despite all this hard work, I am unaware of the status of my > evidence and am unable to understand why the court’s judgement has > still not come out.
+> For five long days, I answered the hailstorm of questions hurled at me > by the pro-Babri Masjid lawyers backing my replies up with > inscriptional evidence…then I returned to Lucknow again and for two > and half days, answered a fresh set of questions. But the sad fact is that despite all this hard work, I am unaware of the status of my evidence and am unable to understand why the court’s judgement has still not come out.
 
 As we now know, the said judgement of the **Allahabad High Court** was delivered in September 2010. By all accounts, this 8000-page judgement is truly a judicial feat of Himalayan proportions. The judgment is in many ways an encyclopaedia of Indian history culture and civilisation drawing from such diverse sources as geography, archeology, epigraphy, linguistics, our epics and Puranas as well as copious accounts from foreign travellers written in different languages.
 

@@ -17,7 +17,7 @@ Economists have started working on this question over the last few years, and ri
 
 In a recent study, [Benjamin and Shapiro](http://www.dartmouth.edu/~economic/seminar%20papers/WhoIsBehavioral.pdf) found that among Harvard undergrads, “A one-standard-deviation increase in mathematical performance raises the propensity to be patient by 18 percentage points, relative to a base of 28%.” So if math scores rise by two standard deviations, patience more than doubles. Their summary:
 
-> In two laboratory studies \[with Harvard students and Chilean high > school students\], we show directly that cognitive ability is > associated with more standard time and risk preferences.
+> In two laboratory studies \[with Harvard students and Chilean high school students\], we show directly that cognitive ability is associated with more standard time and risk preferences.
 
 And what does “standard” mean to Benjamin and Shapiro? More like h. economicus.
 
@@ -25,7 +25,7 @@ Shane Fredrick of MIT showed much the same in [this](http://stuff.mit.edu/people
 
 Both of those papers involve experiments with students playing for small sums of cash. [This paper](http://ideas.repec.org/a/aea/aecrev/v91y2001i1p33-53.html), published in what is arguably the top journal in economics, showed that when people were making decisions involving thousands of dollars, people with higher AFQT scores were much more patient.
 
-> The military drawdown program of the early 1990s provides an > opportunity to obtain estimates of personal discount rates based on > large numbers of people making real choices involving large sums. The > program offered over 65,000 separatees the choice between an annuity > and a lump-sum payment. Despite break-even discount rates exceeding 17 > percent, most of the separatees selected the lump sum–saving taxpayers > \$1.7 billion in separation costs. Estimates of discount rates range > from 0 to over 30 percent and vary with education, age, race, sex, > number of dependents, ability test score, and the size of payment.
+> The military drawdown program of the early 1990s provides an > opportunity to obtain estimates of personal discount rates based on > large numbers of people making real choices involving large sums. The > program offered over 65,000 separatees the choice between an annuity > and a lump-sum payment. Despite break-even discount rates exceeding 17 > percent, most of the separatees selected the lump sum–saving taxpayers \$1.7 billion in separation costs. Estimates of discount rates range from 0 to over 30 percent and vary with education, age, race, sex, number of dependents, ability test score, and the size of payment.
 
 And when officers were broken down by careers, who were the most patient?
 

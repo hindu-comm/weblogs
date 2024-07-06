@@ -13,7 +13,8 @@ New episode of [South Park](http://allabout-sp.net/), March 12th. You can [watch
 
 ### Related Posts:
 
-- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/) - [South Park Scientology
+- [South Park](https://www.gnxp.com/WordPress/2008/10/05/south-park/)
+- [South Park Scientology
   episode](https://www.gnxp.com/WordPress/2006/03/21/south-park-scientology-episode/) - [South Park + 300 =\>
   genius!!!!](https://www.gnxp.com/WordPress/2007/04/11/south-park-300-genius/) - [South Park season
   premier!](https://www.gnxp.com/WordPress/2007/10/03/south-park-season-premier/) - [Finland narks on Earth in South

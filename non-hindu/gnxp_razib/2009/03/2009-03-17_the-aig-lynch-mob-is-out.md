@@ -11,7 +11,7 @@ The AIG Lynch Mob Is Out!
 
 Readers were right. I posted about the idea of shaming the AIG execs, but [events move faster than thoughts](http://www.washingtonpost.com/wp-dyn/content/article/2009/03/16/AR2009031602961.html?hpid=topnewse):
 
-> A tidal wave of public outrage over bonus payments swamped American > International Group yesterday. Hired guards stood watch outside the > suburban Connecticut offices of AIG Financial Products, the division > whose exotic derivatives brought the insurance giant to the brink of > collapse last year. Inside, death threats and angry letters flooded > e-mail inboxes. Irate callers lit up the phone lines. Senior managers > submitted their resignations. Some employees didn’t show up at all.
+> A tidal wave of public outrage over bonus payments swamped American > International Group yesterday. Hired guards stood watch outside the > suburban Connecticut offices of AIG Financial Products, the division > whose exotic derivatives brought the insurance giant to the brink of collapse last year. Inside, death threats and angry letters flooded e-mail inboxes. Irate callers lit up the phone lines. Senior managers submitted their resignations. Some employees didn’t show up at all.
 
 I wonder if older commenters could leave thoughts about analogous situations that they can recall?
 

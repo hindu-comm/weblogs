@@ -21,7 +21,8 @@ Daily Data Dump (Wednesday)
 
 ### Related Posts:
 
-- [Daily Data Dump - October 18th,
+- [Daily Data Dump
+- October 18th,
   2010](https://www.gnxp.com/WordPress/2010/10/18/daily-data-dump-october-18th-2010/) - [Finding rare variants involved in
   disease](https://www.gnxp.com/WordPress/2009/03/05/finding-rare-variants-involved-in-disease/) - [Common versus rare variants,
   again](https://www.gnxp.com/WordPress/2010/04/17/common-versus-rare-variants-again/) - [Common variants are commonly

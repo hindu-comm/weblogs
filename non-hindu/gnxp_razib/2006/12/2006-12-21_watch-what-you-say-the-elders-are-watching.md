@@ -11,7 +11,7 @@ Watch what you say, the elders are watching!
 
 Every time I allude to the male biased readership, one feisty individual emails me to take issue with my assertion. I thought I’d pass on the email since I think some of you might be surprised at who reads our little blog:
 
-> I’m a lady (73 years old) and read Gene Expression most every day. I > don’t usually respond to surveys but would guess you have more “lady” > readers than you think.
+> I’m a lady (73 years old) and read Gene Expression most every day. I don’t usually respond to surveys but would guess you have more “lady” readers than you think.
 
 ### Related Posts:
 

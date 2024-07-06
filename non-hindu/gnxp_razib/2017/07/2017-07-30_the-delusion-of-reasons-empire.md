@@ -74,7 +74,9 @@ Ultimately, if you want to argue someone out of their beliefs…well, good luck 
 
 ### Related Posts:
 
-- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Ratatouille](https://www.gnxp.com/WordPress/2007/06/30/ratatouille/) - [Box office
+- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/)
+- [Ratatouille](https://www.gnxp.com/WordPress/2007/06/30/ratatouille/)
+- [Box office
   retardiculosity!](https://www.gnxp.com/WordPress/2009/11/15/box-office-retardiculosity/) - [300](https://www.gnxp.com/WordPress/2007/03/10/300/) - [What if aliens had an Indian
   accent?](https://www.gnxp.com/WordPress/2006/06/15/what-if-aliens-had-an-indian-accent/) - [Has the Insane Clown Posse gone
   insane?](https://www.gnxp.com/WordPress/2010/04/20/has-the-insane-clown-posse-gone-insane/)

@@ -11,9 +11,9 @@ Group selection is fascist and progressive
 
 So, check out this retarded post at the *Huntington Post*, [Goodbye Selfish-Gene: A New Upheaval in the Science of Human Behavior](http://www.huffingtonpost.com/dan-agin/goodbye-selfishgene-a-n_b_71019.html):
 
-> Plain talk: The Darwinian prop of the lone cowboy rugged conservative > bundle of selfish genes has now been pulled out from under the cowboy > and the lone cowboy has suddenly collapsed into a mumbling baffled > cartoon.  
-> Humans are pack animals. We live and die in herds. The group provides > the individual with the means of physical and psychological survival. > We need the group as much as the group needs us. It’s a fair trade > that’s been evolving for millions of years.  
-> **The selfish-gene mantra of conservative psychologists and columnists > is now more or less dead. Will we see the public media focus on this > new development?**
+> Plain talk: The Darwinian prop of the lone cowboy rugged conservative bundle of selfish genes has now been pulled out from under the cowboy and the lone cowboy has suddenly collapsed into a mumbling baffled cartoon.  
+> Humans are pack animals. We live and die in herds. The group provides the individual with the means of physical and psychological survival. We need the group as much as the group needs us. It’s a fair trade that’s been evolving for millions of years.  
+> **The selfish-gene mantra of conservative psychologists and columnists is now more or less dead. Will we see the public media focus on this new development?**
 
   
 The “selfish gene” idea was popularized by that lion of the right-wing movement, Richard Dawkins! You know, that darling of the conservative media, what with his anti-Bush and anti-God stances. I’m not going to parse and decompose the details of how gene-level selective dynamics do not imply that individuals are actually islands outside of the sea of sociality. That’s pretty much common sense, **we’re a social species**. Any theory that explains anything **has to take that into account**.  

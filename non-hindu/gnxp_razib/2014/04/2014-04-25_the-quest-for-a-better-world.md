@@ -17,7 +17,7 @@ In modern Hollywood this trend began with the 2007 film *300*, which showcased r
 
 The tone of the piece seems clearly disapproving of the trend, and is in line with the thought that the flabbier bodies of leading men from decades past were somehow more respectable and honest. But that too was just a cultural trend. I can’t for example agree with this section:
 
-> Six-packs and bulky chests can look freakishly anachronistic in a > prestige period picture: It’s not just that Tudor princes and > Victorian lotharios didn’t have waxed chests and 12-packs – **it’s > that almost nobody had bodies like these until the last decades of > supplements and fitness science.**
+> Six-packs and bulky chests can look freakishly anachronistic in a > prestige period picture: It’s not just that Tudor princes and Victorian lotharios didn’t have waxed chests and 12-packs – **it’s that almost nobody had bodies like these until the last decades of supplements and fitness science.**
 
 If such bodies are freaks of modern science it is peculiar that Michelangelo’s David seems to resemble Brad Pitt in *Fight Club*. More to the point I remember being struck in 1990 in rural Bangladesh by the cut physique of a young farmer who was attending to his rice paddy. He was small and compact, but his low body fat and constant toil sculpted a form which was not anachronistic at all.
 

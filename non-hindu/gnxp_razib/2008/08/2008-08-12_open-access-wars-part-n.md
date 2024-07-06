@@ -11,7 +11,7 @@ Open Access Wars, part n
 
 [Reed Elsevier caught copying my content without my permission](http://scienceblogs.com/authority/2008/08/reed_elsevier_caught_copying_m.php):
 
-> Scientists provide the content for Elsevier’s journals. They donate > their time to review, and often edit, the articles that appear in the > journals. They make up the bulk of the audience for the journals. Yet > Elsevier has, time after time, demonstrated a complete lack of respect > for scientists and the scientific community. It’s not a surprise that > they would decide to grab my post, while ignoring my rights to my own > material. It’s simply another example of where their focus is: > intellectual property matters if and only if it’s theirs.
+> Scientists provide the content for Elsevier’s journals. They donate > their time to review, and often edit, the articles that appear in the > journals. They make up the bulk of the audience for the journals. Yet > Elsevier has, time after time, demonstrated a complete lack of respect > for scientists and the scientific community. It’s not a surprise that they would decide to grab my post, while ignoring my rights to my own material. It’s simply another example of where their focus is: intellectual property matters if and only if it’s theirs.
 
 As they say, read the whole thing….
 

@@ -11,11 +11,11 @@ Human Lineage-Specific Amplification, Selection, and Neuronal Expression of DUF1
 
 [Human Lineage-Specific Amplification, Selection, and Neuronal Expression of DUF1220 Domains](http://www.sciencemag.org/cgi/content/abstract/313/5791/1304):
 
-> …A genome-wide survey of gene copy number variation among human and > great ape lineages revealed that the most striking human > lineage-specific amplification was due to an unknown gene, MGC8902, > which is predicted to encode multiple copies of a protein domain of > unknown function (DUF1220). Sequences encoding these domains…show > signs of positive selection, and are increasingly amplified generally > as a function of a species’ evolutionary proximity to humans…DUF1220 > domains are highly expressed in brain regions associated with higher > cognitive function….
+> …A genome-wide survey of gene copy number variation among human and > great ape lineages revealed that the most striking human > lineage-specific amplification was due to an unknown gene, MGC8902, > which is predicted to encode multiple copies of a protein domain of > unknown function (DUF1220). Sequences encoding these domains…show > signs of positive selection, and are increasingly amplified generally as a function of a species’ evolutionary proximity to humans…DUF1220 domains are highly expressed in brain regions associated with higher cognitive function….
 
 From the conclusion:
 
-> The genomic regions that harbor DUF1220 sequences appear to be > particularly complex and, as a result, different genome assemblies > differ with respect to the predicted number of DUF1220-encoded > sequences. However, two recent genome-wide BAC aCGH cross-species > studies…independently support the findings reported here that > DUF1220-encoding genes show human lineage-specific increases in copy > number and appeared with remarkable rapidity. If they indeed are the > result of **strong positive selection**, they may play an important > role in human lineageâ€“specific traits….
+> The genomic regions that harbor DUF1220 sequences appear to be > particularly complex and, as a result, different genome assemblies > differ with respect to the predicted number of DUF1220-encoded > sequences. However, two recent genome-wide BAC aCGH cross-species > studies…independently support the findings reported here that > DUF1220-encoding genes show human lineage-specific increases in copy number and appeared with remarkable rapidity. If they indeed are the result of **strong positive selection**, they may play an important role in human lineageâ€“specific traits….
 
 John Hawks [has more](http://johnhawks.net/weblog/reviews/genetics/brain/duf1220_duplication_expression_2006.html).
 

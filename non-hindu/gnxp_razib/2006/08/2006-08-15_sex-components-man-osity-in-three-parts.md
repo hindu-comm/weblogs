@@ -28,7 +28,8 @@ ive attribute on SRY effects in the brain, but the fact that it specifically aff
 
 ### Related Posts:
 
-- [Sex ratio](https://www.gnxp.com/WordPress/2006/03/05/sex-ratio/) - [The brain-testes
+- [Sex ratio](https://www.gnxp.com/WordPress/2006/03/05/sex-ratio/)
+- [The brain-testes
   connection](https://www.gnxp.com/WordPress/2006/08/17/the-brain-testes-connection/) - ["Why sex matters for
   neuroscience"](https://www.gnxp.com/WordPress/2006/05/30/why-sex-matters-for-neuroscience/) - [Sex hormones &
   genes](https://www.gnxp.com/WordPress/2009/09/12/sex-hormones-genes/) - [The next step for sex differences in mental

@@ -129,7 +129,7 @@ Through a series of legislations beginning in mid 19^(th) century, the colonial 
 
 In practical terms, this meant the effective demolition of such portions of the Shariat as were still in operation. In no particular order, these were mainly the Caste Disabilities Act, the Married Women’s Property Act, the Majority Act, the Transfer of Property Act, the Guardians Wards Act, the Indian Contract Act, the Indian Evidence Act, the Criminal Procedure Code, and the Indian Succession Act. The last of these legislations, the Child Marriages Restraint Act (the Sarda Act), was passed in 1929. To invoke Arun Shourie yet again (emphases added):
 
-> **What was still called “the Shariat” was by now a thorough amalgam** > — of what Islamic jurists had held, of elements of Hindu law and > **local custom, which was invariably the Hindu custom of the > locality,** and the rulings of .. British magistrates and judges. So > much so that it went by the name of “**Anglo-Mohamedan Law**…”
+> **What was still called “the Shariat” was by now a thorough amalgam** > — of what Islamic jurists had held, of elements of Hindu law and **local custom, which was invariably the Hindu custom of the locality,** and the rulings of .. British magistrates and judges. So much so that it went by the name of “**Anglo-Mohamedan Law**…”
 
 So, what had changed from 1929 to 1937?
 

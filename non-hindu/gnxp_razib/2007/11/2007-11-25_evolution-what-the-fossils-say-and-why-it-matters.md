@@ -20,7 +20,8 @@ But in the end I would say that [Evolution: What the Fossils Say and Why It Matt
 
 ### Related Posts:
 
-- [Friday Fluff - March 18th,
+- [Friday Fluff
+- March 18th,
   2011](https://www.gnxp.com/WordPress/2011/03/18/friday-fluff-march-18th-2011/) - [Friday Fluff - March 4th,
   2011](https://www.gnxp.com/WordPress/2011/03/04/friday-fluff-march-4th-2011/) - [Open Thread,
   4/5/2015](https://www.gnxp.com/WordPress/2015/04/05/open-thread-452015/) - [Hobbit

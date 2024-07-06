@@ -11,7 +11,7 @@ Religion is adaptive; religion is not
 
 [John Wilkins](http://scienceblogs.com/evolvingthoughts/2008/10/the_religious_we_have_always_w.php) points me to a [piece](http://www.nature.com/nature/journal/v455/n7216/full/4551038a.html) by Pascal Boyer,\* [Being human: Religion: Bound to believe?](http://www.nature.com/nature/journal/v455/n7216/full/4551038a.html):
 
-> So is religion an adaptation or a by-product of our evolution? Perhaps > one day we will find compelling evidence that a capacity for religious > thoughts, rather than ‘religion’ in the modern form of socio-political > institutions, contributed to fitness in ancestral times. For the time > being, the data support a more modest conclusion: **religious thoughts > seem to be an emergent property of our standard cognitive > capacities.**
+> So is religion an adaptation or a by-product of our evolution? Perhaps > one day we will find compelling evidence that a capacity for religious > thoughts, rather than ‘religion’ in the modern form of socio-political > institutions, contributed to fitness in ancestral times. For the time being, the data support a more modest conclusion: **religious thoughts seem to be an emergent property of our standard cognitive capacities.**
 
   
 If there is one thing you can say for philosophy, the discipline imposes a clarity and precision in terminology. The philosophical fixation on method might mean that progress, however you measure it, is slow. But, it will also minimize confusion to the greatest extent possible (though I would offer that the material which modern philosophy often focuses on is well nigh intractable without presuppositions which are not universal). Other fields do not focus so much on methodology, and this causes problems.  

@@ -25,7 +25,8 @@ Of course there are many serious issues to address in regards’ to Unz’s piec
 
 ### Related Posts:
 
-- [Germania](https://www.gnxp.com/WordPress/2009/11/16/germania/) - [Where have all the English Americans gone?
+- [Germania](https://www.gnxp.com/WordPress/2009/11/16/germania/)
+- [Where have all the English Americans gone?
   Nowhere....](https://www.gnxp.com/WordPress/2008/11/16/where-have-all-the-english-americans-gone-nowhere/) - [No
   temperance](https://www.gnxp.com/WordPress/2008/11/15/no-temperance/) - [A horrible "natural
   experiment"](https://www.gnxp.com/WordPress/2012/07/25/a-horrible-natural-experiment/) - [Jhumpa Lahiri as cultural commentary; quality vs.

@@ -11,7 +11,7 @@ The future shall belong to the odorless!
 
 My [blog post](http://blogs.discovermagazine.com/gnxp/2010/10/east-asians-dry-earwax-and-adaptation/) prompted this [response](https://washparkprophet.blogspot.com/2010/10/genetics-of-body-odor-and-earwax.html):
 
-> He notes research hypothesizing a link between high latitudes and the > dry earwax gene, and also research that suggests that the dry earwax > gene, something that would seem to have little selective impact, may > be linked to the same gene that regulates body odor. **Low body odor > might conceivably confer the 1% per generation selective advantage** > that would appear to be necessary to account for the current mix of > those genes over the 50,000 years the distinction between Asia and the > rest of the world is appeared to have evolved.
+> He notes research hypothesizing a link between high latitudes and the > dry earwax gene, and also research that suggests that the dry earwax > gene, something that would seem to have little selective impact, may > be linked to the same gene that regulates body odor. **Low body odor > might conceivably confer the 1% per generation selective advantage** that would appear to be necessary to account for the current mix of those genes over the 50,000 years the distinction between Asia and the rest of the world is appeared to have evolved.
 
 People can interpret results however they want, it’s a free country. In fact I do so all the time. But I want to enter into the record that I’m skeptical of this particular model of negative selection against stinkiness.
 

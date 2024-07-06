@@ -19,9 +19,9 @@ I say summary because this tree takes a lot of information and tries to generate
 
 Finally, as many of you know I put a substantial number of comments into ‘spam’ on this weblog. Here’s one related to the Kalash which you didn’t see:
 
-> “Because of their light skin and hair both the Kalash and Burusho have > inspired claims that they are “lost white tribes.” This is almost > certainly false for the Burusho. Aside from their moderate East Asian > admixture, they’re not so different from other Pakistanis in their > region genetically.” >
-> LOL! You are in such denial! A lot of pseudo-scientific mumbo jumbo to > spin a lie. OF COURSE they’re of European descent. Claiming European > genes as indigenous makes Arabs, Iranians, Middle Easterners and > Indians, like you, sound pathetic and desperate. >
-> Geneticists like you could make BRAD PITT’S genes indigenous to South > Asia if you wanted to. Where there’s a will there’s a way.
+> “Because of their light skin and hair both the Kalash and Burusho have > inspired claims that they are “lost white tribes.” This is almost certainly false for the Burusho. Aside from their moderate East Asian admixture, they’re not so different from other Pakistanis in their region genetically.” >
+> LOL! You are in such denial! A lot of pseudo-scientific mumbo jumbo to spin a lie. OF COURSE they’re of European descent. Claiming European genes as indigenous makes Arabs, Iranians, Middle Easterners and Indians, like you, sound pathetic and desperate. >
+> Geneticists like you could make BRAD PITT’S genes indigenous to South Asia if you wanted to. Where there’s a will there’s a way.
 
 The interesting thing is that **this sort of comment is routinely written by white nationalists, Afrocentrists, Indian nationalists, etc. etc.** of Racial romanticism often has as great a difficulty accepting the nature of the human phylogeny as those who would like to elide any substantive differences. The only thing I would note though is that this person posted as [“liz”](http://www.lehigh.edu/~amsp/2009/10/new-and-forthcoming-publications.html#5635256462329736386) at Amardeep Singh’s blog (email: be[\[emailprotected\]](/cdn-cgi/l/email-protection), with an IP that traces to [Alfred University](https://en.wikipedia.org/wiki/Alfred_University)) so it might beat false-flag troll.
 

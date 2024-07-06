@@ -17,9 +17,9 @@ Friday Fluff – October 1st, 2010
 
 3\. **Comment of the week**, in response to Mormons are average:
 
-> I am a Mormon convert with 11 children (11 is allot, even for a Mormon > family). I joined the church at age 24 and am now 60. I have about 2 > years of college (no degree) and have a good job at Hewlett Packard > that I grew into. >
-> It is expected that my kids will all have college degree’s (and so > far, the adults all do). Among the younger generation in the Mormon > culture it is normal to obtain at least a Bachelors degree. A person > (especially a male) who does not go to college is not normal in the > Mormon culture. It shows a lack of initiative and the more desirable, > faithful Mormon girls may not consider this person as a desirable > mate. The same is true for boys who do not go on missions. It shows a > lack of initiative and faithfulness. In a Mormon lifestyle of high > achievement and active church and community service, women do not want > to be married to a sluggard for the rest of their lives. >
-> Mormon youth grow up in an environment where most would not even > consider skipping college.
+> I am a Mormon convert with 11 children (11 is allot, even for a Mormon family). I joined the church at age 24 and am now 60. I have about 2 years of college (no degree) and have a good job at Hewlett Packard that I grew into. >
+> It is expected that my kids will all have college degree’s (and so > far, the adults all do). Among the younger generation in the Mormon > culture it is normal to obtain at least a Bachelors degree. A person > (especially a male) who does not go to college is not normal in the > Mormon culture. It shows a lack of initiative and the more desirable, > faithful Mormon girls may not consider this person as a desirable > mate. The same is true for boys who do not go on missions. It shows a lack of initiative and faithfulness. In a Mormon lifestyle of high achievement and active church and community service, women do not want to be married to a sluggard for the rest of their lives. >
+> Mormon youth grow up in an environment where most would not even consider skipping college.
 
 4\) 15% of you think that the sex bias of the blog’s readership is a problem, 75% do not, 10% don’t care.
 
@@ -31,7 +31,8 @@ Friday Fluff – October 1st, 2010
 
 ### Related Posts:
 
-- [Friday Fluff - October 29th,
+- [Friday Fluff
+- October 29th,
   2010](https://www.gnxp.com/WordPress/2010/10/29/friday-fluff-october-29th-2010/) - [Friday Fluff – November 19th,
   2010](https://www.gnxp.com/WordPress/2010/11/19/friday-fluff-november-19th-2010/) - [Friday Fluff - April 1st,
   2011](https://www.gnxp.com/WordPress/2011/04/01/friday-fluff-april-1st-2011/) - [Friday Fluff - September 17th,

@@ -96,7 +96,8 @@ Some notes:
 
 ### Related Posts:
 
-- [Pew Global Attitude Project - Muslims & Europeans,
+- [Pew Global Attitude Project
+- Muslims & Europeans,
   part…](https://www.gnxp.com/WordPress/2006/08/02/pew-global-attitude-project-muslims-europeans-part-n/) - [An "Islamic" nation into the
   EU?](https://www.gnxp.com/WordPress/2009/04/14/an-islamic-nation-into-the-eu/) - [Those tolerant
   Bektashis!](https://www.gnxp.com/WordPress/2009/09/07/those-tolerant-bektashis/) - [Islam in China

@@ -11,7 +11,9 @@ Harry Potter vs Twilight Dance Battle
 
 ### Related Posts:
 
-- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/) - [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Cinderella vs. Belle rap
+- [Problems](https://www.gnxp.com/WordPress/2014/08/06/problems/)
+- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/)
+- [Cinderella vs. Belle rap
   battle](https://www.gnxp.com/WordPress/2015/06/30/cinderella-vs-belle-rap-battle/) - [Dan Davis prehistory YouTuber par
   excellence](https://www.gnxp.com/WordPress/2022/04/14/dan-davis-history-youtuber-par-excellence/) - [Most phenotypic evolution is
   neutral](https://www.gnxp.com/WordPress/2007/07/15/most-phenotypic-evolution-is-neutral/) - [Inside the Dar

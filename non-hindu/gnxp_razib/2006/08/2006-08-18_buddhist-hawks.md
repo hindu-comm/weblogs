@@ -11,11 +11,11 @@ Buddhist Hawks
 
 Over in The Corner today Heather Mac Donald [stated](http://corner.nationalreview.com/post/?q=NTk4OWJjMDkyMDhjYWMwNDM4YWVhMDNjY2JmMjFiMDA=):
 
-> The Bible is as open-ended a text as any other. Ever since Medieval > theologians tried to contain Biblical interpretation through > hermeneutics, it has evaded all efforts to rein it in.
+> The Bible is as open-ended a text as any other. Ever since Medieval theologians tried to contain Biblical interpretation through hermeneutics, it has evaded all efforts to rein it in.
 
 Long time readers of this blog will know that I tend to accept this as a good first approximation. So check this out [Pro-war Buddhist monks in brawl](http://www.cnn.com/2006/WORLD/asiapcf/08/17/sri.lanka.buddhist.reut/index.html):
 
-> …while a “peace protest” in the capital turned into a brawl with > hardline Buddhist monks
+> …while a “peace protest” in the capital turned into a brawl with hardline Buddhist monks
 
 Some of you are likely weirded out at this point, but those of you who follow politics in places like Sri Lanka and Myanmar know that Therevada Buddhism can be a hammer as well as a lotus. The Western perception is that Buddhism is a calm and pacific religion, and yet so has Christianity been, right? Oh, wait.
 

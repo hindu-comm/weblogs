@@ -30,7 +30,8 @@ Oren Harman wonders at the end of the book if George Price may have been rather 
 
 ### Related Posts:
 
-- [Open Thread - October 30th,
+- [Open Thread
+- October 30th,
   2010](https://www.gnxp.com/WordPress/2010/10/30/open-thread-october-30th-2010/) - [The Price of
   Altruism](https://www.gnxp.com/WordPress/2010/07/21/the-price-of-altruism/) - [The Fame of
   Price](https://www.gnxp.com/WordPress/2010/08/22/the-fame-of-price/) - [Nature's Oracle finally out in

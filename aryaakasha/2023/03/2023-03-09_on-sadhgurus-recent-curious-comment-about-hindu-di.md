@@ -99,8 +99,8 @@ People make limited remarks which are incomplete in their conceptual elocution a
 
 Well, at time of writing, it’s wracked up 203 replies, 2221 retweets, 5279 likes/favouritings, and 243.6k views. And climbing on all fronts.
 
-> Dominance of masculine means conquest, the Feminine dominates by > Embrace. The birth of Devi in > [\#Nepal](https://twitter.com/hashtag/Nepal?src=hash&ref_src=twsrc%5Etfw), > a wonderful outpouring of Love & Devotion, is a tribute to the > richness of this Culture that has kept the worship of the Feminine > vibrantly alive. -Sg > [\#CelebrateFeminine](https://twitter.com/hashtag/CelebrateFeminine?src=hash&ref_src=twsrc%5Etfw) > [pic.twitter.com/q4tGVpGLAi](https://t.co/q4tGVpGLAi) >
-> — Sadhguru (@SadhguruJV) [March 8, > 2023](https://twitter.com/SadhguruJV/status/1633418058839789571?ref_src=twsrc%5Etfw)
+> Dominance of masculine means conquest, the Feminine dominates by > Embrace. The birth of Devi in > [\#Nepal](https://twitter.com/hashtag/Nepal?src=hash&ref_src=twsrc%5Etfw), > a wonderful outpouring of Love & Devotion, is a tribute to the > richness of this Culture that has kept the worship of the Feminine vibrantly alive. -Sg [\#CelebrateFeminine](https://twitter.com/hashtag/CelebrateFeminine?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/q4tGVpGLAi](https://t.co/q4tGVpGLAi) >
+> — Sadhguru (@SadhguruJV) [March 8, 2023](https://twitter.com/SadhguruJV/status/1633418058839789571?ref_src=twsrc%5Etfw)
 
 Like it or not, Sadhguru has considerable currency and influence out there in the broader world. Not just in the Hindusphere itself, but also to some extent outside and beyond of it, as well.
 

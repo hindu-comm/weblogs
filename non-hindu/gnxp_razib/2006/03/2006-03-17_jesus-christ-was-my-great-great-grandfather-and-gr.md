@@ -11,7 +11,7 @@ Jesus Christ was my great-great…grandfather, and great-great…uncle, etc.
 
 Steve Olson in [Why We’re All Jesus’ Children](http://www.slate.com/id/2138060/) has a gimmicky exposition on the reticulated character of our genealogies. But Olson tries to pull a fast one here:
 
-> It gets even stranger. Say you go back 120 generations, to about the > year 1000 B.C. According to the results presented in our Nature paper, > your ancestors then included everyone in the world who has descendants > living today. And if you compared a list of your ancestors with a list > of anyone else’s ancestors, **the names on the two lists would be > identical**.
+> It gets even stranger. Say you go back 120 generations, to about the > year 1000 B.C. According to the results presented in our Nature paper, > your ancestors then included everyone in the world who has descendants living today. And if you compared a list of your ancestors with a list of anyone else’s ancestors, **the names on the two lists would be identical**.
 
 The reality is that **quantity, not quality, counts**, you need to know how many times someone was your ancestor, not that they were your ancestor. [More here](https://www.gnxp.com/blog/2006/03/were-all-jesus-children-some-more-so.php).
 

@@ -25,7 +25,8 @@ The key here is “why do you speak?” Do you speak because you want to win an 
 
 ### Related Posts:
 
-- [Ask a Science Blogger - June
+- [Ask a Science Blogger
+- June
   15](https://www.gnxp.com/WordPress/2006/06/15/ask-a-science-blogger-june-15/) - [Razib on
   Books](https://www.gnxp.com/WordPress/2011/02/04/razib-on-books/) - [Open thread
   7/25/2012](https://www.gnxp.com/WordPress/2012/07/25/open-thread-7252012/) - [Open thread

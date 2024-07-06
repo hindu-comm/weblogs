@@ -130,7 +130,7 @@ Thanks for reading Small Bets Newsletter! Subscribe for free to receive new post
 
 **🔸** Nick Maggiulli writes how pushing past the cringe lets you avoid “letting others shape your life instead of building your own.” But the crucial point is that you still need to focus on *quality*.
 
-> What’s their secret? They focus relentlessly on the quality of their > writing and ideas. Because quality never goes out of style. And when > you focus on quality, you don’t have to play by the rules of the > algorithm at all. You can reject the algorithm altogether and create > success in your own way.
+> What’s their secret? They focus relentlessly on the quality of their > writing and ideas. Because quality never goes out of style. And when you focus on quality, you don’t have to play by the rules of the algorithm at all. You can reject the algorithm altogether and create success in your own way.
 
 🔗: [Reject the Algorithm](https://ofdollarsanddata.com/reject-the-algorithm/)
 
@@ -152,20 +152,27 @@ Play
 
 🔸 We have an exciting lineup of live classes coming up, including some brand new ones. These are all 100% free for all members of the [Small Bets community](https://smallbets.co):
 
-- Apr 20 - [Louie Bacaj](https://twitter.com/LBacaj) & [Sairam
+- Apr 20
+- [Louie Bacaj](https://twitter.com/LBacaj) & [Sairam
   Sundaresan](https://twitter.com/DSaience) - **Enough GPT to be
   Dangerous**
 
-- Apr 25 - [Justin Welsh](https://twitter.com/thejustinwelsh) -
+- Apr 25
+- [Justin Welsh](https://twitter.com/thejustinwelsh) -
   **Understanding LinkedIn**
 
-- May 1 - [Aprilynne Alter](https://twitter.com/AprilynneAlter) -
+- May 1
+- [Aprilynne Alter](https://twitter.com/AprilynneAlter) -
   **Getting Started on YouTube**
 
-- May 3 - [Greg Lim](https://twitter.com/greglim81) - **KDP Crash
+- May 3
+- [Greg Lim](https://twitter.com/greglim81)
+- **KDP Crash
   Course**
 
-- May 9 - [Sahil Lavingia](https://twitter.com/shl) - **State of the
+- May 9
+- [Sahil Lavingia](https://twitter.com/shl)
+- **State of the
   Creator Economy**
 
 ------------------------------------------------------------------------

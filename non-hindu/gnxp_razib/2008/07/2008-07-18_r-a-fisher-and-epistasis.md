@@ -11,7 +11,7 @@ R. A. Fisher and Epistasis
 
 David takes a slight detour in this [Sewall Wright](https://www.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q=sewall+wright+site%3Ahttp%3A%2F%2Fscienceblogs.com%2Fgnxp%2F&sa=Search), series, [R. A. Fisher and Epistasis](https://www.gnxp.com/blog/2008/07/r-fisher-and-epistasis_18.php):
 
-> My next note on Sewall Wright will cover the exciting subject of the > adaptive landscape. As every schoolboy knows, Wright considered > epistatic gene interactions very important in determining the ‘peaks’ > of the landscape. A sharp contrast is sometimes drawn between Wright > and R. A. Fisher in this respect….
+> My next note on Sewall Wright will cover the exciting subject of the > adaptive landscape. As every schoolboy knows, Wright considered epistatic gene interactions very important in determining the ‘peaks’ of the landscape. A sharp contrast is sometimes drawn between Wright and R. A. Fisher in this respect….
 
 This is a preamble to a *very long* and dense post. If it interests you in the subject, I’d also recommend [Epistasis and the Evolutionary Process](https://www.amazon.com/exec/obidos/ASIN/0195128060//geneexpressio-20). You might also check out this [older post of mine](https://www.gnxp.com/blog/2005/07/through-rugged-roads-of-gene-land.php) on evolutionary epistasis.  
 **Related:** Notes on Sewall Wright: Population Size, [Notes on Sewall Wright: the Measurement of Kinship](https://www.gnxp.com/blog/2008/04/notes-on-sewall-wright-measurement-of.php), [Notes on Sewall Wright: Path Analysis](https://www.gnxp.com/blog/2008/03/notes-on-sewall-wright-path-analysis.php), [On Reading Wright](https://www.gnxp.com/blog/2007/03/on-reading-wright.php) and Notes on Sewall Wright: Migration.
@@ -32,7 +32,7 @@ This is a preamble to a *very long* and dense post. If it interests you in the s
 
 My next note on Sewall Wright will cover the exciting subject of the adaptive landscape. As every schoolboy knows, Wright considered epistatic gene interactions very important in determining the ‘peaks’ of the landscape. A sharp contrast is sometimes drawn between Wright and R. A. Fisher in this respect. For example:
 
-> Fisher believed that the process of genetical evolution occurred > through selection that acts on the additive effects of genes in large > populations. Although Fisher formally considered gene interactions, he > was also dismissive of them, likening epistatic genetic variation to > nonheritable (i.e. nontransmissible) environmental variations of > phenotype. In contrast, Wright believed that nonadditive, or > epistatic, effects were of primary importance, particularly in > subdivided populations.  
+> Fisher believed that the process of genetical evolution occurred > through selection that acts on the additive effects of genes in large > populations. Although Fisher formally considered gene interactions, he > was also dismissive of them, likening epistatic genetic variation to > nonheritable (i.e. nontransmissible) environmental variations of phenotype. In contrast, Wright believed that nonadditive, or epistatic, effects were of primary importance, particularly in subdivided populations.  
 > – from the editors’ Preface to Epistasis and the Evolutionary Process
 
 What is said here about Wright seems broadly correct, but what is said about Fisher is seriously misleading. Before continuing with my notes on Wright, I will therefore try to clarify Fisher’s views on epistasis.\[Note: due to formatting problems, italics and other refinements may be omitted.\]

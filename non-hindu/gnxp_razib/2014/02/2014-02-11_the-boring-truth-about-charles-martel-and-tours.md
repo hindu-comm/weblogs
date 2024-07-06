@@ -15,7 +15,8 @@ Why does this matter after all these years? Because moderns take lessons from hi
 
 ### Related Posts:
 
-- [Open Thread - October 16th,
+- [Open Thread
+- October 16th,
   2010](https://www.gnxp.com/WordPress/2010/10/16/open-thread-october-16th-2010/) - [The golden age of blogging was
   better](https://www.gnxp.com/WordPress/2019/09/05/the-golden-age-of-blogging-was-better/) - [How much is "The Situation"
   worth?](https://www.gnxp.com/WordPress/2010/01/25/how-much-is-the-situation-worth/) - [Darwin

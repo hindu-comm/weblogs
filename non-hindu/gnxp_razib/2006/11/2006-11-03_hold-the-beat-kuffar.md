@@ -16,7 +16,8 @@ A: There are no hadiths which state the prophet’s opinion of white men rapping
 
 ### Related Posts:
 
-- [Alien rap](https://www.gnxp.com/WordPress/2006/11/02/alien-rap/) - [Islam is the only true religion, kuffar
+- [Alien rap](https://www.gnxp.com/WordPress/2006/11/02/alien-rap/)
+- [Islam is the only true religion, kuffar
   bitches!](https://www.gnxp.com/WordPress/2006/11/18/islam-is-the-only-true-religion-kuffar-bitches/) - [Kuffar vs Muslim
   rappers](https://www.gnxp.com/WordPress/2006/11/03/kuffar-vs-muslim-rappers/) - [Promiscuous
   Girl](https://www.gnxp.com/WordPress/2006/10/30/promiscuous-girl/) - [Post-Modernism and Stuff White People

@@ -55,13 +55,13 @@ THE NEO-INDIAN SCHOLAR considers himself so far above the learned of old India, 
 
 The discussion arose out of the following letter from the Secretary to the Government of Bombay, Education Department, to the Registrar of the University:
 
-> *I am directed to state that the conference of Orientalsits held at > Simla in July, 1911, there was a general consensus of opinion that it > was necessary while making provision for Oriental study and research > on modern critical lines, to maintain side by side with it the ancient > and indigenous systems of instruction, since the world of studentship > would suffer irreparable loss if the old type of pandit were to die > out, and that what was needed to promote this indigenous system was > encouragement rather than reform.* >
-> *With this object in view it has been suggested that a Sanskrit school > might be established at Poona for the training of pandits. The school > should be furnished with a good library to which the collection of > manuscripts at the Deccan College might be transferred. The student at > the proposed school would be partly pandits engaged in the acquisition > of Oriental learning on the traditional lines, and partly graduates > interested either in Oriental research or in extending their knowledge > of the more recondite branches of Oriental studies.* >
-> *The staff would consist partly of the repositories of the ancient > traditional learning and partly of modern Oriental scholars. Provision > would also be made for imparting an elementary knowledge of the > English language to the pandit students and or the German and French > languages, a knowledge of which is necessary for the study of modern > method of criticism.*
+> *I am directed to state that the conference of Orientalsits held at > Simla in July, 1911, there was a general consensus of opinion that it > was necessary while making provision for Oriental study and research > on modern critical lines, to maintain side by side with it the ancient > and indigenous systems of instruction, since the world of studentship would suffer irreparable loss if the old type of pandit were to die out, and that what was needed to promote this indigenous system was encouragement rather than reform.* >
+> *With this object in view it has been suggested that a Sanskrit school > might be established at Poona for the training of pandits. The school > should be furnished with a good library to which the collection of > manuscripts at the Deccan College might be transferred. The student at > the proposed school would be partly pandits engaged in the acquisition of Oriental learning on the traditional lines, and partly graduates interested either in Oriental research or in extending their knowledge of the more recondite branches of Oriental studies.* >
+> *The staff would consist partly of the repositories of the ancient > traditional learning and partly of modern Oriental scholars. Provision > would also be made for imparting an elementary knowledge of the English language to the pandit students and or the German and French languages, a knowledge of which is necessary for the study of modern method of criticism.*
 
 In connection with this letter, an elderly Fellow of the Bombay University, who is on the borderland between old and new Indian proposed:
 
-> *That Government be informed that the University is prepared to > establish a branch of Oriental studies with suitable titles of > distinction if arrangements are made for the teaching of this branch > of knowledge generally on the lines indicated in the Government > letter.*
+> *That Government be informed that the University is prepared to > establish a branch of Oriental studies with suitable titles of distinction if arrangements are made for the teaching of this branch of knowledge generally on the lines indicated in the Government letter.*
 
 This proposal met with a storm of opposition which was led by a prominent representative of New India. So far as I can gather, his reasons for opposing it are:
 
@@ -89,7 +89,7 @@ Physically, intellectually, and morally the average pandit does not compare unfa
 
 Lest I should be charged with bias in favour of the pandits, I shall cite the testimony of some Western scholars.
 
-> ''The Brahmans who compiled," says H. H. Wilson, "a code Hindu law, by > command of Warren Hastings preface their performance by affirming the > equal merit of every form of religious worship. Contrarities of > belief, and diversities of religion, they say, are in fact part of the > scheme of Providence; for as a painter gives beauty to a picture by a > variety of colours, or as a gardener embellishes his garden with > flowers of every hue, so God appointed to every tribe its own > religion."
+> ''The Brahmans who compiled," says H. H. Wilson, "a code Hindu law, by > command of Warren Hastings preface their performance by affirming the > equal merit of every form of religious worship. Contrarities of > belief, and diversities of religion, they say, are in fact part of the > scheme of Providence; for as a painter gives beauty to a picture by a variety of colours, or as a gardener embellishes his garden with flowers of every hue, so God appointed to every tribe its own religion."
 
 It would be difficult to find such catholicity and philosophic toleration even now in many parts of the civilized West.
 

@@ -11,11 +11,11 @@ The Russo-Iranian Eurasian axis
 
 From the [ever sage](http://www.matthewyglesias.com/archives/2006/11/axis_of_bad_pop/) Matt Yglesias:
 
-> Susan alerts me to this music video for “Vostochnaya Skazka” an > international super hit from Russian girl group Blestyashie in which > they collaborate with Iranian pop sensation Arash. The resulting song > is bad. Very bad. Troublingly bad. It’s especially disturbing that > Arash appears to live in Sweden, which has traditionally been the > Anglosphere’s main ally in the quest to make the world safe for > non-awful popular music. If they defect to the Eurasian Crap Pop Bloc, > all may be lost.
+> Susan alerts me to this music video for “Vostochnaya Skazka” an > international super hit from Russian girl group Blestyashie in which > they collaborate with Iranian pop sensation Arash. The resulting song > is bad. Very bad. Troublingly bad. It’s especially disturbing that > Arash appears to live in Sweden, which has traditionally been the Anglosphere’s main ally in the quest to make the world safe for non-awful popular music. If they defect to the Eurasian Crap Pop Bloc, all may be lost.
 
 Some of the [lyrics are funny](https://sueandnotu.blogspot.com/2006/11/terrible-music-fridays_03.html):
 
-> At one point in the lyrics, Arash says, says “Hey beautiful girl, I > really like you. I already have three wives but you can be the > fourth.” Then the girls are all, “Look dear, I already have 5 > husbands. I love them all, but if you want, you can be the sixth.”
+> At one point in the lyrics, Arash says, says “Hey beautiful girl, I really like you. I already have three wives but you can be the fourth.” Then the girls are all, “Look dear, I already have 5 husbands. I love them all, but if you want, you can be the sixth.”
 
 ### Related Posts:
 

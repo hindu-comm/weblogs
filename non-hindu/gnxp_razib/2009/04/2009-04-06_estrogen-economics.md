@@ -11,7 +11,7 @@ Estrogen & economics
 
 [A randomized trial of the effect of estrogen and testosterone on economic behavior](http://www.pnas.org/content/early/2009/04/03/0812757106.short?rss=1):
 
-> Existing correlative evidence suggests that sex hormones may affect > economic behavior such as risk taking and reciprocal fairness. To test > this hypothesis we conducted a double-blind randomized study. > Two-hundred healthy postmenopausal women aged 50â€“65 years were > randomly allocated to 4 weeks of treatment with estrogen, > testosterone, or placebo. At the end of the treatment period, the > subjects participated in a series of economic experiments that measure > altruism, reciprocal fairness, trust, trustworthiness, and risk > attitudes. **There was no significant effect of estrogen or > testosterone on any of the studied behaviors.**
+> Existing correlative evidence suggests that sex hormones may affect > economic behavior such as risk taking and reciprocal fairness. To test > this hypothesis we conducted a double-blind randomized study. > Two-hundred healthy postmenopausal women aged 50â€“65 years were > randomly allocated to 4 weeks of treatment with estrogen, > testosterone, or placebo. At the end of the treatment period, the > subjects participated in a series of economic experiments that measure altruism, reciprocal fairness, trust, trustworthiness, and risk attitudes. **There was no significant effect of estrogen or testosterone on any of the studied behaviors.**
 
 ### Related Posts:
 

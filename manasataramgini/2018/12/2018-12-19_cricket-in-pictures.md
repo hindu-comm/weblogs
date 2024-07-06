@@ -53,11 +53,18 @@ For this analysis we used a dataset of 301 batsmen who have scored over 2000 run
 There is not much clumping but a set of “greatest” batsmen can be simply separated by choosing those with a first axis value ![\\le -2.3](https://s0.wp.com/latex.php?latex=%5Cle+-2.3&bg=ffffff&fg=333333&s=0&c=20201002)
 (red dots in Figure 6). At the extreme end of this this axis lie
 Tendulkar, Bradman and Lara (circled in green in Figure 6), who have quite unequivocally be mentioned as being among the greatest players. In this set two players are clearly separated from the rest (circled in dark red in Figure 6): Sehwag and Vivian Richards. These are two great batsmen marked by the rapid scoring rates and were a delight for the spectator. The one other Indian player who was notable for his scoring rate when I was young was Kapil Dev, who lies to the right side (circled in blue). While possessing a notable strike rate, as we can see, he was far too inconsistent to make it anywhere close to the great batsmen region. Finally, we may list this set of “greatest” batsmen:  
-1. V Sehwag (INDIA); 2. IVA Richards (WI); 3. BC Lara (WI); 4. ML Hayden
+1. V Sehwag (INDIA);
+2. IVA Richards (WI);
+3. BC Lara (WI);
+4. ML Hayden
 (AUS); 5. GC Smith (SA); 6. RT Ponting (AUS); 7. DG Bradman (AUS); 8. MJ
 Clarke (AUS); 9. SPD Smith (AUS); 10. AB de Villiers (SA); 11. KC Sangakkara (SL); 12. SR Tendulkar (INDIA); 13. Inzamam-ul-Haq (PAK); 14. GS Sobers (WI); 15. Younis Khan (PAK); 16. GS Chappell (AUS); 17. DPMD Jayawardene (SL); 18. HM Amla (SA); 19. VVS Laxman (INDIA); 20. GA Gooch
 (ENG); 21. SR Waugh (AUS); 22. AN Cook (ENG); 23. Javed Miandad (PAK);
-24. JH Kallis (SA); 25. SM Gavaskar (INDIA); 26. S Chanderpaul (WI); 27. R Dravid (INDIA); 28. KF Barrington (ENG); 29. MA Taylor (AUS); 30. AR Border (AUS); 31. WR Hammond (ENG); 32. L Hutton (ENG)
+24. JH Kallis (SA); 25. SM Gavaskar (INDIA); 26. S Chanderpaul (WI); 27. R Dravid (INDIA); 28. KF Barrington (ENG);
+29. MA Taylor (AUS);
+30. AR Border (AUS);
+31. WR Hammond (ENG);
+32. L Hutton (ENG)
 
 ![Figure7_bestbmen_stats](https://manasataramgini.files.wordpress.com/2018/12/Figure7_bestbmen_stats.png?w=640)Figure 7
 

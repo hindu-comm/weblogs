@@ -14,14 +14,15 @@ A golden age of quantitative genomics here
 But the genesis of these methods goes back to the late 2000s, when some statistical geneticists began to synthesis the power of genomics with classical quantitative genetic frameworks and insights. Another paper which sums up this tradition is [Genetic variance estimation with imputed variants finds negligible missing heritability for human height and body mass index](http://www.ncbi.nlm.nih.gov/pubmed/26323059). That is, the authors have confirmed the classical heritability estimates for height, using inferences such as twin studies, with genomic methods. **Many geneticists operating just outside this field are totally unaware of the power, precision, and rapidity in advance of this set of techniques.** If so, I suggest you read [A Commentary on ‘Common SNPs Explain  
 a Large Proportion of the Heritability for Human Height’ by Yang et al. (2010)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.331&rep=rep1&type=pdf) (ungated). Here is the final paragraph:
 
-> Why have we encountered so much apparent misunderstanding of the > methods and results in the human  
-> genetics community? The core of our method is heavily steeped in the > tradition of prediction of random effects and the estimation of > variance due to random (latent) effects. While estimation and > partitioning of variance has a long history in human genetics, in > particular in twin research, the prediction of random effects is alien > to many human geneticists and, surprisingly, also to statisticians > (Robinson, 1991). **Another reason could be the simultaneous use of > population genetics and quantitative genetics concepts and theory in > our paper, since these are usually applied in different > applications,** e.g., gene mapping or estimation of heritability. All > concepts and methods that we used are extensively described in the > textbooks by Falconer and Mackay (1996; chapters 1, 3, 4, 7–10) and > Lynch and Walsh (1998; chapters 4, 7, 26, 27).
+> Why have we encountered so much apparent misunderstanding of the methods and results in the human  
+> genetics community? The core of our method is heavily steeped in the > tradition of prediction of random effects and the estimation of > variance due to random (latent) effects. While estimation and > partitioning of variance has a long history in human genetics, in > particular in twin research, the prediction of random effects is alien > to many human geneticists and, surprisingly, also to statisticians > (Robinson, 1991). **Another reason could be the simultaneous use of > population genetics and quantitative genetics concepts and theory in > our paper, since these are usually applied in different > applications,** e.g., gene mapping or estimation of heritability. All concepts and methods that we used are extensively described in the textbooks by Falconer and Mackay (1996; chapters 1, 3, 4, 7–10) and Lynch and Walsh (1998; chapters 4, 7, 26, 27).
 
 Please, if you read anything on this blog, [read this](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.331&rep=rep1&type=pdf).
 
 ### Related Posts:
 
-- [Complex traits & evolution - follow
+- [Complex traits & evolution
+- follow
   up](https://www.gnxp.com/WordPress/2008/12/18/complex-traits-evolution-follow-up/) - [Finding the missing
   heritability](https://www.gnxp.com/WordPress/2009/12/06/finding-the-missing-heritability/) - [Is the "missing heritability" right under
   our…](https://www.gnxp.com/WordPress/2010/06/21/is-the-missing-heritability-right-under-our-noses/) - [Eugenics, the 100 year

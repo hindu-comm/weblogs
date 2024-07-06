@@ -13,7 +13,7 @@ I think one often learns the most about a philosopher from those points where he
 
 The Visuddhimagga and the *Cloud* both describe, in Smart’s words, a “systematic effort to blot out sense perception, memories, and imaginings of the world of our sensory environment and of corresponding inner states.” Neither text’s author ever claims to have done this themselves, successfully or otherwise. Smart seems to assume that they did, and my essay makes a lot of that unjustified assumption. But I think I went too far when I said this:
 
-> Similarities in **actual** experience lead us to believe that perhaps > there is something perennial in human nature, or in the reality of the > universe, that is conducive to such an experience across cultural > boundaries. Similarities in textual prescription, if they do not > reflect actual experiences, are mere curiosities, of mostly > antiquarian interest.
+> Similarities in **actual** experience lead us to believe that perhaps > there is something perennial in human nature, or in the reality of the > universe, that is conducive to such an experience across cultural boundaries. Similarities in textual prescription, if they do not reflect actual experiences, are mere curiosities, of mostly antiquarian interest.
 
 That last line, I think, is wrong in a couple of ways. Similarities in prescription can easily be of more than antiquarian interest – prescription is what ethics is about, after all, and such similarities could provide common ground for ethical dialogue. But beyond that, I don’t think it’s true, or even *likely*, that similarities in textual prescription do *not* reflect actual experiences!
 
@@ -29,7 +29,7 @@ All that said, though, it’s not so hard to imagine Buddhaghosa encountering a 
 
 A comparative philosopher like myself strives to be more open to other traditions than would a stricter Buddhist like Buddhaghosa. So I as a Buddhist have even more reason to say something like that than Buddhaghosa would have: it is at least possible that the different experiences are illuminating a common reality. For that reason, I no longer think similarities between the Visuddhimagga and the *Cloud* are “mere curiosities, of mostly antiquarian interest.” My old essay closes as follows:
 
-> Smart has succeeded at the very modest task he set himself at the > beginning of his chapter: to establish “that there are > phenomenological similarities between the differing practices despite > the contrast in language and style between Buddhaghosa and the author > of the Cloud of Unknowing.” But we might well ask: who cares?
+> Smart has succeeded at the very modest task he set himself at the > beginning of his chapter: to establish “that there are phenomenological similarities between the differing practices despite the contrast in language and style between Buddhaghosa and the author of the Cloud of Unknowing.” But we might well ask: who cares?
 
 Who cares? Twenty years later, it turns out that I do.
 

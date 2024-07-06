@@ -340,4 +340,4 @@ Furthermore, The Gods Must Be Honoured.
 
 Part One can be found here:
 
-> [On Ritual Substitution And Traditional Offerings \[Part One: > Understandings > InEssence\]](https://aryaakasha.com/2023/09/23/on-ritual-substitution-and-traditional-offerings-part-one-understandings-in-essence/)
+> [On Ritual Substitution And Traditional Offerings \[Part One: Understandings InEssence\]](https://aryaakasha.com/2023/09/23/on-ritual-substitution-and-traditional-offerings-part-one-understandings-in-essence/)

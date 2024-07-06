@@ -11,7 +11,7 @@ New Article: “Pramāṇavāda and the Crisis of Skepticism in the Modern Publi
 
 Do the inhabitants of Vaikuṇṭha have desires (or only God’s ones)? Veṅkaṭanātha’s Nyāyasiddhāñjana 174–6 seems to suggest that they can will:
 
-> In the same way, Ananta and Garuḍa and the other (permanently > liberated souls) and the liberated souls assume this or that form > based on their will. >
+> In the same way, Ananta and Garuḍa and the other (permanently liberated souls) and the liberated souls assume this or that form based on their will. >
 > (tathā anantagaruḍādīnāṃ muktānāñ ca icchākṛtatattadrūpam).
 
 But their will, is it an individual will or the same will repeated for each of them? Possibly the latter. Let me explain by elaborating on a different topic, namely that of tedium in heaven.

@@ -13,7 +13,8 @@ Anil Dash has an essay up, [Google’s Microsoft Moment](http://dashes.com/anil/
 
 ### Related Posts:
 
-- [Bing](https://www.gnxp.com/WordPress/2009/06/01/bing/) - [Cheers for the coming
+- [Bing](https://www.gnxp.com/WordPress/2009/06/01/bing/)
+- [Cheers for the coming
   tech-war!](https://www.gnxp.com/WordPress/2009/12/29/cheers-for-the-coming-tech-war/) - [Got Microsoft
   stock?](https://www.gnxp.com/WordPress/2006/08/27/got-microsoft-stock/) - [Is Mozilla
   obsolete?](https://www.gnxp.com/WordPress/2009/07/26/is-mozilla-obsolete/) - [Bing vs.

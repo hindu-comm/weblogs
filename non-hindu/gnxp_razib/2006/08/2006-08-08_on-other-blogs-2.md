@@ -15,7 +15,8 @@ On non-GNXP related blogs, I point you to [Nature’s Numbers](https://naturesnu
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [A note on "Science
   Blogs"](https://www.gnxp.com/WordPress/2006/01/22/a-note-on-science-blogs/) - [Nation
   Building](https://www.gnxp.com/WordPress/2006/06/19/nation-building/) - [The evolution of

@@ -11,7 +11,7 @@ ASPM and flagella
 
 In the [profile of Bruce Lahn](https://www.gnxp.com/blog/2006/12/bruce-lahn-profile-in-science.php) in Science, the following quote, on the possibility that the selective pressure on ASPM could be due to sperm function, stood out to me:
 
-> But genome researcher Chris Ponting of the University of Oxford, U.K., > notes that microcephalin and ASPM are also expressed outside the > brain. In last May’s issue of Bioinformatics, he reported that part of > ASPM’s DNA sequence resembles that of genes involved in the function > of flagella, which propel sperm. Earlier work had shown that ASPM is > expressed during sperm production. **Ponting suggests that natural > selection might have acted on flagellar function rather than brain > growth**.
+> But genome researcher Chris Ponting of the University of Oxford, U.K., > notes that microcephalin and ASPM are also expressed outside the > brain. In last May’s issue of Bioinformatics, he reported that part of > ASPM’s DNA sequence resembles that of genes involved in the function > of flagella, which propel sperm. Earlier work had shown that ASPM is expressed during sperm production. **Ponting suggests that natural selection might have acted on flagellar function rather than brain growth**.
 
 This would be a striking result, if true. However, I’m skeptical (actually, I’ll put the punchline right here: the data provide little, if any, support for this). Let’s review:
 

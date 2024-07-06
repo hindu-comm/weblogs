@@ -11,14 +11,16 @@ Hawaii, going long on space tourism
 
 [Hawaii Looks to Space Tourism to Aid Recession Woes](http://blogs.wsj.com/economics/2009/07/15/hawaii-looks-to-space-tourism-to-aid-recession-woes/):
 
-> According to the Honolulu Advertiser, the state would start by > spending up to a million dollars developing a spaceport.  
-> But Hawaii isn’t alone: The state is already facing heady competition > from states including Florida, Okalahoma and New Mexico, all of which > are moving into the space tourism market.
+> According to the Honolulu Advertiser, the state would start by spending up to a million dollars developing a spaceport.  
+> But Hawaii isn’t alone: The state is already facing heady competition from states including Florida, Okalahoma and New Mexico, all of which are moving into the space tourism market.
 
 Hawaii has one comparative advantage: it’s further south. I recall that the increased velocity of the earth’s rotation the closer you get to the equator means that you get some energy for lift-off for free. This is why the French launch their rockets from French Guiana, and the Soviets had a facility in Kazakhstan.
 
 ### Related Posts:
 
-- [Open Thread - 03/08/2021 - Gene
+- [Open Thread
+- 03/08/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/03/08/open-thread-03-08-2021-gene-expression/) - [Latitudes and
   continents](https://www.gnxp.com/WordPress/2010/11/28/latitudes-and-continents/) - [Still not
   afraid...](https://www.gnxp.com/WordPress/2005/07/22/still-not-afraid/) - [Race mixing confuses the

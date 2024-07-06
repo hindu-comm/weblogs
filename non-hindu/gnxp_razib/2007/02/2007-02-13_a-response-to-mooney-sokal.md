@@ -11,7 +11,7 @@ A response to Mooney & Sokal
 
 My coblogger @ [GNXP](http://gnxp.com/) Ikwa has a [measured response](https://www.gnxp.com/blog/2007/02/mooney-sokal-op-ed.php) to Chris Mooney and Alan Soka’s [notable op-ed](http://www.latimes.com/news/opinion/la-op-mooney4feb04,0,7924177.story?coll=la-opinion-rightrail) about the conflict between the Right & science. Here’s the gist:
 
-> For example, I don’t think it’s obvious that fundamentalist Christian > fears that Darwinism will lead to the death of morality and the > collapse of civil society are less reasonable or strongly-believed > than the fear that the discovery of a genetic or biological > contribution to social inequalities will lead to death of empathy for > the disadvantaged and the collapse of all progressive values. > Parenthetically, I don’t think either inference is warranted as I > actually believe both antecedents to be true without finding myself > compelled to endorse either consequent.
+> For example, I don’t think it’s obvious that fundamentalist Christian > fears that Darwinism will lead to the death of morality and the > collapse of civil society are less reasonable or strongly-believed > than the fear that the discovery of a genetic or biological > contribution to social inequalities will lead to death of empathy for > the disadvantaged and the collapse of all progressive values. Parenthetically, I don’t think either inference is warranted as I actually believe both antecedents to be true without finding myself compelled to endorse either consequent.
 
 ### Related Posts:
 

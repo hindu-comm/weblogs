@@ -14,7 +14,8 @@ Regular readers know that I’m really into smokin’ hot sauces. I mean *real h
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Day 7 of hot sauce - Mad Dog's Revenge Habanero &
   Chile…](https://www.gnxp.com/WordPress/2007/04/03/day-7-of-hot-sauce-mad-dogs-revenge-habanero-chile-extract/) - [Medium rare steak flank with habanero
   paste](https://www.gnxp.com/WordPress/2007/04/08/medium-rare-steak-flank-with-habanero-paste/) - [Yellowbird hot sauce should engage in some truth

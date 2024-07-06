@@ -11,9 +11,9 @@ White people have more sex than black people
 
 [Aisha](http://eteraz.wordpress.com/2006/11/01/the-wide-world-of-copulation/) points me to this [new report](http://news.bbc.co.uk/2/hi/health/6101970.stm) about sexuality worldwide:
 
-> However, those reporting multiple partners were much higher in > developed countries – up to a third of under 25s in some areas – > whereas only a small percentage in Africa reported the same.  
+> However, those reporting multiple partners were much higher in developed countries – up to a third of under 25s in some areas – whereas only a small percentage in Africa reported the same.  
 > And among singletons, westerners were more sexually active as well.  
-> Two thirds of men and women without a partner in African countries > reported they had had sex recently, compared to three quarters of > those in developed countries.
+> Two thirds of men and women without a partner in African countries reported they had had sex recently, compared to three quarters of those in developed countries.
 
 Damn…paleface be hittin’ it.
 

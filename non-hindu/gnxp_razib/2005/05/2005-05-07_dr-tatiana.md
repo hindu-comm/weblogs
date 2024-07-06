@@ -19,7 +19,8 @@ Posted by David B at [05:07 AM](https://www.gnxp.com/MT2/archives/003961.html) [
 
 ### Related Posts:
 
-- [TV treats](https://www.gnxp.com/WordPress/2005/04/29/tv-treats/) - [Olivia Judson on
+- [TV treats](https://www.gnxp.com/WordPress/2005/04/29/tv-treats/)
+- [Olivia Judson on
   Creation](https://www.gnxp.com/WordPress/2009/09/10/olivia-judson-on-creation/) - [Anthropology on
   BBC4](https://www.gnxp.com/WordPress/2007/01/26/anthropology-on-bbc4/) - [Religion in
   Canada](https://www.gnxp.com/WordPress/2006/08/15/religion-in-canada/) - [Not the real

@@ -11,7 +11,7 @@ Induction, deduction and abduction….
 
 Evolgen [says](http://scienceblogs.com/evolgen/2006/04/what_i_think_you_should_know_1.php):
 
-> Let’s focus on two things: the hypothetical **deductive** method and > essential information that you must know to be able to read the > science section of a newspaper.
+> Let’s focus on two things: the hypothetical **deductive** method and essential information that you must know to be able to read the science section of a newspaper.
 
 Hm. Amen. Sort of. Scientists in many fields *needed* to be straight-jacketed into the “hypothetico-deductive” model for a reason. I remember a phylogeneticist telling a group of us why the hypothetico-deductive method was crucial in his own work, before his time taxonomists would get into arguments where they would justify their *opinion* about systematic relationships with an operational “Cuz I said so!” Testing hypotheses is essential for science. That being said, scientists do more than test truths derived from their models.
 

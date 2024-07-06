@@ -20,7 +20,8 @@ Sunday Stuff – October 23rd, 2011
 
 ### Related Posts:
 
-- [Sunday Stuff - September 25th,
+- [Sunday Stuff
+- September 25th,
   2011](https://www.gnxp.com/WordPress/2011/09/25/sunday-stuff-september-25th-2011/) - [Saturday Stuff - October 1st,
   2011](https://www.gnxp.com/WordPress/2011/10/01/saturday-stuff-october-1st-2011/) - [Sunday Stuff - October 16th,
   2011](https://www.gnxp.com/WordPress/2011/10/16/sunday-stuff-october-16th-2011/) - [Friday Fluff - October 29th,

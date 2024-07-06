@@ -17,7 +17,8 @@ Well, this is “Seven Days of Hot Sauce,” so I decided to put a drop of the s
 
 ### Related Posts:
 
-- [Day 1 of hot sauce - Dave's Insanity Hot
+- [Day 1 of hot sauce
+- Dave's Insanity Hot
   Sauce](https://www.gnxp.com/WordPress/2007/03/27/day-1-of-hot-sauce-daves-insanity-hot-sauce/) - [Day 3 of hot sauce - Hottest Fuckin'
   Sauce](https://www.gnxp.com/WordPress/2007/03/29/day-3-of-hot-sauce-hottest-fuckin-sauce/) - [Yellowbird hot sauce should engage in some truth
   in…](https://www.gnxp.com/WordPress/2016/07/31/yellowbird-hot-sauce-should-engage-in-some-truth-in-advertising/) - [7 days of hot

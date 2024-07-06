@@ -11,7 +11,7 @@ Smart people play nice
 
 That’s the result from [a new experimental study](http://ftp.iza.org/dp3609.pdf) of 1,000 people attending truck driving school. The authors tested all of them with [Raven’s Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices), a real IQ test. They then put pairs of them through a [prisoner’s dilemma](https://www.gnxp.com/blog/2006/01/cooperation-defection.php) game, and found:
 
-> \[M\]easures of cognitive skill \[CS\] predict social awareness and > choices in a sequential Prisoner’s Dilemma game. Subjects with higher > CS’s more accurately forecast others’ behavior….\[S\]ubjects with > higher CS’s also cooperate more as first movers.
+> \[M\]easures of cognitive skill \[CS\] predict social awareness and choices in a sequential Prisoner’s Dilemma game. Subjects with higher CS’s more accurately forecast others’ behavior….\[S\]ubjects with higher CS’s also cooperate more as first movers.
 
 This set of genuine experiments improves on [this older paper](http://mason.gmu.edu/%7Egjonesb/iqcoop1), which found that students at high-SAT schools cooperated more in prisoner’s dilemmas than students at low-SAT schools. Now we know it’s not just because posh, high-SAT schools facilitate a “culture of cooperation” or something like that. Smart individuals just figure it out on their own…..
 

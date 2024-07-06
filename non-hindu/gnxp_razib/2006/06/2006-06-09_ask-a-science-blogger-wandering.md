@@ -11,7 +11,7 @@ Ask a Science Blogger – wandering
 
 This week they ask:
 
-> Assuming that time and money were not obstacles, what area of > scientific research, outside of your own discipline, would you most > like to explore? Why?
+> Assuming that time and money were not obstacles, what area of scientific research, outside of your own discipline, would you most like to explore? Why?
 
 Cosmology. Transcendence.
 

@@ -11,7 +11,7 @@ Fact checking The New Yorker’s ass!
 
 In [High-wire Act](http://www.newyorker.com/arts/critics/musical/2007/07/30/070730crmu_music_frerejones?currentPage=2):
 
-> Before agreeing to work on the opera, Albarn and Hewlett made two > trips to China with Shi-Zheng. While visiting the city of Yinchuan, in > **Ni*nz*xia** Province, Albarn spent an afternoon lying on the floor > of his hotel room recording the sound of horns in the street.
+> Before agreeing to work on the opera, Albarn and Hewlett made two trips to China with Shi-Zheng. While visiting the city of Yinchuan, in **Ni*nz*xia** Province, Albarn spent an afternoon lying on the floor of his hotel room recording the sound of horns in the street.
 
 There is no “Ninzxia province.” Yinchuan is the capital of [Ningxia](https://en.wikipedia.org/wiki/Ningxia). Or Níngxià or Ning-hsia or Ningsia. Google turns out [5 results](https://www.google.com/search?q=ninzxia&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) for “Ninzxia,” one of which is the article in *The New Yorker* (the others look like purposeful hidden misspellings so that search engines will catch the sites).  
 Not a big deal, but if you are going to mock the errors of other publications you better be above reproach. And secondly, China is not some obscure country. It would be kind of embarrassing if a Chinese publiction misspelled North Dakota as “North Dakoto.” Of course, that publication wouldn’t be *The New Yorker*.  

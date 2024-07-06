@@ -15,9 +15,9 @@ Case \#1: To combat the rise of [car-jackings](http://news.bbc.co.uk/1/hi/world/
 
 Case \#2: To combat an epidemic of rape in South Africa [Sonette Ehlers](http://news.yahoo.com/s/nm/20050831/od_uk_nm/oukoe_uk_safrica_rape) invented the “rapex”, a device worn like a tampon.
 
-> The “rapex” hooks onto the rapist’s skin, allowing the victim time to > escape and helping to identify perpetrators. >
-> “He will obviously be too pre-occupied at this stage,” she told > reporters in Kleinmond, a small holiday village about 100km (60 miles) > east of Cape Town. “I promise you he is going to be too sore. He will > go straight to hospital.” >
-> The device, **made of latex and held firm by shafts of sharp barbs, > can only be removed from the man through surgery** which will alert > hospital staff, and ultimately, the police, she said.
+> The “rapex” hooks onto the rapist’s skin, allowing the victim time to escape and helping to identify perpetrators. >
+> “He will obviously be too pre-occupied at this stage,” she told reporters in Kleinmond, a small holiday village about 100km (60 miles) east of Cape Town. “I promise you he is going to be too sore. He will go straight to hospital.” >
+> The device, **made of latex and held firm by shafts of sharp barbs, can only be removed from the man through surgery** which will alert hospital staff, and ultimately, the police, she said.
 
 ### Related Posts:
 

@@ -11,14 +11,14 @@ Mutating question meme
 
 [Sheril](http://scienceblogs.com/intersection/) tagged me with a meme of the form:
 
-> There are a set of questions below that are all of the form, “The best > \[subgenre\] in \[genre\] is…”. Copy the questions, and before > answering them, you may modify them in a limited way, carrying out no > more than two of these operations:  
+> There are a set of questions below that are all of the form, “The best \[subgenre\] in \[genre\] is…”. Copy the questions, and before answering them, you may modify them in a limited way, carrying out no more than two of these operations:  
 > \* You can leave them exactly as is.  
 > \* You can delete any one question.  
-> \* You can mutate either the genre, medium, or subgenre of any one > question. For instance, you could change “The best time travel novel > in SF/Fantasy is…” to “The best time travel novel in Westerns is…”, or > “The best time travel movie in SF/Fantasy is…”, or “The best romance > novel in SF/Fantasy is…”.  
-> \* You can add a completely new question of your choice to the end of > the list, as long as it is still in the form “The best \[subgenre\] in > \[genre\] is…”.  
-> \* You must have at least one question in your set, or you’ve gone > extinct, and you must be able to answer it yourself, or you’re not > viable.  
-> Then answer your possibly mutant set of questions. Please do include a > link back to the blog you got them from, to simplify tracing the > ancestry, and include these instructions.  
-> Finally, pass it along to any number of your fellow bloggers. > Remember, though, your success as a Darwinian replicator is going to > be measured by the propagation of your variants, which is going to be > a function of both the interest your well-honed questions generate and > the number of successful attempts at reproducing them.
+> \* You can mutate either the genre, medium, or subgenre of any one > question. For instance, you could change “The best time travel novel in SF/Fantasy is…” to “The best time travel novel in Westerns is…”, or “The best time travel movie in SF/Fantasy is…”, or “The best romance novel in SF/Fantasy is…”.  
+> \* You can add a completely new question of your choice to the end of the list, as long as it is still in the form “The best \[subgenre\] in \[genre\] is…”.  
+> \* You must have at least one question in your set, or you’ve gone extinct, and you must be able to answer it yourself, or you’re not viable.  
+> Then answer your possibly mutant set of questions. Please do include a link back to the blog you got them from, to simplify tracing the ancestry, and include these instructions.  
+> Finally, pass it along to any number of your fellow bloggers. > Remember, though, your success as a Darwinian replicator is going to be measured by the propagation of your variants, which is going to be a function of both the interest your well-honed questions generate and the number of successful attempts at reproducing them.
 
   
 My great-great-great-grandparent is [Pharyngula](http://scienceblogs.com/pharyngula/2007/10/the_pharyngula_mutating_genre.php)  

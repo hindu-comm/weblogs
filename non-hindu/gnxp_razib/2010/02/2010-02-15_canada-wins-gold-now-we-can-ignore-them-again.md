@@ -11,8 +11,8 @@ Canada wins gold, now we can ignore them again
 
 ![Canada_iPod_Settlement.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Canada_iPod_Settlement.jpg?resize=245%2C179)![Canada_iPod_Settlement.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Canada_iPod_Settlement.jpg?resize=245%2C179)[Wait Ends as Canada Wins Gold at Home](http://www.nytimes.com/2010/02/15/sports/olympics/15moguls.html?hp=&pagewanted=print):
 
-> Three men stood in the sea of red at Cypress Mountain on Sunday, their > chests bare except for paint. Euphoria surrounded them, men and women, > young and old, who waved Canadian flags and clanged cowbells and > danced to the Black Eyed Peas.  
-> Minutes earlier, Canada had secured its first gold medal of these > Winter Olympics, a men’s moguls triumph from Alexandre Bilodeau in the > last event on the second day of competition. It was also the first > gold medal won by a Canadian in an Olympics in Canada.  
+> Three men stood in the sea of red at Cypress Mountain on Sunday, their chests bare except for paint. Euphoria surrounded them, men and women, young and old, who waved Canadian flags and clanged cowbells and danced to the Black Eyed Peas.  
+> Minutes earlier, Canada had secured its first gold medal of these Winter Olympics, a men’s moguls triumph from Alexandre Bilodeau in the last event on the second day of competition. It was also the first gold medal won by a Canadian in an Olympics in Canada.  
 > As Bilodeau raised his arms, his nation followed suit.  
 > “This is the best feeling ever,” he said.
 

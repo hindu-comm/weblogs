@@ -26,7 +26,8 @@ So in a span of two years we’ve gone from me pushing and compromising on a val
 
 More importantly, look at the dates of divergence of non-Africans (Sardinians here) from their closest African relatives.
 
-- 115,000 years before the present (Dinka-Sardinian) for G-PhoCS - 76,000 years before the present for their TT-method
+- 115,000 years before the present (Dinka-Sardinian) for G-PhoCS
+- 76,000 years before the present for their TT-method
 
 In light of the likelihood that the closest population to non-Africans may have been an East African population represented by Ethiopia Mota individual (along with modern Hadza), we can probably drop that estimate down a bit. But G-PhoCS in particular just gives too old an estimate. There are ways it makes sense (lots of old structure within Africa) of course. I’m just speaking in terms of possibilities.
 

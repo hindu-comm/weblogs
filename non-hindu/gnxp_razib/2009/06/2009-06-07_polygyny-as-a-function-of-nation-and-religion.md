@@ -11,7 +11,7 @@ Polygyny as a function of nation and religion
 
 [TGGP has a post up](http://entitledtoanopinion.wordpress.com/2009/06/04/muslim-attitudes-toward-polygyny-by-country/) where he looks at attitudes toward polygyny in predominantly Muslim nations. The question is:
 
-> To what extent do you agree or disagree with men having more than one > wife? Do you strongly agree, agree, disagree, or strongly disagree?
+> To what extent do you agree or disagree with men having more than one wife? Do you strongly agree, agree, disagree, or strongly disagree?
 
 I decided to break-down by religion in those nations which had a large non-Muslim population. Results below.
 

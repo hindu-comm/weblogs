@@ -33,7 +33,9 @@ There are 2,438 articles on bioRxiv when you look for [China, genetics, and geno
 
 ### Related Posts:
 
-- [Open Thread - 11/29/2021 - Gene
+- [Open Thread
+- 11/29/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/11/29/open-thread-11-29-2021-gene-expression/) - [Moving up the "technology"
   category](https://www.gnxp.com/WordPress/2021/01/02/moving-up-the-technology-category/) - [Virtuously
   irrational](https://www.gnxp.com/WordPress/2021/11/11/virtuously-irrational/) - [The Bourne

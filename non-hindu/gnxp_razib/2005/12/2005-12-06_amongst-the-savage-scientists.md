@@ -11,11 +11,11 @@ Amongst the savage scientists
 
 Sometimes when I’m bored I stumble over to the [The Valve](http://www.thevalve.org/go/valve/index/), where gnxp regular [John Emerson](http://idiocentrism.com/) also hangs out. Today I saw [this post](http://www.thevalve.org/go/valve/article/fullers_dover_testimony/) which addressed the testimony of a sociologist of science for the pro-Design side in the Dover case. Basically, the issue is that the sociologist in question isn’t a standard issue Post-Modernist, so what’s going on here? John lands a [good immediate punch](http://www.thevalve.org/go/valve/article/fullers_dover_testimony/#5737), and I should have let it rest. But I had to add something [myself](http://www.thevalve.org/go/valve/article/fullers_dover_testimony/#5763):
 
-> his [cv](http://www.warwick.ac.uk/%7Esysdt/cv.html#a:) doesn’t > indicate *any* natural science background. i think that someone who > wants to engage in meta-scientific chatter should at least have some > basis within science ahead of time so that one is familiar with the > culture. kuhn had a [background in > physics](https://en.wikipedia.org/wiki/Thomas_Samuel_Kuhn).
+> his [cv](http://www.warwick.ac.uk/%7Esysdt/cv.html#a:) doesn’t > indicate *any* natural science background. i think that someone who > wants to engage in meta-scientific chatter should at least have some basis within science ahead of time so that one is familiar with the culture. kuhn had a [background in physics](https://en.wikipedia.org/wiki/Thomas_Samuel_Kuhn).
 
 The author of the post, Jon Goodwin, [responded](http://www.thevalve.org/go/valve/article/fullers_dover_testimony/#5765), and I then [went at it again](http://www.thevalve.org/go/valve/article/fullers_dover_testimony/#5766). But the denouement was this comment from Jon:
 
-> Razib, I disagree very strongly with Fuller’s position about this–to > the point of mystification–but it’s parochial to suggest that more > time **taking multiple-choice tests and dissecting things** would have > affected his later thinking. It’s just completely irrelevant to the > argument he’s making. \[my emphasis -Razib\]
+> Razib, I disagree very strongly with Fuller’s position about this–to > the point of mystification–but it’s parochial to suggest that more time **taking multiple-choice tests and dissecting things** would have affected his later thinking. It’s just completely irrelevant to the argument he’s making. \[my emphasis -Razib\]
 
 On the part I emphasized. I suggested in the comments that it is important for a philosopher or sociologist of science to have some familiarity with science or the scientific method. And, just as patent attorneys often have undergraduate or graduate level training in a science (though this isn’t a hard and fast rule), so it would benefit intellectuals whose terrain is science to have some up close and personal contact. Now, first off, for a bachelors, I am skeptical that the expectation is that one could complete coursework with a predominance of multiple-choice tests. This certainly isn’t so in physics and chemistry, where problem solving is priority, and not even in much of biology. Second off, the dirty details of dissection, or prepping experiments, etc. are I think essential dimensions of the scientific experience. If you are a sociologist of science, that is part of experience of that society.
 
@@ -34,7 +34,7 @@ Update II: I’ve been busy today, but it has come to my attention that somethin
 [Science vs. scientism](http://corner.nationalreview.com/05_12_04_corner-archive.asp#083863) – John J. Miller  
 [Science vs. scientism](http://corner.nationalreview.com/05_12_04_corner-archive.asp#083871) – Jonah, quoting a reader:
 
-> It is therefore not the task of science to recognize and define the > boundaries of science. This is a job for metaphysics (the study of > non-physical realities) and epistemology (the study of how we know > what we know). Both of these are elements in the philosophy of > science.
+> It is therefore not the task of science to recognize and define the > boundaries of science. This is a job for metaphysics (the study of non-physical realities) and epistemology (the study of how we know what we know). Both of these are elements in the philosophy of science.
 
 [More from Jonah](http://corner.nationalreview.com/05_12_04_corner-archive.asp#083872) (Jonah has some good common sense in this comment, in my opinion).  
 [On science vs. scientism](http://corner.nationalreview.com/05_12_04_corner-archive.asp#083874) – Derb  

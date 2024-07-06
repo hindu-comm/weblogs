@@ -11,8 +11,8 @@ We are Nature
 
 There’s an interesting piece in *Slate*, [The Great Schism in the Environmental Movement](http://www.slate.com/articles/health_and_science/science/2012/12/modern_green_movement_eco_pragmatists_are_challenging_traditional_environmentalists.html), which seems to be a distillation of trends which have been bubbling within the modern environmentalist movement for a generation now (I’ve read earlier manifestos in a similar vein). I can’t assess the magnitude of the shift, but here’s the top-line:
 
-> But that is a false construct that scientists and scholars have been > demolishing the past few decades. Besides, there’s a growing > scientific consensus that the contemporary human footprint—our cities, > suburban sprawl, dams, agriculture, greenhouse gases, etc.—**has so > massively transformed the planet as to usher in a new geological > epoch.** It’s called the Anthropocene. >
-> Modernist greens don’t dispute the ecological tumult associated with > the Anthropocene. But this is the world as it is, they say, so we > might as well reconcile the needs of people with the needs of nature. > To this end, Kareiva advises conservationists to craft “a new vision > of a planet in which nature—forests, wetlands, diverse species, and > other ancient ecosystems—exists amid a wide variety of modern, human > landscapes.”
+> But that is a false construct that scientists and scholars have been > demolishing the past few decades. Besides, there’s a growing > scientific consensus that the contemporary human footprint—our cities, suburban sprawl, dams, agriculture, greenhouse gases, etc.—**has so massively transformed the planet as to usher in a new geological epoch.** It’s called the Anthropocene. >
+> Modernist greens don’t dispute the ecological tumult associated with > the Anthropocene. But this is the world as it is, they say, so we > might as well reconcile the needs of people with the needs of nature. > To this end, Kareiva advises conservationists to craft “a new vision of a planet in which nature—forests, wetlands, diverse species, and other ancient ecosystems—exists amid a wide variety of modern, human landscapes.”
 
   
 Let’s take this debate as a given. It is fundamentally **normative.** That is, it is about values. We we need to tread carefully before projecting values across disputants. Far too often in this domain people seem to presume normative alignments, and therefore confuse ideological disagreement for rejection of factual truths. But, one thing to consider is that it is probable that **human beings have already radically reshaped the ecological character of the world over the past 100,000 years.** The implicit model that many older environmental activists seem to present is a framework pitting man & the machine vs. nature (the Shire vs. Mordor). But it is just not a useful dichotomy for many.
@@ -23,7 +23,8 @@ All of this is fundamentally complicated. Instead of a decision tree with two op
 
 ### Related Posts:
 
-- [HIV & cities](https://www.gnxp.com/WordPress/2008/10/03/hiv-cities/) - [The urban vs. rural baby
+- [HIV & cities](https://www.gnxp.com/WordPress/2008/10/03/hiv-cities/)
+- [The urban vs. rural baby
   gap](https://www.gnxp.com/WordPress/2009/10/08/the-urban-vs-rural-baby-gap/) - [The rewilding of the
   Northeast](https://www.gnxp.com/WordPress/2012/11/04/the-rewilding-of-the-northeast/) - [Equilibration of attitudes toward
   divorce](https://www.gnxp.com/WordPress/2012/07/31/equilibration-of-attitudes-toward-divorce/) - [Agriculture & health in the pre-Columbian

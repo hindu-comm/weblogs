@@ -19,7 +19,7 @@ But in places like Palo Alto they are now for two types of people: long-term res
 
 From an [article published last year](https://sf.curbed.com/2016/3/23/11294136/palo-alto-250k-subsidies):
 
-> The average price of the Palo Alto homes that went on the market today > is just over \$3 million. With a 20 percent down payment and the > state’s average 30-year fixed mortgage rate of 3.77 percent, **the > average monthly payment on those homes would be a little over > \$14,000, two-thirds of the monthly income for a quarter-million > dollar household**.
+> The average price of the Palo Alto homes that went on the market today > is just over \$3 million. With a 20 percent down payment and the > state’s average 30-year fixed mortgage rate of 3.77 percent, **the average monthly payment on those homes would be a little over \$14,000, two-thirds of the monthly income for a quarter-million dollar household**.
 
 It’s hard to imagine that two married Google engineers in their twenties could afford a house in Palo Alto. It’s beyond their means. But these homes are not luxurious in and of themselves. They’re all that the upper upper middle class have access to nearby.
 

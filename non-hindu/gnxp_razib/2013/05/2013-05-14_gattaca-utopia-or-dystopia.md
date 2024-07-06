@@ -26,7 +26,7 @@ The biggest issue I have with Kevin’s post is that it’s general and over-bro
 
 \* Someone attempted to post the following comment:
 
-> “I don’t have a great deal of time to engage Kevin right now.” is not > the best way to begin an article in which you proceed to do exactly > that. It’s disrespectful to both your readers and Kevin: either engage > properly or not at all.
+> “I don’t have a great deal of time to engage Kevin right now.” is not the best way to begin an article in which you proceed to do exactly that. It’s disrespectful to both your readers and Kevin: either engage properly or not at all.
 
 1\) If you attempt to be my editor I’m going to ban you without warning. Readers don’t make **demands** of me. If you do so, I’ll ban you.
 

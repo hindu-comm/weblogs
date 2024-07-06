@@ -11,9 +11,9 @@ Sarah Palin resigning, the Obama effect?
 
 [Palin announces resignation](http://www.politico.com/news/stories/0709/24497.html):
 
-> Alaska Gov. Sarah Palin announced Friday that she was resigning her > office later this month, a stunning decision that could free her to > run for president more easily but also raises questions about her > political standing at home.  
-> Palin disclosed the surprise news Friday afternoon from her home in > Wasilla with her husband, Todd, and Lt. Governor Sean Parnell, who the > governor said would take over the state on Saturday, July 25th.  
-> By not running for re-election, Palin liberates herself from the > political constraints that come with running for president while still > in elected office.
+> Alaska Gov. Sarah Palin announced Friday that she was resigning her office later this month, a stunning decision that could free her to run for president more easily but also raises questions about her political standing at home.  
+> Palin disclosed the surprise news Friday afternoon from her home in Wasilla with her husband, Todd, and Lt. Governor Sean Parnell, who the governor said would take over the state on Saturday, July 25th.  
+> By not running for re-election, Palin liberates herself from the political constraints that come with running for president while still in elected office.
 
 It seems like a joke that someone who was governor of Alaska for such a short time could conceive of a presidential run, but Barack Obama didn’t even complete his term as senator, so the bar has been reset when it comes to political experience.  
 **Update:** Since I posted this the whole announcement has gotten a lot weirder and murkier, so I don’t know what’s going on. Let’s hope she doesn’t decide to go hiking with Todd on the Appalachian Trail.  

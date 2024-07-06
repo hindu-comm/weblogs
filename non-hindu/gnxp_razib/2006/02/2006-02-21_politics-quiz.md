@@ -15,7 +15,8 @@ Below the fold are the results from a politics quiz I took. Nothing surprising, 
 
 ### Related Posts:
 
-- [Pol poll](https://www.gnxp.com/WordPress/2005/10/05/pol-poll/) - [My politics,
+- [Pol poll](https://www.gnxp.com/WordPress/2005/10/05/pol-poll/)
+- [My politics,
   again](https://www.gnxp.com/WordPress/2006/11/03/my-politics-again/) - [My political
   orientation](https://www.gnxp.com/WordPress/2007/10/18/my-political-orientation/) - [Wikipedia goes
   political](https://www.gnxp.com/WordPress/2006/07/06/wikipedia-goes-political/) - [Political views @

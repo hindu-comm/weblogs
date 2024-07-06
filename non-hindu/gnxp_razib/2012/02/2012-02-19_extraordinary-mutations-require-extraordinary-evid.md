@@ -18,7 +18,8 @@ Second, the results themselves suggest that **the *average* human has \~100 loss
 
 ### Related Posts:
 
-- [Genomes Unzipped - the naked
+- [Genomes Unzipped
+- the naked
   sequence](https://www.gnxp.com/WordPress/2010/10/11/genomes-unzipped-the-naked-sequence/) - [\$48,000 genome now, what in 6
   years?](https://www.gnxp.com/WordPress/2009/06/12/48000-genome-now-what-in-6-years/) - [No comments please, we've made it through peer
   review…](https://www.gnxp.com/WordPress/2012/03/25/no-comments-please-weve-made-it-through-peer-review/) - [Loss-of-function & variation in

@@ -13,7 +13,7 @@ One of the more … frequently referred to articles we’ve got up upon the site
 
 You can take a read of that here:
 
-> [Dyaus; Deva, Deus, Tyr: Many Gods, One > SkyFather](https://aryaakasha.com/2020/07/22/dyaus-deva-deus-tyr-many-gods-one-sky-father/)
+> [Dyaus; Deva, Deus, Tyr: Many Gods, One SkyFather](https://aryaakasha.com/2020/07/22/dyaus-deva-deus-tyr-many-gods-one-sky-father/)
 
 Now, a few days ago we had a comment on that article, which I shall reproduce below in full; from a ‘ByronTheFyrnsidere’:
 
@@ -37,11 +37,11 @@ By which I mean, if a deific turns up that bears various key hallmarks of being 
 
 In the Vedic sphere .. it’s *there* , but really quite rare … and we more frequently encounter ‘Rudra’ – and various Roudran theonymics instead. See my recent works here –
 
-> [In Search Of Shiva As Dyaus In > SubsequentScripture](https://aryaakasha.com/2022/08/17/in-search-of-shiva-as-dyaus-in-subsequent-scripture/)
+> [In Search Of Shiva As Dyaus In SubsequentScripture](https://aryaakasha.com/2022/08/17/in-search-of-shiva-as-dyaus-in-subsequent-scripture/)
 
 and here –
 
-> [Dyaus Inter Alia – On The Sky Father’s Major Theonym And The Relative > (In-)Frequency Of Its Occurrence Across Various > Indo-EuropeanSpheres](https://aryaakasha.com/2022/08/17/dyaus-inter-alia-on-the-sky-fathers-major-theonym-and-the-relative-in-frequency-of-its-occurrence-across-various-indo-european-spheres/)
+> [Dyaus Inter Alia – On The Sky Father’s Major Theonym And The Relative (In-)Frequency Of Its Occurrence Across Various Indo-EuropeanSpheres](https://aryaakasha.com/2022/08/17/dyaus-inter-alia-on-the-sky-fathers-major-theonym-and-the-relative-in-frequency-of-its-occurrence-across-various-indo-european-spheres/)
 
 for interest.
 

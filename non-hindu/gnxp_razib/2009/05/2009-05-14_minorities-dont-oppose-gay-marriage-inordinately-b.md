@@ -11,7 +11,7 @@ Minorities don't oppose gay marriage inordinately, blacks do
 
 I heard on the radio several times in the past few weeks commentators refer to minority opposition to gay marriage, specifically the fact that New York and California have large numbers of blacks and Latinos who are voters. I was curious if Latinos really are notably more opposed to gay marriage than non-Hispanic whites. So I looked in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08). I limited the data to the years 2006 and 2008 for the variable MARHOMO, which asks:
 
-> Do you agree or disagree? j. Homosexual couples should have the right > to marry one another.
+> Do you agree or disagree? j. Homosexual couples should have the right to marry one another.
 
 The sample sizes for the groups are as follows:  
 Non-Hispanic whites = 2,292  

@@ -15,8 +15,8 @@ Silicon Valley has an Asian-people problem
 
 So how to make sense of these sorts of articles: [ Twitter’s White-People Problem](http://www.thenation.com/article/twitters-white-people-problem/)? And what about passages such as this which seem to totally defy statistical/demographic reality:
 
->  But while Twitter the platform is bustling with all types of racial > diversity, Twitter the company is alarmingly white. >
-> Twitter isn’t alone. **Most of the biggest tech companies in Silicon > Valley are overwhelmingly white** and male. While blacks and Latinos > comprise 28 percent of the US workforce, they make up just 6 percent > of Twitter’s total US workforce and six percent of Facebook employees.
+>  But while Twitter the platform is bustling with all types of racial diversity, Twitter the company is alarmingly white. >
+> Twitter isn’t alone. **Most of the biggest tech companies in Silicon Valley are overwhelmingly white** and male. While blacks and Latinos comprise 28 percent of the US workforce, they make up just 6 percent of Twitter’s total US workforce and six percent of Facebook employees.
 
 Of course this is just a lie. Very few people would say a workforce that is 50 to 60 percent white, true of both Google and Microsoft, is “overwhelmingly white.” In fact, it’s less non-Hispanic white than the US labor force as a whole. I’ve linked to statistics in this very piece. They take about 10 seconds of browsing search queries to understand this.
 

@@ -42,7 +42,8 @@ Posted by razib at [02:09 AM](https://www.gnxp.com/MT2/archives/003517.html) [](
 
 ### Related Posts:
 
-- [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/) - [Linguistic
+- [Sidr update](https://www.gnxp.com/WordPress/2007/11/18/sidr-update/)
+- [Linguistic
   biases](https://www.gnxp.com/WordPress/2006/05/05/linguistic-biases/) - [Rushdie on a
   "Reformation"](https://www.gnxp.com/WordPress/2005/08/07/rushdie-on-a-reformation/) - [Green
   Bengal](https://www.gnxp.com/WordPress/2005/01/22/green-bengal/) - [I am a Bangladeshi

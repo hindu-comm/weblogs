@@ -21,7 +21,8 @@ Addendum: Of course, remember that there is a difference between what people bel
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [The boring truth about Charles Martel and
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [The boring truth about Charles Martel and
   Tours](https://www.gnxp.com/WordPress/2014/02/11/the-boring-truth-about-charles-martel-and-tours/) - [Inside the Dar
   al-Islam](https://www.gnxp.com/WordPress/2014/08/08/inside-the-dar-al-islam/) - [Emerging Danish
   dynamics](https://www.gnxp.com/WordPress/2006/03/08/emerging-danish-dynamics/) - [Talk Islam](https://www.gnxp.com/WordPress/2008/04/26/talk-islam/) - [European Muslims, a problem that won't go

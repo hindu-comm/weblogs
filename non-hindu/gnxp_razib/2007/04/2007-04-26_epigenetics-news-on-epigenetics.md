@@ -11,7 +11,7 @@ Epigenetics News on 'epigenetics'
 
 Trevor at [Epigenetics News](http://www.epigeneticsnews.com/) [follows up](http://www.epigeneticsnews.com/2007/04/26/how-often-is-the-word-epigenetics-used-more-than-ever/) on our [recent](www.gnxp.com/blog/2007/04/on-use-of-word-epigenetic.php%20) [discussions](https://www.gnxp.com/blog/2007/04/epigenetics-in-memory-ii.php) about the term’s increasing popularity. He’s cites several good reasons why we might expect to see the term more often, and one reason that may not be all that good:
 
-> With all of these high profile and highly funded areas becoming > closely associated with epigenetics, is it any surprise that more > researchers are finding ways to include their focus as part of > “epigenetics”?
+> With all of these high profile and highly funded areas becoming closely associated with epigenetics, is it any surprise that more researchers are finding ways to include their focus as part of “epigenetics”?
 
 If a large enough portion of researchers stretch the word to apply to their topic of interest eventually ‘epigenetics’ will just mean ‘biology’.
 

@@ -17,11 +17,11 @@ One of the things I’ve been busy with is getting my [Substack up](https://razi
 
 Where are we in 2020? *The New York Times* (to which I still subscribe, but barely now), put up a profile of a new Senator from Wyoming, [Cynthia Lummis, a Bull-Coaxing Conservative, Heads to the Senate](https://www.nytimes.com/2020/12/05/us/politics/cynthia-lummis-senate-wyoming.html?action=click&module=Top%20Stories&pgtype=Homepage). Because *The New York Times* is now so brazenly ideological even in its reporting I’ve started to try and anticipate talking points when I read something about politics (I mostly stick to world news and science now, though even there the little Maoists in charge seem to be interjecting ideological comments!). For example:
 
-> Despite her libertarian streak, Ms. Lummis holds some **starkly > right-wing views.**
+> Despite her libertarian streak, Ms. Lummis holds some **starkly right-wing views.**
 
 When I saw “starkly right-wing” I immediately guessed they’d jump to something related to race because no one at *The New York Times* but Liz Bruenig cares about economic libertarianism except in nominal terms. And here you go:
 
-> In a debate during her campaign, Ms. Lummis said she did not believe > “racism is actually systemic” in America, saying instead that “pockets > of racism” existed.
+> In a debate during her campaign, Ms. Lummis said she did not believe “racism is actually systemic” in America, saying instead that “pockets of racism” existed.
 
 You can wonder about what the implications of the phrases are, but many of us Americans actually hold “starkly right-wing views” on these race issues. Including many people who are “communities of color.” Basically, the only group which doesn’t hold “starkly right-wing views” on these sorts of issues are [white liberals](https://www.manhattan-institute.org/the-great-awokening), the core subscriber base of *The New York Times*.
 

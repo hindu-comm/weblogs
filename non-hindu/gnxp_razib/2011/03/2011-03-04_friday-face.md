@@ -11,8 +11,8 @@ Friday Face
 
 Since I posted about [facial composites last week](http://blogs.discovermagazine.com/gnxp/2011/02/the-changing-face-of-fame/), I need to mention this, [The most typical face on the planet](http://news.yahoo.com/s/yblog_thelookout/20110303/us_yblog_thelookout/the-most-typical-face-on-the-planet):
 
-> The researchers conclude that a male, 28-year-old Han Chinese man is > the most typical person on the planet. There are 9 million of them. >
-> The image above is a composite of nearly 200,000 photos of men who fit > that description.
+> The researchers conclude that a male, 28-year-old Han Chinese man is the most typical person on the planet. There are 9 million of them. >
+> The image above is a composite of nearly 200,000 photos of men who fit that description.
 
 Click through to see what the face looks like.
 

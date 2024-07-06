@@ -29,7 +29,9 @@ Paul Ehrlich himself seems to employ the classic dodge that his predictions will
 
 ### Related Posts:
 
-- [Overpopulation](https://www.gnxp.com/WordPress/2008/12/21/overpopulation/) - [Boredom](https://www.gnxp.com/WordPress/2009/09/27/boredom/) - [Open Thread,
+- [Overpopulation](https://www.gnxp.com/WordPress/2008/12/21/overpopulation/)
+- [Boredom](https://www.gnxp.com/WordPress/2009/09/27/boredom/)
+- [Open Thread,
   12/14/2014](https://www.gnxp.com/WordPress/2014/12/14/open-thread-12142014/) - [Who cares about overpopulation? Smart people and
   atheists](https://www.gnxp.com/WordPress/2012/10/02/who-care-about-overpopulation/) - [Google books is
   great!](https://www.gnxp.com/WordPress/2009/06/25/google-books-is-great/) - [New Hampshire percentage

@@ -15,7 +15,8 @@ Some of you may have noticed that I’ve been tweaking with the template a bit. 
 
 ### Related Posts:
 
-- [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/) - [Test of new
+- [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/)
+- [Test of new
   features](https://www.gnxp.com/WordPress/2006/07/24/test-of-new-features/) - [The new
   Technorati](https://www.gnxp.com/WordPress/2009/10/22/the-new-technorati/) - [Notes on the
   future](https://www.gnxp.com/WordPress/2011/01/27/notes-on-the-future/) - [Razib on

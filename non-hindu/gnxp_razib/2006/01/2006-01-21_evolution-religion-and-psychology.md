@@ -11,7 +11,7 @@ Evolution, religion and psychology
 
 As some of you might know, [Intelligent Design and evolution](http://www2.tooeletranscript.com/index.php?option=content&task=view&amp;amp;amp;amp;amp;amp;amp;id=10065&Itemid=54) are becoming issues in Utah. Before we move on, this from Ron Numbers [The Creationists](https://www.amazon.com/exec/obidos/ASIN/0520083938/geneexpressio-20) might be instructive:
 
-> …in 1935 only 36 percent of the students at the Mormons’ Brigham Young > University denied that human beings have been “created in a process of > evolution from lower life forms.” By 1973 the figure had risen sharply > to 81 percent….
+> …in 1935 only 36 percent of the students at the Mormons’ Brigham Young University denied that human beings have been “created in a process of evolution from lower life forms.” By 1973 the figure had risen sharply to 81 percent….
 
 What’s going on here? First, you have to know that the Mormon Church has taken different views in regards to evolution and there isn’t a strict stance on the issue. This [article](http://deseretnews.com/dn/view/0,1249,635177399,00.html) in *Deseret News* makes the diversity clear. For one prominent Mormon perspective, see Orscon Scott Card’s [recent essay](http://www.ornery.org/essays/warwatch/2006-01-08-1.html) (I won’t try to rebut and respond to his meanderings). But in light of the recent Vactican restatement [supporting](http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20060120/WORLDREPORT20-1/TPScience/)1 evolutionary theory what’s going on in regards in this tango between Darwin and God?
 

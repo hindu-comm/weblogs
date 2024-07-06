@@ -11,7 +11,7 @@ W.D. Hamilton & group selection & ideology
 
 My post below, Group selection & the naturalistic fallacy, elicited [some](https://print.google.com/) interesting comments. First, I mentinoed W.D. Hamilton’s allusion to a relationship between fascism & group selection. Here is what he said:
 
-> ‘Liberal’ thinkers should realize from the outset that fervent > ‘belief’ in evolution at the group level, and especially any idea that > group selection obviates supposedly unnecesssary or non-existent harsh > aspects of natural selection, **actually starts them at once on a > course that heads straight towards Fascist ideology**….
+> ‘Liberal’ thinkers should realize from the outset that fervent > ‘belief’ in evolution at the group level, and especially any idea that group selection obviates supposedly unnecesssary or non-existent harsh aspects of natural selection, **actually starts them at once on a course that heads straight towards Fascist ideology**….
 
 (page 385, [Defenders of the Truth](https://www.amazon.com/exec/obidos/ASIN/0192862154/geneexpressio-20/002-3028708-1488020))
 

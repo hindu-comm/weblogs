@@ -11,8 +11,8 @@ Women as the drivers of between cultural distance?
 
 ![OKCupid results](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/02/scores2009.png?resize=495%2C391)
 
-> *And Sarah saw the son of Hagar the Egyptian, which she had born unto > Abraham, mocking.* >
-> *Wherefore she said unto Abraham, Cast out this bondwoman and her son: > for the son of this bondwoman shall not be heir with my son, even with > Isaac.*
+> *And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.* >
+> *Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac.*
 
 – Genesis
 
@@ -22,8 +22,8 @@ Unsurprisingly much of the male bias in race when it comes to dating comes down 
 
 I thought of this when reading this piece in *The Washington Post*, [Punjabi Sikh-Mexican American community fading into history](http://www.washingtonpost.com/national/on-faith/punjabi-sikh-mexican-american-community-fading-into-history/2012/08/13/cc6b7b98-e26b-11e1-98e7-89d659f9c106_story.html). What happened is that because of anti-miscegenation laws and bans on the arrival of Indian women Punjabi farmers in the Central Valley of California married Mexican American women. The children had something of a hybrid identity, but are slowly being absorbed into the Mexican American and Punjabi Sikh communities. But this section jumped out at me because it seems an instance of a general pattern:
 
-> And when Punjabi women began coming to the United States, the > Punjabi-Mexican community confounded them, Leonard said. >
-> “They even kicked out the Mexican women from the gurdwara, even though > those Mexican women helped fund it,” Leonard said.
+> And when Punjabi women began coming to the United States, the Punjabi-Mexican community confounded them, Leonard said. >
+> “They even kicked out the Mexican women from the gurdwara, even though those Mexican women helped fund it,” Leonard said.
 
 This reminds me of what occurred at Fort Astoria, as the white women arrived the native women and their mixed-race offspring were quickly marginalized. In South Asia the same occurred with the ancestors of the Anglo-Indian community. For reasons of caste and religion they were excluded from assimilating into the native population (pairings between elite individuals, as depicted in [White Mughals](https://www.amazon.com/exec/obidos/ASIN/B00HF77EPK/geneexpressio-20), differed from the majority of instances where common soldiers and lower caste women made arrangements which resulted in some censure from their respective communities), while the arrival of white women meant that the British men serving in India now had their preferred mating partners, and recreated England overseas in insular enclaves.
 

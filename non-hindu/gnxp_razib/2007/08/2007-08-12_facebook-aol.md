@@ -11,7 +11,7 @@ Facebook ~ AOL?
 
 [Facebook Grows Up](https://www.msnbc.msn.com/id/20227872/site/newsweek/page/0/):
 
-> What does Facebook get from this? If all goes well, much of what > people do on the Internet will be accomplished within Facebook. > Instead of eBay, you can buy in Facebook’s marketplace. Instead of > iTunes, there’s iLike. **In other words, Zuckerberg wants to keep > you-student, graduate or graybeard-logged on to Facebook**, organizing > virtually everything you do via the social graph.
+> What does Facebook get from this? If all goes well, much of what > people do on the Internet will be accomplished within Facebook. > Instead of eBay, you can buy in Facebook’s marketplace. Instead of iTunes, there’s iLike. **In other words, Zuckerberg wants to keep you-student, graduate or graybeard-logged on to Facebook**, organizing virtually everything you do via the social graph.
 
 AOL, [PointCast](https://en.wikipedia.org/wiki/PointCast_%28dotcom%29), the portal sites. I think the past 10 years has shown that you better focus on what you can do well before doing everything.
 

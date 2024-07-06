@@ -17,7 +17,8 @@ My point with these anecdotes is to highlight the fundamental depth of the probl
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Patents, genes and
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Patents, genes and
   Jews](https://www.gnxp.com/WordPress/2005/07/26/patents-genes-and-jews/) - [Men and women really don't differ in the generality
   on…](https://www.gnxp.com/WordPress/2020/09/21/me-and-women-really-dont-differ-in-the-generality-on-abortion/) - [Being a second class citizen means less
   responsibility!](https://www.gnxp.com/WordPress/2009/10/17/being-a-second-class-citizen-means-less-responsibility/) - [Women care more about abortion

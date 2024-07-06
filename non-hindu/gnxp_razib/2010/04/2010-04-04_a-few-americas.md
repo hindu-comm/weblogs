@@ -14,7 +14,7 @@ A few Americas
 > Less than a high school diploma: 14.5%  
 > High school with no college: 10.8%  
 > Some college or associates degree: 8.2%  
-> **Bachelor’s or higher: 4.9% (this is near full employment from an > economic perspective).**
+> **Bachelor’s or higher: 4.9% (this is near full employment from an economic perspective).**
 
 If you read the media sometimes it seems like the past recession was total hell in the white-collar sector, but really it wasn’t (comparatively). For what it’s worth, 84% of readers of my weblogs have university degrees or higher….
 

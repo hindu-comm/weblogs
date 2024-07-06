@@ -13,16 +13,16 @@ The details of Eurasian back-migration into Africa
 
 First, from David Reich:
 
-> Despite his hesitation over the analysis of African DNA, Dr. Reich > said the new findings do make a strong case that modern humans > departed Africa much earlier than thought. >
-> **“I was on the fence about that, but this paper makes me think it’s > right,” he said.** >
-> It’s possible that humans and Neanderthals interbred at other times, > and not just 200,000 years ago and again 60,000 years ago. But Dr. > Akey said that these two migrations accounted for the vast majority of > mixed DNA in the genomes of living humans and Neanderthal fossils.
+> Despite his hesitation over the analysis of African DNA, Dr. Reich said the new findings do make a strong case that modern humans departed Africa much earlier than thought. >
+> **“I was on the fence about that, but this paper makes me think it’s right,” he said.** >
+> It’s possible that humans and Neanderthals interbred at other times, and not just 200,000 years ago and again 60,000 years ago. But Dr. Akey said that these two migrations accounted for the vast majority of mixed DNA in the genomes of living humans and Neanderthal fossils.
 
 Over the years I have had several discussions with members of the Reich lab about whether there was a major migration of the antecedent lineage of modern humans before the one that we detect 60,000 years ago. Many were quite skeptical because of the lack of clear genetic signal of anything before 60,000 years ago, as well as its correlation with a strong archaeological record. **But**, it seems now that David Reich at least is convinced that the evidence of admixture **into Neanderthals** means that there were descendants of the same lineage that led to the major “Out of Africa” expansion 60,000 years ago who had spread earlier (though the footprint was small, and their impact on later humans difficult to detect).
 
 Second, Sarah Tishkoff says something that I forgot to mention in my earlier post:
 
-> Sarah Tishkoff, a geneticist at the University of Pennsylvania, is > doing just that, using the new methods to look for Neanderthal DNA in > **more Africans** to test Dr. Akey’s hypothesis. >
-> Still, she wonders how Neanderthal DNA could have **spread between > populations scattered across the entire continent**.
+> Sarah Tishkoff, a geneticist at the University of Pennsylvania, is doing just that, using the new methods to look for Neanderthal DNA in **more Africans** to test Dr. Akey’s hypothesis. >
+> Still, she wonders how Neanderthal DNA could have **spread between populations scattered across the entire continent**.
 
 The second part isn’t that inexplicable. In the paper, they mention that they don’t have the power to analyze small sample numbers. So they focused on the 1000 Genomes samples, which are from West and East Africa. From agriculturalist and agro-pastoralist populations. If you listen to this week’s episode of [The Insight](https://insitome.libsyn.com/paleogenetics-of-africa) Spencer and I talk extensively about the recent agriculturally mediated expansions within Africa. Much of the genetic landscape of the continent is novel, new, and of short historical time-depth. The Africa of Old Kingdom Egypt, 4,500 years ago, was very different.
 

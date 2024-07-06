@@ -12,10 +12,10 @@ Looking for a Few Good Nerds
 For the last few years I have been working on a new architecture for the Internet, which you can read about [here](http://domicel.domicel.net/doc/Read%20About%20Domicel.html):
 
 > *Problem:* >
-> How can we deliver applications as services, over the Internet, and > get PC-like functionality, where each user can **mix-and-match > applications as if they are on a PC**? >
-> (Note: The question does **not** refer to pure user-interface issues > that are addressed by [AJAX](https://en.wikipedia.org/wiki/AJAX)!) >
+> How can we deliver applications as services, over the Internet, and get PC-like functionality, where each user can **mix-and-match applications as if they are on a PC**? >
+> (Note: The question does **not** refer to pure user-interface issues that are addressed by [AJAX](https://en.wikipedia.org/wiki/AJAX)!) >
 > *Solution:* >
-> *Domicel is a **virtual** personal Internet domain. It gives the end > user the look-and-feel of working on a PC – without the PC! > Applications are provided as on-line services, in an object-oriented > paradigm. The aggregate of a user’s objects (think: icons) from all > applications, hosted anywhere in the world, is their > [Domicel](http://domicel.domicel.net/) – there is no one place in > which a Domicel’s objects reside, no bottlenecks, and no central point > of failure.*
+> *Domicel is a **virtual** personal Internet domain. It gives the end > user the look-and-feel of working on a PC – without the PC! > Applications are provided as on-line services, in an object-oriented > paradigm. The aggregate of a user’s objects (think: icons) from all > applications, hosted anywhere in the world, is their [Domicel](http://domicel.domicel.net/) – there is no one place in which a Domicel’s objects reside, no bottlenecks, and no central point of failure.*
 
 Or, to put it another way, it does for applications what the World Wide Web does for documents.
 

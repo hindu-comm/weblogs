@@ -15,8 +15,8 @@ Right now most diseases for most people who buy health care are accounted for by
 
 And that’s what’s at the heart of this piece in *The New York Times*, [New Gene Tests Pose a Threat to Insurers](https://www.nytimes.com/2017/05/12/health/new-gene-tests-pose-a-threat-to-insurers.html):
 
-> So Ms. Reilly, 77, a retired social worker in Ann Arbor, Mich., > applied for a **long-term care insurance** policy. Wary of enrolling > people at risk for dementia, the insurance company tested her memory > three times before issuing the policy. >
-> But Ms. Reilly knew something the insurer did not: She has inherited > the ApoE4 gene, which increases the lifetime risk of developing > Alzheimer’s. “I decided I’d best get long-term care insurance,” she > said.
+> So Ms. Reilly, 77, a retired social worker in Ann Arbor, Mich., applied for a **long-term care insurance** policy. Wary of enrolling people at risk for dementia, the insurance company tested her memory three times before issuing the policy. >
+> But Ms. Reilly knew something the insurer did not: She has inherited the ApoE4 gene, which increases the lifetime risk of developing Alzheimer’s. “I decided I’d best get long-term care insurance,” she said.
 
 I think the headline will mislead many people because when we hear “insurance” in relation to health, we assume health insurance. But long-term care insurance and life insurance are both relevant to health, and both of these have a major issue now with asymmetric information.
 

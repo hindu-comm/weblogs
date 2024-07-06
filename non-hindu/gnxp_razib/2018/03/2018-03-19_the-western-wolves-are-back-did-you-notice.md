@@ -11,7 +11,7 @@ The western wolves are back, did you notice?
 
 ![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/03/wolf.jpeg?resize=225%2C225&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/03/wolf.jpeg?resize=225%2C225&ssl=1)[Tensions rise on the range after wolf kills cow in California for the first time in a century](http://www.sacbee.com/news/local/environment/article181293156.html):
 
-> A wolf has killed a California rancher’s cow for the first time in > more than 100 years, raising tensions in the newly reclaimed wolf > country in California’s rugged northeastern corner.
+> A wolf has killed a California rancher’s cow for the first time in more than 100 years, raising tensions in the newly reclaimed wolf country in California’s rugged northeastern corner.
 
 California now has [two packs](http://www.latimes.com/local/lanow/la-me-ln-gray-wolf-pack-lassen-20170706-htmlstory.html) in the north. This isn’t world-altering. Perhaps it was inevitable. But sure crept up on me.
 

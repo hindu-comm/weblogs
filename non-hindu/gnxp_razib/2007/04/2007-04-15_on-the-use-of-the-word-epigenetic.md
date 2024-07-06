@@ -11,11 +11,11 @@ On the use of the word ‘epigenetic’
 
 It appears that I’m not the only one [musing on the meaning of ‘epigenetic’](https://www.gnxp.com/blog/2007/04/epigenetics-in-memory-ii.php). This [timely essay from Mark Ptashne](http://www.current-biology.com/content/article/fulltext?uid=PIIS096098220701007X&feed=CURBIO) in Current Biology, takes a hard line, even calling into question the connection between histone modifications and epigenetics.
 
-> As a glance at the literature will reveal, however, histone > modifications – acetylation, phosphorylation, methylation, and so on – > are now often explicitly called ‘epigenetic modifications’. This > despite the fact that, so far as I am aware, no histone modification > has been shown to be heritable.
+> As a glance at the literature will reveal, however, histone > modifications – acetylation, phosphorylation, methylation, and so on – are now often explicitly called ‘epigenetic modifications’. This despite the fact that, so far as I am aware, no histone modification has been shown to be heritable.
 
 This section might be relevant if you are looking to ‘epigenetic mechanisms’ for the stability and persistence necessary for a long-term memory mechanism:
 
-> Why might one be pre-disposed to misuse the term epigenetic? The term > is sometimes used in the context of “maintaining stable states of gene > expression”, as though some ‘locked in’ mechanism, involving histone > and/or DNA modifications, were required for stable states of gene > expression in eukaryotes. But, in the first instance, there would seem > to be no such special requirement: lambda lysogens are essentially > infinitely stable in the absence of the specific signal that > inactivates the repressor, and this system – of course – involves no > histones.
+> Why might one be pre-disposed to misuse the term epigenetic? The term > is sometimes used in the context of “maintaining stable states of gene > expression”, as though some ‘locked in’ mechanism, involving histone > and/or DNA modifications, were required for stable states of gene > expression in eukaryotes. But, in the first instance, there would seem > to be no such special requirement: lambda lysogens are essentially infinitely stable in the absence of the specific signal that inactivates the repressor, and this system – of course – involves no histones.
 
 ### Related Posts:
 

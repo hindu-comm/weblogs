@@ -30,7 +30,8 @@ The major problems I have is that the signal in their data is not that clear to 
 
 ### Related Posts:
 
-- [Book review - The Gecko's Foot:
+- [Book review
+- The Gecko's Foot:
   Bio-inspiration:…](https://www.gnxp.com/WordPress/2006/12/20/book-review-the-gecko-s-foot-bio-inspiration-engineering-new-materials-from-nature/) - [Book review - The Gecko's Foot: Bio-inspiration:
   Engineering…](https://www.gnxp.com/WordPress/2006/12/20/book-review-the-geckos-foot-bio-inspiration-engineering-new-materials-from-nature/) - [Evolutionary biology in the 21st-century: from big
   theories…](https://www.gnxp.com/WordPress/2019/08/27/evolutionary-biology-in-the-21st-century-from-big-theories-to-big-facts/) - [Accelerated human evolution in non-coding regions?

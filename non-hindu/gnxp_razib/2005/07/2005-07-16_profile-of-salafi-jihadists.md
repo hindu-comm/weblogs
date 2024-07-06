@@ -13,7 +13,10 @@ This morning I saw a [post](http://www.parapundit.com/archives/002895.html#00289
 
 First, you have to understand that Sagemen broke up his sample by region and amalgamated them into four primary clusters:
 
-- The Central Staff (Al Qaeda command & control) - Core Arabs (those activists from the central Arab region) - Maghreb Arabs (those from North Africa and the North African Diaspora) - Southeast Asians (mostly Indonesians)
+- The Central Staff (Al Qaeda command & control)
+- Core Arabs (those activists from the central Arab region)
+- Maghreb Arabs (those from North Africa and the North African Diaspora)
+- Southeast Asians (mostly Indonesians)
 
 Though there are individuals of other Muslim nationalities within the sample, it is dominated by Arabs and Southeast Asians, with a heavy skew toward Egyptians in “The Central Staff.”
 

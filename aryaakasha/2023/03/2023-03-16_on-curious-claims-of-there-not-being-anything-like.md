@@ -14,8 +14,8 @@ On Curious Claims Of There Not Being “Anything Like Kali” In The Vedas – A
   
 Yesterday evening we encountered this most curious claim:
 
-> Interesting take for Hindus to ponder. Certainly not only Kālī́ > herself, but anything like Kālī́ (dreadful-looking &c. goddess of > wrath) doesn't exist in the Vedic religion. Of course the Goddesses > take part in battle, but this cannot be pressed into Kālī́-worship. > <https://t.co/6w4znBVDS2> >
-> — Nikhil Surya Dwibhashyam (@Dhvasra) [March 11, > 2023](https://twitter.com/Dhvasra/status/1634700610673995777?ref_src=twsrc%5Etfw)
+> Interesting take for Hindus to ponder. Certainly not only Kālī́ > herself, but anything like Kālī́ (dreadful-looking &c. goddess of wrath) doesn't exist in the Vedic religion. Of course the Goddesses take part in battle, but this cannot be pressed into Kālī́-worship. <https://t.co/6w4znBVDS2> >
+> — Nikhil Surya Dwibhashyam (@Dhvasra) [March 11, 2023](https://twitter.com/Dhvasra/status/1634700610673995777?ref_src=twsrc%5Etfw)
 
 He might want to check Sankhayana Grihya Sutra II 14 14 – wherein we do, quite literally, find a ‘Bhadrakali’ directly attested.
 

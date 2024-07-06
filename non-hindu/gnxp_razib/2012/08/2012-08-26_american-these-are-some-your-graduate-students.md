@@ -11,12 +11,12 @@ America, these are (some) your graduate students
 
 If you haven’t, you should check out [The Shadow Scholar, The man who writes your students’ papers tells his story](http://chronicle.com/article/The-Shadow-Scholar/125329/). This is the conclusion:
 
-> “Thanx u so much for the chapter is going very good the porfesser > likes it but wants the folloing suggestions please what do you thing?: >
-> “‘The hypothesis is interesting but I’d like to see it a bit more > focused. Choose a specific connection and try to prove it.’ >
+> “Thanx u so much for the chapter is going very good the porfesser likes it but wants the folloing suggestions please what do you thing?: >
+> “‘The hypothesis is interesting but I’d like to see it a bit more focused. Choose a specific connection and try to prove it.’ >
 > “What shoudwe say?” >
-> This happens a lot. I get paid per assignment. But with longer papers, > the student starts to think of me as a personal educational counselor. > She paid me to write a one-page response to her professor, and then > she paid me to revise her paper. I completed each of these > assignments, sustaining the voice that the student had established and > maintaining the front of competence from some invisible location far > beneath the ivory tower. >
-> **The 75-page paper on business ethics ultimately expanded into a > 160-page graduate thesis**, every word of which was written by me. I > can’t remember the name of my client, but it’s her name on my work. We > collaborated for months. As with so many other topics I tackle, the > connection between unethical business practices and trade > liberalization became a subtext to my everyday life. >
-> So, of course, you can imagine my excitement when I received the good > news: >
+> This happens a lot. I get paid per assignment. But with longer papers, > the student starts to think of me as a personal educational counselor. > She paid me to write a one-page response to her professor, and then > she paid me to revise her paper. I completed each of these assignments, sustaining the voice that the student had established and maintaining the front of competence from some invisible location far beneath the ivory tower. >
+> **The 75-page paper on business ethics ultimately expanded into a > 160-page graduate thesis**, every word of which was written by me. I > can’t remember the name of my client, but it’s her name on my work. We collaborated for months. As with so many other topics I tackle, the connection between unethical business practices and trade liberalization became a subtext to my everyday life. >
+> So, of course, you can imagine my excitement when I received the good news: >
 > “thanx so much for uhelp ican going to graduate to now”.
 
 The author claims that his three primary customer demographics are “English-as-second-language student; the hopelessly deficient student; and the lazy rich kid.” In the above case it looks like the first category. But what are the proportions? I assume that the lazy rich kids are mostly undergraduates or MBA students.

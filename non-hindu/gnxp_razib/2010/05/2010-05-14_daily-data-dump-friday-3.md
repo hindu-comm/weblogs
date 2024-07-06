@@ -15,8 +15,8 @@ Second, I will be traveling a fair amount over the next four weeks. I won’t po
 
 [Affluent Qataris Seek What Money Cannot Buy](http://www.nytimes.com/2010/05/14/world/middleeast/14qatar.html?partner=rss&emc=rss&pagewanted=print). This is a very amusing article. The fact is that Gulf Arabs, who have benefited from windfall wealth which they did not earn in any way, have a really minimal work ethic and maximal sense of entitlement. It’s bad form today to dismiss whole populations like this, but I don’t really care, it’s true, everyone who has worked in the Gulf knows this. *The New York Times* tries to maintain an air of neutral detachment, but the author of the linked article couldn’t keep it up. The piece is about the frustration that Qataris face due to discrimination in employment opportunities because employers stereotype them as relatively lazy, unqualified, and demanding (though it’s really hard to match semi-slave labor too! So “entitled” might mean “refusal to work 18 hours a day for 7 days a week” for minimal pay). Employers and coworkers treat them like the special education kid in the classroom. But that’s because that’s the rational thing to do. We all know, and can admit, that children who have large trust funds can often (though not always!) grow up to be spoiled and rendered far less productive than they would be otherwise because of wealth unearned. Same with Qataris. The final paragraph makes the journalists’ bemusement rather crystal clear:
 
-> “Moza al-Malki, a family therapist, said she was angry, too. She said > that she had lost her teaching position when she complained that an > Indian woman was hired to run a counseling center that she said she > had set up. “We are all angry for staying at home,” she said. >
-> A moment earlier, **she turned to the Filipino woman walking one step > behind her — a servant carrying bags — and told her to go look around > the mall they were in while Ms. Malki ordered breakfast. Ms. Malki > ordered a croissant with cheese, sent it back because it was too hard, > and then settled on an omelet.”**
+> “Moza al-Malki, a family therapist, said she was angry, too. She said that she had lost her teaching position when she complained that an Indian woman was hired to run a counseling center that she said she had set up. “We are all angry for staying at home,” she said. >
+> A moment earlier, **she turned to the Filipino woman walking one step > behind her — a servant carrying bags — and told her to go look around the mall they were in while Ms. Malki ordered breakfast. Ms. Malki ordered a croissant with cheese, sent it back because it was too hard, and then settled on an omelet.”**
 
 Qataris are [very fat](http://www.nytimes.com/2010/04/27/world/middleeast/27qatar.html?src=me) too.
 
@@ -30,7 +30,8 @@ Qataris are [very fat](http://www.nytimes.com/2010/04/27/world/middleeast/27qata
 
 ### Related Posts:
 
-- [RSS feed](https://www.gnxp.com/WordPress/2010/03/30/rss-feed/) - [Please change RSS feeds if you
+- [RSS feed](https://www.gnxp.com/WordPress/2010/03/30/rss-feed/)
+- [Please change RSS feeds if you
   haven't](https://www.gnxp.com/WordPress/2010/04/06/please-change-rss-feeds-if-you-havent/) - [Gene Expression moves to
   WP](https://www.gnxp.com/WordPress/2010/02/23/gene-expression-moves-to-wp/) - [No longer at ScienceBlogs, but at Discover
   Blogs](https://www.gnxp.com/WordPress/2010/03/26/no-longer-at-scienceblogs-but-at-discover-blogs/) - [Readership survey soon

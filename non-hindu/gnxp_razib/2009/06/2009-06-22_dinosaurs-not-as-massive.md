@@ -11,8 +11,8 @@ Dinosaurs not as massive
 
 So claims a researcher whose work will be published in the *Journal of Zoology*, [Dinosaurs shed a few tons in science makeover](http://www.timesonline.co.uk/tol/news/uk/science/article6544701.ece):
 
-> “We have found that the statistical model is seriously flawed and the > giant dinosaurs probably were only about half as heavy as is generally > believed.”  
-> The research does not suggest that dinosaurs were shorter in length or > height. These dimensions are clear from the size of their bones. > Instead, Packard’s work challenges the depiction of many giant > herbivores. Until now they have been shown as well-rounded, powerful > animals, **when they are more likely to have been skinny and > muscular.**
+> “We have found that the statistical model is seriously flawed and the giant dinosaurs probably were only about half as heavy as is generally believed.”  
+> The research does not suggest that dinosaurs were shorter in length or > height. These dimensions are clear from the size of their bones. > Instead, Packard’s work challenges the depiction of many giant herbivores. Until now they have been shown as well-rounded, powerful animals, **when they are more likely to have been skinny and muscular.**
 
 I remember reading stuff in grade school in really old books about how sauropods spent most of their time in water they were so massive. So times change. But nevertheless it seems a bit disappointing that the biggest land creatures in the history of the world weren’t quite as big.
 

@@ -13,7 +13,7 @@ There’s a new article by [Miller and Sweatt in Neuron](http://www.sciencedirec
 
 The scope of the processes disrupted by a DNMT inhibitor is indicated by this sentence from Miller and Sweatt:
 
-> Many developmentally important processes utilize this “prima donna” of > epigenetics (Scarano et al., 2005 and Santos et al., 2005), including > gene imprinting, cell differentiation, X chromosome inactivation, and > long-term transcriptional regulation (Bestor et al., 1988 and Okano et > al., 1998).
+> Many developmentally important processes utilize this “prima donna” of > epigenetics (Scarano et al., 2005 and Santos et al., 2005), including gene imprinting, cell differentiation, X chromosome inactivation, and long-term transcriptional regulation (Bestor et al., 1988 and Okano et al., 1998).
 
 Sorry to be such a naysayer. It is an interesting hypothesis. It is likely the case that DNA methylation is regulated during memory formation. If we just think that memory will require transcriptional regulation then probably some DNA modifications will have to be done and undone. Cis-regulatory sequences that control a gene’s level of activation can act through recruitment of histone acetyl transferases and other chromatin modifiers, so a precedent exists. But I don’t think there is any special connection between epigenetics and memory. Memory requires cells to be cells and work properly, so it will require transcriptional regulation and DNA/chromatin modification. For any further connection, I think we have to start naming names.
 

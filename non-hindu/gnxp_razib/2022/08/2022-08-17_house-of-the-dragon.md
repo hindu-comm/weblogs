@@ -13,7 +13,8 @@ This looks better than *Rings of Power*.
 
 ### Related Posts:
 
-- [Dragon Kat](https://www.gnxp.com/WordPress/2006/07/14/dragon-kat/) - [Rings of Power, first two episodes, initial
+- [Dragon Kat](https://www.gnxp.com/WordPress/2006/07/14/dragon-kat/)
+- [Rings of Power, first two episodes, initial
   reaction](https://www.gnxp.com/WordPress/2022/09/01/rings-of-power-first-two-episodes-initial-reaction/) - [HoD vs. RoP; game
   over](https://www.gnxp.com/WordPress/2022/10/11/hod-vs-rop-game-over/) - [The United States of
   Secrets](https://www.gnxp.com/WordPress/2014/05/15/the-united-states-of-secrets/) - [The years of the

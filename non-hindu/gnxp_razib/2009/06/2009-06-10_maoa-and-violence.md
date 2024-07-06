@@ -11,7 +11,7 @@ MAOA and violence
 
 The locus [MAOA](https://en.wikipedia.org/wiki/MAO-A#Clinical_significance) pops up every year or so in a study which attempts to correlate variation in these region with behavior. In particular, anti-social or pathological behavior. So another one is out, [Monoamine oxidase A genotype is associated with gang membership and weapon use](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WCV-4W73H7F-2&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=9ba0009a2b502ce1cba47d7ad045d95c):
 
-> The low MAOA activity alleles conferred an increased risk of joining a > gang and using a weapon in a fight for males but not for females. > Moreover, among male gang members, those who used weapons in a fight > were more likely to have a low MAOA activity allele when compared with > male gang members who do not use weapons in a fight.
+> The low MAOA activity alleles conferred an increased risk of joining a > gang and using a weapon in a fight for males but not for females. Moreover, among male gang members, those who used weapons in a fight were more likely to have a low MAOA activity allele when compared with male gang members who do not use weapons in a fight.
 
 Here’s a regression table which shows the main results:  
 ![gang1.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/gang1.jpg?resize=500%2C262)![gang1.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/gang1.jpg?resize=500%2C262)  

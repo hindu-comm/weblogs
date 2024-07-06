@@ -13,7 +13,8 @@ I’m [posting](http://scienceblogs.com/gnxp/) a [crap load](http://scienceblogs
 
 ### Related Posts:
 
-- [Neandertals & introgression - the past
+- [Neandertals & introgression
+- the past
   week....](https://www.gnxp.com/WordPress/2006/11/14/neandertals-introgression-the-past-week/) - [Neandertal one stop
   shopping](https://www.gnxp.com/WordPress/2012/10/17/neandertal-one-stop-shopping/) - [Neandertal
   introgression](https://www.gnxp.com/WordPress/2006/11/05/neandertal-introgression/) - [Neandertal

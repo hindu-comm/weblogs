@@ -11,10 +11,10 @@ Cities of death?
 
 [As Deaths Outpace Births, Cities Adjust](http://www.nytimes.com/2008/05/18/us/18pittsburgh.html?hp=&pagewanted=all):
 
-> This city has passed a grim demographic milestone: More people are > dying here than are being born.  
-> What demographers call a natural decrease has been occurring for years > in tiny rural towns and in some retirement meccas in the South. But > the phenomenon is relatively new in metropolitan areas in the > Northeast, the Rust Belt of the Middle West and Appalachia.  
-> Hospitals are closing obstetrics wards and converting them to acute > care. Local governments and other social service providers are > adjusting to the emergence of entire neighborhoods where the average > age is soaring, and private foundations are awarding scholarships to > retain students and attract new ones.  
-> **In Pittsburgh, public school enrollment plummeted from about 70,000 > two decades ago to about 30,000 and continues shrinking by about 1,000 > a year.**
+> This city has passed a grim demographic milestone: More people are dying here than are being born.  
+> What demographers call a natural decrease has been occurring for years in tiny rural towns and in some retirement meccas in the South. But the phenomenon is relatively new in metropolitan areas in the Northeast, the Rust Belt of the Middle West and Appalachia.  
+> Hospitals are closing obstetrics wards and converting them to acute > care. Local governments and other social service providers are adjusting to the emergence of entire neighborhoods where the average age is soaring, and private foundations are awarding scholarships to retain students and attract new ones.  
+> **In Pittsburgh, public school enrollment plummeted from about 70,000 two decades ago to about 30,000 and continues shrinking by about 1,000 a year.**
 
 Here’s the graphic that goes along with the article:
 

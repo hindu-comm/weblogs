@@ -11,7 +11,7 @@ Quest for Antarctica
 
 Over at [Living the Scientific Life](http://scienceblogs.com/grrlscientist/2009/08/update_antarctic_vote_count_54.php?utm_source=combinedfeed&utm_medium=rss) an update on the [quest to go to Antarctica](http://scienceblogs.com/grrlscientist/2009/08/update_antarctic_vote_count_54.php?utm_source=combinedfeed&utm_medium=rss). Turns out you can “reassign” your vote. Also, if you haven’t voted, please do. Again:
 
-> Voting ends at noon EDT on 30 September 2009, and the Official Quark > Blogger will travel to Antarctica in February 2010 to blog about the > experience, chronicling the action, the emotion, and the drama as this > polar adventure unfolds.
+> Voting ends at noon EDT on 30 September 2009, and the Official Quark Blogger will travel to Antarctica in February 2010 to blog about the experience, chronicling the action, the emotion, and the drama as this polar adventure unfolds.
 
 ### Related Posts:
 

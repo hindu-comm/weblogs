@@ -11,10 +11,10 @@ The Madoff curse?
 
 [Lawyer: Death complicates Madoff investment case](https://www.google.com/hostednews/ap/article/ALeqM5iRVYiOGzpLaWfiuFKrhEkakASp0QD9BIKN8G0):
 
-> The death of Jeffry Picower, accused of profiting more than \$7 > billion from the investment schemes of his longtime friend Bernard > Madoff, will make it more difficult for suing investors to recoup > their money, attorneys said.  
+> The death of Jeffry Picower, accused of profiting more than \$7 billion from the investment schemes of his longtime friend Bernard Madoff, will make it more difficult for suing investors to recoup their money, attorneys said.  
 > …  
-> But the trustee’s lawyer said Picower’s claims that he was a victim > “ring hollow” because he withdrew more of other investors’ money than > anyone else during three decades and should have noticed signs of > fraud.  
-> According to the lawyers, Picower’s accounts were “riddled with > blatant and obvious fraud,” and he should have recognized that because > he was a sophisticated investor.
+> But the trustee’s lawyer said Picower’s claims that he was a victim “ring hollow” because he withdrew more of other investors’ money than anyone else during three decades and should have noticed signs of fraud.  
+> According to the lawyers, Picower’s accounts were “riddled with blatant and obvious fraud,” and he should have recognized that because he was a sophisticated investor.
 
 ### Related Posts:
 

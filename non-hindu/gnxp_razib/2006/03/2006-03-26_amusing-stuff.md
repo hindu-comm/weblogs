@@ -13,7 +13,7 @@ Nothing big enough for its own post, just a bunch of things that caught my atten
 
 PLoS Genetics: [AVPR1a and SLC6A4 Gene Polymorphisms Are Associated with Creative Dance Performance](http://genetics.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pgen.0010042)
 
-> We therefore hypothesize that the association between AVPR1a and > SLC6A4 reflects the social communication, courtship, and spiritual > facets of the dancing phenotype rather than other aspects of this > complex phenotype, such as sensorimotor integration.
+> We therefore hypothesize that the association between AVPR1a and SLC6A4 reflects the social communication, courtship, and spiritual facets of the dancing phenotype rather than other aspects of this complex phenotype, such as sensorimotor integration.
 
 PLoS Medicine: [Are Racial and Ethnic Minorities Less Willing to Participate in Health Research?](http://medicine.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pmed.0030019) Nope.
 

@@ -43,7 +43,8 @@ Quoting from some of the Vedic source matter may make things clearer.
 
 Shatapatha Brahmana 1 2 3 “Thence sprung the Âptya deities, Trita, Dvita, and Ekata.
 
-2.  They roamed about with Indra, even as nowadays a Brâhman follows in     the train of a king. When he slew Visvarûpa, the three-headed son of     Tvashtri, they also knew of his going to be killed.; and straightway     Trita slew him. \[…\] 3.  And the people thereupon said: ‘Let those be guilty of the sin who     knew about his going to be killed! ‘How?’ they asked. ‘The sacrifice     shall wipe it off upon (shall transfer it to) them!’ they said.
+2.  They roamed about with Indra, even as nowadays a Brâhman follows in     the train of a king. When he slew Visvarûpa, the three-headed son of     Tvashtri, they also knew of his going to be killed.; and straightway     Trita slew him. \[…\]
+3.  And the people thereupon said: ‘Let those be guilty of the sin who     knew about his going to be killed! ‘How?’ they asked. ‘The sacrifice     shall wipe it off upon (shall transfer it to) them!’ they said.
 
 Hence the sacrifice thereby wipes off upon them (the guilt or     impurity incurred in the preparation of the offering), when they     pour out for them the water with which the dish has been rinsed, and     that in which he (the Adhvaryu) has washed his fingers.
 

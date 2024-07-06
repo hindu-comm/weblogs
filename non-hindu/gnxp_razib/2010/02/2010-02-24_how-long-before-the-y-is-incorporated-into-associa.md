@@ -19,7 +19,8 @@ So how variable is the Y chromosome **within** humans? It appears this is largel
 
 ### Related Posts:
 
-- [Sperm...cooperation?](https://www.gnxp.com/WordPress/2007/01/24/sperm-cooperation/) - [If you cant beat
+- [Sperm...cooperation?](https://www.gnxp.com/WordPress/2007/01/24/sperm-cooperation/)
+- [If you cant beat
   em...](https://www.gnxp.com/WordPress/2006/12/21/if-you-cant-beat-em/) - [The Tao of sperm
   competition](https://www.gnxp.com/WordPress/2007/06/11/the-tao-of-sperm-competition/) - [Getting better sperm
   donors](https://www.gnxp.com/WordPress/2011/08/15/getting-better-sperm-donors/) - [Sperm

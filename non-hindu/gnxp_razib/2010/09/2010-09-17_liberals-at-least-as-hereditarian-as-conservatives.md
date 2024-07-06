@@ -13,7 +13,7 @@ Sometimes I run into things in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?ha
 
 The gene related questions have the following form:
 
-> … what percent of the person’s behavior you think is influenced by the > genes they inherit, and what percent is influenced by their learning > and experience. After each question, type the number of the box that > comes closest to your answer. Remember, the higher the number, the > more you think the behavior is influenced by learning and experience; > the lower the number, the more you think it is influenced by genes
+> … what percent of the person’s behavior you think is influenced by the > genes they inherit, and what percent is influenced by their learning > and experience. After each question, type the number of the box that comes closest to your answer. Remember, the higher the number, the more you think the behavior is influenced by learning and experience; the lower the number, the more you think it is influenced by genes
 
 Each respondent could select from 21 values, from 1 to 21, with 1 = 100% genetic, 21 = 0% genetic, at 5% increments. So 3 = 90% genetic. This isn’t technically correct as an understanding of heritability, but I think it gets across the *intuitions* of heritability. All the questions were asked in 2004. They were:
 

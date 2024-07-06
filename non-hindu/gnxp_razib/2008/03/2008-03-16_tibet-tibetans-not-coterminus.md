@@ -11,7 +11,7 @@ Tibet & Tibetans, not coterminus
 
 [Daniel Larison](http://www.amconmag.com/larison/2008/03/15/what-about-tibet/) says:
 
-> Reliable information is a bit hard to come by, but it seems as if the > policy of increased **Han Chinese colonisation** in Tibet has finally > run up against a violent popular backlash. I haven’t anything very > insightful to say about this, but it is one of the major foreign > affairs stories this week and merits some mention here.
+> Reliable information is a bit hard to come by, but it seems as if the > policy of increased **Han Chinese colonisation** in Tibet has finally run up against a violent popular backlash. I haven’t anything very insightful to say about this, but it is one of the major foreign affairs stories this week and merits some mention here.
 
 Made me wonder. Wikipedia says that the [Tibetan Autonomous Region](https://en.wikipedia.org/wiki/Tibet_Autonomous_Region#Demographics) is still a little over 90% Tibetan. In contrast, in [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang#Demographics) at least 40% of the population is Han. The main city, [Urumqi](https://en.wikipedia.org/wiki/Urumqi#Demographics) is 3/4 Han. So comparatively Tibet is actually not much colonized. Why? Well, as you might know Xinjiang has oil…possibly. Tibet? I doubt it. Additionally, Lhasa is at a high altitude, very high. Tibetans have some [physiological adaptations](https://en.wikipedia.org/wiki/Tibetan_people#Physical_adaptation_to_high_altitudes) to this altitude, and from what I have read Han Chinese who settle in the Tibetan heartland are eager to rotate out.
 

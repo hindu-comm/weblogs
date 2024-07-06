@@ -27,11 +27,11 @@ Not sure how much longer these leaves would have lasted…
 
 From a gorgeous *pādukāsahasram* MS, we also got a nice date from a conscientious scribe: the 6th of June, 1842.
 
-> dinaḥ pādukāsahasragrantham atra 17 varṣaṃ śubhakṛtanāma > saṃvat\[9\]saram uttarāyana māna(?) vaiśākhamāsam kṛṣṇapakṣe trayoḍaśi > induvāsaram ākiya 26 teeti yi (?) bharaṇinakṣatram > śubhayogaśubhakaraṇatir sāyaṃkālaṃ
+> dinaḥ pādukāsahasragrantham atra 17 varṣaṃ śubhakṛtanāma saṃvat\[9\]saram uttarāyana māna(?) vaiśākhamāsam kṛṣṇapakṣe trayoḍaśi induvāsaram ākiya 26 teeti yi (?) bharaṇinakṣatram śubhayogaśubhakaraṇatir sāyaṃkālaṃ
 
 We have to thank Akane for finding this, and also the following colophon (and I know, we need to clean up the transcription, but we’ll do that later):
 
-> ādivaṇśaṭhakopayatīndramahādeśikebhyo namaḥ/ —– śrīmatbhya > śrīnivāsayatīndramahādeśikobhyo namaḥ/ —– > raṅganāthayatīndramahādeśikebhyo namaḥ/ śrīmatbhyaḥ > raṃgaṇāthaśaṭhakopayatīndramahādeśikebhyonamaḥ/ śrīmatbhyo > veṃkaṭanārāyaṇamahādeśikebhyo namaḥ/
+> ādivaṇśaṭhakopayatīndramahādeśikebhyo namaḥ/ —– śrīmatbhya > śrīnivāsayatīndramahādeśikobhyo namaḥ/ —– raṅganāthayatīndramahādeśikebhyo namaḥ/ śrīmatbhyaḥ raṃgaṇāthaśaṭhakopayatīndramahādeśikebhyonamaḥ/ śrīmatbhyo veṃkaṭanārāyaṇamahādeśikebhyo namaḥ/
 
 Now, this colophon above points straight at a link with the Ahobila Maṭha, which always makes me happy for personal reasons. To think that someone who lived close to Kalliṭaikkuṟicci in the deep South should have links with this Maṭha is a wonderful thing. And with a bit of detective work, we should be able to roughly date this MS precisely based on the names of these *maṭḥādhipati*s.
 

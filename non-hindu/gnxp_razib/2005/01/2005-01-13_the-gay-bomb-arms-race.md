@@ -25,7 +25,8 @@ Posted by TangoMan at [10:06 PM](https://www.gnxp.com/MT2/archives/003435.html) 
 
 ### Related Posts:
 
-- [Vatican official not gay - not that there's anything
+- [Vatican official not gay
+- not that there's anything
   wrong…](https://www.gnxp.com/WordPress/2007/10/14/vatican-official-not-gay-not-that-theres-anything-wrong-with-it/) - [SEED "Ask a question," what would Razib-God
   uninvent](https://www.gnxp.com/WordPress/2006/05/06/seed-ask-a-question-what-would-razib-god-uninvent/) - [Gay Muslims seeking marriages of
   convenience](https://www.gnxp.com/WordPress/2006/06/27/gay-muslims-seeking-marriages-of-convenience/) - [Curing the

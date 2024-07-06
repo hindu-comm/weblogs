@@ -11,7 +11,7 @@ Where are the seculars?
 
 Over at [Island of Doubt](http://scienceblogs.com/islandofdoubt/2008/08/sen_dole_vs_the_atheists.php) James Hrynyshyn says:
 
-> As far as I can tell, North Carolina’s no different from the rest of > America when it comes to religion. About a tenth of the population is > free of religious conviction….
+> As far as I can tell, North Carolina’s no different from the rest of America when it comes to religion. About a tenth of the population is free of religious conviction….
 
 Well, I was pretty sure that there is a statistically significant difference between most Southern states and the rest of the country in regards to these things, so I decided to check out the data in detail. The [US Religious Landscape Survey](https://religions.pewforum.org/maps) allows me to see what proportion of each state’s population are atheists; that is, they don’t believe in God. Unfortunately the margin of errors are relatively big because of small sample sizes from the unbelievers for most states, so I wanted an outside “check,” and luckily the [American Religious Identification Survey](http://www.gc.cuny.edu/faculty/research_briefs/aris/aris_index.htm) has state-by-state breakdowns as well. But, their breakdowns are for those with “No Religion,” a category where the rule of thumb is only 1/3-1/2 are atheists. Out of curiosity I plotted the number of atheists on the X axis vs. the nonreligious on the Y axis.  
 ![atheistvsnoreligion.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/atheistvsnoreligion.jpg?resize=500%2C511)![atheistvsnoreligion.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/atheistvsnoreligion.jpg?resize=500%2C511)  

@@ -11,12 +11,12 @@ Science blogging survey
 
 Check out [The Impact of Science Blogging Survey](http://www.surveymonkey.com/s.aspx?sm=tB6F5cKlGkaFq_2fzfeiRGXA_3d_3d). Below the fold is an explanation:
 
-> This survey attempts to access the opinions of bloggers, blog-readers, > and non-blog folk in regards to the impact of blogs on the outside > world. The authors of the survey are completing an academic manuscript > on the impact of science blogging and this survey will provide > invaluable data to answer the following questions:  
+> This survey attempts to access the opinions of bloggers, blog-readers, > and non-blog folk in regards to the impact of blogs on the outside world. The authors of the survey are completing an academic manuscript on the impact of science blogging and this survey will provide invaluable data to answer the following questions:  
 > Who reads or writes blogs?  
-> What are the perceptions of blogging, and what are the views of those > who read blogs?  
+> What are the perceptions of blogging, and what are the views of those who read blogs?  
 > How do academics and others perceive science blogging?  
-> What, if any, influence does science blogging have on science in > general?  
-> Please consider participating in the survey as an act of ‘internet > solidarity’! It will likely take 10 minutes, and a bit more if you are > a blogger yourself. We thank you in advance.
+> What, if any, influence does science blogging have on science in general?  
+> Please consider participating in the survey as an act of ‘internet solidarity’! It will likely take 10 minutes, and a bit more if you are a blogger yourself. We thank you in advance.
 
 ### Related Posts:
 

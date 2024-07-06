@@ -11,14 +11,14 @@ Building a Better Mouse
 
 [‘Smart’ mice teach scientists about learning process, brain disorders](http://www.eurekalert.org/pub_releases/2007-05/usmc-mt052407.php)
 
-> Mice genetically engineered to lack a single enzyme in their brains > are more adept at learning than their normal cousins, and are quicker > to figure out that their environment has changed, a team led by > researchers at UT Southwestern Medical Center has found.  
+> Mice genetically engineered to lack a single enzyme in their brains are more adept at learning than their normal cousins, and are quicker to figure out that their environment has changed, a team led by researchers at UT Southwestern Medical Center has found.  
 > …  
-> The group is also beginning a search for drugs that might create the > same effects without genetic manipulation and monitoring the animals’ > health and behavior over time.  
+> The group is also beginning a search for drugs that might create the same effects without genetic manipulation and monitoring the animals’ health and behavior over time.  
 > …  
-> The key in this study was being able to “knock out” the gene for Cdk5 > only in the brain, and only when the mice were adults. This technique, > only recently developed and called conditional knockout, allows much > more sophisticated experiments than traditional knockout, which > entirely eliminates the gene.  
+> The key in this study was being able to “knock out” the gene for Cdk5 > only in the brain, and only when the mice were adults. This technique, only recently developed and called conditional knockout, allows much more sophisticated experiments than traditional knockout, which entirely eliminates the gene.  
 > …  
-> Normally, Cdk5 works with another enzyme to break up a molecule called > NR2B, which is found in nerve-cell membranes and stimulates the cell > to fire when a nerve cell signaling molecule, or neurotransmitter, > binds to it. NR2B previously has been implicated in the early stages > of learning. >
-> The new research showed that when Cdk5 is removed from the brain, the > levels of NR2B significantly increase, and the mice are primed to > learn, Dr. Bibb said.
+> Normally, Cdk5 works with another enzyme to break up a molecule called > NR2B, which is found in nerve-cell membranes and stimulates the cell to fire when a nerve cell signaling molecule, or neurotransmitter, binds to it. NR2B previously has been implicated in the early stages of learning. >
+> The new research showed that when Cdk5 is removed from the brain, the levels of NR2B significantly increase, and the mice are primed to learn, Dr. Bibb said.
 
 Evolved biological systems aren’t optimal…just good enough. Knowing how the system works should lead to interventions that improve function. In the coming decades there should be nutritional, drug, training, genetic, and cybernetic enhancement of brain function.
 

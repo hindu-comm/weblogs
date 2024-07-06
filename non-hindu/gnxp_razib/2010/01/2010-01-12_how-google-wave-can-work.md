@@ -11,7 +11,7 @@ How Google Wave can work
 
 This sounds entirely plausible to me, [On how Google Wave surprisingly changed my life](http://maxklein.posterous.com/on-how-google-wave-surprisingly-changed-my-li):
 
-> I use google wave every single day. I start off the day by checking > gmail. Then I look at a few news sites to see if anything of interest > happened. Then I open google wave: **because that’s where my business > lives.** That’s how I run a complicated network of collaborators, make > hundreds of decisions every day and organise the various sites that > made me \$14.000 in december.
+> I use google wave every single day. I start off the day by checking > gmail. Then I look at a few news sites to see if anything of interest > happened. Then I open google wave: **because that’s where my business lives.** That’s how I run a complicated network of collaborators, make hundreds of decisions every day and organise the various sites that made me \$14.000 in december.
 
 I can see Google Wave as useful for project management. But for non-professional contexts I guess I like chopping up functionality a bit more.  
 Via [William Gunn](http://synthesis.williamgunn.org/)

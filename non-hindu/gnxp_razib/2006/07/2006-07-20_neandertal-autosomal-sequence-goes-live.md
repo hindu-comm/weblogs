@@ -11,15 +11,15 @@ Neandertal autosomal sequence goes live
 
 Most of you probably know this, but the race is on to sequence the Neandertal genome. Nick Wade [has a decent story on it](http://www.nytimes.com/2006/07/21/science/21neanderthal.html?ei=5094&en=45d8ade594b50f9e&amp;amp;amp;amp;hp=&ex=1153454400&partner=homepage&pagewanted=all). Important point:
 
-> The chimp and human genomes differ at just 1 percent of the sites on > their DNA. At this 1 percent, Neanderthals resemble humans at 96 > percent of the sites \[the first 3 million base pairs\], to judge from > the preliminary work, and chimps at 4 percent.
+> The chimp and human genomes differ at just 1 percent of the sites on their DNA. At this 1 percent, Neanderthals resemble humans at 96 percent of the sites \[the first 3 million base pairs\], to judge from the preliminary work, and chimps at 4 percent.
 
 No surprise, the putative last common ancestor between chimps and humans is 6 million years BP, Neandertals and modern humans is 500,000 years BP, and order of magnitude difference.
 
   
 But these “last common ancestor” numbers derived from coalescence of uniparental lineages (e.g., mtDNA) should be taken with a grain of salt as sister speies often interbreed, see the work on [baboon hybrid zones](http://www.johnhawks.net/weblog/reviews/neandertals/neandertal_dna/jolly_hybridization_2001.html). Here’s a money shot for GNXP readers:
 
-> A longstanding dispute among archaeologists is whether the modern > humans who first entered Europe 45,000 years ago, ultimately from > Africa, interbred with the Neanderthals or forced them into > extinction. Interbreeding could have been genetically advantageous to > the incoming humans, says Bruce Lahn, a geneticist at the University > of Chicago, because the Neanderthals were well adapted to the cold > European climate – the last ice age had another 35,000 years to run – > and to local diseases.  
-> Evidence from the human genome suggests some interbreeding with an > archaic species, Dr. Lahn said, which could have been Neanderthals or > other early humans.
+> A longstanding dispute among archaeologists is whether the modern > humans who first entered Europe 45,000 years ago, ultimately from > Africa, interbred with the Neanderthals or forced them into > extinction. Interbreeding could have been genetically advantageous to > the incoming humans, says Bruce Lahn, a geneticist at the University of Chicago, because the Neanderthals were well adapted to the cold European climate – the last ice age had another 35,000 years to run – and to local diseases.  
+> Evidence from the human genome suggests some interbreeding with an archaic species, Dr. Lahn said, which could have been Neanderthals or other early humans.
 
 ### Related Posts:
 
@@ -37,14 +37,14 @@ But these “last common ancestor” numbers derived from coalescence of unipare
 
 Most of you probably know this, but the race is on to sequence the Neandertal genome. Nick Wade [has a decent story on it](http://www.nytimes.com/2006/07/21/science/21neanderthal.html?ei=5094&en=45d8ade594b50f9e&amp;amp;amp;amp;hp=&ex=1153454400&partner=homepage&pagewanted=all). Important point:
 
-> The chimp and human genomes differ at just 1 percent of the sites on > their DNA. At this 1 percent, Neanderthals resemble humans at 96 > percent of the sites \[the first 3 million base pairs\], to judge from > the preliminary work, and chimps at 4 percent.
+> The chimp and human genomes differ at just 1 percent of the sites on their DNA. At this 1 percent, Neanderthals resemble humans at 96 percent of the sites \[the first 3 million base pairs\], to judge from the preliminary work, and chimps at 4 percent.
 
 No surprise, the putative last common ancestor between chimps and humans is 6 million years BP, Neandertals and modern humans is 500,000 years BP, and order of magnitude difference.
 
 But these “last common ancestor” numbers derived from coalescence of uniparental lineages (e.g., mtDNA) should be taken with a grain of salt as sister speies often interbreed, see the work on [baboon hybrid zones](http://www.johnhawks.net/weblog/reviews/neandertals/neandertal_dna/jolly_hybridization_2001.html). Here’s a money shot for GNXP readers:
 
-> A longstanding dispute among archaeologists is whether the modern > humans who first entered Europe 45,000 years ago, ultimately from > Africa, interbred with the Neanderthals or forced them into > extinction. Interbreeding could have been genetically advantageous to > the incoming humans, says Bruce Lahn, a geneticist at the University > of Chicago, because the Neanderthals were well adapted to the cold > European climate – the last ice age had another 35,000 years to run – > and to local diseases. >
-> Evidence from the human genome suggests some interbreeding with an > archaic species, Dr. Lahn said, which could have been Neanderthals or > other early humans.
+> A longstanding dispute among archaeologists is whether the modern > humans who first entered Europe 45,000 years ago, ultimately from > Africa, interbred with the Neanderthals or forced them into > extinction. Interbreeding could have been genetically advantageous to > the incoming humans, says Bruce Lahn, a geneticist at the University of Chicago, because the Neanderthals were well adapted to the cold European climate – the last ice age had another 35,000 years to run – and to local diseases. >
+> Evidence from the human genome suggests some interbreeding with an archaic species, Dr. Lahn said, which could have been Neanderthals or other early humans.
 
 ### Related Posts:
 

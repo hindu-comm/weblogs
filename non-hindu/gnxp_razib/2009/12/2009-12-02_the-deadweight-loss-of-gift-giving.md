@@ -13,7 +13,8 @@ The Deadweight Loss of Gift Giving
 
 ### Related Posts:
 
-- [Loss](https://www.gnxp.com/WordPress/2007/05/23/loss/) - [Free 23andMe
+- [Loss](https://www.gnxp.com/WordPress/2007/05/23/loss/)
+- [Free 23andMe
   genotyping](https://www.gnxp.com/WordPress/2012/02/20/free-23andme-genotyping/) - [Inequality &
   wealth](https://www.gnxp.com/WordPress/2009/11/02/inequality-wealth/) - [Bay Area Population Genomics (BAPG) IX
   Conference](https://www.gnxp.com/WordPress/2013/09/11/bay-area-population-genomics-bapg-ix-conference/) - [The season needs no

@@ -21,7 +21,8 @@ Daily Data Dump – Wednesday
 
 ### Related Posts:
 
-- ["Diversity"](https://www.gnxp.com/WordPress/2006/11/10/diversity/) - [Linguistic diversity =
+- ["Diversity"](https://www.gnxp.com/WordPress/2006/11/10/diversity/)
+- [Linguistic diversity =
   poverty](https://www.gnxp.com/WordPress/2010/07/15/linguistic-diversity-poverty/) - [Daily Data Dump -
   Monday](https://www.gnxp.com/WordPress/2010/07/26/daily-data-dump-monday-10/) - [Cultural Diversity, Economic Development and
   Societal…](https://www.gnxp.com/WordPress/2010/07/25/cultural-diversity-economic-development-and-societal-instability/) - [Political unification leads to the spread of

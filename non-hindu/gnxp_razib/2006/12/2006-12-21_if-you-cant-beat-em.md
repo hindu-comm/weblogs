@@ -13,11 +13,11 @@ Scoop out their sperm!!!
 
 I’m writing a series on human behavioral ecology over [here](https://matt-at-berkeley.blogspot.com), and am currently writing about sperm competition. Obviously, any strategy that enhances your likelihood of fertilization should be strongly favored by natural selection. In particular, I was thinking of probabilistic strategies that enhance the likelihood that your sperm does the job (as compared to rival males sperm). In insects, penile morphology has somewhat frequently evolved to incorporate a complex “sperm scooping” device.
 
-> On an aside, I note that the complex penile morphology (sperm > scoopers) is conspicuously missing from Dembski’s list of > “things-too-complex-to-have-evolved” without a designer.
+> On an aside, I note that the complex penile morphology (sperm scoopers) is conspicuously missing from Dembski’s list of “things-too-complex-to-have-evolved” without a designer.
 
 Anyway, I found a paper that describes the human penis as a sperm displacement device (full text [here](http://human-nature.com/ep/downloads/ep021223.pdf)).
 
-> Selected Excerpt: “…found that males appear to modify the use of their > penis in ways that are consistent with the displacement hypothesis. > Based on anonymous surveys of over 600 college students, many sexually > active males and females reported deeper and more vigorous thrusting > when in-pair sex occurred under conditions related to an increased > likelihood of female infidelity.”
+> Selected Excerpt: “…found that males appear to modify the use of their > penis in ways that are consistent with the displacement hypothesis. > Based on anonymous surveys of over 600 college students, many sexually active males and females reported deeper and more vigorous thrusting when in-pair sex occurred under conditions related to an increased likelihood of female infidelity.”
 
 Man isn’t science fun…
 

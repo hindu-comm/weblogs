@@ -25,7 +25,7 @@ That would be big news, and makes me continually ask myself: where is the discon
 
 I used the [2022 United Nations World Population Prospects](https://population.un.org/wpp/) (WPP) data (public) to build a list of countries that had the largest fractional declines in total fertility rate (TFR) from 2010 to 2019 (pre-COVID), and that also had projections in previous U.N. WPP products back to 2010. I show how (not) well the U.N. expectations match the actual story for these cases. I also throw in a few other countries of interest, including the three most populous ones.
 
-# The Top Drops
+## The Top Drops
 
 I will present six fast-decline countries in the order of greatest to least fractional drop in TFR from 2010 to 2019, before throwing on a few important population players. For each plot, the thick blue line reflects past data from the U.N.’s 2022 WPP effort. Dotted lines represent projections from WPP efforts in 2010, 2012, 2015, 2017, and 2019. Often the left edges are discernible to help sort them out. In each case, the latest 2022 projection (beginning 2021) is a blue dotted line, and fashioned (by the U.N.) to match up to the solid curve to avoid artificial disconnects. In some cases, I supplement with updated TFR reports from credible sources, shown as red circles.
 
@@ -77,7 +77,7 @@ South Korea went from a TFR of 1.22 to 0.91 from 2010–2019, dropping to 75.1% 
 
 Okay: this one is pretty amusing to me as well. Korea has such a low TFR that it seems as if demographers simply don’t have a room in their imaginary house for such behavior to persist, and insist that fertility must execute a corrective rise any year now. “Pull up! Pull up!” But it just doesn’t. It has its own plans, and the gall to drop further against professional advisement. As was the case for Finland, it seems the 2019 model is the first to concede perhaps a smidge more decline before resuming a climb: a modicum of patience that was not respected. The latest data point indicates that the 2022 projection was another swing and a miss.
 
-# The Big Three
+## The Big Three
 
 Now here are the three countries with the largest populations.
 
@@ -108,7 +108,7 @@ The United States went from a TFR of 1.93 to 1.69 from 2010–2019, dropping to 
 
 This plot calls to mind the American flag: stars and stripes. Oh, say does that star-spangled banner yet wave… an expression of patriotism? Anyway, somewhat resembling the Finland drop, the U.S. has embarked on a rapid decline in TFR starting around 2008 (year of financial crisis…). The U.N. model, fully up to date on the stats kept saying: Nope. Nope. Nope. I’m not listening! Perhaps it was exciting in 2015 when the madness may have appeared to be over based on that little “shelf.” The next two trends launched from this shelf to execute an anticipated “recovery.”
 
-# Bonus: Italy
+## Bonus: Italy
 
 Okay, I threw in a bonus round, because I was curious to see another example of a low-TFR European country. This, then, is not part of an unbiased sample, but also does not represent a “cherry-picking” process: Italy was my first/only pick, and here it is:
 
@@ -116,7 +116,7 @@ Okay, I threw in a bonus round, because I was curious to see another example of 
 
 The impression one gets is similar to what derived from previous examples: the U.N. model seems to be allergic to low TFR, desperate to get things “back to normal,” and whiffing on predicting downturns, to this day.
 
-# My Take-Away
+## My Take-Away
 
 I embarked on an unbiased exploration of the question: how well do the U.N. demographic models capture sharp declines in birth rates of late, and how are they performing on the most populous countries?
 

@@ -11,8 +11,8 @@ In search of rare variants
 
 In response to the *NEJM* issue on personal genomics and the CDCV hypothesis, [p-ter offers a proposal](https://www.gnxp.com/blog/2009/04/argument-for-searching-for-rare.php):
 
-> Let’s follow Goldstein’s back-of-the-envelope calculations: assume > there are \~100K polymorphisms (assuming Goldstein isn’t making the > mistake I attribute to him, this includes polymorphisms both common > and rare) that contribute to human height, that we’ve found the ones > that account for the largest fractions of the variance, and that these > fractions of variance follow an exponential distribution.  
-> Now, assume you have assembled a cohort of 5000 individuals and done a > genome-wide association study using common SNPs. You find some > interesting things, but you want more. Now, you have two choices: > sequence those 5000 individuals to look for rarer variation, or > increase sample size to 20,000 and perform another association study > using the same set of common polymorphisms.
+> Let’s follow Goldstein’s back-of-the-envelope calculations: assume > there are \~100K polymorphisms (assuming Goldstein isn’t making the > mistake I attribute to him, this includes polymorphisms both common and rare) that contribute to human height, that we’ve found the ones that account for the largest fractions of the variance, and that these fractions of variance follow an exponential distribution.  
+> Now, assume you have assembled a cohort of 5000 individuals and done a > genome-wide association study using common SNPs. You find some > interesting things, but you want more. Now, you have two choices: sequence those 5000 individuals to look for rarer variation, or increase sample size to 20,000 and perform another association study using the same set of common polymorphisms.
 
 Read the whole thing.
 

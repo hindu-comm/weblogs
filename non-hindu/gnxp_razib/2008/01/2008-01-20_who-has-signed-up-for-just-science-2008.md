@@ -53,7 +53,8 @@ I’ve placed the list of current sign ups for **[Just Science 2008](http://www.
 
 ### Related Posts:
 
-- [RSS feed](https://www.gnxp.com/WordPress/2010/03/30/rss-feed/) - [Just Science 2008
+- [RSS feed](https://www.gnxp.com/WordPress/2010/03/30/rss-feed/)
+- [Just Science 2008
   feed](https://www.gnxp.com/WordPress/2008/02/03/just-science-2008-feed/) - [Just Science 2008
   feed](https://www.gnxp.com/WordPress/2008/02/03/just-science-2008-feed/) - [Gene Expression moves to
   WP](https://www.gnxp.com/WordPress/2010/02/23/gene-expression-moves-to-wp/) - [Please change RSS feeds if you

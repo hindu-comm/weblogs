@@ -17,7 +17,8 @@ Posted by razib at [10:53 PM](https://www.gnxp.com/MT2/archives/003983.html) [](
 
 ### Related Posts:
 
-- [GNXP Wiki](https://www.gnxp.com/WordPress/2006/09/13/gnxp-wiki/) - [Technical
+- [GNXP Wiki](https://www.gnxp.com/WordPress/2006/09/13/gnxp-wiki/)
+- [Technical
   difficulties....](https://www.gnxp.com/WordPress/2005/02/28/technical-difficulties/) - [IE CSS
   issue](https://www.gnxp.com/WordPress/2008/11/29/ie-css-issue/) - [An Assyrian genotype for the taking (and
   more)](https://www.gnxp.com/WordPress/2011/05/15/an-assyrian-genome-for-the-taking-and-more/) - [Admin note](https://www.gnxp.com/WordPress/2005/07/03/admin-note-2/) - [Administrative

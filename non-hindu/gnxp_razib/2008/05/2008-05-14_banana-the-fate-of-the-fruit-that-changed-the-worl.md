@@ -21,7 +21,7 @@ It seems in the case of plantains the leap to genetic modification is occurring 
 **Note:** The [Banana](http://www.bananabook.org/) website.  
 **Update:** One portion of my post above needs some elaboration:
 
-> Despite all the problems (e.g., pathogen load) associated with living > in an underdeveloped tropical country, if you had some marginal income > the diversity of fruit accessible because of local abundance is > something that American supply chains can never recreate.
+> Despite all the problems (e.g., pathogen load) associated with living in an underdeveloped tropical country, if you had some marginal income the diversity of fruit accessible because of local abundance is something that American supply chains can never recreate.
 
 I’m not dissing modern economics and agricultural science here. Just noting, as Koeppel emphasizes, that nature places limits on the ability to transport particular food-stuffs efficiently to economies of scale. Perhaps one day we’ll find cheaper & more efficient ways to preserve fruits, I don’t know. Modern agriculture has on radically increased the ability of the **average** person to purchase a wide array of goods all things being equal. I suspect in Singapore many more tropical fruits can be had simply because of proximity. I just want to clarify this because to a great extent I led a privileged life as a small child in Bangladesh, and much of the population lived on the margins of subsistence.  
 1 – I want to be clear here that most Bangladeshis obviously didn’t get to enjoy the largresse of the local biodiversity. They were poor.

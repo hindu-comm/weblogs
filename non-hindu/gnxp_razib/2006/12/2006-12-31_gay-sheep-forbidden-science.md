@@ -11,7 +11,7 @@ Gay sheep, forbidden science?
 
 [Science told: hands off gay sheep](http://www.timesonline.co.uk/article/0,,2087-2524408,00.html):
 
-> Scientists are conducting experiments to change the sexuality of “gay” > sheep in a programme that critics fear could pave the way for breeding > out homosexuality in humans.
+> Scientists are conducting experiments to change the sexuality of “gay” sheep in a programme that critics fear could pave the way for breeding out homosexuality in humans.
 
 You can read the whole article yourself. [Randall Parker](http://futurepundit.com/) has been saying for years that **genetic engineering will accentuate human differences as parents will choose to invest in alternative enhancements with their finite dollars**. The vectors may remain the same, but the magnitudes could increase, as religious parents breed super-religious offspring, secular parents start spawning born atheists, and what not. There is a pretty obvious and straightforward way for homosexuals to calm down their fears that straight parents will genetically engineer out their orientation (ergo, community): **breed gay babies**. If scientists can understand homosexuality well enough to “cure” it, then they could certainly turn fetuses gay.
 

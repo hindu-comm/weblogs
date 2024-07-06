@@ -11,12 +11,12 @@ Variation as the ultimate
 
 Many of you have heard of the [Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_Game):
 
-> The ultimatum game is an experimental economics game in which two > parties interact anonymously and only once, so reciprocation is not an > issue. The first player proposes how to divide a sum of money with the > second party. If the second player rejects this division, neither gets > anything. If the second accepts, the first gets his demand and the > second gets the rest.
+> The ultimatum game is an experimental economics game in which two > parties interact anonymously and only once, so reciprocation is not an > issue. The first player proposes how to divide a sum of money with the second party. If the second player rejects this division, neither gets anything. If the second accepts, the first gets his demand and the second gets the rest.
 
 In *theory* a “rational” player should accept whatever is offered when there isn’t a repeated iteration. Reality is different. From *[The Economist](http://www.economist.com/displaystory.cfm?story_id=9433782)*:
 
-> …Those results recorded, Dr Burnham took saliva samples from all the > students and compared the testosterone levels assessed from those > samples with decisions made in the one-round game.  
-> As he describes in the Proceedings of the Royal Society, the > responders who rejected a low final offer had an average testosterone > level more than 50% higher than the average of those who accepted. > Five of the seven men with the highest testosterone levels in the > study rejected a \$5 ultimate offer but only one of the 19 others made > the same decision.
+> …Those results recorded, Dr Burnham took saliva samples from all the students and compared the testosterone levels assessed from those samples with decisions made in the one-round game.  
+> As he describes in the Proceedings of the Royal Society, the > responders who rejected a low final offer had an average testosterone > level more than 50% higher than the average of those who accepted. Five of the seven men with the highest testosterone levels in the study rejected a \$5 ultimate offer but only one of the 19 others made the same decision.
 
 What does this tell us? That physiological variables which are under biological (and ultimately genetic) control can affect the typical behavior a given individual exhibits, and, that that behavior can vary despite the same inputs across the population. There isn’t any one *H. economicus*, there are *many* different ways humans interact and their propensity for a particular strategy might be conditional upon biological parameters.
 
@@ -42,12 +42,12 @@ Reality is complex. I’m alluding here to the interaction of genetic parameters
 
 Many of you have heard of the [Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_Game):
 
-> The ultimatum game is an experimental economics game in which two > parties interact anonymously and only once, so reciprocation is not an > issue. The first player proposes how to divide a sum of money with the > second party. If the second player rejects this division, neither gets > anything. If the second accepts, the first gets his demand and the > second gets the rest.
+> The ultimatum game is an experimental economics game in which two > parties interact anonymously and only once, so reciprocation is not an > issue. The first player proposes how to divide a sum of money with the second party. If the second player rejects this division, neither gets anything. If the second accepts, the first gets his demand and the second gets the rest.
 
 In *theory* a “rational” player should accept whatever is offered when there isn’t a repeated iteration. Reality is different. From *[The Economist](http://www.economist.com/displaystory.cfm?story_id=9433782)*:
 
-> …Those results recorded, Dr Burnham took saliva samples from all the > students and compared the testosterone levels assessed from those > samples with decisions made in the one-round game. >
-> As he describes in the Proceedings of the Royal Society, the > responders who rejected a low final offer had an average testosterone > level more than 50% higher than the average of those who accepted. > Five of the seven men with the highest testosterone levels in the > study rejected a \$5 ultimate offer but only one of the 19 others made > the same decision.
+> …Those results recorded, Dr Burnham took saliva samples from all the students and compared the testosterone levels assessed from those samples with decisions made in the one-round game. >
+> As he describes in the Proceedings of the Royal Society, the > responders who rejected a low final offer had an average testosterone > level more than 50% higher than the average of those who accepted. Five of the seven men with the highest testosterone levels in the study rejected a \$5 ultimate offer but only one of the 19 others made the same decision.
 
 What does this tell us? That physiological variables which are under biological (and ultimately genetic) control can affect the typical behavior a given individual exhibits, and, that that behavior can vary despite the same inputs across the population. There isn’t any one *H. economicus*, there are *many* different ways humans interact and their propensity for a particular strategy might be conditional upon biological parameters.
 

@@ -11,7 +11,7 @@ Elsevier-funded NY Congresswoman Carolyn Maloney Wants to Deny Americans Access 
 
 I basically repeated the title from [Michael Eisen](http://www.michaeleisen.org/blog/?p=807), who has the [details over at his weblog](http://www.michaeleisen.org/blog/?p=807). A minor side point, **if I blog on a paper you can’t get access to, [contact](http://www.razib.com/) me and I’m sure I can fix that situation.** In any case, the point here is that apparently Congress, thanks to the prodding of representative Carolyn Maloney, is attempting to end the practice whereby NIH funded research becomes “open” after 12 months. Here’s what Michael suggests you do:
 
-> So I urge you to call/write/email/tweet Representative Maloney today, > and tell her you support taxpayer access to biomedical research > results. Ask her why she wants cancer patients to pay Elsevier \$25 to > access articles they’ve already paid for. And demand that she withdraw > H.R. 3699. >
+> So I urge you to call/write/email/tweet Representative Maloney today, > and tell her you support taxpayer access to biomedical research results. Ask her why she wants cancer patients to pay Elsevier \$25 to access articles they’ve already paid for. And demand that she withdraw H.R. 3699. >
 > Representative Maloney: >
 > Twitter: @RepMaloney @CarolynBMaloney >
 > Phone: 202-225-7944 >

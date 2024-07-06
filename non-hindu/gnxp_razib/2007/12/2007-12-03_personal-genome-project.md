@@ -15,7 +15,8 @@ Apparently the initial goal is to sequence the “exome” (ie. the 2-3% of the 
 
 ### Related Posts:
 
-- [Ask GNXP - personal genome
+- [Ask GNXP
+- personal genome
   sequence](https://www.gnxp.com/WordPress/2006/07/25/ask-gnxp-personal-genome-sequence/) - [Venter
   profile](https://www.gnxp.com/WordPress/2006/06/27/venter-profile/) - [On genetic
   privacy](https://www.gnxp.com/WordPress/2013/03/29/on-genetic-privacy/) - [The Tuatara

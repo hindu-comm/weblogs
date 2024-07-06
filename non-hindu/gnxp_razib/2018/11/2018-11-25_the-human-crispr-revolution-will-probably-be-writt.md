@@ -11,7 +11,7 @@ The human CRISPR revolution will probably be written in Chinese
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/crack_in_creation.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/crack_in_creation.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B01I4FPNNQ/geneexpressio-20/ref=as_at/?imprToken=nI2WcW-BmeFPRAFuSD4W7w&slotNum=0&imprToken=tD8XW2sLSv6f12lna0Hoyw&slotNum=0&imprToken=t9fzMS-D3IgC75NCvbxELw&slotNum=0&creativeASIN=1400032059&linkCode=w61&imprToken=PbhERoJIK5xi4ypDSzT-vA&slotNum=0)I am probably biased because of my professional focus, but this may be the biggest story of 2018, [Chinese scientists are creating CRISPR babies](https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/):
 
-> According to Chinese medical documents posted online this month (here > and here), a team at the Southern University of Science and > Technology, in Shenzhen, has been recruiting couples in an effort to > create the first gene-edited babies. They planned to eliminate a gene > called CCR5 in order to render the offspring resistant to HIV, > smallpox, and cholera.
+> According to Chinese medical documents posted online this month (here > and here), a team at the Southern University of Science and > Technology, in Shenzhen, has been recruiting couples in an effort to create the first gene-edited babies. They planned to eliminate a gene called CCR5 in order to render the offspring resistant to HIV, smallpox, and cholera.
 
 We knew this was coming. Soon. But now we can confirm it. It confirms my assumption that gene editing in the human context is going to mostly focus on preventing disease in the near future. In a world of low fertility, every expectant parent prays (literally or metaphorically) for a healthy child. After the child is born they can think about other things like how tall they are going to be or how smart they are. But health, that is always the number one concern.
 
@@ -24,9 +24,9 @@ The future is here. We’re just along for the ride….
 **Update:** A computational biologist at Fudan University doesn’t believe in the results:
 
 > I think the story about “Chinese CRISPR babies” is false. >
-> I also think that there is much less resistance to the idea in China > than in Judeo-Christian societies. >
-> So, whether this story is true or not in 2018, it will most likely be > true (in some form) by 2028. >
-> — Luis Pedro Coelho (@luispedrocoelho) [November 26, > 2018](https://twitter.com/luispedrocoelho/status/1066977116716179458?ref_src=twsrc%5Etfw)
+> I also think that there is much less resistance to the idea in China than in Judeo-Christian societies. >
+> So, whether this story is true or not in 2018, it will most likely be true (in some form) by 2028. >
+> — Luis Pedro Coelho (@luispedrocoelho) [November 26, 2018](https://twitter.com/luispedrocoelho/status/1066977116716179458?ref_src=twsrc%5Etfw)
 
 ### Related Posts:
 

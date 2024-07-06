@@ -11,7 +11,7 @@ They're called "peer reviewers"
 
 George Monbiot’s piece, [Academic publishers make Murdoch look like a socialist](http://www.guardian.co.uk/commentisfree/2011/aug/29/academic-publishers-murdoch-socialist), is making the rounds. This paragraph jumped out at me:
 
-> Murdoch pays his journalists and editors, and his companies generate > much of the content they use. But the academic publishers get their > articles, **their peer reviewing (vetting by other researchers) and > even much of their editing for free.** The material they publish was > commissioned and funded not by them but by us, through government > research grants and academic stipends. But to see it, we must pay > again, and through the nose
+> Murdoch pays his journalists and editors, and his companies generate > much of the content they use. But the academic publishers get their > articles, **their peer reviewing (vetting by other researchers) and > even much of their editing for free.** The material they publish was commissioned and funded not by them but by us, through government research grants and academic stipends. But to see it, we must pay again, and through the nose
 
 It reminded me of this scene from the *South Park* episode [Crack Baby Athletic Association](http://www.southparkstudios.com/full-episodes/s15e05-crack-baby-athletic-association) (click):
 

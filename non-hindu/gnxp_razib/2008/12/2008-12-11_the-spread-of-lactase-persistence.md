@@ -11,10 +11,10 @@ The spread of lactase persistence
 
 Interesting bit of [interdisciplinary work](http://www.news.harvard.edu/gazette/2008/12.11/11-past.html) on the spread of lactase persistance:
 
-> Thomas found that the gene variant coincided well with the rise of > animal domestication, indicating that humans became dairy farmers > almost as soon as they began to keep animals.  
-> To track the gene’s spread across Europe, Thomas designed a computer > model that took into account both archaeological and genetic data. He > then ran multiple simulations, randomly changing other variables and > looking for patterns that matched what is known today.  
-> The closest matches pegged the rise of milk-drinking Europeans to > about 7,400 years ago in central Europe. **The spread matched the > known rapid spread of Europe’s first farmers, the Linearbandkeramik > culture.**  
-> “The spread of the LP variation was shaped by selection and by an > underlying demographic process, the spread of farming,” Thomas said.
+> Thomas found that the gene variant coincided well with the rise of animal domestication, indicating that humans became dairy farmers almost as soon as they began to keep animals.  
+> To track the gene’s spread across Europe, Thomas designed a computer model that took into account both archaeological and genetic data. He then ran multiple simulations, randomly changing other variables and looking for patterns that matched what is known today.  
+> The closest matches pegged the rise of milk-drinking Europeans to about 7,400 years ago in central Europe. **The spread matched the known rapid spread of Europe’s first farmers, the Linearbandkeramik culture.**  
+> “The spread of the LP variation was shaped by selection and by an underlying demographic process, the spread of farming,” Thomas said.
 
 **Related:** Posts on [lactase persistence](https://www.google.com/cse?cx=017254414699180528062:uyrcvn__yd0&q=lactase+persistence+site:http://scienceblogs.com/gnxp/&sa=Search).
 

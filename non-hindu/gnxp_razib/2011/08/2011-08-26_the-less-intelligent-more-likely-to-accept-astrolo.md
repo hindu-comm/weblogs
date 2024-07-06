@@ -11,7 +11,7 @@ The less intelligent more likely to accept astrology as scientific
 
 Over at [Culture of Science](http://www.cultureofscience.com/2011/08/25/is-astrology-scientific/) Sheril Kirshenbaum posts a figure from the NSF displaying what proportion of those without high school educations and those with college educations accept the scientific status of astrology. It’s pretty clear to me that this is the ASTROSCI variable from the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10). It asks:
 
-> Would you say that astrology is very scientific, sort of scientific, > or not at all scientific?
+> Would you say that astrology is very scientific, sort of scientific, or not at all scientific?
 
 It’s also nice that this question was only asked in the latter half of the 2000s. So it’s timely in terms of demographic breakdowns. Speaking of which, here are a whole host of classes and their attitudes toward astrology’s scientific status:
 

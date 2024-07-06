@@ -15,7 +15,7 @@ But it’s not just disease. A few years ago I [noticed](https://www.gnxp.com/Wo
 
 Nevertheless, using the genomic resources now available to us, a few years ago [researchers developed methods looking deep in the genome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5182071/) and found evidence of selection in English populations over the last few thousand years. One of those characteristics was pigmentation. Using similar methods, the Estonian group has found something similar, [Differences in local population history at the finest level: the case of the Estonian population](https://www.nature.com/articles/s41431-020-0699-4), has found something similar:
 
-> Another SNP from this list, rs7114857, **lies within the GRM5 gene > which has been shown previously to be a potential target of natural > selection for the pigmentation phenotype** \[28\]. See Supplementary > text 5.4 for details.
+> Another SNP from this list, rs7114857, **lies within the GRM5 gene which has been shown previously to be a potential target of natural selection for the pigmentation phenotype** \[28\]. See Supplementary text 5.4 for details.
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/07/georgecwilliams.jpeg?resize=173%2C291&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/07/georgecwilliams.jpeg?resize=173%2C291&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0691182868/geneexpressio-20)If you look at my post above, it’s pretty clear Baltic populations were pretty fair-skinned 3,000 years ago. But, these are the fairest populations in the world. And, it looks like that both ancient DNA and “best-of-breed” selection detection methods like SDS are pointing to further allele frequency shifts on the margin.
 

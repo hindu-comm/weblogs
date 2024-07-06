@@ -11,9 +11,9 @@ Death to heretics….
 
 This [letter](http://lsj.com/apps/pbcs.dll/article?AID=/20060705/OPINION02/607050335&) to the editor in the Lansing State Journal is making the rounds on the blogosphere:
 
-> …Islam is a guide for humanity, for all times, until the day of > judgment. It is forbidden in Islam to convert to any other religion. > The penalty is death. There is no disagreement about it. >
-> Islam is being embraced by people of other faiths all the time. They > should know they can embrace Islam, but cannot get out. This rule is > not made by Muslims; it is the supreme law of God. >
-> Please do not ask us Muslims to pick some rules and disregard other > rules. Muslims are supposed to embrace Islam in its totality. >
+> …Islam is a guide for humanity, for all times, until the day of judgment. It is forbidden in Islam to convert to any other religion. The penalty is death. There is no disagreement about it. >
+> Islam is being embraced by people of other faiths all the time. They should know they can embrace Islam, but cannot get out. This rule is not made by Muslims; it is the supreme law of God. >
+> Please do not ask us Muslims to pick some rules and disregard other rules. Muslims are supposed to embrace Islam in its totality. >
 > Nazra Quraishi  
 > East Lansing
 
@@ -31,7 +31,7 @@ The question though moves on to the West and its own values. Do you believe in g
 
 Addendum: The individual above works for an [Islamic Sunday School](http://www.lansingislam.com/sunday.htm#timings) in East Lansing. He[re is a response](http://vh10019.sns.gbahn.net/viewtopic.php?t=1829) from a Muslim doctor to the letter to the editor. He states:
 
-> Death for apostasy is a very successful **meme** and was adopted with > varying degrees of rigor by these schools, but since most of their > other rules and regulations are no longer a part of muslim life, one > wonders why death for apostasy should continue to be Ms. Qureshi’s pet > cause?
+> Death for apostasy is a very successful **meme** and was adopted with > varying degrees of rigor by these schools, but since most of their other rules and regulations are no longer a part of muslim life, one wonders why death for apostasy should continue to be Ms. Qureshi’s pet cause?
 
 I find the use of the term “meme” amusing, as it was coined by a militant atheist and turned against religion as a whole. But, in any case, what is the “real Islam” here? Well, that isn’t particularly relevant, what is relevant is that the blasphemer Nazra Quraishi works to indoctrinate children, and it seems quite likely that she promoting anti-liberal heresy. Now, as civilized folk we can not consign Nazra Quraishi to the pyre, or behead her, the punishment for incorrect belief is not death. But, incorrect belief must be fought. The reality is that the types who end up teaching “Sunday School” as a vocation are often rather primitive and cognitively deficient in American Islamic communities, forgi  
 ve her my fellow citizens, for she knows not what to think. Especially in immigrant Muslim communities stacked with busy successful professionals teaching Sunday school would likely be the lot of those with little better to do and an attenuated life of the mind. But from these isolated bush fires can blasphemous heresy eventually explode in a conflagoration unless counter-measures are taken.

@@ -11,7 +11,7 @@ On economic growth projections
 
 [Alex Tabarrok](http://www.marginalrevolution.com/marginalrevolution/2010/01/soviet-growth-american-textbooks.html) has the back story on the [infamous Paul Samuelson projections about Soviet growth](http://www.marginalrevolution.com/marginalrevolution/2010/01/soviet-growth-american-textbooks.html). It gets interesting:
 
-> Tarshis and Heilbroner were more liberal than Samuelson and McConnell > but offered a more nuanced, descriptive and tentative account of the > Soviet economy. Why? **Levy and Peart argue that they were saved from > error not by skepticism about the Soviet Union per se but rather by > skepticism about the power of simple economic theories to fully > describe the world in the absence of rich institutional detail.**
+> Tarshis and Heilbroner were more liberal than Samuelson and McConnell > but offered a more nuanced, descriptive and tentative account of the > Soviet economy. Why? **Levy and Peart argue that they were saved from error not by skepticism about the Soviet Union per se but rather by skepticism about the power of simple economic theories to fully describe the world in the absence of rich institutional detail.**
 
 The issue can be generalized to many domains outside economics. If someone tells you that Polaris will be in the same position in the sky that it is today in [26,000 years](https://en.wikipedia.org/wiki/North_Star#Past_and_future), all things equal, trust them. If someone then goes on to preface a description of social model with “assuming current rates of….”, and then projects beyond a generation, be very cautious.
 

@@ -13,7 +13,8 @@ In some quarters it is now “conventional wisdom” that Google Glass is going 
 
 ### Related Posts:
 
-- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/) - [Is this a parody of James
+- [Firelight](https://www.gnxp.com/WordPress/2009/11/19/firelight/)
+- [Is this a parody of James
   Franco?](https://www.gnxp.com/WordPress/2011/03/04/is-this-a-parody-of-james-franco/) - [M\$'s IBM
   moment?](https://www.gnxp.com/WordPress/2009/07/13/ms-ibm-moment/) - [Administrative note on the Science Fiction
   weblog](https://www.gnxp.com/WordPress/2005/07/15/administrative-note-on-the-science-fiction-weblog/) - [Has the Insane Clown Posse gone

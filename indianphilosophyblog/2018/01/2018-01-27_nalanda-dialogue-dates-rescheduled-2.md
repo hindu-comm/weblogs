@@ -78,7 +78,9 @@ concerns.
 An impressive variety if of issues had already been singled out which
 can be further translated tro look for better interdisciplinary norms of
 comparison within empirical framework . Some of the issues are –  
-1. Identity and Individuation 2. Free Will 3. Metaphysics of Relation
+1. Identity and Individuation
+2. Free Will
+3. Metaphysics of Relation
 ..  
 12th Nalanda Dialog hopes to add more to this list or at least to add
 variation to the existing list.

@@ -15,7 +15,8 @@ Summer has come
 
 ### Related Posts:
 
-- [Nerd alert!](https://www.gnxp.com/WordPress/2011/03/03/nerd-alert-3/) - [Dances with Dragons, t-minus \~ 1
+- [Nerd alert!](https://www.gnxp.com/WordPress/2011/03/03/nerd-alert-3/)
+- [Dances with Dragons, t-minus \~ 1
   month](https://www.gnxp.com/WordPress/2011/06/08/dances-with-dragons-t-minus-month/) - [George R. R. Martin in The New
   Yorker](https://www.gnxp.com/WordPress/2011/04/04/george-r-r-martin-in-the-new-yorker/) - [George R. R. Martin confirms the great
   fork](https://www.gnxp.com/WordPress/2016/01/02/george-r-r-martin-confirms-the-great-fork/) - [A Dance with Dragons, day

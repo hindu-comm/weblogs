@@ -23,7 +23,8 @@ Lessons? From now on, only books from Amazon. They’ve clearly “gone Dell” 
 
 ### Related Posts:
 
-- [Talk Islam](https://www.gnxp.com/WordPress/2008/04/26/talk-islam/) - [The biophysical limits of cognitive
+- [Talk Islam](https://www.gnxp.com/WordPress/2008/04/26/talk-islam/)
+- [The biophysical limits of cognitive
   computation](https://www.gnxp.com/WordPress/2010/03/23/the-biophysical-limits-of-cognitive-computation/) - [Open Thread,
   9/22/2013](https://www.gnxp.com/WordPress/2013/09/22/open-thread-9222013/) - [Guessing Game - no, not
   her!](https://www.gnxp.com/WordPress/2006/01/11/guessing-game-no-not-her/) - [Egypt going to kill its

@@ -15,11 +15,11 @@ A strong viewpoint is not always a problem. The ideal of objectivity is often an
 
 Jenkins is an Episcopalian who has an affinity for the more traditionalist streams of Christian faith and practicecoming out of what is now termed the “Global South.” He is probably most well known for his lengthy exposition on this topic in his book [The Next Christendom: The Coming of Global Christianity](https://www.amazon.com/exec/obidos/ASIN/019518307X/geneexpressio-20), though I personally find that his book on Europe, [God’s Continent: Christianity, Islam, and Europe’s Religious Crisis](https://www.amazon.com/exec/obidos/ASIN/0195384628//geneexpressio-20), more original. In his popular works Philip Jenkins writes in a manner which makes it clear that he is broadly in agreement with the claims of the Christian religion. There is no doubt in that. But he is also a man who [can say something like this](http://www.npr.org/templates/story/story.php?storyId=124494788&ps=cprs):
 
-> “Much to my surprise, the Islamic scriptures in the Quran were > actually far less bloody and less violent than those in the Bible,” > Jenkins says. >
-> Jenkins is a professor at Penn State University and author of two > books dealing with the issue: the recently published Jesus Wars, and > Dark Passages , which has not been published but is already drawing > controversy. >
-> Violence in the Quran, he and others say, is largely a defense against > attack. >
-> **“By the standards of the time**, which is the 7th century A.D., the > laws of war that are laid down by the Quran are actually reasonably > humane,” he says. “Then we turn to the Bible, and we actually find > something that is for many people a real surprise. There is a specific > kind of warfare laid down in the Bible which we can only call > genocide.” >
-> It is called herem, and it means total annihilation. Consider the Book > of 1 Samuel, when God instructs King Saul to attack the Amalekites: > “And utterly destroy all that they have, and do not spare them,” God > says through the prophet Samuel. “But kill both man and woman, infant > and nursing child, ox and sheep, camel and donkey.”
+> “Much to my surprise, the Islamic scriptures in the Quran were actually far less bloody and less violent than those in the Bible,” Jenkins says. >
+> Jenkins is a professor at Penn State University and author of two books dealing with the issue: the recently published Jesus Wars, and Dark Passages , which has not been published but is already drawing controversy. >
+> Violence in the Quran, he and others say, is largely a defense against attack. >
+> **“By the standards of the time**, which is the 7th century A.D., the > laws of war that are laid down by the Quran are actually reasonably > humane,” he says. “Then we turn to the Bible, and we actually find something that is for many people a real surprise. There is a specific kind of warfare laid down in the Bible which we can only call genocide.” >
+> It is called herem, and it means total annihilation. Consider the Book > of 1 Samuel, when God instructs King Saul to attack the Amalekites: “And utterly destroy all that they have, and do not spare them,” God says through the prophet Samuel. “But kill both man and woman, infant and nursing child, ox and sheep, camel and donkey.”
 
 “By the standards of the time” is critical. Much of the genocidal coloring of the Bible comes from the passages in the Hebrew Bible, a product of the late Bronze Age. In contrast the Koran is a product of a world where “higher religions” with formally developed ethical theories were waxing. The rhetoric of genocide as grand strategy was replaced with the implementation of genocide as a tactic of necessity. Similarly, the Book of Mormon reflects an understanding of archaeology totally in keeping with early 19th century America.
 
@@ -59,7 +59,8 @@ We live today on the cusp between ages, a time of demographic, cultural, and tec
 
 ### Related Posts:
 
-- [Welcome](https://www.gnxp.com/WordPress/2010/03/25/welcome/) - [What is a scientific or religious world
+- [Welcome](https://www.gnxp.com/WordPress/2010/03/25/welcome/)
+- [What is a scientific or religious world
   view?](https://www.gnxp.com/WordPress/2006/05/21/what-is-a-scientific-or-religious-world-view/) - [This book is a big
   \*wow\*](https://www.gnxp.com/WordPress/2010/12/09/this-book-is-a-big-wow/) - [The intellectual poverty of identity politics
   &…](https://www.gnxp.com/WordPress/2013/07/30/the-intellectual-poverty-of-identity-politics-orientalism/) - [List-mania](https://www.gnxp.com/WordPress/2006/05/19/list-mania/) - [FAQ](https://www.gnxp.com/WordPress/faq/)

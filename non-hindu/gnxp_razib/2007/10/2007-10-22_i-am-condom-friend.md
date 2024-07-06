@@ -13,7 +13,8 @@ Via [SM](http://www.sepiamutiny.com/sepia/).
 
 ### Related Posts:
 
-- [Small world](https://www.gnxp.com/WordPress/2008/08/05/small-world/) - [Baby math & the racist
+- [Small world](https://www.gnxp.com/WordPress/2008/08/05/small-world/)
+- [Baby math & the racist
   friend](https://www.gnxp.com/WordPress/2006/09/15/baby-math-the-racist-friend/) - [Fair & balanced on
   circumsion](https://www.gnxp.com/WordPress/2011/04/04/fair-balanced-on-circumsion/) - [Got Microsoft
   stock?](https://www.gnxp.com/WordPress/2006/08/27/got-microsoft-stock/) - [Hot chicks and

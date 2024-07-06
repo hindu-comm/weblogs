@@ -15,11 +15,11 @@ Ma’s recent papers (especially [this one](http://personal.lse.ac.uk/mad1/ma_pd
 
 One quote from the abstract of the first-linked paper:
 
-> Matching caloric and protein contents in our Japanese consumption > baskets with those in European baskets, we compare Japanese and > European urban real wages. Real wage rates in Kyoto and later Tokyo > are about a third London wages but comparable to wages in major > Southern and Central European cities for the 1700-1900 \[period\].
+> Matching caloric and protein contents in our Japanese consumption > baskets with those in European baskets, we compare Japanese and European urban real wages. Real wage rates in Kyoto and later Tokyo are about a third London wages but comparable to wages in major Southern and Central European cities for the 1700-1900 \[period\].
 
 From the abstract of the second-linked paper:
 
-> In the eighteenth century, the real income of building workers in Asia > was similar to that of workers in the backward parts of Europe and far > behind that of workers in the leading economies in northwestern > Europe. Industrialization led to rising real wages in Europe and > Japan. Real wages declined in China in the eighteenth and early > nineteenth centuries….
+> In the eighteenth century, the real income of building workers in Asia > was similar to that of workers in the backward parts of Europe and far > behind that of workers in the leading economies in northwestern Europe. Industrialization led to rising real wages in Europe and Japan. Real wages declined in China in the eighteenth and early nineteenth centuries….
 
 A lot of Ma’s work is Japan v. China, not Asia v. Europe, so both lines of his agenda are likely of interest to GNXP readers. Given the overfishing in the pool of English-language economic history documents, Ma should be able to just throw his net overboard and pull in the big hauls for at least another decade.
 

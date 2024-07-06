@@ -17,8 +17,8 @@ This points to the second issue. Not only is there is a human universal of offen
 
 But let’s put the shoe on the other foot here. Would Americans tolerate anti-American preaching from Muslim clerics in this country? We can explore this with the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) with the SPKMSLM variable. It asks:
 
-> Now consider a Muslim clergyman who preaches hatred of the United > States. >
-> If such a person wanted to make a speech in your community preaching > hatred of the United States, should he be allowed to speak, or not?
+> Now consider a Muslim clergyman who preaches hatred of the United States. >
+> If such a person wanted to make a speech in your community preaching hatred of the United States, should he be allowed to speak, or not?
 
 The question was asked in 2008 and 2010. Since the sample sizes are large I’ll limit to non-Hispanic whites first.
 
@@ -70,7 +70,8 @@ There are other similar variables in related to free speech. One pattern is clea
 
 ### Related Posts:
 
-- [FAQ](https://www.gnxp.com/WordPress/faq/) - [The God Delusion in The
+- [FAQ](https://www.gnxp.com/WordPress/faq/)
+- [The God Delusion in The
   Economist](https://www.gnxp.com/WordPress/2006/10/08/the-god-delusion-in-the-economist/) - [The vast majority of Muslims believe that being gay is
   not…](https://www.gnxp.com/WordPress/2017/04/02/the-vast-majority-of-muslims-believe-that-being-gay-is-not-morally-acceptable/) - [Numbers,
   numbers](https://www.gnxp.com/WordPress/2007/03/17/numbers-numbers/) - [No

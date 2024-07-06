@@ -18,14 +18,14 @@ It starts out somewhat ludicrously: “Her son Leo has black skin and her daught
 
 Second:
 
-> She was adopted when she was four years old, and her birth mother is > Afro-Caribbean and her British birth father was white. Her DNA tests > revealed that, genetically, she was exactly 50% African and 50% > European. >
-> This is very unusual, **and the results suggested that Shirley’s > mother had pure African roots**, and that her ancestors must have > moved from Africa to the Caribbean quite recently.
+> She was adopted when she was four years old, and her birth mother is Afro-Caribbean and her British birth father was white. Her DNA tests revealed that, genetically, she was exactly 50% African and 50% European. >
+> This is very unusual, **and the results suggested that Shirley’s mother had pure African roots**, and that her ancestors must have moved from Africa to the Caribbean quite recently.
 
 Not necessarily. Mixed-race people, especially those with recent admixture, don’t have their different ancestral components distributed equally across their genome. It may be that in the process of sampling chromosomes from this individual’s Afro-Caribbean mother she received almost none of the European quantum, perhaps localized to a few chromosomal segments. This “noise” in the process explains why I seem to carry an elevated proportion of East Asian ancestry in relation to both of my parents. I simply received genetic copies sampled from the more “East Asian” regions of my parents’ genomes.
 
 Next:
 
-> “Our skin colour is determined by a number of gene variants – at least > 20 variants, I would say, probably quite a few more than that,” says > Dr Wilson.
+> “Our skin colour is determined by a number of gene variants – at least 20 variants, I would say, probably quite a few more than that,” says Dr Wilson.
 
 This is complicated, but I’d say that the good doctor is misleading the audience. Skin color seems to be a quantitative trait where you can explain the vast majority of **between population variation** with only a few genes, at most six. When it comes to European-African difference variants at two loci, *SLC24A5* and *KITLG* can account for well over half of the difference. It is true that there are many, many, genes that effect skin color, but there is a definite distribution where the vast majority of genes tweak the trait only on the margins. In other words, there may be 20 variants (there are more), but for good predictive power at the inter-population level you’re good to go with 4 or 5.
 
@@ -33,7 +33,7 @@ I specify inter-population level, because within populations the gene set which 
 
 Now let’s move on to the common idea that darkness dominates over lightness:
 
-> As in a painter’s palette, in the skin the presence of pigment > dominates the absence of pigment, so the fact that Hope is white is > very unusual.
+> As in a painter’s palette, in the skin the presence of pigment dominates the absence of pigment, so the fact that Hope is white is very unusual.
 
 This is [hypodescent](https://en.wikipedia.org/wiki/Hypodescent) popping up again. Though in the West we live in an anti-racist age, at least notionally, it is interesting how concepts and models from a white supremacist era remain operative, at least implicitly. The idea that whites are recessive to non-whites makes totally sense if you code anyone with visible non-white ancestry as non-white. Even if they are genetically more white than not. The rationale for this model was the idea that there is a reversion to the more “primitive” type. So a cross between a black and a white produced a black, and a cross between a Nordic and a Mediterranean produced a Mediterranean. Inferiority taints the purity of superiority.
 

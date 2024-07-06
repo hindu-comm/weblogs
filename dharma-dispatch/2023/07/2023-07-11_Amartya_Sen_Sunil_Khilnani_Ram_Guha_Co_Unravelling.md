@@ -69,7 +69,7 @@ But an honest study of this so-called Western intellectual tradition shows that 
 
 The history of the same period also reveals that the attempt to examine the Western intellectual tradition from the Bharatiya standpoint was initiated by the luminaires of the modern Hindu Renaissance but it was tragically short-circuited by the destructive copper wire of Nehruvian secularism. Much unexplored literature on this subject beckons the interested researcher. Here is just the tiniest sample, a model of how such comparative analyses must be made.
 
-> If Socrates and Plato, Wordsworth and Carlyle, Goethe and > Emerson…represent \[Western\] civilization, it is not, then, very > different from our own. BUT THEY ARE NOT ITS EXPONENTS. IT HAS GROWN > IN SPITE OF THEM. THEIR TEACHINGS HAVE MOSTLY BEEN CRIES IN THE > WILDERNESS. BIGOTRY, INTOLERANCE, JEALOUSY, COMPETITION, AGGRESSION, > AND SELFISHNESS ARE AMONG THE MOST SALIENT FEATURES OF THE > CIVILIZATION OF THE WEST. Therefore, while assimilating it, we should > beware of its evils. (*Capitalisation Added)*
+> If Socrates and Plato, Wordsworth and Carlyle, Goethe and > Emerson…represent \[Western\] civilization, it is not, then, very > different from our own. BUT THEY ARE NOT ITS EXPONENTS. IT HAS GROWN > IN SPITE OF THEM. THEIR TEACHINGS HAVE MOSTLY BEEN CRIES IN THE > WILDERNESS. BIGOTRY, INTOLERANCE, JEALOUSY, COMPETITION, AGGRESSION, AND SELFISHNESS ARE AMONG THE MOST SALIENT FEATURES OF THE CIVILIZATION OF THE WEST. Therefore, while assimilating it, we should beware of its evils. (*Capitalisation Added)*
 
 This was the iconic DVG speaking in 1908 at the Chennai Jana Sangham, when he was a mere boy of twenty-one. That he gave this lecture at the height of British colonial rule in the lucrative Madras Presidency shows the strength of the iron that throbbed within him. Other stalwarts of his generation were also made of the same iron. A hundred and thirteen years later, *where* is that contemporary Hindu “intellectual” who can speak the same truth about the West even in a diluted version? In “independent” India. What is also notable in DVG’s speech is the natural flow of this assessment: shorn of pedantry, devoid of bush-beating, it is plain truth stated plainly, a candour emanating from irrepressible cultural self-confidence.
 
@@ -79,7 +79,7 @@ A major consequence of the Macaulayization of Hindus was the creation of a new H
 
 To turn to DVG once more, this is how he outlines the contours of the Macaulayite class:
 
-> How could I fall into the error of making a missionary of myself? It > is only people wanting in modesty that conceive great ideas of > themselves and their so-called missions here.
+> How could I fall into the error of making a missionary of myself? It is only people wanting in modesty that conceive great ideas of themselves and their so-called missions here.
 
 He wrote this in a letter to his friend, Narasimha Murthy in a different context but the description is apt. The “mission” that he alludes to is symptomatic of the incurable malaise of the so-called Indian intellectuals: self-righteousness and a notion of self-infallibility in their illusive quest to “correct” the wrongs of society. In reality, it is not a quest but a crusade of the worst sort.
 

@@ -11,13 +11,14 @@ TC Boyle and the genetics of pain
 
 TC Boyle, perhaps my favorite modern short story writer, has a decent little piece in this week’s New Yorker. The subject: a child who can’t feel pain, performs tortuous tricks for money, and end up killing himself by jumping off a building. It was kind of fun to recognize that this wasn’t just something he came up with off the top of his head–it’s actually someone’s life story. Some of you may remember [this Nature paper](http://www.nature.com/nature/journal/v444/n7121/abs/nature05413.html) from a while back, but if not, I’ll [refresh your memory](https://www.gnxp.com/blog/2006/12/freaks.php):
 
-> The index case for the present study was a ten-year-old child, well > known to the medical service after regularly performing ‘street > theatre’. He placed knives through his arms and walked on burning > coals, but experienced no pain. He died before being seen on his > fourteenth birthday, after jumping off a house roof.
+> The index case for the present study was a ten-year-old child, well > known to the medical service after regularly performing ‘street theatre’. He placed knives through his arms and walked on burning coals, but experienced no pain. He died before being seen on his fourteenth birthday, after jumping off a house roof.
 
 The story describes exactly that. Another of Boyle’s memorable stories involves a primatologist who ends up sleeping with one of her subjects; one can only hope the inspiration for that one is not equally based in fact.
 
 ### Related Posts:
 
-- [Freaks!](https://www.gnxp.com/WordPress/2006/12/13/freaks/) - [Hypotheses from the New
+- [Freaks!](https://www.gnxp.com/WordPress/2006/12/13/freaks/)
+- [Hypotheses from the New
   Yorker?](https://www.gnxp.com/WordPress/2007/09/22/hypotheses-from-the-new-yorker/) - [The Appalachia rural West Virginia of Asia strikes
   again!](https://www.gnxp.com/WordPress/2006/12/14/the-appalachia-rural-west-virginia-of-asia-strikes-again/) - [Hot peppers &
   pain](https://www.gnxp.com/WordPress/2008/09/29/hot-peppers-pain/) - [The human

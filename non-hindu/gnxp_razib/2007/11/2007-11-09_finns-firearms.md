@@ -11,10 +11,10 @@ Finns & firearms
 
 Hm. I wonder if Finn-baiting might not be so safe. See [here](http://www.slate.com/id/2177687/):
 
-> Although gun violence is very rare in Finland, the country has the > highest rate of firearm ownership in Europe and the third highest in > the world, behind only the United States and Yemen. Why do so many > Finns own firearms? >
+> Although gun violence is very rare in Finland, the country has the highest rate of firearm ownership in Europe and the third highest in the world, behind only the United States and Yemen. Why do so many Finns own firearms? >
 > They’re hunters….  
 > …  
-> While Finns have a reputation for violence, firearms almost never > enter the picture. Finland does have the highest murder rate in > Western Europe, but those cases-commonly related to alcohol or > domestic abuse-often involve knives rather than guns.
+> While Finns have a reputation for violence, firearms almost never enter the picture. Finland does have the highest murder rate in Western Europe, but those cases-commonly related to alcohol or domestic abuse-often involve knives rather than guns.
 
 Since when was Finland in Western [Europe](http://www.traveldocs.com/images/europe_b.jpg)?
 

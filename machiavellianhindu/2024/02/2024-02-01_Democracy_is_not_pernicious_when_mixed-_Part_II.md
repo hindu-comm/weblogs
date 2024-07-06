@@ -89,7 +89,7 @@ Nevertheless, the data available to us, inferred or actual, especially from Dr. 
 
 But Dr. Majumdar makes some errors in his judgement, and specifically, of attributing representative democracy to Athens, which is false in toto. Maybe his assertion is due to the assembly not being composed of every citizen in Athens during the four monthly sessions, and since it was always a part which participated, maybe he infers wrongly that the ones who did were representatives, if he calls the citizens participating in the ekklesia as representatives in the sense of modern parliamentarians, though he correctly remarks that the demes were miniatures of the greater city, but beyond this he states, along with many other authors, contemporary and ancient, that India had many democratic states in antiquity. Of antiquity let the words of Strabo be enough:
 
-> Generally speaking, the men who have written on the affairs of India > were a set of liars >
+> Generally speaking, the men who have written on the affairs of India were a set of liars >
 > -Strabo, Geography
 
 This claim of democratic states is fallacious and one probable cause is that these modern scholars were not extremely familiar with western political theory and did not consider constitutions like the Athenian, Roman or the Spartan as the benchmarks for democratic elements after establishing soundly, a theory of government types. While we know of some democratic notions, like the words of Aitareya Brāhmaṇa which say that uttara kuru and uttara madra had the entire populace dedicated to kingship, and this has uncanny resemblance to Aristotle's statement that the people together becomes a monarch in a democracy, one individual composed of many, this is not enough to ascertain everything, since the working of these states is not very well attested in archaeological or cultural records, and all that we know of them is tentative. Now as we move to real world examples, it will be clear.
@@ -136,7 +136,7 @@ And now, let us turn to the question of factions, for they result from a bad mix
 
 Factions are held to be pernicious by everyone who deals with preservation of republics, and especially Machiavelli and Aristotle. As such, the root of factions is considered to be inequality. It works in two ways, as seen in Aristotle's work.
 
-> Inequality is the root of factions. Those who have less, resort to > faction, and do so if they believe themselves to be equals to the > rich. Those who are rich resort to faction if they feel themselves to > be lesser or equal to the others. These feelings are just at times and > unjust at times. The inferior take to factions for equality, and the > equals for greatness over the others. Factions are stirred up for > honour and profit, and to avoid dishonour and loss, whether it be for > self or for others. >
+> Inequality is the root of factions. Those who have less, resort to > faction, and do so if they believe themselves to be equals to the > rich. Those who are rich resort to faction if they feel themselves to > be lesser or equal to the others. These feelings are just at times and > unjust at times. The inferior take to factions for equality, and the equals for greatness over the others. Factions are stirred up for honour and profit, and to avoid dishonour and loss, whether it be for self or for others. >
 > Aristotle, Politics
 
 Below, one can see what the causes of factions are, as written in Aristotle's Politics.
@@ -151,27 +151,27 @@ Below, one can see what the causes of factions are, as written in Aristotle's Po
 
 Machiavelli explains to us in his work The Prince, that:
 
-> Our ancients, and those who were esteemed wise, used to say that it > was necessary to hold Pistoia with parties and Pisa with fortresses; > and because of this they nourished differences in some towns subject > to them, so as to hold them more easily. In times when Italy was in > balance in a certain mode, holding cities by factions would have been > good to do, but I do not believe that one could give it today as a > teaching. For I do not believe that divisions ever do any good; on the > contrary, when the enemy approaches, of necessity divided cities are > immediately lost, because the weaker party always joins the external > forces and the other will not be able to rule. >
+> Our ancients, and those who were esteemed wise, used to say that it > was necessary to hold Pistoia with parties and Pisa with fortresses; > and because of this they nourished differences in some towns subject > to them, so as to hold them more easily. In times when Italy was in > balance in a certain mode, holding cities by factions would have been > good to do, but I do not believe that one could give it today as a > teaching. For I do not believe that divisions ever do any good; on the contrary, when the enemy approaches, of necessity divided cities are immediately lost, because the weaker party always joins the external forces and the other will not be able to rule. >
 > Machiavelli, The Prince
 
-> Such modes, therefore, imply weakness in the prince. For in a vigorous > principality such divisions are never permitted, because they bring > profit only in time of peace, as subjects can be managed more easily > through them; but when war comes, such an order shows its own > fallaciousness. >
+> Such modes, therefore, imply weakness in the prince. For in a vigorous > principality such divisions are never permitted, because they bring profit only in time of peace, as subjects can be managed more easily through them; but when war comes, such an order shows its own fallaciousness. >
 > Machiavelli, The Prince
 
 Though this relates to provinces of principalities, it demonstrates to us that factions are pernicious, for they will always pose danger when you are confronted with an enemy.
 
 Han Fei tells us in his work Han Feizi, in the context of King Hsüan of Han, choosing between Kung Shu and Kung Chung, that:
 
-> "Now suppose Your Majesty employ both of them. Then the more powerful > one will form his own faction inside while the less powerful one will > count on foreign influence. Among the body of officials, if there are > some forming factions inside and thereby acting arrogant towards the > sovereign and some others cultivating friendships with foreign states > and thereby causing territorial dismemberment, then Your Majesty’s > state will be jeopardized" >
+> "Now suppose Your Majesty employ both of them. Then the more powerful > one will form his own faction inside while the less powerful one will > count on foreign influence. Among the body of officials, if there are > some forming factions inside and thereby acting arrogant towards the sovereign and some others cultivating friendships with foreign states and thereby causing territorial dismemberment, then Your Majesty’s state will be jeopardized" >
 > Han Feizi, Collected Persuasions: The Upper Series
 
 Also, in the chapter on pretensions and heresies:
 
-> It was the states to the east of Mount Hua whose officials formed > factions, associated for selfish purposes and thereby obscured the > right way of government and committed crookedness in secret, and whose > territories were dismembered and sovereigns humiliated. >
+> It was the states to the east of Mount Hua whose officials formed factions, associated for selfish purposes and thereby obscured the right way of government and committed crookedness in secret, and whose territories were dismembered and sovereigns humiliated. >
 > Han Feizi, On Pretensions and Heresies
 
 And finally in the chapter on wielding the sceptre:
 
-> "Any ruler wishing to give peace to the state must disperse the > partisans of powerful ministers. If he does not disperse their > partisans, they will enlarge their parties" >
+> "Any ruler wishing to give peace to the state must disperse the partisans of powerful ministers. If he does not disperse their partisans, they will enlarge their parties" >
 > Han Feizi, Wielding the Sceptre
 
 Let these be enough as to the nature of what factions may lead us to.
@@ -204,7 +204,7 @@ In all these things, his goal is to create inequality and suspicion among men, a
 
 Machiavelli on the lines of what Kautilya advises, says this:
 
-> For the causes of division in a commonwealth are, for the most part, > ease and tranquillity, while the causes of union are fear and war. > Wherefore, had the Veientes been wise, the more divided they saw Rome > to be, the more should they have sought to avoid war with her, and > endeavoured to gain an advantage over her by peaceful arts. And the > best way to effect this in a divided city lies in gaining the > confidence of both factions, and in mediating between them as arbiter > so long as they do not come to blows; but when they resort to open > violence, then to render some tardy aid to the weaker side, so as to > plunge them deeper in hostilities, wherein both may exhaust their > forces without being led by your putting forth an excess of strength > to suspect you of a desire to ruin them and remain their master. Where > this is well managed, it will almost always happen that you succeed in > effecting the object you propose to yourself. >
+> For the causes of division in a commonwealth are, for the most part, > ease and tranquillity, while the causes of union are fear and war. > Wherefore, had the Veientes been wise, the more divided they saw Rome > to be, the more should they have sought to avoid war with her, and > endeavoured to gain an advantage over her by peaceful arts. And the > best way to effect this in a divided city lies in gaining the > confidence of both factions, and in mediating between them as arbiter > so long as they do not come to blows; but when they resort to open > violence, then to render some tardy aid to the weaker side, so as to > plunge them deeper in hostilities, wherein both may exhaust their > forces without being led by your putting forth an excess of strength to suspect you of a desire to ruin them and remain their master. Where this is well managed, it will almost always happen that you succeed in effecting the object you propose to yourself. >
 > Niccolò Machiavelli, Discourses on Livy, Book 2, Chapter 26
 
 Yet, these tactics would fail, if liberty and equality were made cornerstones of constitutional governments and of the gaṇarājya-s as well, and it is seen in the affairs of Rome and Sparta, where as long as factions were kept away by maintaining liberty and equality among men, they could not be destroyed from within, or without.
@@ -213,20 +213,20 @@ One sees the failure of seizing a divided city with Rome, when the Veientes atta
 
 Machiavelli again tells us in his discourses that:
 
-> Thus this conclusion may be drawn from this discourse: that he who > wishes to make a republic where there are very many gentlemen cannot > do it unless he first eliminates all of them; and that he who is where > there is very much equality and wishes to make a kingdom or a > principality will never be able to make it unless he draws from that > equality many of ambitious and unquiet spirit and makes them gentlemen > in fact, and not in name, granting them castles and possessions and > giving them favor in belongings and men. So placed in the midst of > them, through them he maintains his power, and they, through him, > maintain their ambition. The others are constrained to endure the yoke > that force, and never anything else, can make them endure. >
+> Thus this conclusion may be drawn from this discourse: that he who > wishes to make a republic where there are very many gentlemen cannot > do it unless he first eliminates all of them; and that he who is where > there is very much equality and wishes to make a kingdom or a > principality will never be able to make it unless he draws from that > equality many of ambitious and unquiet spirit and makes them gentlemen > in fact, and not in name, granting them castles and possessions and > giving them favor in belongings and men. So placed in the midst of them, through them he maintains his power, and they, through him, maintain their ambition. The others are constrained to endure the yoke that force, and never anything else, can make them endure. >
 > Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 55
 
 Who these gentlemen are, is said in the same chapter:
 
-> Those republics in which a political and uncorrupt way of life is > maintained do not endure that any citizen of them either be or live in > the usage of a gentleman; indeed, they maintain among themselves an > even equality, and to the lords and gentlemen who are in that province > they are very hostile. If by chance some fall into their hands, they > kill them as the beginnings of corruption and the cause of every > scandal. >
-> To clarify this name of gentlemen such as it may be, I say that those > are called gentlemen who live idly in abundance from the returns of > their possessions without having any care either for cultivation or > for other necessary trouble in living. Such as these are pernicious in > every republic and in every province, but more pernicious are those > who, beyond the aforesaid fortunes, command from a castle and have > subjects who obey them. >
+> Those republics in which a political and uncorrupt way of life is > maintained do not endure that any citizen of them either be or live in > the usage of a gentleman; indeed, they maintain among themselves an > even equality, and to the lords and gentlemen who are in that province they are very hostile. If by chance some fall into their hands, they kill them as the beginnings of corruption and the cause of every scandal. >
+> To clarify this name of gentlemen such as it may be, I say that those > are called gentlemen who live idly in abundance from the returns of > their possessions without having any care either for cultivation or > for other necessary trouble in living. Such as these are pernicious in every republic and in every province, but more pernicious are those who, beyond the aforesaid fortunes, command from a castle and have subjects who obey them. >
 > -Niccolo Machiavelli, Discourses on Livy, Book 1, Chapter 55
 
 And from this, we draw the conclusion, that the great indeed stir up faction more than the masses, for as we have seen it in part 1, that so great is the ambition of the great, that it soon brings to ruin a city if it is not beaten down by various ways and modes.
 
 This is further corroborated by Aristotle, who says that :
 
-> Democracy is safer and less liable to faction than Oligarchy. In > oligarchies, two factions arise, one between the oligarchs and the > people, and one of the oligarchs among themselves. In democracies, on > the other hand, the only faction that arises is against oligarchy; > internal faction within a democracy virtually never occurs. >
+> Democracy is safer and less liable to faction than Oligarchy. In > oligarchies, two factions arise, one between the oligarchs and the people, and one of the oligarchs among themselves. In democracies, on the other hand, the only faction that arises is against oligarchy; internal faction within a democracy virtually never occurs. >
 > Aristotle, Politics, Book V
 
 But the terms of liberty and equality, which bring with them vice today, may be distasteful to the virtuous man, yet, such liberty and equality must be pursued, which keeps constitutions safe and sound, since history tells us that with liberty and equality, Rome maintained her Republic until Caesar, and so did Athens, after multiple struggles against tyrants and oligarchs until the Macedonians subdued her, and Sparta until the Romans absorbed her.

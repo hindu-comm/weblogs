@@ -11,11 +11,11 @@ Optimism across the world
 
 ![090524122539-large.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/090524122539-large.jpg?resize=363%2C209)![090524122539-large.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/090524122539-large.jpg?resize=363%2C209)[People By Nature Are Universally Optimistic, Study Shows](http://www.sciencedaily.com/releases/2009/05/090524122539.htm):
 
-> Data from the Gallup World Poll drove the findings, with adults in > more than 140 countries providing a representative sample of 95 > percent of the world’s population. The sample included more than > 150,000 adults.  
-> Eighty-nine percent of individuals worldwide expect the next five > years to be as good or better than their current life, and 95 percent > of individuals expected their life in five years to be as good or > better than their life was five years ago.  
+> Data from the Gallup World Poll drove the findings, with adults in more than 140 countries providing a representative sample of 95 percent of the world’s population. The sample included more than 150,000 adults.  
+> Eighty-nine percent of individuals worldwide expect the next five years to be as good or better than their current life, and 95 percent of individuals expected their life in five years to be as good or better than their life was five years ago.  
 > …  
-> At the country level, optimism is highest in Ireland, Brazil, Denmark, > and New Zealand and lowest in Zimbabwe, Egypt, Haiti and Bulgaria. The > United States ranks number 10 on the list of optimistic countries.  
-> Demographic factors (age and household income) appear to have only > modest effects on individual levels of optimism.
+> At the country level, optimism is highest in Ireland, Brazil, Denmark, and New Zealand and lowest in Zimbabwe, Egypt, Haiti and Bulgaria. The United States ranks number 10 on the list of optimistic countries.  
+> Demographic factors (age and household income) appear to have only modest effects on individual levels of optimism.
 
 I suspect that a sunny outlook isn’t just relevant in a cross-country sense. Without optimism where would all the entrepreneurs be? Would anyone start a new restaurant? Optimism helps people think they’ll beat the odds in a risky proposition. Though there’s some interpersonal variation in risk aversion, I suspect that there isn’t enough to explain the types of people who repeatedly enter into very low probability of success, though high reward, activities. And these very activities are often the motors behind economic growth through positive externalities.
 

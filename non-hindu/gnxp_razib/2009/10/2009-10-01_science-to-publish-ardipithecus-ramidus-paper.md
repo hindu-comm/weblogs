@@ -11,7 +11,7 @@ Science to publish Ardipithecus ramidus paper
 
 That’s what [Kambiz Kamrani](http://anthropology.net/2009/10/01/the-4-4-million-year-old-ardipithecus-ramidus/) is saying. Significance:
 
-> Owen Lovejoy is one of the authors of the paper, and he says that the > fossil changes the notion that humans and chimps, our closest genetic > cousins, both trace their lineage to a creature that was more like > today’s chimp and we’ll have to be rewriting our text books soon. This > is big folks. What this means is that our common ancestor was a > bipedal forest forager and that chimps were an evolutionary offshoot.
+> Owen Lovejoy is one of the authors of the paper, and he says that the > fossil changes the notion that humans and chimps, our closest genetic > cousins, both trace their lineage to a creature that was more like today’s chimp and we’ll have to be rewriting our text books soon. This is big folks. What this means is that our common ancestor was a bipedal forest forager and that chimps were an evolutionary offshoot.
 
 **Update:** [John Hawks](http://johnhawks.net/weblog/fossils/ardipithecus/ardipithecus-faq-2009.html) & [Carl Zimmer](http://blogs.discovermagazine.com/loom/2009/10/01/ardipithecus-we-meet-at-last/).  
 **Update II:** *Science*‘s [Ardipithecus](http://www.sciencemag.org/ardipithecus/) page is up. You can get the papers free with registration.
@@ -32,7 +32,7 @@ That’s what [Kambiz Kamrani](http://anthropology.net/2009/10/01/the-4-4-millio
 
 That’s what [Kambiz Kamrani](http://anthropology.net/2009/10/01/the-4-4-million-year-old-ardipithecus-ramidus/) is saying. Significance:
 
-> Owen Lovejoy is one of the authors of the paper, and he says that the > fossil changes the notion that humans and chimps, our closest genetic > cousins, both trace their lineage to a creature that was more like > today’s chimp and we’ll have to be rewriting our text books soon. This > is big folks. What this means is that our common ancestor was a > bipedal forest forager and that chimps were an evolutionary offshoot.
+> Owen Lovejoy is one of the authors of the paper, and he says that the > fossil changes the notion that humans and chimps, our closest genetic > cousins, both trace their lineage to a creature that was more like today’s chimp and we’ll have to be rewriting our text books soon. This is big folks. What this means is that our common ancestor was a bipedal forest forager and that chimps were an evolutionary offshoot.
 
 **Update:** [John Hawks](http://johnhawks.net/weblog/fossils/ardipithecus/ardipithecus-faq-2009.html) & [Carl Zimmer](http://blogs.discovermagazine.com/loom/2009/10/01/ardipithecus-we-meet-at-last/).
 

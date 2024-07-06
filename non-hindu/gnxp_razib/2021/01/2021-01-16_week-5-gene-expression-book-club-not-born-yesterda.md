@@ -19,7 +19,8 @@ Humans are OK at weighing expertise, and gauging a sense when majority opinion c
 
 ### Related Posts:
 
-- [Week 4, Gene Expression Book Club - Not Born
+- [Week 4, Gene Expression Book Club
+- Not Born
   Yesterday](https://www.gnxp.com/WordPress/2021/01/10/week-4-gene-expression-book-club-not-born-yesterday/) - [Week 1, Gene Expression book
   club](https://www.gnxp.com/WordPress/2020/10/10/week-1-gene-expression-book-club/) - [Gene Expression Book Club - it's off to the
   races!](https://www.gnxp.com/WordPress/2020/10/08/gene-expression-book-club-its-off/) - [Week 7, Gene Expression Book Club - Not Born

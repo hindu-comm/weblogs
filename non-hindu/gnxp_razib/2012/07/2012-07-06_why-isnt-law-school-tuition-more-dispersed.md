@@ -11,8 +11,8 @@ Why isn't law school tuition more dispersed?
 
 **Update:** OK, this [commenter seems to have a pretty good answer to my question:](http://blogs.discovermagazine.com/gnxp/2012/07/why-isnt-law-school-tuition-more-dispersed/comment-page-1/#comment-141473)
 
-> It’s really pretty simple. There is not a single market for law > schools. The market for each applicant is made up solely of those law > schools that will accept them. >
-> No one who can get into Harvard would consider going to Whittier law > school, whatever the price. But for someone whose LSAT scores place > him in the bottow 40% of test takers, that may be the only option. The > fact that there are better schools at the same price is completely > irrelevant if they won’t accept him.
+> It’s really pretty simple. There is not a single market for law schools. The market for each applicant is made up solely of those law schools that will accept them. >
+> No one who can get into Harvard would consider going to Whittier law > school, whatever the price. But for someone whose LSAT scores place him in the bottow 40% of test takers, that may be the only option. The fact that there are better schools at the same price is completely irrelevant if they won’t accept him.
 
 Similarly, [Ohio Northern University](https://en.wikipedia.org/wiki/Ohio_Northern_University) has a tuition of \~\$35,000 a year. Harvard is \~\$38,000. In hindsight the answer is so obvious I’m either stupid or I hadn’t thought deeply about the issue.
 
@@ -51,7 +51,7 @@ After my [last post on law school](http://blogs.discovermagazine.com/gnxp/2012/0
 
 The bottom 10 are cheaper, but not that much cheaper. **How is it that Thomas Jefferson Law, an institution with a 48 percent bar passage rate, is 80% of the cost of Yale?** Perhaps there are nuances I don’t understand. Here’s the dean of TJL in [The Wall Street Journal](http://professional.wsj.com/article/SB10001424052702304458604577486623469958142.html?mod=WSJ__MIDDLENexttoWhatsNewsTop&mg=reno64-wsj):
 
-> “You can’t measure the value of a law degree in terms of what your > employment number was nine months after graduation,” says Dean Rudy > Hasl. A graduate who takes the California bar exam in July, he says, > won’t get the results until late November. Many employers won’t even > interview a graduate who hasn’t been licensed, Mr. Hasl says, adding > that he advises prospective students to consider the law degree a > long-term investment. **“The law degree is something that allows you > to move in *so many directions*,”** he says.
+> “You can’t measure the value of a law degree in terms of what your > employment number was nine months after graduation,” says Dean Rudy > Hasl. A graduate who takes the California bar exam in July, he says, > won’t get the results until late November. Many employers won’t even > interview a graduate who hasn’t been licensed, Mr. Hasl says, adding that he advises prospective students to consider the law degree a long-term investment. **“The law degree is something that allows you to move in *so many directions*,”** he says.
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/skeptical-cat-is-fraught-with-skepticism-300x225.jpg?resize=300%2C225)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/skeptical-cat-is-fraught-with-skepticism-300x225.jpg?resize=300%2C225)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/skeptical-cat-is-fraught-with-skepticism.jpg)Really? So many directions? The reality is that TJL is *selling*a law degree, for \$41,000 a year (minus cost of living, etc.). Because a TJL law degree is *sold*, rather than earned (granted, by jumping through the GPA/LSAT hoops), it has low signalling value. If it’s a club anyone who can take out loans can buy their way into, why would you want to join?
 

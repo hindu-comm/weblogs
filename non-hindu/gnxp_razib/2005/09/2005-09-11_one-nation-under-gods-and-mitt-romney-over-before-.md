@@ -137,7 +137,7 @@ I will grant that the claims of mainstream Christianity are not so nakedly falsi
 
 In Scott Atran’s [In Gods We Trust](https://www.amazon.com/exec/obidos/ASIN/0195149300/geneexpressio-20/104-3790325-1701525) there is the following contention:
 
-> …disconfirming evidence only seems to make believers try harder to > understand the deeper truth and to strength religious beliefs. For > exampe, after reading a bogus article on a new finding from the Dead > Sea Scrolls that seemed to contradict Christian doctrine, religious > believers who also believed the story reported their religious beliefs > reinforced (Batson 1975)….
+> …disconfirming evidence only seems to make believers try harder to > understand the deeper truth and to strength religious beliefs. For > exampe, after reading a bogus article on a new finding from the Dead Sea Scrolls that seemed to contradict Christian doctrine, religious believers who also believed the story reported their religious beliefs reinforced (Batson 1975)….
 
 In other words, for the vast majority of Mormons, including Harvard educated believers like Mitt Romney, no falsifying information will shake their faith. The [Domneh](https://en.wikipedia.org/wiki/Donmeh) are extreme examples of the inability of believers to accept anything that contradicts their faith, in their case, their Jewish Messiah, [Sabbatai Zvi](https://en.wikipedia.org/wiki/Sabbatai_Zevi), converted to Islam and died a Muslim in good standing. The Domneh outwardly converted to Islam along with their Messiah, but inwardly continued to practice a form of crypto-Judaism and developed a theology which explained away their Messiah’s conversion to Islam as another twist on his Messianic mission.
 

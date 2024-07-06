@@ -11,7 +11,7 @@ Get the facts!
 
 This comment is funny:
 
-> Just because it is lower in calories doesn’t mean that it doesn’t have > poison in it (**toxins such as high fructose corn syrup**). Read the > labels people.
+> Just because it is lower in calories doesn’t mean that it doesn’t have poison in it (**toxins such as high fructose corn syrup**). Read the labels people.
 
 First, watch this video attempting to dispel the myths about high fructose corn syrup:
 

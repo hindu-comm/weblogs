@@ -9,8 +9,8 @@ Source: [here](https://www.gnxp.com/WordPress/2015/09/09/rising-star-expedition-
 
 Rising Star Expedition announcement
 
-> At the time of the Rising Star fossil announcement, > [@novapbs](https://twitter.com/novapbs) will begin streaming the > documentary “Dawn of Humanity” <http://t.co/L1vs3GIMHe> >
-> — John Hawks (@johnhawks) [September 8, > 2015](https://twitter.com/johnhawks/status/641368335725252608)
+> At the time of the Rising Star fossil announcement, [@novapbs](https://twitter.com/novapbs) will begin streaming the documentary “Dawn of Humanity” <http://t.co/L1vs3GIMHe> >
+> — John Hawks (@johnhawks) [September 8, 2015](https://twitter.com/johnhawks/status/641368335725252608)
 
 If you care about human evolution, keep an eye out for reports on what happened in South Africa a few years ago. **A massive cache of bones was discovered.** I’ve been privy to a few preliminary findings, and the implications are explosive, revolutionary, all the hyperbolic language that I tend to avoid. This is a big deal, not just because of the results, but also because of the possibility that this will be an inflection point in how paleoanthropology is done. That is, rather than hoarding fossils the “sharing economy” of science will make itself felt within the individualistic and proprietarydomain of the fossil hunters.
 

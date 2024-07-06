@@ -11,7 +11,7 @@ Jacques Chirac, evolutionary psychologist?
 
 From a [vicious profile](http://www.timesonline.co.uk/printFriendly/0,,1-8807-2165698-13090,00.html) in The Times:
 
-> “We men are like the Cro-Magnon people of prehistoric times,” he once > told me. “We’re always hunting and wenching. But, at the end of the > day, we always go back to our caves. For my part I need this cave to > feel at ease with myself. Without it I would be as unhappy as could > be.”
+> “We men are like the Cro-Magnon people of prehistoric times,” he once > told me. “We’re always hunting and wenching. But, at the end of the day, we always go back to our caves. For my part I need this cave to feel at ease with myself. Without it I would be as unhappy as could be.”
 
 1\. “Wenching”? Did somebody use an online translator here?  
 2. Is it [2007](https://en.wikipedia.org/wiki/French_presidential_election,_2007) yet?

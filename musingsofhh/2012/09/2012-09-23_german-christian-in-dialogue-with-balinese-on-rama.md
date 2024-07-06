@@ -49,7 +49,11 @@ Advertisement
 
 **Tagged with:**
 
-- [bali](https://musingsofhh.wordpress.com/tag/bali/) - [christian](https://musingsofhh.wordpress.com/tag/christian/) - [german](https://musingsofhh.wordpress.com/tag/german/) - [pagan](https://musingsofhh.wordpress.com/tag/pagan/) - [ramayana](https://musingsofhh.wordpress.com/tag/ramayana/)
+- [bali](https://musingsofhh.wordpress.com/tag/bali/)
+- [christian](https://musingsofhh.wordpress.com/tag/christian/)
+- [german](https://musingsofhh.wordpress.com/tag/german/)
+- [pagan](https://musingsofhh.wordpress.com/tag/pagan/)
+- [ramayana](https://musingsofhh.wordpress.com/tag/ramayana/)
 
 **[Perfecting the Aristotelian Political Animal by Christos C.Evangeliou](https://musingsofhh.wordpress.com/2012/08/14/perfecting-the-aristotelian-political-animal-by-christos-c-evangeliou/)**
 

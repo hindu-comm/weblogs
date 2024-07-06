@@ -13,9 +13,9 @@ Western contact with China did not occur 3,000 years ago
 
 E.g., [Western contact with China began long before Marco Polo, experts say](http://www.bbc.com/news/world-asia-china-37624943):
 
-> However, Chinese historians recorded much earlier visits by people > thought by some to have been emissaries from the Roman Empire during > the Second and Third Centuries AD. >
-> “We now have evidence that close contact existed between the First > Emperor’s China and the West before the formal opening of the Silk > Road. This is far earlier than we formerly thought,” said Senior > Archaeologist Li Xiuzhen, from the Emperor Qin Shi Huang’s Mausoleum > Site Museum. >
-> **A separate study shows European-specific mitochondrial DNA has been > found at sites in China’s western-most Xinjiang Province**, suggesting > that Westerners may have settled, lived and died there before and > during the time of the First Emperor.
+> However, Chinese historians recorded much earlier visits by people thought by some to have been emissaries from the Roman Empire during the Second and Third Centuries AD. >
+> “We now have evidence that close contact existed between the First > Emperor’s China and the West before the formal opening of the Silk Road. This is far earlier than we formerly thought,” said Senior Archaeologist Li Xiuzhen, from the Emperor Qin Shi Huang’s Mausoleum Site Museum. >
+> **A separate study shows European-specific mitochondrial DNA has been found at sites in China’s western-most Xinjiang Province**, suggesting that Westerners may have settled, lived and died there before and during the time of the First Emperor.
 
 Let’s go with the easy part first: **there were no “Western” people when the [Afanasevo](https://en.wikipedia.org/wiki/Afanasevo_culture) culture was pushing into the fringes of what is today Xinjiang.**
 

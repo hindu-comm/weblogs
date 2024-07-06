@@ -47,7 +47,8 @@ The moral is – oh, draw your own.
 
 ### Related Posts:
 
-- [What Darwin Said - Part 2: Mechanisms of
+- [What Darwin Said
+- Part 2: Mechanisms of
   Evolution](https://www.gnxp.com/WordPress/2009/06/20/what-darwin-said-part-2-mechanisms-of-evolution/) - [What Darwin Said (Part 3):
   Heredity](https://www.gnxp.com/WordPress/2009/07/25/what-darwin-said-part-3-heredity/) - [The New Yorker has fact-checkers, they should use
   them](https://www.gnxp.com/WordPress/2016/04/28/the-new-yorker-has-fact-checkers-they-should-use-them/) - [My Darwin, right or

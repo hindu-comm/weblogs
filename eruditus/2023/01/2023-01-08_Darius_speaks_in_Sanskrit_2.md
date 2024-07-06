@@ -119,7 +119,7 @@ Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for fre
 
 ***English translation***
 
-> *I am Darius, the great king, king of kings, the king of Persia, king > of lands, Hystaspes’ son, Arsames’ grandson, an Achaemenid. Proclaims > Darius, the king: My father is Hystaspes; the father of Hystaspes (is) > Arsames; the father of Arsames (was) Ariaramnes; the father of > Ariaramnes (was) Teispes; the father of Teispes (was) Achaemenes. > Proclaims Darius, the king: That is why we are called Achaemenids; > from antiquity we are noble; from antiquity has our dynasty been > kings.*
+> *I am Darius, the great king, king of kings, the king of Persia, king > of lands, Hystaspes’ son, Arsames’ grandson, an Achaemenid. Proclaims > Darius, the king: My father is Hystaspes; the father of Hystaspes (is) > Arsames; the father of Arsames (was) Ariaramnes; the father of > Ariaramnes (was) Teispes; the father of Teispes (was) Achaemenes. Proclaims Darius, the king: That is why we are called Achaemenids; from antiquity we are noble; from antiquity has our dynasty been kings.*
 
 *Notes:*
 
@@ -133,11 +133,11 @@ Here’s a Hindi transliteration.
 
 ***Old Persian original***
 
-> *अदम् दारयवौष् क्षायथिय वज़्रक क्षायथिय क्षायथियानाम् क्षायथिय पार्सैय् क्षायथिय > दह्यूनाम् विष्तास्पह्या पुच अर्षामह्या नपा हखामनिषिय थातिय् दारयवौष् क्षायथिय मना > पिता विष्तास्प विष्तास्पह्या पिता अर्षाम अर्षामह्या पिता अरियारम्न अरियारम्नह्या > पिता चिष्पिष् चिष्पाइष् पिता हखामनिष् थातिय् दारयवौष् क्षाथिय अवह्यरादिय् वयम् > हखामनिषिया थह्यामह्य् हचा परुवियत आमाता अमह्य् हचा परुवियत ह्या अमाखम् तौमा > क्षायथिया आह*
+> *अदम् दारयवौष् क्षायथिय वज़्रक क्षायथिय क्षायथियानाम् क्षायथिय पार्सैय् क्षायथिय > दह्यूनाम् विष्तास्पह्या पुच अर्षामह्या नपा हखामनिषिय थातिय् दारयवौष् क्षायथिय मना > पिता विष्तास्प विष्तास्पह्या पिता अर्षाम अर्षामह्या पिता अरियारम्न अरियारम्नह्या पिता चिष्पिष् चिष्पाइष् पिता हखामनिष् थातिय् दारयवौष् क्षाथिय अवह्यरादिय् वयम् हखामनिषिया थह्यामह्य् हचा परुवियत आमाता अमह्य् हचा परुवियत ह्या अमाखम् तौमा क्षायथिया आह*
 
 ***Sanskrit translation***
 
-> *अहम् धारवसुः क्षत्रियः वज्रकःक्षत्रियः क्षत्रियाणाम् क्षत्रियः पारसः क्षत्रियः > दास्यूनाम् विषिताश्वस्य पुत्रः वृषामस्य नप्ता सखमनयः शंसति धारवसुः क्षत्रियः मम पिता > विष्टाश्वः विषिताश्वस्य पिता वृषामः वृषामस्य पिता आर्यरमन आर्यरमनस्य पिता > \[चिष्पः\] \[चिष्पस्य\] पिता सखमनाः शंसति धारवसुः क्षत्रियः अवस्यराधसि वयम् > सखामनसः शंस्यामहे सचा पूर्व्यतः अमात्याः स्मः सचा पूर्व्यतः यत् अस्माकम् तोक्मा > क्षत्रियः आस*
+> *अहम् धारवसुः क्षत्रियः वज्रकःक्षत्रियः क्षत्रियाणाम् क्षत्रियः पारसः क्षत्रियः > दास्यूनाम् विषिताश्वस्य पुत्रः वृषामस्य नप्ता सखमनयः शंसति धारवसुः क्षत्रियः मम पिता > विष्टाश्वः विषिताश्वस्य पिता वृषामः वृषामस्य पिता आर्यरमन आर्यरमनस्य पिता \[चिष्पः\] \[चिष्पस्य\] पिता सखमनाः शंसति धारवसुः क्षत्रियः अवस्यराधसि वयम् सखामनसः शंस्यामहे सचा पूर्व्यतः अमात्याः स्मः सचा पूर्व्यतः यत् अस्माकम् तोक्मा क्षत्रियः आस*
 
 Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for free to receive new posts and support my work.
 

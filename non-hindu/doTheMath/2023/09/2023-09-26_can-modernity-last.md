@@ -61,7 +61,11 @@ The last thing I’ll say about energy foreshadows the ecology section. The ques
 
 In summary, energy:
 
-1.  is fundamental to modernity; 2.  is [responsible](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) for the human population surge and other [hockey sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/); 3.  cannot continue increasing into the future; 4.  has been utterly dominated by a temporary spike of fossil energy; 5.  may not permit modernity’s continuance in non-fossil form; 6.  powers ecological devastation, independent of its source.
+1.  is fundamental to modernity; 2.  is [responsible](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) for the human population surge and other [hockey sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/);
+3.  cannot continue increasing into the future;
+4.  has been utterly dominated by a temporary spike of fossil energy;
+5.  may not permit modernity’s continuance in non-fossil form;
+6.  powers ecological devastation, independent of its source.
 
 ## Materials and Recycling
 
@@ -135,7 +139,7 @@ To me, it is this attitude that defines modernity more than anything else. It is
 
 An [article by Robin Wall Kimmerer](https://www.nytimes.com/2023/09/22/opinion/climate-change-turtles-refugees.html) that appeared last week in the New York Times echos this theme and the core importance of philosophy (worldview), saying:
 
-> We need more than policy change; we need a change in worldview, from > the fiction of human exceptionalism to the reality of our kinship and > reciprocity with the living world. The Earth asks that we renounce a > culture of endless taking so that the world can continue.
+> We need more than policy change; we need a change in worldview, from the fiction of human exceptionalism to the reality of our kinship and reciprocity with the living world. The Earth asks that we renounce a culture of endless taking so that the world can continue.
 
 She is more polite (effective) than I am, using exceptionalism rather than supremacism (which is how I [started out](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/), too).
 

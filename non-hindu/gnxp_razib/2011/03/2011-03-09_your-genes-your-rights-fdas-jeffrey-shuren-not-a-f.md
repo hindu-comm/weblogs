@@ -42,7 +42,8 @@ P.S. Feel free to post info and ideas in the comments. **I just literally woke u
 
 ### Related Posts:
 
-- [Your genes, your rights - FDA's Jeffrey
+- [Your genes, your rights
+- FDA's Jeffrey
   Shuren…](https://www.gnxp.com/WordPress/2011/03/09/your-genes-your-rights-fdas-jeffrey-shuren-not-a-fan/) - [Saturday Stuff - March 12th,
   2011](https://www.gnxp.com/WordPress/2011/03/12/saturday-stuff-march-12th-2011/) - [Top 20 posts in 2011 by comments for
   GNXP](https://www.gnxp.com/WordPress/2011/12/31/top-20-posts-in-2011-by-comments-for-gnxp/) - [Top 20 posts in 2011 by traffic for

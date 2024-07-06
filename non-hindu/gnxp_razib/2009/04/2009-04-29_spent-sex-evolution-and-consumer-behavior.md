@@ -13,7 +13,8 @@ Spent: Sex, Evolution, and Consumer Behavior
 
 ### Related Posts:
 
-- [Sex & choice](https://www.gnxp.com/WordPress/2009/04/23/sex-choice/) - [Scientific Illiteracy and the Partisan Takeover of
+- [Sex & choice](https://www.gnxp.com/WordPress/2009/04/23/sex-choice/)
+- [Scientific Illiteracy and the Partisan Takeover of
   Biology](https://www.gnxp.com/WordPress/2006/04/17/scientific-illiteracy-and-the-partisan-takeover-of-biology/) - [Evolutionary
   Psychology](https://www.gnxp.com/WordPress/2006/08/02/evolutionary-psychology/) - [In the year
   2056](https://www.gnxp.com/WordPress/2006/11/17/in-the-year-2056/) - [Deadweight

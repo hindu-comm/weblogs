@@ -11,19 +11,20 @@ Evolution's gears don't reverse easily
 
 [Evolutionary Adaptations Can Be Reversed, but Rarely](http://www.sciencedaily.com/releases/2011/05/110511162538.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sciencedaily+%28ScienceDaily%3A+Latest+Science+News%29):
 
-> Physicists’ study of evolution in bacteria shows that adaptations can > be undone, but rarely. Ever since Charles Darwin proposed his theory > of evolution in 1859, scientists have wondered whether evolutionary > adaptations can be reversed. Answering that question has proved > difficult, partly due to conflicting evidence. In 2003, scientists > showed that some species of insects have gained, lost and regained > wings over millions of years. But a few years later, a different team > found that a protein that helps control cells’ stress responses could > not evolve back to its original form.
+> Physicists’ study of evolution in bacteria shows that adaptations can > be undone, but rarely. Ever since Charles Darwin proposed his theory > of evolution in 1859, scientists have wondered whether evolutionary > adaptations can be reversed. Answering that question has proved > difficult, partly due to conflicting evidence. In 2003, scientists > showed that some species of insects have gained, lost and regained wings over millions of years. But a few years later, a different team found that a protein that helps control cells’ stress responses could not evolve back to its original form.
 
 Here are the primary results:
 
-> They found that a very small percentage of evolutionary adaptations in > a drug-resistance gene can be reversed, **but only if the adaptations > involve fewer than four discrete genetic mutations.** The findings > will appear in the May 13 issue of the journal Physical Review > Letters. Lead authors of the paper are two MIT juniors, Longzhi Tan > and Stephen Serene.
+> They found that a very small percentage of evolutionary adaptations in > a drug-resistance gene can be reversed, **but only if the adaptations > involve fewer than four discrete genetic mutations.** The findings will appear in the May 13 issue of the journal Physical Review Letters. Lead authors of the paper are two MIT juniors, Longzhi Tan and Stephen Serene.
 
 The paper is [not online yet](https://dx.doi.org/10.1103/PhysRevLett.106.198102). I’ll definitely check it out when it comes out, at least if the math isn’t *too* difficult. The reason is that these sorts of models always rely on simplifying assumptions, and they may not have insights which are robust to the chaotic nature of reality. This is hinted at in the last section of the press release:
 
-> In a follow-up study, the researchers are looking at how the rate of > environmental change affects the reversibility of evolution. In the > Physical Review Letters study, they assumed an immediate switch > between two environments, but they believe that more gradual changes > might alter the rate of reversal.
+> In a follow-up study, the researchers are looking at how the rate of > environmental change affects the reversibility of evolution. In the Physical Review Letters study, they assumed an immediate switch between two environments, but they believe that more gradual changes might alter the rate of reversal.
 
 ### Related Posts:
 
-- [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/) - [Your personalized
+- [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/)
+- [Your personalized
   bacteria](https://www.gnxp.com/WordPress/2006/05/11/your-personalized-bacteria/) - [Can't we all just get long: evolution of
   altruism…](https://www.gnxp.com/WordPress/2010/10/11/cant-we-all-just-get-get-long-evolution-of-altruism-edition/) - [Positive selection in regulatory
   sequences](https://www.gnxp.com/WordPress/2007/08/18/positive-selection-in-regulatory-sequences/) - [Evolutionary

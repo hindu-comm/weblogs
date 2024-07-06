@@ -11,7 +11,7 @@ News to watch
 
 This month’s Nature Genetics has a [meeting report](http://www.nature.com/ng/journal/v39/n2/abs/ng0207-153.html) on the Human Genome Variation 2006 conference. This little bit caught my eye:
 
-> Andrew Clark and Neil Risch provided some exciting first glimpses into > these large data sets, including some remarkable findings in > population genetics. For instance, Andrew Clark examined global FST in > different regions of the US and noted clear evidence of a gradient of > allele frequencies that could partially be explained by the > demographic history. He also noted some **striking differences in > heterozygosity and patterns of linkage disequilibrium between HapMap > Caucasians and Ashkenazi subjects** from an ongoing study.
+> Andrew Clark and Neil Risch provided some exciting first glimpses into > these large data sets, including some remarkable findings in > population genetics. For instance, Andrew Clark examined global FST in > different regions of the US and noted clear evidence of a gradient of > allele frequencies that could partially be explained by the demographic history. He also noted some **striking differences in heterozygosity and patterns of linkage disequilibrium between HapMap Caucasians and Ashkenazi subjects** from an ongoing study.
 
 Remember that natural selection can be inferred from linkage disequilibrium patterns. Andy Clark was never too keen on the [selection for Ashkenazi intelligence thing](https://www.gnxp.com/MT2/archives/004045.html); I wonder where these LD data are taking him.
 

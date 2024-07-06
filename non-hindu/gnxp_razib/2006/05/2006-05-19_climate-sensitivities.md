@@ -15,7 +15,8 @@ In any case, these findings shouldn’t surprise too much, though the asymmetry 
 
 ### Related Posts:
 
-- [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/) - [Shivering
+- [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/)
+- [Shivering
   pigs](https://www.gnxp.com/WordPress/2006/08/18/shivering-pigs/) - [Climate &
   Neandertals](https://www.gnxp.com/WordPress/2007/09/17/climate-neandertals/) - [Selection for
   adaptation](https://www.gnxp.com/WordPress/2006/08/31/selection-for-adaptation/) - [Climate and civilization

@@ -40,7 +40,11 @@ In 2005, the U.S. Department of Energy commissioned a study of peak oil and its 
 
 For liquid fuel replacement, biofuels, electric cars, and hydrogen-based transport were considered not to be technologically ready and/or of insufficient scale. The five options deemed to be ready for large-scale implementation were:
 
-1.  Increased vehicle efficiency 2.  Enhanced oil recovery 3.  Heavy oil & oil sands 4.  Coal liquefaction 5.  Gas-to-liquids
+1.  Increased vehicle efficiency
+2.  Enhanced oil recovery
+3.  Heavy oil & oil sands
+4.  Coal liquefaction
+5.  Gas-to-liquids
 
 Note that *not one* of these options represents a departure from fossil fuel transport. At some level, this speaks to a desperation in our predicament: we simply are not ready to be weened from the fossils, even as it becomes ever more imperative that we do so.
 

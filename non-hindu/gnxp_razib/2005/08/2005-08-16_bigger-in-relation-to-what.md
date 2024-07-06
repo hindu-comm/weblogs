@@ -11,14 +11,14 @@ Source: [here](https://www.gnxp.com/WordPress/2005/08/16/bigger-in-relation-to-w
 
 From today’s [GNXP forum](http://groups.yahoo.com/group/gnxpforum/) link dump comes this BBC story ([*Large Condoms for S African Men*](http://news.bbc.co.uk/2/hi/africa/4155390.stm)):
 
-> “A range of extra-large condoms has been launched in South Africa, to > cater for “well-endowed” men. >
-> “A large number of South African men are bigger and complain about > condoms being uncomfortable and too small,” said Durex manager Stuart > Roberts.”
+> “A range of extra-large condoms has been launched in South Africa, to cater for “well-endowed” men. >
+> “A large number of South African men are bigger and complain about condoms being uncomfortable and too small,” said Durex manager Stuart Roberts.”
 
 Did the 80s teach us nothing? Trying to prevent AIDS and save lives is no excuse for spreading stereotypes.
 
 **Update**: Uganda’s *The Daily Monitor* [responds optimistically](http://www.monitor.co.ug/news/news08196.php) to the news, remarking that they now can import the larger condoms from South Africa. The article also provides an interesting quote from the project manager of Ugandaâ€™s Aids Control Program indicating that the African country has already benefited from an upgrade:
 
-> “â€œThere were complaints at the time when the condoms were being > imported from Korea because they were deemed to be relatively smaller > than what most Ugandan men required. But we abandoned the Korean > condoms and started using brands especially made to our tropical > specifications,â€? she said.
+> “â€œThere were complaints at the time when the condoms were being > imported from Korea because they were deemed to be relatively smaller than what most Ugandan men required. But we abandoned the Korean condoms and started using brands especially made to our tropical specifications,â€? she said.
 
 **Related:** [Jared Diamond: Guns, Germs, and Gonads?](https://www.gnxp.com/MT2/archives/003206.html), [German penises ‘too small for EU condoms’](https://www.gnxp.com/MT2/archives/000820.html)
 

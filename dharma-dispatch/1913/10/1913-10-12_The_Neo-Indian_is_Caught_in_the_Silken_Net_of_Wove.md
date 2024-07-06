@@ -85,7 +85,7 @@ Share
 
 THE HINDU COMMUNITY still produces men of the Sattvik type, though their number is much smaller than before. They rarely, if ever, appear in newspaper; what they do is done in silence and secrecy. While touring in the Rewah State in the nineties of the last century, I was surprised to find that the Goods of an extensive tract who, like most other aboriginal tribes are generally addicted to intoxicating drinks, had given up drinking; and on inquiry, I found out the reason to be the fiat of a Yogi who had visited the state sometime before me.
 
-> His order had gone forth from village to village, and the Gonds > without question had become total abstainers. No crusade against > intemperance could have produced such a wonderful and widespread > result. There are no doubt charlatans among the Yogis who live upon > the credulity of ignorant people. But there cannot be the shadow of a > doubt, that there are also genuine men among them, men who devote > their lives to spiritual culture in a manner inconceivable to the > European.
+> His order had gone forth from village to village, and the Gonds > without question had become total abstainers. No crusade against > intemperance could have produced such a wonderful and widespread > result. There are no doubt charlatans among the Yogis who live upon > the credulity of ignorant people. But there cannot be the shadow of a doubt, that there are also genuine men among them, men who devote their lives to spiritual culture in a manner inconceivable to the European.
 
 The pro-Western bias of new India imbibed with Western education and fostered by the Western environment is further strengthened by the prestige, the power, and the apparent prosperity and success of Western Civilization. The vision of new India is bedimmed by the glamour of the magnificent material and inventive achievements of the West. There is nothing which ordinary people worship more than mundane power and prosperity whether in individuals or in communities, and the most puissant and apparently prosperous nations of the present day belong to the West.
 
@@ -101,7 +101,7 @@ This illusion is shared by all who are obsessed by Western views, Neo-Indians am
 
 A thoughtful English writer speaking of the "grip of the West" which has begun to close on China, says that it "will more and more be felt in the general dissemination of ugliness, meanness, and insincerity throughout the empire." He says further:
 
-> in Japan in pre-eminent degree, one is struck by the rout of aesthetic > taste before the Western invasion. In old Japan roughly everything was > beautiful; in modern Japan everything is hideous.
+> in Japan in pre-eminent degree, one is struck by the rout of aesthetic taste before the Western invasion. In old Japan roughly everything was beautiful; in modern Japan everything is hideous.
 
 The materialism of modern culture accounts for its being kept down at a level not very far removed from the barbaric. The inhumanities and barbarities perpetrated in connection with the (First World) war remind one of the savageries of the Huns and Vandals.
 

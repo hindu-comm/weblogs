@@ -12,13 +12,13 @@ Source: [here](https://www.gnxp.com/WordPress/2017/05/25/20-of-white-non-hispani
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/abanybyyear.jpg?resize=638%2C689)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/abanybyyear.jpg?resize=638%2C689)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/05/abanybyyear.jpg)  
 [Vox](https://www.vox.com/first-person/2017/5/25/15681232/pro-life-democrat-progressive-abortion) has a piece up, [Democrats should start accepting pro-life liberals like me](https://www.vox.com/first-person/2017/5/25/15681232/pro-life-democrat-progressive-abortion). It has this section:
 
-> **I am the only Christian on a great many of my friends’ Facebook > feeds, and I am also the only Democrat on a great many other Facebook > feeds.** What I see is a need to stop taunting pro-life people. I > believe there are politicians who are afraid of the people uniting on > these issues because if we did, we could make radical progressive > change.
+> **I am the only Christian on a great many of my friends’ Facebook > feeds, and I am also the only Democrat on a great many other Facebook > feeds.** What I see is a need to stop taunting pro-life people. I believe there are politicians who are afraid of the people uniting on these issues because if we did, we could make radical progressive change.
 
 This is not really true, though the author thinks it is true. I was pretty sure that the “pro-life liberal” category is actually bigger than the author thinks because most pro-life liberals keep their mouths shut. This has a converse. Many conservatives, especially intellectuals, are [atheists](https://thehumanist.com/commentary/wait-youre-an-atheist-and-a-conservative), but keep their mouths shut in public out of ‘respect’ for the major viewpoint.
 
 But I wanted to quantitatively measure the extend of pro-life sentiment among liberals. So I looked to the [General Social Survey](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss16). The variable ABANY has large sample sizes. It asks:
 
-> Please tell me whether or not you think it should be possible for a > pregnant woman to obtain a legal abortion if: g. The woman wants it > for any reason?
+> Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if: g. The woman wants it for any reason?
 
 If you answer “yes” you are clearly pro-choice. If you say “no,” you *may* be pro-life. This is not the best question for all purposes, but it is good for year to year comparisons, as well as comparing different demographics.
 
@@ -28,7 +28,9 @@ Conversely, **one out of five whites who think that the “The Bible is the actu
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Abortion & religion - an international
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Abortion & religion
+- an international
   view](https://www.gnxp.com/WordPress/2009/06/06/abortion-religion-an-international-view/) - [True fact: white people tend to hang around other
   white…](https://www.gnxp.com/WordPress/2014/09/11/true-fact-white-people-tend-to-hang-around-other-white-people/) - [Women care more about abortion
   rights](https://www.gnxp.com/WordPress/2008/08/29/women-care-more-about-abortion-rights/) - [Americans don't like the word

@@ -11,8 +11,8 @@ I, for one, welcome robot servitors!
 
 This is an incredible story, [Meet ROBOT-Rx, The Robot Pharmacist Doling Out 350 Million Doses Per Year](http://singularityhub.com/2012/06/03/meet-robot-rx-the-robot-pharmacist-doling-out-350-million-doses-per-year/):
 
-> If medical errors are one of the leading causes of death, and > medication dispensing errors account for 21 percent of all medical > errors, then higher accuracy through robots would be a welcomed > change. It’s happening, and not just with ROBOT-Rx. **Both the > University of California, San Francisco’s Automated Pharmacy and the > PillPick system at New Jersey’s Holy Name Hospital work ’round the > clock filling thousands of doses each day.** >
-> The end result of greater back end automation will be to bring the > pharmacists to the front, allowing them more time to interact with > patients and answer doctors’ questions. As they introduce robotics > into production lines, companies are quick to say the robots won’t > take away jobs, that it frees up people for more skilled tasks. At > least for the pharmacist, this seems to be true.
+> If medical errors are one of the leading causes of death, and > medication dispensing errors account for 21 percent of all medical > errors, then higher accuracy through robots would be a welcomed > change. It’s happening, and not just with ROBOT-Rx. **Both the University of California, San Francisco’s Automated Pharmacy and the PillPick system at New Jersey’s Holy Name Hospital work ’round the clock filling thousands of doses each day.** >
+> The end result of greater back end automation will be to bring the > pharmacists to the front, allowing them more time to interact with > patients and answer doctors’ questions. As they introduce robotics into production lines, companies are quick to say the robots won’t take away jobs, that it frees up people for more skilled tasks. At least for the pharmacist, this seems to be true.
 
 From what I have read the [UCSF pharmacy](http://www.ucsf.edu/news/2011/03/9510/new-ucsf-robotic-pharmacy-aims-improve-patient-safety) has been an incredible success in terms of reducing errors.
 

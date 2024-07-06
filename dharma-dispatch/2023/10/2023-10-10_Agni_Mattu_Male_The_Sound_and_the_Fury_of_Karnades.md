@@ -143,7 +143,7 @@ Of all the worst elements in *Agni Mattu Male*, nothing is more repulsive than G
 
 Karnad later reveals to us that the daughter-in-law is truly devious: she is actually plotting Yavakrida’s death while faking undying love for him during their illegitimate trysts. The case of Paravasu killing his own father is no better: he murders willfully, out of true spite. In fact, Girish Karnad himself says it in so many words. In her saner days, the rabid Leftwing writer, Anna M M Vetticad [had written](https://www.indiatoday.in/magazine/your-week/story/19960430-girish-karnads-play-agni-aur-barkha-finally-sees-stage-lights-at-nsd-s-studio-833495-1996-04-30) quite a balanced review of *Agni Mattu Male.* Here is an excerpt where she quotes Karnad:
 
-> *Agni aur Barkha…is based on a tale from the Mahabharata in which > Paravasu, returning from a yajna, sees something moving in the forest, > and thinking it’s a wild animal, kills it. It turns out to be his > father. **“You ask yourself, was there something else to it?” says > Karnad*****. **\[Emphasis added\]
+> *Agni aur Barkha…is based on a tale from the Mahabharata in which > Paravasu, returning from a yajna, sees something moving in the forest, and thinking it’s a wild animal, kills it. It turns out to be his father. **“You ask yourself, was there something else to it?” says Karnad*****. **\[Emphasis added\]
 
 So there you have it, in summary: at the end of it all, the impression is that all characters except Aravasu and Nittilay are vile, scheming, ungrateful, immoral and treacherous wretches.
 

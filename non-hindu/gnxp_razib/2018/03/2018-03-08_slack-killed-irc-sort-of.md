@@ -20,7 +20,9 @@ That old internet culture is disappearing and becoming legend, just like the “
 
 ### Related Posts:
 
-- [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/) - [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/) - [George Packer in The New
+- [Chat update](https://www.gnxp.com/WordPress/2007/03/21/chat-update/)
+- [GNXP Chat](https://www.gnxp.com/WordPress/2007/03/07/gnxp-chat/)
+- [George Packer in The New
   Yorker](https://www.gnxp.com/WordPress/2006/12/20/george-packer-in-the-new-yorker/) - [Techno
   losers](https://www.gnxp.com/WordPress/2006/07/12/techno-losers/) - [Chat](https://www.gnxp.com/WordPress/2007/03/16/chat/) - [Perhaps people like to memorize
   stuff?](https://www.gnxp.com/WordPress/2009/03/30/perhaps-people-like-to-memorize-stuff/)

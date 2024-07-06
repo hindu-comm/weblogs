@@ -11,18 +11,18 @@ On that Native American ancestor
 
 [Traces of Sub-Saharan African and Amerindian admixture in old stock European Americans](https://bga101.blogspot.com/2010/12/traces-of-sub-saharan-african-and.html):
 
-> Some people like to overestimate extra-European admixture in old stock > Americans, while others take the position that it never happened. It > did happen, and I can prove it, but certainly not to a great extent, > otherwise I wouldn’t be bending over backwards to find it. >
-> Basically, after some initial experiments, **I can report that > Sub-Saharan African segments of around 2 megabases or more show up > regularly in my Southern European, old stock American and British > samples.** They’re much less common in other individuals of European > origin.
+> Some people like to overestimate extra-European admixture in old stock Americans, while others take the position that it never happened. It did happen, and I can prove it, but certainly not to a great extent, otherwise I wouldn’t be bending over backwards to find it. >
+> Basically, after some initial experiments, **I can report that > Sub-Saharan African segments of around 2 megabases or more show up regularly in my Southern European, old stock American and British samples.** They’re much less common in other individuals of European origin.
 
 Why?  
 
-> I believe that most of the Sub-Saharan African specific segments > arrived in Southern Europe during the early middle ages, with Muslim > invasions from North Africa. **On the other hand, in the UK they’re > probably a legacy of the Roman Empire (see here) and slave trade, in > which the British obviously played a major role.** I suppose I don’t > have to explain how it’s possible for white Americans to carry African > segments….
+> I believe that most of the Sub-Saharan African specific segments > arrived in Southern Europe during the early middle ages, with Muslim > invasions from North Africa. **On the other hand, in the UK they’re > probably a legacy of the Roman Empire (see here) and slave trade, in which the British obviously played a major role.** I suppose I don’t have to explain how it’s possible for white Americans to carry African segments….
 
 I discount the role of the Roman Empire. Rather, I think the key point is to focus on the *maritime* nature of Britain’s possessions, and the historically attested presence of numerous sailors from Africa and Asia in port cities in the 18th century. A good test of this would be the Netherlands, which like the United Kingdom had a far flung maritime colonial presence ([Portuguese](https://4.bp.blogspot.com/_UOHFTxL-bOA/TOYpHMIrsVI/AAAAAAAAAOE/on63ho681uI/s1600/ADMIXTURE10.jpeg) have a significant minor African ancestral contribution, but this is a somewhat different case because Portugal had African slaves in the metropole in the early modern period).
 
 How about Native Americans? Harder for obvious reasons:
 
-> I’ve also spotted Amerindian and North Eurasian segments in some > samples. These are much tougher to discover using the rare HET/HOM > method, simply because Europeans are Eurasians, and more similar to > Asians (and thus Amerindians) than to Sub-Saharan Africans. However, > with careful (ie. painstaking) work at SPSmart it is possible to > isolate such sequences and run a successful MDS analysis, like below > (which admittedly does look a bit more fuzzy than the one above, due > to a lower nmber of SNPs used).
+> I’ve also spotted Amerindian and North Eurasian segments in some > samples. These are much tougher to discover using the rare HET/HOM > method, simply because Europeans are Eurasians, and more similar to > Asians (and thus Amerindians) than to Sub-Saharan Africans. However, > with careful (ie. painstaking) work at SPSmart it is possible to isolate such sequences and run a successful MDS analysis, like below (which admittedly does look a bit more fuzzy than the one above, due to a lower nmber of SNPs used).
 
 It seems likely that it is going to be harder to make definitive assessments about *individuals*, but, one can be confident that there are trace but non-trivial elements of African and Native American ancestry among “Old Americans.” That is, those whose ancestors arrived in the USA before the Revolutionary War, and so have roots in this continent when Native Americans (and Africans as well) were a substantially higher proportion of the human population.
 

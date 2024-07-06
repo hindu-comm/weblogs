@@ -11,9 +11,9 @@ More howler monkey lovin'
 
 John Hawks [follows up](http://johnhawks.net/weblog/reviews/evolution/introgression/howler_hybrids_2007.html) the [monkey hybridization story](https://www.gnxp.com/blog/2007/08/inter-species-monkey-lovin.php), providing some important ecological context:
 
-> \[T\]he primary difference between the two species is cold tolerance: > A. pigra can and does live at higher altitudes than A. palliata, > ranging high enough that it must tolerate freezing temperatures  
+> \[T\]he primary difference between the two species is cold tolerance: A. pigra can and does live at higher altitudes than A. palliata, ranging high enough that it must tolerate freezing temperatures  
 > …  
-> Larger monkeys with larger, more complex molars, differences in throat > anatomy, and greater cold tolerance, in contrast to a smaller, more > cosmopolitan species, with the opportunity for gene flow during > interglacials. They sound like Neanderhowlers.
+> Larger monkeys with larger, more complex molars, differences in throat anatomy, and greater cold tolerance, in contrast to a smaller, more cosmopolitan species, with the opportunity for gene flow during interglacials. They sound like Neanderhowlers.
 
 ### Related Posts:
 

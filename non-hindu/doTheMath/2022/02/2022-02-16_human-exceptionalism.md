@@ -55,7 +55,11 @@ Faith in the future has been a fundamental requirement for the modern age to fun
 
 Taking the overshoot message seriously is much more likely if a person:
 
-1.  is non-religious: therefore free of the impression that Earth is here   for our benefit; 2.  is not a humanist: not elevating humans to some privileged status; 3.  is not under the illusion that we have a destiny to succeed; 4.  does not attribute our recent amazing ride mostly to human ingenuity while   downplaying the crucial role of spent finite resources like fossil fuels; 5.  does not assume that science and technology can conjure a rabbit out of   the hat for any situation; 6.  is not prone to denial when confronted with a dismal outlook.
+1.  is non-religious: therefore free of the impression that Earth is here   for our benefit; 2.  is not a humanist: not elevating humans to some privileged status;
+3.  is not under the illusion that we have a destiny to succeed;
+4.  does not attribute our recent amazing ride mostly to human ingenuity while   downplaying the crucial role of spent finite resources like fossil fuels;
+5.  does not assume that science and technology can conjure a rabbit out of   the hat for any situation;
+6.  is not prone to denial when confronted with a dismal outlook.
 
 This is a tall order, in today’s world. The overshoot message creates instant dissonance and reflexive rejection. [Ipecac](https://www.mayoclinic.org/drugs-supplements/ipecac-syrup-oral-route/side-effects/drg-20064363?p=1)!
 
@@ -77,7 +81,11 @@ In a strange sense, I only care about these issues because I *do* value humanity
 
 Human exceptionalism, then, is ironically about the worst curse you could cast on the human race: practically assuring a hubristic overreach and collapse. Some attitudes that would help us better navigate our tricky future are:
 
-1.  We are not the pinnacle of creation: nifty, sure, but not God’s gift to   the planet. 2.  Humans coexisted with nature for many millennia as a *part* of   nature, not *apart* from nature. We need to return to being subordinate partners, not self-proclaimed overlords. 3.  Recognize that humans have no prescribed destiny: we are capable of   [botching it](https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/)—not only for ourselves but for countless other species as well. 4.  Technology is not always the answer. It often makes things worse.   Think of the global problems we face today: would they be better or worse (or even exist) if not for our technology? Did our modern era solve global problems, or create them? Wait—as a scientist, am I one of the bad guys? 5.  Acknowledge that we don’t have all the answers and perhaps collectively   lack the wisdom to refrain from doing things simply because we *can*. It is time to focus instead on what we *should* do, in line with the rest of nature. 6.  In short: humility. Treat nature at least as well as we treat ourselves.
+1.  We are not the pinnacle of creation: nifty, sure, but not God’s gift to   the planet. 2.  Humans coexisted with nature for many millennia as a *part* of   nature, not *apart* from nature. We need to return to being subordinate partners, not self-proclaimed overlords.
+3.  Recognize that humans have no prescribed destiny: we are capable of   [botching it](https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/)—not only for ourselves but for countless other species as well.
+4.  Technology is not always the answer. It often makes things worse.   Think of the global problems we face today: would they be better or worse (or even exist) if not for our technology? Did our modern era solve global problems, or create them? Wait—as a scientist, am I one of the bad guys?
+5.  Acknowledge that we don’t have all the answers and perhaps collectively   lack the wisdom to refrain from doing things simply because we *can*. It is time to focus instead on what we *should* do, in line with the rest of nature.
+6.  In short: humility. Treat nature at least as well as we treat ourselves.
 
 If we are to [succeed](https://dothemath.ucsd.edu/2021/04/ultimate-success/), it seems we need to first come off our high horse. Now: how do we accomplish this feat of psychological counseling on a grand scale?
 

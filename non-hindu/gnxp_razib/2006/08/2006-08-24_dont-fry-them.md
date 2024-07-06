@@ -11,12 +11,13 @@ Don’t fry them
 
 [Shellee](http://scienceblogs.com/retrospectacle/2006/08/sciblogger_tag_line_the_death.php) asks:
 
-> “Are you for or against the death penalty, or (if its conditional), in > what cases? Furthermore, do you believe that societies that sanction > war are hypocritical for opposing the death penalty?”
+> “Are you for or against the death penalty, or (if its conditional), in what cases? Furthermore, do you believe that societies that sanction war are hypocritical for opposing the death penalty?”
 
 There have been many good answers so far, though I’ll leave it to [Shellee](http://scienceblogs.com/retrospectacle/2006/08/sciblogger_tag_line_the_death.php) to sum things up tomorrow.  
 **Short answer:**
 
-1.  I am opposed to the death penalty 2.  I am not opposed to war
+1.  I am opposed to the death penalty
+2.  I am not opposed to war
 
 **Longer answer:**
 

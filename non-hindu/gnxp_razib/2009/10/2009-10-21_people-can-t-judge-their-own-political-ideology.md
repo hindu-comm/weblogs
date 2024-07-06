@@ -11,7 +11,7 @@ People can't judge their own political ideology
 
 Or, perhaps they’re norming to their local context. In any case, [Andrew Gelman](http://www.stat.columbia.edu/~gelman/blog/) pointed to [Boris Shor’s site](http://bshor.wordpress.com/blog/), who then linked to his [research on ideology](http://bshor.wordpress.com/ideology/), which led me this working paper, [All Together Now: Putting Congress, State Legislatures, and Individuals in a Common Ideological Space](https://webshare.uchicago.edu/users/bshor/Public/boris%20shor%202009%20-%20common%20space%20ideal%20points.pdf?uniq=soy829). Here’s what jumped out at me:
 
-> I have also found that the common space scores perform exceedingly > well as a predictor of individual vote choice compared with even a > non-naive three item composite ideology. The common space scores even > do as well or better than party identi cation in predicting both > presidential and congressional voting. In fact, conventional de > nitions of ideology, predicated on self-reporting, show themselves to > be completely inadequate.
+> I have also found that the common space scores perform exceedingly > well as a predictor of individual vote choice compared with even a > non-naive three item composite ideology. The common space scores even > do as well or better than party identi cation in predicting both presidential and congressional voting. In fact, conventional de nitions of ideology, predicated on self-reporting, show themselves to be completely inadequate.
 
 The “common space scores” is derived from Project Vote Smart’s [NPAT](http://www.votesmart.org/npat_about.php).
 

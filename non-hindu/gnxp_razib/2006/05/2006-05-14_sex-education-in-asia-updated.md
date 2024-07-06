@@ -14,11 +14,11 @@ Sometimes a picture really is worth a thousand words. Other times you need a tho
 In following a [trackback](http://asoiaf.westeros.org/index.php?showtopic=8514#) I came across a translation of the Chinese text:
 
 > Panel 1: >
-> First, select a marker of a color to your liking. Draw two nipples on > the ass of your good friend. For best results, his ass should be > shapely, and its skin should be smooth and umblemished. To ensure that > erros can be corrected with ease and to faciliate clean-up afterwards, > please select non-permenant markers. >
+> First, select a marker of a color to your liking. Draw two nipples on > the ass of your good friend. For best results, his ass should be shapely, and its skin should be smooth and umblemished. To ensure that erros can be corrected with ease and to faciliate clean-up afterwards, please select non-permenant markers. >
 > Panel 2: >
-> Pay close attention to the position of your good friend’s anus to > avoid mistaken insertions, which will result in unpleasant sensation. > Adjust penis to a horizontal position and insert it into the ass > crack. Adjust the position to find the most comfortable position. With > force, rub forward and backward, until climax. If skin is chaffing, > use some lubricant. >
+> Pay close attention to the position of your good friend’s anus to > avoid mistaken insertions, which will result in unpleasant sensation. > Adjust penis to a horizontal position and insert it into the ass crack. Adjust the position to find the most comfortable position. With force, rub forward and backward, until climax. If skin is chaffing, use some lubricant. >
 > Pabel 3: >
-> After ejaculation, you can rest a little while on the back of your > good friend. If you cannot achieve an erection during this exercise of > simulated tittie-fuck, it is possible that your drawing of the nipples > was lacking in detail and artistry, or that your friend’s ass is not > perfect enough. Or, more likely, you are not gay.
+> After ejaculation, you can rest a little while on the back of your > good friend. If you cannot achieve an erection during this exercise of simulated tittie-fuck, it is possible that your drawing of the nipples was lacking in detail and artistry, or that your friend’s ass is not perfect enough. Or, more likely, you are not gay.
 
 [](https://photos1.blogger.com/blogger/6964/1909/1600/nonpermanent.0.jpg)
 

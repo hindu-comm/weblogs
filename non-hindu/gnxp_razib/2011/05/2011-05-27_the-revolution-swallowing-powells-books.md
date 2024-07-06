@@ -16,7 +16,7 @@ And yet I just realized that it’s been five years since I’ve been to Powell�
 
 Here’s what happened at over the winter to trigger my friend’s query, [Powell’s Books Announces Layoffs](http://artsbeat.blogs.nytimes.com/2011/02/09/powells-books-announces-layoffs/):
 
-> The rise of e-books and declining store sales have led to layoffs at > Powell’s Books, the landmark bookstore in Portland, Ore. The store’s > management said on Tuesday it would lay off 31 employees as part of > its “response to the unprecedented, rapidly changing nature of the > book industry.”
+> The rise of e-books and declining store sales have led to layoffs at > Powell’s Books, the landmark bookstore in Portland, Ore. The store’s management said on Tuesday it would lay off 31 employees as part of its “response to the unprecedented, rapidly changing nature of the book industry.”
 
 The news that Amazon is selling more e-books than normal books looks a lot less surprising. If Powell’s can’t resist the tide, who can?
 

@@ -15,11 +15,12 @@ A number of papers have previously reported that intermediate-scale “structura
 
 The Perlegen paper gives the best summary:
 
-> common deletions and SNPs ascertained with similar criteria have > essentially the same distribution of linkage disequilibrium with > surrounding SNPs, indicating that these polymorphisms may share > evolutionary history and that most deletion polymorphisms are > effectively assayed by proxy in SNP-based association studies.
+> common deletions and SNPs ascertained with similar criteria have > essentially the same distribution of linkage disequilibrium with surrounding SNPs, indicating that these polymorphisms may share evolutionary history and that most deletion polymorphisms are effectively assayed by proxy in SNP-based association studies.
 
 ### Related Posts:
 
-- [Beyond SNPs - Structural variation in the human
+- [Beyond SNPs
+- Structural variation in the human
   genome](https://www.gnxp.com/WordPress/2006/01/23/beyond-snps-structural-variation-in-the-human-genome/) - [Structural polymorphisms and
   SNPs](https://www.gnxp.com/WordPress/2006/06/30/structural-polymorphisms-and-snps/) - [Macaque
   genome](https://www.gnxp.com/WordPress/2007/04/13/macaque-genome/) - [Alu and chimpanzees &

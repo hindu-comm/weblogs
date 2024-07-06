@@ -13,7 +13,7 @@ Selection without adjective and bound
 
 In my [post below](http://blogs.discovermagazine.com/gnxp/2013/09/man-still-evolves/) where I take a stand against the tired, but inevitable, assumption that a post [demographic transition](https://en.wikipedia.org/wiki/Demographic_transition) society necessarily entails a cessation of biology evolution, a reader brings up a trite but specious [observation](http://blogs.discovermagazine.com/gnxp/2013/09/man-still-evolves/#comment-1041953588):
 
-> But you’re missing the point really. We’ve slowed (not stopped because > it can’t be stopped) because **we now control our environment.** > Evolution is moving from individual biological expression to cultural > and technological evolution.
+> But you’re missing the point really. We’ve slowed (not stopped because it can’t be stopped) because **we now control our environment.** Evolution is moving from individual biological expression to cultural and technological evolution.
 
 This isn’t novel or exceptional in its wrongheadedness. The same idea comes up when I engage in discussion with the types of intellectuals in sociology or anthropology unencumbered by the constraints of “Western linear thinking.” The presumption is that natural selection operates through exogenous environmental pressures, and as we attenuate those pressures we diminish the rate of evolutionary change. The stylized model being:
 
@@ -36,7 +36,8 @@ Ultimately the key takeaway perhaps is that **it isn’t quite as simple as firs
 
 ### Related Posts:
 
-- [Stasis](https://www.gnxp.com/WordPress/2006/10/18/stasis/) - [Rate of Evolution in Brain-Expressed Genes in Humans
+- [Stasis](https://www.gnxp.com/WordPress/2006/10/18/stasis/)
+- [Rate of Evolution in Brain-Expressed Genes in Humans
   and…](https://www.gnxp.com/WordPress/2006/12/28/rate-of-evolution-in-brain-expressed-genes-in-humans-and-other-primates/) - [The new
   Technorati](https://www.gnxp.com/WordPress/2009/10/22/the-new-technorati/) - [Cultural evolution causes biological
   evolution](https://www.gnxp.com/WordPress/2007/04/03/cultural-evolution-causes-biological-evolution/) - [Dobzhansky on

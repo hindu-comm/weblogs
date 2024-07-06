@@ -13,7 +13,8 @@ States of Islam
 
 ### Related Posts:
 
-- [Harun Yahya - who is funding
+- [Harun Yahya
+- who is funding
   him?](https://www.gnxp.com/WordPress/2007/07/17/harun-yahya-who-is-funding-him/) - [Ali on the
   radio](https://www.gnxp.com/WordPress/2006/12/29/ali-on-the-radio/) - [Talk Islam](https://www.gnxp.com/WordPress/2008/04/26/talk-islam/) - [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Pakistan is already an Islamic
   State](https://www.gnxp.com/WordPress/2009/04/30/pakistan-is-already-an-islamic-state/) - [INFIDEL, by Ayaan Hirsi

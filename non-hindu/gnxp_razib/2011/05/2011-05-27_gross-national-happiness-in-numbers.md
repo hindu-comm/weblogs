@@ -11,12 +11,12 @@ Source: [here](https://www.gnxp.com/WordPress/2011/05/27/gross-national-happines
 
 Bhutan famously espouses [“gross national happiness”](https://en.wikipedia.org/wiki/Gross_national_happiness#Origins_and_meaning):
 
-> The term “gross national happiness” was coined in 1972 by Bhutan’s > former King Jigme Singye Wangchuck, who has opened Bhutan to the age > of modernization, soon after the demise of his father, King Jigme > Dorji Wangchuk. He used the phrase to signal his commitment to > building an economy that would serve Bhutan’s unique culture based on > Buddhist spiritual values….
+> The term “gross national happiness” was coined in 1972 by Bhutan’s > former King Jigme Singye Wangchuck, who has opened Bhutan to the age > of modernization, soon after the demise of his father, King Jigme Dorji Wangchuk. He used the phrase to signal his commitment to building an economy that would serve Bhutan’s unique culture based on Buddhist spiritual values….
 
 Apparently the nation has recent [switched from absolute to constitutional monarchy](https://en.wikipedia.org/wiki/Bhutan#Government_and_politics):
 
-> Bhutan’s political system has developed from an absolute monarchy into > a constitutional monarchy. In 1999, the fourth king of Bhutan created > a body called the Lhengye Zhungtshog (Council of Ministers). The Druk > Gyalpo (King of Druk Yul) is head of state. Executive power is > exercised by the Lhengye Zhungtshog, the council of ministers. > Legislative power was vested in both the government and the former > Grand National Assembly. >
-> On the 17th of December 2005, the 4th King, Jigme Singye Wangchuck, > announced to a stunned nation that the first general elections would > be held in 2008, and that he would abdicate the throne in favor of his > eldest son, the crown prince….
+> Bhutan’s political system has developed from an absolute monarchy into > a constitutional monarchy. In 1999, the fourth king of Bhutan created > a body called the Lhengye Zhungtshog (Council of Ministers). The Druk > Gyalpo (King of Druk Yul) is head of state. Executive power is exercised by the Lhengye Zhungtshog, the council of ministers. Legislative power was vested in both the government and the former Grand National Assembly. >
+> On the 17th of December 2005, the 4th King, Jigme Singye Wangchuck, announced to a stunned nation that the first general elections would be held in 2008, and that he would abdicate the throne in favor of his eldest son, the crown prince….
 
 From what I can tell the royal house of Bhutan seems genuinely sincere. More plainly paternalist than deiviously despotic.
 

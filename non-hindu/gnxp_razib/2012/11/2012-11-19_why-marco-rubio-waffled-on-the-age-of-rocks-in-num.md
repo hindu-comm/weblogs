@@ -13,7 +13,7 @@ If you have a pulse and follow “science news” you are aware that [Marco Rubi
 
 More concretely, I want to address something Rod Dreher [asserted at *The American Conservative*](http://www.theamericanconservative.com/dreher/rubios-science-as-theology/):
 
-> I wish one of these liberal journalists would go into a black or > Latino church supper and ask people their thoughts about how the > universe began. I’d bet that 99 percent of the people there would > agree with Marco Rubio, even if most of them would vote for his > opponent. People just don’t care about this stuff at the national > political level. You’d better believe I’d fight over this issue if it > came down to a matter of what was going to be taught in my local > school. But I couldn’t possibly care less what the guy who lives in > the White House thinks, unless he tries to impose it on the country.
+> I wish one of these liberal journalists would go into a black or > Latino church supper and ask people their thoughts about how the > universe began. I’d bet that 99 percent of the people there would > agree with Marco Rubio, even if most of them would vote for his > opponent. People just don’t care about this stuff at the national > political level. You’d better believe I’d fight over this issue if it came down to a matter of what was going to be taught in my local school. But I couldn’t possibly care less what the guy who lives in the White House thinks, unless he tries to impose it on the country.
 
 When I hear the word “bet” I start thinking of laying down odds and stealing someone’s cash! But in this case I’ll assume Rod was being rhetorical. But let’s review the numbers, shall we?  
 

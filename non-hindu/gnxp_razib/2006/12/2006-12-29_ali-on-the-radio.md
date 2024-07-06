@@ -13,7 +13,8 @@ Blogger Ali Eteraz [will be on the radio](http://eteraz.org/story/2006/12/29/104
 
 ### Related Posts:
 
-- [Harun Yahya - who is funding
+- [Harun Yahya
+- who is funding
   him?](https://www.gnxp.com/WordPress/2007/07/17/harun-yahya-who-is-funding-him/) - [States of
   Islam](https://www.gnxp.com/WordPress/2006/11/16/states-of-islam/) - [Boobs + Hezbollah =
   vapid...but](https://www.gnxp.com/WordPress/2006/10/04/boobs-hezbollah-vapid-but/) - [Pakistan is already an Islamic

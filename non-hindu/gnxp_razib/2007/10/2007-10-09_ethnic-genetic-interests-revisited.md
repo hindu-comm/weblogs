@@ -35,19 +35,19 @@ I conclude that even if Salter’s doctrine of ethnic genetic interests were sou
 
 In EPG1 I commented that:
 
-> Salter’s doctrine is profoundly anti-eugenic. For Salter, it is in the > interest of an individual to preserve and promote the gene frequencies > of his own ethnic group, whether the existing gene frequency is good, > bad or indifferent, as judged by qualitative criteria. So, for > example, it is in the interest of American blacks to promote their own > gene frequencies against those of American whites, even if in some > respects it would be better for blacks themselves to change those gene > frequencies. The doctrine of genetic interests is inherently > backward-looking and conservative.
+> Salter’s doctrine is profoundly anti-eugenic. For Salter, it is in the > interest of an individual to preserve and promote the gene frequencies > of his own ethnic group, whether the existing gene frequency is good, > bad or indifferent, as judged by qualitative criteria. So, for > example, it is in the interest of American blacks to promote their own > gene frequencies against those of American whites, even if in some respects it would be better for blacks themselves to change those gene frequencies. The doctrine of genetic interests is inherently backward-looking and conservative.
 
 In EPG2 I said:
 
-> For Salter, it is by definition adaptive for an individual to maximise > the number of copies of his own genetic material, regardless of its > selective value. So, for example, it is adaptive for an individual > with Huntingdon’s \[sic: should be ‘Huntington’s’\] Disease to > maximise the number of other Huntingdon’s sufferers.
+> For Salter, it is by definition adaptive for an individual to maximise > the number of copies of his own genetic material, regardless of its selective value. So, for example, it is adaptive for an individual with Huntingdon’s \[sic: should be ‘Huntington’s’\] Disease to maximise the number of other Huntingdon’s sufferers.
 
 and:
 
-> Salter’s theory implies, for example, that African populations who > have migrated to temperate countries should seek to preserve their > ‘distinctive’ African genes – even those, like the genes responsible > for sickle-cell anemia, which are actively harmful in their new > environment.
+> Salter’s theory implies, for example, that African populations who > have migrated to temperate countries should seek to preserve their ‘distinctive’ African genes – even those, like the genes responsible for sickle-cell anemia, which are actively harmful in their new environment.
 
 In defence of Salter it has been pointed out (though not by Salter himself) that in a few passages he does explicitly allow for the promotion of ‘eugenic’ genetic change, for example (p.89 of both editions):
 
-> Phenotypes can lose inclusive fitness through individual alleles in > their genomes becoming maladaptive, due to mutation or to changes in > the environment. Those dysfunctional alleles no longer serve the > interests of the majority of the genes comprising the genome and thus > the individual’s genetic interests would be preserved or increased by > substitution of maladaptive alleles.\[i.e. their replacement by more > adaptive alleles\].
+> Phenotypes can lose inclusive fitness through individual alleles in > their genomes becoming maladaptive, due to mutation or to changes in > the environment. Those dysfunctional alleles no longer serve the > interests of the majority of the genes comprising the genome and thus the individual’s genetic interests would be preserved or increased by substitution of maladaptive alleles.\[i.e. their replacement by more adaptive alleles\].
 
 There are a few other such concessions.
 

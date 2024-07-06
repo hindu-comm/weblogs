@@ -11,7 +11,7 @@ Source: [here](https://www.gnxp.com/WordPress/2011/12/18/descendant-of-genghis-k
 
 [Chinese Scientists Announce the First Complete Sequencing of Mongolian Genome](http://en.genomics.cn/navigation/show_news.action?newsContent.id=8964):
 
-> In this study, the DNA sample was from a male adult who belongs to the > Mongolian “Royal Family” and is the 34th generation descendant of > Genghis Khan. “The sample is very valuable for the study with a full > record of family pedigree and no background of intermarriage between > other ethnic groups.” said Professor Huanmin Zhou, Project > Investigator and Director of Science and Technology at IMAU.
+> In this study, the DNA sample was from a male adult who belongs to the > Mongolian “Royal Family” and is the 34th generation descendant of > Genghis Khan. “The sample is very valuable for the study with a full record of family pedigree and no background of intermarriage between other ethnic groups.” said Professor Huanmin Zhou, Project Investigator and Director of Science and Technology at IMAU.
 
 
 
@@ -25,7 +25,8 @@ Assuming 40 generations, the expectation is that any given descendant of Genghis
 
 ### Related Posts:
 
-- [The lamentations of their women - the
+- [The lamentations of their women
+- the
   movie?](https://www.gnxp.com/WordPress/2008/02/14/the-lamentations-of-their-women-the-movie/) - [The Great Khan's double entry bookkeeping!
   ("for…](https://www.gnxp.com/WordPress/2006/06/06/the-great-khan-s-double-entry-bookkeeping-for-entertainment-purposes-only/) - [Genghis Khan on In Our
   Time](https://www.gnxp.com/WordPress/2007/02/02/genghis-khan-on-in-our-time/) - [Who are the descendants of Genghis

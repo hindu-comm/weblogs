@@ -92,8 +92,8 @@ But, I do think ancient DNA and the model of **disruptions and discontinuity sup
 
 And I want to reiterate, this model does not apply to just agriculture. A tweet from Spencer Wells:
 
-> Papua New Guinea is fascinating – looking forward to seeing this > published. [\#SMBE16](https://twitter.com/hashtag/SMBE16?src=hash) > [pic.twitter.com/8fhB8Pcaqv](https://t.co/8fhB8Pcaqv) >
-> — Spencer Wells (@spwells) [July 4, > 2016](https://twitter.com/spwells/status/749790852336136192)
+> Papua New Guinea is fascinating – looking forward to seeing this published. [\#SMBE16](https://twitter.com/hashtag/SMBE16?src=hash) [pic.twitter.com/8fhB8Pcaqv](https://t.co/8fhB8Pcaqv) >
+> — Spencer Wells (@spwells) [July 4, 2016](https://twitter.com/spwells/status/749790852336136192)
 
 New Guineais a horticultural society, and the highlands are very densely populated. The high Fst is in line with what you see in early Holocene Western Eurasia, or in India today. **But observe that the genetic differentiation is from the past 10,000 years**, not the past 50,000. 10,000 years ago is when [horticulture](https://en.wikipedia.org/wiki/Kuk_Swamp) began. In all likelihood one population in the highlands began to practice this, and expanded demographically, eliminating or absorbing its neighbors. But the landscape of New Guinea sets tight limits to the range of possibilities, as the highlands of the island are a very isolated ecosystem. The genetic differentiation began once the expansion phase ceased, and groups began to struggle for existenceat the Malthusian limit.
 

@@ -13,7 +13,7 @@ Recent advances in genotyping have made genome-wide association studies the stan
 
 Different traits have different genetic architectures, of course, so the recent publication of 30 loci involved in Crohn’s disease has led to [vastly different results](http://www.nature.com/ng/journal/vaop/ncurrent/abs/ng.175.html):
 
-> To advance gene discovery further, we combined data from three studies > on Crohn’s disease (a total of 3,230 cases and 4,829 controls) and > carried out replication in 3,664 independent cases with a mixture of > population-based and family-based controls. The results strongly > confirm 11 previously reported loci and provide genome-wide > significant evidence for 21 additional loci, including the regions > containing STAT3, JAK2, ICOSLG, CDKAL1 and ITLN1.
+> To advance gene discovery further, we combined data from three studies > on Crohn’s disease (a total of 3,230 cases and 4,829 controls) and > carried out replication in 3,664 independent cases with a mixture of > population-based and family-based controls. The results strongly confirm 11 previously reported loci and provide genome-wide significant evidence for 21 additional loci, including the regions containing STAT3, JAK2, ICOSLG, CDKAL1 and ITLN1.
 
 So with the same number of loci, how much of the variance are these authors able to explain? It’s 10%, a modest number, but larger than that currently mapped for most (any?) other complex trait. And keeping in mind that the heritability of Crohn’s disease is estimated at 50%, they’ve accounted for something like a fifth of the total genetic variance. I’m not sure exactly what threshold makes genetics clinically useful, but surely this is approaching it.
 

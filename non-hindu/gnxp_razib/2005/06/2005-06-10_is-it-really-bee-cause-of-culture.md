@@ -60,7 +60,8 @@ Posted by Jason Malloy at [01:16 PM](https://www.gnxp.com/MT2/archives/004064.ht
 
 ### Related Posts:
 
-- [East Asian & American brain activity - what does
+- [East Asian & American brain activity
+- what does
   fMRI…](https://www.gnxp.com/WordPress/2008/01/11/east-asian-american-brain-activity-what-does-fmri-say/) - [The ethnic breakdown of 23andMe
   customers](https://www.gnxp.com/WordPress/2011/06/13/the-ethnic-breakdown-of-23andme-customers/) - [Gene-culture interaction in Koreans and
   Americans](https://www.gnxp.com/WordPress/2010/08/16/gene-culture-interaction-in-koreans-and-americans/) - [Sugar intake by demographic

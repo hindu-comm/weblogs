@@ -13,7 +13,8 @@ Instead of an update, I want to specifically point readers to Evolgen’s [exten
 
 ### Related Posts:
 
-- [Evolution in less than 10 words - give it a
+- [Evolution in less than 10 words
+- give it a
   shot!](https://www.gnxp.com/WordPress/2006/06/15/evolution-in-less-than-10-words-give-it-a-shot/) - [When less is more: founder
   flush](https://www.gnxp.com/WordPress/2006/07/02/when-less-is-more-founder-flush/) - [Misconceptions in evolutionary
   biology](https://www.gnxp.com/WordPress/2006/02/01/misconceptions-in-evolutionary-biology/) - [10 assertions about evolution -

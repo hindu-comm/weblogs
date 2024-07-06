@@ -41,7 +41,9 @@ My friend [Colin Wright](https://colinwright.substack.com/subscribe) has a [Subs
 
 ### Related Posts:
 
-- [Open Thread - 10/01/2021 - Gene
+- [Open Thread
+- 10/01/2021
+- Gene
   Expression](https://www.gnxp.com/WordPress/2021/10/01/open-thread-10-01-2021-gene-expression/) - [Open Thread - 05/10/2021 -
   GNXP](https://www.gnxp.com/WordPress/2021/05/10/open-thread-05-10-2021-gnxp/) - [China, Dzungars, and
   Uyghurs](https://www.gnxp.com/WordPress/2021/02/25/china-dzungars-and-uygurs/) - [Open Thread - 11/29/2021 - Gene

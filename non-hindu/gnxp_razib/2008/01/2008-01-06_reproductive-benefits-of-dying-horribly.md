@@ -23,7 +23,8 @@ Like most adaptive Just So stories the immune-boosting hypothesis is almost cert
 
 ### Related Posts:
 
-- [Brightsurfing](https://www.gnxp.com/WordPress/2006/06/18/brightsurfing/) - [Macaques are not
+- [Brightsurfing](https://www.gnxp.com/WordPress/2006/06/18/brightsurfing/)
+- [Macaques are not
   human](https://www.gnxp.com/WordPress/2007/04/17/macaques-are-not-human/) - [De novo mutations in
   autism](https://www.gnxp.com/WordPress/2012/04/04/de-novo-mutations-in-autism/) - [Common disease, common
   variant](https://www.gnxp.com/WordPress/2006/12/01/common-disease-common-variant/) - [The Genetic Correlation strikes

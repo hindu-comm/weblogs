@@ -51,7 +51,7 @@ d offspring, but one of the subsequent matings of the same mare with an ordinary
 
 In writing this I assumed that the idea of telegony was long dead, but I have found the following at a dog-breeding website:
 
-> This subject, “Does the first impregnation of the female have any > influence upon the progeny of subsequent breeding to other sires?” has > been for years, and still remains, a disputed question. Scientists are > arrayed on both sides of the question. Among dog breeders, the popular > opinion is that it does, and many of the breeders who look with > suspicion upon a bitch which has suffered a misalliance have had > personal experiences with which to support their position
+> This subject, “Does the first impregnation of the female have any > influence upon the progeny of subsequent breeding to other sires?” has > been for years, and still remains, a disputed question. Scientists are > arrayed on both sides of the question. Among dog breeders, the popular opinion is that it does, and many of the breeders who look with suspicion upon a bitch which has suffered a misalliance have had personal experiences with which to support their position
 
 Some ideas die hard! So far as I know there is no support whatever for telegony among modern scientists.
 

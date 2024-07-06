@@ -17,7 +17,9 @@ Posted by TangoMan at [08:59 PM](https://www.gnxp.com/MT2/archives/003695.html) 
 
 ### Related Posts:
 
-- [Ouroboros](https://www.gnxp.com/WordPress/2009/06/10/ouroboros/) - [Aging](https://www.gnxp.com/WordPress/2005/03/09/aging/) - [DNA Damage and
+- [Ouroboros](https://www.gnxp.com/WordPress/2009/06/10/ouroboros/)
+- [Aging](https://www.gnxp.com/WordPress/2005/03/09/aging/)
+- [DNA Damage and
   Aging](https://www.gnxp.com/WordPress/2005/03/08/dna-damage-and-aging/) - [A revolution in earwig penis
   biology](https://www.gnxp.com/WordPress/2006/12/07/a-revolution-in-earwig-penis-biology/) - [Youth is wasted on the
   young](https://www.gnxp.com/WordPress/2007/04/30/youth-is-wasted-on-the-young/) - [Getting The Wood

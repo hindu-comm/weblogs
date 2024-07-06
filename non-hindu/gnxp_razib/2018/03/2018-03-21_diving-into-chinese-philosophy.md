@@ -19,7 +19,8 @@ Thoughts? Recommendations?
 
 ### Related Posts:
 
-- [The Greeks](https://www.gnxp.com/WordPress/2007/03/18/the-greeks/) - [A introduction to Chinese philosophy?
+- [The Greeks](https://www.gnxp.com/WordPress/2007/03/18/the-greeks/)
+- [A introduction to Chinese philosophy?
   (thought)](https://www.gnxp.com/WordPress/2016/02/08/a-introduction-to-chinese-philosophy-thought/) - [Philosophy = lower
   salary](https://www.gnxp.com/WordPress/2008/04/09/philosophy-lower-salary/) - [An economics and evolutionary biology reading
   list](https://www.gnxp.com/WordPress/2012/04/01/an-economics-and-evolutionary-biology-reading-list/) - [The Chinese

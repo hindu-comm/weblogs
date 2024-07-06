@@ -11,8 +11,8 @@ How to be more ethical than the Swedes
 
 [Population Will Come Down — We Choose How](http://scienceblogs.com/aardvarchaeology/2010/02/population_will_come_down_--_w.php):
 
-> So, as I once wrote, for a person to produce more than two children is > unethical. If you want lots of kids, then adopt — preferably from an > affluent country, as you only make things worse if you move people > from cultures with a small environmental footprint to a land of big > cars and hamburgers.  
-> We need to give little girls worldwide a good education, because that > makes them have fewer kids when they grow up. And we need to combat > various religious organisations that sow doubt about the efficacy and > moral acceptability of contraceptives.
+> So, as I once wrote, for a person to produce more than two children is > unethical. If you want lots of kids, then adopt — preferably from an affluent country, as you only make things worse if you move people from cultures with a small environmental footprint to a land of big cars and hamburgers.  
+> We need to give little girls worldwide a good education, because that makes them have fewer kids when they grow up. And we need to combat various religious organisations that sow doubt about the efficacy and moral acceptability of contraceptives.
 
 The whole thing about adopting from affluent countries only seems kind of mean really. I get Martin’s point, but there are other terms for [“small environmental footprint,”](http://img2.photographersdirect.com/img/19309/wm/pd2059320.jpg) and they wouldn’t leave Jeremy Bentham smiling. In any case, here are the [total fertility rates](https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_fertility_rate) for nations below Martin’s homeland of Sweden from *Wikipedia*:
 

@@ -52,7 +52,8 @@ Genome-wide patterns of admixture among US Hispanic/Latino populations of Caribb
 
 ### Related Posts:
 
-- [SMBE 2012](https://www.gnxp.com/WordPress/2012/06/24/smbe-2012/) - [Comments getting caught in
+- [SMBE 2012](https://www.gnxp.com/WordPress/2012/06/24/smbe-2012/)
+- [Comments getting caught in
   spam](https://www.gnxp.com/WordPress/2011/07/11/comments-getting-caught-in-spam/) - [Human Brain
   Evolving](https://www.gnxp.com/WordPress/2007/04/23/human-brain-evolving/) - [A little bit of the Others in
   Us](https://www.gnxp.com/WordPress/2010/03/17/a-little-bit-of-the-others-in-us/) - [Rise of the planet of the

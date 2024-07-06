@@ -11,9 +11,9 @@ Illegal Immigration – The Hard (and Cold) Way
 
 If you’re a Romanian who wants to get into Canada, but you’re already on their watch lists because they’ve deported you before and intercepted you on your other attempts to enter the country illegally, what to do? Why that’s simple, flank the enemy and make your run for the weakest border front, so buy an airline ticket to Greenland, buy an 18 ft. fiberglass boat and cross the daunting sea to make landfall on the [frozen tundra](http://www.canada.com/topics/news/national/story.html?id=fca51539-bcab-4021-a6ce-ffafa2e22837&k=32577) of the Canadian High North:
 
-> It’s hard to slip under the radar in a tightly-knit community of less > than 200, and as the Romanian emerged from a thick fog onto the shores > of Grise Fiord, he was met by a welcoming party of curious Inuit. Wet > from the journey, with no food and only 20 litres of fuel remaining, > the Romanian was nonetheless freshly shaved and eager to sell his boat > to raise money for his airfare south. >
-> Those who met him offered to take the man, whose name has not been > released, to the local Co-op store to buy food. >
-> On the way, they happened to run into RCMP Const. Ian Johnson, and the > Romanian’s scheme crumbled.
+> It’s hard to slip under the radar in a tightly-knit community of less > than 200, and as the Romanian emerged from a thick fog onto the shores > of Grise Fiord, he was met by a welcoming party of curious Inuit. Wet from the journey, with no food and only 20 litres of fuel remaining, the Romanian was nonetheless freshly shaved and eager to sell his boat to raise money for his airfare south. >
+> Those who met him offered to take the man, whose name has not been released, to the local Co-op store to buy food. >
+> On the way, they happened to run into RCMP Const. Ian Johnson, and the Romanian’s scheme crumbled.
 
 Ah, the Mounties get their man, even in the desolate frozen tundra. See maps [here](http://www.cbc.ca/canada/north/story/2006/09/20/romanian-boater.html).
 

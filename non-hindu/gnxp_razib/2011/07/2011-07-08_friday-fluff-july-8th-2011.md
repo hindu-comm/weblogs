@@ -18,7 +18,7 @@ Friday Fluff – July 8th, 2011
 
 3\) **Comment of the week**, in response to [“*Scientific American* blogs!”](http://blogs.discovermagazine.com/gnxp/2011/06/reify-my-genes/#comment-77217):
 
-> What’s there to compete for? Do blogging and ads pay much? I mean, > besides prestige, attracting smart readership, thought-worthy > comments, and possible collaborations? I guess, I kinda answered my > own question.
+> What’s there to compete for? Do blogging and ads pay much? I mean, besides prestige, attracting smart readership, thought-worthy comments, and possible collaborations? I guess, I kinda answered my own question.
 
 4\) And finally, your weekly **fluff fix**:
 
@@ -26,7 +26,8 @@ Friday Fluff – July 8th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - July 1st,
+- [Friday Fluff
+- July 1st,
   2011](https://www.gnxp.com/WordPress/2011/07/01/friday-fluff-july-1st-2011/) - [Friday Fluff - July 29nd,
   2011](https://www.gnxp.com/WordPress/2011/07/29/friday-fluff-july-29nd-2011/) - [Friday Fluff - July 22nd,
   2011](https://www.gnxp.com/WordPress/2011/07/22/friday-fluff-july-22nd-2011/) - [Friday Fluff – December 17th,

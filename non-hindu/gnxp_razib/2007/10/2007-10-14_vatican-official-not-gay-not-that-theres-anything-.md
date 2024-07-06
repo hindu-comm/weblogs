@@ -11,12 +11,13 @@ Vatican official not gay – not that there’s anything wrong with it
 
 If you haven’t seen it, this is a hilarious story: [Vatican Official Insists He’s Not Gay](https://ap.google.com/article/ALeqM5ip83hAyNTDWjfBtmVpqkXBI974WQD8S94PU00):
 
-> A Vatican official suspended after being caught on hidden camera > making advances to a young man says he is not gay and was **only > *pretending* to be gay as part of his *work*.**  
-> In an interview published Sunday, Monsignor Tommaso Stenico told La > Repubblica daily he frequented online gay chat rooms and met with gay > men as part of his work as a psychoanalyst. He said that he pretended > to be gay in order to gather information about **“those who damage the > image of the Church with homosexual activity.”**
+> A Vatican official suspended after being caught on hidden camera making advances to a young man says he is not gay and was **only *pretending* to be gay as part of his *work*.**  
+> In an interview published Sunday, Monsignor Tommaso Stenico told La > Repubblica daily he frequented online gay chat rooms and met with gay men as part of his work as a psychoanalyst. He said that he pretended to be gay in order to gather information about **“those who damage the image of the Church with homosexual activity.”**
 
 ### Related Posts:
 
-- [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/) - [Gay sheep, forbidden
+- [Gay](https://www.gnxp.com/WordPress/2006/11/03/gay/)
+- [Gay sheep, forbidden
   science?](https://www.gnxp.com/WordPress/2006/12/31/gay-sheep-forbidden-science/) - [Daily Data Dump -
   Wednesday](https://www.gnxp.com/WordPress/2010/10/13/daily-data-dump-wednesday-22/) - [Gay
   cavemen!!!](https://www.gnxp.com/WordPress/2011/04/07/gay-cavemen/) - [Gay in the Arab

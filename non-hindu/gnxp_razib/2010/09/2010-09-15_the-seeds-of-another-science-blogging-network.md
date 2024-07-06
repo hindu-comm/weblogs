@@ -11,7 +11,7 @@ The seeds of another science blogging network
 
 [Alert! Some Big And Important And Exciting News!](http://blog.coturnix.org/2010/09/15/alert-some-big-and-important-and-exciting-news/):
 
-> So yes, I will be working with the Scientific American editors and > staff in conceptualizing, building, launching and then running a new > science blogging network. How could I say No when given such a chance? > To do what I love and what I think I can do well, and all of that > under the banner of a magazine that was published continuously since > 1845.
+> So yes, I will be working with the Scientific American editors and > staff in conceptualizing, building, launching and then running a new > science blogging network. How could I say No when given such a chance? To do what I love and what I think I can do well, and all of that under the banner of a magazine that was published continuously since 1845.
 
 ### Related Posts:
 

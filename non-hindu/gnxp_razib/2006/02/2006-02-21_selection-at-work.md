@@ -11,7 +11,7 @@ Selection at work?
 
 A story in *The Economist*, titled [the fertility bust](http://www.economist.com/World/europe/PrinterFriendly.cfm?story_id=5494593#footnote1) (in the “Charlemagne” column), offers this interesting tidbit:
 
-> Germany is something of an oddity in this. In most countries with low > fertility, young women have their first child late, and stop at one. > **In Germany, women with children often have two or three. But many > have none at all.**
+> Germany is something of an oddity in this. In most countries with low fertility, young women have their first child late, and stop at one. **In Germany, women with children often have two or three. But many have none at all.**
 
 In other words, the mean for Germany is low, but reproductive variance (or skew) is high. With a large proportion of the population not reproducing, and another proportion reproducing above replacement, this is basically very close to [truncation selection](http://www.everythingbio.com/glos/definition.php?word=truncation+selection) if there is a phenotypic correlate (eg; only fat women reproduce within the population). If the variation in reproductive output has no genetic correlation than it is irrelevant from a microevolutionary perspective. But if the reproductive value is correlated with geography or some other parameter than it is likely that there is some genotypic bias in terms of fitness. With 80 million people it seems unlikely that Germany will suffer from a [mutational meltdown](http://www.csi.uoregon.edu/projects/mm/), so if fitness is [heritable](http://www.pnas.org/cgi/content/full/102/8/2838) (that is, the fecund transmit their fecundity to the next generation) a bounce back seems inevitable, **all parameters held equal**.
 

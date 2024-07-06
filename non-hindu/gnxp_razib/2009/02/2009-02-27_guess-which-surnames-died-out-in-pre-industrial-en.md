@@ -11,7 +11,7 @@ Guess which surnames died out in pre-industrial England?
 
 The surnames of the criminal and the poor, of course. [Greg Clark](https://www.gnxp.com/blog/2007/08/10-questions-for-greg-clark.php) provides new evidence for the “survival of the richest” [here](http://www.econ.ucdavis.edu/faculty/gclark/Farewell%20to%20Alms/Clark%20-Surnames.pdf) (and he thanks [Nick Wade](http://topics.nytimes.com/top/reference/timestopics/people/w/nicholas_wade/index.html) for the idea). From the abstract:
 
-> \[E\]vidence from…surnames…again shows the takeover of English society > by the economically successful between 1600 and 1851, and the > disappearance of the criminal and the poor. A man’s economic success > in pre-industrial England predicted a permanent increase of his > surname frequency, and hence his gene frequency, by 1851.
+> \[E\]vidence from…surnames…again shows the takeover of English society > by the economically successful between 1600 and 1851, and the disappearance of the criminal and the poor. A man’s economic success in pre-industrial England predicted a permanent increase of his surname frequency, and hence his gene frequency, by 1851.
 
 Confession: I, for one, had no idea that Elvis was a surname.
 

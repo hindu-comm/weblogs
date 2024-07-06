@@ -11,15 +11,15 @@ A map of the mind….
 
 Reader Mengu Gulmen emailed me about our exchange in regards to how we view the development of the mind:
 
-> Mengu: Every decision we make, everything we do and say, is based on > the  
-> previous experiences we’ve had \[all we did, all we have learned > from  
+> Mengu: Every decision we make, everything we do and say, is based on the  
+> previous experiences we’ve had \[all we did, all we have learned from  
 > our schools and our families and friends and internet and ….  
-> Myself: This sounds close to tabula rasa. See the cognitive revolution > for why  
+> Myself: This sounds close to tabula rasa. See the cognitive revolution for why  
 > I disagree.
 
 Mengu then sent me [this link](http://www.mindcreators.com/NeuralDarwinism.htm), and stated:
 
-> Our neurodevelopment is closely related with our experiences (what our > ‘sensors’ provide us) throughout our lives. So our thoughts are shaped > according to those links established in the past between our neurons.
+> Our neurodevelopment is closely related with our experiences (what our ‘sensors’ provide us) throughout our lives. So our thoughts are shaped according to those links established in the past between our neurons.
 
   
 To some extent I don’t disagree with Mengu. But, I would offer that though an important component of our neural development is (I think quantifying it is really useless) critically connected to the sequence of experiences which we absorb over our liftime, **I also believe our mind comes with predisposed cognitive biases**. That is, the [cognitive revolution](https://en.wikipedia.org/wiki/Cognitive_revolution) suggests that all information processing is not created equal. Noam Chomsky and the various schools of thought that followed him gave us the “universal grammar,” while we know that humans have natural faculties for facial recognition (of other humans), social model building and numeracy. This isn’t a black or white issue, obviously language is learned, but the ability to learn language with obligate ease is a function of our biology. I also believe that far more mild, but non-trivial, mental abilities and biases lurk in the background. I do not believe that supernatural agents are simply an emergent property of our reflective mind, I believe that theism has deep implicit and reflexive roots which makes it “intuitive.” This is an important issue that I think fellow atheists need to understand, that religion is not just about the conscious mind, or creeds or models of the universe, but it is lurking in the cognitive hardware of most humans in a very fundamental fashion. Of course, just because we have a cognitive bias doesn’t mean that we have to accept these quirks as true, we consciously reject the veracity of tricks and visual illusions.  

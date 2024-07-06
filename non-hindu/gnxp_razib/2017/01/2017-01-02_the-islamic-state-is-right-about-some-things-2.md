@@ -13,7 +13,8 @@ I’ve talked about the Yezidis many times over the years. The main reason is th
 
 ### Related Posts:
 
-- [Yezidis](https://www.gnxp.com/WordPress/2006/02/25/yezidis/) - [In Our Time, The Arab
+- [Yezidis](https://www.gnxp.com/WordPress/2006/02/25/yezidis/)
+- [In Our Time, The Arab
   Conquests](https://www.gnxp.com/WordPress/2008/06/26/in-our-time-the-arab-conquests/) - [Deepest
   Syria....](https://www.gnxp.com/WordPress/2005/07/09/deepest-syria/) - [Obscure Middle Eastern religious cults - part
   n](https://www.gnxp.com/WordPress/2007/10/10/obscure-middle-eastern-religious-cults-part-n/) - [Open Thread,

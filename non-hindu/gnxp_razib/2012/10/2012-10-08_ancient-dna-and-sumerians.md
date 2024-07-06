@@ -19,7 +19,8 @@ Something just does not add up in my models. Genetics will not solve the puzzle,
 
 ### Related Posts:
 
-- [Semitocracy](https://www.gnxp.com/WordPress/2009/10/08/semitocracy/) - [Language(s), then and
+- [Semitocracy](https://www.gnxp.com/WordPress/2009/10/08/semitocracy/)
+- [Language(s), then and
   now](https://www.gnxp.com/WordPress/2009/10/20/language-s-then-and-now/) - [Welcoming Nicolae
   Carpathia](https://www.gnxp.com/WordPress/2009/10/22/welcoming-nicolae-carpathia/) - [10 Things About Ancient History You Should Really
   Know](https://www.gnxp.com/WordPress/2017/04/20/10-things-about-really-ancient-history-you-should-know/) - [DNA.Land and new ancestry

@@ -18,7 +18,8 @@ Finally, there is the Other, the society in which Muslims reside. In a multicult
 
 ### Related Posts:
 
-- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/) - [Pakistan is already an Islamic
+- [Religion-normed](https://www.gnxp.com/WordPress/2007/04/23/religion-normed/)
+- [Pakistan is already an Islamic
   State](https://www.gnxp.com/WordPress/2009/04/30/pakistan-is-already-an-islamic-state/) - [Death to the apostates - NOT
   (?)](https://www.gnxp.com/WordPress/2007/07/24/death-to-the-apostates-not/) - [Harun Yahya - who is funding
   him?](https://www.gnxp.com/WordPress/2007/07/17/harun-yahya-who-is-funding-him/) - [Why Pakistanis are more Muslim than

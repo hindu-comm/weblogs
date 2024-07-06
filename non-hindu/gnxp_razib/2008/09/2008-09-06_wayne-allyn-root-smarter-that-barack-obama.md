@@ -11,11 +11,11 @@ Wayne Allyn Root smarter that Barack Obama?
 
 [Wayne Allyn Root’s Million-Dollar Challenge](http://reason.com/news/show/128461.html):
 
-> But the thing Root really wanted to talk about was Obama’s grades. > Specifically, he was willing to bet a million dollars that he earned a > better grade point average at Columbia than his old classmate, **and > that the only reason Obama went on to Harvard Law School was the color > of his skin.**
+> But the thing Root really wanted to talk about was Obama’s grades. > Specifically, he was willing to bet a million dollars that he earned a better grade point average at Columbia than his old classmate, **and that the only reason Obama went on to Harvard Law School was the color of his skin.**
 
 Here’s an [article](http://www.nysun.com/new-york/obamas-years-at-columbia-are-a-mystery/85015/) in *The New York Sun*, [Obama’s Years at Columbia Are a Mystery](http://www.nysun.com/new-york/obamas-years-at-columbia-are-a-mystery/85015/). For what it’s worth, note that:
 
-> Mr. Miller acknowledged that Mr. Obama displayed academic achievement > at Harvard, **where he graduated magna cum laude** and led the Harvard > Law Review. Still, Mr. Miller said, he would like to see information > about how Mr. Obama performed in various subjects at Columbia.
+> Mr. Miller acknowledged that Mr. Obama displayed academic achievement at Harvard, **where he graduated magna cum laude** and led the Harvard Law Review. Still, Mr. Miller said, he would like to see information about how Mr. Obama performed in various subjects at Columbia.
 
   
 Basically people want to take a look at Obama’s college transcript; we know for example in 2000 that Al Gore and George W. Bush were mediocre students, though Gore showed significant improvement in his grades. McCain has not released his transcripts either, and we know that he graduated in the bottom 1% of his class at the Naval Academy. [Half Sigma](http://www.halfsigma.com/2008/09/sarah-palins-iq-no-higher-than-110.html) is claiming that Sarah Palin’s IQ is in the range of 110 (2/3 of a standard deviation above the norm) based on the fact that she transfered colleges 5 times and graduated from University of Idaho with a degree in journalism without having written any stories for the student paper. And we all know Joe Biden’s [touchiness about his IQ](https://www.youtube.com/watch?v=FyEqyYUGk4I).  

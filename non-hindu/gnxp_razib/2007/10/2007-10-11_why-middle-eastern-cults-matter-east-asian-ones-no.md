@@ -33,7 +33,8 @@ Addendum: Any discussion of religion is under-girded by assumptions. For example
 
 ### Related Posts:
 
-- [Obscure Middle Eastern religious cults - part
+- [Obscure Middle Eastern religious cults
+- part
   n](https://www.gnxp.com/WordPress/2007/10/10/obscure-middle-eastern-religious-cults-part-n/) - [The Iranian Genome
   Project](https://www.gnxp.com/WordPress/2012/02/07/the-iranian-genome-project/) - [How religious are Albanian and Bosnian
   Muslims?](https://www.gnxp.com/WordPress/2009/04/16/how-religious-are-albanian-and-bosnian-muslims/) - [Only a minority of Iranian Americans are

@@ -18,9 +18,9 @@ Maternal grandmother = 0.27
 
 I’ve also calculated the number of recombinations which occurred leading up to the gametes which fused to create her. That will be for a future post. But here let’s confirm that she is not inbred. I used [plink](http://pngu.mgh.harvard.edu/~purcell/plink/ibdibs.shtml#homo) for this. Here is the description of the command:
 
-> Given a large number of SNPs, in a homogeneous sample, it is possible > to calculate inbreeding coefficients (i.e. based on the observed > versus expected number of homozygous genotypes). >
+> Given a large number of SNPs, in a homogeneous sample, it is possible to calculate inbreeding coefficients (i.e. based on the observed versus expected number of homozygous genotypes). >
 > … >
-> The estimate of F can sometimes be negative. Often this will just > reflect random sampling error, but a result that is strongly negative > **(i.e. an individual has fewer homozygotes than one would expect by > chance at the genome-wide level)** can reflect other factors, e.g. > sample contamination events perhaps.
+> The estimate of F can sometimes be negative. Often this will just > reflect random sampling error, but a result that is strongly negative **(i.e. an individual has fewer homozygotes than one would expect by chance at the genome-wide level)** can reflect other factors, e.g. sample contamination events perhaps.
 
 My main confusion here was which population I should select? Should I select GIH (HapMap Gujaratis?) or CEU (Utah whites)? I ended up on the TSI sample (Tuscans) as a fake compromise. And of course, because she is mixed-race the results came out very negative, as she had way less homozygosity than would be “expected” from the population wide statistic. I also added an inbred friend (his parents are first cousins) as a “control.” Below are two plots which show the result.
 

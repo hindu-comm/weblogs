@@ -11,7 +11,7 @@ Convergent evolution in pigmentation
 
 Short article in [Conservation and Convergence of Colour Genetics: MC1R Mutations in brown Cavefish](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000388):
 
-> One of the most striking observations in nature is when similar > phenotypes appear independently, such as wings in birds and bats, or > melanism in moths and mice. These examples of so-called convergent > evolution naturally lead us to ponder the question of genetic > repeatability, i.e., the extent to which similar phenotypes that > evolved in parallel share the same genetic mechanisms. Cave-dwelling > organisms provide an attractive system for studying genetic > repeatability, since populations in geographically isolated caves > often undergo striking convergent evolution in response to the > drastically altered environment, with reduced pigmentation and vision > being particularly common phenotypes.
+> One of the most striking observations in nature is when similar > phenotypes appear independently, such as wings in birds and bats, or > melanism in moths and mice. These examples of so-called convergent > evolution naturally lead us to ponder the question of genetic > repeatability, i.e., the extent to which similar phenotypes that > evolved in parallel share the same genetic mechanisms. Cave-dwelling > organisms provide an attractive system for studying genetic > repeatability, since populations in geographically isolated caves often undergo striking convergent evolution in response to the drastically altered environment, with reduced pigmentation and vision being particularly common phenotypes.
 
 ### Related Posts:
 

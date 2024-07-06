@@ -11,8 +11,8 @@ Breastfeeding by adults?
 
 [Islamic scholar promotes adult breastfeeding](http://www.news.com.au/heraldsun/story/0,21985,21805283-663,00.html):
 
-> …Izzat Atiyaa had issued a fatwa, or religious ruling, offering his > bold suggestion as a way around the prohibition in Islamic religious > law against a woman working in private premises with a man who was not > her close relative. Breastfeeding, he argued, would create a familial > relationship under Islamic law.  
-> Dr Atiyaa explained to the Egyptian newspaper al-Watani al-Yawm that: > “A man and a woman who are alone together are not (necessarily) having > sex but this possibility exists and breastfeeding provides a solution > to this problem (by) **transforming the bestial relationship between > two people into a religious relationship based on (religious) > duties.**“
+> …Izzat Atiyaa had issued a fatwa, or religious ruling, offering his > bold suggestion as a way around the prohibition in Islamic religious law against a woman working in private premises with a man who was not her close relative. Breastfeeding, he argued, would create a familial relationship under Islamic law.  
+> Dr Atiyaa explained to the Egyptian newspaper al-Watani al-Yawm that: > “A man and a woman who are alone together are not (necessarily) having > sex but this possibility exists and breastfeeding provides a solution to this problem (by) **transforming the bestial relationship between two people into a religious relationship based on (religious) duties.**“
 
 ### Related Posts:
 

@@ -13,7 +13,7 @@ There is no “authentic” culture
 
 The reality of colorism and to be frank pro-white and pro-European sentiments among Latinos is a real phenomenon. But this section jumped out at me:
 
-> I cherish being a mixed-race person. Some of my mestizo family’s most > ingrained traditions come from the Black Caribbean, like the salsa > from Joe Arroyo, whose songs kept my head held high when I felt shame > as an undocumented student at Harvard. We sometimes speak Quechua at > home, especially to describe good or bad feelings in the body that > don’t have words in English or Spanish. **But I am not Black and I am > not native. I have had to decide for myself what is a respectful > enactment of my culture and what might be romanticization of ancestors > I don’t know. What is an authentic expression of my culture and what > is appropriation?** It takes deep personal reflection. It takes > education.
+> I cherish being a mixed-race person. Some of my mestizo family’s most > ingrained traditions come from the Black Caribbean, like the salsa > from Joe Arroyo, whose songs kept my head held high when I felt shame > as an undocumented student at Harvard. We sometimes speak Quechua at > home, especially to describe good or bad feelings in the body that > don’t have words in English or Spanish. **But I am not Black and I am > not native. I have had to decide for myself what is a respectful > enactment of my culture and what might be romanticization of ancestors I don’t know. What is an authentic expression of my culture and what is appropriation?** It takes deep personal reflection. It takes education.
 
 The premise here seems to be that one’s culture is conditional on one’s biology. And who gets to decide “authentic” expression?
 

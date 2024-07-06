@@ -14,8 +14,8 @@ I am still green enough to get hopeful about things like this every now and then
 > Let’s ramp up the intelligence of politics  
 > An open letter to the political blogosphere >
 > Jimmy (Jimbo) Wales, July 4, 2006 >
-> For more than 50 years now, we have been living in the era of > television politics. In the 1950s television first began to have a > major impact on politics, and the results were overwhelming. >
-> Broadcast media brought us broadcast politics. And let’s be simple and > bluntly honest about it, left or right, conservative or liberal, > broadcast politics are dumb, dumb, dumb.
+> For more than 50 years now, we have been living in the era of television politics. In the 1950s television first began to have a major impact on politics, and the results were overwhelming. >
+> Broadcast media brought us broadcast politics. And let’s be simple and bluntly honest about it, left or right, conservative or liberal, broadcast politics are dumb, dumb, dumb.
 
 [Read the rest at the Campaigns Wikia site](http://campaigns.wikia.com/wiki/Mission_Statement)
 

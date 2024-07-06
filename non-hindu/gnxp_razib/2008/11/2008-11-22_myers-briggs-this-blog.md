@@ -14,8 +14,8 @@ Myers-Briggs & this blog
   
 **…INTJ – The Scientists**:
 
-> The long-range thinking and individualistic type. They are especially > good at looking at almost anything and figuring out a way of improving > it – often with a highly creative and imaginative touch. They are > intellectually curious and daring, but might be pshysically hesitant > to try new things.  
-> The Scientists enjoy theoretical work that allows them to use their > strong minds and bold creativity. Since they tend to be so abstract > and theoretical in their communication they often have a problem > communcating their visions to other people and need to learn patience > and use conrete examples. Since they are extremly good at > concentrating they often have no trouble working alone.
+> The long-range thinking and individualistic type. They are especially > good at looking at almost anything and figuring out a way of improving it – often with a highly creative and imaginative touch. They are intellectually curious and daring, but might be pshysically hesitant to try new things.  
+> The Scientists enjoy theoretical work that allows them to use their > strong minds and bold creativity. Since they tend to be so abstract > and theoretical in their communication they often have a problem communcating their visions to other people and need to learn patience and use conrete examples. Since they are extremly good at concentrating they often have no trouble working alone.
 
 But what about me? From what I recall I’m an ENTJ or P. I took a [Myers-Briggs](http://www.humanmetrics.com/cgi-win/JTypes3.asp), and it said I’m an ENTJ, with the following breakdowns:  
 Extraverted – 33%  

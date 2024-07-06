@@ -11,13 +11,13 @@ Picking apart the black box
 
 From Science: [Genetically Determined Differences in Learning from Errors](http://www.sciencemag.org/cgi/content/abstract/318/5856/1642):
 
-> The role of dopamine in monitoring negative action outcomes and > feedback-based learning was tested in a neuroimaging study in humans > grouped according to the dopamine D2 receptor gene polymorphism > DRD2-TAQ-IA. In a probabilistic learning task, **A1-allele carriers > with reduced dopamine D2 receptor densities learned to avoid actions > with negative consequences less efficiently.**
+> The role of dopamine in monitoring negative action outcomes and > feedback-based learning was tested in a neuroimaging study in humans > grouped according to the dopamine D2 receptor gene polymorphism DRD2-TAQ-IA. In a probabilistic learning task, **A1-allele carriers with reduced dopamine D2 receptor densities learned to avoid actions with negative consequences less efficiently.**
 
 I’ve mentioned before how genomic data in both [model organisms](https://www.gnxp.com/blog/2007/09/behavioral-genetics-getting-molecular.php) and humans is going to break open the field of behavioral genetics. This, however, is old-school genetics (though with the neuroimaging twist)– they have a single polymorphism which they believe to be functional, and they test it against their phenotype.
 
 It’s interesting if true, but the standards for claiming a genetic association have gone up since people got excited multiple times in the early 90s over false positives, and here, the small sample size and lack of replication make it easy to be skeptical. Apparently, many people are–[here’s Neil Risch](http://www.sciencemag.org/cgi/content/full/318/5856/1539a):
 
-> Geneticist Neil Risch of the University of California, San Francisco, > adds that this allele “has been a candidate gene for every imaginable > psychiatric phenotype for 18 years now, and to my knowledge none of > the originally reported associations has held up.”
+> Geneticist Neil Risch of the University of California, San Francisco, adds that this allele “has been a candidate gene for every imaginable psychiatric phenotype for 18 years now, and to my knowledge none of the originally reported associations has held up.”
 
 But still, one can imagine this study with 100X more people and genome-wide SNP chips. In a couple years, that won’t be difficult.
 

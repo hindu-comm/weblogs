@@ -11,7 +11,7 @@ A sympathy for statistics
 
 [The Mission: Mitt Romney’s strategies for success](http://www.newyorker.com/reporting/2007/10/29/071029fa_fact_lizza):
 
-> “There are answers in numbers-gold in numbers,” he \[Romney\] wrote in > “Turnaround: Crisis, Leadership, and the Olympic Games,” his 2004 > memoir. “Pile the budgets on my desk and let me wallow.” His campaign > manager, Beth Myers, told me recently that Romney regularly checks > Mittromney.com, and sends off e-mails to aides, asking them to add > more detailed information to the site.
+> “There are answers in numbers-gold in numbers,” he \[Romney\] wrote in > “Turnaround: Crisis, Leadership, and the Olympic Games,” his 2004 > memoir. “Pile the budgets on my desk and let me wallow.” His campaign manager, Beth Myers, told me recently that Romney regularly checks Mittromney.com, and sends off e-mails to aides, asking them to add more detailed information to the site.
 
 I still think Mitt Romney’s religion will lose him [too many votes on the margins](https://www.gnxp.com/blog/2005/09/one-nation-under-gods-and-mitt-romney.php) of his target audience to make him viable. But if that isn’t a problem, the data-jock attitude is a serious issue. There’s no bar on being president and several standard deviations or more above the norm in intelligence. Thomas Jefferson was president of *The American Philosophical Society*; but suffrage was limited to the “higher orders” when he was head of the American state. Jimmy Carter might have had a physics degree, but he was a down home southern boy! I don’t know if Romney is smart enough to know that he has to start actin’ a bit dumb now and then.
 

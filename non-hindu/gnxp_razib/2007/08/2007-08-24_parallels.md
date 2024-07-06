@@ -13,7 +13,8 @@ Pardon the interruption, but if anyone has successfully used Parallels with a Wi
 
 ### Related Posts:
 
-- [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/) - [Desktop linux will never happen for the
+- [Wubi](https://www.gnxp.com/WordPress/2008/05/16/wubi/)
+- [Desktop linux will never happen for the
   masses](https://www.gnxp.com/WordPress/2015/08/25/desktop-linux-will-never-happen-for-the-masses-i-guess/) - [Running a windows .exe within linux
   (gentoo)](https://www.gnxp.com/WordPress/2006/04/25/running-a-windows-exe-within-linux-gentoo/) - [Dodging the Apple Premium
   (still)](https://www.gnxp.com/WordPress/2017/11/24/dodging-the-apple-premium-still/) - [Another computer

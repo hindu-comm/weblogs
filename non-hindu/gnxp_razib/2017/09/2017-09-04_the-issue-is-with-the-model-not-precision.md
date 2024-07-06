@@ -11,7 +11,7 @@ The issue is with the model, not precision!
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/exploringpersonalgenomics.jpeg?resize=196%2C257)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/exploringpersonalgenomics.jpeg?resize=196%2C257)](https://www.amazon.com/exec/obidos/ASIN/0199644497/geneexpressio-20)[The Wirecutter](http://thewirecutter.com/reviews/best-dna-ancestry-testing-kit/) has a [thorough review](http://thewirecutter.com/reviews/best-dna-ancestry-testing-kit/) of direct-to-consumer ancestry testing services. Since I now work at a human personal genomics company I’m not going to comment on the merits of any given service. But, **I do want to clarify something in regards to the precision of these tests.** Before the author quotes Jonathan Marks, he says:
 
-> For Jonathan Marks, anthropology professor at University of North > Carolina at Charlotte, the big unknown for users is the **margin for > error with these estimates….**
+> For Jonathan Marks, anthropology professor at University of North Carolina at Charlotte, the big unknown for users is the **margin for error with these estimates….**
 
 The issue I have with this quote is that **the margin of error on these tests is really not that high**. [Margin of error](https://en.wikipedia.org/wiki/Margin_of_error#Basic_concept) itself is a precise concept. If you sample 1,000 individuals you’ll have a lower margin of error than if you sample 100 individuals. That’s common sense.
 

@@ -13,11 +13,11 @@ In the post below I combined some of the Census Regions for reasons of sample si
 ![census_regions.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/census_regions.png?resize=500%2C394)![census_regions.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/census_regions.png?resize=500%2C394)  
 But, I added another category: blacks. [Michael Lind](http://www.salon.com/opinion/feature/2009/08/11/south/index.html) said:
 
-> Drum’s creepy bigotry becomes clear when other groups are substituted: > “There are, needless to say, plenty of individual blacks who are > wholly admirable. But taken as a whole, black culture is \[redacted\]. > Barack Obama can pretty it up all he wants, but it’s a \[redacted\].” > Or maybe this: “There are, needless to say, plenty of individual Jews > who are wholly admirable. But taken as a whole, Jewish culture is > \[redacted\]. The late Irving Howe can pretty it up all he wants, but > it’s a \[redacted\].”
+> Drum’s creepy bigotry becomes clear when other groups are substituted: > “There are, needless to say, plenty of individual blacks who are > wholly admirable. But taken as a whole, black culture is \[redacted\]. > Barack Obama can pretty it up all he wants, but it’s a \[redacted\].” > Or maybe this: “There are, needless to say, plenty of individual Jews who are wholly admirable. But taken as a whole, Jewish culture is \[redacted\]. The late Irving Howe can pretty it up all he wants, but it’s a \[redacted\].”
 
 Below J-Dog notes:
 
-> Can we do a recount on the Civil War – and FORCE the crackers in the > South to secede now?
+> Can we do a recount on the Civil War – and FORCE the crackers in the South to secede now?
 
 Results below….
 

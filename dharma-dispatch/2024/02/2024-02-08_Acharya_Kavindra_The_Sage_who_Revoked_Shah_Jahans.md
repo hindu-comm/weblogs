@@ -413,13 +413,13 @@ Read full story
 
 WHEN THE ARAB BARBARIAN TARIQ landed on the shores of Spain in 711 CE, he burned the ship that had carried his holy army of Islamic warriors. His rightly alarmed soldiers asked him how they would return. Tariq had no intention of returning. His response was wholly rooted in the core tenets of Islam:
 
-> "Har mulk mulk-i mâ'st ki mulk-î Khuda-i mâ'st": All land belongs to > us, because it belongs to our God.
+> "Har mulk mulk-i mâ'st ki mulk-î Khuda-i mâ'st": All land belongs to us, because it belongs to our God.
 
 You simply can't argue with this kind of "logic." Indeed, Tariq’s pithy response simply delineated a straightforward commentary on Jihad. Indeed, every Arab and Turkish Muslim invader from the earliest times has used a variant of Tariq’s dictum. From Mahmud of Ghazni’s infamous vow of “waging a Holy War against Hindustan every year” to Tipu Sultan’s bigoted letters to alien Muslim rulers like Zaman Shah inviting him to establish the empire of Islam in this Kaffir land, this pattern has been consistent.
 
 From one perspective, majority of later Muslim theology and religious literature is simply a voluminous mass of Jihad justification. Let’s hear it from the mouth of the 14^(th) century Islamic theologian Ibn Taymiyyah:
 
-> Jihad merely restores land to the Muslims who enjoy a divine right > over these lands.
+> Jihad merely restores land to the Muslims who enjoy a divine right over these lands.
 
 Read that again. And again. And again. Write it down. Think and contemplate on its complete implications.
 

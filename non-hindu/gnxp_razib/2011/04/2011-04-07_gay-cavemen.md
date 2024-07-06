@@ -11,8 +11,8 @@ Gay cavemen!!!
 
 I hadn’t run into this story today (thank God!). [John Hawks’](http://johnhawks.net/weblog/topics/meta/communication/gay-caveman-prague-2011.html) begins a critical post:
 
-> I am just about to go crazy today. I just can’t seem to escape the > “gay caveman” story. >
-> No, I don’t mean the Geico caveman who likes mango duck breast and who > has Talia Shire as his therapist. His sexual orientation I don’t know.
+> I am just about to go crazy today. I just can’t seem to escape the “gay caveman” story. >
+> No, I don’t mean the Geico caveman who likes mango duck breast and who has Talia Shire as his therapist. His sexual orientation I don’t know.
 
 In the sitcom, [Cavemen](https://en.wikipedia.org/wiki/Cavemen_(TV_series)), they were all straight. The main issue in regards to sexuality was that one of the cavemen tended to date [sapiens sapiens females](https://www.google.com/images?q=Kaitlin+Doubleday&um=1&ie=UTF-8&source=og&sa=N&hl=en&tab=wi&biw=1366&bih=632), and his girlfriend had a tendency to hook up with cavemen. Another of the cavemen frowned up these “mixed” relationships.
 

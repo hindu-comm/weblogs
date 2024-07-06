@@ -11,13 +11,14 @@ The genome is a structure, not just an abstraction
 
 Here’s a quick [follow-up](http://www.ucsf.edu/news/2012/04/11864/value-genomics-and-personalized-medicine-wrongly-downplayed) on the study which [purported to illustrate the shortcomings in genomic risks prediction](http://stm.sciencemag.org/content/early/2012/04/02/scitranslmed.3003380), and received [major media coverage](http://blogs.nature.com/news/2012/04/questioning-value-personal-genomics.html):
 
-> Neil Risch, PhD, a leading expert in statistical genetics and the > director of the UCSF Institute for Human Genetics, agrees with one > major conclusion presented by the study authors, the Times reporter, > and other experts quoted in media coverage: **genomic studies are more > valuable for their potential to lead to a better understanding of > diseases globally than for their predictive power for any individual > patient.**
+> Neil Risch, PhD, a leading expert in statistical genetics and the > director of the UCSF Institute for Human Genetics, agrees with one > major conclusion presented by the study authors, the Times reporter, > and other experts quoted in media coverage: **genomic studies are more valuable for their potential to lead to a better understanding of diseases globally than for their predictive power for any individual patient.**
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/04/250px-NHGRI_human_male_karyotype.png?resize=250%2C196)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/04/250px-NHGRI_human_male_karyotype.png?resize=250%2C196)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/04/250px-NHGRI_human_male_karyotype.png)This position has been “in the air” for a few years. But I think we ought to reiterate something: **genomics intersects with structural and molecular biology, as well as statistics.** In other words, genomes are concrete things in the world, and their biophysical nature naturally has great relevance for understanding the etiology of diseases, even if they are of limited use in a purely statistical sense. The field even has something for those who are suspicious of hereditarian arguments in general: epiogenomics.
 
 ### Related Posts:
 
-- [Power of the media - to make you look like a
+- [Power of the media
+- to make you look like a
   schmuck](https://www.gnxp.com/WordPress/2005/11/19/power-of-the-media-to-make-you-look-like-a-schmuck/) - [Picking apart the black
   box](https://www.gnxp.com/WordPress/2007/12/07/picking-apart-the-black-box/) - [Chinese propensity to
   copy](https://www.gnxp.com/WordPress/2009/11/21/chinese-propensity-to-copy/) - [Age & association

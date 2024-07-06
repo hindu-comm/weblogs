@@ -18,7 +18,8 @@ The second plot illustrates that **for most of the years since 1977 men have sup
 
 ### Related Posts:
 
-- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Men and women really don't differ in the generality
+- [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/)
+- [Men and women really don't differ in the generality
   on…](https://www.gnxp.com/WordPress/2020/09/21/me-and-women-really-dont-differ-in-the-generality-on-abortion/) - [20% of white non-Hispanic liberals are
   "pro-life"(ish)](https://www.gnxp.com/WordPress/2017/05/25/20-of-white-non-hispanic-liberals-are-pro-life/) - [Women care more about abortion
   rights](https://www.gnxp.com/WordPress/2008/08/29/women-care-more-about-abortion-rights/) - [Latest op-ed in The New York

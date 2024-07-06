@@ -11,7 +11,7 @@ Tomorrow belongs to the "Darwinists"?
 
 The use of the word “Darwinist” is to catch the attention of Creationists, normally I’m not too warm to its usage in a scientific (as opposed to philosophical or historical) context. In any case, Jerry Coyne has a post up where he [states](http://whyevolutionistrue.wordpress.com/2009/08/11/mooney-and-kirshenbaum-self-destruct-at-last/):
 
-> The “new atheists” have been on the scene for exactly five years, > beginning with Sam Harris’s The End of Faith, published in 2004. But > American’s attitudes to evolution have been relatively unchanged (with > 40+% denying it) for twenty-five years. This means two things.
+> The “new atheists” have been on the scene for exactly five years, beginning with Sam Harris’s The End of Faith, published in 2004. But American’s attitudes to evolution have been relatively unchanged (with 40+% denying it) for twenty-five years. This means two things.
 
 This is true to a first approximation, and rather depressing. So I thought I would repeat a data finding which might cheer us up: **the youngest adult age cohorts are the least Creationist.**The GSS has 4 evolution related questions, EVOLVED, SCITEST4, SCITESTY and CREATION, and all seem to point in this direction. Below the fold I present the data, along with a few crosstabs by demographic variables & commentary.  
 Here’s a graphic that illustrates the topline trend:

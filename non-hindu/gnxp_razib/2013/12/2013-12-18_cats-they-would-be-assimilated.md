@@ -23,7 +23,8 @@ So then the Chinese cats who coexisted with humans are a “false dawn” of dom
 
 ### Related Posts:
 
-- [Cats](https://www.gnxp.com/WordPress/2007/02/09/cats/) - [My article in The New York Times is
+- [Cats](https://www.gnxp.com/WordPress/2007/02/09/cats/)
+- [My article in The New York Times is
   out](https://www.gnxp.com/WordPress/2014/11/24/my-article-in-the-new-york-times-is-out/) - [A feline genome in
   full](https://www.gnxp.com/WordPress/2014/11/11/a-feline-genome-in-full/) - [Domestication of humans by the
   cat](https://www.gnxp.com/WordPress/2007/06/28/domestication-of-humans-by-the-cat/) - [Purring in the post-genomic

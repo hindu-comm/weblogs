@@ -403,13 +403,13 @@ our industrial system can only be operated and profits can only be made by men p
 
 As we noted earlier, this was an early warning against the consequences of regarding humans as mere economic units. And what does an education system premised on this sort of notion produce? Coomaraswamy answers:
 
-> the literacy actually produced by compulsory mass education **often > involves little or no more than an ability and the will to read the > newspapers and advertisements**. \[Emphasis added\]
+> the literacy actually produced by compulsory mass education **often involves little or no more than an ability and the will to read the newspapers and advertisements**. \[Emphasis added\]
 
 Indeed, Ananda Coomaraswamy’s far more profound contemporary, D.V. Gundappa echoes the same warning when he repeatedly warns people from reading too many newspapers. He had the authority to say so: he was an editor and journalist for sixty years.
 
 And what exactly was at the root of such an education policy? What was the inherent evil?
 
-> If…you are planning to industrialize the rest of the world, you are > also duty bound to train it in Basic English… **American is already a > language of exclusively external relationships, a tradesman’s > tongue**—lest the other peoples should be unable to compete > effectively with us. **Competition is the life of trade, and gangsters > must have rivals**. \[Emphasis added\]
+> If…you are planning to industrialize the rest of the world, you are > also duty bound to train it in Basic English… **American is already a > language of exclusively external relationships, a tradesman’s tongue**—lest the other peoples should be unable to compete effectively with us. **Competition is the life of trade, and gangsters must have rivals**. \[Emphasis added\]
 
 Think about it for a moment. Think about the English we use in India today. Think about the badly mangled contractions and neologisms whose etymology rebels against every known principle of linguistics. Think about the phrases we unthinkingly use as accepted truths. Think about the idioms we drop as profound wisdom. Most of them are horrible Americanisms that have no past and their shelf lives are akin to the newly introduced “disappearing messages” on WhatsApp.
 
@@ -427,7 +427,7 @@ This is savagery, not education.
 
 And what has this “education” produced as its nightmarish end result? Has it resulted in a nation of *happy* people? As experience shows us, quite the contrary. The explosion of the psychiatry industry is the other great proof of this fact. So what kind of nation has this “education” created? Coomaraswamy quotes Karl Otten:
 
-> *Universal compulsory education, of the type introduced at the end of > the last century, has not fulfilled expectations by producing happier > and more effective citizens; **on the contrary, it has created readers > of the yellow press and cinema-goers***. \[Emphasis added\]
+> *Universal compulsory education, of the type introduced at the end of the last century, has not fulfilled expectations by producing happier and more effective citizens; **on the contrary, it has created readers of the yellow press and cinema-goers***. \[Emphasis added\]
 
 The inseparable companion of education is *learning*. And this was the Sanatana view of both education and learning:
 

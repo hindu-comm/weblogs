@@ -11,7 +11,7 @@ Noah Millman on Iran
 
 Since [Noah Millman](https://www.gideonsblog.blogspot.com/) posts so infrequently he should really install an RSS feed! In any case, Noah [lays out a pragmatic case](https://www.gideonsblog.blogspot.com/2006_09_01_gideonsblog_archive.html#115956440816036739) for why we shouldn’t invade Iran, which prompted a [response](http://www.enetation.co.uk/comments.php?user=gideonsblogger&commentid=115956440816036739&usersite=http://www.gideonsblog.blogspot.com/#4912283) with this *denouement*:
 
-> We lack only the will, not the power, to destroy the threat that Iran > presents — and we lack that will partly because people like you delude > yourself and others into believing we can’t defeat these savages > militarily. How sad to see the greatest nation on earth brought to its > knees by its own people. How sad to see these dark-ages barbarians, > who are bent on the elimination of all freedom on the planet, > empowered by the alleged champions of liberty: the liberals. When > these savages appear at your door, you will have no one to blame but > yourself.
+> We lack only the will, not the power, to destroy the threat that Iran > presents — and we lack that will partly because people like you delude > yourself and others into believing we can’t defeat these savages > militarily. How sad to see the greatest nation on earth brought to its > knees by its own people. How sad to see these dark-ages barbarians, > who are bent on the elimination of all freedom on the planet, empowered by the alleged champions of liberty: the liberals. When these savages appear at your door, you will have no one to blame but yourself.
 
 Fevered dreams….
 

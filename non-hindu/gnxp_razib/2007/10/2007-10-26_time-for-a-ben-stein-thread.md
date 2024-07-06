@@ -11,8 +11,8 @@ Time for a Ben Stein thread
 
 Couldn’t find a thread on this yet: Actor/Politico/Author Ben Stein has apparently become a “[You can’t handle the truth](https://www.youtube.com/watch?v=8hGvQtumNAY)“er. He appears in a documentary on the persecution of the intelligent design movement \*yawn\* but [here’s his key claim](http://www.reason.com/blog/show/122721.html):
 
-> …\[Stein\] said in a telephone interview that he accepted the > producers’ invitation to participate in the film not because he > disavows the theory of evolution – he said there was a “very high > likelihood” that Darwin was on to something – but because he does not > accept that evolution alone can explain life on earth. >
-> He said he also believed the theory of evolution leads to racism and > ultimately genocide, an idea common among creationist thinkers. If it > were up to him, he said, the film would be called “From Darwin to > Hitler.”
+> …\[Stein\] said in a telephone interview that he accepted the > producers’ invitation to participate in the film not because he disavows the theory of evolution – he said there was a “very high likelihood” that Darwin was on to something – but because he does not accept that evolution alone can explain life on earth. >
+> He said he also believed the theory of evolution leads to racism and ultimately genocide, an idea common among creationist thinkers. If it were up to him, he said, the film would be called “From Darwin to Hitler.”
 
 So it’s not that he doesn’t believe in evolution, it’s (partially) that he doesn’t trust the masses with the knowledge. There, he could be onto something…..
 

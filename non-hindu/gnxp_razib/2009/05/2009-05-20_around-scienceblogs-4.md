@@ -17,7 +17,8 @@ Around ScienceBlogs
 
 ### Related Posts:
 
-- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/) - [Too Much Time On My
+- [Star Trek](https://www.gnxp.com/WordPress/2009/05/09/star-trek/)
+- [Too Much Time On My
   Hands](https://www.gnxp.com/WordPress/2006/07/26/too-much-time-on-my-hands/) - [Brian Switek in Times Online on
   Ida](https://www.gnxp.com/WordPress/2009/05/25/brian-switek-in-times-online-on-ida/) - [Star Trek, Here I
   Stand](https://www.gnxp.com/WordPress/2009/05/12/star-trek-here-i-stand/) - [Social networking, does it

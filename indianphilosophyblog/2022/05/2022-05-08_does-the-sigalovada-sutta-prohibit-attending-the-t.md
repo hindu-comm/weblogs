@@ -19,19 +19,19 @@ What I have *not* been doing is reinterpreting the Sigālovāda Sutta itself, an
 
 Here’s what I mean by “what the sutta actually says”:
 
-> inasmuch as the noble disciple is not led by desire, anger, ignorance, > and fear, he commits no evil…. What are the six channels for > dissipating wealth which he does not pursue? Indulgence in intoxicants > which cause infatuation and heedlessness; sauntering in streets at > unseemly hours; frequenting theatrical shows…  
-> There are, young householder, these six evil consequences in > frequenting theatrical shows. He is ever thinking:  
+> inasmuch as the noble disciple is not led by desire, anger, ignorance, > and fear, he commits no evil…. What are the six channels for dissipating wealth which he does not pursue? Indulgence in intoxicants which cause infatuation and heedlessness; sauntering in streets at unseemly hours; frequenting theatrical shows…  
+> There are, young householder, these six evil consequences in frequenting theatrical shows. He is ever thinking:  
 > (i) where is there dancing?  
 > (ii) where is there singing?  
 > (iii) where is there music?  
 > (iv) where is there recitation?  
 > (v) where is there playing with cymbals?  
 > (vi) where is there pot-blowing?…  
-> In four ways, young householder, should one who brings ruin be > understood as a foe in the guise of a friend:  
-> (i) he is a companion in indulging in intoxicants that cause > infatuation and heedlessness,  
+> In four ways, young householder, should one who brings ruin be understood as a foe in the guise of a friend:  
+> (i) he is a companion in indulging in intoxicants that cause infatuation and heedlessness,  
 > (ii) he is a companion in sauntering in streets at unseemly hours,  
 > (iii) he is a companion in frequenting theatrical shows,  
-> (iv) he is a companion in indulging in gambling which causes > heedlessness.
+> (iv) he is a companion in indulging in gambling which causes heedlessness.
 
 I’m quoting [Narada Thera’s online translation](https://accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html); if Justin thinks there’s anything wrong with that translation I’m happy to use another or refer back to the Pali. These passages are why I think the text prohibits theatre. Justin refers to this as my “reading quite literally”.
 

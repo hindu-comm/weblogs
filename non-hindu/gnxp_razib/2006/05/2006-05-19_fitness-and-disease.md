@@ -11,7 +11,7 @@ Fitness and disease
 
 [Yann Klimentidis](https://yannklimentidis.blogspot.com/) points to a preprint of a paper by Eyre-Walker et al. coming out in Genetics entitled [The distribution of fitness effects of new deleterious amino acid mutations in humans](http://www.genetics.org/cgi/content/abstract/genetics.106.057570v1). The abstract finishes with this:
 
-> We argue that the relaxation of natural selection due to modern > medicine and reduced variance in family size is not likely to lead to > a rapid decline in genetic quality, but that it will be very difficult > to locate most of the genes involved in complex disease
+> We argue that the relaxation of natural selection due to modern medicine and reduced variance in family size is not likely to lead to a rapid decline in genetic quality, but that it will be very difficult to locate most of the genes involved in complex disease
 
 These are two possibly interesting points; let’s take a closer look at both of them:
 

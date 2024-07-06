@@ -11,7 +11,7 @@ Can 46% of Mississippi Republicans favor banning interracial marriage?
 
 That’s the number. At least according to [Public Policy Polling](http://www.publicpolicypolling.com/pdf/PPP_Release_MS_0407915.pdf). That seems rather high. So I decided to go back and look at the RACMAR variable in the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10). Here’s the question:
 
-> Do you think there should be laws against marriages between > African-Americans and whites?
+> Do you think there should be laws against marriages between African-Americans and whites?
 
 They kept asking the question for 30 years, but dropped it in 2002. Here’s the reason:
 

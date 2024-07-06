@@ -11,12 +11,12 @@ Complex traits & evolution – follow up
 
 [Mike White](http://www.scientificblogging.com/adaptive_complexity/blog/when_physicists_try_talk_genetics_2) finally left a comment on my post Complex traits & evolution:
 
-> I’m trying to make a distinction between what geneticists call complex > or quantitative traits (traits affected by different alleles of many > different genes, with a quantitative range of phenotypes), and > something I would call a physiologically complex (or complicated) > trait.  
-> Complex or quantitative traits include both height and intelligence. > But I’m arguing that something like height is not physiologically > complex the way intelligence is.  
+> I’m trying to make a distinction between what geneticists call complex > or quantitative traits (traits affected by different alleles of many different genes, with a quantitative range of phenotypes), and something I would call a physiologically complex (or complicated) trait.  
+> Complex or quantitative traits include both height and intelligence. But I’m arguing that something like height is not physiologically complex the way intelligence is.  
 > …  
-> So, for example, in the case of height, you can imagine that it is > easy for a single allele of large effect to reach high frequency in a > given population, resulting in a fairly tall (or short) population.  
-> I don’t think that such a thing is very likely for intelligence, > because, unlike what I think is the case for height, single alleles of > large effect on intelligence probably also have large deleterious > effects (like neurological disorders) – something like intelligence is > so physiologically complex that it is much easier to ‘break’ with a > large-effect allele than something like stature, where an allele that > extends how long growth plates in your leg bones are active (for > example) is unlikely to also have major deleterious effects.  
-> And to get race-specific differences, given current human genetic > variation, ***you need single alleles with large effects* – thus you > have genetic differences between populations in height and skin color, > but not IQ.**
+> So, for example, in the case of height, you can imagine that it is easy for a single allele of large effect to reach high frequency in a given population, resulting in a fairly tall (or short) population.  
+> I don’t think that such a thing is very likely for intelligence, > because, unlike what I think is the case for height, single alleles of > large effect on intelligence probably also have large deleterious > effects (like neurological disorders) – something like intelligence is > so physiologically complex that it is much easier to ‘break’ with a large-effect allele than something like stature, where an allele that extends how long growth plates in your leg bones are active (for example) is unlikely to also have major deleterious effects.  
+> And to get race-specific differences, given current human genetic variation, ***you need single alleles with large effects* – thus you have genetic differences between populations in height and skin color, but not IQ.**
 
 I disagree that alleles of large effect are necessary. We already have a large range of extant variation across human populations. From what I can tell about the Breeder’s Equation QTLs of large effect are not needed.
 

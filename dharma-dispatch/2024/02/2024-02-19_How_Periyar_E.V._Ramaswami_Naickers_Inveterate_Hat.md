@@ -409,7 +409,7 @@ Read full story
 
 </div>
 
-> **When we think of ourselves as Sudras, we accept ourselves as the > sons of prostitutes.**
+> **When we think of ourselves as Sudras, we accept ourselves as the sons of prostitutes.**
 
 THAT WAS E.V. RAMASWAMI NAICKER, perhaps the first political hoodlum of pre-independence India and the patron saint of successive generations of*post*independence political goons. The fact that he is still hailed as “Periyar” (The Elder or Respected One) is more reflective of a celebration of the all-round destruction he inflicted upon Tamil Nadu. Given his long career, his overall legacy doesn’t remotely resemble decency or constructiveness with regard to Tamil Nadu or its culture.
 

@@ -15,7 +15,8 @@ In any case, *The New York Times* has an interesting piece up, [The Fight Over N
 
 ### Related Posts:
 
-- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/) - [Habitable planets & Alpha
+- [Red Planet](https://www.gnxp.com/WordPress/2009/07/20/red-planet/)
+- [Habitable planets & Alpha
   Centauri](https://www.gnxp.com/WordPress/2009/05/20/habitable-planets-alpha-centauri/) - [The moon is not such a harsh
   mistress](https://www.gnxp.com/WordPress/2009/11/13/the-moon-is-not-such-a-harsh-mistress/) - [From the earth to the
   moon!](https://www.gnxp.com/WordPress/2019/07/20/from-the-earth-to-the-moon/) - [Space, the forgotten

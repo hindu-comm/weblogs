@@ -13,7 +13,9 @@ Rude nation
 
 ### Related Posts:
 
-- [Accountability](https://www.gnxp.com/WordPress/2007/06/04/accountability/) - [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/) - [The end of Google
+- [Accountability](https://www.gnxp.com/WordPress/2007/06/04/accountability/)
+- [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/)
+- [The end of Google
   Reader](https://www.gnxp.com/WordPress/2013/06/26/the-end-of-google-reader/) - [Most people don't understand
   "heritability"](https://www.gnxp.com/WordPress/2012/01/29/most-people-dont-understand-heritability/) - [Finland & Himmler's
   scholars](https://www.gnxp.com/WordPress/2006/09/02/finland-himmler-s-scholars/) - [A New Yorker in

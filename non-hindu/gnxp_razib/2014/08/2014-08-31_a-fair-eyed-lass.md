@@ -15,10 +15,10 @@ Every now and then a bizarre character named [Alistair Moffat](https://en.wikipe
 
 I actually think attempts to map and catalog phenotypic variation are interesting and worthwhile. It just bothers me when people turn it into a veritable carny-show. Here’s what I mean:
 
-> He \[Moffat\] said the colour may be more dominant because it is > regarded as attractive, adding: ‘It may be that blue eyes are like the > peacock’s tail. It doesn’t confer any evolutionary advantage … except > that it gets him more mates.’ >
-> Blue-eyed Hollywood stars Angelina Jolie, Daniel Craig, Nicole Kidman, > Hugh Grant, Kate Winslet and Paul Newman all support the theory that > blue eyes add to a person’s sexual appeal. >
+> He \[Moffat\] said the colour may be more dominant because it is regarded as attractive, adding: ‘It may be that blue eyes are like the peacock’s tail. It doesn’t confer any evolutionary advantage … except that it gets him more mates.’ >
+> Blue-eyed Hollywood stars Angelina Jolie, Daniel Craig, Nicole Kidman, Hugh Grant, Kate Winslet and Paul Newman all support the theory that blue eyes add to a person’s sexual appeal. >
 > Mr Moffat added: ‘All of them have inherited their eye colour … 
-> through their DNA, and because of the way that blue eyes deal with > light, they also appear to have inherited a natural sparkle.
+> through their DNA, and because of the way that blue eyes deal with light, they also appear to have inherited a natural sparkle.
 
 The idea that light eyes rose in frequency because of sexual attractiveness has scholarly support (e.g., [Peter Frost](http://www.unz.com/pfrost/)). But this is a very frontier zone of science, and not everyone believes that this is the most likely explanation (I myself would put my money on it being a side effect of selection for something else, but my confidence is low). It shouldn’t be that hard to judge whether blue eyed individuals have more sexual partners, or are more fertile, than their co-ethnics. Eye color segregates *within* families, and as suggested in the article we know where most of the genomic variation is resident (in the HERC2-OCA2 region). If it was strongly correlated with fertility I presume it would have showed up in GWAS earlier.
 

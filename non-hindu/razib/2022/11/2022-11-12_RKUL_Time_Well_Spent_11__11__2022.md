@@ -126,11 +126,11 @@ There’s still no free lunch, free subscribers; my most in-depth pieces for thi
 
 First was [Hittite Words, Byzantine Walls: what the West as we know it owes Anatolia’s empires - 2,000 years of Anatolian biological continuity and cultural significance](https://razib.substack.com/p/hittite-words-byzantine-walls-what):
 
-> During the late Bronze Age, the Hittites were the civilized world’s > greatest power. They stood astride the edge of the civilized world and > were involved in events at its heart, facing off against barbaric and > illiterate tribes of the Black Sea shore and in the Balkans, and > penetrating into the heart of the ancient Middle East, battling Egypt > to a standstill and taming Syria and Mesopotamia. The first great > Indo-European-speaking political and cultural power, the Hittites were > a behemoth whose actions and incredible influence warped the world > around them for a time, only to be washed away by the tides of > history, as the barbarian migrations of the 12th-century BC swiftly > undid their mighty works. Even the ghost of Hattusas, their capital > city, was lost to memory. Nearly two millennia later, the Hittite > heartland would be reborn as the foundation and heart of the Byzantine > Empire, the fragment of Imperial Rome that persisted into the Dark > Ages, after the catastrophic end of Antiquity in the West. Where the > Hittites were the greatest power of the age, the Byzantines crucially > stood against the might of all Araby. In the end, the might of the > Hittites could not halt their slide into oblivion, but the Byzantine > perseverance against hopeless odds yielded a renaissance and > resurgence before their defeat at Manzikert in 1071 AD. In Classical > Byzantium’s final century, Christian Anatolian armies ranged across > Syria and Mesopotamia, and the Christian Emperors in Constantinople > dreamed of reconquering Jerusalem itself.
+> During the late Bronze Age, the Hittites were the civilized world’s > greatest power. They stood astride the edge of the civilized world and > were involved in events at its heart, facing off against barbaric and > illiterate tribes of the Black Sea shore and in the Balkans, and > penetrating into the heart of the ancient Middle East, battling Egypt > to a standstill and taming Syria and Mesopotamia. The first great > Indo-European-speaking political and cultural power, the Hittites were > a behemoth whose actions and incredible influence warped the world > around them for a time, only to be washed away by the tides of > history, as the barbarian migrations of the 12th-century BC swiftly > undid their mighty works. Even the ghost of Hattusas, their capital > city, was lost to memory. Nearly two millennia later, the Hittite > heartland would be reborn as the foundation and heart of the Byzantine > Empire, the fragment of Imperial Rome that persisted into the Dark > Ages, after the catastrophic end of Antiquity in the West. Where the > Hittites were the greatest power of the age, the Byzantines crucially > stood against the might of all Araby. In the end, the might of the > Hittites could not halt their slide into oblivion, but the Byzantine > perseverance against hopeless odds yielded a renaissance and > resurgence before their defeat at Manzikert in 1071 AD. In Classical Byzantium’s final century, Christian Anatolian armies ranged across Syria and Mesopotamia, and the Christian Emperors in Constantinople dreamed of reconquering Jerusalem itself.
 
 [The Turkification of Anatolia: tales of Rome's last conqueror - 1,000 years on the western frontier of the Turkic world](https://razib.substack.com/p/the-turkification-of-anatolia-tales):
 
-> Unlike in the early medieval Turkic domains of the Balkans, the Avar > and Bulgar Empires, or the later medieval Turkic conquests in the > Indian subcontinent, the Turkic rise to ruling caste across much of > the Middle East was clearly accompanied by a folk migration. In > Anatolian Turks, about 8% of the mtDNA maternal lineages seem East > Asian, while over 10% of the paternal Y chromosomes are from the east. > In contrast, the genetic imprint of Turks in India, despite 600 years > of Islamic rule, is trivial, while the centuries of Turkic rule in the > Balkans left names and myths but precious little genetically. And yet, > obviously, even in Anatolia the modal modern Turk is but an inflection > on the basic Anatolian stock that had persisted since Hittite times. > In [The Turks in World > History](https://www.amazon.com/exec/obidos/ASIN/0195167708/geneexpressio-20) > Carter Findley estimates that perhaps a million Turks migrated into > Anatolia in the decades after Manzikert, while in [A Concise History > of > Byzantium](https://www.amazon.com/exec/obidos/ASIN/1352009870/geneexpressio-20) > Warren Treadgold estimates that the peninsula’s population during this > period was eight to nine million. The proportions of Turkic admixture > implied by these numbers align with the genetic data reviewed above. > The Oghuz Turkic tribes compensated for their modest numbers with an > assimilative culture into which Greeks, Armenians and remnant > Isaurians seem to have gradually been absorbed for nearly 1,000 years, > down to the early modern period.
+> Unlike in the early medieval Turkic domains of the Balkans, the Avar > and Bulgar Empires, or the later medieval Turkic conquests in the > Indian subcontinent, the Turkic rise to ruling caste across much of > the Middle East was clearly accompanied by a folk migration. In > Anatolian Turks, about 8% of the mtDNA maternal lineages seem East > Asian, while over 10% of the paternal Y chromosomes are from the east. > In contrast, the genetic imprint of Turks in India, despite 600 years > of Islamic rule, is trivial, while the centuries of Turkic rule in the > Balkans left names and myths but precious little genetically. And yet, > obviously, even in Anatolia the modal modern Turk is but an inflection > on the basic Anatolian stock that had persisted since Hittite times. > In [The Turks in World > History](https://www.amazon.com/exec/obidos/ASIN/0195167708/geneexpressio-20) > Carter Findley estimates that perhaps a million Turks migrated into > Anatolia in the decades after Manzikert, while in [A Concise History > of > Byzantium](https://www.amazon.com/exec/obidos/ASIN/1352009870/geneexpressio-20) > Warren Treadgold estimates that the peninsula’s population during this > period was eight to nine million. The proportions of Turkic admixture > implied by these numbers align with the genetic data reviewed above. > The Oghuz Turkic tribes compensated for their modest numbers with an assimilative culture into which Greeks, Armenians and remnant Isaurians seem to have gradually been absorbed for nearly 1,000 years, down to the early modern period.
 
 If you want to browse my more geographically focused pieces, [Dry.io](https://dry.io/) has created an [interactive map](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) of them. We’ll keep adding to that [page](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) over time. Also, [Dry.io](https://dry.io/) set up a nice skin for my [pinboard bookmarks](https://unsupervisedlearning.dry.io/v?t=tsr&oc=$5hodbpn3bqsbe&st=$5dwav6axuh9ad) and [a page for reader-submitted links](https://unsupervisedlearning.dry.io/v?t=tsr&oc=$5h_wn52cq7qnu&st=$4mm9yku6e4971).
 
@@ -140,15 +140,18 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests (and monologue topics) since the last Time Well Spent:
 
-- [Jonathan Haidt: social media kills the internet utopia - What hath
+- [Jonathan Haidt: social media kills the internet utopia
+- What hath
   Twitter
   wrought?](https://razib.substack.com/p/jonathan-haidt-social-media-kills#details)
 
-- [Erik Hoel: neuroscience is dead, long live neuroscience! - The
+- [Erik Hoel: neuroscience is dead, long live neuroscience!
+- The
   problem of consciousness, the utility of dreams and writing on the
   web](https://razib.substack.com/p/erik-hoel-neuroscience-is-dead-long#details)
 
-- [Razib Khan: Anatolia over 10,000 years - From first farmers to the
+- [Razib Khan: Anatolia over 10,000 years
+- From first farmers to the
   Turks](https://razib.substack.com/p/anatolia-over-10000-years#details)
 
 - [Nikolai Yakovenko: a Twitter engineer on machine learning and his
@@ -156,7 +159,8 @@ Here are my guests (and monologue topics) since the last Time Well Spent:
   for social
   media?](https://razib.substack.com/p/nikolai-yakovenko-a-twitter-engineer#details)
 
-- [Cody Moser: universal baby talk - Why do babies and adults talk to
+- [Cody Moser: universal baby talk
+- Why do babies and adults talk to
   each other in the same way across all
   cultures?](https://razib.substack.com/p/cody-moser-universal-baby-talk#details)
 
@@ -207,7 +211,7 @@ There you’ll find links to the few different podcasts I’ve contributed to or
 
 [The Critics Of Shorism Are Myopic](https://www.gnxp.com/WordPress/2022/11/04/the-critics-of-shorism-are-myopic/):
 
-> There’s lots of talk about polling and focus groups, but both sides > could benefit from a little history. Contrary to what the critics of > Shorism assert in the piece, racism is not just a tool of the powerful > to divide the masses. In some cases, like with the Bourbon Democrat > elites of the South, it was used crudely, but strong ethnoracial > identitarianism was always more salient among the masses. Elites tend > toward global affinities and cosmopolitanism, and their adherence to > strong local identities is often part of a quid pro quo. The critics > of Shorism who believe that racial division is false consciousness > that can be overcome with messaging are ignorant.
+> There’s lots of talk about polling and focus groups, but both sides > could benefit from a little history. Contrary to what the critics of > Shorism assert in the piece, racism is not just a tool of the powerful > to divide the masses. In some cases, like with the Bourbon Democrat > elites of the South, it was used crudely, but strong ethnoracial > identitarianism was always more salient among the masses. Elites tend > toward global affinities and cosmopolitanism, and their adherence to strong local identities is often part of a quid pro quo. The critics of Shorism who believe that racial division is false consciousness that can be overcome with messaging are ignorant.
 
 ### **Over to you**
 

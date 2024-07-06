@@ -15,7 +15,8 @@ Price of “Ahmadinejad to Win Iranian Election” on [Intrade](http://www.intra
 
 ### Related Posts:
 
-- [Hey Canada](https://www.gnxp.com/WordPress/2010/03/03/hey-canada/) - [Andy Samberg + Mahmoud Ahmadinejad → MSM
+- [Hey Canada](https://www.gnxp.com/WordPress/2010/03/03/hey-canada/)
+- [Andy Samberg + Mahmoud Ahmadinejad → MSM
   (?)](https://www.gnxp.com/WordPress/2007/10/01/andy-samberg-mahmoud-ahmadinejad-rarr-msm/) - [Sarah Palin resigning, the Obama
   effect?](https://www.gnxp.com/WordPress/2009/07/03/sarah-palin-resigning-the-obama-effect/) - [Where is Obama
   overperforming?](https://www.gnxp.com/WordPress/2008/10/28/where-is-obama-overperforming/) - [Age & income: South Carolina exit

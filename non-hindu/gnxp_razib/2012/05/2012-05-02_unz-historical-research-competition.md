@@ -11,9 +11,9 @@ Unz Historical Research Competition
 
 For your [consideration](http://www.unzcontest.org/):
 
-> As a means of publicizing the vast quantity of high-quality content > material uniquely available on its recently released > website,**[UNZ.org](http://www.unz.org/)**is announcing a historical > research competition. >
-> A**First Prize of \$10,000**and several other cash prizes will be > awarded for the most significant and interesting historical discovery > based on UNZ.org source material. All entries must be received > by**August 31, 2012**, and awards will be made by September 30, 2012. >
-> Interested participants should examine > the[rules](http://www.unzcontest.org/rules/ "Rules"), read the > description of the[available content source > material](http://www.unzcontest.org/source-material/), and > then[register](http://www.unzcontest.org/registration/ "Registration")for > the competition. >
+> As a means of publicizing the vast quantity of high-quality content material uniquely available on its recently released website,**[UNZ.org](http://www.unz.org/)**is announcing a historical research competition. >
+> A**First Prize of \$10,000**and several other cash prizes will be awarded for the most significant and interesting historical discovery based on UNZ.org source material. All entries must be received by**August 31, 2012**, and awards will be made by September 30, 2012. >
+> Interested participants should examine > the[rules](http://www.unzcontest.org/rules/ "Rules"), read the > description of the[available content source material](http://www.unzcontest.org/source-material/), and then[register](http://www.unzcontest.org/registration/ "Registration")for the competition. >
 > Good luck! >
 > 
 

@@ -11,7 +11,7 @@ X dictates….
 
 Amir Butler [says](http://www.amirbutler.com/archives/2005/08/30/51), in reference to the *hijab*:
 
-> …This is complete nonsense. In reality, the wearing of the scarf is a > non-negotiable religious mandate, enshrined in the Koran, and has > nothing to do with politics.
+> …This is complete nonsense. In reality, the wearing of the scarf is a non-negotiable religious mandate, enshrined in the Koran, and has nothing to do with politics.
 
 In [my post below](https://www.gnxp.com/blog/2005/10/prayer-for-emperor.php) I did not highlight that Winnifred Sullivan used the rise of an Muslim minority as a looming problem for religious freedom. Frankly, the post was overlong as it was, but it is a major issue-for-the-future. Islam is a religion that emphasizes orthopraxy, that is, proper practice of the laws and traditions of the religion. That being said, one of the most common things I have seen Muslims do when engaging with a non-Muslim audience is state flatly that “as a Muslim I must do x.” The problem with this assertion is that there is a generally not an acknowledgement that, religion being what it is, it should have the qualifier “my interpretation.” When a fundamentalist points to the Letters of St. Paul as justification for why women should not speak in church, many Christians have rough and ready responsive talking points.
 

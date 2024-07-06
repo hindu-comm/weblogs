@@ -13,7 +13,7 @@ I don’t follow politics, but I see via [CNN](http://www.cnn.com/2007/POLITICS/
 
 Update: [Jason Rosenhouse](http://scienceblogs.com/evolutionblog/2007/05/reactions_to_the_antievolution.php) has a roundup of links. Jonah Goldberg [says](http://corner.nationalreview.com/post/?q=NjRhODcyYzE2NGQyZTk1OGMzYTM4MzZkYmRlNTBiOTg=):
 
-> I know there are Intelligent Design fans among our readers, but I > found the string of hands going up from candidates last night > admitting they didn’t believe in evolution to be more than a little > dismaying. I’m sure they had very intelligent, nuanced, explanations. > But that doesn’t help that much as far as I’m concerned.
+> I know there are Intelligent Design fans among our readers, but I > found the string of hands going up from candidates last night admitting they didn’t believe in evolution to be more than a little dismaying. I’m sure they had very intelligent, nuanced, explanations. But that doesn’t help that much as far as I’m concerned.
 
 Clearly an out of touch Metrocon! Where’s the love for democracy!
 

@@ -16,7 +16,7 @@ More concretely, **we would have had sperm and egg “banked” if we had been s
   
 Of course one of the aspects of the piece which is implicit is its class-orientation. It finishes up:
 
-> It won’t be easy to make the world more baby-friendly, but if we were > to try, **we’d have to restructure the professions** so that the most > intensely competitive stage of a career doesn’t occur right at the > moment when couples should be lavishing attention on infants….
+> It won’t be easy to make the world more baby-friendly, but if we were to try, **we’d have to restructure the professions** so that the most intensely competitive stage of a career doesn’t occur right at the moment when couples should be lavishing attention on infants….
 
 Though the fertility transition has occurred across all groups, it has been most striking among the professional classes. But the the professional classes are a minority of the population. The reality is that we’d expect fertility to rebound over time as professional class people, whether for genetic or cultural (likely both) reasons, fail to reproduce, and are replaced by those who produce large families early, and continue to do so in a heritable fashion.
 

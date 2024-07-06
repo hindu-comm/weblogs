@@ -89,7 +89,8 @@ One trick that the pundit class pulls sincerely because they are often ignorant 
 
 ### Related Posts:
 
-- [Open Thread - August 30th,
+- [Open Thread
+- August 30th,
   2010](https://www.gnxp.com/WordPress/2010/08/30/open-thread-august-30th-2010/) - ["Third culture" summer reading
   list....](https://www.gnxp.com/WordPress/2005/07/15/third-culture-summer-reading-list/) - [Open Thread,
   6/14/2015](https://www.gnxp.com/WordPress/2015/06/14/open-thread-6142015/) - [How to read books like

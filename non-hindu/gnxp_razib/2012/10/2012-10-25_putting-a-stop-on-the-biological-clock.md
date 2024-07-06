@@ -11,7 +11,7 @@ Putting a stop on the biological clock
 
 [Egg freezing enters clinical mainstream](http://blogs.nature.com/news/2012/10/egg-freezing-enters-clinical-mainstream.html):
 
-> Egg freezing is no longer an experimental procedure, according to the > American Society for Reproductive Medicine (ASRM), which on 22 October > issued new guidelines on the controversial practice. The change in > policy is expected to accelerate the growth of clinics that offer egg > freezing to women who face fertility-damaging treatment for cancer or > other conditions, and to women wishing to delay having a baby — > although the society stopped short of endorsing the procedure for that > purpose
+> Egg freezing is no longer an experimental procedure, according to the > American Society for Reproductive Medicine (ASRM), which on 22 October > issued new guidelines on the controversial practice. The change in > policy is expected to accelerate the growth of clinics that offer egg > freezing to women who face fertility-damaging treatment for cancer or other conditions, and to women wishing to delay having a baby — although the society stopped short of endorsing the procedure for that purpose
 
 You can [read the full guidelines, with caveats, online](http://www.asrm.org/uploadedFiles/ASRM_Content/News_and_Publications/Practice_Guidelines/Committee_Opinions/Ovarian_tissue_and_oocyte(1).pdf). Last I checked this costs on the order of [\$10,000](http://www.fertility-docs.com/fertility_fees.phtml#fees_list). Nothing to sneeze at, but definitely not insane when you consider how much money many couples spend on fertility technologies when women are between 35 and 40.
 

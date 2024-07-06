@@ -25,7 +25,8 @@ The original pieces are available for paying Substack subscribers here:
 
 ### Related Posts:
 
-- [Open Thread - Late
+- [Open Thread
+- Late
   Feb.](https://www.gnxp.com/WordPress/2021/02/18/open-thread-late-feb/) - [Open Thread -
   1/25/2021](https://www.gnxp.com/WordPress/2021/01/25/open-thread-1-25-2021/) - [Open Thread -
   12/13/2020](https://www.gnxp.com/WordPress/2020/12/13/open-thread-12-13-2020/) - [Open Thread - 05/16/2021 - Gene

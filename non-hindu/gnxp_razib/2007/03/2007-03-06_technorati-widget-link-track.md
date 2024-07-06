@@ -13,7 +13,8 @@ Is the technorati link tracking widget worth it for the slower load times? Yay o
 
 ### Related Posts:
 
-- [Admin, etc.](https://www.gnxp.com/WordPress/2007/02/20/admin-etc/) - [All Neandertal all the
+- [Admin, etc.](https://www.gnxp.com/WordPress/2007/02/20/admin-etc/)
+- [All Neandertal all the
   time.....](https://www.gnxp.com/WordPress/2006/11/08/all-neandertal-all-the-time/) - [John Hawks on the social networking of
   weblogs](https://www.gnxp.com/WordPress/2010/04/04/john-hawks-on-the-social-networking-of-weblogs/) - [The new
   Technorati](https://www.gnxp.com/WordPress/2009/10/22/the-new-technorati/) - [Heather Mac Donald interview

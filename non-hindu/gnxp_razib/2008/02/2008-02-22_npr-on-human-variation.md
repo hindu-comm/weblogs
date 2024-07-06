@@ -13,7 +13,7 @@ NPR on human variation
 
 Update: Readers might appreciate this from the Science paper:
 
-> However, the between-population variance is sufficient to reveal > consistent population structure because subtle but nonrandom > differences between populations accumulate over a large number of loci > and yield principal components that can account for a major portion of > the variation (21).
+> However, the between-population variance is sufficient to reveal > consistent population structure because subtle but nonrandom differences between populations accumulate over a large number of loci and yield principal components that can account for a major portion of the variation (21).
 
 What’s reference “21”? A. W. Edwards, *Bioessays* 25, 798 (2003). [Human Genetic Diversity: Lewontin’s Fallacy](https://en.wikipedia.org/wiki/Lewontin%27s_Fallacy). *Ding, dong*….
 

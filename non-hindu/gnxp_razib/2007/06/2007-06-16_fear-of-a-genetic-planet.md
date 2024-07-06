@@ -11,9 +11,9 @@ Fear of a genetic planet
 
 [Gene bashing – dilemma of black geneticists working on the National Institute of Health’s Human Genome Project](http://www.diverseeducation.com/artman/publish/article_7478.shtml):
 
-> “I don’t fear science. The \[development of the\] wheel, fire and > aircraft have done a considerable amount of harm…far more than genetic > research is likely to do,” Bowman says. >
-> Anyway, he adds, “we are already in a eugenic society. “We can collect > an ovum from a prospective mother and sperm from a prospective father, > allow them to develop to the eight-cell stage, test one cell…and make > a diagnosis for pre-symptom colon cancer or breast cancer,” says > Bowman. >
-> Still, he says, “I’m willing to take my chances with the bad parts. > The fears are misplaced.”
+> “I don’t fear science. The \[development of the\] wheel, fire and aircraft have done a considerable amount of harm…far more than genetic research is likely to do,” Bowman says. >
+> Anyway, he adds, “we are already in a eugenic society. “We can collect > an ovum from a prospective mother and sperm from a prospective father, allow them to develop to the eight-cell stage, test one cell…and make a diagnosis for pre-symptom colon cancer or breast cancer,” says Bowman. >
+> Still, he says, “I’m willing to take my chances with the bad parts. The fears are misplaced.”
 
 Life comes at you fast. I don’t deny that it is important to reflect upon the implications of science, but substance free hand wringing is time wasted on the tracks as the train is speeding in your direction.
 

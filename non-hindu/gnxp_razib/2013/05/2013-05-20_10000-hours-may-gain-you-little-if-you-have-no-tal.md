@@ -18,7 +18,7 @@ My own response is that this sort of rhetorical device is silly. **In domains of
   
 A [piece](http://healthland.time.com/2013/05/20/10000-hours-may-not-make-a-master-after-all/) in *Time* reports on follow up [research](http://www.sciencedirect.com/science/article/pii/S0160289613000421) which seems to question the 10,000 hour rule. Reading the article one thing that I am struck by is the fact that scholar whom Gladwell originally relied upon to formulate the rule **seems like a environmental maximalist.** For example:
 
-> Ericsson doesn’t deny that genetic limitations, such as those on > height and body size, can constrain expert performance in areas like > athletics — and his research has shown this. **However, he believes > there is no good evidence so far that proves that genetic factors > related to intelligence or other brain attributes matter when it comes > to less physically-driven pursuits.**
+> Ericsson doesn’t deny that genetic limitations, such as those on > height and body size, can constrain expert performance in areas like > athletics — and his research has shown this. **However, he believes there is no good evidence so far that proves that genetic factors related to intelligence or other brain attributes matter when it comes to less physically-driven pursuits.**
 
 Update your priors appropriately when evaluating research. In any case the updated findings suggest that practice time can explain \~1/3 of the variance in outcomes for chess and music. This is obviously not trivial, and an important finding in and of itself. But, it does suggest that there is a lot more going on at these elite levels than simply perseverance.
 

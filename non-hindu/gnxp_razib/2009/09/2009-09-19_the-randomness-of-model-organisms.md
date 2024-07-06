@@ -11,7 +11,7 @@ The randomness of model organisms
 
 I thought I’d point quickly to a [really nice paper](http://www.sciencemag.org/cgi/content/abstract/1176945v1) showing that [the RNAi pathway](https://en.wikipedia.org/wiki/RNA_interference), thought to be absent in budding yeasts, is actually only missing from baker’s yeast, *Saccharomyces cerevisiae*. Remarkably, the authors are able to reconstitute the pathway (which was presumably present in the ancestor of all budding yeasts) in *S. cerevisiae* with exogenous expression of only two genes. The authors close with a remark about the role of contingency (in particular with regards to the choice of model organism) in research:
 
-> While anticipating a productive future for RNAi research in budding > yeasts, we note that if in the past *S. castellii* \[a yeast with an > endogenous RNAi pathway\] rather than *S. cerevisiae* had been chosen > as the model budding yeast, the history of RNAi research would have > been dramatically different.
+> While anticipating a productive future for RNAi research in budding > yeasts, we note that if in the past *S. castellii* \[a yeast with an endogenous RNAi pathway\] rather than *S. cerevisiae* had been chosen as the model budding yeast, the history of RNAi research would have been dramatically different.
 
 ### Related Posts:
 

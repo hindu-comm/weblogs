@@ -13,7 +13,8 @@ Google Pundit
 
 ### Related Posts:
 
-- [Freedom](https://www.gnxp.com/WordPress/2006/02/09/freedom/) - [On being a
+- [Freedom](https://www.gnxp.com/WordPress/2006/02/09/freedom/)
+- [On being a
   pundit](https://www.gnxp.com/WordPress/2012/09/05/on-being-a-pundit/) - [Google and
   cognition](https://www.gnxp.com/WordPress/2008/06/12/google-and-cognition/) - [Google dark
   cloud](https://www.gnxp.com/WordPress/2009/09/02/google-dark-cloud/) - [Google news no

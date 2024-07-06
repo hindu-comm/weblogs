@@ -20,7 +20,7 @@ But that’s not the end of the story.
   
 Someone posted the [entry on friendfeed](http://friendfeed.com/eivindn/6b60d7e8/naked-years-gene-expression-discover-magazine), which prompted this response:
 
-> Eivind, looks like Ali intended to tell about Turkish people’s > commitment to the image of Ataturk. Initial reason for the Turkish > censorship of Youtube was “insulting to Ataturk” From that point of > view, putting an image of the man next to a chimpanzee is humiliating, > even if it is out of the context.
+> Eivind, looks like Ali intended to tell about Turkish people’s > commitment to the image of Ataturk. Initial reason for the Turkish censorship of Youtube was “insulting to Ataturk” From that point of view, putting an image of the man next to a chimpanzee is humiliating, even if it is out of the context.
 
 First, the image isn’t a chimpanzee. Atatürk is next to another human, albeit an ancestral lineage. The commenters seem to have spoken more in jest, but Turks take insults to the founder of their nation [seriously](https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk#Turkey) : “…the Turkish Parliament issued a law (5816) outlawing insults to his reminiscence (Turkish: Hatırası) or destruction of objects representing him.” As a larger proportion of [Turks are Creationists than Americans](http://www.washingtonpost.com/wp-dyn/content/article/2009/11/07/AR2009110702233.html), I can see where they’d find offense at this juxtaposition (though the Creationist ones might be less adulatory of Atatürk, who was a militant secularist, and privately an atheist).
 

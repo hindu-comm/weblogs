@@ -13,7 +13,8 @@ Well, [the poll](https://www.gnxp.com/blog/2007/03/poll-time.php) has been runni
 
 ### Related Posts:
 
-- [Poll time!](https://www.gnxp.com/WordPress/2007/03/22/poll-time/) - [Poll of British
+- [Poll time!](https://www.gnxp.com/WordPress/2007/03/22/poll-time/)
+- [Poll of British
   Muslims](https://www.gnxp.com/WordPress/2006/03/03/poll-of-british-muslims/) - [How did you find this
   weblog?](https://www.gnxp.com/WordPress/2006/07/11/how-did-you-find-this-weblog/) - [Comparing American conservative Protestants &
   Muslims](https://www.gnxp.com/WordPress/2012/04/29/comparing-american-conservative-protestants-muslims/) - [Reader Survey, summer

@@ -19,7 +19,8 @@ The trends for abortion and opposition to interracial marriage are familiar (tho
 
 ### Related Posts:
 
-- [Abortion vs. homosexuality - trends since the
+- [Abortion vs. homosexuality
+- trends since the
   1970s](https://www.gnxp.com/WordPress/2009/04/26/abortion-vs-homosexuality-trends-since-the-1970s/) - [The young do not support abortion rights
   inordinately](https://www.gnxp.com/WordPress/2015/01/23/the-young-do-not-support-abortion-rights-inordinately/) - [Support for bans on interracial marriage by
   sex](https://www.gnxp.com/WordPress/2010/10/16/support-for-bans-on-interracial-marriage-by-sex/) - [The Culture Wars will

@@ -15,17 +15,17 @@ Now that we are through 2010 with no crisis (that I was aware of – is this cri
 
 At the time I first read the article, I found it hard to characterise this information as something to fear. As Miller identifies, it would be a consequence of some interesting progress:
 
-> Once enough DNA is analysed around the world, science will have a > panoramic view of human genetic variation across races, ethnicities > and regions. We will start reconstructing a detailed family tree that > links all living humans, discovering many surprises about > mis-attributed paternity and covert mating between classes, castes, > regions and ethnicities.
+> Once enough DNA is analysed around the world, science will have a > panoramic view of human genetic variation across races, ethnicities > and regions. We will start reconstructing a detailed family tree that links all living humans, discovering many surprises about mis-attributed paternity and covert mating between classes, castes, regions and ethnicities.
 
 This sounds good to me. To understand the way genes spread as people migrated and mixed across the world will be to gain an important insight into human history.
 
 Miller then points out that some people may be troubled when researchers start to identify genes that create physical and mental differences between populations and identify when those genes arose. Millers states:
 
-> If the shift from GWAS \[genome wide association studies\] to > sequencing studies finds evidence of such politically awkward and > morally perplexing facts, we can expect the usual range of ideological > reactions, including nationalistic retro-racism from conservatives and > outraged denial from blank-slate liberals.
+> If the shift from GWAS \[genome wide association studies\] to > sequencing studies finds evidence of such politically awkward and morally perplexing facts, we can expect the usual range of ideological reactions, including nationalistic retro-racism from conservatives and outraged denial from blank-slate liberals.
 
 But it is not all bad. He closes with:
 
-> The few who really understand the genetics will gain a more > enlightened, live-and-let-live recognition of the biodiversity within > our extraordinary species—including a clearer view of likely > comparative advantages between the world’s different economies.
+> The few who really understand the genetics will gain a more enlightened, live-and-let-live recognition of the biodiversity within our extraordinary species—including a clearer view of likely comparative advantages between the world’s different economies.
 
 Reading that last sentence, the title to the article and the first paragraph appear over inflated. People will always misuse information and there will be another body of people who will make great use of it.
 

@@ -11,8 +11,8 @@ Fine scale population substructure
 
 [Dienekes](https://dienekes.blogspot.com/2009/03/genetic-differentiation-at-village.html) comments on the paper which showed genetic substructure among a set of Sardinian villages:
 
-> The take-home lesson is that wherever gene flow is impeded, no matter > how geographically close, population differentiation can be recovered > with dense autosomal genotype data.  
-> Really fine-scale ancestry analysis is now possible; **I suspect that > a combination of geography, religion, social class, language, and > ethnic identification will be found to be predictive of a person’s > broad genetic makeup and vice versa.** But, to discover these > correlations, a large-scale collection of genotypic data is required.
+> The take-home lesson is that wherever gene flow is impeded, no matter how geographically close, population differentiation can be recovered with dense autosomal genotype data.  
+> Really fine-scale ancestry analysis is now possible; **I suspect that > a combination of geography, religion, social class, language, and ethnic identification will be found to be predictive of a person’s broad genetic makeup and vice versa.** But, to discover these correlations, a large-scale collection of genotypic data is required.
 
 The potential exploration of population structure mapping onto non-geographic variables is definitely going to be interesting.
 

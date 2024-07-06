@@ -19,10 +19,10 @@ In this particular case, what had happened was a reasonably well-followed “Eur
 
 “Because he is not a ‘servant’ or ‘slave’ of a jealous and absolute God, the Indo-European generally does not pray on his knees or bent towards the earth, but standing with his gaze turned upwards, arms outstretched towards heaven.”
 
-> "Because he is not a 'servant' or 'slave' of a jealous and absolute > God, the Indo-European generally does not pray on his knees or bent > towards the earth, but standing with his gaze turned upwards, arms > outstretched towards heaven."  
+> "Because he is not a 'servant' or 'slave' of a jealous and absolute God, the Indo-European generally does not pray on his knees or bent towards the earth, but standing with his gaze turned upwards, arms outstretched towards heaven."  
 >   
 > ✍️ Hans F.K. Günther <https://t.co/DGCDi3S6GE> >
-> — Salon Vert ᛉ (@salon_vert) [January 6, > 2024](https://twitter.com/salon_vert/status/1743623727097528811?ref_src=twsrc%5Etfw)
+> — Salon Vert ᛉ (@salon_vert) [January 6, 2024](https://twitter.com/salon_vert/status/1743623727097528811?ref_src=twsrc%5Etfw)
 
 This was apparently a remark made by one “Hans F.K. Günther” circa 1934 in a work whose title appears to translate as “The Religious Attitudes of the Indo-Europeans” – and while I’d never heard of this Günther before, having just googled him I see he’s referred to in scholarly literature as having picked up the … odd epithet of “Race-Pope” (“Rassenpapst”) for his contributions to German academia through the 1930s.
 
@@ -270,8 +270,8 @@ They hadn’t posted the image which bore the maxim in question themselves – t
 
 They also, to be fair and sure, quote-tweeted my (sub-)thread of replies pointing out the whole thing was *massively* incorrect, bearing the comment: “A really interesting and well-founded thread on the subject of bowing before deities in the Indo-European traditions 👇🏻” – so that was nice of them, and would appear to suggest that they’re i) open to changing their minds about things when presented with evidence, ii) not actually dyed-in-the-wool adherents to the sorts of viewpoint which that Günther chap was associated with. Which is also nice.
 
-> A really interesting and well-founded thread on the subject of bowing > before deities in the Indo-European traditions 👇🏻 > <https://t.co/zEeU5ZNpuE> >
-> — Salon Vert ᛉ (@salon_vert) [January 7, > 2024](https://twitter.com/salon_vert/status/1743812096419340603?ref_src=twsrc%5Etfw)
+> A really interesting and well-founded thread on the subject of bowing before deities in the Indo-European traditions 👇🏻 <https://t.co/zEeU5ZNpuE> >
+> — Salon Vert ᛉ (@salon_vert) [January 7, 2024](https://twitter.com/salon_vert/status/1743812096419340603?ref_src=twsrc%5Etfw)
 
 I suspect what had happened was they saw an image bearing said quote, which was sourced from a book entitled “La religiosité indo-européenne” … and therefore assumed that it was an accurate statement of, well, The Religion of the Indo-Europeans \[as in, the actual religion(s) thereof\] – rather than some guy’s very bemusing headcanon which is basically comprised of actively *rejecting* a whole lot of the *actual evidence* in favour of Things He Wanted To Believe To Be True At The Time.
 

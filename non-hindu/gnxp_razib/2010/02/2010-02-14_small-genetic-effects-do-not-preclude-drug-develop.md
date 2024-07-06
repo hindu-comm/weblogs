@@ -11,7 +11,7 @@ Small genetic effects do not preclude drug development
 
 [Daniel MacArthur points](http://scienceblogs.com/geneticfuture/2010/02/the_end_for_the_decodeme_perso.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogs%2Fgeneticfuture+%28Genetic+Future%29) me to [a Newsweek article](http://www.newsweek.com/id/233494) on the bankruptcy of Decode Genetics. The author describes (one of) Decode’s problems like this:
 
-> The genetics of illness turned out to be more complex than researchers > expected. At deCODE and elsewhere, the new genes linked to common > diseases turned out to be rare or to have only small effects on > individual risk. That killed any prospect of using deCODE’s > discoveries to make blockbuster drugs.
+> The genetics of illness turned out to be more complex than researchers > expected. At deCODE and elsewhere, the new genes linked to common diseases turned out to be rare or to have only small effects on individual risk. That killed any prospect of using deCODE’s discoveries to make blockbuster drugs.
 
 The leap–that small genetic effect sizes means no prospects of drug discovery–sounds reasonable, but is actually wrong. Here’s an example of why:
 

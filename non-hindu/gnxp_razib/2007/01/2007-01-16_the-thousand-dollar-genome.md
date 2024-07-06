@@ -11,7 +11,7 @@ The thousand dollar genome
 
 Via [Genetics and Health](http://www.geneticsandhealth.com/2007/01/16/nature-genetics-question-of-the-year/#more-1350), I see Nature Genetics has [posted answers](http://www.nature.com/ng/qoty/index.html) to their “Question of the Year” from a number of notable geneticists:
 
-> What would you do if it became possible to sequence the equivalent of > a full human genome for only \$1,000?
+> What would you do if it became possible to sequence the equivalent of a full human genome for only \$1,000?
 
 [Read it](http://www.nature.com/ng/qoty/index.html) to see what the big shots in the genetics world would (will?) do with more data than you can shake a stick at.
 

@@ -11,7 +11,7 @@ Exploratory copy number variation study
 
 [Identification of Copy Number Variants Defining Genomic Differences among Major Human Groups](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0007230):
 
-> Overall, our results provide a comprehensive view of relevant copy > number changes that might play a role in phenotypic differences among > major human populations, and generate a list of interesting candidates > for future studies.
+> Overall, our results provide a comprehensive view of relevant copy number changes that might play a role in phenotypic differences among major human populations, and generate a list of interesting candidates for future studies.
 
 The discussion is a little heavy on how the results might have errors…caution! Here’s the PCA:  
 [](https://www.gnxp.com/blog/uploaded_images/journal.pone.0007230.g002-749832.png)

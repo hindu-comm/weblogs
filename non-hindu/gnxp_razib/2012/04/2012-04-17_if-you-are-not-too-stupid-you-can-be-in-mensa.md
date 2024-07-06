@@ -11,9 +11,9 @@ If you are not too stupid you can be in Mensa
 
 [Is 4-Year-Old as Smart as Einstein? Not Quite, Scientists Say](http://www.livescience.com/19720-genius-iq-children-mensa.html):
 
-> One of the latest members of the high-IQ club Mensa is a mere 4 years > old, with an IQ of 159 — but psychologists warn against pulling out > the Albert Einstein comparisons just yet. >
+> One of the latest members of the high-IQ club Mensa is a mere 4 years old, with an IQ of 159 — but psychologists warn against pulling out the Albert Einstein comparisons just yet. >
 > … >
-> “All you’re doing with IQ testing is testing within a certain age > group,” Lawlis told LiveScience, explaining, “You’re saying the > 4-year-old is smarter than 99.5 or 99.8 of \[her\] age group, but that > doesn’t mean you can compare to another age group.”
+> “All you’re doing with IQ testing is testing within a certain age group,” Lawlis told LiveScience, explaining, “You’re saying the 4-year-old is smarter than 99.5 or 99.8 of \[her\] age group, but that doesn’t mean you can compare to another age group.”
 
 I’m a little confused here. **It seems to me that the biggest issue with IQ tests given to very young individuals is expected variance in outcomes across tests.** Raise your hand if you know a moderately bright person who “tested off the charts” as a very young person. If the charts are such that people test “off them,” I am skeptical of the precision of the tests being used.\* My own hunch when someone tells me their IQ is that if they are moderately gifted they are reporting from the high range of distribution of scores they’ve received. Many gifted children have taken a fair number of standardized tests, so it isn’t too difficult to sample from the higher of the range of outcomes. 90 percent of people think they are better looking than average, and 90 percent of people report they are more intelligent than average. Why should we credit the cognitively gifted set with much greater self-awareness of the usually unconscious bias of overly positive self-assessment? (yes, I know of the [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)) If someone took the SAT three times, do you think they’ll be reporting the *average* of their outcomes, or the *best* of their outcomes (probably the last time they took it)?
 

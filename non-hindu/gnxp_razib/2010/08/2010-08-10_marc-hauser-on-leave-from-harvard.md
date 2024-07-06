@@ -11,10 +11,10 @@ Marc Hauser on leave from Harvard
 
 [Author on leave after Harvard inquiry – Investigation of scientist’s work finds evidence of misconduct, prompts retraction by journal](http://www.boston.com/news/education/higher/articles/2010/08/10/author_on_leave_after_harvard_inquiry?mode=PF):
 
-> Harvard University psychologist Marc Hauser — a well-known scientist > and author of the book “Moral Minds’’ — is taking a year-long leave > after a lengthy internal investigation found evidence of scientific > misconduct in his laboratory. >
-> The findings have resulted in the retraction of an influential study > that he led. “MH accepts responsibility for the error,’’ says the > retraction of the study on whether monkeys learn rules, which was > published in 2002 in the journal Cognition. >
-> Two other journals say they have been notified of concerns in papers > on which Hauser is listed as one of the main authors. >
-> It is unusual for a scientist as prominent as Hauser — a popular > professor and eloquent communicator of science whose work has often > been featured on television and in newspapers — to be named in an > investigation of scientific misconduct. His research focuses on the > evolutionary roots of the human mind.
+> Harvard University psychologist Marc Hauser — a well-known scientist and author of the book “Moral Minds’’ — is taking a year-long leave after a lengthy internal investigation found evidence of scientific misconduct in his laboratory. >
+> The findings have resulted in the retraction of an influential study that he led. “MH accepts responsibility for the error,’’ says the retraction of the study on whether monkeys learn rules, which was published in 2002 in the journal Cognition. >
+> Two other journals say they have been notified of concerns in papers on which Hauser is listed as one of the main authors. >
+> It is unusual for a scientist as prominent as Hauser — a popular > professor and eloquent communicator of science whose work has often been featured on television and in newspapers — to be named in an investigation of scientific misconduct. His research focuses on the evolutionary roots of the human mind.
 
 Hauser is a prominent public intellectual. Here’s his [Edge page](http://www.edge.org/3rd_culture/bios/hauser.html). Obviously problems in some aspects of his work doesn’t necessarily invalidate all his findings, but it doesn’t look good for his credibility. This sort of incident points to the importance of trust within the culture of science. Collaborators and researchers who cited his results are scrambling to make sense of it all. I’ve cited [Moral Minds](https://www.amazon.com/exec/obidos/ASIN/006078072X/geneexpressio-20) in past posts, but I probably won’t be doing so now.
 

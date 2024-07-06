@@ -11,7 +11,7 @@ Innovation!
 
 Arnold Kling [mulls over](http://econlog.econlib.org/archives/2009/08/resolving_us_in.html) various options when it comes to tacking the [American national debt](https://en.wikipedia.org/wiki/United_States_public_debt). Here’s the one which is out “get-out-jail-free” card:
 
-> 2\. Technology to the rescue. Some major technologies, probably either > wet or dry nanotech, produce so much economic growth that the ratio of > debt to GDP stays under control. I give this a 20 percent chance. > Sometimes I think the chances are higher, maybe even 50 percent. It’s > a difficult estimate to make–today, I’m in a mood to say 20 percent.
+> 2\. Technology to the rescue. Some major technologies, probably either > wet or dry nanotech, produce so much economic growth that the ratio of debt to GDP stays under control. I give this a 20 percent chance. Sometimes I think the chances are higher, maybe even 50 percent. It’s a difficult estimate to make–today, I’m in a mood to say 20 percent.
 
 I think information technology is great, but at some point we probably need to increase productivity more concretely. That is, build stuff more efficiently, instead of organize ourselves and our workflow more efficiently.
 

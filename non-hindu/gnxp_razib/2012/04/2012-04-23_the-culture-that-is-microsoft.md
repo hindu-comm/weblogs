@@ -11,10 +11,10 @@ The culture that is Microsoft
 
 [Frustration, Disappointment And Apathy: My Years At Microsoft](http://techcrunch.com/2012/04/22/frustration-disappointment-and-apathy-my-years-at-microsoft/):
 
-> Large companies have overheads, a necessary evil, you say. Overheads > need to be managed. And managed they are: Group Managers, Program > managers, General managers, together with ‘Senior’ flavours of those > and a whole new breed of directors, stakeholders, business owners, > relationship leads coupled with their own countless derivatives. >
-> All those meeting-goers are not making anything. Deciding upon and > making something is hard. And if this onerous activity has to be done, > then hire external consultants for it. It’s easier and less risky. >
-> There is no creative tension, no vision these days. Left to > Microsoft’s hands we’d still be toiling on overheating Vista desktops. >
-> This company is becoming the McDonalds of computing. Cheap, mass > products, available everywhere. No nutrients, no ideas, no culture. > Windows 8 is a fine example. The new Metro interface displays nonstop, > trivial updates from Facebook, Twitter, news sites and stock tickers. > Streams of raw noise distract users from the moment they login.
+> Large companies have overheads, a necessary evil, you say. Overheads > need to be managed. And managed they are: Group Managers, Program managers, General managers, together with ‘Senior’ flavours of those and a whole new breed of directors, stakeholders, business owners, relationship leads coupled with their own countless derivatives. >
+> All those meeting-goers are not making anything. Deciding upon and making something is hard. And if this onerous activity has to be done, then hire external consultants for it. It’s easier and less risky. >
+> There is no creative tension, no vision these days. Left to Microsoft’s hands we’d still be toiling on overheating Vista desktops. >
+> This company is becoming the McDonalds of computing. Cheap, mass > products, available everywhere. No nutrients, no ideas, no culture. Windows 8 is a fine example. The new Metro interface displays nonstop, trivial updates from Facebook, Twitter, news sites and stock tickers. Streams of raw noise distract users from the moment they login.
 
 The rise of sclerotic bureaucratic intermediaries isn’t just a problem with Microsoft. Remember when parasitic squid were generating [40 percent of the economy’s profits](http://baselinescenario.com/2009/09/01/the-nature-of-modern-finance/)? It’s no better in [academia](http://keepcaliforniaspromise.org/469/soon-every-faculty-member-will-have-a-personal-senior-manager):
 

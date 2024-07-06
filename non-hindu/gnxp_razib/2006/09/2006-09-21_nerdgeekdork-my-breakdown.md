@@ -17,7 +17,8 @@ Take [the test yourself](http://www.okcupid.com/tests/take?testid=99350309900467
 
 ### Related Posts:
 
-- [Nerd alert!](https://www.gnxp.com/WordPress/2005/05/16/nerd-alert/) - [Nerd like
+- [Nerd alert!](https://www.gnxp.com/WordPress/2005/05/16/nerd-alert/)
+- [Nerd like
   me](https://www.gnxp.com/WordPress/2006/09/06/nerd-like-me/) - [Turtleneck & Chain - geekcore
   extraordinaire](https://www.gnxp.com/WordPress/2011/05/11/turtleneck-chain-geekcore-extraordinaire/) - [Wanna get your nerd
   on?](https://www.gnxp.com/WordPress/2007/10/28/wanna-get-your-nerd-on/) - [Movies I'm looking forward

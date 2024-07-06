@@ -30,7 +30,8 @@ And finally for idiot commenters, introgression does not imply *massive* interbr
 
 ### Related Posts:
 
-- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/) - [Comments, you can hold 'em if you are a
+- [Death, blogs](https://www.gnxp.com/WordPress/2008/01/04/death-blogs/)
+- [Comments, you can hold 'em if you are a
   retard](https://www.gnxp.com/WordPress/2006/04/20/comments-you-can-hold-em-if-you-are-a-retardsup/) - [The "Shaggy assertion" - just pretend
   you're…](https://www.gnxp.com/WordPress/2012/05/02/the-shaggy-assertion-just-pretend-youre-right/) - [Comments, terms of use,
   etc.](https://www.gnxp.com/WordPress/2013/03/07/comments-terms-of-use-etc/) - [Hi](https://www.gnxp.com/WordPress/2006/09/13/hi/) - [Hold the praise (re:

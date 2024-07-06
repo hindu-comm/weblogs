@@ -11,7 +11,7 @@ Elites more firm in their opinions (just)….
 
 In response to my post below, Are the elites more polarized? Yes!, a comment:
 
-> The high “moderation” of low-income voters tends to make me think that > what’s measured is low-information voters instead, people don’t take > an active interest and who answer in harmless generalities. And maybe > people who feel totally helpless, as though their input cannot make > any difference.
+> The high “moderation” of low-income voters tends to make me think that > what’s measured is low-information voters instead, people don’t take an active interest and who answer in harmless generalities. And maybe people who feel totally helpless, as though their input cannot make any difference.
 
 This seems plausible. How to figure this out? First, one thing to remember is that there is a correlation between measures of intelligence/knowledge and socioeconomic status. Here is number correct on the vocab test out of 10 on the Y axis and socioeconomic index divided into quartiles on the X (WORDSUM and SEI):
 

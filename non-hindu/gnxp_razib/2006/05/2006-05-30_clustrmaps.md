@@ -13,7 +13,8 @@ I’ve signed up for *Clustrmaps* before, but this weblog gets too many hits so 
 
 ### Related Posts:
 
-- [GNXP Frappr](https://www.gnxp.com/WordPress/2006/01/19/gnxp-frappr/) - [Online
+- [GNXP Frappr](https://www.gnxp.com/WordPress/2006/01/19/gnxp-frappr/)
+- [Online
   integrity](https://www.gnxp.com/WordPress/2006/05/04/online-integrity/) - [New home](https://www.gnxp.com/WordPress/2005/11/21/new-home/) - [More caveman
   links....](https://www.gnxp.com/WordPress/2006/11/18/more-caveman-links/) - [Administrative note on the Science Fiction
   weblog](https://www.gnxp.com/WordPress/2005/07/15/administrative-note-on-the-science-fiction-weblog/) - [Firefox

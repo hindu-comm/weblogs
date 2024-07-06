@@ -11,7 +11,7 @@ Cal Tech wins!
 
 [Brainy Caltech gets first NCAA victory since 1996](http://sportsillustrated.cnn.com/2007/basketball/ncaa/01/07/bc.bkc.caltechwins.ap/index.html?cnn=yes):
 
-> Coach Roy Dow and his squad of brainy — as opposed to brawny — Beavers > beat Bard College of New York 81-52 on Saturday night, ending a > mathematically improbable run of **207 consecutive NCAA Division III > losses**.
+> Coach Roy Dow and his squad of brainy — as opposed to brawny — Beavers beat Bard College of New York 81-52 on Saturday night, ending a mathematically improbable run of **207 consecutive NCAA Division III losses**.
 
 ### Related Posts:
 

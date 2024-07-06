@@ -11,18 +11,18 @@ Religious people have more children because they're more traditional
 
 Tom Rees has a fascinating post up, [Why religious Austrians have more children](http://epiphenom.fieldofscience.com/2010/11/why-religious-austrians-have-more.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+BhaScienceGroup+(Epiphenom)):
 
-> On average, the more religious you are, the more kids you’ll have. > It’s a widespread phenomenon, seen across pretty much all of the > modern world. >
+> On average, the more religious you are, the more kids you’ll have. It’s a widespread phenomenon, seen across pretty much all of the modern world. >
 > The problem is, no-one really knows why this happens. >
-> It could be something about religious beliefs. Maybe they make you > more attractive to potential mates, or maybe they drive you to have > more kids once you have found your mate. >
-> Or maybe they encourage traditional, rather than modern, approaches to > relationships. The traditional role for women is to stay at home and > raise children, while hubbie has a career (and the independence and > money that goes with it). It works (in theory at least) because > divorce is not allowed, meaning that women cannot be left financially > adrift.
+> It could be something about religious beliefs. Maybe they make you more attractive to potential mates, or maybe they drive you to have more kids once you have found your mate. >
+> Or maybe they encourage traditional, rather than modern, approaches to > relationships. The traditional role for women is to stay at home and > raise children, while hubbie has a career (and the independence and money that goes with it). It works (in theory at least) because divorce is not allowed, meaning that women cannot be left financially adrift.
 
 This post is of interest because of my recent post [reviewing](http://blogs.discovermagazine.com/gnxp/2010/10/the-wheel-of-history-turns-to-the-gods/) Eric Kaufmann’s [Shall the Religious Inherit the Earth](http://blogs.discovermagazine.com/gnxp/2010/10/the-wheel-of-history-turns-to-the-gods/). Here’s the top line conclusion from Tom’s post:
 
-> Berghammer found that people following the ‘traditional’ lifestyle > were more to have 3+ children than those following the ‘modern’ > lifestyle. **What’s more, traditionalist individuals were more likely > to be religious** (all Catholic in this analysis). >
-> But – and this is the crucial bit – among those who followed a > traditional life path, there was no relationship between their depth > of religious belief, or their Church attendance, and the number of > children they had. >
-> Exactly the same was seen for those following a modern life path. > Although this was more popular among non-religious women, those > religious women who did follow this trajectory had no more children > than the non-religious. >
-> There was also no difference between the religious and non religious > in the chances of remaining single and childless. >
-> Berghammer concludes from this that the critical factor in determining > fertility is the choice of life trajectory. **Once this has been > decided, then religiosity has no further effect on fertility.**
+> Berghammer found that people following the ‘traditional’ lifestyle were more to have 3+ children than those following the ‘modern’ lifestyle. **What’s more, traditionalist individuals were more likely to be religious** (all Catholic in this analysis). >
+> But – and this is the crucial bit – among those who followed a traditional life path, there was no relationship between their depth of religious belief, or their Church attendance, and the number of children they had. >
+> Exactly the same was seen for those following a modern life path. Although this was more popular among non-religious women, those religious women who did follow this trajectory had no more children than the non-religious. >
+> There was also no difference between the religious and non religious in the chances of remaining single and childless. >
+> Berghammer concludes from this that the critical factor in determining fertility is the choice of life trajectory. **Once this has been decided, then religiosity has no further effect on fertility.**
 
 The model here is then that religiosity shifts the probability of one following a particular life path, but that there is no marginal return on religiosity once that life path is chosen. This sounds broadly plausible to me. It explains how more religious societies such as Greece, Italy, or Spain, could have lower fertility rates than more secular societies such as Iceland or Finland. There are lots of variables which go into determining life path, and the average *between* society differences can have a big impact on the distribution of fertility. Though *within* societies the religious on average seem to be more fertile. Or do they? Again we need to be careful as different societies have different correlations.
 

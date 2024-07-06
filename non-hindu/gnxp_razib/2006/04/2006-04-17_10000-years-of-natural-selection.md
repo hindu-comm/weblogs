@@ -18,7 +18,8 @@ Below the fold is an image of a fine specimen of fitness being signalled by aest
 
 ### Related Posts:
 
-- [Meow Friday](https://www.gnxp.com/WordPress/2006/04/28/meow-friday/) - [Domestication of humans by the
+- [Meow Friday](https://www.gnxp.com/WordPress/2006/04/28/meow-friday/)
+- [Domestication of humans by the
   cat](https://www.gnxp.com/WordPress/2007/06/28/domestication-of-humans-by-the-cat/) - [Science blogs that we're
   missing](https://www.gnxp.com/WordPress/2006/11/21/science-blogs-that-we-re-missing/) - [Deterministic within the stochastic...selection that
   is](https://www.gnxp.com/WordPress/2006/06/16/deterministic-within-the-stochastic-selection-that-is/) - [Evolution & the

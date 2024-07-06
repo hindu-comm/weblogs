@@ -18,9 +18,9 @@ Friday Fluff – August 12th, 2011
 
 3\) **Comment of the week**, in response to [Pleasure through signalling](http://blogs.discovermagazine.com/gnxp/2011/08/pleasure-through-signalling/):
 
-> Once at a farmer’s market I bought a couple little things that looked > like habaneros. The guy who sold them to me looked at me like I was > insane which I should have taken as a clue. >
-> I chopped them up and through them in a salsa and the effect was –it > wasn’t like a normal spiciness in any way. It was more like nerve gas. > I was overcome with a sort of intense nausea and vertigo and violent > ‘steaming’ sensation through my whole body. It was like I could feel > areas of the surface of my skin violently spewing out some kind of gas > like out of a steam vent. >
-> Also it was really spicy and fried every part of my GI tract during > it’s ten minute journey. (like Charlie Sheen on a bender in my > bowels). >
+> Once at a farmer’s market I bought a couple little things that looked like habaneros. The guy who sold them to me looked at me like I was insane which I should have taken as a clue. >
+> I chopped them up and through them in a salsa and the effect was –it > wasn’t like a normal spiciness in any way. It was more like nerve gas. > I was overcome with a sort of intense nausea and vertigo and violent ‘steaming’ sensation through my whole body. It was like I could feel areas of the surface of my skin violently spewing out some kind of gas like out of a steam vent. >
+> Also it was really spicy and fried every part of my GI tract during it’s ten minute journey. (like Charlie Sheen on a bender in my bowels). >
 > Anyone else ever run into this weird pepper?
 
 4\) And finally, your weekly **fluff fix**:
@@ -29,7 +29,8 @@ Friday Fluff – August 12th, 2011
 
 ### Related Posts:
 
-- [Friday Fluff - August 26th,
+- [Friday Fluff
+- August 26th,
   2011](https://www.gnxp.com/WordPress/2011/08/26/friday-fluff-august-26th-2011/) - [Friday Fluff – January 28th,
   2011](https://www.gnxp.com/WordPress/2011/01/28/friday-fluff-january-28th-2011/) - [Friday Fluff - April 29th,
   2011](https://www.gnxp.com/WordPress/2011/04/29/friday-fluff-april-29th-2011/) - [Friday Fluff - April 1st,

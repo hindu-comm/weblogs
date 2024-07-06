@@ -13,8 +13,8 @@ Ancient archaic admixture into the Andamanese
 [![Screenshot 2016-07-25 21.52.42](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/07/Screenshot-2016-07-25-21.52.42-151x300.png?resize=151%2C300)![Screenshot 2016-07-25 21.52.42](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/07/Screenshot-2016-07-25-21.52.42-151x300.png?resize=151%2C300)](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3621.html)  
 **Update:** If Pontus Skoglund fails to replicate your results it is not an optimal outcome….
 
-> [@razibkhan](https://twitter.com/razibkhan) I tried to replicate the > archaic admixture signal (using 4 other data sets with similar power) > but failed [pic.twitter.com/UR16xoU5no](https://t.co/UR16xoU5no) >
-> — Pontus Skoglund (@pontus_skoglund) [July 26, > 2016](https://twitter.com/pontus_skoglund/status/757928539131904000)
+> [@razibkhan](https://twitter.com/razibkhan) I tried to replicate the archaic admixture signal (using 4 other data sets with similar power) but failed [pic.twitter.com/UR16xoU5no](https://t.co/UR16xoU5no) >
+> — Pontus Skoglund (@pontus_skoglund) [July 26, 2016](https://twitter.com/pontus_skoglund/status/757928539131904000)
 
 **end update**  
 A new paper on on archaic admixture in Andaman Islanders has come out. It’s in *Nature Genetics*, [Genomic analysis of Andamanese provides insights into ancient human migration into Asia and adaptation](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3621.html). If you don’t have access, just read the [supplements](http://www.nature.com/ng/journal/vaop/ncurrent/extref/ng.3621-S1.pdf), they have the good stuff as usual.

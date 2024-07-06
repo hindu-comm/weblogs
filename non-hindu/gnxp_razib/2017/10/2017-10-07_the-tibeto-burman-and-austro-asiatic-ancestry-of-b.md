@@ -161,7 +161,9 @@ I assume that there is a true signal there. But the model may still be too parsi
 
 My own predictions are as follows:
 
-- There will be a east-west cline of Tibeto-Burman ancestry. - There will be a more constant fraction of Austro-Asiatic ancestry. - The ratio of Austro-Asiatic ancestry will be reversed from the
+- There will be a east-west cline of Tibeto-Burman ancestry.
+- There will be a more constant fraction of Austro-Asiatic ancestry.
+- The ratio of Austro-Asiatic ancestry will be reversed from the
   Tibeto-Burman cline. - Two admixture events will eventually be detected. A strong
   sex-balanced pulse at 500 AD and later. And an older continuous event
   that will be more male skewed, as it will involve absorption of Munda

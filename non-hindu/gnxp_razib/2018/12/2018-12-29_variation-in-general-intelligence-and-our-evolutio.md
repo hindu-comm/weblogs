@@ -33,7 +33,7 @@ Additionally, for height I mentioned the sexual component: there does not seem t
 
 So let’s go back to intelligence. What could be the trade-offs? First, there are now results presented at conferences that very high general intelligence may exhibit a correlation with some mental pathologies. Though unpublished, this aligns with some prior intuitions. Additionally, there is the issue where on some characteristics being “species-typical” increases reproductive fitness (an average size nose), while in other characteristics being at an extreme is more attractive (very curvy women with large eyes and small chins; secondary sexual characteristics). Within intelligence, one could argue that being *too* deviated from the norm might make socialization and pair-bonding difficult. Here is an anecdote about the genius Von Neumann:
 
-> Neumann married twice. He married Mariette Kövesi in 1930. When he > proposed to her, he was incapable of expressing anything beyond “You > and I might be able to have some fun together, seeing as how we both > like to drink.”
+> Neumann married twice. He married Mariette Kövesi in 1930. When he proposed to her, he was incapable of expressing anything beyond “You and I might be able to have some fun together, seeing as how we both like to drink.”
 
 Apparently having a very fast analytic mind which can engage in abstraction and conceptual manipulation does not mean that one can come up with anything better than that when it came to procuring a mate. **And procuring a mate is one of the only “good” things from an evolutionary perspective.**
 
@@ -45,8 +45,8 @@ As human societies have specialized over the last 10,000 years a small number of
 
 Just as the modern environment is potentially “obesogenic,” it is also potentially “intelligenic.” Here’s what I’m talking about, [The Science Behind Making Your Child Smarter](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001):
 
-> The research also lends insight into why many apps and training > programs aimed at raising IQ fail to produce lasting effects, says > Elliot Tucker-Drob, an associate professor of psychology at the > University of Texas at Austin, and co-author of the study. >
-> Raising IQ may require the kind of sustained involvement that comes > with attending school, with all the practice and challenges it > entails. “It’s not like you just go in for an hour of treatment a > week. **It’s a real lifestyle change,”** he says
+> The research also lends insight into why many apps and training programs aimed at raising IQ fail to produce lasting effects, says Elliot Tucker-Drob, an associate professor of psychology at the University of Texas at Austin, and co-author of the study. >
+> Raising IQ may require the kind of sustained involvement that comes with attending school, with all the practice and challenges it entails. “It’s not like you just go in for an hour of treatment a week. **It’s a real lifestyle change,”** he says
 
 .
 

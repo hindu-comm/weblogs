@@ -22,7 +22,7 @@ There seem two primary issues. Both of which I can not evaluate with any degree 
 
 But perhaps more importantly within the paper there are some theoretical considerations. They argue that there is evidence that sex, as defined specifically by the process of [meoisis](https://en.wikipedia.org/wiki/Meiosis) and fusion of gametes, has a role to play in encouraging DNA repair, preventing the replication of chromosomal abnormalities, and dampening epigenetic variation. Let me quote their abstract:
 
-> …**The common thread among many of these disciplines is that sex acts > like a coarse filter**, weeding out major changes, such as chromosomal > rearrangements (that are almost always deleterious), but letting minor > variation, such as changes at the nucleotide or gene level (that are > often neutral), flow through the sexual sieve. Sex acts as a > constraint on genomic and epigenetic variation, thereby limiting > adaptive evolution. The diverse reasons for sex reducing genetic > variation (especially at the genome level) and slowing down evolution > may provide a sufficient benefit to offset the famed costs of sex.
+> …**The common thread among many of these disciplines is that sex acts > like a coarse filter**, weeding out major changes, such as chromosomal > rearrangements (that are almost always deleterious), but letting minor > variation, such as changes at the nucleotide or gene level (that are > often neutral), flow through the sexual sieve. Sex acts as a > constraint on genomic and epigenetic variation, thereby limiting adaptive evolution. The diverse reasons for sex reducing genetic variation (especially at the genome level) and slowing down evolution may provide a sufficient benefit to offset the famed costs of sex.
 
 Since the authors grant that sex does provide benefits in maintaining additive genetic variation at the level of the gene, it stands to reason that the mainstream research program should yield positive results. Rather, the thrust of this paper seems to be that this might be a case of looking for lost keys underneath the lamp-light. Ultimately I think this argument ties back into the [unit of selection](https://en.wikipedia.org/wiki/Unit_of_selection) argument, though they seem to avoid that explosive issue in any explicit sense.
 
@@ -32,7 +32,8 @@ I’m somewhat a loss to really tote up the plausibility of this heterodox propo
 
 ### Related Posts:
 
-- [Sex ratios](https://www.gnxp.com/WordPress/2006/09/14/sex-ratios/) - [Sex hormones &
+- [Sex ratios](https://www.gnxp.com/WordPress/2006/09/14/sex-ratios/)
+- [Sex hormones &
   genes](https://www.gnxp.com/WordPress/2009/09/12/sex-hormones-genes/) - [Who needs sex when you have gene
   conversion?](https://www.gnxp.com/WordPress/2013/07/22/what-needs-sex-when-you-have-gene-conversion/) - [Let's talk about
   sex](https://www.gnxp.com/WordPress/2006/09/10/lets-talk-about-sex-2/) - [unSexy

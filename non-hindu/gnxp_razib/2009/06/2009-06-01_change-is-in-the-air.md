@@ -11,11 +11,11 @@ Change is in the air
 
 [G.M. to Seek Bankruptcy and a New Start](http://www.nytimes.com/2009/06/01/business/01auto.html?src=sch):
 
-> It also places the government in uncharted territory as a business > owner, as it takes a 60 percent ownership stake in the company during > its restructuring.
+> It also places the government in uncharted territory as a business owner, as it takes a 60 percent ownership stake in the company during its restructuring.
 
 The [commanding heights](https://en.wikipedia.org/wiki/Commanding_Heights) are back. We’re socializing the means of production. Meanwhile, [California is going back to the 19th century](http://www.nytimes.com/2009/05/31/us/31calif.html?em):
 
-> Nearly all of the billions of dollars in cuts the administration has > proposed would affect programs for poor Californians, although prisons > and schools would take hits, as well.
+> Nearly all of the billions of dollars in cuts the administration has proposed would affect programs for poor Californians, although prisons and schools would take hits, as well.
 
 There wasn’t even a mention of bankruptcy, but many American states did go into default in the 19th century as well. Several even repudiated their debts and never paid up.
 

@@ -21,8 +21,8 @@ A few years ago Eimear Kenney and company [solved the mystery](http://www.scienc
 
 I asked Carlos Bustamante, and he got back me on Twitter:
 
-> [@razibkhan](https://twitter.com/razibkhan) We estimated \>10K yo. > Gene is flanked by two recombination hot spots -\> hard to estimate > selection. [@EimearEKenny](https://twitter.com/EimearEKenny) > [@foodimprover](https://twitter.com/foodimprover) >
-> — Carlos Bustamante (@cdbustamante) [August 17, > 2015](https://twitter.com/cdbustamante/status/633317167459512320)
+> [@razibkhan](https://twitter.com/razibkhan) We estimated \>10K yo. Gene is flanked by two recombination hot spots -\> hard to estimate selection. [@EimearEKenny](https://twitter.com/EimearEKenny) [@foodimprover](https://twitter.com/foodimprover) >
+> — Carlos Bustamante (@cdbustamante) [August 17, 2015](https://twitter.com/cdbustamante/status/633317167459512320)
 
 I also had an exchange with the first author, and she pointed out in the supplements that the frequencies in the Solomons were quite curious too:
 

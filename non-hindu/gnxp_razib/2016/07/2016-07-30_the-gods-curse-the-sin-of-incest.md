@@ -13,9 +13,9 @@ The gods curse the sin of incest!
 
 In any case, I was double-checking the marriage to his niece Martina because of some comments below, and came upon this interesting passage on Wikipedia:
 
-> Martina and Heraclius had at least 10 children, though the names and > order of these children are questions for debate… >
+> Martina and Heraclius had at least 10 children, though the names and order of these children are questions for debate… >
 > … >
-> **Of these at least two were handicapped, which was seen as punishment > for the illegality of the marriage.**
+> **Of these at least two were handicapped, which was seen as punishment for the illegality of the marriage.**
 
 The coefficient of relatedness between uncles and nieces is 1/4. Twice as close as cousins, and the same as that between half-siblings. It isn’t entirely surprising that debilities would show up at this genetic distance, though two out of ten at that extreme might be a bit high.
 

@@ -11,7 +11,7 @@ Mice that can’t relate to people….
 
 [Pten Regulates Neuronal Arborization and Social Interaction in Mice](http://www.neuron.org/content/article/abstract?uid=PIIS0896627306002200):
 
-> …PTEN mutations in individuals with autism spectrum disorders (ASD) > have also been reported, although a causal link between PTEN and ASD > remains unclear. In the present study, we deleted Pten in limited > differentiated neuronal populations in the cerebral cortex and > hippocampus of mice. Resulting mutant mice showed abnormal social > interaction and exaggerated responses to sensory stimuli…Thus, our > data suggest that abnormal activation of the PI3K/AKT pathway in > specific neuronal populations can underlie macrocephaly and behavioral > abnormalities reminiscent of certain features of human ASD.
+> …PTEN mutations in individuals with autism spectrum disorders (ASD) > have also been reported, although a causal link between PTEN and ASD > remains unclear. In the present study, we deleted Pten in limited > differentiated neuronal populations in the cerebral cortex and > hippocampus of mice. Resulting mutant mice showed abnormal social > interaction and exaggerated responses to sensory stimuli…Thus, our data suggest that abnormal activation of the PI3K/AKT pathway in specific neuronal populations can underlie macrocephaly and behavioral abnormalities reminiscent of certain features of human ASD.
 
 A *Eureka Alert* [press release](http://www8.utsouthwestern.edu/utsw/cda/dept37389/files/289145.html) is more digestible. Standard caveats and grains of salt need to be taken, but if you throw enough darts at a dart board, you’ll hit bullseye eventually.
 

@@ -2030,7 +2030,8 @@ in his own divinity.
 7.  Davis, S. [“GREEK AND ROMAN COINS AND THEIR HISTORICAL
     INTEREST.”](http://www.jstor.org/stable/24591082) *Acta Classica* 3
     (1960): 67–76.
-8.  Filigenzi, A. (2019). 3. [Non-Buddhist Customs of Buddhist People:
+8.  Filigenzi, A. (2019).
+3. [Non-Buddhist Customs of Buddhist People:
     Visual and Archaeological Evidence from North-West
     Pakistan.](https://www.researchgate.net/publication/336347615_3_Non-Buddhist_Customs_of_Buddhist_People_Visual_and_Archaeological_Evidence_from_North-West_Pakistan#citations)
     In B. Kellner (Ed.), *Buddhism and the Dynamics of Transculturality:

@@ -48,7 +48,7 @@ You have probably heard about the controversy around Rebeca Tuvel,[This Is What 
 
 Is there any reason the public funds should support [this](http://thephilosophicalsalon.com/if-this-is-feminism-its-been-hijacked-by-the-thought-police/)behavior:
 
-> **Others went further and supported Tuvel in private while actually > attacking her in public.** In private messages, these people > apologized for what she must be going through, while in public they > fanned the flames of hatred and bile on social media. The question is, > why did so many **scholars**, especially feminists, express one > sentiment behind closed doors and another out in the open? Why were so > many others afraid to say anything in public?
+> **Others went further and supported Tuvel in private while actually > attacking her in public.** In private messages, these people > apologized for what she must be going through, while in public they > fanned the flames of hatred and bile on social media. The question is, why did so many **scholars**, especially feminists, express one sentiment behind closed doors and another out in the open? Why were so many others afraid to say anything in public?
 
 The worst thing for Tuvel is that she now truly knows what craven cretins her colleagues and peers are.
 

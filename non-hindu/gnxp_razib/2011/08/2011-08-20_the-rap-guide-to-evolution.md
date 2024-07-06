@@ -11,7 +11,7 @@ The rap guide to evolution
 
 [Darwin Got It Going On](http://opinionator.blogs.nytimes.com/2010/05/04/darwin-got-it-going-on/):
 
-> The lyrics are, for the most part, witty, sophisticated and > scientifically accurate; and they lack the earnest defensiveness that > sometimes haunts lectures on evolution. I spotted one or two small > slips — a confusion of the praying mantis with the Australian redback > spider (oh no!) — and there are a few moments of poetic license that a > po-faced pedant might object to. Otherwise, it’s pretty rigorous.
+> The lyrics are, for the most part, witty, sophisticated and > scientifically accurate; and they lack the earnest defensiveness that > sometimes haunts lectures on evolution. I spotted one or two small slips — a confusion of the praying mantis with the Australian redback spider (oh no!) — and there are a few moments of poetic license that a po-faced pedant might object to. Otherwise, it’s pretty rigorous.
 
 ### Related Posts:
 

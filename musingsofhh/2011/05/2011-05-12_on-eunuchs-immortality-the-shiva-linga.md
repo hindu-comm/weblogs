@@ -65,7 +65,18 @@ Advertisement
 
 **Tagged with:**
 
-- [arjuna](https://musingsofhh.wordpress.com/tag/arjuna/) - [eunuchs](https://musingsofhh.wordpress.com/tag/eunuchs/) - [herakles](https://musingsofhh.wordpress.com/tag/herakles/) - [hercules](https://musingsofhh.wordpress.com/tag/hercules/) - [hijra](https://musingsofhh.wordpress.com/tag/hijra/) - [immortality](https://musingsofhh.wordpress.com/tag/immortality/) - [kamasutra](https://musingsofhh.wordpress.com/tag/kamasutra/) - [napumsaka](https://musingsofhh.wordpress.com/tag/napumsaka/) - [progeny](https://musingsofhh.wordpress.com/tag/progeny/) - [shiva](https://musingsofhh.wordpress.com/tag/shiva/) - [tantra](https://musingsofhh.wordpress.com/tag/tantra/) - [vama-marga](https://musingsofhh.wordpress.com/tag/vama-marga/)
+- [arjuna](https://musingsofhh.wordpress.com/tag/arjuna/)
+- [eunuchs](https://musingsofhh.wordpress.com/tag/eunuchs/)
+- [herakles](https://musingsofhh.wordpress.com/tag/herakles/)
+- [hercules](https://musingsofhh.wordpress.com/tag/hercules/)
+- [hijra](https://musingsofhh.wordpress.com/tag/hijra/)
+- [immortality](https://musingsofhh.wordpress.com/tag/immortality/)
+- [kamasutra](https://musingsofhh.wordpress.com/tag/kamasutra/)
+- [napumsaka](https://musingsofhh.wordpress.com/tag/napumsaka/)
+- [progeny](https://musingsofhh.wordpress.com/tag/progeny/)
+- [shiva](https://musingsofhh.wordpress.com/tag/shiva/)
+- [tantra](https://musingsofhh.wordpress.com/tag/tantra/)
+- [vama-marga](https://musingsofhh.wordpress.com/tag/vama-marga/)
 
 **[“vedic” worldview?](https://musingsofhh.wordpress.com/2011/05/12/vedic-worldview/)**
 

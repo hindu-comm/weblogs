@@ -11,8 +11,8 @@ Kalash haplotype sharing
 
 Prompted by my posts, Dienekes, [A teaser on the Kalash](https://dienekes.blogspot.com/2012/02/teaser-on-kalash.html):
 
-> I am in the middle of a ChromoPainter/fineSTRUCTURE analysis of a > broad dataset designed to explore certain mysteries that have often > come up in my previous experiments. Barring the unexpected, the > analysis should be completed sometime next week. >
-> Below you can see the normalized number of “chunks” donated by various > populations to the Kalash….
+> I am in the middle of a ChromoPainter/fineSTRUCTURE analysis of a broad dataset designed to explore certain mysteries that have often come up in my previous experiments. Barring the unexpected, the analysis should be completed sometime next week. >
+> Below you can see the normalized number of “chunks” donated by various populations to the Kalash….
 
 Here is the bar plot which Dienekes generated (left to right indicates extent of “donation” to the Kalash):
 
@@ -20,7 +20,7 @@ Here is the bar plot which Dienekes generated (left to right indicates extent of
 
 I highlighted the most significant non-South Asian donor. Dienekes states:
 
-> Of particular interest is the fact that all West Asian populations > appear higher on the donor list than all Northern European ones, which > confirms, using a haplotype-based approach, my previous inference that > the Ancestral North Indian (ANI) component is related to West Asians.
+> Of particular interest is the fact that all West Asian populations appear higher on the donor list than all Northern European ones, which confirms, using a haplotype-based approach, my previous inference that the Ancestral North Indian (ANI) component is related to West Asians.
 
 The main issue I would point out is that **“West Asians” are probably a major donor to *both* South Asians and Northern Europeans.** In any case, the [Lezgian](https://en.wikipedia.org/wiki/Lezgian_people) are a North Caucasian non-Indo-Eurpean population. But this is what came to mind:
 
@@ -28,8 +28,8 @@ The main issue I would point out is that **“West Asians” are probably a majo
 
 [Geographical distribution](https://en.wikipedia.org/wiki/Haplogroup_G_(Y-DNA)#Geographical_Distribution) of G:
 
-> In Turkey, the southern Caucasus region and Iran, haplogroup G reaches > the highest percentage of a regional population worldwide. Among > Turkish males 11% of the population is G.\[4\] In Iran, Haplogroup G > reaches 13 to 15% of the population in various parts of the country. > While it is found in percentages higher than 10% among the Bakhtiari, > Gilaki and Mazandarani, it is closer to 5% among the Iranian Arabs and > in some large cities.\[25\] Among the samples in the YHRD database > from the southern Caucasus countries, **29% of the samples from > Abazinia, 31% from Georgia, 18% from Azerbaijan and 11% from Armenia > appear to be G samples.** >
-> In southern Asia, haplogroup G is found in concentrations o**f > approximately 18%\[26\] to 20%\[27\] of Kalash, approximately 16% of > Brahui,\[27\] and approximately 11.5% of sampled Pashtun,\[26\]** but > in only about 3% of the general Pakistani population.\[26\] The many > groups in India and Bangla Desh have not been well studied. About 6% > of the samples from Sri Lanka and Malaysia were reported as haplogroup > G, but none were found in the other coastal lands of the Indian Ocean > or Pacific Ocean in Asia.\[28\]
+> In Turkey, the southern Caucasus region and Iran, haplogroup G reaches > the highest percentage of a regional population worldwide. Among > Turkish males 11% of the population is G.\[4\] In Iran, Haplogroup G > reaches 13 to 15% of the population in various parts of the country. > While it is found in percentages higher than 10% among the Bakhtiari, > Gilaki and Mazandarani, it is closer to 5% among the Iranian Arabs and > in some large cities.\[25\] Among the samples in the YHRD database from the southern Caucasus countries, **29% of the samples from Abazinia, 31% from Georgia, 18% from Azerbaijan and 11% from Armenia appear to be G samples.** >
+> In southern Asia, haplogroup G is found in concentrations o**f > approximately 18%\[26\] to 20%\[27\] of Kalash, approximately 16% of > Brahui,\[27\] and approximately 11.5% of sampled Pashtun,\[26\]** but > in only about 3% of the general Pakistani population.\[26\] The many > groups in India and Bangla Desh have not been well studied. About 6% of the samples from Sri Lanka and Malaysia were reported as haplogroup G, but none were found in the other coastal lands of the Indian Ocean or Pacific Ocean in Asia.\[28\]
 
 Otzi the Iceman was G, and G is found in mountains areas of Southern Europe, as well as among groups like Tamil Brahmins. My own hunch is that G came with men who *first* brought agriculture to Europe. This does not mean that they were among the first agriculturalists in South Asia, but there may be some deep connection to pulses out of the trans-Caucasian region.
 

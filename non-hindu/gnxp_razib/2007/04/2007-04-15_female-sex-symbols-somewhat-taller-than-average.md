@@ -23,17 +23,17 @@ Having established the greater average height of such women, what accounts for t
 
 Conjectures that assume there’s something sexy about tallness per se:
 
-> – Longer legs. My eyes feast upon other parts, so perhaps in the > comments the leg men can explain the appeal of long legs. >
-> – Greater height tricks the eye into seeing a thinner figure. Fatter > is usually not sexier (unless it’s fatter than Kate Moss), since it > reflects poorer health.
+> – Longer legs. My eyes feast upon other parts, so perhaps in the comments the leg men can explain the appeal of long legs. >
+> – Greater height tricks the eye into seeing a thinner figure. Fatter is usually not sexier (unless it’s fatter than Kate Moss), since it reflects poorer health.
 
 Conjectures that assume height isn’t sexy per se, but that it covaries with some sexy other traits:
 
-> – Greater height could reflect a higher degree of male-typical > hormones, which would aid the female in projecting the less passive / > “take what she wants” attitude that characterizes sex symbols. >
-> – Greater height could reflect better nutrition and healthy > development in general — think of all those Midwestern model types who > grew up away from pathogen- and- toxin-infested urban areas. Good > health is sexy per se.
+> – Greater height could reflect a higher degree of male-typical hormones, which would aid the female in projecting the less passive / “take what she wants” attitude that characterizes sex symbols. >
+> – Greater height could reflect better nutrition and healthy development in general — think of all those Midwestern model types who grew up away from pathogen- and- toxin-infested urban areas. Good health is sexy per se.
 
 A conjecture that assumes height isn’t related to sexiness at all:
 
-> – Greater height is necessary to stand out from the crowd and > intimidate other women in the entertainment industry. Maybe the > average guy couldn’t care less about a woman’s height, but to break > through and survive in a cut-throat industry, sheer height helps.
+> – Greater height is necessary to stand out from the crowd and intimidate other women in the entertainment industry. Maybe the average guy couldn’t care less about a woman’s height, but to break through and survive in a cut-throat industry, sheer height helps.
 
 Whatever the reasons turn out to be, it’s clear that there are reproductively prosperous niches that taller than average women are suited to, so that some genetic variation in height will be preserved despite males’ apparent greater interest in females who are 5’2 – 5’3. Presumably the same is true in the other direction: former rockstar Shakira says [here](http://www.celebheights.com/s/-Shakira-1694.html) that being petite (she is \~5’1) causes men to act protective around her. Petite women might have a more sprightly, giggly appeal; so, alleles for shorter height could be preserved either due to the sexiness of girly girls or due to their receiving more protection and investment from others because of their pedomorphic stature.
 

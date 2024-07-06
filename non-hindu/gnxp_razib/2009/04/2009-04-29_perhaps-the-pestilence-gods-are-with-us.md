@@ -11,7 +11,7 @@ Perhaps the pestilence gods are with us!
 
 [Swine influenza, seasonality, and the northern hemisphere](http://www.virology.ws/2009/04/28/swine-influenza-seasonality-northern-hemisphere/):
 
-> This history demonstrates the seasonality of pandemic influenza, and > suggesta that spread of A/California/09/2009 in the northern > hemisphere is not imminent. Based on this regularity, the epidemic in > Mexico should be over no later than the end of May. While it is not > ‘impossible to see the current contagion spreading in the northern > hemisphere over the following months’, it would be unprecedented.
+> This history demonstrates the seasonality of pandemic influenza, and > suggesta that spread of A/California/09/2009 in the northern > hemisphere is not imminent. Based on this regularity, the epidemic in Mexico should be over no later than the end of May. While it is not ‘impossible to see the current contagion spreading in the northern hemisphere over the following months’, it would be unprecedented.
 
 ### Related Posts:
 

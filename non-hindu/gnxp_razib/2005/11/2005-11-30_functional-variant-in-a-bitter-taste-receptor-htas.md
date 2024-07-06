@@ -11,11 +11,11 @@ Functional Variant in a Bitter-Taste Receptor (hTAS2R16) Influences Risk of Alco
 
 A [new study](http://www.journals.uchicago.edu/AJHG/journal/issues/v78n1/42923/brief/42923.abstract.html) in The American Journal of Human Genetics which relates to taste sensitivities and alcoholism:
 
-> …Individuals with the ancestral allele K172 are at increased risk of > alcohol dependence, regardless of ethnicity. However, this risk allele > is uncommon in European Americans (minor-allele frequency \[MAF\] > 0.6%), whereas 45% of African Americans carry the allele (MAF 26%), > which makes it a much more significant risk factor in the African > American population.
+> …Individuals with the ancestral allele K172 are at increased risk of > alcohol dependence, regardless of ethnicity. However, this risk allele > is uncommon in European Americans (minor-allele frequency \[MAF\] 0.6%), whereas 45% of African Americans carry the allele (MAF 26%), which makes it a much more significant risk factor in the African American population.
 
 From the discussion:
 
-> …To assess the distribution of the K172 allele across multiple > populations, we typed this SNP in the Human Genome Diversity > Project-CEPH Human Genome Diversity Cell Line Panel, which includes > 1,057 individuals and represents 52 different populations (Cann et al. > 2002). The MAF for rs846664 had a range of 10%-44% in African > populations, but it was not detected or was present at very low > frequency in non-African populations.
+> …To assess the distribution of the K172 allele across multiple > populations, we typed this SNP in the Human Genome Diversity > Project-CEPH Human Genome Diversity Cell Line Panel, which includes > 1,057 individuals and represents 52 different populations (Cann et al. 2002). The MAF for rs846664 had a range of 10%-44% in African populations, but it was not detected or was present at very low frequency in non-African populations.
 
 I talked about the K172 allele before in my post [A bitterly positive sweep](https://www.gnxp.com/blog/2005/08/bitterly-positive-sweep.php).
 

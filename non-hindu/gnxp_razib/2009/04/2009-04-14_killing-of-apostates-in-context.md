@@ -11,11 +11,11 @@ Killing of apostates in context
 
 [Chaplain’s E-mail Sparks Controversy](http://www.thecrimson.com/article.aspx?ref=527653):
 
-> In a private e-mail to a student last week, Abdul-Basser wrote that > there was “great wisdom (hikma) associated with the established and > preserved position (capital punishment \[for apostates\]) and so, even > if it makes some uncomfortable in the face of the hegemonic modern > human rights discourse, one should not dismiss it out of hand.”  
+> In a private e-mail to a student last week, Abdul-Basser wrote that > there was “great wisdom (hikma) associated with the established and preserved position (capital punishment \[for apostates\]) and so, even if it makes some uncomfortable in the face of the hegemonic modern human rights discourse, one should not dismiss it out of hand.”  
 > …  
-> “I believe he doesn’t belong as the official chaplain,” said one > Islamic student, who asked that he not be named to avoid conflicts > with Muslim religious authorities. “If the Christian ministers said > that people who converted from Christianity should be killed, don’t > you think the University should do something?”  
+> “I believe he doesn’t belong as the official chaplain,” said one > Islamic student, who asked that he not be named to avoid conflicts with Muslim religious authorities. “If the Christian ministers said that people who converted from Christianity should be killed, don’t you think the University should do something?”  
 > …  
-> Abdul-Basser wrote in a later e-mailed statement that he “never > expressed the position that individuals who leave Islam or convert > from Islam to another religion must be killed. I do not hold this > opinion personally.” He explained that he was not advocating for the > positions mentioned in his e-mail, but rather “addressing them in the > context of the evolution of an Islamic legal doctrine.”
+> Abdul-Basser wrote in a later e-mailed statement that he “never > expressed the position that individuals who leave Islam or convert > from Islam to another religion must be killed. I do not hold this opinion personally.” He explained that he was not advocating for the positions mentioned in his e-mail, but rather “addressing them in the context of the evolution of an Islamic legal doctrine.”
 
 **Related:** Harvard Muslim chaplain sees wisdom in my killing!.
 

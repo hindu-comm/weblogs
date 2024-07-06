@@ -67,7 +67,7 @@ THE STORY DATES BACK to the Congress Resolution of 1928, sponsored by Motilal Ne
 
 The linguistic reorganization of India was in reality a redrawing of India’s political map and it was achieved on the carcasses of the Princely States. It is also a subject that needs a thorough re-evaluation if we are serious about preserving the integrity of India itself. The commission set up to examine this linguistic reorganization issue delivered its unambiguous verdict in late 1948: things should be left as they were. Old boundaries had been sanctified by the informal agreements and usages and customs over the eons. Even the British, when they created new Provinces and administrative units, had left the boundaries and local traditions untouched. They rarely interfered with language. Even a British journalist and writer had a better grasp of this Indian reality than the Nehruvian establishment when he wrote this:
 
-> The commission most strongly criticized the creation of linguistic > states on the grounds that they would inspire linguistic and therefore > local patriotisms which would inhibit the growth of a national > consciousness…which was fundamental to such growth.
+> The commission most strongly criticized the creation of linguistic states on the grounds that they would inspire linguistic and therefore local patriotisms which would inhibit the growth of a national consciousness…which was fundamental to such growth.
 
 But then, the aspiring Stalin inside Nawab Nehru had no clue about these practical realities of his own civilizational nation. His tyrannical role models had “created” the USSR from scratch, and this devotee aspired to inflict the same upon Bharatavarsha. And so, in “creating” India, he created an unsolvable mess.
 

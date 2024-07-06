@@ -11,7 +11,7 @@ Friends with unbelievers?
 
 [Does Islam Forbid Befriending Non-Muslims?](http://www.islamonline.net/servlet/Satellite?cid=1119503543362&pagename=IslamOnline-English-Ask_Scholar%2FFatwaE%2FFatwaEAskTheScholar).
 
-> It is obvious that Jews patronize the Jews and Christians patronize > the Christians, so why not Muslims patronize Muslims and support their > own people. This verse is not telling us to be against Jews or > Christians, but it is telling us that we should take care of our own > people and we must support each other.
+> It is obvious that Jews patronize the Jews and Christians patronize > the Christians, so why not Muslims patronize Muslims and support their own people. This verse is not telling us to be against Jews or Christians, but it is telling us that we should take care of our own people and we must support each other.
 
 *Num 31:17 Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.*
 

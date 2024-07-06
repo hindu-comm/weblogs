@@ -474,7 +474,7 @@ There’s a debate whether Damodar had any so.He was succeeded by Jagannath Brhm
   
 Jainarayan wasn’t done yet. Sambhaji Ganesh was the governor of Odisha in 1769.He didnt get along with the head of Nagpur State-Janoji Bhonsle(successor of Raghuji Bhonsle) .Capitalzing on this hostility among the Maratha chiefs ,Jainarayan wrote a letter to the British appointed Nawab of Bengal, Muhammad Reza Khan, to invade Odisha and also complained about how Marathas were looting Dhenkanal.He stated in his letter:
 
-> *"His country has been plundered by the Marhattas.Sambhuji Ganesh who > is staying at Jaipur has rebelled against Raja Januji. Consequently > the Raja's people have come from the Deccan to summon him to . Nagpur. > The whole country from Balasore to Cuttack is undefended and Sambhuji > has designed to loot it. Should a letter of encouragement be sent to > the writer, he will stay in the country with a satisfied heart. Sends > to Murshidabad his brother, who will relate all particulars to the > Khan".*
+> *"His country has been plundered by the Marhattas.Sambhuji Ganesh who > is staying at Jaipur has rebelled against Raja Januji. Consequently > the Raja's people have come from the Deccan to summon him to . Nagpur. > The whole country from Balasore to Cuttack is undefended and Sambhuji > has designed to loot it. Should a letter of encouragement be sent to the writer, he will stay in the country with a satisfied heart. Sends to Murshidabad his brother, who will relate all particulars to the Khan".*
 
 Well,we can’t be sure whether Reza replied to Jainarayan’s letter but it seems Reza stuck to the previous treaty with the Marathas and chose not to cross Subarnarekha.The second attempt of Jainarayan for revenge, turned futile.
 

@@ -13,7 +13,7 @@ The comment thread below [got me thinking](http://js-kit.com/api/static/pop_comm
 
 Consider the following passage from [The Coming Anarchy](https://www.amazon.com/Coming-Anarchy-Shattering-Dreams-Post/dp/037570759X/sr=1-1/qid=1166072898/ref=pd_bbs_sr_1/002-1930039-0153632?ie=UTF8&s=books) by Robert D. Kaplan:
 
-> A recent visit to Azerbaijan made clear to me that Azeri Turks, the > world’s most secular Shi’ite Muslims, see their cultural identity in > terms not of religion but of their Turkic race. The Armenians, > likewise, fight the Azeris not because the latter are Muslims but > because they are Turks, related to the same Turks who massacred > Armenians in 1915. Turkic culture (secular and based on languages > employing a Latin script) is battling Iranian culture (religiously > militant as defined by Tehran, and wedded to an Arabic script) across > the whole swath of Central Asia and the Caucasus. The Armenians are, > therefore, natural allies of their fellow Indo-Europeans the Iranians.
+> A recent visit to Azerbaijan made clear to me that Azeri Turks, the > world’s most secular Shi’ite Muslims, see their cultural identity in > terms not of religion but of their Turkic race. The Armenians, > likewise, fight the Azeris not because the latter are Muslims but > because they are Turks, related to the same Turks who massacred > Armenians in 1915. Turkic culture (secular and based on languages > employing a Latin script) is battling Iranian culture (religiously militant as defined by Tehran, and wedded to an Arabic script) across the whole swath of Central Asia and the Caucasus. The Armenians are, therefore, natural allies of their fellow Indo-Europeans the Iranians.
 
 When I first read this in 2000 I was dubious about some of the details. A “Turkic vs. Iranian” culture war across Inner Asia? Armenians aligned with their fellow Indo-Europeans, the Iranians? There is obviously a lot of truth here.
 
@@ -25,7 +25,7 @@ But there are some serious problems with Kaplan’s analysis, some of which I sa
 
 On this particular topic, the role of Azeris within Iran, [I am especially](http://scienceblogs.com/gnxp/2006/07/lebanon_israel_syria_irani.php) motivated because it seems to me that people are playing shell games with an ignorant public due to ideological motives. I am particularly skeptical of the idea promoted by a few neoconservatives before the 2006 Congressional elections that the ethnic divisions in Iran could be used to fracture the nation. I criticized GNXP reader Jeff Boulier in sharp terms for keeping open the possibility that Azeris could be used to foment divisions in Iran. In our last round Jeff responded:
 
-> That doesn’t, of course, mean that my opinions are not warped by my > priors. I think my opinion is less likely shaped by tribal > identification with my political group but, well, my beliefs about the > willingness of people to engage in tribal behavior.
+> That doesn’t, of course, mean that my opinions are not warped by my priors. I think my opinion is less likely shaped by tribal identification with my political group but, well, my beliefs about the willingness of people to engage in tribal behavior.
 
 Jeff alludes to the fact that I accused him of accepting particular beliefs because his own political tribe espoused them. This is no sin that any of us are free from of course. But Jeff’s point about the willingness of people to engage in tribal behavior is a fair one. I agree with the rough theoretical model:
 

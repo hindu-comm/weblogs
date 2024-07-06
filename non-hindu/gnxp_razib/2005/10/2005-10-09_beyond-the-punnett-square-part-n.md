@@ -42,7 +42,8 @@ Update: This applies to eye color as well, as I talked to an individual who clai
 
 ### Related Posts:
 
-- [Skin color loci - older
+- [Skin color loci
+- older
   work](https://www.gnxp.com/WordPress/2005/12/02/skin-color-loci-older-work/) - [Skin deep, why I'm brown and you wish you
   were](https://www.gnxp.com/WordPress/2006/09/25/skin-deep-why-im-brown-and-you-wish-you-were/) - [More complex than simple
   addition](https://www.gnxp.com/WordPress/2006/12/26/more-complex-than-simple-addition/) - [But it still

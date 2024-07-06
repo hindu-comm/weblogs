@@ -14,7 +14,8 @@ Katz in 100 degree heat
 
 ### Related Posts:
 
-- [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/) - [A fell wind
+- [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/)
+- [A fell wind
   stirs....](https://www.gnxp.com/WordPress/2006/03/25/a-fell-wind-stirs/) - [Katz](https://www.gnxp.com/WordPress/2010/02/26/katz-98/) - [Katz](https://www.gnxp.com/WordPress/2010/02/05/katz-95/) - [Katz](https://www.gnxp.com/WordPress/2010/03/12/katz-100/) - [Katz](https://www.gnxp.com/WordPress/2010/03/26/katz-102/)
 
 ### *Related*

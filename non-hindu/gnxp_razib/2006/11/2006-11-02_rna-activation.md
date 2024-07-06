@@ -13,7 +13,7 @@ I can’t find the original research article yet, but Science has a [news articl
 
 A note of caution, the double-negative inhibition thing could still be what’s happening here:
 
-> One key question is whether Li’s RNAs are activating genes by > silencing others, which would just be RNAi by another name. For > example, proteins called negative transcription factors can prevent > genes from being transcribed; silencing the genes for these proteins > could activate genes they control. Although the UCSF group has not > found evidence that this is happening, “formally, that’s still a > possibility,” says Rossi.
+> One key question is whether Li’s RNAs are activating genes by > silencing others, which would just be RNAi by another name. For > example, proteins called negative transcription factors can prevent > genes from being transcribed; silencing the genes for these proteins could activate genes they control. Although the UCSF group has not found evidence that this is happening, “formally, that’s still a possibility,” says Rossi.
 
 ### Related Posts:
 

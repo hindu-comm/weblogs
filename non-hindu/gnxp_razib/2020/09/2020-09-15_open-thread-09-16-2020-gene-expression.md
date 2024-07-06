@@ -29,13 +29,15 @@ Second, for most people, even at an elite university, studying the humanities is
 
 I wrote this [spring of 2017](https://www.gnxp.com/WordPress/2017/05/19/the-eternal-axial-age/):
 
-> Sulla is efficient. Cruel, but certain in his rightness. Sulla is not > a clown. He is not narcissistic, for Sulla does have ideals, even if > you hold that those ideals are cruel or callous. Sulla is a piece of > furniture, found in many places at many times. The United States of > America has not seen Sulla yet. I believe it will.
+> Sulla is efficient. Cruel, but certain in his rightness. Sulla is not > a clown. He is not narcissistic, for Sulla does have ideals, even if you hold that those ideals are cruel or callous. Sulla is a piece of furniture, found in many places at many times. The United States of America has not seen Sulla yet. I believe it will.
 
 I have no idea why I had such a dark vision of America in 2017. But I did. And in some ways, I think I was justified. The main difference now is I am not so sure that the lictors will ever come. Perversion, not proscriptions.
 
 ### Related Posts:
 
-- [Open Thread - 09/06/2020 - Gene
+- [Open Thread
+- 09/06/2020
+- Gene
   Expression](https://www.gnxp.com/WordPress/2020/09/06/open-thread-09-06-2020-gene-expression/) - [The beauty of baby
   math](https://www.gnxp.com/WordPress/2006/07/04/the-beauty-of-baby-math/) - [Open Thread - 06/07/2022 - Gene
   Expression](https://www.gnxp.com/WordPress/2022/06/07/open-thread-06-07-2022-gene-expression/) - [Problems in

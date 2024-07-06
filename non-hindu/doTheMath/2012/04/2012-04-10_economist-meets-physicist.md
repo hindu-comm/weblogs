@@ -167,7 +167,7 @@ I got the sense that this economist’s view on growth met some serious challeng
 
 I recently was motivated to read a *real* economics textbook: one written by people who understand and respect physical limitations. The book, called *Ecological Economics*, by Herman Daly and Joshua Farley, states in its Note to Instructors:
 
-> …we do not share the view of many of our economics colleagues that > growth will solve the economic problem, that narrow self-interest is > the only dependable human motive, that technology will always find a > substitute for any depleted resource, that the market can efficiently > allocate all types of goods, that free markets always lead to an > equilibrium balancing supply and demand, or that the laws of > thermodynamics are irrelevant to economics.
+> …we do not share the view of many of our economics colleagues that > growth will solve the economic problem, that narrow self-interest is > the only dependable human motive, that technology will always find a > substitute for any depleted resource, that the market can efficiently allocate all types of goods, that free markets always lead to an equilibrium balancing supply and demand, or that the laws of thermodynamics are irrelevant to economics.
 
 This is a book for me!
 

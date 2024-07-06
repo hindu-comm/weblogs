@@ -11,7 +11,7 @@ Tall, short, another locus
 
 [Extended Haplotypes in the Growth Hormone Releasing Hormone Receptor Gene (GHRHR) Are Associated with Normal Variation in Height](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0004464). Here’s the important bit:
 
-> In the VB cohort the height of individuals carrying the associated > haplotypes were 3.8 cm and 2.5 cm shorter for males and females, > respectively, and in the NB cohort 2.1 cm and 1.2 cm shorter for males > and females, respectively. After correcting for sex, age and > population affinity, **carrying or not carrying the negatively > associated haplotype accounts for as much as 1.8% of the variation in > height in our two populations (0.9% without adjustment).**
+> In the VB cohort the height of individuals carrying the associated > haplotypes were 3.8 cm and 2.5 cm shorter for males and females, > respectively, and in the NB cohort 2.1 cm and 1.2 cm shorter for males > and females, respectively. After correcting for sex, age and population affinity, **carrying or not carrying the negatively associated haplotype accounts for as much as 1.8% of the variation in height in our two populations (0.9% without adjustment).**
 
 “In our two populations” = two Swedish samples. The authors point out that if this pans out that this is a big effect, HMGA2 was a much smaller effect. Most of the height genes are much smaller effect than even HMGA. I’m not clear about the worldwide distribution of the haplotype that they have found here, though you should sniff around the SNPs with the [HGDP Selection Browser](http://scienceblogs.com/geneticfuture/2008/11/diy_searching_for_evolutions_signa.php). Main figure below.
 

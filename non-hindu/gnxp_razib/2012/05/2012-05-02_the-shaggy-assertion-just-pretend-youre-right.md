@@ -11,8 +11,8 @@ The "Shaggy assertion" – just pretend you're right
 
 As most long time readers know I generally screen to at least a cursory level comments by people who have not posted before. Except for purposes of entertainment only I won’t publish Creationist comments. Naturally some comments are offensive, but a surprising number I just don’t let through are “not-even-wrong” or “too-stupid-to-understand-the-original-post” class. But yesterday a comment was in the mod queue which really confused me. My initial instinct was to spam it, but I was moderately intrigued, so I let it through. In response to my assertion of having read material which indicated that Gaelic was the language of the Irish peasantry before 1800, [Paul Crowley](http://blogs.discovermagazine.com/gnxp/2012/04/facing-the-ocean/comment-page-1/#comment-134786) asserted:
 
-> What you have read is quite wrong. It is a common misconception > (especially in Ireland) based on wishful nationalistic thinking. > Farmers and peasants do not drop their native language and learn to > speak another without extreme compulsion. While there was some > pressure, there was no compulsion. The ancient ruling class — as > represented later by the Irish Earls, and as seen in the courts of > local chiefs — spoke Gaelic, and it is they who left nearly all the > records. Illiterate farmers leave very few records, but what little > there is suggests that English has been tongue of the great bulk of > the Irish peasantry for as far back as we want to go. The rebels of > 1598 all spoke English. Walter Raleigh had no difficulty understanding > the speech of local people in Cork in the 1570s. >
-> The great difficulty with the records is that the ‘data’ on this > matter reflects aspirations rather than facts. Since the ‘English’ > (actually the Norman-French) invaded in 1172, every self-respecting > Irishman has declared his deep love and respect for the language so > cruelly taken from him….
+> What you have read is quite wrong. It is a common misconception > (especially in Ireland) based on wishful nationalistic thinking. > Farmers and peasants do not drop their native language and learn to > speak another without extreme compulsion. While there was some > pressure, there was no compulsion. The ancient ruling class — as > represented later by the Irish Earls, and as seen in the courts of > local chiefs — spoke Gaelic, and it is they who left nearly all the > records. Illiterate farmers leave very few records, but what little > there is suggests that English has been tongue of the great bulk of the Irish peasantry for as far back as we want to go. The rebels of 1598 all spoke English. Walter Raleigh had no difficulty understanding the speech of local people in Cork in the 1570s. >
+> The great difficulty with the records is that the ‘data’ on this > matter reflects aspirations rather than facts. Since the ‘English’ (actually the Norman-French) invaded in 1172, every self-respecting Irishman has declared his deep love and respect for the language so cruelly taken from him….
 
 There were statements in the comment which I’m *very* skeptical of (e.g., “Farmers and peasants do not drop their native language and learn to speak another without extreme compulsion” is obviously plain bullshit, there are plenty of ethnographic and historical counter-examples to this!). But the commenter asserted forcefully, in cogent English. I don’t know the area, so though I was very skeptical I let the comment through.
 
@@ -22,7 +22,9 @@ This is analogous to the [“Shaggy defense.”](https://en.wikipedia.org/wiki/I
 
 ### Related Posts:
 
-- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/) - [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/) - [The continuing "death of
+- [Comments](https://www.gnxp.com/WordPress/2008/09/28/comments/)
+- [Comments](https://www.gnxp.com/WordPress/2009/12/14/comments/)
+- [The continuing "death of
   comments"](https://www.gnxp.com/WordPress/2010/03/17/the-continuing-death-of-comments/) - [Comments, terms of use,
   etc.](https://www.gnxp.com/WordPress/2013/03/07/comments-terms-of-use-etc/) - [Comments unleashed and readers
   unlurked](https://www.gnxp.com/WordPress/2013/02/04/comments-unleashed-and-readers-unluked/) - [A quick note on comments

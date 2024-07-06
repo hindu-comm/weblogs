@@ -11,7 +11,7 @@ Derek Lowe needs a job by year's end
 
 [Derek Lowe](http://pipeline.corante.com/archives/2006/11/09/help_wanted_i_hope.php) [needs a new job soon](http://pipeline.corante.com/archives/2006/11/09/help_wanted_i_hope.php). I know that some recruiters read this weblog. Here is his “about”:
 
-> Derek Lowe, an Arkansan by birth, got his BA from Hendrix College and > his PhD in organic chemistry from Duke before spending time in Germany > on a Humboldt Fellowship on his post-doc. He’s worked for several > major pharmaceutical companies since 1989 on drug discovery projects > against schizophrenia, Alzheimer’s, diabetes, osteoporosis and other > diseases.
+> Derek Lowe, an Arkansan by birth, got his BA from Hendrix College and > his PhD in organic chemistry from Duke before spending time in Germany > on a Humboldt Fellowship on his post-doc. He’s worked for several major pharmaceutical companies since 1989 on drug discovery projects against schizophrenia, Alzheimer’s, diabetes, osteoporosis and other diseases.
 
 ### Related Posts:
 

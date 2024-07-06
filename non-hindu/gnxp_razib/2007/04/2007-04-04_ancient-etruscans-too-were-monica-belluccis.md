@@ -11,8 +11,8 @@ Ancient Etruscans too were Monica Belluccis
 
 [](https://www.gnxp.com/blog/uploaded_images/mon-742551.JPG)Nick Wade has a good article in the NYT on the [origins of the Etruscans](http://www.nytimes.com/2007/04/03/science/03etruscan.html), which if you’ve been following Razib’s coverage of the topic ([here](https://www.gnxp.com/blog/2007/02/etruscans.php), [here](https://www.gnxp.com/blog/2007/03/etruscans-consensus.php), and [here](https://www.gnxp.com/blog/2007/03/indo-europeanist-on-etruscans.php)) will sound pretty familiar. However, the following ancient account of their women caught my eye:
 
-> “Sharing wives is an established Etruscan custom,” wrote the Greek > historian Theopompos of Chios in the fourth century B.C. “Etruscan > women take particular care of their bodies and exercise often. It is > not a disgrace for them to be seen naked. Further, they dine not with > their own husbands, but with any men who happen to be present.” >
-> He added that Etruscan women “are also expert drinkers and are very > good looking.”
+> “Sharing wives is an established Etruscan custom,” wrote the Greek > historian Theopompos of Chios in the fourth century B.C. “Etruscan women take particular care of their bodies and exercise often. It is not a disgrace for them to be seen naked. Further, they dine not with their own husbands, but with any men who happen to be present.” >
+> He added that Etruscan women “are also expert drinkers and are very good looking.”
 
 Judging physical attractiveness is pretty easy — you don’t need to subject the person to a gauntlet of cognitive tasks like you do to gauge their intelligence, or see them behave in diverse situations to discern their level of extraversion. It’s also a quality that males are apt to pay particular attention to, especially if it is so pop-out-of-the-background that a person emphasizes that a woman is very good looking. So, I think it’s safe to say this ancient historian’s remark is at least in the ballpark.
 
