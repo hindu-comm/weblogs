@@ -233,35 +233,13 @@ Yet such an interpretation makes little sense.
 At least for this specific context.  
 Pious and morally blameless ascetics being killed  
 
-do not merit a rather broad array of citations  
-in  
-amidst a God’s victory-lists in the Shruti –  
-wherein  
-they are pointedly situated+++(5)+++  
+do not merit a rather broad array of citations in amidst a God’s victory-lists in the Shruti –  
+wherein they are pointedly situated+++(5)+++  
 alongside other rather more+++(4)+++  
 well-remarked upon threats  
- 
-such as 
-that demon-dragons of the waters, Vritra and Vala (c.f. AV-S II 5 3; Samaveda II 3 1 12  
-  
-
-3),  
-and with  
-Bhrigu carrying out  
-a ‘resonant’+++(5)+++  
-deed, 
-
-likewise (A Priest, a  
-Rsi co-enacting the mythic fight of the  
-God against  
-Demon –  )
-rather  
-on-point, you would have to say  
-for t 
-he circumstance of TS VI  2 7 / SBr III 5 1  
-& 2 all up) .  
-We  
-would also be rather surprised  
+such as that demon-dragons of the waters, Vritra and Vala (c.f. AV-S II 5 3; Samaveda II 3 1 12 3), and with Bhrigu carrying out a ‘resonant’+++(5)+++ deed,  
+likewise (A Priest, a Rsi co-enacting the mythic fight of the God against Demon –  ) rather on-point, you would have to say for the circumstance of TS VI  2 7 / SBr III 5 1 & 2 all up) .  
+We would also be rather surprised  
 if something which was so *wrong*  
 was therefore to be directly invoked *in* the relevant Taittiriya Samhita ritual operation  
 *as* just exactly what the properly pious Brahminical operator himself ought to thusly engage in.+++(4)+++
@@ -290,32 +268,84 @@ and Indra is able to return once more to the Divine Fold proper in earnest.
 My suspicions appear confirmed in the Tandya Mahabrahmana (XIV 11 28),  
 where Indra’s slaying of the Yatis is indeed said to have accrued Him  
 an (expiatable) ritual impurity –  
-with, more interestingly, the commentator directly having the sin in question declared to be Brahmanicide. Although curiously, the same source then goes on to emphatically declare the Yatisas having “practised observances contrary to the Veda”\[Tandya Br. viii 1 4, Muir translation\], to be “hostile to sacrifices”\[ibid., xiii 4 27\] and also against “rites”\[ibid., xiv 11 28\], yet also being “Brahmans who did not celebrate the jyotishtoma and other sacrifices, but lived in another way.” \[ibid., xviii 1 9\]
+with, more interestingly, the commentator directly having the sin in question declared to be Brahmanicide.  
+Although curiously, the same source then goes on to emphatically declare the Yatis  
+as having “practised observances contrary to the Veda”\[Tandya Br. viii 1 4, Muir translation\],  
+to be “hostile to sacrifices”\[ibid., xiii 4 27\] and also against “rites”\[ibid., xiv 11 28\],  
+yet also being “Brahmans who did not celebrate the jyotishtoma and other sacrifices, but lived in another way.” \[ibid., xviii 1 9\]+++(5)+++
 
-Sayana, meanwhile, declares the Yatis to be “Asuras in the disguise of \[Yatis\]” and the aforementioned Arurmaghas (elsewhere – ‘Arunmukhas’, apparently) to be “Asuras in the form \[‘disguise’, per Haug\] of Brahmans”, per his commentary upon Ait. Br. VII 28; Haug also notes Sankara Acharya’s Kaushitaki Upanishad commentary as parsing “Arunmukhas” as “in whose mouth is not the study of the Vedas”, with Haug’s inference being that these Arurmaghas “were no doubt a kind of degraded Aryas, very likely a tribe of the ancient Iranians, in whose language (the Zend) the words aurvo and magha are frequently to be met with”. Perhaps surprisingly to some corners of our audience given my recurrent sentiments in relation to Zoroastrianism … I do not share his view. At least, not axiomatically. It would be tempting to speculate that the ‘Ashemaoghas’ mentioned in the Avestan texts (ref. Vendidad Fargard 18 I 11), for example, may bear some coterminity in this direction – but that is not our purpose to get into herein.
+Sayana, meanwhile, declares the Yatis to be “Asuras in the disguise of \[Yatis\]”+++(5)+++  
+and the aforementioned Arurmaghas (elsewhere – ‘Arunmukhas’, apparently) to be “Asuras in the form \[‘disguise’, per Haug\] of Brahmans”,  
+per his commentary upon Ait. Br. VII 28;  
+Haug also notes Sankara Acharya’s Kaushitaki Upanishad commentary  
+as parsing “Arunmukhas” as “in whose mouth is not the study of the Vedas”,  
+with Haug’s inference being that these Arurmaghas “were no doubt a kind of degraded Aryas,  
+very likely a tribe of the ancient Iranians, in whose language (the Zend)  
+the words aurvo and magha are frequently to be met with”. +++(4)+++ 
 
-The semi-conflation of the Arurmaghas / Arunmukhas with the Yatisinstead suggests that these are, at least in ritual invocation of the sort and style that we have above discussed, intended as an ‘enemy’ clade. And the characteristics that we are able to piece together for these should seem to have them as something along the lines of an ‘enemy caster’, or a ‘dark (even ‘inverse’) equivalent’ to the Brahmins doing the proper-and-pious invoking. In just the same manner as Agni fights via prayerful operation, a Priest of the Demons, at various points in the SBr ritual manuals (ref. SBr III 5 1 21 , etc.). Hence, as Sayana had it – ‘Asuras in Brahmin form’.
+Perhaps surprisingly to some corners of our audience given my recurrent sentiments in relation to Zoroastrianism …  
+I do not share his view.  
+At least, not axiomatically.  
+It would be tempting to speculate that the ‘Ashemaoghas’ mentioned in the Avestan texts (ref. Vendidad Fargard 18 I 11), for example,  
+may bear some coterminity in this direction –  
+but that is not our purpose to get into herein.
 
-Or, perhaps more interestingly, perhaps, something more akin to our understanding for Yatudhana – ‘Sorcerer’, albeit with potency gained via making offerings to enlisted Demons. As that is the reasonably direct meaning for ‘Yatudhana’ – One who feeds / gives offering (‘dhaana’ / dhāna /धान) to the Yatus (Yātu /यातु – in this context ‘Those Who Go \[through the air?\]’, and intended to refer to the Demons bound by the spells of the miscreant metaphysically empowered villain encountered herein).
+The semi-conflation of the Arurmaghas / Arunmukhas with the Yatis instead suggests that  
+these are, at least in ritual invocation of the sort and style that we have above discussed,  
+intended as an ‘enemy’ clade.  
+And the characteristics that we are able to piece together for these  
+should seem to have them as something along the lines of an ‘enemy caster’, or a ‘dark (even ‘inverse’) equivalent’ to the Brahmins doing the proper-and-pious invoking.+++(4)+++  
+In just the same manner as Agni fights via prayerful operation, a Priest of the Demons, at various points in the SBr ritual manuals (ref. SBr III 5 1 21 , etc.).  
+Hence, as Sayana had it – ‘Asuras in Brahmin form’.
 
-As it happens, Yati / Yatin appears to actually share an etymological root with ‘Yatu’; although it is a little unclear as to just how ‘close’ the relationship might truly have been intended to be. Given later texts upon the subject, I do not think that the Yatis/ Yatins were intended in this context to be the demons *themselves* (insofar as it matters) – but rather, humans making active use of them in the course of their own ritual ensorcellments.
+Or, perhaps more interestingly, perhaps,  
+something more akin to our understanding for Yatudhana – ‘Sorcerer’,  
+albeit with potency gained via making offerings to enlisted Demons.  
+As that is the reasonably direct meaning for ‘Yatudhana’ –   
+One who feeds / gives offering (‘dhaana’ / dhāna /धान) to the Yatus (Yātu /यातु – in this context ‘Those Who Go \[through the air?\]’,  
+and intended to refer to the Demons bound by the spells of the miscreant  
+metaphysically empowered villain encountered herein).
+
+As it happens, Yati / Yatin appears to actually share an etymological root with ‘Yatu’;  
+although it is a little unclear as to just how ‘close’ the relationship might truly have been intended to be.  
+Given later texts upon the subject,  
+I do not think that the Yatis/ Yatins were intended in this context  
+to be the demons *themselves* (insofar as it matters) –  
+but rather, humans making active use of them in the course of their own ritual ensorcellments.
 
 To quote myself upon the subject as to their essential nature:
 
-“Later scripture should seem to present these ‘Yatins’ in a rather interesting manner – effectively suggesting these to be almost ‘priestly’ sorts … certainly capable of carrying out rites, however hopelessly in league with Demons and in arrogant opposition to the Gods. Indeed, in at least one telling they (or the forces they are aligned with) even have had the temerity to attempt to steal the Wife of the Sacrificer (Man – or, more directly, Manu) via a mentally afflicting “influence”. Thus necessitating the enlisted aid of Indra in order to smash both the scurrilous mind-ensnaring enchantment and its would-be beneficiaries. By feeding them to the Wolves!”
+> “Later scripture should seem to present these ‘Yatins’ in a rather interesting manner –  
+> effectively suggesting these to be almost ‘priestly’ sorts …  
+> certainly capable of carrying out rites,  
+> however hopelessly in league with Demons  
+> and in arrogant opposition to the Gods.  
+> Indeed, in at least one telling they (or the forces they are aligned with)  
+> even have had the temerity to attempt to steal the Wife of the Sacrificer (Man – or, more directly, Manu)  
+> via a mentally afflicting “influence”.  
+> Thus necessitating the enlisted aid of Indra in order to smash both the scurrilous mind-ensnaring enchantment and its would-be beneficiaries. By feeding them to the Wolves!”
 
-This is, then, quite pertinent for our contemplation of the Vedic resonation of Pratyangira – as She is called upon in order to deflect the dark enchantments and malefic efforts to be unleashed by such sorts against the pious devotee, the *proper* priestly invoker.
+## Pratyangira
+This is, then, quite pertinent for our contemplation of the Vedic resonation of Pratyangira –  
+as She is called upon in order to deflect the dark enchantments  
+and malefic efforts to be unleashed by such sorts against the pious devotee, the *proper* priestly invoker.+++(5)+++
 
-And also through Her that various great boons may be bestowed, particularly those which the demons and demon-worshippers might have sought to interfere with.
+And also through Her that  
+various great boons may be bestowed,  
+particularly those which the demons and demon-worshippers might have sought to interfere with.
 
 To quote from the Taittiriya Samhita in relation to Vak as Lioness (i.e. not Praytangira*directly* – but quite resonantly therewith, all the same):
 
-“The High Altar \[Vak\] said, ‘Through Me Ye shall obtain all Your desires.’  
-The Gods desired, ‘Let Us overcome the Asuras Our foes.’  
+> “The High Altar \[Vak\] said,  
+> ‘Through Me Ye shall obtain all Your desires.’  
+> The Gods desired, ‘Let Us overcome the Asuras Our foes.’  
 They sacrificed (with the words),’Thou Art a Lioness, overcoming rivals; Hail!’  
-They over came the Asuras, Their foes. Having overcome the Asuras, Their foes, They felt desire, ‘May We obtain Offspring.’  
+They over came the Asuras, Their foes.  
+> Having overcome the Asuras, Their foes,  
+> They felt desire, ‘May We obtain Offspring.’  
 They Sacrificed (with the words), ‘Thou Art a Lioness, bestowing fair offspring, Hail!’  
-They obtained offspring. They having obtained offspring felt desire, ‘May We obtain cattle.’  
+They obtained offspring.  
+> They having obtained offspring felt desire, ‘May We obtain cattle.’  
 They Sacrificed (with the words), ‘Thou Art a Lioness, bestowing increase of wealth; Hail!’  
 They obtained cattle. Having obtained cattle, They felt desire, ‘May We obtain support.’  
 They Sacrificed (with the words), ‘Thou Art a Lioness, winning (the favour of) the Adityas; Hail!’  
@@ -325,48 +355,82 @@ They Sacrificed (with the words), ‘Thou Art a Lioness; bring the Gods to the P
 
 The equivalent verses of the SBr are to be found at III 5 2 9-13.
 
+## Burning
 Oh, and as for what shall happen to those thrice-accursed demon-worshippers?
 
 Their flame shall burn but … briefly.
 
-“The sprinkling-water which is left he pours outside the altar close to where is the southern of those two front corners (of the high altar) with, ‘This burning water I dismiss from the sacrifice.’ Because She (Vâk–the Altar) on that occasion became a Lioness and roamed about unappeased, he thus dismisses from the sacrifice that Sorrow of Hers,–if he do not wish to exorcise. But should he wish to exorcise, let him indicate it by saying, ‘This burning water I dismiss from the sacrifice against so and so!’ He then smites him with that sorrow, and sorrowing he goes to yonder world.”  
+> “The sprinkling-water which is left he pours outside the altar close to where is the southern of those two front corners (of the high altar) with,  
+‘This burning water I dismiss from the sacrifice.’  
+> Because She (Vâk–the Altar) on that occasion became a Lioness and roamed about unappeased,  
+> he thus dismisses from the sacrifice that Sorrow of Hers,–if he do not wish to exorcise.  
+> But should he wish to exorcise, let him indicate it by saying,  
+> ‘This burning water I dismiss from the sacrifice against so and so!’  
+> He then smites him with that sorrow, and sorrowing he goes to yonder world.”  
 \[III 5 2 8, Eggeling translation\]
 
 Or, from the Taittiriya Samhita:
 
-“In that he sprinkles the high altar, verily thus does the sacrificer repel his foes from the quarters. Indra gave the Yatis to the Salavrkas; them they ate on the right of the high altar.  
-Whatever is left of the sprinkling waters he should pour on the right of the High Altar; whatever Cruel is there that he appeases thereby. He should think of whomever he hates; verily he brings affliction upon him.”  
+> “In that he sprinkles the high altar,  
+> verily thus does the sacrificer repel his foes from the quarters.  
+> Indra gave the Yatis to the Salavrkas; them they ate on the right of the high altar.  
+Whatever is left of the sprinkling waters he should pour on the right of the High Altar;  
+> whatever Cruel is there that he appeases thereby.  
+> He should think of whomever he hates; verily he brings affliction upon him.”  
 \[TS VI 2 7, Keith translation\]
 
 To quote from an earlier piece of mine, aptly enough (given the Pratyangira – BhadraKali co-identification often encountered) on Kali :
 
-“Yet where we took things next was to observe the situation identified in those Yajurvedic Rites, wherein the Baleful, Burning, Furious and Roaring Form of the Goddess was invoked in order to devour an invidious opponent. With, entirely uncoincidentally, Her being Called Forth from the Southern vector that also constitutes the Pathway into the Realms of the Dead – the fire-shrouded Gates of the Underworld Themselves.
+> “Yet where we took things next was to observe the situation identified in those Yajurvedic Rites,  
+> wherein the Baleful, Burning, Furious and Roaring Form of the Goddess was invoked  
+> in order to devour an invidious opponent.  
+> With, entirely uncoincidentally, Her being Called Forth from the Southern vector that also constitutes the Pathway into the Realms of the Dead –  
+> the fire-shrouded Gates of the Underworld Themselves.
 
-This is also where we had earlier met the Salavrkas \[‘Temple Wolves’, ‘Wolves of the Enclosure’\], and alongside Them, the Pitrs \[‘Forefathers’ – Shades of the Ancestors\]. The former mentioned explicitly there alongside “That Which Is Cruel (‘Krura’)” in the Taittiriya Samhita and engaged in the victorious devouring of the Yatis (‘Sorcerers’, ‘Demon-Worshippers’) that are the enemy of both Gods and Priest (and His Wife, whether She knows it at that point or otherwise) – whilst it is Vak in the form of an enraged Lioness Who comes surging forth to annihilate the adversary in the Shatapatha Brahmana’s perspective upon the same ritual conceptry.”
+## Salavrkas and Pitrs
+This is also where we had earlier met the Salavrkas \[‘Temple Wolves’, ‘Wolves of the Enclosure’\], and alongside Them, the Pitrs \[‘Forefathers’ – Shades of the Ancestors\].  
+The former mentioned explicitly there alongside “That Which Is Cruel (‘Krura’)” in the Taittiriya Samhita  
+and engaged in the victorious devouring of the Yatis (‘Sorcerers’, ‘Demon-Worshippers’)  
+that are the enemy of both Gods and Priest (and His Wife, whether She knows it at that point or otherwise) –  
+whilst it is Vak in the form of an enraged Lioness  
+Who comes surging forth to annihilate the adversary in the Shatapatha Brahmana’s perspective upon the same ritual conceptry.”
 
+## Kruram
 And, to speak to ‘Kruram’ itself (the term utilized in the afore-quoted TS verse):
 
-“PIE \*kruh₂rós (‘Bloody’), \[informs\] both Sanskrit ‘Krura’ ( क्रूर ), as well as modern English ‘Cruel’.
+> “PIE \*kruh₂rós (‘Bloody’), \[informs\] both Sanskrit ‘Krura’ ( क्रूर ), as well as modern English ‘Cruel’.
 
-Indeed, the Sanskrit is (as we have come to anticipate), rather more expansive in its field of definition – encompassing not only ‘Cruel’ and ‘Bloody, but also ‘Wrathful’, ‘Pitiless’, ‘Savage’, ‘Formidable’, ‘Frightful’, ‘Violent’, ‘Aggressive’, ‘Harsh’, and rather ‘Barbaric’.
+Indeed, the Sanskrit is (as we have come to anticipate), rather more expansive in its field of definition –  
+encompassing not only ‘Cruel’ and ‘Bloody, but also ‘Wrathful’, ‘Pitiless’, ‘Savage’, ‘Formidable’, ‘Frightful’, ‘Violent’, ‘Aggressive’, ‘Harsh’, and rather ‘Barbaric’.
 
-Fitting, one would have to say, for the quite literally ‘Terrific’ (for They beget Terror) facings to Deifics such as Rudra – and, of course, His Wife. Who is quite directly hailed as ‘Krura’ (or ‘Krurayai’) in various scripture oriented toward Her (see, for instance, Agni Purana 146; Devi Bhagavata Purana VIII 24; and, of course, the famed Sri Durga Ashtottara Shatanama Stotram \[‘Great Durga 108 Name Hymnal’\] and in similar fashion in the Kalika Sahasranama Stotram – in both the latter instances, occurring in sequence to read ‘Ameya Vikrama Krura’ … Limitless (Ameya) Power / Valour / Heroism (Vikrama) – and, we may infer, also ‘Krura’-quality : judiciously meted out towards the justly-reviled foe).
+Fitting, one would have to say,  
+for the quite literally ‘Terrific’ (for They beget Terror) facings to Deifics such as Rudra – and, of course, His Wife.  
+Who is quite directly hailed as ‘Krura’ (or ‘Krurayai’) in various scripture oriented toward Her (see, for instance, Agni Purana 146; Devi Bhagavata Purana VIII 24; and, of course, the famed Sri Durga Ashtottara Shatanama Stotram \[‘Great Durga 108 Name Hymnal’\] and in similar fashion in the Kalika Sahasranama Stotram – in both the latter instances, occurring in sequence to read ‘Ameya Vikrama Krura’ … Limitless (Ameya) Power / Valour / Heroism (Vikrama) – and, we may infer, also ‘Krura’-quality : judiciously meted out towards the justly-reviled foe).
 
 Given the context, we are also reminded of the invocation of ‘Krura’ in Krishna Yajurveda VI 2 7 in relation to the (howling) demesne that is as the Gates of the Underworld and the Dominion of the Pitrs \[‘Ancestors’ – ‘Pitr’ is a cognate for \[Fore\]Father\] under the command of the ‘Manojavah’ (‘Swift-As-Thought’) that is Death.
 
-There, the Salavrkas \[‘Temple-Wolves’, or ‘Wolves of the Boundary’\] and the Ancestors (with which the Wolves may be co-expressive/co-identifiable) are called upon to devour the malign Yatis (‘Sorcerers’, ‘Demon-Worshippers’ – adversaries to the Gods and troublers of the religion) that might seek to intrude upon and disrupt the rites of the pious … in particular, in later scripture, via stealing the Wife of the Priest via subjecting His Beloved to a pernicious mental “influence”.
+## krUra-s
+There, the Salavrkas \[‘Temple-Wolves’, or ‘Wolves of the Boundary’\] and the Ancestors (with which the Wolves may be co-expressive/co-identifiable)  
+are called upon to devour the malign Yatis (‘Sorcerers’, ‘Demon-Worshippers’ – adversaries to the Gods and troublers of the religion)  
+that might seek to intrude upon and disrupt the rites of the pious … in particular, in later scripture, via stealing the Wife of the Priest via subjecting His Beloved to a pernicious mental “influence”.
 
-Interestingly, the Shatapatha Brahmana version of the same rite \[SBr III 5 2\] has, in the place of this invocation to the Salavrkas, the saliency for Vak Devi in Wrathful, Devouring (indeed, Lioness) form. We would suggest that the Goddess becoming Furious, Terrifying, and with the razor-inescapable Maw (and Roar) of a (female) Lion … has clear ‘resonancy’ for our perspective upon Kali Devi.”
+Interestingly, the Shatapatha Brahmana version of the same rite \[SBr III 5 2\] has,  
+in the place of this invocation to the Salavrkas, the saliency for Vak Devi in Wrathful, Devouring (indeed, Lioness) form.  
+We would suggest that the Goddess becoming Furious, Terrifying, and with the razor-inescapable Maw (and Roar) of a (female) Lion …  
+has clear ‘resonancy’ for our perspective upon Kali Devi.”
 
 And also, viz. a Lioness – well, as you can see, Pratyangira, Herself !
 
-“Whether in Protection of that Demesne that is (of) Her when threatened directly; in forceful, intimidatory warding against the would-be violator or stealer of same; to *Remind*, where She has (seemingly) been Forgotten, just who and what We are; and, of course, in Far-Working (ἑκάεργος – or, perhaps, more (three) pointedly, ἑκατηβόλος) retribution and ultimate restoration should the former scenario of co-option have come to horrendous pass.
+> “Whether in Protection of that Demesne that is (of) Her when threatened directly;  
+> in forceful, intimidatory warding against the would-be violator or stealer of same;  
+> to *Remind*, where She has (seemingly) been Forgotten, just who and what We are;  
+> and, of course, in Far-Working (ἑκάεργος – or, perhaps, more (three) pointedly, ἑκατηβόλος) retribution and ultimate restoration should the former scenario of co-option have come to horrendous pass.
 
 So, to speak towards that ‘Kruram’ quality on grievous (as well as ‘Grave’) display when She is roused to Wrath – and with it, Wrack and Ruin :
 
 We can hardly do better than to quote the last few lines (in Griffith translation) of the Atharva Veda (Śaunakīya)’s Hymn XII 5:
 
-“With hundred-knotted thunderbolt, sharpened and edged with razor-blades,  
+> “With hundred-knotted thunderbolt, sharpened and edged with razor-blades,  
 Strike off the shoulders and the head.  
 Snatch Thou the hair from off his head, and from his body strip the skin:  
 Tear out his sinews, cause his flesh to fall in pieces from his frame.  
@@ -377,9 +441,14 @@ From Heaven let Sūrya drive him and consume him.”
 
 The Goddess-Figure invoked in those verses is referred to as ‘The Brahman’s Cow’ – I have taken this to mean ‘Vak’, for reasons I have enunciated at far greater length and breadth elsewhere.  
   
+## Angirasi
 She is invoked pointedly as an Angirasi – a Daughter of Angiras … and it ought prove not difficult to see how that fits into our earlier-aforementioned scale of rubric; given the role of the Angiras-priest as set out above.  
   
-The reason *why* She is thusly invoked in such forcefully Avenging tones therein, is because such force (‘Shakti’, indeed) is to be unleashed, roaring, upon some calumnious covetous converter who has *dared* to try and make off with what we might, perhaps, in light (yajna-given) of various afore-referenced Brahmanas etc. refer to as “The Brahman’s Wife” and otherwise disrupt the Rite and proper religious proceeding attendant accordingly.
+The reason *why* She is thusly invoked in such forcefully Avenging tones therein,  
+is because such force (‘Shakti’, indeed) is to be unleashed, roaring, 
+upon some calumnious covetous converter who has *dared* to try and make off with what we might, perhaps, in light (yajna-given) of various afore-referenced Brahmanas etc.  
+refer to as “The Brahman’s Wife”  
+and otherwise disrupt the Rite and proper religious proceeding attendant accordingly.
 
 The points of resonancy with our lately-prominent figure of Pratyangira ought prove readily apparent.
 
@@ -387,7 +456,8 @@ There is more – much more – with relation to Pratyangira which could be writ
 
 But for now, I think that it is (likely more than) enough.
 
-May our foeman’s curses break and seizings lose their grip, the forces he feels at his command recoil upon him with aptly judicious and hilarious results;  
+May our foeman’s curses break and seizings lose their grip,  
+the forces he feels at his command recoil upon him with aptly judicious and hilarious results;  
 And that which he has stolen from us return swiftly forthwith!
 
 Through the Shakti Which Knows No End: that Thunderous Lioness’ Roar (In Answer)
