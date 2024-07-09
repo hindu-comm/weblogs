@@ -11,31 +11,13 @@ MM #2: Cosmology
 
 This is the second in the [Metastatic Modernity video series](https://dothemath.ucsd.edu/metastatic-modernity-video-series/) of about 17 installments (see [launch announcement](https://dothemath.ucsd.edu/2024/07/metastatic-modernity-launch/)), putting the meta-crisis in perspective as a cancerous episode afflicting humanity and the greater community of life on Earth. This episode provides a cosmological perspective on our insignificance.
 
-<div class="wp-block-embed__wrapper">
+<div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=IjNAzwU3lKg"></div>
 
-<div class="iframe">
 
-<div id="player">
-
-</div>
-
-<div class="player-unavailable">
-
-## An error occurred.
-
-<div class="submessage">
-
-[Try watching this video on www.youtube.com](https://www.youtube.com/watch?v=IjNAzwU3lKg), or enable JavaScript if it is disabled in your browser.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-As will be the custom for the series, I provide a stand-alone companion piece in written form (not a transcript) so that the key ideas may be absorbed by a different channel. I record unscripted videos in one take—usually keeping the first attempt—which has the advantage of being fresh and natural, but I inevitably leave out all the “right” things I would say if given more time. Writing allows more careful reflection and optimization of how I say things. I’m not as collected in real-time.
+As will be the custom for the series, I provide a stand-alone companion piece in written form (not a transcript) so that the key ideas may be absorbed by a different channel.  
+I record unscripted videos in one take—usually keeping the first attempt—which has the advantage of being fresh and natural,  
+but I inevitably leave out all the “right” things I would say if given more time.  
+Writing allows more careful reflection and optimization of how I say things. I’m not as collected in real-time.
 
 The write-up that follows is arranged according to “chapters” in the video, navigable via links in the YouTube description field.
 
@@ -45,17 +27,33 @@ This just names the series and myself, acknowledging my professional connection 
 
 ## The Big Bang
 
-The Big Bang happened 13.8 billion years ago, which created our space and time. We are not geared to think about a beginning of time and non-existence of space, but that’s what the Big Bang is about. The universe did not “explode” into a pre-existing space, the way our brains are hard-wired to picture any explosion. Space itself is the very thing that was (and is) exploding.
+The Big Bang happened 13.8 billion years ago, which created our space and time.  
+We are not geared to think about a beginning of time and non-existence of space, but that’s what the Big Bang is about.  
+The universe did not “explode” into a pre-existing space, the way our brains are hard-wired to picture any explosion. Space itself is the very thing that was (and is) exploding.
 
 Think of inflating a balloon. Flecks of glitter are sprinkled on the balloon to represent galaxies. As the balloon inflates (space expands), the glitter flecks (galaxies) move apart, though not by moving within or through the rubber (space). Or a loaf of raisin bread expanding in the oven has raisins (galaxies) moving apart as the bread (space) expands between the raisins.
 
-These analogies fail to capture the full essence because our 3-D mental model assumes (in practice *requires*) a space into which the balloon expands or the loaf enlarges. The real universe has no analog of the oven or the room into which the balloon inflates. The dough/rubber **is** the entire space—or what we identify as space, anyway—and was once minuscule. Again, our analogies break down since the balloon or bread were never arbitrarily tiny.
+These analogies fail to capture the full essence because our 3-D mental model assumes (in practice *requires*) a space into which the balloon expands or the loaf enlarges. The real universe has no analog of the oven or the room into which the balloon inflates.  
+The dough/rubber **is** the entire space—or what we identify as space, anyway—and was once minuscule. Again, our analogies break down since the balloon or bread were never arbitrarily tiny.
 
-Early on, when the universe *was* tiny, it was also very hot: too hot for atoms or even nuclei to exist—essentially boiled into a plasma soup of quarks, gluons, and electrons. As the universe rapidly expanded and cooled (spreading the same energy over a larger volume), nuclei condensed out of the soup (called Big-Bang Nucleosynthesis, or BBN). This happened within the first 20 minutes after the Big Bang—we can’t accuse it of laziness! About 400,000 years later, it was finally cool enough for electrons to stay put around nuclei, forming neutral atoms and allowing the universe to finally become transparent to the propagation of light (called the epoch of recombination).
+Early on, when the universe *was* tiny,  
+it was also very hot:  
+too hot for atoms or even nuclei to exist—  
+essentially boiled into a plasma soup of quarks, gluons, and electrons.  
+As the universe rapidly expanded and cooled (spreading the same energy over a larger volume),  
+nuclei condensed out of the soup (called Big-Bang Nucleosynthesis, or BBN).+++(5)+++  
+This happened within the first 20 minutes after the Big Bang—  
+we can’t accuse it of laziness!  
+About 400,000 years later, it was finally cool enough for electrons to stay put around nuclei,  
+forming neutral atoms and allowing the universe to finally become transparent to the propagation of light (called the epoch of recombination).+++(5)+++
 
 ## Galaxies
 
-Gravity brought friendly atoms together to make dust, planets, stars, and galaxies. We all are personally familiar with the first three of these entities. Galaxies are gravitationally-bound collections of stars (and gas and dust and mostly dark matter, in fact). Our galaxy, the Milky Way, contains about 100 billion stars.
+Gravity brought friendly atoms together to make dust, planets, stars, and galaxies.  
+We all are personally familiar with the first three of these entities.  
+
+Galaxies are gravitationally-bound collections of stars (and gas and dust and mostly dark matter, in fact).  
+Our galaxy, the Milky Way, contains about 100 billion stars.
 
 ![](https://dothemath.ucsd.edu/wp-content/uploads/2024/07/XDF-1024x583.png)
 
@@ -63,9 +61,14 @@ I show an image from the Hubble Space Telescope called the eXtreme Deep Field (X
 
 ## Our Sun
 
-Our sun and solar system are roughly 4.5 billion years old—about a third the age of the universe. As mentioned above, it is just one of approximately 100 billion in our galaxy, and it’s not a particularly special or bright one.
+Our sun and solar system are roughly 4.5 billion years old—  
+about a third the age of the universe.  
+As mentioned above, it is just one of approximately 100 billion in our galaxy,  
+and it’s not a particularly special or bright one.
 
-When you walk under a dark sky and see lots of stars, how many are intrinsically dimmer than our sun? Not many. Only 15 of the 2,000 most-visible naked-eye stars are dimmer than the sun.
+When you walk under a dark sky and see lots of stars,  
+how many are intrinsically dimmer than our sun? Not many.  
+Only 15 of the 2,000 most-visible naked-eye stars are dimmer than the sun.
 
 ## Diversion: Dim Stars
 
@@ -90,29 +93,48 @@ As an unimportant tangent (feel free to skip!), here are the specifics of those 
 | 96100   | 5.86  | 4.67     | 18.8        | σ-Dra        |
 | 108870  | 6.89  | 4.69     | 11.8        | ε-Ind        |
 
-Columns are Hipparcos ID, absolute (visual) magnitude, apparent magnitude, distance in light years, and Bayer designation (for easier finding). Our sun has an absolute magnitude of 4.83. The other 2,000 stars down to apparent magnitude 5.17 (the cutoff here) have absolute magnitudes brighter (lower number than) 4.83. Note that only one *bright* star appears: Alpha Centauri. The third-brightest star in the sky (behind Sirius and Canopus), Alpha Centauri is actually a double star unresolved by naked eye. The angular separation between the two stars ranges from 2 to 22 arcseconds depending on orbital phase, so can be resolved in a telescope. The one that’s dimmer than the sun is the dimmer of the two, sensibly. I’ve never seen it myself (southern hemisphere). Besides Alpha Centauri, only two of the 15 intrinsically dim stars are brighter than fourth magnitude, and at sub-equatorial declinations are visible from anywhere south of the Arctic Circle.
+Columns are Hipparcos ID, absolute (visual) magnitude, apparent magnitude, distance in light years, and Bayer designation (for easier finding). Our sun has an absolute magnitude of 4.83. The other 2,000 stars down to apparent magnitude 5.17 (the cutoff here) have absolute magnitudes brighter (lower number than) 4.83. Note that only one *bright* star appears: Alpha Centauri. The third-brightest star in the sky (behind Sirius and Canopus), Alpha Centauri is actually a double star unresolved by naked eye. The angular separation between the two stars ranges from 2 to 22 arcseconds depending on orbital phase, so can be resolved in a telescope. The one that’s dimmer than the sun is the dimmer of the two, sensibly. I’ve never seen it myself (southern hemisphere).+++(5)+++  
+Besides Alpha Centauri, only two of the 15 intrinsically dim stars are brighter than fourth magnitude, and at sub-equatorial declinations are visible from anywhere south of the Arctic Circle.
 
-I picked 2,000 stars rather than the 6,000 often cited (based on the aspirational limit of magnitude 6.5) because: have you ever tried to see a star dimmer than about 5.2 magnitude? It’s very hard, requiring a dark sky and young pupils that can still open wide. Anyway, don’t take my word for it: try for yourself on a real sky!
+I picked 2,000 stars rather than the 6,000 often cited (based on the aspirational limit of magnitude 6.5) because: have you ever tried to see a star dimmer than about 5.2 magnitude? It’s very hard, requiring a dark sky and young pupils that can still open wide. Anyway, don’t take my word for it: try for yourself on a real sky!+++(5)+++
 
-Most of this detail was skipped in the video, but the main point is: our sun is no super-star: just one of 100 billion and at the tail end of prominence. Our sun would not be on the list above for anyone beyond about 40 light years: very close compared to the 100,000 light years that our galaxy spans.
+Most of this detail was skipped in the video, but the main point is:  
+our sun is no super-star: just one of 100 billion and at the tail end of prominence.+++(5)+++  
+Our sun would not be on the list above for anyone beyond about 40 light years: very close compared to the 100,000 light years that our galaxy spans.+++(5)+++
 
 ## Scale of the Solar System
 
-Adding insult to injury, we now compare our insignificant sun to a mere chickpea! A chickpea is about a centimeter across, as demonstrated in the video using the enviable MATH RULER. Earth would be about 100 times smaller, or about the diameter of a human hair—which I attach to a piece of tape for demonstration. Holding these two a meter apart—harder than it sounds in a non-mirrored display—captures the scale of the Earth–Sun system. Earth is a mere dust speck that would be hard to even see/notice.
+Adding insult to injury, we now compare our insignificant sun to a mere chickpea!  
+A chickpea is about a centimeter across, as demonstrated in the video using the enviable MATH RULER.  
+Earth would be about 100 times smaller, or about the diameter of a human hair—which I attach to a piece of tape for demonstration. Holding these two a meter apart—harder than it sounds in a non-mirrored display—captures the scale of the Earth–Sun system. Earth is a mere dust speck that would be hard to even see/notice.
 
-Jupiter is a one-millimeter sand grain that would be 5 meters away. The solar system would require something like a football field (whichever way you wish to define “football”) to accommodate. It’s mostly very extremely empty. The sun itself accounts for 99.85% of the mass in the solar system. Add Jupiter and we’re up to 99.95%. Saturn, Uranus and Neptune account for 80% of the remainder, leaving 0.01% for all the dust specks including Earth. Think about a football field with one very bright (and too hot to touch) chickpea, one grain of sand, three other barely-visible grains, and the rest (including Earth) basically too small to notice. Everything in between in this lush oasis is empty, empty, empty.
+Jupiter is a one-millimeter sand grain that would be 5 meters away. The solar system would require something like a football field (whichever way you wish to define “football”) to accommodate. It’s mostly very extremely empty.  
+The sun itself accounts for 99.85% of the mass in the solar system.  
+Add Jupiter and we’re up to 99.95%.  
+Saturn, Uranus and Neptune account for 80% of the remainder, leaving 0.01% for all the dust specks including Earth.+++(5)+++  
+Think about a football field with one very bright (and too hot to touch) chickpea, one grain of sand, three other barely-visible grains, and the rest (including Earth) basically too small to notice.+++(5)+++ Everything in between in this lush oasis is empty, empty, empty.
 
 ## Interstellar Emptiness
 
-The next star from our sun (another chickpea) would be 300 kilometers away. More typically in our region off the Milky Way, it’s about 1,000 km between stars as big/bright as the sun, and 500 km [between the puniest barely-stars](https://dothemath.ucsd.edu/2024/05/how-far-are-stars/). So our nearest neighbor is atypically close (4.4 light years but would normally be 15 before getting something as big/bright).
+The next star from our sun (another chickpea) would be 300 kilometers away.  
+More typically in our region off the Milky Way, it’s about 1,000 km between stars as big/bright as the sun, and 500 km [between the puniest barely-stars](https://dothemath.ucsd.edu/2024/05/how-far-are-stars/). So our nearest neighbor is atypically close (4.4 light years but would normally be 15 before getting something as big/bright).
 
-In any case, interstellar space makes the football-field solar system look like a hoarder-house, crammed with a few specks as it is. Spend a moment trying to imagine traveling hundreds of kilometers between two chickpeas, with **nothing** to run across in between! On this scale, our galaxy would be about a thousand times larger than Earth—itself hard to grasp even in this dramatically-shrunken (100-billion-fold) scale.
+In any case, interstellar space makes the football-field solar system look like a hoarder-house,  
+crammed with a few specks as it is.+++(4)+++  
+Spend a moment trying to imagine traveling hundreds of kilometers between two chickpeas,  
+with **nothing** to run across in between!  
+On this scale,  
+our galaxy would be about a thousand times larger than Earth—itself hard to grasp even in this dramatically-shrunken (100-billion-fold) scale.
 
 ## Galaxy Collision
 
 ![This image from the Gemini North telescope in Hawai‘i reveals a pair of interacting spiral galaxies — NGC 4568 (bottom) and NGC 4567 (top) — as they begin to clash and merge. The galaxies will eventually form a single elliptical galaxy in around 500 million years.](https://dothemath.ucsd.edu/wp-content/uploads/2024/07/NGC4568-crop-1024x577.jpg)
 
-So empty is interstellar space that when two galaxies, each containing 100 billion stars, collide with each other—as shown in the image of NGC 4567 and 4568—chances are that **not a single star strikes another**. That’s how empty galaxies are, and how tiny stars are compared to their separations. And galaxies are dense concentrations—swarms—of stars on the scale of the universe. I will note that in a galaxy collision (something I worked on for [my PhD project](https://iopscience.iop.org/article/10.1086/322321)), clouds of gas and dust *do* slam into one another, so that the overall encounter is not frictionless.
+So empty is interstellar space that when two galaxies,  
+each containing 100 billion stars, collide with each other—as shown in the image of NGC 4567 and 4568—  
+chances are that **not a single star strikes another**.  
+That’s how empty galaxies are, and how tiny stars are compared to their separations. And galaxies are dense concentrations—swarms—of stars on the scale of the universe.  
+I will note that in a galaxy collision (something I worked on for [my PhD project](https://iopscience.iop.org/article/10.1086/322321)), clouds of gas and dust *do* slam into one another, so that the overall encounter is not frictionless.+++(4)+++
 
 ## Copernicus to the Fifth
 
@@ -128,7 +150,7 @@ But don’t go thinking the sun is the proper center of it all. The sun is one o
 
 ## Copernican Cubed
 
-Well, then, is the Milky Way the center? After all, we see galaxies receding **from us** in all directions. No. Neither is the Milky Way nor any galaxy at the center. The universe, in fact, no more has a center than the surface of a sphere has a center. The Milky Way is one of about 100 billion galaxies in the *visible universe* (a number that keeps showing up in this post). A few concepts here warrant extra attention.
+Well, then, is the Milky Way the center? After all, we see galaxies receding **from us** in all directions. No. Neither is the Milky Way nor any galaxy at the center. The universe, in fact, no more has a center than the surface of a sphere has a center.+++(5)+++ The Milky Way is one of about 100 billion galaxies in the *visible universe* (a number that keeps showing up in this post). A few concepts here warrant extra attention.
 
 ### The Visible Universe
 
@@ -148,7 +170,10 @@ The clarification of the visible universe above did the heavy lifting for this s
 
 ## Copernican to the Fifth Power
 
-The final step is a recognition that our universe may not be the only one. In fact, it would be rather odd for this to be true. Quantum mechanics, inflation cosmology, and string theory are supportive of multiverse notions. According to the string theory Landscape idea, most instances likely don’t share our exact physics and may not even be able to form stable atoms—let alone stars, planets, and life. But some get “lucky,” and by pure selection effect we’d have to find ourselves in one of those (see post on the [Anthropic Principle](https://iopscience.iop.org/article/10.1086/322321)).
+The final step is a recognition that our universe may not be the only one. In fact, it would be rather odd for this to be true.  
+Quantum mechanics, inflation cosmology, and string theory are supportive of multiverse notions.  
+According to the string theory Landscape idea, most instances likely don’t share our exact physics and may not even be able to form stable atoms—let alone stars, planets, and life.  
+But some get “lucky,” and by pure selection effect we’d have to find ourselves in one of those (see post on the [Anthropic Principle](https://iopscience.iop.org/article/10.1086/322321)).
 
 ## It’s Not About Us!
 
