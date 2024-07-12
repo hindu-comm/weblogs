@@ -137,7 +137,9 @@ the SB elaborates on this 16-fold connection, providing a mapping of the homolog
 
 > asthy eva yājyānuvākyāḥ । māṃsaṃ havis । tan mitaṃ chando yad yājyānuvākyās tasmād u samāvanty evāsthīni medyataś ca kṛśyataś ca bhavanty atha yad bhūya iva ca havir gṛhṇāti । kanīya iva ca tasmād u māṃsāny eva medyato medyanti māṃsāni kṛśyataḥ kṛśyanti । tenaitena yajñena yāṃ kāmayate devatāṃ tāṃ yajati yasyai havir bhavati ॥  
 > 
-> The bones are the yājya incantations. The flesh is the offering material. As the yājya incantations are measured by meters, therefore the bones remain constant \[be they\] of a fat and a thin person. However, even as he takes more \[or less\], offering material, the flesh of a fat person fattens, and the flesh of a thin person thins. Thus, he performs this sacrifice to any deity he desires \[and\] for whom there is a sacrificial offering.
+> The bones are the yājya incantations. The flesh is the offering material.  
+> As the yājya incantations are measured by meters,  
+> therefore the bones remain constant \[be they\] of a fat and a thin person. However, even as he takes more \[or less\], offering material, the flesh of a fat person fattens, and the flesh of a thin person thins. Thus, he performs this sacrifice to any deity he desires \[and\] for whom there is a sacrificial offering.
 
 > tā vā etā anapoddhāryā āhutayo bhavanti । sa yad dhaitāsām apoddhared yathaikam aṅgaṃ śṛṇīyāt prāṇaṃ vā nirhaṇyād evaṃ । tad anyānyeva havīṃṣy upa cāhriyante .apa ca hriyante ॥  
 > 
@@ -149,4 +151,6 @@ the SB elaborates on this 16-fold connection, providing a mapping of the homolog
 
 [TABLE]
 
-Hence, in conclusion, we posit that the 16-fold structure of the Puruṣa-sūkta was intended to reflect homology between the anatomy of the Puruṣa and the structure of the ritual right from the time of its composition, or in the least, this connection was established early in its deployment. Even though the above SB section indicates that it emerged in a Prājāpatya context, the establishment of an intimate homology between the ritual and the Puruṣa helped cement his identity with Viṣṇu, given the latter’s identification with the yajña in the developing śrauta tradition. This also probably provided the foundation for other related homologies, such as that of the sacrificial boar (Yajña-varāha; also identified with Viṣṇu) and the ritual, which originated in the Kaṭha tradition.
+Hence, in conclusion, we posit that the 16-fold structure of the Puruṣa-sūkta was intended to reflect homology between the anatomy of the Puruṣa and the structure of the ritual right from the time of its composition, or in the least, this connection was established early in its deployment.+++(5)+++ 
+
+Even though the above SB section indicates that it emerged in a Prājāpatya context, the establishment of an intimate homology between the ritual and the Puruṣa helped cement his identity with Viṣṇu, given the latter’s identification with the yajña in the developing śrauta tradition. This also probably provided the foundation for other related homologies, such as that of the sacrificial boar (Yajña-varāha; also identified with Viṣṇu) and the ritual, which originated in the Kaṭha tradition.
