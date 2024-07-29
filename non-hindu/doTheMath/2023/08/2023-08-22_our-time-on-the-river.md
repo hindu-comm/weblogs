@@ -9,9 +9,19 @@ Source: [here](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/).
 
 Our Time on the River
 
-A post from last year titled [The Ride of Our Lives](https://dothemath.ucsd.edu/2022/07/the-ride-of-our-lives/) explored the game theory aspect of modernity: those who adopted grain agriculture and new technologies had a competitive advantage over neighbors who didn’t. The “winners” were destined to be those who followed the path that we now call progress.
+A post from last year titled [The Ride of Our Lives](https://dothemath.ucsd.edu/2022/07/the-ride-of-our-lives/)  
+explored the game theory aspect of modernity:  
+those who adopted grain agriculture and new technologies  
+had a competitive advantage over neighbors who didn’t.  
+The “winners” were destined to be those  
+who followed the path that we now call progress.
 
-In that post, I used the metaphor of a gentle stream turning into a swift river—by now a raging class-5 rapid—heading toward an inevitable waterfall as a feature simply built into the landscape from the start. In this post, we will examine this river more closely, pausing to pay tribute to the various tributaries that contribute to its estimable flow. I even drew a map!
+In that post, I used the metaphor of a gentle stream  
+turning into a swift river—by now a raging class-5 rapid—heading toward an inevitable waterfall  
+as a feature simply built into the landscape from the start.  
+In this post, we will examine this river more closely,  
+pausing to pay tribute to the various tributaries that contribute to its estimable flow.  
+I even drew a map!
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2023/08/river-map2.png)](https://dothemath.ucsd.edu/wp-content/uploads/2023/08/river-map2.png)
 
@@ -22,7 +32,13 @@ I suggest having this open in another window while reading the post.
 
 ## Before Wading In
 
-Humans have been around in some form for 2.5–3 million years. Homo sapiens came onto the scene at least 200,000 years ago. During much of our time on the planet, we dabbled in horticulture: favoring certain plants, tending to “food forests” and landscapes, sometimes using fire to condition the land. Metaphorically, we might say this was dipping a toe, or even wading into the headwaters of modernity.
+Humans have been around in some form for 2.5–3 million years.  
+Homo sapiens came onto the scene at least 200,000 years ago.  
+During much of our time on the planet,  
+we dabbled in horticulture: favoring certain plants, tending to “food forests” and landscapes,  
+sometimes using fire to condition the land.  
+Metaphorically, we might say this was dipping a toe,  
+or even wading into the headwaters of modernity.
 
 When Europeans encountered Native American territories, they did not recognize the “tended” landscapes as agriculture, because they still looked untamed. For instance, some tribes planted corn, squash, and beans—the three sisters—intermingled in an unruly but cooperative mess that looked nothing like well-ordered (civilized) row crops.
 
