@@ -9,18 +9,9 @@ Source: [here](https://agnimaan.wordpress.com/2015/12/25/digesting-santa-claus/)
 
 Digesting Santa Claus
 
-Santa Claus is a merry character. He grips the minds of children, and
-the hearts of all sahRdaya-s with his cheer and compassion. Whatever his
-pagan origins might have been
-([ibtimes](http://www.ibtimes.com/santa-claus-pagan-origins-5-influences-behind-father-christmas-1736863)),
-we pagans have a problem: Heis intimately connected with the zombie
-cult. Indeed the zombie bastard child is said to have burdened the earth
-onthe santa claus day.
+Santa Claus is a merry character. He grips the minds of children, and the hearts of all sahRdaya-s with his cheer and compassion. Whatever his pagan origins might have been ([ibtimes](http://www.ibtimes.com/santa-claus-pagan-origins-5-influences-behind-father-christmas-1736863)), we pagans have a problem: Heis intimately connected with the zombie cult. Indeed the zombie bastard child is said to have burdened the earth on the santa claus day.
 
-Luckily, we hindu-s have had long experience withborrowing and
-hijacking of our deities as part of the competition amongst our orthodox
-and heterodox traditions. All one needs is “expand” a few legends. So,
-lets “understand” santa claus in our terms.
+Luckily, we hindu-s have had long experience withborrowing and hijacking of our deities as part of the competition amongst our orthodox and heterodox traditions. All one needs is “expand” a few legends. So, lets “understand” santa claus in our terms.
 
 Santa Claus isKubera, the vaishravaNa.
 
