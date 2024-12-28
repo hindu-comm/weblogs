@@ -26,24 +26,26 @@ KRK astutely observed that the tritonal recitation of the nAlAyira divyaprabandh
 
 In his attack on the pA\~ncharAtrika vaiShNava-s the smArta states that they move around in the midst of brAhmaNa-s using the same abhivAdanaM as them. They are also said to recite their pa\~ncharAtra texts with the special svara-s as thought they are a veda recitation. The call themselves brAhmaNa-s and expect others to do so likewise. With respect to the shaiva-s he says that they fall outside the varNAshrama dharma and follow their own authoritative texts (he means the shaiva tantra-s) and claim they are brAhmaNa by birth and lineage. They imitate the four-fold Ashrama-s (or does he include varNa in this?) of the smArta-s.
 
-So it appears that KRK is indeed correct in observing that tritonal recitation of the DP4000 in imitation of the veda is likely to have been further based on the model of the recitation of the pA\~ncharAtra texts. In this light, we should note that certain Kashmirian pA\~ncharAtrika-s who were temporally relatively close to jayanta bhaTTa (e.g. the great kShemendra) mentioned that they were practitioners of the ekAyana shAkhA (of the shukla yajurveda), which is believed to be the root of the pA\~ncharAtrika texts. So was this supposed recitation of pA\~ncharAtra texts in imitation of the veda actually a hold over from an older “ekAyana shAkhA”? One line of reasoning could be: given that the ekAyana is mentioned in the latest layers of the Vedic texts (namely the teaching of skanda in the chAndogya upaniShad), it is possible that a body of early vaiShNava material under this name existed in that period and it could have been indeed accented. A model for such accented early vaiShNava material could be the vaikhAnasa mantra-pATha which includes several accented vaiShNAva mantra-s (including the famous AtmasUkta which have described on these pages) affiliated with the taittirIya shAkhA of the kR^iShNa yajurveda. Likewise, the taittirIya AraNyaka and AV auxiliary literature include a vaiShNava text, the nArAyaNa sUkta
+So it appears that KRK is indeed correct in observing that tritonal recitation of the DP4000 in imitation of the veda is likely to have been further based on the model of the recitation of the pA\~ncharAtra texts. In this light, we should note that certain Kashmirian pA\~ncharAtrika-s who were temporally relatively close to jayanta bhaTTa (e.g. the great kShemendra) mentioned that they were practitioners of the ekAyana shAkhA (of the shukla yajurveda), which is believed to be the root of the pA\~ncharAtrika texts. 
+
+So was this supposed recitation of pA\~ncharAtra texts in imitation of the veda actually a hold over from an older “ekAyana shAkhA”? One line of reasoning could be: given that the ekAyana is mentioned in the latest layers of the Vedic texts (namely the teaching of skanda in the chAndogya upaniShad), it is possible that a body of early vaiShNava material under this name existed in that period and it could have been indeed accented. A model for such accented early vaiShNava material could be the vaikhAnasa mantra-pATha which includes several accented vaiShNAva mantra-s (including the famous AtmasUkta which have described on these pages) affiliated with the taittirIya shAkhA of the kR^iShNa yajurveda. Likewise, the taittirIya AraNyaka and AV auxiliary literature include a vaiShNava text, the nArAyaNa sUkta
 (valli), which is recited in an accented form, though TS version has words with atypical accents. It is possible that the shukla yajurvedin-s had a vaiShNava movement parallel to the KYV vaikhAnasa-s, known as the ekAyana-s, who were the precursors of one of the strands of the later pA\~ncharAtra. Of course, it should be noted that ekAyana is not mentioned in any of the charaNa lists as a distinct shukla yajurvedIya shakha-s. Furthermore, within the pA\~ncharAtra tantra-s themselves, though the ekAyana is mentioned as a collection of yajuSh-s, the SYV shakhA with which they are associated is explicitly given as kANva or in rare cases as also including the mAdhyandina-s:  
 
-sAtvata 25.16:  
-ekAyanAn yajurmayAn AshrAvitam antaraM \|  
-(ekAyana as a collection of yajuSh-s)
+> सात्वत २५.१६:  
+एकायनान् यजुर्मयान् आश्रावितम् अन्तरं \।  
+ (एकायन is a collection of यजुष्-s)
 
-jayAkhya saMhitA 1.109 (manuscript):  
-kANvI shAkhAm adhIyAnAv aupagAyana-kaushikau \|
+> जयाख्य संहिता १.१०९ (manuscript):  
+काण्वी शाखाम् अधीयानाव् औपगायन-कौशिकौ \।
 
-Ishvara saMhitA 21.554:
+> ईश्वर संहिता २१.५५४:
+> 
+> काण्वी शाखाम् आधीयानान् वेद-वेदान्त-पारगान् \।  
+संस्कृत्य दीक्षया सम्यक् सात्वताद्युक्त-मार्गतः \।\।
 
-kANvI shAkhAm AdhIyAnAn veda-vedAnta-pAragAn \|  
-saskR^itya dIkShayA samyak sAtvataadyukta-mArgataH \|\|
-
-pAdma saMhitA charyApAda 21.4:  
-aupagAyana pUrvAsate nAnAgotrA mumukShavaH \|  
-adhIyAnAH kaNva-shAkhA tathA mAdhyandinaahvayam \|\|  
+> पाद्म संहिता चर्यापाद २१.४:    
+औपगायन पूर्वासते नानागोत्रा मुमुक्षवः \।  
+अधीयानाः कण्व-शाखा तथा माध्यन्दिनाह्वयम् \।\।
 
 Also of note is the fact that the pAdma saMhitA places its frame story in the Ashrama of kaNva and the text as a lecture delivered by kaNva.
 
@@ -61,6 +63,5 @@ We may point out that some vaiShNava mantra-s recited by saMkarShaNa in the Agam
 kukShi-koNaika deshAmsha-lIna vishvAya viShNave \|\|
 
 On philological grounds we can rule out that this mantra was early: it has the word “koNa” which is a loan into Sanskrit from technical Greek
-(xenolog of Greek gona; ortholog of Sanskrit jAnu). So the mantra has to
-be post-Hellenic, but the link between the SYV and the pA\~ncharAtrika-s might be real.
+(xenolog of Greek gona; ortholog of Sanskrit jAnu). So the mantra has to be post-Hellenic, but the link between the SYV and the pA\~ncharAtrika-s might be real.
 
