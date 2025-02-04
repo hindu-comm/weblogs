@@ -1,0 +1,42 @@
++++
+title = "Nondualism without"
+full_title = "Nondualism without monism"
+upstream_url = "https://indianphilosophyblog.org/2024/12/08/the-scientific-self-is-not-reductionist/"
+date = "2024-12-08"
+
++++
+Source: [here](https://indianphilosophyblog.org/2024/12/08/the-scientific-self-is-not-reductionist/).
+
+Nondualism without monism
+
+Any serious contemporary Buddhist intellectual needs to think through the connection between Buddhist ideas and the relevant claims of natural science. Many of us, too, are [expressive individualists](https://loveofallwisdom.com/blog/2023/04/from-qualitative-individualism-to-expressive-individualism/): we believe that there is something valuable in the project of discovering one’s true self. The expressive individualist view of self-discovery and self-expression – put perhaps in most recent terms as “let your freak flag fly” – is that’s an [uncomfortable fit](https://loveofallwisdom.com/blog/2019/02/how-can-you-be-yourself-if-there-is-no-self/) with a tradition that has proclaimed for millennia that there *is* no true self.
+
+There are at least three different metaphysical understandings underlying each of Buddhism, natural science, and expressive individualism, and at least at first glance they all appear to be in conflict. Resolving this conflict is not easy, and recently my views on how to do it best have significantly changed. I often find I get the best sense of what’s important in other people’s philosophies by figuring out what they changed and why, so I thought it would be helpful to show the changes in my own.
+
+<div class="wp-block-image">
+
+![University of Pittsburgh faculty portrait of Wilfrid Sellars, taken by S. Edgerton.](https://loveofallwisdom.com/wp-content/uploads/2024/11/wilfrid-sellars-238x300.jpg)
+
+</div>
+
+Five years ago on Love of All Wisdom I had explored one potential way of fitting all three perspectives – the Buddhist, the natural-scientific, the expressive individualist – together. I thought of it as the [“Sellarsian solution”](https://loveofallwisdom.com/blog/2019/06/a-sellarsian-solution-for-the-self/): identifying a [deep commonality](https://loveofallwisdom.com/blog/2018/01/ultimate-and-conventional-truth-in-wilfrid-sellars/) between the Theravāda Buddhist thought of [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) and the [Milindapañhā](https://www.accesstoinsight.org/tipitaka/kn/miln/miln.intro.kell.html) on one hand, and the scientifically informed analytic philosophy of [Wilfrid Sellars](https://plato.stanford.edu/Entries/sellars/) on the other.
+
+Buddhaghosa and Sellars both note that there are two ways to view human persons and to some extent other phenomena. On the one hand there is a conventional truth or manifest image, obvious to common sense and necessary for at least [pedagogical purposes](https://loveofallwisdom.com/blog/2019/05/conventional-teaching-wrongly-taken-as-an-equal/), where there are human selves about which one can tell stories. On the other, there is an ultimate truth or scientific image which is [*truer* than the conventional](https://loveofallwisdom.com/blog/2019/05/mere-convention-vs-seeing-correctly/) though the conventional is still in some sense true. Expressive individualism could still hold at the conventional/manifest level, while being superseded by the ultimate/scientific: *ultimately* there is no self, but *conventionally* you can be yourself.
+
+And, I had thought, what makes that truer truth scientific or ultimate, in both contexts, is that it is *reductionist*: the persons who are viewed as whole selves conventionally, ultimately are just collections of physical or mental particles (atoms, quarks, *dhamma*s). I wanted to take up that distinction constructively: there *is* a conventional level of stories in which we are individual people, where good and bad appear, and an ultimate level, in line with science, where reality can be reduced to normatively inert smaller parts.
+
+After giving further thought to that “Sellarsian solution”, though, I no longer think it’s the right way to fit the different perspectives together. This is for a couple of different reasons, which I’ll explore in this and future posts. But they all come down to one big point: I have realized I *don’t* think the right view of ultimate reality is reductionist.
+
+Possibly the simplest reason for this change has to do with the science itself. I think it was a confusion of mine to think of natural science as fundamentally reductionist – and, I saw when I went back to read his article, Sellars *himself* is not as confused about this as I was.
+
+Natural science is at least two things. Most fundamentally it is a set of methods: openness to adjusting theory based on new observations and calculations, making falsifiable predictions and testing them, the experimental control of variables. It is also an accumulated set of conclusions derived from centuries of experience at using those methods – but the methods do not *prescribe* the conclusions. It so happens that centuries of observation with scientific methods have shown us that matter is made of atoms. When we humans started using those methods, we didn’t know that we were going to find that out; it could have been otherwise.
+
+And what we have *also* found is that there are areas of science where reductionism is not actually all that productive. In biology, in particular, one needs to analyze at the level of systems, which are *wholes*, not parts. The pieces of an organism laid out on a table in a row make for an entirely different entity than the living organism itself. There do remain many people who insist on reductionism in biology –saying that *ultimately* those wholes can be explained entirely in terms of their parts, not merely their cells but their atoms –but that wholly part-based explanation is not how biology works in practice. It’s not required to do biology; it is not what the evidence tells us.
+
+When I looked back and reread Sellars’s original article ([“Philosophy and the scientific image of man”](https://philpapers.org/rec/SELPAT)) more recently, I saw with some embarrassment that Sellars *gets* this point, that I had misremembered him. While the scientific image on his telling is *sometimes* reductionist, that’s not actually the *idea* of it. He notes that insofar as there as such a thing as “*the* scientific image” of humans, it is a construct from many different images including not only biology but also the social sciences. The point is just that such an image is very *different* from our everyday view of individual selves situated in stories – *not* that it’s reductionist.
+
+Chakravarthi Ram-Prasad had [tried](https://indianphilosophyblog.org/2018/01/21/ultimate-and-conventional-truth-in-wilfrid-sellars/#comment-206692) to [argue](https://indianphilosophyblog.org/2018/05/13/buddhaghosa-on-seeing-things-as-they-are-3/#comment-221579) against my equating Buddhaghosa and Sellars by claiming that Buddhaghosa himself is not a metaphysical reductionist. In [a](https://loveofallwisdom.com/blog/2018/04/buddhaghosa-on-seeing-things-as-they-are-1/) [long](https://loveofallwisdom.com/blog/2018/04/buddhaghosa-on-seeing-things-as-they-are-2/) [series](https://loveofallwisdom.com/blog/2018/05/buddhaghosa-on-seeing-things-as-they-are-3/) [of](https://loveofallwisdom.com/blog/2019/04/the-importance-of-reading-buddhaghosa-closely/) [replies](https://loveofallwisdom.com/blog/2019/04/there-is-only-name-and-form/) [I](https://loveofallwisdom.com/blog/2019/05/mere-convention-vs-seeing-correctly/) [demonstrated](https://loveofallwisdom.com/blog/2019/05/conventional-teaching-wrongly-taken-as-an-equal/) why Ram-Prasad is quite wrong about this, and I stand by that demonstration: Buddhaghosa is indeed the reductionist I thought he was. Ironically, the one I was actually wrong about, the one who *isn’t* a metaphysical reductionist, is not Buddhaghosa but Sellars himself.
+
+Constructively, I think, all this means that a “Sellarsian solution” turns out not to work even at the most basic point of comparison from which it began. “The” scientific image is not one thing, and it’s certainly not reductionist. Yet I think there may be another, better way to align natural science with Buddhism and expressive individualism – if we turn to a different kind of Buddhism. And that’s for next time.
+
+[Cross-posted on Love of All Wisdom.](https://loveofallwisdom.com/blog/2024/12/the-scientific-self-is-not-reductionist)
