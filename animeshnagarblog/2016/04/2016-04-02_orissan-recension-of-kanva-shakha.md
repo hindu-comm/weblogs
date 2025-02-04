@@ -32,4 +32,3 @@ Also the recital style of kANva samhitA in Orissa have very distinct features :
 Many pAThashAlas are there in Utakala desha teaching this orissan kANva text to new age brahmacharins for preservation of peculiar tradition of Utkala desha .
 
 Animesh’s Blog
-
