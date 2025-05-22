@@ -57,21 +57,25 @@ Now, it is a Maratha presentation – and this has lead to some critical comment
 
 Let us quote from the Surandranath Sen translation:
 
-“They started from Delhi as Shaista Khan had previously done, with a (mighty) host. A cloud of dust spread from the earth to the sky, such was the ocean like (immensity) of the army, that started for the south. They marched stage by stage. Where they encamped, the army, used to cover (an area of) 1 1/2 ganus in length and one ganu in breadth.
-
-Then Jaya Sing Raje argued within himself thus,  
-“Shivaji is intensely perfidious, full of devices and a brave soldier. He personally killed Afzal Khan. He entered Saista Khan’s tent and fought (him) there. How can success come to us (in a contest with him) ?”
-
-So thought he. Then great Brahman priests suggested (to him) the means.  
-“ A religious rite should be solemnised to please the Devi (goddess) and then success will come to you.”  
-So they said.
-
-Then the Mirza Raja replied —  
-“ One koti \[ten million\] of Chandi and eleven kotis of Linga should be made (and worshipped). For the fulfilment of my desire prayers should be offered to propitiate Bagalamukhi Kalaratri.  
-These performances should be made.”
-
-Four hundred Brahmans were employed in these performances and they were celebrated every day. Two krores of Rupees were set apart for these performances. The performances were completed after continual celebration for three months. Final oblations of the performance were made and the Brahmanswere gratified with Dakshina and charity gifts.  
-Then he marched on, stage by stage.”
+> “They started from Delhi as Shaista Khan had previously done, with a (mighty) host. A cloud of dust spread from the earth to the sky, such was the ocean like (immensity) of the army, that started for the south. They marched stage by stage. Where they encamped, the army, used to cover (an area of) 1 1/2 ganus in length and one ganu in breadth.
+>
+> Then Jaya Sing Raje argued within himself thus,  
+> 
+> > “Shivaji is intensely perfidious, full of devices and a brave soldier. He personally killed Afzal Khan. He entered Saista Khan’s tent and fought (him) there. How can success come to us (in a contest with him) ?”
+>
+> So thought he. Then great Brahman priests suggested (to him) the means.  
+> 
+> > “ A religious rite should be solemnised to please the Devi (goddess) and then success will come to you.”  
+> 
+> So they said.
+>
+> Then the Mirza Raja replied —  
+> 
+> > “ One koti \[ten million\] of Chandi and eleven kotis of Linga should be made (and worshipped). For the fulfilment of my desire prayers should be offered to propitiate Bagalamukhi Kalaratri.These performances should be made.”
+>
+> Four hundred Brahmans were employed in these performances and they were celebrated every day. Two krores of Rupees were set apart for these performances. The performances were completed after continual celebration for three months. Final oblations of the performance were made and the Brahmanswere gratified with Dakshina and charity gifts.  
+> 
+> Then he marched on, stage by stage.”
 
 Now, as we can see, Jai Singh has consulted with Brahmins, and been given a most ingeniously logical solution to his strategic concern. One which is not *quite* stated at that juncture in the text – although which is fairly countenancable as being the co-option (or co-occupancy?) of what truly gives an opponent his strength, so as to deny him that salient advantage.
 
