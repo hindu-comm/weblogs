@@ -9,9 +9,8 @@ Source: [here](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai
 
 The roots of Vaiṣṇavam: a view from the numerology of Vedic texts
 
-While glorified with a 1000 names in the famous stotra of the early Sātvata tradition of the Mahābharata, in the texts of an even earlier period the god primarily went under that name Viṣṇu. Indeed, even the litany of the 1000 names begins with viśvaṃ viśṇur vaśatkāraḥ signaling the connection to that ancient layer of tradition, with viśvam i.e, “everything” being an etymological elaboration of his name Viṣṇu, “the all-pervader”. Further, vaṣaṭkāra indicates his link to the Vedic ritual
-(the vaṣaṭ offering to Viṣṇu is already specifically mentioned twice in
-the Ṛgveda) wherein we can trace the meteoric rise of this god as the head-deity of one of the great sectarian streams of the āstika-s.
+## Viṣṇu
+While glorified with a 1000 names in the famous stotra of the early Sātvata tradition of the Mahābharata, in the texts of an even earlier period the god primarily went under that name **Viṣṇu**. Indeed, even the litany of the 1000 names begins with viśvaṃ viśṇur vaśatkāraḥ signaling the connection to that ancient layer of tradition, with viśvam i.e, “everything” being an etymological elaboration of his name Viṣṇu, “the all-pervader”. Further, vaṣaṭkāra indicates his link to the Vedic ritual (the vaṣaṭ offering to Viṣṇu is already specifically mentioned twice in the Ṛgveda) wherein we can trace the meteoric rise of this god as the head-deity of one of the great sectarian streams of the āstika-s.
 
 His later rise notwithstanding, it should be borne in mind that Viṣṇu is a prominent deity of early Indo-European vintage. Mentioned 113 times in Ṛgveda itself (Table 1), one can already sense his prominence in the pantheon. His cognate in the Germanic world Víðarr provides evidence of his importance in the early undivided IE days. In the Gylfaginning of the Icelandic prose Edda, Snorri Sturluson, who still had links to the old Germanic heathenism, described Víðarr thus:  
 *“Víðarr is the name of the silent asa. He has a very thick shoe, and he
