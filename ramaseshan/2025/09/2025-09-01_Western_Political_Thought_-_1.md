@@ -1,0 +1,192 @@
++++
+title = "Western Political"
+full_title = "Western Political Thought 1"
+upstream_url = "https://ramaseshanchandrasekaran.substack.com/p/western-political-thought-1"
+date = "2025-09-01"
++++
+Source: [here](https://ramaseshanchandrasekaran.substack.com/p/western-political-thought-1).
+
+Western Political Thought - 1 
+
+# Western Political Thought - 1
+
+### Part 1 : Ancient & Medieval Notions of Politics and Society
+
+[](https://substack.com/@ramaseshanc)
+
+![Rama Seshan Chandrasekaran's avatar](https://substackcdn.com/image/fetch/$s_!ZHOm!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e50d60-b811-4831-8bbc-4d320762e60b_96x96.png)
+
+[Rama Seshan Chandrasekaran](https://substack.com/@ramaseshanc)
+
+Aug 11, 2025
+
+21
+
+[](https://ramaseshanchandrasekaran.substack.com/p/western-political-thought-1/comments)
+
+1
+
+8
+
+[](javascript:void(0))
+
+Share
+
+We throw labels like “*liberal*” , “*conservative*”, “*socialist*”, “*communist*”, “*fascist*” casually. But what exact meanings do such labels carry and have those labels always carried the set of meanings that they carry now? For that, it is important to examine in detail, the history of Western political thought. That is what I will be doing in this series of articles.
+
+[](https://substackcdn.com/image/fetch/$s_!xF4E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecc81969-70f0-4a26-95eb-dc991eb6b5b3_1902x1228.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!xF4E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecc81969-70f0-4a26-95eb-dc991eb6b5b3_1902x1228.heic)
+
+# Virtue based Classical Political Theories
+
+Plato who was the first in the Western tradition to examine the relation between politics and philosophy and come up with the notion of a philosopher ruler. Aristotle gave the earliest idea of a republic with the Roman Republic serving as an operating example of one in the Western psyche. The decentralized feudal system of the Middle Ages, with its non-absolute monarchs and an empowered aristocracy, along with Christian ethics, was the background for the development of the myriad theories and implementations of modern political philosophy. Let us now begin with the ancient roots of Western political thought which starts with Plato.
+
+Thanks for reading Rama’s Substack! Subscribe for free to receive new posts and support my work.
+
+Subscribe
+
+# Plato’s Ideal State: The Philosopher - King
+
+In his important work “***Republic***” (Greek: ***Politeia***), Plato envisions a just society governed by philosopher-rulers: i.e. individuals trained in philosophy and possessing wisdom to rule in the interest of all. This ideal state is hierarchical, divided into three classes:
+
+1.  **Philosopher - Rulers** (philosophers who are wise and rule as
+    monarchs)
+
+2.  **Guardians** (warriors, civil servants, etc.)
+
+3.  **Producers** (commoners: artisans, farmers, etc.)
+
+The philosopher ruler rules with wisdom. Their decisions will be implemented by the guardian class which is made up of warriors, civil servants, and other bureaucrats who implement the decisions of the philosopher ruler and are a highly protected class. These guardians then control the commoners who form the producer class whose concerns are economical and supply everything that is needed by the society to function. Plato also proposes that the members of the first two classes should lead a communal and celibate life devoid of family and private property so that they remain focused only on the welfare of the state and are not swayed by personal selfish interests that would lead to corruption and factionism. Note that since Plato requires the philosopher and guardian class to be celibate, this class system cannot be hereditary and can be by only through merit determined from education and training. This system of ideal state is called an **aristocracy** (Greek: ***aristos*** = noble, excellent, great). While Plato says that aristocracy, the rule of the wise, is the ideal form of governance, he classifies governments into five categories with his ideal form of governance aristocracy at the top and placing other forms of worse governments after it so that the governance becomes progressively worse as you go from the first to the fifth. They are:
+
+1.  **Aristocracy** (Rule by the wise)
+
+2.  **Timocracy** (Rule by the guardian class)
+
+3.  **Oligarchy** (Rule by the wealthy)
+
+4.  **Democracy** (Rule by the many / poor)
+
+5.  **Tyranny** (Rule by an evil monarch)
+
+The second best rule in the Platonian hierarchy is the rule of the warrior class who are mentioned as guardians. Plato calls it **timocracy** (Greek: ***time*** = honor, glory) because the warrior class would seek honor and glory instead of justice guided by wisdom. It is not the best form of government but still next to it because honor is next to wisdom in the Platonian hierarchy of what to seek. The third form of government is **oligarchy** (Greek: ***oligos*** = few). Here, the members of the producing class take control but it is the few wealthy ones who rule. This is not at all a good form of governance but still Plato concedes that the appetites of the wealthy elite are stable. Among the worst forms of governance comes **democracy** (Greek: ***demos*** = common man), which should be surprising to a modern reader but very obvious considering the fact that it was democracy that sentenced the wisest man of Athens and Plato’s teacher Socrates to death in 399 BCE. Plato argues that the appetites of the poor are unstable and easily swayed by many things and hence a democracy would be a mob rule for Plato which drifts very far from the justice seeking rule of the wise or the honor seeking rule of the warriors. Democracy is just next to the worst form of government that is ever possible, which is **tyranny** (Greek: ***tyrannos*** = tyrant), which is rule by an evil monarch whose appetites are selfish, sensual and beastly. The ideal society hence according to Plato is one where the three classes perform their duties sincerely and don’t attempt to take each other’s roles - the philosopher rules and guides, the guardians fight and enforce authority, and the commoners produce.
+
+Plato compares society to an organism. The philosopher forms the head or brain of the society. The guardians form the chest and arms since they possess strength. The commoners form the stomach and the lower body of the society. A healthy body should be one where the head controls the lower parts of the body and hence an ideal society is one where the wise rulers over the strong and the commoners. This is a part of a general idea that society functions like an organism and is technically called the **organic metaphor** in political theory.
+
+# Aristotle’s Republican Theory of Politics
+
+Plato’s student Aristotle disagreed with him in his political theory as he did in other areas as well. Aristotle finds the ideal state of Plato impractical and too tight. Especially the notion of communal living without private property for the philosopher class and the guardian class. Most of his political thought can be found in two of his works which are “***Politics***” and “***Nicomachean Ethics***”. Unlike Plato’s impossibly idealistic vision, Aristotle’s approach is pragmatic and based on empirical observations of human nature.
+
+According to Aristotle, there are three levels of human associations. The first is the **family** or the **household** (Greek: ***oikos***) which is an association formed by humans for their daily needs (food, sex, etc). The next level is the village (Greek: ***kome***) which is an association formed by humans for non daily but still essential needs like protection and community.
+
+The third level of association is what he calls the level of polis or city-state (Greek: ***koinonia politike***, Latin: ***societas civilis***). This is the level of association that is formed at the political level. According to Aristotle, all humans inherently have the instinct to form this association and hence we get the famous saying by him that man is a political animal (Greek: ***zoon politikon***). Only beasts and gods are outside this polis according to Aristotle. For Aristotle, the purpose of this level of association is so that citizens can strive to attain the highest form of well being (Greek: ***eudaimonia***). Unlike later modern theorists, for Aristotle, the polis is not an association formed as the result of a contract between citizens for some set of mutual interests. It is “*the partnership for living well*,” meaning virtuously or excellently. In Aristotle’s **Ethics**, the ultimate human good is ***eudaimonia*** (“well-being”), attained when the activities of the soul — both intellectual and physical —are performed virtuously. The excellently functioning human has the best life, and this can be achieved only in the good polis, when he lives and works among others. Thus, the purpose of politics should be fostering an atmosphere so that each citizen lives virtuously and can seek his **eudaimonia**, the highest form of well-being and excellence. Note that while Plato’s state exists to achieve perfect justice, defined as harmony among classes and alignment with the Form of the Good, it is often at the heavy cost of individual desires. Aristotle prioritizes practical flourishing for citizens within a community, allowing more room for personal interests as long as they align with the common good, and rejects Plato’s rigid idealism. Also, Aristotle thought that political society is self-rule among equals, and this requires face-to-face meeting between as many citizens as possible. Thus, the polis cannot get too large. Although Aristotle was aware of large empires like the Persian Empire, he restricts the polis to the size of a modern city and ancient Greece indeed was made of independent city-states before they fell to the conquests of the Macedonian Empire and later the Roman Empire.
+
+According to Aristotle, there was nothing wrong in principle about whether a single person, a few persons, or a lot of citizens ruled over (unlike Plato who was wary of a democracy where many poor common citizens had political say). Whether a government is good or bad does not depend on the number of people who hold power. Aristotle classified governments into three good types and three bad types.
+
+[](https://substackcdn.com/image/fetch/$s_!IZw9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe210d71f-e41a-48a6-9390-ef0dca84a5ca_1298x310.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!IZw9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe210d71f-e41a-48a6-9390-ef0dca84a5ca_1298x310.heic)
+
+For Aristotle, it does not matter whether one, few, or many, or all people hold power in a government. A government is good when the rulers rule for the common good and degenerates when the rulers rule for their own good. Thus, a single person rule can be a good **kingship** if the king is good but it degenerates into **tyranny** if the king is evil and selfish. **Aristocracy** which is the rule by a few elites is good if the members of the elite are selfless and rule to serve the entire polis but degenerates into **oligarchy** if the elites instead only seek in filling up their own pockets. Similarly, a political system like **polity** where many or all people enjoy representation and share power when everyone participates in government for the good of the entire polis but degenerates into a **democracy** when the majority simply wield power for their own advantage or to settle their resentment of the wealthy elite. Note that in ancient Greek, the word ***demos*** which gives the word democracy means a common man and more specifically a poor man. So, the word democracy in ancient Greek has the connotation of a *mobocracy* or *mob justice*. Aristotle does not prescribe any particular type of the ideal government like Plato because he believes that there cannot be a “one size fits all” approach for politics and the kind of government that a polis chooses to have should be determined by the time, place, and the demographics of its citizens.
+
+While Aristotle does not prescribe an ideal state like Plato, he does give suggestions. He recognizes that there could be a class conflict between the rich and the poor. So, he suggests that the middle class should be empowered to bridge the divide. He also says that those who contribute more to the nation should have more say in its political affairs. He also suggests that when one comes across an exceptional man or a group of such men whose excellence outstrips the excellence of the entire polis put together, the right thing to do would be for everyone to submit to him because he believes that objecting to the rule of such a man would be like objecting to the rule of the god Zeus himself. On the whole, political power should be apportioned to those whose gifts make them worthy to wield it.
+
+Despite their disagreement, Plato and Aristotle both approach politics in the same way: They are seeking a polis that is both just and embodies the virtues. And they believe that this can come about only if some group of people in the polis are themselves virtuous—the leaders for Plato and the citizens for Aristotle. And both hate democracy; where the poor majority rule for their own interests.
+
+One aspect of Aristotle’s political philosophy that is controversial in modern times is that he defends what he calls it as “**natural slavery**” wherein he claims that some individuals lack the deliberative capacity to govern themselves and are thus naturally suited to serve others. He distinguishes natural slaves from those enslaved by conquest, though his criteria for “natural” slavery are vague and reflect Greek biases against non-Greeks (“barbarians”). He argues that slavery benefits both master and slave in Aristotle’s view, as the slave gains direction, and the master gains leisure for rational pursuits. Aristotle also asserts that women have a deliberative faculty but lack the authority to exercise it fully. Thus, they are naturally subordinate to men, suited for domestic roles rather than political leadership. He views non-Greeks as less rational, often equating them with natural slaves, justifying Greek dominance over barbarians. While Plato also endorses hierarchy, he bases it on meritocratic potential rather than inherent natural status. In Plato’s Republic, individuals are assigned to classes (rulers, guardians, producers) based on their souls’ capacities (reason, spirit, appetite), determined through education and testing. Plato allows for women to become philosopher-rulers and does not explicitly call slavery “natural,” focusing on rational merit over biological or ethnic determinism.
+
+# St Augustine of Hippo: The City of God vs The City of Man
+
+In this section, we move on to the most important Christian thinker from late antiquity St **Augustine of Hippo** (354 CE - 430 CE) who combined Christianity with Platonism to give a Christian view of politics that would dominate the Middle Ages. St. Augustine, one of the most influential Christian theologians and philosophers, developed a political philosophy deeply rooted in his theological worldview. His seminal work, “**The City of God**”, written in response to the sack of Rome in 410 CE, provides the primary framework for understanding his views on politics, governance, and the organization of society. Augustine’s political thought is not a systematic treatise on governance but a theological reflection on the nature of human society in light of divine providence, human sinfulness, and the ultimate destiny of humanity. His philosophy centers on the distinction between the "**City of God**" (Latin: ***Civitas Dei***) and the "**Earthly City**" (***Civitas Terrena***), which shapes his understanding of political authority, justice, and the purpose of human governance.
+
+### The Two Cities and the Nature of Political Society
+
+Augustine’s political philosophy is grounded in his doctrine of the two cities, which represent two distinct communities defined by their ultimate loves. The City of God consists of those who love God above all else and are oriented toward eternal life with Him. The Earthly City, conversely, comprises those who love themselves or worldly goods above God, prioritizing temporal pleasures and power. These cities are not strictly identifiable with specific institutions like the Church or the state, as both exist intermingled in the present world until the final judgment. However, the distinction profoundly influences Augustine’s view of politics. For Augustine, the Earthly City, which includes all human societies and governments, is marked by sin and imperfection. Political authority arises not from divine mandate in an ideal sense but as a necessary consequence of human fallenness. After the Fall from Eden, humans became prone to selfishness, conflict, and disorder. Governance, therefore, is a divine ordinance to restrain sin and maintain order in a fallen world. In The City of God, Augustine argues that the state exists to secure a semblance of peace (pax), which he defines as the "tranquility of order." This peace is not the true peace of the City of God, which is spiritual and eternal, but a temporary, imperfect peace that allows humans to live together without descending into chaos.
+
+### The Role of Political Authority
+
+Augustine’s view of political authority is pragmatic and rooted in his theology of providence. Rulers, whether Christian or pagan, are instituted by God to serve His purposes, even if their rule is imperfect or unjust. Augustine cites Romans 13:1–7, emphasizing that all authority is from God, and obedience to rulers is a Christian duty unless their commands contradict divine law. However, Augustine does not idealize political power. Kings and emperors, like all humans, are tainted by sin, and their rule often reflects the **lust for domination** (***libido dominandi***) characteristic of the Earthly City. Augustine rejects the classical notion, found in Plato and Aristotle, that the state’s purpose is to cultivate virtue or achieve an ideal form of justice. Instead, the state’s primary function is to maintain order and provide the conditions for temporal peace, which benefits both the just and the unjust. This peace enables the Church to carry out its spiritual mission, as Christians live as pilgrims in the Earthly City while belonging to the City of God. Augustine’s realism about human nature leads him to accept that governments may be unjust or tyrannical, yet they still serve a divine purpose by curbing anarchy.
+
+### Justice and the State
+
+Augustine’s concept of justice further distinguishes his political philosophy. He famously challenges Cicero’s definition of a commonwealth as a people united by a common agreement on justice. Augustine argues that true justice is impossible without true religion, meaning worship of the one true God. Pagan states, like Rome, lack this foundation and thus cannot achieve true justice. However, Augustine does not dismiss the state’s role entirely. He acknowledges that earthly governments can achieve relative justice, sufficient to maintain social order and punish wrongdoing. This relative justice is imperfect but necessary for the Earthly City’s stability. Augustine’s skepticism about earthly justice reflects his belief that human institutions are inherently flawed. Unlike Plato, who envisioned a philosopher-king ruling with perfect wisdom, or Aristotle, who saw the polis as a natural community for fostering virtue, Augustine views the state as a remedial institution. Its laws and punishments are tools to restrain sin, not to perfect human nature. This leads Augustine to a minimalist view of governance: the state should not overreach into the spiritual realm or attempt to enforce true virtue, which is the domain of the Church and divine grace.
+
+### The Church and the State
+
+Augustine’s political thought also addresses the relationship between the Church and the state, a critical issue in his time as Christianity became the official religion of the Roman Empire. Augustine indeed advocates separating the Church and State and the importance of viewing them as separate institutions operating in different realms but he also believes that they should interact. While Augustine does not advocate for a theocracy, he believes the Church has a higher calling than the state. The Church, as the visible manifestation of the City of God, is tasked with guiding souls toward salvation, while the state manages temporal affairs. However, Augustine supports the state’s role in protecting the Church and suppressing heresy, as seen in his defense of coercive measures against the Donatist schismatics. This stance reflects his belief that the state should serve the Church’s mission by maintaining an environment conducive to Christian worship and teaching. Nevertheless, Augustine is cautious about conflating the two cities. Christians may serve as rulers or citizens, but their ultimate loyalty is to the City of God. The state must not encroach on the Church’s spiritual authority, nor should the Church seek to dominate temporal governance. This balance anticipates later medieval distinctions between ecclesiastical and secular power, though Augustine does not formalize such a separation.
+
+### Slavery and Social Hierarchy
+
+Augustine’s views on social organization reflect his acceptance of the status quo as part of God’s providential order. He addresses slavery, a common institution in his time, in The City of God. Slavery, he argues, is a consequence of sin, not a natural condition, as all humans are equal in their creation by God. However, he accepts slavery as a legitimate part of the Earthly City’s order, advising slaves to obey their masters and masters to treat slaves justly, citing from the New Testament. Similarly, Augustine upholds patriarchal and hierarchical structures, seeing them as necessary for social stability in a fallen world. His approach is not reformist; he does not advocate for restructuring society but accepts existing institutions as part of God’s permissive will and seeking salvation within the confines of it.
+
+### Comparison
+
+Augustine shares with Plato a dualistic worldview, contrasting the eternal (City of God/Forms) with the temporal (Earthly City/visible world). Both emphasize the superiority of the eternal over the temporal, viewing earthly politics as a shadow of a higher reality. Augustine’s concept of the City of God echoes Plato’s ideal Republic, where perfect justice resides, though Augustine locates this ideal in heaven rather than a realizable earthly state. Plato’s political philosophy is idealistic, aiming to construct a just state ruled by philosopher-kings who embody wisdom. Augustine, however, is deeply pessimistic about human rulers and rejects the possibility of a perfectly just earthly state. While Plato seeks to reform society through education and governance, Augustine accepts imperfect institutions as divinely ordained remedies for sin, focusing on individual salvation rather than societal perfection. Augustine and Aristotle both recognize the necessity of political society for human life. Aristotle’s view of the polis as a natural community aligns with Augustine’s acceptance of the state as part of God’s order, albeit for different reasons. Both see governance as essential for maintaining order, though Augustine’s order is a pragmatic response to sin, while Aristotle’s is a natural expression of human sociality. Aristotle’s teleological view of the polis as a community for cultivating virtue and achieving eudaimonia (happiness) is foreign to Augustine, who denies that the state can achieve such lofty goals. Augustine’s theological lens, emphasizing sin and divine grace, contrasts with Aristotle’s naturalistic approach, which focuses on human reason and civic life. Augustine’s acceptance of hierarchical institutions like slavery as divinely permitted also diverges from Aristotle’s view of slavery as natural for certain individuals.
+
+In summary, Augustine’s political philosophy is a theologically driven reflection on the necessity of governance in a fallen world. His focus on the two cities, the remedial role of the state, and the primacy of spiritual over temporal concerns distinguishes his thought from both classical and later Christian thinkers.
+
+# Thomas Aquinas & Christianized Aristotelianism
+
+St. **Thomas Aquinas** (1225–1274), a Dominican friar and one of the most influential medieval theologians, developed a political philosophy that synthesized Christian theology with Aristotelian philosophy. His works, particularly the “**Summa Theologiae**” and **“De Regno**” (***On Kingship***), articulate a systematic approach to politics, governance, and the organization of society. Aquinas’s political thought is more optimistic about human reason and the potential for earthly governance to align with divine law, reflecting his integration of Aristotle’s naturalistic framework with Christian doctrine. His philosophy addresses the purpose of the state, the nature of law, the best form of government, and the relationship between Church and state, all within the context of achieving the common good.
+
+### The Purpose of the State and the Common Good
+
+Aquinas’s political philosophy centers on the concept of the common good, which he defines as the flourishing of the community in accordance with reason and divine law. Drawing on Aristotle, Aquinas views humans as naturally social and political animals, requiring communal life to achieve their full potential. In Summa Theologiae, he argues that the state exists to promote the common good, which includes not only material prosperity and peace but also the cultivation of virtue, enabling citizens to live in accordance with reason and prepare for eternal life. Unlike Augustine, who sees the state primarily as a remedy for sin, Aquinas views political society as part of God’s natural order. The state is not merely a consequence of the Fall but a positive institution that reflects human nature’s sociality and rationality. Governance, therefore, has a constructive role: to guide individuals and communities toward temporal happiness and, indirectly, their supernatural end—union with God. The common good, for Aquinas, is hierarchical, encompassing both temporal and spiritual dimensions, with the latter ultimately subordinate to divine law.
+
+### The Nature and Role of Law
+
+Aquinas’s theory of law is central to his political philosophy. In Summa Theologiae, he distinguishes four types of law: **eternal law**, **natural law**, **divine law**, and **human law**. Eternal law is God’s rational plan for creation, governing all things. Natural law, accessible through human reason, is the participation of eternal law in rational creatures, prescribing moral principles like preserving life and seeking truth. Divine law, revealed in Scripture, guides humans toward salvation. Human law, enacted by rulers, applies natural law to specific circumstances, ensuring justice and order in society. For Aquinas, legitimate human laws must align with natural law and serve the common good. Unjust laws, which contradict natural or divine law, are not true laws but “acts of violence” and do not bind in conscience, though obedience may be required to avoid scandal or disorder. This framework allows Aquinas to evaluate governance critically while upholding the necessity of political authority. Laws should foster virtue, but Aquinas recognizes that human law cannot enforce all virtues or prohibit all vices, as it must account for human weakness and focus on external behavior rather than internal disposition.
+
+### The Best Form of Government
+
+Aquinas’s views on the best form of government, articulated in De Regno and Summa Theologiae, reflect a pragmatic balance between Aristotle’s typology of regimes and Christian principles. He favors monarchy as the ideal form, arguing that a single ruler, like the single God of the universe, can most effectively unify and direct the community toward the common good. A virtuous king, guided by reason and divine law, mirrors divine governance and minimizes factionalism. However, Aquinas acknowledges the risk of tyranny, where a ruler prioritizes private gain over the common good. To mitigate tyranny, Aquinas advocates a mixed regime, combining elements of monarchy (a single ruler), aristocracy (rule by the virtuous), and democracy (participation of the people). This mixed government, inspired by Aristotle and the Mosaic constitution in the Old Testament, balances authority with accountability. In Summa Theologiae, Aquinas suggests that a well-ordered government includes mechanisms for popular participation. He also permits resistance to tyrannical rulers in extreme cases, provided it does not cause greater harm.
+
+### The Church and the State
+
+Aquinas’s political philosophy carefully delineates the roles of Church and state, reflecting the medieval context of competing ecclesiastical and secular authorities. He distinguishes between temporal and spiritual power, assigning the state responsibility for temporal affairs (e.g., justice, peace, prosperity) and the Church authority over spiritual matters (e.g., salvation, sacraments). In Summa Theologiae, Aquinas argues that the two powers are distinct but complementary, as both ultimately serve God’s plan for human flourishing. However, Aquinas subordinates temporal authority to spiritual authority in matters pertaining to salvation. The Church, as the guardian of divine law, has indirect authority over the state when secular rulers act against the faith or the common good. For example, Aquinas supports the Church’s right to excommunicate heretical rulers or absolve subjects from obedience to unjust regimes. Unlike Augustine, who emphasizes the Church’s spiritual mission over temporal involvement, Aquinas envisions a cooperative relationship where the state supports the Church’s goals, such as suppressing heresy or promoting Christian morality, while the Church guides the state toward divine law.
+
+### Social Hierarchy and Justice
+
+Aquinas’s views on social organization reflect his acceptance of medieval feudal structures as part of the natural order. He defends social hierarchy, including distinctions between rulers and subjects, clergy and laity, and masters and servants, as necessary for the common good. Aquinas defines justice as giving each person their due, which includes respecting hierarchical roles ordained by God. However, he emphasizes that rulers must govern justly, prioritizing the community’s welfare over personal gain. On slavery, Aquinas follows Aristotle in viewing it as partly natural, arguing that some individuals are naturally suited to be directed by others due to differences in rational capacity. However, he mitigates this by insisting that slaves retain human dignity and must be treated justly. Unlike Augustine, who sees slavery solely as a consequence of sin, Aquinas integrates it into his natural law framework, though he acknowledges its imperfections.
+
+### Comparison
+
+Aquinas’s political philosophy, while building on Augustine’s Christian foundation, diverges in its optimism and reliance on Aristotelian principles. It also shares and departs from the classical philosophies of Plato and Aristotle. Aquinas agrees with Augustine that political authority is divinely ordained and that the state serves a providential purpose in a fallen world. Both recognize the Church’s spiritual primacy and the state’s role in supporting Christian life. Their shared Christian worldview emphasizes human sinfulness and the need for divine grace, distinguishing their thought from classical pagan philosophy. Aquinas’s integration of Aristotelian naturalism leads to a more positive view of the state than Augustine’s. While Augustine sees the state as a remedial institution to restrain sin, Aquinas views it as a natural and constructive community for promoting virtue and the common good. Aquinas’s theory of natural law provides a rational basis for evaluating laws and governance, whereas Augustine’s skepticism about earthly justice limits the state’s moral role. Aquinas’s advocacy for a mixed regime and active resistance to tyranny contrasts with Augustine’s more passive acceptance of political authority, even when unjust. Aquinas’s debt to Aristotle is evident in his view of humans as naturally social, the state as a natural institution, and the common good as the purpose of governance. Both emphasize the role of reason in political life and the importance of virtue for rulers and citizens. Aquinas’s mixed regime draws directly from Aristotle’s preference for a polity combining elements of different governments. Aquinas’s Christian framework introduces a supernatural dimension absent in Aristotle. While Aristotle sees the polis as the highest community for achieving eudaimonia, Aquinas subordinates temporal happiness to eternal salvation, with the Church playing a higher role than the state. Aquinas’s natural law, rooted in divine reason, expands Aristotle’s concept of natural justice, incorporating theological principles. Additionally, Aquinas’s acceptance of monarchy as ideal diverges from Aristotle’s preference for aristocracy or polity, though both value balanced governance.
+
+In conclusion, Aquinas’s political philosophy offers a comprehensive vision of governance as a natural, rational, and divinely ordained institution for promoting the common good. His synthesis of Aristotelian and Christian principles creates a more optimistic and systematic approach than Augustine’s, while engaging critically with the classical traditions of Plato and Aristotle.
+
+For reading the next post in this series, go to:
+
+[](https://ramaseshanchandrasekaran.substack.com/p/western-political-thought-2)
+
+## Western Political Thought - 2
+
+[Rama Seshan Chandra Sekaran](https://substack.com/profile/195425058-rama-seshan-chandra-sekaran)
+
+·
+
+Aug 13
+
+![Western Political Thought - 2](https://substackcdn.com/image/fetch/$s_!CVPk!,w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6669ed88-032a-4635-89b7-235fa9f71941_1726x876.heic)
+
+In this second article, we will see how the thinkers of the Renaissance and Enlightenment broke away from classical and medieval notions of virtue based polity and instead proposed radically new ways of organising society that would have been inconceivable for the ancient and the medieval peoples.
+
+[](https://ramaseshanchandrasekaran.substack.com/p/western-political-thought-2)
+
+Read full story
+
+Thanks for reading Rama’s Substack! Subscribe for free to receive new posts and support my work.
+
+Subscribe
+
+21
+
+[](https://ramaseshanchandrasekaran.substack.com/p/western-political-thought-1/comments)
+
+1
+
+8
+
+[](javascript:void(0))
+
+Share
