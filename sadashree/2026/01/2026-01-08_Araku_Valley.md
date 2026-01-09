@@ -1,0 +1,213 @@
++++
+title = "Araku Valley"
+full_title = "Araku Valley"
+upstream_url = "https://sadashree.substack.com/p/araku-valley"
+date = "2026-01-08"
++++
+Source: [here](https://sadashree.substack.com/p/araku-valley).
+
+Araku Valley
+
+# Araku Valley
+
+[](https://substack.com/@sadashree)
+
+![Ratnakar Sadasyula's avatar](https://substackcdn.com/image/fetch/$s_!1ruf!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F856b4fd3-2717-4b0a-98e7-85b536379e1d_960x1280.jpeg)
+
+[Ratnakar Sadasyula](https://substack.com/@sadashree)
+
+Dec 12, 2025
+
+1
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!obYX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F377d24be-eb0d-4135-bb6e-57b51172f34f_318x159.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!obYX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F377d24be-eb0d-4135-bb6e-57b51172f34f_318x159.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!LWTj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25d12431-f13d-448a-8abd-73845cd4d885_800x521.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!LWTj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25d12431-f13d-448a-8abd-73845cd4d885_800x521.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!taJh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ad0f003-513a-48ca-a670-8a90773d72c6_274x184.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!taJh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ad0f003-513a-48ca-a670-8a90773d72c6_274x184.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!2qly!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b3e31c9-2443-4551-9e2b-dd7b41c0b369_235x215.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!2qly!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b3e31c9-2443-4551-9e2b-dd7b41c0b369_235x215.jpeg "Image")
+
+Araku’s charm lies more in its ambiance and proximity than in standalone attractions. It’s almost like a cinematic canvas: misty mornings, winding roads, tribal rhythms, and that soft filter of nostalgia that filmmakers love to bathe in.
+
+The Botanical Gardens offer a curated glimpse, but the real pulse is in the surrounding hills, waterfalls, and those fleeting moments when the valley feels like it’s whispering its own story.
+
+The most memorable part is the train journey from Vizag to Araku,technically the Kottavalasa-Kirandul line, that goes via Jagdalpur. The line was actually built to transport iron ore from the Kirandul mines in Chattisgarh to Vizag port.
+
+That 6 AM departure from Vizag , the hush of early morning, the slow stirrings of the city, and then—like a curtain rising—the train begins its ascent at S.Kota, slipping into the embrace of the Eastern Ghats. It’s not just a journey; it’s a transition from the hustle and bustle of Vizag to the primal breath of the hills.
+
+84 bridges, 58 tunnels make up the route to Araku, through some absolutely breath taking views, passing through dense forests, valleys, steep cliffs. One of the tunnels is so long you can actually see the train taking a turn in it.
+
+[](https://substackcdn.com/image/fetch/$s_!Px1u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc80468e7-dba2-4785-b04f-5a137d7189a5_276x183.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!Px1u!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc80468e7-dba2-4785-b04f-5a137d7189a5_276x183.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!-2oG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2480024d-1f57-4b6f-8d13-b64921277baf_276x183.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!-2oG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2480024d-1f57-4b6f-8d13-b64921277baf_276x183.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!GqDU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9cb88a-8660-4419-850b-7da9444170e0_275x183.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!GqDU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9cb88a-8660-4419-850b-7da9444170e0_275x183.jpeg "Image")
+
+One more thing is that being a passenger train, you can hop off at every station on route, just to take in the awesome route. The pictures actually don’t do justice to that train route, the natural beauty is something to be seen and experienced. As also the charming stations on the route, especially Shimliguda, considered the highest station on broad gauge in Indian Railways.
+
+[](https://substackcdn.com/image/fetch/$s_!q0mo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77ec4ebd-ca9e-4efa-ad8c-db01427e802b_833x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!q0mo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77ec4ebd-ca9e-4efa-ad8c-db01427e802b_833x625.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!JpXQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9617b2c4-52b5-4853-8210-50c2a4ffe729_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!JpXQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9617b2c4-52b5-4853-8210-50c2a4ffe729_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!tYX1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31be1e25-a3c0-4381-a495-c5a3a207414f_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!tYX1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31be1e25-a3c0-4381-a495-c5a3a207414f_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!oVJ3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab7326f7-658b-4378-a31e-a5b655c5e197_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!oVJ3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab7326f7-658b-4378-a31e-a5b655c5e197_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!AkXY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15daa69a-ba48-431f-9950-9f5d3c919e59_833x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!AkXY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15daa69a-ba48-431f-9950-9f5d3c919e59_833x625.jpeg "Image")
+
+Another place worth seeing is Chaparayi on the Araku-Paderu route, basically a series of rapids, pretty scenic. The name literally means “Fish Stone”, there is a story about how the fish were cursed to become stones, something like that.
+
+[](https://substackcdn.com/image/fetch/$s_!KOKG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1209281-9b13-4648-bf82-b6f857bab2d2_833x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!KOKG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1209281-9b13-4648-bf82-b6f857bab2d2_833x625.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!ZruT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3319df36-944d-42c3-9203-95c8340eb6b1_833x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!ZruT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3319df36-944d-42c3-9203-95c8340eb6b1_833x625.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!OlZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36f8499a-11a5-459e-ad43-a7940f01ff2d_469x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!OlZn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36f8499a-11a5-459e-ad43-a7940f01ff2d_469x625.jpeg "Image")
+
+The cascading rapids, slanting rock formations, and forested backdrop make it feel like a place where stories linger in the water itself. The idea of fish cursed into stone—whether tribal lore or poetic metaphor—adds a layer of melancholy magic to the landscape.
+
+[](https://substackcdn.com/image/fetch/$s_!A-qZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62da4ac1-ccda-4bf3-b04e-a9e8a6a8805e_680x381.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!A-qZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62da4ac1-ccda-4bf3-b04e-a9e8a6a8805e_680x381.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!7qOz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb61ec9c-b23f-4f66-9adf-6faae9be1264_512x381.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!7qOz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb61ec9c-b23f-4f66-9adf-6faae9be1264_512x381.jpeg "Image")
+
+Bongu Chicken isn’t just a dish, it’s a ritual of fire, forest, and ancestral flavor. Cooked inside bamboo stems over open coal fires, this tribal delicacy carries the soul of Araku in every smoky bite. The use of wildfowl instead of farmed chicken gives it a gamey, earthy depth that’s impossible to replicate in urban kitchens.
+
+The famous Araku Coffee actually comes from Anantagiri, known for it’s coffee plantations. The first organic coffee, produced entirely by the native tribes here, making them equal stakeholders in the process.
+
+You can visit the coffee plantations at Anantagiri, watch the beans being plucked. The view too is quite scenic, with the plantations and trees all around.
+
+[](https://substackcdn.com/image/fetch/$s_!balj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28b32cf3-d7ec-47b5-b3f1-063af663b3a4_680x383.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!balj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28b32cf3-d7ec-47b5-b3f1-063af663b3a4_680x383.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!lwRQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb3704ad-2a37-40fc-9735-696d8dc847de_550x309.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!lwRQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb3704ad-2a37-40fc-9735-696d8dc847de_550x309.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!Iovv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf53dda-b440-4904-b6e9-310d500f39a7_469x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!Iovv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf53dda-b440-4904-b6e9-310d500f39a7_469x625.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!FlM9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd68f2a23-7295-445c-b321-17f2f383fbfb_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!FlM9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd68f2a23-7295-445c-b321-17f2f383fbfb_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!1THU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3691bc0-8071-480d-b91b-2685d6420ad3_426x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!1THU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3691bc0-8071-480d-b91b-2685d6420ad3_426x568.jpeg "Image")
+
+Also Anantagiri has a nice resort, where you can relax with beautiful views of the valley, as well as visit to the coffee plantations.
+
+[](https://substackcdn.com/image/fetch/$s_!o9K3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56f98ac6-ec75-40a2-bf12-a02095c8c9a8_680x454.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!o9K3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56f98ac6-ec75-40a2-bf12-a02095c8c9a8_680x454.jpeg "Image")
+
+Borra Caves are like nature’s own temple of time and transformation. Nestled en route to Araku, these limestone marvels in the Ananthagiri hills are estimated to be **150 million years old**, sculpted by water into a cathedral of stalactites and stalagmites that feel almost mythic in their presence.
+
+[](https://substackcdn.com/image/fetch/$s_!_04j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586c00b2-b3cc-4a17-92ae-fb8c6fc64a56_469x625.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!_04j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586c00b2-b3cc-4a17-92ae-fb8c6fc64a56_469x625.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!ZC-6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32efdddc-bd0a-4b70-9d40-2bcaeff6074d_426x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!ZC-6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32efdddc-bd0a-4b70-9d40-2bcaeff6074d_426x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!9l8i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d4d3a8-9765-4714-8cc6-5f2a8b17a70f_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!9l8i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d4d3a8-9765-4714-8cc6-5f2a8b17a70f_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!uYyF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb784fe14-516f-4a5e-826b-7fa7b71b2a3b_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!uYyF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb784fe14-516f-4a5e-826b-7fa7b71b2a3b_758x568.jpeg "Image")
+
+Borra Caves are basically karstic limestone structures extending to a depth of 260 ft, considered the deepest caves in India, discovered in 1807 by William George of Geological Survey of India. There is a local legend, about a cow, that fell into the caves through a hole, and it’s cowherd, discovered the caves while searching for his cow. This is the hole from where the cow was supposed to have fallen into the caves.
+
+[](https://substackcdn.com/image/fetch/$s_!wP9l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff2c95aa-f2c6-44eb-adc1-70f84399e8c7_461x615.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!wP9l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff2c95aa-f2c6-44eb-adc1-70f84399e8c7_461x615.jpeg "Image")
+
+Also there is a Shiva Lingam formed naturally of stone in the caves. However this is located right on top of the caves, only passage is a narrow ladder, and trust me you get a feeling of being in the mid air, when you climb it. Not for the faint hearted.
+
+[](https://substackcdn.com/image/fetch/$s_!HSsY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9851d67-6042-46b8-b982-c71a34a8a66b_680x510.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!HSsY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9851d67-6042-46b8-b982-c71a34a8a66b_680x510.jpeg "Image")
+
+That approach to Borra Caves is like a cinematic overture—lush valleys unfurling, mist rising, and the **Gosthani River** quietly tracing its origin through the Ananthagiri hills. It’s not just a scenic prelude—it’s a spiritual one.
+
+[](https://substackcdn.com/image/fetch/$s_!gsjo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620076c3-b311-46f9-abc7-e1f7906e1a36_680x474.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!gsjo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620076c3-b311-46f9-abc7-e1f7906e1a36_680x474.jpeg "Image")
+
+The stalacite-stalagmite formations in the cave come in different shapes and sizes. And the lights falling on them give you a real surreal experience.
+
+[](https://substackcdn.com/image/fetch/$s_!CfmG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F065afec9-9195-457c-b475-c153237e4948_426x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!CfmG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F065afec9-9195-457c-b475-c153237e4948_426x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!TCwf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7e7734-95be-48d7-93aa-3cbf5e01d6b0_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!TCwf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7e7734-95be-48d7-93aa-3cbf5e01d6b0_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!ofSL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2a094ef-e680-4e5a-836a-c11c45b17851_758x568.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!ofSL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2a094ef-e680-4e5a-836a-c11c45b17851_758x568.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!-xS-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19dcfe41-e5c9-494a-b7e4-c622865597a5_1024x678.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!-xS-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19dcfe41-e5c9-494a-b7e4-c622865597a5_1024x678.jpeg "Image")
+
+Also close to Borra Caves, you have the Katiki Waterfalls located in thick forest. Approach however is tough, you need to take a jeep on a rocky forest route, then a 2 km long trek through the jungle, but the sight is worth it.
+
+[](https://substackcdn.com/image/fetch/$s_!uAwC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e3dd0a5-ec89-4aeb-8cc3-7a28192d938e_1920x1080.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!uAwC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e3dd0a5-ec89-4aeb-8cc3-7a28192d938e_1920x1080.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!5k9Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc5919cd-1bda-4ec3-97e1-4db991935bdd_750x400.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!5k9Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc5919cd-1bda-4ec3-97e1-4db991935bdd_750x400.jpeg "Image")
+
+[](https://substackcdn.com/image/fetch/$s_!Gx5g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F600d6774-768a-4560-9f64-2c6f50b9c582_700x400.jpeg)
+
+![Image](https://substackcdn.com/image/fetch/$s_!Gx5g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F600d6774-768a-4560-9f64-2c6f50b9c582_700x400.jpeg "Image")
+
+Araku is accessible by road, rail from Vizag, though the road journey is equally good, would reccomend the train route anyday. And yes the awesome Borra Caves, Anantagiri Coffee plantations, Tyda Jungle Resort, make it a must visit.
+
+1
+
+Share
