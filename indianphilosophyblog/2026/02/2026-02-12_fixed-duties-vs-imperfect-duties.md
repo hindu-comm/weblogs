@@ -1,0 +1,15 @@
++++
+title = "So, you think that"
+full_title = "So, you think that Western thought is more diverse and interesting than “nonWestern thought”?"
+upstream_url = "https://indianphilosophyblog.org/2026/02/12/fixed-duties-vs-imperfect-duties/"
+date = "2026-02-12"
++++
+Source: [here](https://indianphilosophyblog.org/2026/02/12/fixed-duties-vs-imperfect-duties/).
+
+So, you think that Western thought is more diverse and interesting than “non-Western thought”?
+
+Mīmāṃsā authors distinguish between fixed/conditional duties on the one hand, and elective duties on the other. Even Maṇḍana wants to keep them distinct, though insisting that in both cases the commands can be reduced to descriptions of states of affairs. The main difference is about the “ought-entails-can” principle, that triggers the “as-much-as-one-can” provision only in the case of fixed and conditional duties.
+
+Fixed/conditional duties, like “imperfect duties” (in Analytic philosophy) have some tolerance for imperfect performances. They also, like imperfect duties, run over one’s lifetime and are made of “individual, momentary actions that, considered individually, do not make a difference to the realization of the end” (Nefsky-Tenenbaum 2026). In fact, assuming one’s daily performance of the Agnihotra as a paradigm example of a fixed duty, each individual performance is not going to be difference-making and could have been skipped without changing the final goal if one, for instance, had died before that day. Elective duties, like perfect duties, are instead about punctual performances. However, the similarities do not extend further. Imperfect duties typically include the possibility of complying with the duty beyond what is typically expected (in fact, a typical feature of imperfect duties is that there is no specific limit set about what is expected). By contrast, Mīmāṃsā authors unanimously agree that one needs to follow the duties as they are prescribed (either exactly as prescribed or to the best of one’s abilities). Offering more clarified butter than prescribed is not better, because it creates a new duty, different than the one prescribed (just like one cannot offer butter mixed with honey if the command requires one to offer butter). Why this fundamental distinction? Because the concept of fixed duties is not grounded in any universal ethical law (so that “the more the better” could apply), but rather in a specific deontic source.
+
+Thus, it appears that the distinction between fixed/conditional and elective duties and in general the possibility to discuss deontics independently of ethics is one that has not been discussed in contemporary ethics and deontics in Euro-American philosophy and one on which cross-cultural discussions might be beneficial for Euro-American philosophers for pointing out a possible blind spot in their analysis of duties. Conversely, the study of Sanskrit philosophy could benefit of more scholars working on it, both in traditional and new ways —philosophy is dance, not ballet (citing Peter Adamson) and Sanskrit philosophy desperately needs more dancers.
