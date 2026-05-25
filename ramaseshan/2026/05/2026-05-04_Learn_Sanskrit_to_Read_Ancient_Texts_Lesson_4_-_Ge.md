@@ -1,0 +1,922 @@
++++
+title = "Learn Sanskrit to Read"
+full_title = "Learn Sanskrit to Read Ancient Texts Lesson 4 Getting into Action A Cordial Introduction to the world of Sanskrit Verbs"
+upstream_url = "https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-1aa"
+date = "2026-05-04"
++++
+Source: [here](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-1aa).
+
+Learn Sanskrit to Read Ancient Texts : Lesson 4 - Getting into Action : A Cordial Introduction to the world of Sanskrit Verbs
+
+# Learn Sanskrit to Read Ancient Texts : Lesson 4 - Getting into Action : A Cordial Introduction to the world of Sanskrit Verbs
+
+### The text that I have written to teach Sanskrit to people is publicly uploaded here as a series of Substack articles.
+
+[](https://substack.com/@ramaseshanc)
+
+![Rama Seshan Chandrasekaran's avatar](https://substackcdn.com/image/fetch/$s_!ZHOm!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e50d60-b811-4831-8bbc-4d320762e60b_96x96.png)
+
+[](https://substack.com/@cshc)
+
+![CSHC's avatar](https://substackcdn.com/image/fetch/$s_!Y9T4!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61a8328-b4cb-4e00-88aa-b73e4963a670_225x225.jpeg)
+
+[Rama Seshan Chandrasekaran](https://substack.com/@ramaseshanc) and [CSHC](https://substack.com/@cshc)
+
+Mar 19, 2026
+
+5
+
+1
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!m_P4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13ec2fd4-6916-4796-af10-3da0d1fc2a09_1416x857.jpeg)
+
+![undefined](https://substackcdn.com/image/fetch/$s_!m_P4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13ec2fd4-6916-4796-af10-3da0d1fc2a09_1416x857.jpeg "undefined")
+
+This article is the third in a series of article for learning Sanskrit. To read the first three articles in this series, click below.
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 1 - Warming Up : Giving Complements & Calling People](https://substackcdn.com/image/fetch/$s_!Qu5W!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57fb9c52-a9de-4984-935b-b528269da505_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 1 - Warming Up : Giving Complements & Calling People
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Mar 18
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts)
+
+Read full story
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-96f)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 2 - Talking about Rāma](https://substackcdn.com/image/fetch/$s_!jSV2!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf122bcb-af8c-4fe3-8999-dab4859dbb14_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 2 - Talking about Rāma
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Mar 18
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-96f)
+
+Read full story
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-37d)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 3 - From Unity to Plurality](https://substackcdn.com/image/fetch/$s_!6hLv!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd3a0056-e767-4cfb-945d-b9cb54d877c1_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 3 - From Unity to Plurality
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Mar 18
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-37d)
+
+Read full story
+
+------------------------------------------------------------------------
+
+# There is Buddha, he was Siddhārtha
+
+Read the following texts to get a feel of the past tense.
+
+[](https://substackcdn.com/image/fetch/$s_!3glw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799c15f0-4fac-4076-a6d4-08cfa84690ae_2048x1069.png)
+
+![](https://substackcdn.com/image/fetch/$s_!3glw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799c15f0-4fac-4076-a6d4-08cfa84690ae_2048x1069.png "Screenshot 2025-09-26 at 19.34.39.png")
+
+[](https://substackcdn.com/image/fetch/$s_!MIlV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3bbabd2-0dec-465d-8a0a-10247f78f3fa_2048x1043.png)
+
+![](https://substackcdn.com/image/fetch/$s_!MIlV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3bbabd2-0dec-465d-8a0a-10247f78f3fa_2048x1043.png "Screenshot 2025-09-26 at 19.36.41.png")
+
+[](https://substackcdn.com/image/fetch/$s_!8DKm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7486132-c7aa-4a43-bdde-aa943a01818c_2040x1028.png)
+
+![](https://substackcdn.com/image/fetch/$s_!8DKm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7486132-c7aa-4a43-bdde-aa943a01818c_2040x1028.png "Screenshot 2025-09-26 at 19.36.58.png")
+
+You have just seen how to say “was” in Sanskrit. The general method of how to form the past tense from the present tense in Sanskrit is simple. Remove the final इ sound at the end and add an extra sound at the beginning.
+
+> भवति (present) =\> भवत् (the final इ removed) =\> अभवत् (extra अ added
+> left) = past tense
+
+For the verb अस्ति, something irregular happens. When we do this same process, we have अ+अस्त् = आस्त्. But there is a rule in Sanskrit that a word cannot end in more than one consonant together. If it does, only the first consonant at the final cluster is taken and the others are removed. So, this would give आस्. But the final ending त् is an important personal ending of the verb and hence cannot afford to go. So, the इ that was removed is lengthened to ई and added between the consonant cluster स्-त् to give आसीत्.
+
+In this section, we present the third person present and past tenses of regular verbs using गच्छति as an example.
+
+[](https://substackcdn.com/image/fetch/$s_!1hbc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42b77e03-83ba-4b9c-b20f-a4478f05a3e0_2048x949.png)
+
+![](https://substackcdn.com/image/fetch/$s_!1hbc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42b77e03-83ba-4b9c-b20f-a4478f05a3e0_2048x949.png "Screenshot 2025-09-26 at 19.37.32.png")
+
+[](https://substackcdn.com/image/fetch/$s_!jEsY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9357af3-a0cf-4caf-a5b0-5560bc25eb4b_1786x972.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!jEsY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9357af3-a0cf-4caf-a5b0-5560bc25eb4b_1786x972.heic)
+
+There is another verb that is very important but forms its plural forms irregularly. This is the verb that means to do or to make.
+
+[](https://substackcdn.com/image/fetch/$s_!aazG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F037ff0c3-274e-407b-ac5f-5ea50ae587b6_1774x984.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!aazG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F037ff0c3-274e-407b-ac5f-5ea50ae587b6_1774x984.heic)
+
+Note here that the stem कर् in the present tense changes to कुर्व् in the plural like it does for अस्ति which changes its stem from अस् in the singular to just स् in the plural. Such verbs form an important class of their own and we shall call them as irregular verbs.
+
+Another important yet irregular verb is the one for giving.
+
+[](https://substackcdn.com/image/fetch/$s_!XF94!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d8adf7-879d-4e77-9698-c20ef74f41ce_2048x1118.png)
+
+![](https://substackcdn.com/image/fetch/$s_!XF94!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d8adf7-879d-4e77-9698-c20ef74f41ce_2048x1118.png "Screenshot 2025-09-26 at 19.43.18.png")
+
+[](https://substackcdn.com/image/fetch/$s_!bDgh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ee86620-46b1-46ab-bd7c-dd95d9615659_2048x1120.png)
+
+![](https://substackcdn.com/image/fetch/$s_!bDgh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ee86620-46b1-46ab-bd7c-dd95d9615659_2048x1120.png "Screenshot 2025-09-26 at 19.44.58.png")
+
+Note that Sanskrit has three kinds of past tenses that are theoretically supposed to be used in three different situations. What I have presented you here is just one of them called the लङ् by Sanskrit grammarians and called the *imperfect tense* by Western grammarians and is derived from the modification of the present tense. Both of these names are unintuitive and hence I will simply call it the past tense from here on and give other past tenses other names when we learn them in levels 2 and 3.
+
+Another way of forming the past tense is simply use the present tense and then add स्म after it, like we saw in the readings last time. For e.g, करोति स्म he/she/it did. But, this is only sparingly used in Sanskrit.
+
+Some other important yet familiar and regular verbs are conjugated below.
+
+[](https://substackcdn.com/image/fetch/$s_!e_GQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6a1664e-607d-4464-8a61-0380750a8347_2048x1135.png)
+
+![](https://substackcdn.com/image/fetch/$s_!e_GQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6a1664e-607d-4464-8a61-0380750a8347_2048x1135.png "Screenshot 2025-09-26 at 19.46.14.png")
+
+[](https://substackcdn.com/image/fetch/$s_!WCue!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b03636-d390-49a1-bfe3-fbc68a493355_2048x1149.png)
+
+![](https://substackcdn.com/image/fetch/$s_!WCue!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b03636-d390-49a1-bfe3-fbc68a493355_2048x1149.png "Screenshot 2025-09-26 at 19.48.22.png")
+
+------------------------------------------------------------------------
+
+# The Bull of Dharma
+
+In this section, we will read a small passage regarding the bull of dharma to get practice. You will encounter two verbs - तिष्ठति stands and सरति flows.
+
+[](https://substackcdn.com/image/fetch/$s_!Waqa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957b3c94-e6eb-49b5-bb0a-8da8ac3195cd_2048x1128.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Waqa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957b3c94-e6eb-49b5-bb0a-8da8ac3195cd_2048x1128.png "Screenshot 2025-09-26 at 19.46.50.png")
+
+[](https://substackcdn.com/image/fetch/$s_!SuD6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b495749-df8b-45fb-84a2-1d50eca69066_1498x1218.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!SuD6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b495749-df8b-45fb-84a2-1d50eca69066_1498x1218.heic)
+
+# The king of Mālavadeśa goes for hunting
+
+Since kings are frequent characters in Sanskrit literature, it is imperative to learn the words used for kings at the earliest.
+
+[](https://substackcdn.com/image/fetch/$s_!hCXm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74b17b74-1f06-4742-bd36-5ea60c7036db_2048x1140.png)
+
+![](https://substackcdn.com/image/fetch/$s_!hCXm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74b17b74-1f06-4742-bd36-5ea60c7036db_2048x1140.png "Screenshot 2025-09-26 at 19.49.42.png")
+
+The first is राजा / राजः that simply means ruler. There are words that end in the suffix पः which means protector or nurturer. Examples are नृपः protector of men, अधिपः protector authority, and नराधिपः protector authority of men. Words that end in the suffix पतिः that literally means lord. Examples are नृपतिः lord of men, भूपतिः lord of the land, महीपतिः lord of a multitude. Another common suffix for kings is ईश्वरः that means lord. A famous example is नरेश्वरः lord of men. संराट् is a popularly used term that is more synonymous with the word emperor. Another word is भूभृत् that means bearer of the land.
+
+Let us now read a small passage about a king of Mālavadeśa to pick up words related to kings going for hunting which is a frequent type scene in Sanskrit literature. Look at the pictures to get the meanings of most of the words. Note down every new verb that you encounter and memorize them in context. You will encounter the following verbs in context and memorise them at the earliest.
+
+[](https://substackcdn.com/image/fetch/$s_!YwLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd823c0ac-8cd3-4104-a687-5570fa4347e0_2048x1136.png)
+
+![](https://substackcdn.com/image/fetch/$s_!YwLU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd823c0ac-8cd3-4104-a687-5570fa4347e0_2048x1136.png "Screenshot 2025-09-26 at 19.48.45.png")
+
+अस्माकम् = our, पार्श्वम् = side
+
+[](https://substackcdn.com/image/fetch/$s_!cyao!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a074cc-9c1b-4598-b7aa-e9f79099783a_2048x1118.png)
+
+![](https://substackcdn.com/image/fetch/$s_!cyao!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a074cc-9c1b-4598-b7aa-e9f79099783a_2048x1118.png "Screenshot 2025-09-26 at 19.50.03.png")
+
+[](https://substackcdn.com/image/fetch/$s_!Ydcl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603702a2-c8ba-4dcc-a7ac-914b412f8179_2048x1133.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Ydcl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603702a2-c8ba-4dcc-a7ac-914b412f8179_2048x1133.png "Screenshot 2025-09-26 at 19.50.24.png")
+
+प्रभूत= many, बहिः = outside
+
+[](https://substackcdn.com/image/fetch/$s_!o9zu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43db13b5-2ad3-45d0-8bda-30ee2392606e_2048x1105.png)
+
+![](https://substackcdn.com/image/fetch/$s_!o9zu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43db13b5-2ad3-45d0-8bda-30ee2392606e_2048x1105.png "Screenshot 2025-09-26 at 19.51.04.png")
+
+[](https://substackcdn.com/image/fetch/$s_!LgGQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9178a69-fa9b-46ee-8e2f-d1caa50d16f4_2048x1133.png)
+
+![](https://substackcdn.com/image/fetch/$s_!LgGQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9178a69-fa9b-46ee-8e2f-d1caa50d16f4_2048x1133.png "Screenshot 2025-09-26 at 19.51.40.png")
+
+The addition of चित् to a question word converts it into an indefinite marker : e.g. कानि = what all, कानिचित् = some
+
+[](https://substackcdn.com/image/fetch/$s_!8xLY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc733e80-2cae-4874-b3ab-50dc68aa6c4b_2048x1058.png)
+
+![](https://substackcdn.com/image/fetch/$s_!8xLY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc733e80-2cae-4874-b3ab-50dc68aa6c4b_2048x1058.png "Screenshot 2025-09-26 at 19.52.35.png")
+
+[](https://substackcdn.com/image/fetch/$s_!WWn1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce7befbe-613f-4049-af02-707672785fa8_2048x1102.png)
+
+![](https://substackcdn.com/image/fetch/$s_!WWn1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce7befbe-613f-4049-af02-707672785fa8_2048x1102.png "Screenshot 2025-09-26 at 19.52.54.png")
+
+संपूर्ण = filled
+
+[](https://substackcdn.com/image/fetch/$s_!-lY8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa96539c5-e9b8-4168-9fc2-9133d5550137_2048x1141.png)
+
+![](https://substackcdn.com/image/fetch/$s_!-lY8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa96539c5-e9b8-4168-9fc2-9133d5550137_2048x1141.png "Screenshot 2025-09-26 at 19.53.26.png")
+
+[](https://substackcdn.com/image/fetch/$s_!rHbV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922b4d93-36a4-4539-93ea-1a03390e4610_2048x1138.png)
+
+![](https://substackcdn.com/image/fetch/$s_!rHbV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922b4d93-36a4-4539-93ea-1a03390e4610_2048x1138.png "Screenshot 2025-09-26 at 19.53.48.png")
+
+[](https://substackcdn.com/image/fetch/$s_!2FAS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff87d970e-6654-4f6a-8c4f-ff9082f7a866_2048x1095.png)
+
+![](https://substackcdn.com/image/fetch/$s_!2FAS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff87d970e-6654-4f6a-8c4f-ff9082f7a866_2048x1095.png "Screenshot 2025-09-26 at 19.54.18.png")
+
+Are you getting comfortable with present and past tense verbs? Let us now start building up vocabulary from this article. If you are more confident, try translating this verse with the help provided.
+
+[](https://substackcdn.com/image/fetch/$s_!jro4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24dc06cb-f4ea-4470-a85a-5a107d91d76b_2048x1143.png)
+
+![](https://substackcdn.com/image/fetch/$s_!jro4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24dc06cb-f4ea-4470-a85a-5a107d91d76b_2048x1143.png "Screenshot 2025-09-26 at 20.05.14.png")
+
+# Verbal Vocabulary Building : Verbs for Speaking
+
+In this section, we will see four important verbs for speaking in Sanskrit. The words for speaking are very important and frequent in Sanskrit literature. In case you are wondering why there are so many words for saying, English too has a lot - *speak*, *tell*, *say*, *converse*, etc. They are all almost synonymous and any slight differences in the shade of meaning conveyed by these words is best gotten by reading & feeling intuitively, rather than trying to figure out rigid rules.
+
+The most frequent verb used for speaking in Sanskrit is ब्रवीति. It is an irregular verb and its forms are given below.
+
+[](https://substackcdn.com/image/fetch/$s_!Az6Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb179039f-dd86-4eeb-9d0f-9c69611021e2_2048x702.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Az6Z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb179039f-dd86-4eeb-9d0f-9c69611021e2_2048x702.png "Screenshot 2025-09-26 at 19.56.15.png")
+
+If you take any text, expect it to find this verb a lot before somebody quotes someone. For e.g., in कृष्णः अर्जुनम् इदं वचनम् अब्रवीत् *Kṛṣṇa told Arjuna the following dialogue*.
+
+Another verb that is also used for speaking is वक्ति. While not common in present and the past tense, it is common more in future tense but it is good if we learn this also beforehand. It is highly irregular. E.g. जिह्वा न वक्ति भगवद्गुणनामधेयं *The tongue does not speak of God’s gunas and names* (Bhāgavatam 6.3.29). Note below:
+
+[](https://substackcdn.com/image/fetch/$s_!QBIK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2420712c-da07-4b4b-99cb-194a4bf6d560_2048x724.png)
+
+![](https://substackcdn.com/image/fetch/$s_!QBIK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2420712c-da07-4b4b-99cb-194a4bf6d560_2048x724.png "Screenshot 2025-09-26 at 19.57.00.png")
+
+The third verb that is used for speaking is a regular verb वदति. For example, एकं सत् विप्राः बहुधा वदन्ति (Ṛg Veda).
+
+[](https://substackcdn.com/image/fetch/$s_!U4N7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b856bf8-fedb-4241-ba45-f5e7ab8a03e2_2031x763.png)
+
+![](https://substackcdn.com/image/fetch/$s_!U4N7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b856bf8-fedb-4241-ba45-f5e7ab8a03e2_2031x763.png "Screenshot 2025-09-26 at 19.58.13.png")
+
+There is another type of past tense (called लिट्) that we will see only in level 2 but the couple of words of that past tense that are shown on the right are so frequent that they merit immediate attention and learning. Learn the following two perfect past tense forms of the verb वक्ति on the right which occurs very frequently. Chances are that you would have come across these words already if you have listened or read even basic Sanskrit texts.
+
+[](https://substackcdn.com/image/fetch/$s_!3zDH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F399a22ef-5288-4636-bac3-3b2c889f4fc9_1043x715.png)
+
+![](https://substackcdn.com/image/fetch/$s_!3zDH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F399a22ef-5288-4636-bac3-3b2c889f4fc9_1043x715.png "Screenshot 2025-09-26 at 19.59.26.png")
+
+In Gītā, for instance, one can frequently sees phrases before opening a dialogue like श्री भगवान् उवाच *The auspicious one* (Kṛṣṇa) *said*, अर्जुनः उवाच *Arjuna said*, सञ्जयः उवाच *Sañjaya said*, and so on.
+
+Another verb that is also often used for speaking is irregular and is just used in the present tense. But it is irregular because its form and personal endings (अ, उः) resemble those of the perfect past tense that we saw in उवाच and ऊचुः
+
+[](https://substackcdn.com/image/fetch/$s_!Fm3g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc71efda4-40f8-4b1d-9c1e-a5f92bddb7de_2048x975.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Fm3g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc71efda4-40f8-4b1d-9c1e-a5f92bddb7de_2048x975.png "Screenshot 2025-09-26 at 19.59.55.png")
+
+Another regular verb that is used to mean narrating or describing is कथयति that gives the Hindi verb कहना.
+
+[](https://substackcdn.com/image/fetch/$s_!IMZr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5faba416-74ab-4776-b394-055962f760d0_1478x426.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!IMZr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5faba416-74ab-4776-b394-055962f760d0_1478x426.heic)
+
+Two other regular verbs that are related to this theme that literally means painting or coloring but figuratively used to mean describing (e.g. English idiom: paint a picture of him) are वर्णयति and चित्रयति. The former is used to mean narrating while the latter is.
+
+[](https://substackcdn.com/image/fetch/$s_!ISxz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F509b4d5f-6d1c-4e99-86d8-58387bdca634_1476x424.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!ISxz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F509b4d5f-6d1c-4e99-86d8-58387bdca634_1476x424.heic)
+
+Exercise : Open any random Sanskrit text with translation and look for these words related to speaking whenever anyone says anything.
+
+------------------------------------------------------------------------
+
+# Word compounding
+
+In this section, we will look at another aspect that makes translation from Sanskrit difficult which is word compounding. Word compounding exists in English too, just that English does not normally, more than two or three compound words together. Consider the following compound words and their extended meanings:
+
+home delivery =\> delivery **at** home
+
+swimming pool =\> pool **for** swimming
+
+tree house =\> house **on** a tree
+
+play house =\> house **for** play
+
+workplace =\> place **of** work
+
+candle-light =\> light **from** \[burning\] candle
+
+eye-witness =\> witness **through** eyes
+
+well-being =\> being **that is** well
+
+We see that compound words are formed when the relation between a set of words is very obvious in context. For example, when I say home-delivery, you don’t think whether it is delivery of a home or delivery at home or delivery from home. The appropriate relation is understood from the context. But the function of prepositions in English is performed mainly by case endings for Sanskrit nouns. So in Sanskrit, when words are compounded, the case endings are omitted from all but the final member of the compound.
+
+E.g.
+
+रामपुत्रः =\> रामस्य पुत्रः
+
+देवराजः =\> देवानां राजः
+
+धनप्राप्तिः =\> धनस्य प्राप्तिः
+
+वीररामः =\> वीरः रामः =\> रामः यः वीरः
+
+So we see that Sanskrit compounds theoretically function like English ones. They hide case endings in-between them instead of prepositions. Just that Sanskrit can form long compounds without hesitation. For e.g.
+
+अज्ञातरोगपीडितधनिकः =\> अज्ञातेन रोगेन पीडितः धनिकः rich man who is struck by an unknown disease
+
+In these types of compounds, the gender of a compound is determined by the gender of the final word of the compound that takes the case ending. For example, the gender of सीतापुत्रः is masculine because the gender of पुत्रः is masculine which also makes sense as सीतापुत्रः fundamentally refers to someone male, who happens to be the son of a female.
+
+There is also another type of compounding that is important to Sanskrit which is there to a certain extent in English as well. Consider words like redhead and blonde. Normally they refer to people who have red-colored or blonde hairs on their head. In Sanskrit, when such compounds are formed, the gender of the final word of the compound is now the gender of the person instead of the gender of the word. For example, the word प्रियदर्शनम् means good-looks but when used to refer to a male person who has good looks, then it becomes masculine and we have प्रियदर्शनः . Most grammar books classify types of compounds in detail but that is not necessary at all and compounds are best learnt by exposure and reading in context.
+
+I present some passages from texts for practice. Normally compound words don’t have hyphens in between their constituent words but I do so for long compounds for your convenience. For example, here are two long-compound descriptions of the Bhāgavata Purāṇa from the text. From the English-translation, guess the meaning.
+
+निगम-कल्प-तरु-गलितम्-फलम् शुक-मुख-अमृत-द्रव-संयुतम् भागवतम्
+
+Scripture-desire-tree-mature-fruit Śuka-mouth-nectar-fluid-perfect
+
+Here is an example of a famous long compound in Sanskrit that describes the god Śiva. Built step by step. Don’t get scared! This is just an extreme example. Only rarely do compounds get this big but definitely Sanskrit compounds are longer than English ones.
+
+अहिः = snake
+
+अहिरिपुः = snake-enemy = eagle
+
+अहिरिपुपतिः = eagle-lord = Viṣṇu
+
+अहिरिपुपतिकान्ता = Viṣṇu-wife = Lakṣmī
+
+अहिरिपुपतिकान्तातातः = Lakṣmī-father = ocean
+
+अहिरिपुपतिकान्तातातसम्बद्धः = ocean-bounded = Rāma
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ता = Rāma-wife = Sītā
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरः = Sītā-kidnapper = Rāvaṇa
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयः Rāvaṇa-son = Meghanātha
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्ता = Meghanātha killer = Lakṣmaṇa
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदाता = Lakṣmaṇa-life-giver = Hanumān
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजः = Hanumān-flag = Arjuna
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजसखा = Arjuna-friend = Kṛṣṇa
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजसखिसुतः = Kṛṣṇa-son = Pradyumna
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजसखिसुतसुतः = Pradyumna son = Aniruddha
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजसखिसुतसुतकन्ता = Aniruddha-wife = Uṣā
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजसखिसुतसुतकन्तातः = Uṣā-father = Bāṇāsura
+
+अहिरिपुपतिकान्तातातसम्बद्धकान्ताहरतनयनिहन्तृप्राणदातृध्वजसखिसुतसुतकन्तातसम्पूज्यः = Bāṇāsura-object of worship = Śiva
+
+------------------------------------------------------------------------
+
+# Story Time
+
+Let us continue the story from where we left off last time. The hero’s name is पुरूरवाः and the heroine is an अप्सराः but they are not plurals as they look. They follow a different pattern of endings ; for now, remember them as special names and titles.
+
+[](https://substackcdn.com/image/fetch/$s_!9HqD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F795a59ea-e755-428f-bdb1-a9a0ac4e7891_2048x1126.png)
+
+![](https://substackcdn.com/image/fetch/$s_!9HqD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F795a59ea-e755-428f-bdb1-a9a0ac4e7891_2048x1126.png "Screenshot 2025-09-26 at 20.06.01.png")
+
+[](https://substackcdn.com/image/fetch/$s_!QMlY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28e6c177-fb86-4552-9723-a8d6ac6e7824_2048x1124.png)
+
+![](https://substackcdn.com/image/fetch/$s_!QMlY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28e6c177-fb86-4552-9723-a8d6ac6e7824_2048x1124.png "Screenshot 2025-09-26 at 20.06.44.png")
+
+[](https://substackcdn.com/image/fetch/$s_!q3aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae8439d9-ccfd-4610-95bb-5c9b72b0d942_2048x1136.png)
+
+![](https://substackcdn.com/image/fetch/$s_!q3aA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae8439d9-ccfd-4610-95bb-5c9b72b0d942_2048x1136.png "Screenshot 2025-09-26 at 20.07.07.png")
+
+[](https://substackcdn.com/image/fetch/$s_!f5PY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8417283-2ec4-4033-883e-147ce638923e_2048x1136.png)
+
+![](https://substackcdn.com/image/fetch/$s_!f5PY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8417283-2ec4-4033-883e-147ce638923e_2048x1136.png "Screenshot 2025-09-26 at 20.07.27.png")
+
+[](https://substackcdn.com/image/fetch/$s_!Wzhy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d08c2d4-419d-4f43-8744-458d5044deb0_2048x1147.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Wzhy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d08c2d4-419d-4f43-8744-458d5044deb0_2048x1147.png "Screenshot 2025-09-26 at 20.07.58.png")
+
+[](https://substackcdn.com/image/fetch/$s_!jENB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72418f21-c18e-4832-9a32-808296a94af4_2048x1139.png)
+
+![](https://substackcdn.com/image/fetch/$s_!jENB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72418f21-c18e-4832-9a32-808296a94af4_2048x1139.png "Screenshot 2025-09-26 at 20.08.19.png")
+
+[](https://substackcdn.com/image/fetch/$s_!yiph!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4f0ecdb-d933-4178-9b12-5b08988154f7_2048x1134.png)
+
+![](https://substackcdn.com/image/fetch/$s_!yiph!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4f0ecdb-d933-4178-9b12-5b08988154f7_2048x1134.png "Screenshot 2025-09-26 at 20.08.40.png")
+
+[](https://substackcdn.com/image/fetch/$s_!t9_l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec05cba0-2825-4c86-acd6-bd6e06607cd9_2048x1142.png)
+
+![](https://substackcdn.com/image/fetch/$s_!t9_l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec05cba0-2825-4c86-acd6-bd6e06607cd9_2048x1142.png "Screenshot 2025-09-26 at 20.08.57.png")
+
+In Sanskrit, you literally say “by accordance of X” (X-अस्य अनुरोधेन) instead of “according to X”
+
+[](https://substackcdn.com/image/fetch/$s_!n9gB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6ee1ac9-ed96-4944-bd36-f1c0eed499d3_2048x1139.png)
+
+![](https://substackcdn.com/image/fetch/$s_!n9gB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6ee1ac9-ed96-4944-bd36-f1c0eed499d3_2048x1139.png "Screenshot 2025-09-26 at 20.09.18.png")
+
+अधुना = now, अवगतम् = understood
+
+------------------------------------------------------------------------
+
+# The questions of Yakṣa to Yudhiṣṭhira
+
+Are you feeling more confident now? Now, we will read the section from the Mahābhārata where Yakṣa asks questions to Yudhiṣṭhira who has to answer them correctly in order to get his brothers back alive. You will learn lots of verbs and also revise the case endings. The questions are grouped into themes for easy classification. For words whose forms you have not seen yet, their equivalent synonyms are included in brackets.
+
+[](https://substackcdn.com/image/fetch/$s_!0jAs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e7ebc5e-3646-4823-be66-ec852c260520_885x806.png)
+
+![](https://substackcdn.com/image/fetch/$s_!0jAs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e7ebc5e-3646-4823-be66-ec852c260520_885x806.png)
+
+The questions are mostly of the form “What is so and so?” or “What is called / known as so and so?”. It is good to learn the basic syntax and the most frequent words in this section. We all know that English prefers to use the passive voice for such questions like asking “what is called as X?” instead of “what does one call X?”. The same is true for Sanskrit as well which loves to use the passive voice in a far greater number of situations that will be elaborated on in a future chapter. Note that addition of स्वित् to a question word does not change its meaning at all : e.g. किम् = किंस्वित् = what?
+
+Some adjectives that are used passively for this purpose in masculine gender forms are उक्तः spoken, प्रोक्तः called, प्रकीर्तितः famously known, परिकीर्तितः famously known around, श्रुतः heard, विश्रुतः hear popularly, स्मृतः remembered. Sanskrit ignores putting any word for “as”. So it simply asks “कः X प्रोक्तः” for meaning “what is called as X?”. A verb that is passive in form and used for this purpose are उच्यते is spoken. You will encounter other verbs that end in ते and न्ते (e.g. लभते takes, काशते shines, जायते is born, वर्तते becomes), instead of the expected ति and न्ति. These are verbs of a different kind and we will see these in detail in a future chapter but for now treat them identical to how you would treat ति ending verbs. Let us now start reading. It is okay if you do not get everything.
+
+### Theme 1: The Sun
+
+1.   किंस्वित् आदित्यम् उन्नयति? (उद् + नयति = उन्नयति = leads up)  
+    ब्रह्म आदित्यम् उन्नयति।
+
+2.  के (what/who all) च तस्य अभितश्चराः (accompaniers)?  
+    देवाः तस्य अभितश्चराः ।
+
+3.  कः च एनम् अस्तं नयति ?  
+    धर्मः च अस्तं नयति ।
+
+4.  कस्मिन् (in what) च प्रतितिष्ठति (it bases itself)?  
+    सत्ये च प्रतितिष्ठति।
+
+### Theme 2: Learning, Intelligence : केन = केनस्वित् = by what = how?
+
+5.  केनस्वित् श्रोत्रियः भवति ?  
+    श्रुतेन श्रोत्रियः भवति ।
+
+6.   केनस्वित् विन्दते (one finds) महत्?  
+    तपसा (तापस्येन) विन्दते महत्
+
+7.  केनस्वित् द्वितीयवान् (one who has doubled everything) भवति?  
+    धृत्या (धैर्येन) द्वितीयवान् भवति ।
+
+8.  केन च बुद्धिमान् … ?  
+    बुद्धिमान् वृद्ध-सेवया (सेवनेन)
+
+### Theme 3: On Brāhmaṇas
+
+9.  किं ब्राह्मणानां देवत्वम् (divinity) ?  
+    स्वाध्यायः एषां (ब्राह्मणानां) देवत्वम्
+
+10. कः च धर्मः सताम् (सद्जनानाम्) इव (like) ?  
+    तपः एषां सताम् इव ।
+
+11.  कः च एषां (ब्राह्मणानां) मानुषः भावः (humanly trait)?  
+    मरणं (ब्राह्मणानां) मानुषः भावः ।
+
+12.  किम् एषाम् (ब्राह्मणानां) असताम् (असद्जनानाम्) इव ?  
+    परिवादः (gossip : lit - talking about \[someone\]) असताम् इव ।
+
+### Theme 4: On Kṣatriyas
+
+13. किं क्षत्रियाणां देवत्वम् (divinity)?  
+    इषु (arrow)-अस्त्रम् एषां (क्षत्रियाणां) देवत्वम् ।
+
+14.  कः च धर्मः सताम् (सद्जनानाम्) इव?  
+    यज्ञः एषां (क्षत्रियाणां) सताम् (सद्जनानाम्) इव।
+
+15.  कः च एषां (क्षत्रियाणां) मानुषः भावः (humanly trait)?  
+    भयं वै (truly) मानुषः भावः।
+
+16.  किम् एषाम् (क्षत्रियाणां) असताम् इव?  
+    परित्यागः (abandoning someone) असताम् (असद्जनानाम्) इव।
+
+### Theme 5: On Yajña  यज्ञिय = yajñic
+
+17.  किम् एकं यज्ञियं साम (hymn) ?  
+    प्राणः वै यज्ञियं साम ।
+
+18.  किम् एकं यज्ञियं यजुः (sacrificial object)?  
+    मनः वै यज्ञियं यजुः ।
+
+19.  का च एषां वृणुते (chooses) यज्ञम्   
+    ऋग् (praise mantra) एका वृणुते यज्ञम् ।
+
+20.  कां यज्ञः न अतिवर्तते (violates) ?  
+    तां (ऋग्) यज्ञः न अतिवर्तते ।
+
+### Theme 6: Farming & Cultivation
+
+21.  किंस्विद् आवपतां (कृषिकानां : of farmers) श्रेष्ठम्?  
+    वर्षम् आवपतां श्रेष्ठम् ।
+
+22.  किंस्विद् निवपतां (among objects sown) वरम् ?  
+    बीजं निवपतां वरम् ।
+
+23.  किंस्विद् प्रतिष्ठमानानाम् (among those who desire stability)?  
+    गावः (cows) प्रतिष्ठमानानाम् ।
+
+24.  किंस्विद् प्रसवतां (of pregnant women) वरम्?  
+    पुत्रः प्रसवतां वरः ।
+
+### Theme 7: Some riddles : तर = more
+
+In Sanskrit, when you want to say “more … than X” or “…er than Y” , you literally say “…….तरम् X-आत्” where the आत् ending means “than” and the तर suffix means “more” or “-er”.
+
+25. इन्द्रियार्थान् अनुभवन् (while experiencing) बुद्धिमान् लोकपूजितः सम्मतः
+    सर्वभूतानाम् उच्छ्वसन् (while breathing) कः न जीवति?  
+    देवता-अतिथि-भृत्यानां (dependents) पितॄणाम् आत्मनः (स्वस्थस्य = health) च यः
+    (whoever) न निर्वपति (cultivates) पञ्चानाम् उच्छ्वसन् (while breathing) न
+    सः (he) जीवति ।
+
+26. किंस्विद् गुरुतरं (heavier) भूमेः (भुवनात् : than the earth) ?  
+    माता गुरुतरा भूमेः ।
+
+27. किंस्विद् उच्चतरं च खात् (आकाशात्)?   
+    खात् पिता उच्चतरः तथा ।
+
+28.  किंस्वित् शीघ्रतरं वायोः (वातात्)?  
+    मनः शीघ्रतरं वातात् ।
+
+29. किंस्विद् बहुतरं (more abundant) तृणात् (than grass)?  
+    चिन्ता बहुतरी तृणात् ।
+
+30. किंस्वित् सुप्तं (slept) न निमिषति (blinks)?  
+    मत्स्यः सुप्तः न निमिषति ।
+
+31. किंस्विद् जातं (born) न चोपति (चलति)?  
+    अण्डं जातं न चोपति ।
+
+### Theme 8: Some more riddles
+
+32. कस्यस्विद् हृदयं नास्ति ?  
+    अश्मनः (अश्नस्य) (rock) हृदयं नास्ति ।
+
+33.  किंस्विद् वेगेन वर्धते (raises) ?  
+    नदी वेगेन वर्धते ।
+
+34.  किंस्वित् प्रवसतः (पथिकस्य of a traveller) मित्रम् ।  
+    सार्थः (caravan) प्रवसतः मित्रम् ।
+
+35.  किंस्विद् मित्रं गृहे सतः (स्थितस्य) ?  
+    भार्या (wife) मित्रं गृहे सतः।
+
+36. आतुरस्य (of a diseased mean) च किं मित्रम्?  
+    आतुरस्य भिषक् (वैद्यः) मित्रम् ।
+
+37. किंस्वित् मित्रं मरिष्यतः (यः मरिष्यति तस्य of he who is going to die)?  
+    दानं मित्रं मरिष्यतः ।
+
+38. कः अतिथिः सर्वभूतानाम् ।  
+    अतिथिः सर्वभूतानाम् अग्निः ।
+
+39. किंस्विद् धर्मं सनातनम्?  
+    सनातनः अमृतः धर्मः ।
+
+40. अमृतं किंस्विद् राजेन्द्र?  
+    सोमः गवामृतम् ।
+
+### Theme 9: More Riddles
+
+41.  किंस्वित् सर्वम् इदं जगत्?  
+    वायुः सर्वम् इदं जगत् ।
+
+42.  किंस्विद् एकः (alone) विचरते (wanders/spreads) ?  
+    सूर्यः एकः विचरते ।
+
+43.  जातः (born already) कः जायते (is born) पुनः?   
+    चन्द्रमा जायते पुनः ।
+
+44. किंस्विद् हिमस्य भैषज्यम् (cure)?   
+    अग्निः हिमस्य भैषज्यम् ।
+
+45. किंस्विद् आवपनं (vessel) महत्?  
+    भूमिः आवपनं महत् ।
+
+46. किंस्विद् एकपदं (one foundation) धर्म्यम्?  
+    दाक्ष्यम् (skill/efficiency) एकपदं धर्म्यम् ।
+
+47. किंस्विद् एकपदं यशः?  
+    दानम् एकपदं यशः ।
+
+48. किंस्विद् एकपदं स्वर्ग्यम्?  
+    सत्यम् एकपदं स्वर्ग्यम् ।
+
+49. किंस्विद् एकपदं सुखम्?  
+    शीलम् (good character) एकपदं सुखम् ।
+
+50. किंस्विद् आत्मा मनुष्यस्य?  
+    पुत्रः आत्मा मनुष्यस्य ।
+
+### Theme 10: More riddles
+
+51.  किंस्विद् दैवकृतः सखा?  
+    भार्या दैवकृतः सखा ।
+
+52. उपजीवनं (life-support) किंस्विद् अस्य?  
+    उपजीवनं च पर्जन्यः ।
+
+53. किंस्विद् अस्य परायणम् (refuge)?  
+    दानम् अस्य परायणम् ।
+
+54. धन्यानाम् (blessings) उत्तमं किंस्विद्?  
+    धन्यानाम् उत्तमं दाक्ष्यम् ।
+
+55. धनानां स्यात् (might be) किम् उत्तमम् ।  
+    धनानाम् उत्तमं श्रुतम् (knowledge : heard)।
+
+56. लाभानाम् उत्तमं किं स्यात्?  
+    लाभानां श्रेयः आरोग्यम् ।
+
+57. सुखानां स्यात् (might be) किम् उत्तमम्?  
+    सुखानां तुष्टिः (satisfaction) उत्तमा ।
+
+58. कः च धर्मः परः लोके ?  
+    आनृशंस्यं (mercy : uncruelty) परः धर्मः ।
+
+59. कः च धर्मः सदाफलः (ever-fruitful)?  
+    त्रयी (three vedas) धर्मः सदाफलः ।
+
+60.  किं नियम्य (after controlling) न शोचन्ति ?  
+    मनः यम्य (after controlling) न शोचन्ति ।
+
+61. कैः च सन्धिः (association) न जीर्यते (goes stale)?  
+    सन्धिः सद्भिः (सद्जनैः) न जीर्यते ।
+
+### Theme 11: After giving up - हित्वा
+
+62. किं नु (now) हित्वा प्रियः भवति?  
+    मानं (pride) हित्वा प्रियः भवति ।
+
+63. किं नु हित्वा न शोचति (grieves)?  
+    क्रोधं हित्वा न शोचति ।
+
+64. किं नु हित्वा अर्थवान् (wealthy) भवति?  
+    कामं हित्वा अर्थवान् भवति ।
+
+65. किं नु हित्वा सुखी भवेत् (one may be)?  
+    लोभं हित्वा सुखी भवेत् ।
+
+### Theme 12: For what = Why - किमर्थम्?
+
+66.  किमर्थं ब्राह्मणे (in a brahmin) दानम्?  
+    धर्मार्थं ब्राह्मणे दानम् ।
+
+67.  किमर्थं नटनर्तके (in a dancer) \[दानम्\]?  
+    यशोऽर्थं नटनर्तके ।
+
+68.  किमर्थं च एव भृत्येषु (in dependents) \[दानम्\]?  
+    भृत्येषु भरणार्थं वै ।
+
+69.  किमर्थं च एव राजसु (राजेषु) \[दानम्\]?  
+    भयार्थं च एव राजसु (राजेषु)।
+
+### Theme 13: By what - केन(स्विद्)
+
+70. केनस्विद् आवृतः (covered) लोकः?   
+    अज्ञानेन आवृतः लोकः ।
+
+71. केनस्विद् न प्रकाशते (shines)?  
+    तमसा (तमस्केन) न प्रकाशते ।
+
+72. केन त्यजति मित्राणि?  
+    लोभात् त्यजति (abandon) मित्राणि ।
+
+73. केन स्वर्गं न गच्छति?  
+    सङ्गात् स्वर्गं न गच्छति ।
+
+### Theme 14: How - कथम्
+
+74. मृतः (dead) कथं स्यात् (might be) पुरुषः?  
+    मृतः दरिद्रः (miserly) पुरुषः ।
+
+75. कथं राष्ट्रं मृतं भवेत् (might be)?  
+    मृतं राष्ट्रम् अराजकम् (anarchous)।
+
+76. श्राद्धं (ceremony performed for the dead) मृतं कथं वा स्यात्?  
+    मृतम् अश्रोत्रियं (without priest) श्राद्धम् ।
+
+77. कथं यज्ञः मृतः भवेत्?  
+    मृतः यज्ञः तु अदक्षिणः (a yajña where a purohita is not given a dakṣiṇa)
+    ।
+
+### Theme 15: What - कः (m), का (f), किम् (n)
+
+78. का दिक् (direction/path) ?  
+    सन्तः (Sants) दिक् ।
+
+79. किम् उदकं (water) प्रोक्तम्?  
+    जलम् आकाशम् ।
+
+80. किम् अन्नम्?  
+    गौः (cow is source of) अन्नम् ।
+
+81. किं च वै विषम्?  
+    प्रार्थना (asking someone for favour) विषम् ।
+
+82. श्राद्धस्य कालम् (apt time) आख्याहि (किम् इति वद = explain?) ।  
+    श्राद्धस्य ब्राह्मणः कालः (time whenever a brahmin is available) ।
+
+83. तपः किं लक्षणं (nature) प्रोक्तम्?  
+    तपः स्वधर्मवर्तित्वम् ।
+
+84. कः दमः (restraint) च प्रकीर्तितः?  
+    मनसः (चिन्तनस्य) दमनं दमः ।
+
+85. क्षमा च का परा (ultimate) प्रोक्ता?  
+    क्षमा द्वन्द्वसहिष्णुत्वम् ।
+
+86. का च ह्रीः (shame) परिकीर्तिता?  
+    ह्रीः अकार्यनिवर्तनम् (non-execution of duty) ।
+
+87. किं ज्ञानं प्रोच्यते राजन् (हे राज, किम् ज्ञानम् इति वक्ति?)?  
+    ज्ञानं तत्त्वार्थसंबोधः ।
+
+88. कः शमः च प्रकीर्तितः?  
+    शमः चित्तप्रशान्तता ।
+
+89. दया च का परा (परैः) प्रोक्ता?  
+    दया सर्वसुख-ईषित्वम् ।
+
+90. किं च आर्जवम् (straightforwardness) उदाहृतम्?  
+    आर्जवं समचित्तता ।
+
+91. कः शत्रुः दुर्जयः (impossible to win with = invincible )?  
+    क्रोधः सुदुर्जयः शत्रुः ।
+
+92. पुंसां (पुरुषाणां) कः च व्याधिः अनन्तकः (endless)?   
+    लोभः व्याधिः अनन्तकः ।
+
+### Theme 16: What kind of / In what manner - कीदृशः / कीदृशी / कीदृशम्
+
+93. कीदृशः च स्मृतः साधुः?   
+    सर्वभूतहितः (all-being-compassionate) साधुः ।
+
+94. असाधुः कीदृशः स्मृतः?  
+    असाधुः निर्दयः (uncompassionate) स्मृतः ।
+
+### Theme 17: More of What - कः (m), का (f), किम् (n)
+
+95. कः मोहः प्रोच्यते राजन् (किम् मोहम् इति वदति, हे राज)?  
+    मोहः हि धर्ममूढत्वम् ।
+
+96. कः च मानः (pride) प्रकीर्तितः ?  
+    मान: तु आत्म-अभिमानिता ।
+
+97. किम् आलस्यं (laziness) च विज्ञेयम्?  
+    धर्म-निष्क्रियता (non-discharge of dharma) आलस्यम् ।
+
+98. कः च शोकः प्रकीर्तितः?  
+    शोकः तु अज्ञानम् उच्यते ।
+
+99. किं स्थैर्यम् ऋषिभिः (ऋषिगणैः) प्रोक्तम्?  
+    स्वधर्मे स्थिरता स्थैर्यम् ।
+
+100. किं च धैर्यम् उदाहृतम् (demonstrated with / given as example)?  
+     धैर्यम् इन्द्रिय-निग्रहः ।
+
+101. स्नानं च किं परं प्रोक्तम्?  
+     स्नानं मनोमल-त्यागम् ।
+
+102. दानं च किम् इह उच्यते?  
+     दानं वै भूत-रक्षणम् ।
+
+103. कः पण्डितः पुमान् ज्ञेयः (knowledgeable) ?  
+     धर्मज्ञः पण्डितः ज्ञेयः ।
+
+104. नास्तिकः कः च उच्यते?
+
+105. कः मूर्खः?  
+     नास्तिकः मूर्खः उच्यते ।
+
+106. कः च कामः स्यात् ?  
+     कामः संसारहेतुः च ।
+
+107. कः मत्सरः (envy) इति स्मृतः?  
+     हृत्-तापः (heart-burn) मत्सरः स्मृतः ।
+
+108. कः अहङ्कारः (ego) इति प्रोक्तः?  
+     महा-अज्ञानम् अहङ्कार: ।
+
+109. कः च दम्भः (ostentation) प्रकीर्तितः?  
+     दम्भः धर्मः ध्वजोच्छ्रयः ।
+
+110. किं तद् दैवं परं प्रोक्तम्?  
+     दैवं दानफलं प्रोक्तम् ।
+
+111. किं तत् पैशुन्यम् (wickedness) उच्यते?  
+     पैशुन्यं परदूषणम् (speaking dirty of others)।
+
+### Theme 18: Longer questions and answers
+
+These passages are little tough, so I will provide the translation for longer sentences just for the sake of completion of the reading.
+
+112. धर्मः च अर्थः च कामः च परस्परविरोधिनः (are mutually contradictory)।
+     एषां (of them) नित्यविरुद्धानां कथम् एकत्र (together) सङ्गमः (harmony) ?  
+     यदा (whenever) धर्मः च भार्या (wife) च परस्परवशानुगौ (has them under
+     control!)। तदा (then) धर्मार्थकामानां त्रयाणाम् अपि सङ्गमः॥
+
+113. अक्षयः नरकः केन प्राप्यते (is gotten)?  
+     ब्राह्मणं स्वयम् आहूय (after inviting) याचमानम् अकिञ्चनम्। पश्चात् नास्ति इति
+     यः ब्रूयात् (may tell) सः अक्षयं नरकं व्रजेत् (व्रजति)। वेदेषु धर्मशास्त्रेषु मिथ्या
+     यः वै द्विजातिषु देवेषु पितृधर्मेषु सः अक्षयं नरकं व्रजेत् । विद्यमाने धने लोभात्
+     दानभोगविवर्जितः पश्चात् नास्ति इति यः ब्रूयात् सः अक्षयं नरकं व्रजेत् ।  
+     He who himself invites a brahmin who is poor and seeking help, and
+     then says he has nothing to help goes to aksaya naraka. He who
+     discredits the vedas, the dharmasastras, brahmins, gods, ancestral
+     duties, goes to aksaya naraka. Even if there is wealth, the one who
+     never givers nor enjoys it himself, but says he has nothing, goes
+     to aksaya naraka.
+
+114. राजन् कुलेन (birth) वृत्तेन (conduct) स्वाध्यायेन (practice) श्रुतेन (learning)
+     वा ब्राह्मण्यं (brahminhood) केन भवति प्रब्रूहि एतत् सुनिश्चितम् ?  
+     श्रुणु (hear) यक्ष, कुलं तात न स्वाध्यायः न च श्रुतम् ; कारणं हि द्विजत्वे च वृत्तम्
+     एव न संशयः । वृत्तं यत्नेन संरक्ष्यं ब्राह्मणेन विशेषतः अक्षीणवृत्तः न क्षीणः वृत्ततः तु
+     हतः हतः । पठकाः पाठकाः च एव ये च अन्ये शास्त्रचिन्तकाः सर्वे व्यसनिनः मूर्खाः
+     यः क्रियावान् सः पण्डितः । चतुर्वेदः अपि दुर्वृत्तः सः शूद्राद् अतिरिच्यते यः
+     अग्निहोत्रपरः दान्तः सः ब्राह्मणः इति स्मृतः ।  
+     Hear Yaksa, it is neither by ancestry nor practice nor learning is
+     the reason in brahminhood. Without doubt, it is only one’s conduct.
+     One’s conduct should always be well-guarded with great effort. The
+     one whose character remains intact suffers no loss and the one
+     whose character is destroyed is as good as dead. Those teachers,
+     students, and others who study scriptures and yet wicked in their
+     habits are fools. He who follows it in conduct is truly wise. Even
+     if a person is well versed in the four vedas, he is to be regarded
+     as wicked if his conduct is not right. He who performs his
+     Agnihotri and had his senses under control is a brahmin.
+
+115. प्रियवचनवादी (one who speaks good) किं लभते (gets)?  
+     प्रियवचनवादी प्रियः भवति ।
+
+116. विमृशितकार्यकरः (prudent person) किं लभते ?  
+     विमृशितकार्यकरः अधिकं जयति ।
+
+117. बहुमित्रकरः (a person with many friends) किं लभते?  
+     बहुमित्रकरः सुखं वसते ।
+
+118. धर्मे रतः (attached) किं लभते?  
+     यः च धर्मरतः सः गतिं (goal) लभते ।
+
+119. कः मोदते (is delighted) ?  
+     पञ्चमे अहनि (दिने) षष्ठे वा शाकं पचति (cooks) स्वे गृहे, अनृणी च अप्रवासी च सः
+     वारिचरः मोदते॥  
+     A person who cooks vegetables in his own house during the fight or
+     sixth part of the day, who is not in debt, and does not live away
+     from home, is truly delighted.
+
+120. किम् आश्चर्यम् ?  
+     अहनि अहनि भूतानि गच्छन्ति इह यमालयम् । शेषाः स्थावरम् इच्छन्ति किम् आश्चर्यम्
+     अतः परम् !  
+     Day after day, though countless beings go to the abode of Yama, the
+     others who remain think they are immune to death. What can be a
+     greater wonder than this?
+
+121. कः पन्थाः (path) ?  
+     तर्कः अप्रतिष्ठः श्रुतयः विभिन्नाः न एकः ऋषिः यस्य मतं प्रमाणम् धर्मस्य तत्त्वं
+     निहितं गुहायां महाजनः येन गतः सः पन्थाः ।  
+     Logic is never conclusive, scriptures too differ, no single sage’s
+     conclusion can be considered authoritative. The essence of dharma
+     is hidden in the cave of one;s heart. Therefore, that alone is the
+     right path by which people have already walked.
+
+122. का च वार्तिका (message)?  
+     अस्मिन् (in this) महामोहमये कटाहे सूर्याग्निना रात्रिदिवेन्धनेन
+     मासर्तुदर्वीपरिघट्टनेन भूतानि कालः पचति इति वार्ता ।  
+     Time cooks all beings by the fire of the sun which is fuelled by
+     days and nights, stirred with the ladle of months and seasons, in
+     the frying pan of this mighty delusory world.
+
+123. पुरुषं तु इदानीं व्याख्याहि?  
+     दिवं स्पृशति भूमिं च शब्दः पुण्येन कर्मणा यावत् सः शब्दः भवति तावत् पुरुषः उच्यते
+     ।  
+     Till the glory born out of one's virtuous deeds are heard across
+     heaven and earth, a person can be called a human.
+
+124. यः च सर्वधनी नरः?  
+     तुल्ये प्रियाप्रिये यस्य सुखदुःखे तथा एव च अतीतानागते च उभे सः वै सर्वधनी नरः।  
+     A person who treats the pleasant and the unpleasant, the joy on the
+     sorrows, the past in the future, with equanimity, is a truly
+     wealthy person.
+
+If some words are not familiar and you need help, click [here](https://x.com/maa_bhaishiiH/status/1829550732355444819?s=20) for the full text with full translation of all questions.
+
+------------------------------------------------------------------------
+
+To read the next article in the series, click below.
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-784)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 5 : Recipes for Creating Long Sentences](https://substackcdn.com/image/fetch/$s_!Pt7h!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03213a78-4a56-469a-97da-808d5f886e26_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 5 : Recipes for Creating Long Sentences
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Mar 19
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-784)
+
+Read full story
+
+5
+
+1
+
+Share

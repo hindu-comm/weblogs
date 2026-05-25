@@ -1,0 +1,848 @@
++++
+title = "Learn Sanskrit to Read"
+full_title = "Learn Sanskrit to Read Ancient Texts Lesson 8 SelfInterested Actions & Ātmanepada Verbs"
+upstream_url = "https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-686"
+date = "2026-05-08"
++++
+Source: [here](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-686).
+
+Learn Sanskrit to Read Ancient Texts : Lesson 8 : Self-Interested Actions & Ātmanepada Verbs
+
+# Learn Sanskrit to Read Ancient Texts : Lesson 8 : Self-Interested Actions & Ātmanepada Verbs
+
+### The text that I have written to teach Sanskrit to people is publicly uploaded here as a series of Substack articles.
+
+[](https://substack.com/@ramaseshanc)
+
+![Rama Seshan Chandrasekaran's avatar](https://substackcdn.com/image/fetch/$s_!ZHOm!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e50d60-b811-4831-8bbc-4d320762e60b_96x96.png)
+
+[](https://substack.com/@cshc)
+
+![CSHC's avatar](https://substackcdn.com/image/fetch/$s_!Y9T4!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61a8328-b4cb-4e00-88aa-b73e4963a670_225x225.jpeg)
+
+[Rama Seshan Chandrasekaran](https://substack.com/@ramaseshanc) and [CSHC](https://substack.com/@cshc)
+
+Mar 25, 2026
+
+5
+
+2
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!9rzg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dd3f525-7485-461b-a247-b8d6a18e840a_1416x857.jpeg)
+
+![undefined](https://substackcdn.com/image/fetch/$s_!9rzg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dd3f525-7485-461b-a247-b8d6a18e840a_1416x857.jpeg "undefined")
+
+This article is the eighth in a series of article for learning Sanskrit. To read the previous article in this series, click below.
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-705)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 7 : The Past Passive Participle](https://substackcdn.com/image/fetch/$s_!9rzg!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dd3f525-7485-461b-a247-b8d6a18e840a_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 7 : The Past Passive Participle
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Mar 23
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-705)
+
+Read full story
+
+To read the first article in the series, click below.
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 1 - Warming Up : Giving Complements & Calling People](https://substackcdn.com/image/fetch/$s_!Qu5W!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57fb9c52-a9de-4984-935b-b528269da505_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 1 - Warming Up : Giving Complements & Calling People
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Mar 18
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts)
+
+Read full story
+
+------------------------------------------------------------------------
+
+# How to honour God?
+
+In this chapter, we introduce another set of verb endings in Sanskrit that has no exact counterpart in any modern language in India or Europe. We saw that nouns have different types of endings for the same purpose. The word रामः becomes रामस्य for conveying the “of” form but the word सीता becomes सीतायाः to convey the same thing - two different endings (स्य vs याः) for the exact same grammatical role. There will be more varieties of endings for other kinds of nouns that we will see in the next level. Similarly, it turns out verbs too can take two types of endings for conveying the same grammatical role. The endings that we have seen so far formally are just one of the two types of endings. They are in the third person:
+
+[](https://substackcdn.com/image/fetch/$s_!MNEH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb825317b-e575-4d2a-8ad3-de82a7866096_1510x452.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!MNEH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb825317b-e575-4d2a-8ad3-de82a7866096_1510x452.heic)
+
+[](https://substackcdn.com/image/fetch/$s_!6nKQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4695eced-8bed-43ec-9de7-aff1b1b81234_1582x888.png)
+
+![](https://substackcdn.com/image/fetch/$s_!6nKQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4695eced-8bed-43ec-9de7-aff1b1b81234_1582x888.png "Screenshot 2025-11-06 at 21.37.39.png")
+
+These endings that we have seen so far, are called the **parasmaipada** endings by Sanskrit grammarians.
+
+[](https://substackcdn.com/image/fetch/$s_!2HoP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4813c280-8ae4-4e25-8262-c2683a9237b3_1566x890.png)
+
+![](https://substackcdn.com/image/fetch/$s_!2HoP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4813c280-8ae4-4e25-8262-c2683a9237b3_1566x890.png "Screenshot 2025-11-06 at 21.37.59.png")
+
+The other set of endings are called the ātmanepada endings. One famous verb which takes only the ātmanepada endings is लभते that means taking or receiving. It is conjugated below.
+
+[](https://substackcdn.com/image/fetch/$s_!8Us8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb817fff2-5e5e-45e8-8c51-6a4568200126_1490x434.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!8Us8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb817fff2-5e5e-45e8-8c51-6a4568200126_1490x434.heic)
+
+The forms for the first and second persons in singular present tense are given below.
+
+> सः/सा/तत् **लभते  **
+> *He/She/It takes  *
+> **  **
+> त्वं **लभसे  **
+> *You take  *
+> **  **
+> अहं **लभे  **
+> *I take*
+
+Note that for the first person singular, it is not the expected लभामे\* from the parasmaipada आमि ending and is shortened as लभे.
+
+> **Note** : The Hindi verb root ले that also means taking (लेना, लिया,
+> लेता, etc..) comes from this Sanskrit root लभ् via the Prakrits.
+
+Famous examples: Bhaja Govindam
+
+[](https://substackcdn.com/image/fetch/$s_!pXmD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a436cd1-d7e7-45eb-be14-dc57c473a094_1630x902.png)
+
+![](https://substackcdn.com/image/fetch/$s_!pXmD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a436cd1-d7e7-45eb-be14-dc57c473a094_1630x902.png "Screenshot 2025-11-06 at 21.40.53.png")
+
+Gītā 4:39
+
+[](https://substackcdn.com/image/fetch/$s_!bTrk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffefc003-1835-4ef2-aa3b-468d6a021f5a_1628x894.png)
+
+![](https://substackcdn.com/image/fetch/$s_!bTrk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffefc003-1835-4ef2-aa3b-468d6a021f5a_1628x894.png "Screenshot 2025-11-06 at 21.40.24.png")
+
+Another famous ātmanepada verb is a synonym for speaking whose root is familiar.
+
+[](https://substackcdn.com/image/fetch/$s_!c-su!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5573b09b-147a-404e-947c-f48e3d2825c4_1482x436.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!c-su!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5573b09b-147a-404e-947c-f48e3d2825c4_1482x436.heic)
+
+[](https://substackcdn.com/image/fetch/$s_!-AE4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fe414b4-11cb-438c-b023-fd9e193238a6_1628x902.png)
+
+![](https://substackcdn.com/image/fetch/$s_!-AE4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fe414b4-11cb-438c-b023-fd9e193238a6_1628x902.png "Screenshot 2025-11-06 at 21.45.56.png")
+
+Another famous verb is वन्दते that means honoring and is the same in meaning as the parasmaipada verb पूजयति. Now you exactly know what the sentences वन्दे मातरम् and वन्दे गुरुपरम्पराम् mean. The entire set of conjugations are given below.
+
+[](https://substackcdn.com/image/fetch/$s_!ZJch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9adc261-e71e-4473-aeea-50becfee80ce_1634x896.png)
+
+![](https://substackcdn.com/image/fetch/$s_!ZJch!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9adc261-e71e-4473-aeea-50becfee80ce_1634x896.png "Screenshot 2025-11-06 at 21.41.12.png")
+
+[](https://substackcdn.com/image/fetch/$s_!w0_E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F835983a5-2a94-401f-aa1b-9d18f85a74be_1590x884.png)
+
+![](https://substackcdn.com/image/fetch/$s_!w0_E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F835983a5-2a94-401f-aa1b-9d18f85a74be_1590x884.png "Screenshot 2025-11-06 at 21.40.06.png")
+
+Another famous verb is सेवते that means serving.
+
+[](https://substackcdn.com/image/fetch/$s_!otRY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1532cf8-cab9-4591-b6fc-ff33a788944d_1498x430.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!otRY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1532cf8-cab9-4591-b6fc-ff33a788944d_1498x430.heic)
+
+[](https://substackcdn.com/image/fetch/$s_!3oS-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9fb3be8-9463-4a6c-897e-bae6956c6c37_1622x892.png)
+
+![](https://substackcdn.com/image/fetch/$s_!3oS-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9fb3be8-9463-4a6c-897e-bae6956c6c37_1622x892.png "Screenshot 2025-11-06 at 21.41.29.png")
+
+One more verb takes both parasmaipada and ātmanepada endings. It is भजति - भजते that also means honoring and worshipping. The phrases अहं भजामि / अहं भजे are very frequent in the genre of bhajanas.
+
+[](https://substackcdn.com/image/fetch/$s_!XDzk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217cd38e-9f87-4d64-a648-2e7e06bdbd0c_1494x442.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!XDzk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217cd38e-9f87-4d64-a648-2e7e06bdbd0c_1494x442.heic)
+
+Another parasmaipada verb that means honoring is अर्चति.
+
+[](https://substackcdn.com/image/fetch/$s_!u48x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1505e94a-68fd-4cf9-91c1-5ff96d0acf8c_1500x444.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!u48x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1505e94a-68fd-4cf9-91c1-5ff96d0acf8c_1500x444.heic)
+
+------------------------------------------------------------------------
+
+# Important Ātmanepada Verbs
+
+### Expressing Opinions, Likes, & Dislikes
+
+In this section, we will look at important ātmanepada verbs that are used to express opinions, likes and dislikes. In Sanskrit, one does not prefer to use a direct translation to make a sentence like “*Rama likes Laṅkā*”. Instead, one rephrases it as “*Laṅkā is pleasing for Rama*”. The verb for “is pleasing” is an ātmanepada verb that is रोचते.
+
+[](https://substackcdn.com/image/fetch/$s_!hxVz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48b6d7c8-50e0-4ca1-94e8-9a30fb5835cc_1620x908.png)
+
+![](https://substackcdn.com/image/fetch/$s_!hxVz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48b6d7c8-50e0-4ca1-94e8-9a30fb5835cc_1620x908.png "Screenshot 2025-11-06 at 21.43.11.png")
+
+[](https://substackcdn.com/image/fetch/$s_!0jXK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16cf97b3-5f82-4249-9d04-b9fdaef8f495_1504x854.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!0jXK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16cf97b3-5f82-4249-9d04-b9fdaef8f495_1504x854.heic)
+
+[](https://substackcdn.com/image/fetch/$s_!Ghmo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88166fb8-50da-48f7-8fa1-ab8cd33dfdc0_1594x904.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Ghmo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88166fb8-50da-48f7-8fa1-ab8cd33dfdc0_1594x904.png "Screenshot 2025-11-06 at 21.42.51.png")
+
+Another verb that is used to express opinion and consent is मन्यते.
+
+[](https://substackcdn.com/image/fetch/$s_!pzTH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89890c02-c31f-446e-bc57-869b89b393ae_1630x902.png)
+
+![](https://substackcdn.com/image/fetch/$s_!pzTH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89890c02-c31f-446e-bc57-869b89b393ae_1630x902.png "Screenshot 2025-11-06 at 21.44.43.png")
+
+[](https://substackcdn.com/image/fetch/$s_!jmZU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff49a837d-fae0-4ba9-978c-97e5d77d58a2_1498x444.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!jmZU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff49a837d-fae0-4ba9-978c-97e5d77d58a2_1498x444.heic)
+
+### Being & Becoming
+
+You have already learnt two verbs that mean “being” which are भवति and अस्ति. They both are synonymous. But there is another ātmanepada verb that means “being” too but which is not synonymous with the previous two. It is वर्तते. The difference between वर्तते and भवति/अस्ति is subtle. If you have learnt Spanish by any chance, it is the same as the difference between the verbs *estar* and *ser*. If you do not know Spanish or Italian, then read the section further.
+
+भवति is used to denote a permanent or long term state of being or some predicate that is intrinsic to the subject. For example, when you say “I am male” or “I am a doctor” or “I am in India”, these are predicates about you that are permanent or are not about to change anytime soon. But on the other hand, when you say “I am sick” or “I am in the middle of the road”, you mean to say that you are temporarily sick or in the middle of the road and are expected to change anytime. In these situations, Sanskrit would use वर्तते. It is also used to mean “*becoming*” or “*happening*”. In its prefixed form प्रवर्तते it is used to mean “*arising*” or “*beginning*”. Another popular prefixed form परिवर्तते means “*changing*” or “*transformation*”. The form विवर्तते means “*rolling*” or “*turning over*”. All its important prefixed forms are summarised below.
+
+[](https://substackcdn.com/image/fetch/$s_!tcAT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0eb6ebac-1123-42ec-91cc-da666b47e6db_1632x898.png)
+
+![](https://substackcdn.com/image/fetch/$s_!tcAT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0eb6ebac-1123-42ec-91cc-da666b47e6db_1632x898.png "Screenshot 2025-11-06 at 21.44.15.png")
+
+[](https://substackcdn.com/image/fetch/$s_!UpzB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23a270ac-4916-40d6-9d8c-3c7c3ee936dd_1110x664.png)
+
+![](https://substackcdn.com/image/fetch/$s_!UpzB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23a270ac-4916-40d6-9d8c-3c7c3ee936dd_1110x664.png)
+
+### Seeing and Waiting
+
+We now see another important ātmanepada verb. It is ईक्षते that means seeing. It is synonymous to the verb पश्यति. When the suffix प्रति is added to the above verb to give प्रतीक्षते, it means waiting as in waiting, you are expecting to see the person you are waiting for again. When the prefix अनु is added to give अन्वीक्षते, the meaning changes to investigation which literally means keeping something in view.
+
+[](https://substackcdn.com/image/fetch/$s_!EwBP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F677c4002-cafe-46c7-809f-0bb0a0de4b70_1624x894.png)
+
+![](https://substackcdn.com/image/fetch/$s_!EwBP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F677c4002-cafe-46c7-809f-0bb0a0de4b70_1624x894.png "Screenshot 2025-11-06 at 21.43.54.png")
+
+Some other famous prefixed forms of this verb are :
+
+> **ईक्षते** = sees  
+> **वीक्षते** = sees carefully / stares / observes  
+> **प्रतीक्षते** = expects   
+> **उपेक्षते** = neglects
+
+Memorise these prefixed forms. They will come in the story section associated with this article.
+
+### Birth & Death
+
+The verbs for being born and dying are ātmanepada and are best introduced by a famous verse from the Gītā which is 2:20.
+
+[](https://substackcdn.com/image/fetch/$s_!UKsq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F309fb53a-d92a-4b6e-a9ec-0251eff3842c_1626x914.png)
+
+![](https://substackcdn.com/image/fetch/$s_!UKsq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F309fb53a-d92a-4b6e-a9ec-0251eff3842c_1626x914.png "Screenshot 2025-11-06 at 21.42.29.png")
+
+But can also mean not just literal birth but a metaphorical birth or formation or generation of anything.
+
+> सङ्गः तेषु **उपजायते** । सङ्गात् सञ्जायते काम: । कामात् क्रोधः **अभिजायते** ।
+> (2.62)  
+> वेपथुः च शरीरे मे रोम-हर्षः च **जायते** । गाण्डीवं **स्रंसते** हस्तात्, त्वक् (चर्म) च
+> एव **परिदह्यते** । (1.29)  
+> अधर्म-अभिभवात् कृष्ण, **प्रदुष्यन्ति** कुल-स्त्रियः । स्त्रीषु दुष्टासु वार्ष्णेय,
+> **जायते** वर्ण-सङ्करः । (1.40)
+
+[](https://substackcdn.com/image/fetch/$s_!wyb2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cdce85a-f1e6-4521-a876-22f9966e28aa_1592x898.png)
+
+![](https://substackcdn.com/image/fetch/$s_!wyb2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cdce85a-f1e6-4521-a876-22f9966e28aa_1592x898.png "Screenshot 2025-11-06 at 21.48.18.png")
+
+[](https://substackcdn.com/image/fetch/$s_!QERv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79115991-dce5-416d-9362-8c759e685500_1598x912.png)
+
+![](https://substackcdn.com/image/fetch/$s_!QERv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79115991-dce5-416d-9362-8c759e685500_1598x912.png "Screenshot 2025-11-06 at 21.48.39.png")
+
+### Sitting & Lying Down
+
+The verb for lying down is an important ātmanepada verb that is very irregular in the sense that from the singular to the plural, it changes from शेते to शेरते. It is this root from which we get the famous word शयन (शे + अन = श् + ए + अन = श् + अ + इ + अन = श् + अ + य् + अन = शयन). Also, the widely used Sanskrit word for bed which is शय्या comes from this same root, which comes in the Bhajagovindam song (शय्याभूतलम् अजिनं वासः).
+
+[](https://substackcdn.com/image/fetch/$s_!1eTV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10672874-8067-44cc-ab6d-13fe51f9a4c8_1932x1048.png)
+
+![](https://substackcdn.com/image/fetch/$s_!1eTV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10672874-8067-44cc-ab6d-13fe51f9a4c8_1932x1048.png "Screenshot 2025-11-07 at 09.28.35.png")
+
+The next important ātmanepada verb that means to sit is आस्ते which also irregularly changes to आसते in the plural. It is this root from which we get the famous word आसन.
+
+[](https://substackcdn.com/image/fetch/$s_!UaUB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc227725d-6b53-4ca0-b79c-04e967ff3b0a_2048x1139.png)
+
+![](https://substackcdn.com/image/fetch/$s_!UaUB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc227725d-6b53-4ca0-b79c-04e967ff3b0a_2048x1139.png "Screenshot 2025-11-07 at 17.15.40.png")
+
+[](https://substackcdn.com/image/fetch/$s_!7l8_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d04e32-9876-40e3-a94a-6b7f7b75f2b8_2048x1141.png)
+
+![](https://substackcdn.com/image/fetch/$s_!7l8_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d04e32-9876-40e3-a94a-6b7f7b75f2b8_2048x1141.png "Screenshot 2025-11-07 at 18.09.33.png")
+
+Some important verbs of this type are recollected together below :
+
+[](https://substackcdn.com/image/fetch/$s_!UfAC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4848c0da-0e9d-4383-935f-9cc0ac73c9d2_529x524.png)
+
+![](https://substackcdn.com/image/fetch/$s_!UfAC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4848c0da-0e9d-4383-935f-9cc0ac73c9d2_529x524.png)
+
+------------------------------------------------------------------------
+
+# Self-Directed Actions & Ubhayapada Verbs
+
+Some verb roots are found taking both parasmaipada and ātmanepada endings. They are called ubhayapada roots (उभय = both). For ubhayapada roots, the choice of the ending taken sometimes (but not always) corresponds to a difference in meaning. For such a verb, when it takes a parasmaipada ending, it means that the result of the verb is going to someone other than the subject. When such a verb takes an ātmanepada ending, it means that the result of the verb is going to the subject itself. Eg.
+
+> रामः पचति *Rama cooks for someone else*  
+> रामः पचते *Rama cooks for himself*
+
+However, this distinction in meaning is not always followed all the time for all the roots and often, the choice of the ending depends upon other factors like meter or style of the author etc. Hence, the distinction is mainly in form for most of the roots. For e.g, we saw that both भजामि and भजे are used interchangeably in bhajanas and do not have any differences in meaning. The choice of usage depends more on meter and style rather than meaning.
+
+[](https://substackcdn.com/image/fetch/$s_!-HgT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d69d556-006e-4675-9809-79626feb1ab4_1588x878.png)
+
+![](https://substackcdn.com/image/fetch/$s_!-HgT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d69d556-006e-4675-9809-79626feb1ab4_1588x878.png "Screenshot 2025-11-06 at 21.46.23.png")
+
+There are few verbs however where the distinction between the parasmaipada and ātmanepada endings always signifies the intended difference in meaning. It is the root यज् which means to sacrifice.
+
+> ब्राह्मणः यजति *The brahmin sacrifices on behalf of someone else*  
+> ब्राह्मणः यजते *The brahmin sacrifices for himself*
+
+This root related to performance of the vedic sacrifices always has a clear sense of distinction in meaning between its parasmaipada and ātmanepada forms.
+
+[](https://substackcdn.com/image/fetch/$s_!1qI_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb46f2c99-5cfb-476c-a611-7700ce0b6a41_1628x898.png)
+
+![](https://substackcdn.com/image/fetch/$s_!1qI_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb46f2c99-5cfb-476c-a611-7700ce0b6a41_1628x898.png "Screenshot 2025-11-06 at 21.46.47.png")
+
+Another such verb where the meaning distinction is made clearly is the root वह्. The root वह् which means to drag or ride too has a subtle distinction in meaning.
+
+> नरः वहते The man rides *(drives himself)*  
+> महिला वहति (सारथिः वहते) *The woman rides (The driver is driving)*
+
+This root related to riding vehicles always has a clear sense of distinction in meaning between its parasmaipada and ātmanepada forms depending on whether the person is driving the vehicle himself or has somebody else driving.
+
+[](https://substackcdn.com/image/fetch/$s_!7xBx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F883992a3-16a5-4f9e-90d7-e036936b914d_1618x904.png)
+
+![](https://substackcdn.com/image/fetch/$s_!7xBx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F883992a3-16a5-4f9e-90d7-e036936b914d_1618x904.png "Screenshot 2025-11-06 at 21.47.23.png")
+
+Another famous root that takes both endings in जयति (जयते) which means defeating or winning over. The former is used for individuals whereas the later is usually used for abstract principles.
+
+[](https://substackcdn.com/image/fetch/$s_!CZZY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8ed4ae8-64fd-4c2c-a108-692f7c48025f_1620x898.png)
+
+![](https://substackcdn.com/image/fetch/$s_!CZZY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8ed4ae8-64fd-4c2c-a108-692f7c48025f_1620x898.png "Screenshot 2025-11-06 at 21.47.04.png")
+
+Another root where the distinction in meaning exists but is not strictly followed is the familiar verb करोति which has कुरुते as its form.
+
+> सः करोति *He does*  
+> सः कुरुते *He does for himself*
+
+This verb is irregular and has no ‍न् in the third person plural forms.
+
+[](https://substackcdn.com/image/fetch/$s_!f3Jf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf690ac4-c342-44c8-9979-ee6c4538ceea_1580x916.png)
+
+![](https://substackcdn.com/image/fetch/$s_!f3Jf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf690ac4-c342-44c8-9979-ee6c4538ceea_1580x916.png "Screenshot 2025-11-06 at 21.47.42.png")
+
+Some examples are given below.
+
+[](https://substackcdn.com/image/fetch/$s_!nIpV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf8bfc55-bd72-442e-9c53-aba91911e845_1630x878.png)
+
+![](https://substackcdn.com/image/fetch/$s_!nIpV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf8bfc55-bd72-442e-9c53-aba91911e845_1630x878.png "Screenshot 2025-11-06 at 21.47.59.png")
+
+[](https://substackcdn.com/image/fetch/$s_!7_vv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff78ed3c5-2e0b-449d-8a15-9a7ead2c795a_2048x833.png)
+
+![](https://substackcdn.com/image/fetch/$s_!7_vv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff78ed3c5-2e0b-449d-8a15-9a7ead2c795a_2048x833.png "Screenshot 2025-11-06 at 21.53.59.png")
+
+### Buying & Selling
+
+The parasmaipada verb क्रीणाति means buying but when the prefix वि is added, it becomes ātmanepada as विक्रीणीते and means selling. The PPP is क्रीतः. It is irregular in its ātmanepada conjugation in the sense that it misses the न् in the third person plural like कुरुते.
+
+[](https://substackcdn.com/image/fetch/$s_!Pw7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05b7f165-01dd-4685-b417-2801c5fbc01c_1622x906.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Pw7v!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05b7f165-01dd-4685-b417-2801c5fbc01c_1622x906.png "Screenshot 2025-11-06 at 21.43.34.png")
+
+[](https://substackcdn.com/image/fetch/$s_!5iD9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ac91242-26b7-4f81-b299-fd1674c51ab9_600x382.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!5iD9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ac91242-26b7-4f81-b299-fd1674c51ab9_600x382.heic)
+
+Some other important ubhayapada verbs include :
+
+[](https://substackcdn.com/image/fetch/$s_!GZBE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7eb4a171-cedf-4e6e-b438-bff2225b4845_872x558.png)
+
+![](https://substackcdn.com/image/fetch/$s_!GZBE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7eb4a171-cedf-4e6e-b438-bff2225b4845_872x558.png)
+
+------------------------------------------------------------------------
+
+# Passive Voice
+
+We saw in the chapter on past passive participle that at a later stage, Sanskrit prefers to use passive voice in the past tense using past passive participles. But Sanskrit also has a tendency to use imperatives in passive voice. We have not seen passive verbs at all in this course till now (the participles were technically adjectives). But we will do so now.
+
+For all tenses and moods, that all passive verbs share the same endings as the ātmanepada with an **extra य्**, irrespective of whether the original verb is parasmaipada or ātmanepada. The only thing to look out for except for an optional stem change - passive verbs use the original form of the root (vowel in low grade most of the time, the same as found in the past passive participle) with the lowest grade of the vowel of the root. Some examples:
+
+> कुरुते he/she does, makes  
+> **क्रियते** it is done, is made
+>
+> लभते he gets  
+> **लभ्यते** it is gotten
+>
+> विन्दति finds  
+> **विद्यते** is found
+>
+> आप्नोति obtains  
+> **आप्यते** is obtained
+>
+> पठति reads  
+> **पठ्यते** is read
+>
+> ददाति / दत्ते gives  
+> **दीयते** is given
+>
+> अवगच्छति understands  
+> **अवगम्यते** is understood
+>
+> शक्नोति can / is capable  
+> **शक्यते** is possible
+
+For those rare ātmanepada verbs that already have an extra य् and do not undergo a stem change, the passive is indistinguishable from the active. For example:
+
+> मन्यते thinks  
+> **मन्यते** is thought
+
+[](https://substackcdn.com/image/fetch/$s_!P8q3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0613f002-6597-4d4c-ba6c-62b7053d72f0_2048x1186.png)
+
+![](https://substackcdn.com/image/fetch/$s_!P8q3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0613f002-6597-4d4c-ba6c-62b7053d72f0_2048x1186.png "Screenshot 2025-11-07 at 11.00.44.png")
+
+[](https://substackcdn.com/image/fetch/$s_!z_FF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a1dd15e-0576-4c30-a258-6d6e90e91086_2048x1177.png)
+
+![](https://substackcdn.com/image/fetch/$s_!z_FF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a1dd15e-0576-4c30-a258-6d6e90e91086_2048x1177.png "Screenshot 2025-11-07 at 11.01.07.png")
+
+[](https://substackcdn.com/image/fetch/$s_!ATsb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F336635a4-7aed-4d15-94fb-653255a1f13d_2028x1214.png)
+
+![](https://substackcdn.com/image/fetch/$s_!ATsb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F336635a4-7aed-4d15-94fb-653255a1f13d_2028x1214.png "Screenshot 2025-11-07 at 11.01.32.png")
+
+[](https://substackcdn.com/image/fetch/$s_!dY9e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac1dfa8-e58c-4b0b-9971-68d8ca264c45_2048x1149.png)
+
+![](https://substackcdn.com/image/fetch/$s_!dY9e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac1dfa8-e58c-4b0b-9971-68d8ca264c45_2048x1149.png "Screenshot 2025-11-07 at 11.01.50.png")
+
+Before going further, it is useful to learn an important grammatical concept regarding verbs.
+
+[](https://substackcdn.com/image/fetch/$s_!ReZW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffde5319-9819-44a9-9458-2d228c29645a_2048x1105.png)
+
+![](https://substackcdn.com/image/fetch/$s_!ReZW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffde5319-9819-44a9-9458-2d228c29645a_2048x1105.png "Screenshot 2025-11-07 at 11.18.03.png")
+
+We know in English that the passive voice is used only for transitive verbs, and that in passive voice, the object of the active verb becomes the subject and the subject of the active verb becomes the agent. The same thing happens in Sanskrit’s passive voice as well for Sanskrit verbs.
+
+E.g.
+
+> Active: रामः ग्रन्थं पठति Rāma reads the text  
+> Passive: रामेण ग्रन्थः **पठ्यते** The text **is read** by Rāma
+
+[](https://substackcdn.com/image/fetch/$s_!FvYP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0c0c6b1-2681-425b-91d6-1f73af965c84_2044x1146.png)
+
+![](https://substackcdn.com/image/fetch/$s_!FvYP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0c0c6b1-2681-425b-91d6-1f73af965c84_2044x1146.png "Screenshot 2025-11-07 at 11.18.30.png")
+
+But, Sanskrit also uses passive voice in other unexpected ways, which is for the case of intransitive verbs. When the active verb has no object, English finds it meaningless to put in a passive voice. For example,
+
+> Active: रामः हसति Rāma laughs
+
+English does not have a passive voice form of this above sentence but Sanskrit does. For such objectless active verbs, Sanskrit uses the third person singular form of the passive voice verb as an impersonal passive with a dummy singular subject subject and puts the subject of the active verb as its agent as usual. It is hard to translate this usage into English but it is roughly rendered below even though it is awkward.
+
+> Passive: रामेण हस्यते It is laughed by Rāma
+
+[](https://substackcdn.com/image/fetch/$s_!2u31!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76526c62-01e3-48e7-b088-f0dd71b47f3a_2048x1128.png)
+
+![](https://substackcdn.com/image/fetch/$s_!2u31!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76526c62-01e3-48e7-b088-f0dd71b47f3a_2048x1128.png "Screenshot 2025-11-07 at 11.22.13.png")
+
+So, it is important to realize this usage wherein Sanskrit uses even objectless verbs passively with a dummy third person singular subject.
+
+Some examples for practice are given below :
+
+[](https://substackcdn.com/image/fetch/$s_!xgUT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43872c21-66a5-4bd9-86f1-f233e9fa1307_2048x1152.png)
+
+![](https://substackcdn.com/image/fetch/$s_!xgUT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43872c21-66a5-4bd9-86f1-f233e9fa1307_2048x1152.png "Screenshot 2025-11-07 at 18.12.35.png")
+
+[](https://substackcdn.com/image/fetch/$s_!irhE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ab534b-da04-4c6f-b277-556cd4d5c783_1918x918.png)
+
+![](https://substackcdn.com/image/fetch/$s_!irhE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ab534b-da04-4c6f-b277-556cd4d5c783_1918x918.png "Screenshot 2025-11-07 at 20.32.33.png")
+
+[](https://substackcdn.com/image/fetch/$s_!UaUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ea06aae-3930-4f37-8d43-d47d47a6cdbd_2048x1102.png)
+
+![](https://substackcdn.com/image/fetch/$s_!UaUN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ea06aae-3930-4f37-8d43-d47d47a6cdbd_2048x1102.png "Screenshot 2025-11-07 at 21.42.32.png")
+
+[](https://substackcdn.com/image/fetch/$s_!vHi0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff74c90d0-1b80-4db1-a408-f68a1e17a8f3_1916x1080.png)
+
+![](https://substackcdn.com/image/fetch/$s_!vHi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff74c90d0-1b80-4db1-a408-f68a1e17a8f3_1916x1080.png "Screenshot 2025-11-07 at 20.54.36.png")
+
+Dialectical differences also play in to determine whether a verb is parasmaipada or ātmanepada or ubhayapada. Classical Sanskrit clearly prescribes which type of verb a given root is. But, in Post Vedic Sanskrit and Epic Sanskrit, one sees variant forms often. For example, the root युध् is prescribed as ātmanepada in Classical Sanskrit and only forms like युध्यते are seen in Classical Sanskrit but one sees the parasmaipada forms like युध्यति very often in the epics along with the ātmanepada forms. So, it is better to consider many verbs as potentially ubhayapada, and it is true that in Vedic Sanskrit, there were much more ubhayapada verb roots.
+
+------------------------------------------------------------------------
+
+# For Grammar Nerds : Vowel Gradation
+
+[](https://substackcdn.com/image/fetch/$s_!fg18!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff40bf138-1419-4abf-800b-077b025af71c_1916x1072.png)
+
+![](https://substackcdn.com/image/fetch/$s_!fg18!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff40bf138-1419-4abf-800b-077b025af71c_1916x1072.png "Screenshot 2025-11-07 at 00.27.02.png")
+
+We see that in all the words derived from a root with the vowel ऋ, the consonant of the root remains the same but the vowel ऋ of the root exhibits a three-fold alternation. The entries at the bottom are seen only with roots that end in the vowel ऋ.
+
+[](https://substackcdn.com/image/fetch/$s_!TzPy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb03cf8c6-e2aa-4eb1-be02-6e632847a704_1878x1050.png)
+
+![](https://substackcdn.com/image/fetch/$s_!TzPy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb03cf8c6-e2aa-4eb1-be02-6e632847a704_1878x1050.png "Screenshot 2025-11-07 at 00.27.20.png")
+
+Now, let us go to another family of related vowels.
+
+[](https://substackcdn.com/image/fetch/$s_!_Zs8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff140192e-6384-441a-b830-fa2868e566b7_1928x1078.png)
+
+![](https://substackcdn.com/image/fetch/$s_!_Zs8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff140192e-6384-441a-b830-fa2868e566b7_1928x1078.png "Screenshot 2025-11-07 at 00.27.42.png")
+
+We see that in all the words derived from a root with the vowel इ/ई, the consonant of the root remains the same but the vowel इ/ई of the root exhibits a three-fold alternation. The entries at the bottom tend to be seen only with roots that end in the vowel इ/ई.
+
+[](https://substackcdn.com/image/fetch/$s_!OXgp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c9e5b3c-7165-47d1-a91f-1b84fa2aec93_1878x1038.png)
+
+![](https://substackcdn.com/image/fetch/$s_!OXgp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c9e5b3c-7165-47d1-a91f-1b84fa2aec93_1878x1038.png "Screenshot 2025-11-07 at 00.28.03.png")
+
+Now, let us go to another family of related vowels.
+
+[](https://substackcdn.com/image/fetch/$s_!iZRl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7fcf4d5-5850-487e-abc2-2554a4fb17b3_1930x952.png)
+
+![](https://substackcdn.com/image/fetch/$s_!iZRl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7fcf4d5-5850-487e-abc2-2554a4fb17b3_1930x952.png "Screenshot 2025-11-07 at 00.28.24.png")
+
+We see that in all the words derived from a root with the vowel उ/ऊ, the consonant of the root remains the same but the vowel उ/ऊ of the root exhibits a three-fold alternation. The entries at the bottom are seen only with roots that end in the vowel उ/ऊ.
+
+[](https://substackcdn.com/image/fetch/$s_!-S1Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f7b548a-a14e-4775-a73b-becb95eb3412_1888x1034.png)
+
+![](https://substackcdn.com/image/fetch/$s_!-S1Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f7b548a-a14e-4775-a73b-becb95eb3412_1888x1034.png "Screenshot 2025-11-07 at 00.28.42.png")
+
+Now, let us go to the last family of related vowels.
+
+[](https://substackcdn.com/image/fetch/$s_!Zk3_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89479e68-3c06-4951-8dc9-465498141ed7_1902x944.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Zk3_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89479e68-3c06-4951-8dc9-465498141ed7_1902x944.png "Screenshot 2025-11-07 at 00.29.20.png")
+
+Such kind of vowel changes among related words is new to neither English nor Hindi. It is called vowel gradation. Vowel gradation is not an unfamiliar phenomenon. It is there irregularly as a fringe phenomenon in English and Hindi too. For example, read below.
+
+[](https://substackcdn.com/image/fetch/$s_!Sry3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33092e55-6ea4-4495-8f65-fcfc8c858e30_1822x1046.png)
+
+![](https://substackcdn.com/image/fetch/$s_!Sry3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33092e55-6ea4-4495-8f65-fcfc8c858e30_1822x1046.png "Screenshot 2025-11-07 at 00.29.37.png")
+
+Sanskrit grammarians have classified vowel variations between related words into three categories depending on how wide the mouth has to open. They have not given any name to the lowest grade but the next two successively higher grades are called by the names of *guṇan* and *vṛddhi*. When the root verb is quoted in the dictionary, it is quoted in the low grade. Think of the vowel grades as different flavours of the same type of sound and each word has its own taste by having its own grade of the vowel.
+
+[](https://substackcdn.com/image/fetch/$s_!U9TI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd25096df-a2a5-45c2-abf4-3fc8d147dae9_1896x1082.png)
+
+![](https://substackcdn.com/image/fetch/$s_!U9TI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd25096df-a2a5-45c2-abf4-3fc8d147dae9_1896x1082.png "Screenshot 2025-11-07 at 00.29.56.png")
+
+[](https://substackcdn.com/image/fetch/$s_!tsrs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde6af4ff-30b8-4ab3-bf39-b6029e9f08d6_1908x1022.png)
+
+![](https://substackcdn.com/image/fetch/$s_!tsrs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde6af4ff-30b8-4ab3-bf39-b6029e9f08d6_1908x1022.png "Screenshot 2025-11-07 at 00.30.14.png")
+
+What we see in the sound changes happening while forming a gerund from a present tense verb is that the guṇa grade vowel becomes a low grade vowel.
+
+> Eg. (Vowel grade variation) : PRESENT : **कर्** (guṇa) + ओति → GERUND :
+> **कृ** (low grade) + त्वा.
+
+If you think of vowel grades as different flavours of the same underlying thing, then what we have is that each grammatical form (present tense vis-a-vis gerund/participle etc..) demands that the vowel inside the root verb to be of a particular flavour that it likes. The gerund demands a low grade flavour of the vowel. The present tense verb demands a medium grade of the vowel.
+
+------------------------------------------------------------------------
+
+# Story Time : The Story of Two Āḻvārs
+
+In this section, we will read the story of two of the twelve āḻvārs, who are the celebrated Vaiṣṇavite saints in the Tamil tradition.
+
+First, let us read the story of **Vipranārāyaṇa** (Tamil epithet : **Toṇḍaraḍippoḍi āḻvār)**.
+
+## The Story of Vipranārāyaṇa
+
+[](https://substackcdn.com/image/fetch/$s_!TvRW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23232796-8ba8-4809-9162-57cbe6f497b2_448x992.jpeg)
+
+![undefined](https://substackcdn.com/image/fetch/$s_!TvRW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23232796-8ba8-4809-9162-57cbe6f497b2_448x992.jpeg "undefined")
+
+> #### Introducing Vipranārāyaṇa
+>
+> स्वर्णस्तेयं सुरापानं परस्त्रीगमनं तथा असत्यं प्राणहिंसा च महापापानि पञ्च वै । सदा
+> आचारयुतेन एव कर्तव्यं हरिकीर्तनम् एवं हि सर्वशास्त्रेषु प्रोच्यते\* साधुलक्षणम् । दुराचारः
+> अपि यः भक्त्या करोति हरिकीर्तनम् नामकीर्तनमाहात्म्यात् सदाचारयुतः भवेत्\*\* ।
+> अन्यथा पापिनाम् एषां प्रायश्चित्तम् सुदुष्करम् । अश्रद्धया कृतं च अपि सफलं हरिकीर्तनम् ।
+> कुमार्गगामिनं भक्तं स्वेच्छया वा परेच्छया कृपया स्ववशं कृत्वा धर्मनिष्ठां ददाति सः हरिः
+> । विप्रनारायणः नाम विरक्तः वैष्णवोत्तमः आसीत् श्रीरङ्गनगरे हरिभक्तिपरायणः । सः
+> नित्यं पुष्पकैङ्कर्यं **अकुरुत** रङ्गनाथस्य ।
+>
+> प्रोच्यते\* = it is proclaimed   
+> भवेत्\*\* = might become
+
+> #### Vipranārāyaṇa gets trapped by a prostitute named Devadevī
+>
+> सः **अकुरुत** विमुखः लोके तत्प्रसादेन जीवनम् । ब्रह्मचर्येण सम्युक्तः विषयासक्तिवर्जितः
+> । स्त्रीणां तु वदनं विप्रः कदापि न हि **वीक्षते** । देवदेवी इति विख्याता काचित्
+> वेश्या तु सुन्दरी यदृच्छया\* एव तं दृष्ट्वा **अवर्तत** मदनाकुला । धृत्वा सा वैष्णवीवेषं
+> वेश्या मदनमोहिता यदा वञ्चयति विरक्तं तं अकुरुत स्ववशं बत\*\* । अचिरेण\*\*\* एव
+> कालेन विस्मृत्य जगदीश्वरम् तया **अरमत** सदा विप्रः तस्याः एव गृहे । कदादित् सः
+> निरस्तः अपि क्रुद्धया वेश्यया तया **अशेत** तस्याः गृहद्वारे विरहाकुलमानसः ।
+>
+> यदृच्छया\* = by chance, with spontaneity (spontaneously)  
+> बत\*\* = alas, ouch, aw, oh   
+> अचिरेण\*\*\* = instantly
+
+> #### Lakṣmī intervenes and convinces Nārāyaṇa to rescue their former devotee
+>
+> श्रीभूमिसहितः देवः श्रीरङ्गनाथेश्वरः यदृच्छया एव तं तत्र अपश्यत् निजकिङ्करम्\*
+> “देवदेवी” इति सदा जल्पकं\*\* विमुखं स्वपादाब्जाज्ञातं पूर्वभक्तं । वीथ्यां अचरत् सः
+> किन्तु कारुण्यविवशा श्रीदेवी भक्तवत्सलम् उवाच लोकभर्तारं स्वभर्तारं तदा । “भगवन्
+> करुणासिन्धो , वेद्मि त्वां । भक्तवत्सलम् **उपेक्षसे\*\*\* ;** तथापि\*\*\*\* एनं
+> किमर्थं तव किङ्करम् । पूर्वं हि तव कैङ्कर्यं **अकुरुत** दृढव्रतः । अद्य स्त्रीसङ्गमुग्धात्मा
+> नैव त्वां पश्यति द्विजः" । श्रीभगवान् उवाच "यं यं **कामयते** भक्तः तम् अर्थं साधयामि
+> अहं , उपेक्षा न हि मे देवि , समो ऽहं कल्पवृक्षवत्\*\*\*\*\* ।
+> देवदेवीमुखोल्लासस्मरणाकुलमानसः अयम् विप्रः एव माम् अद्य पुरःस्थितम् उपेक्षते" । श्रीदेवी
+> उवाच "भक्तः तु शुद्धचित्तो ऽयं योषित्सङ्गविमुग्धः विस्मृत्य त्वां जगन्नाथं तत् वियोगेन
+> शोचति । दुर्मार्गगतं हि एवं स्वभक्तं पालय\*\*\*\*\*\* प्रभो । अन्यथा तव कारुण्यं कथं
+> सिध्यति केशव ?" ।
+>
+> किङ्करः\*= यः किमपि करोति = दासः   
+> जल्पकः\*\* = one who speaks or talks incoherently or useless stuff  
+> उपेक्षते\*\*\* **=** neglects   
+> तथापि\*\*\*\* = also even   
+> कल्पवृक्षवत्\*\*\*\*\* = like a wish-fulfilling tree  
+> पालय\*\*\*\*\*\* = you should protect
+
+> #### Nārāyaṇa gives his golden vessel to Devadevī
+>
+> इति सम्प्रार्थितः देव्या भगवान् भक्तवत्सलः सद्य\* एव कृपासिन्धुः देवदेव्याः गृहं गतः ।
+> पात्रं हिरण्यमयं दत्त्वा अतोषयत् तां निशायाम् । “क्षिप्रम् आह्वय तं विप्रम्” इति उक्त्वा
+> प्राप्नोत् च आलयम् । सा ऽपि तं गृहम् आहूय **अरमत** वैष्णवं । अजानात् तत्प्रभावं सा
+> मत्वा तं काममोहितम् । प्रभाते रङ्गनाथस्य पात्रं तत्र न विद्यते । एतत् श्रुत्वा महाराजः
+> कुपितः प्राप्नोत् मन्दिरम् । सकलान् भृत्यान्\*\* तर्जयित्वा\*\*\* अपृच्छत् पृथिवीपतिः
+> । पात्रं न्यवेदयत् काऽपि देवदेवीगृहस्थितं । अगदत्\*\*\*\* सा ऽपि
+> गणिका\*\*\*\*\*\* “विप्रः अयं प्राददात् पात्रं” इति । सः गृहीतः महात्मा च
+> विप्रनारायणः तदा । कारागृहे\*\*\*\*\* स्थापयित्वा तं विप्रं वैष्णवोत्तम्
+> चिन्ताकुलमानसः राजः निद्रां अगच्छत् निशान्तरे ।
+>
+> सद्य\* = immediately, soon  
+> भृत्यः\*\* = servant / worker / attendant   
+> तर्जयति\*\*\* = reprimands, scolds, threatens  
+> गदति\*\*\*\* = narrates   
+> कारागृहम्\*\*\*\*\* = prison  
+> गणिका\*\*\*\*\*\* = prostitute
+
+> #### Vipranārāyaṇa remembers his Lord Nārāyaṇa again
+>
+> तदा रङ्गपतिः स्वप्ने प्रादुर्भूय\* नरेश्वरस्य मेघगम्भीरया वाचा **अभाषत** भक्तवत्सलः
+> “अहम् एव हि मत्पात्रं मद्भक्ताय **अदत्त** इह । विप्रं विमोचय\*\* क्षिप्रं , चिन्तां
+> मा कुरु\*\*\* पार्थिव ।” इति एतत् भगवद्वाक्यम् आकर्ण्य\*\*\*\* मनुजेश्वरः तं विप्रं
+> सहसा प्राप्य भीतभीतः **अवन्दत** । स्वस्वप्नविषयं सर्वं तस्मै राजा न्यवेदयत् । संस्मृत्य
+> करुणां नारायणस्य विप्रः दुःखितः अभवत् । पश्चात् तापेन सम्युक्तः नितरां\*\*\*\*\*
+> लज्जितः द्विजः वेश्यासङ्गं परित्यज्य सत्सङ्गं पुनः **अलभत** सः । एवं स्वभक्तं पतितं
+> भवकूपे यदृच्छया उद्धृत्य करुणासिन्धुः हृष्यति श्रियःपतिः । “न मे भक्तः नश्यति” इति
+> प्रतिज्ञायां कृतायां कुतः भयम्?
+>
+> प्रादुर्भवति = revealed, appeared, manifested   
+> विमोचय\*\* = you should release   
+> चिन्तां मा कुरु\*\*\* = don’t worry  
+> आकर्णयति\*\*\*\* = listens (lit : \[give\] ear)  
+> नितरां\*\*\*\*\* = completely
+
+## The Story of Godā
+
+Now, read the story of the Tamil saint Āṇḍāḷ and understand what is happening here. Whatever vocabulary is in stars, they are parsed after the paragraph.
+
+[](https://substackcdn.com/image/fetch/$s_!1mUH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbecbb2a3-9f41-4eb8-92c6-c0a898bc30ea_299x403.jpeg)
+
+![undefined](https://substackcdn.com/image/fetch/$s_!1mUH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbecbb2a3-9f41-4eb8-92c6-c0a898bc30ea_299x403.jpeg "undefined")
+
+> #### Godā’s relatives and friends make fun of her
+>
+> श्रीसद्गुरुः (the narrator) उवाच  
+> विष्णुचित्तात्मजां गोदां गोविन्दे कृतनिश्चयाम् विलोक्य बान्धवाः सर्वे अनिन्दन् अनेकधा\*
+> ।
+>
+> बान्धवाः ऊचुः  
+> इयं कमलपत्राक्षी गोदा संपूर्णयौवना सदा क्रीडति बाला इव लोकधर्मं न वेत्ति च । “कृष्ण
+> कृष्ण” इति सदा गायति सखीजनसमन्विता । इतस्ततः सञ्चरति नित्यं स्वच्छन्दचेष्टिता ।
+> श्रीकृष्णम् एव पतिम् इच्छति, वरम् अन्यं तु न इच्छति । कथं वा शक्नोति एषा प्राप्तुं
+> भर्तारम् अच्युतम्? अस्याः विवाहः कर्तव्यः बलात्कारेण सांप्रतम्\*\* । विष्णुचित्तेन तथा
+> अयं न करोति च । सदा रोदिति “कृष्ण” इति विरहातुरमानसा । नूनम् एषा किल उन्मत्ता
+> क्रूरग्रहनिपीडिता तस्मात् एव हि कन्या इयं स्वच्छन्दं **वर्तते** सदा । अनया
+> क्रियते\*\*\* नूनम् अस्माकं कुलदूषणं स्वातन्त्र्यं न नु नारीणाम् उचितं न कदाचन । कुलधर्मम्
+> अविज्ञाय पिता मौनेन **वर्तते** । वयम् एव समाहूय वैद्यान् मान्त्रिकान् अपि चिकित्सां
+> कारयामः गोदायाः प्रेमपूर्वकम् ।
+>
+> अनेकधा\* = in many ways, variously   
+> सांप्रतम्\*\* = now itself   
+> क्रियते\*\*\* = is done, is made
+
+> #### Godā reprimands her friends
+>
+> श्रीसद्गुरुः उवाच  
+> इति निश्चित्य ते सर्वे बान्धवाः लौकिकाः बत आनीय मान्त्रिकान् च अकुर्वन्
+> देवतान्तरपूजनम् । तथा वैद्यम् आहूय पित्ताधिक्यं परीक्ष्य च औषधं विविधं दत्वा अकुर्वन् एवं
+> च भर्त्सनम्\* । विष्णुचित्तात्मजा गोदा विमुखी बान्धवेषु अपि उवाच क्रोधसंयुक्ता
+> कृष्णभक्तिपरायणा ।
+>
+> गोदा उवाच  
+> चिकित्सा वैद्यराजेन किं वृथा\*\* क्रियते मम? हर्तुं न शक्नोति कःअपि रोगम् एनं सुदुःसहम्
+> । मम भावम् अविज्ञाय जपन्ति किल मान्त्रिकाः । क्व देवाः तु अल्म्पसामर्थ्याः क्व
+> नन्दात्मजः हरिः ? न स्मरामि अन्यदेवं च क्षुद्रं क्षुद्रफलप्रदम् । अहम् अस्मि हरिदासी
+> कृष्णस्य परमात्मनः । उपायम् इह वक्ष्यामि\*\*\* रोगस्य शमनाय मे। “कृष्ण कृष्ण कृष्ण”
+> इति सङ्कीर्तनं करणीयं सुस्वरं । आनीय वनमालां च तत्सम्बन्धसुगन्धिताम् । कण्ठे धारणं
+> करणीयं क्षिप्रं मम बान्धवैः । नूनं हि भगवान् एव मम तु प्राणवल्लभः । त्यजामि जीवितं च
+> अपि मर्त्यस्य अन्यस्य कीर्तनात् । अनुसृत्य च मद्भावं कर्तव्यं हरिकीर्तनम् । अथवा गच्छन्तु
+> भवन्तः हि मम शत्रवः\*\*\*\* ।
+>
+> भर्त्सनम्\* = threat, scolding  
+> वृथा\*\* = in vain  
+> वक्ष्यामि\*\*\* = I will tell  
+> अथवा गच्छन्तु भवन्तः हि मम शत्रवः\*\*\*\* = otherwise, you all should go,
+> you are only my enemies
+
+> #### Kṛṣṇa steals Godā’s clothes while she bathes with her friends
+>
+> श्रीसद्गुरुः उवाच  
+> इति उक्त्वा प्रेमतापेन सहसा मूर्च्छिता अभवत् । तां विलोक्य तदा सर्वे पर्यहसन् ।
+> बान्धवेषु गतेषु एवं भर्त्सितेषु च गोदया सान्त्वं **अवर्तत** तां कन्यां महामनाः ।
+>
+> विष्णुचित्तः उवाच  
+> शोकं मा कुरु गोदे त्वं , वृथा निन्दन्ति बान्धवाः । पाणिं गृह्णातु ते कृष्णः भगवान्
+> भक्तवत्सलः । राघवेण यथा सीता, वासुदेवेन यथा रुक्मिणी, त्वं रङ्गनाथेन सुखं प्राप्नुहि
+> सुन्दरि । वशं कुरु तम् एव त्वं , परया प्रेमनिष्ठया । सः नूनं तव गोविन्दः करिष्यति
+> मनोरथं यः नित्यं **रमते** विष्णुः कावेरीपुलिने प्रभुः । सः एव यमुनातीरे **रमते**
+> गोपिकाजनैः नित्यं प्रत्युषसि प्राप्ते\* समुत्थाय सखीजनैः कीर्तय हरिनाम च पूजय कृष्णं च
+> ।
+>
+> श्रीसद्गुरुः उवाच  
+> इति उक्ता विष्णुचित्तेन गोदा कृष्णैकमानसा कात्यायनी व्रतम् **अकुरुत** यत् गोपिकाभिः
+> अनुष्ठितम् । आत्मानं अभावयत् राधिकां प्रेमरूपिणीम् । गोपीभावेन च अपश्यत् तथा
+> निजसखीजनम् । एवं धन्विपुरीं पुण्यां स्मृत्वा गोपपुरीम् अपि व्रतम् आचरत् सानन्दं\*\*
+> कृष्णभक्तिपरायणा । नीला-तुङ्ग-स्तन-तटी-सुप्तम् आगम्य माधवम् अपूजयत् विधिवत् प्रेमपूर्वं
+> दिने दिने । गोपीभावविमुग्धां तां गोदां गोकुलनन्दनः यदा सा यमुनास्नानं करोति, अपश्यत्
+> स्वसखीजनैः, शनैः आगम्य गोविन्दः वस्त्राणि आदाय सत्वरम् तीरस्थं नीपम्\*\*\* आरुह्य
+> परिहासं अकरोत् सः । तं दृष्ट्वा लज्जया गोदा सखीभिः च समावृता कण्ठदग्धजला कृष्णम्
+> अयाचत् मधुरं मृदु ।
+>
+> प्रत्युषसि प्राप्ते\* = after sun has risen  
+> सानन्दं\*\* = with happiness  
+> नीपः\*\*\* = downwards
+
+> #### Godā realises it was a dream & asks nature to summon Kṛṣṇa to her
+>
+> गोदा उवाच  
+> श्यामसुन्दर ते प्रीतिं करोमि न संशयः । देहि वस्त्राणि गोविन्द । आगताः वयं स्मः कृष्ण
+> पूर्वं कुक्कुटकूजनात्। भगवान् उदितः सूर्यः । इतः परं वयं च अत्र न आयामः जनार्दन ।
+> त्वाम् अविज्ञाय तीरे स्नानं कृतं प्रभो । निन्दन्ति बान्धवाः नूनं त्वाम् एव अनेन कर्मणा ।
+> अधर्मः अयं महान् कृष्ण , त्वं न जानासि माधव?
+>
+> श्रीसद्गुरुः उवाच  
+> इति उक्तः नन्दबालः च प्राहसत् पद्मलोचनः । तीरम् आनीय ताः सर्वाः अददात् वस्त्राणि
+> लीलया । परिधाय स्ववस्त्राणि ताः कन्याः लज्जया अन्विताः गोविन्दम् एव सानन्दं
+> अपश्यन् प्रेमपूर्वकम् । एवं स्वप्ने विलोक्य एषा हरिमधुरचेष्टितम् । परमानन्दसम्युक्ता सर्वं
+> जनकम् न्यवेदयत् । विष्णुचित्तः अपि तत् श्रुत्वा बाष्प-सुस्निग्ध-लोचनः । “प्रसादसूचनं च
+> **एतत् विद्धि**” इति प्रत्युवाच ताम् । गोदा अपि यदा सन्ततं शौरैः अकीर्तयत् गुणान्
+> शुभान् तदा तस्मिन् रतिम् **अकुरुत** सुदृढां नन्दनन्दने । श्रीकृष्णविरहेण एव दीना
+> चिन्तातुरा अभवत् । सन्ततं या प्रालपत् नामानि जगदीश्वरस्य पांसु-गुण्ठित-सर्वाङ्गी
+> कृतजागरणव्रता अरोदत् नितरां गोदा निशासु स्थशायिनी । अहः निशं प्ररुदति
+> श्रीकृष्णविरहेण ; सा संप्रापत् परमं कार्श्यम्\* ; अन्नपानादिवर्जिता मूर्छाम् अवाप्नोत्
+> सा देवी विरहेण मुहुर्मुहुः । सखीभिः सान्त्विता रात्रौ\*\* क्वचित् उत्थाय धावति
+> विष्णुचित्तात्मजा गोदा विरहेण एव पीडिता । आक्रन्दति सदा कृष्णं गोविन्दं प्राणवल्लभम्
+> ।
+>
+> गोदा उवाच  
+> मेघ श्रीमन् स्वागतं ते, पानीयं त्वया बाष्पोदकं मम । गत्वा गोवर्धनं शीघ्रं मद्दृशां वद
+> शौरये\*\*\* मधुरं कृष्ण कृष्ण इति कीर्तय त्वं, शुकोत्तम । कदलीफलसंयुक्तं ददामि मधुरं पयः
+> झङ्कारं च वृथा कृत्वा भ्रमसि त्वम् इतस्ततः। शीघ्रं बृन्दावनं गत्वा भृङ्ग\*\*\*\* माधवम्
+> आनय । वीरमान्य असि नूनं त्वं शोषितं मां तु विध्यसि पञ्चबाण प्रियं कृष्णं बद्धम् आनय मम
+> अन्तिकम् । यदा गोपीः पशयति, त्वं पिबसि अधरामृतम् ; पाञ्चजन्य नमस्ते त्वम् एव ननु
+> भाग्यवान् मयूर माधवं गत्वा मद्दृशां मधुरं वद । किं वृथा नटनं रम्यं करोषि मम
+> सन्निधौ\*\*\*\*\* । प्रिय प्रिय इति मधुरं कूजसि त्वं च कोकिल । प्रियम् आनय मे
+> शीघ्रं बृन्दावनचरं प्रभुम् । कृष्णसार (dark-spotted deer) त्वाम् आगच्छ कथां मे श्रुणु
+> सादरम् । कृष्णाह्वयेन केन अपि वञ्चिता प्रलपामि अहं ।
+>
+> … **एतत् विद्धि** = Know this as …   
+> कार्श्यम्\* = thinness  
+> रात्रौ\*\* = at night   
+> शौरये\*\*\* = to \[my\] hero  
+> भृङ्गः\*\*\*\* = bee  
+> सन्निधौ\*\*\*\*\* = in \[my\] side
+
+> #### Godā puts a garland on her own body and gives it to Kṛṣṇa
+>
+> श्रीसद्गुरुः उवाच  
+> इति गोविन्दविरहात् नितरां पीडिता सदा प्रालपत् कृशाङ्गी सा गोदा कृष्णैकमानसा ।
+> असान्त्वयत् तां कन्यां विष्णुचित्तः कृपानिधिः तादृशीं भक्तिम् आलोक्य तस्याः हर्षम्
+> अवाप्नोत् सः । तथा अपि विष्णुचित्तः अपि स्वसुतायाः मनोरथः कथं स्यात्\* सफलः
+> शीघ्रम् इति चिन्तातुरः अभवत् । माघमासे पौर्णमास्याम् **अकुरुत** मन्मथपूजनम् । व्रतानि
+> विविधानि एवं कृत्वा कार्श्यम् अवाप्नोत् सा किन्तु प्राणप्रियं कृष्णम् अनालोक्य एव
+> दुःखिता ।
+>
+> अनूरुसारथौ प्रातः प्राचीं दिशम् उपागते गोदा पुष्पवनं गत्वा अगृह्णात् कुसुमानि
+> नानाविधानि पुष्पानि नानागन्धयुतानि च । गोदां दृष्ट्वा हसन्ति स्म स्वसखीदर्शनात् इव
+> । कुसुमेषु गृहीतेषु तत्रत्याः भ्रमराः तदा झङ्कारनादं कुर्वन्ति यदा तत् वेणीं प्राप्नोत्
+> आदरात् । यदा कृष्णनामानि गायति तदा इतस्ततः सञ्चरति यमुनावनम् । आहृत्य सकलं पुष्पं
+> समागत्य च वेदिकाम्\*\* अकरोत् महतीं मालां विचित्रां दर्शनप्रियाम् । एवं पञ्चविधं पुष्पं
+> क्रमेण एव निबध्य सा तदा अकुरुत विष्णुचित्तात्मजा मुदा । यदा धारयति स्वयं गोदा तां
+> मालां प्रेमपूर्वकं आत्मानं मुकुरे\* दृष्ट्वा समप्राप्नोत् परमां मुदम् । निजसौन्दर्यसंमुग्धा
+> अचिन्तयत् माधवम् । अपि स्याम्\*\* सदृशी तस्य नन्दनसुतस्य इति स्वयम् । कण्ठात् विमुच्य
+> तां मालां पेटिकायां निधाय च प्राददात् विष्णुचित्ताय प्रेमपूरितमानसा ।
+>
+> स्यात्\* = may it come to be   
+> वेदिका\*\* = altar
+
+> #### The Priest Reprimands Godā but Bhagavān Wants Only Her Mālā
+>
+> विष्णुचित्तः अपि तां मालाम् आदाय च यथाविधि गोविन्दमन्दिरं गत्वा अपि अर्चकेभ्यः
+> अददात् मुदा । तां मालाम् अर्चकाः दृष्ट्वा केशपाशसमन्विताम् महाकोपेन युक्ताः प्राददुः
+> भट्टसूरये । विष्णुचित्तः अपि सक्लेशम् आगत्य भवनं स्वकं गोदाम् आनीय तर्जयति स्म संभ्रमात्
+> । मालाम् अन्यां विधाय अपि विष्णुचित्तः ससंभ्रमम् गत्वा कृष्णालयं शीघ्रम् अर्पयति स्म
+> मालिकां । तस्यां तु धार्यमाणायां मालायां माधवः स्वरम् अवदत् अर्चकाविष्टः मेघगम्भीरया
+> गिरा ।
+>
+> श्रीभगवान् उवाच  
+> न मे बहुमतं नव्यं माल्यम् एतत् महामते । गोदाकुन्तलसौगन्ध्यसंयुक्तम् माल्यम् आहर । समर्पितं
+> प्रीतिपूर्वम् गोदया पिर्यया मम विष्णुचित्त तत् एव इह माल्यम् आनय सत्वरम् ।
+> विष्णुचित्त, न जानासि कोमलं हृदयं मम। वशं गतः अस्मि अहं ते पुत्र्यः स्वतन्त्रः अपि
+> प्रियादहम् ।
+>
+> श्रीसद्गुरुः उवाच  
+> इति उक्तः विष्णुचित्तः अपि कृष्णेन वनमालिना आनन्दसंभ्रमोद्वेगात् अधावत् भवनं प्रति ।
+> गोदा या रोदिति स्म तां असान्त्वयत् । क्षिप्रम् आनीय मालिकां अर्पयति स्म कृष्णाय
+> भट्टनाथः च सादरम् । सर्वे जनाः विलोक्य एतत् वि‍चित्रं कृष्णचेष्टितम् अस्तवीत्
+> विष्णुचित्तस्य सुतां गोदां हरिप्रियाम् । महात्मा विष्णुचित्तः अपि कृष्णस्य वचनात् तथा
+> विज्ञाय गोदाम् आहात्म्यं परमानन्दम् आप्नोत् सः । सप्रेमपश्चात् तापेन सम्युतः असान्त्वयत्
+> गोदां च या अरोदत् विरहात् नारयणात् ।
+>
+> मुकुरः\* = bud  
+> स्याम्\*\*= I may be
+
+> #### Viṣṇucitta Apologises to His Daughter Godā
+>
+> विष्णुचित्तः उवाच  
+> माहात्म्यं न एव जानामि तव कृष्णमनोहरि बाल्यात् आरभ्य ते भक्तिं दृष्ट्वा अपि च महात्मजे
+> । वात्सल्यप्रेमपाशेन निबद्धं हृदयं मम । तस्मात् एव न वेद्मि त्वाम् अवतीर्णाम् अयोनिजाम्
+> । अपचारभयात् एव निन्दीता असि कन्ये क्षमां कुरु । वशं गतः मुकुन्दः ते
+> ब्रह्मरुद्रादिदुर्लभः , धन्यः अस्मि तादृशः विष्णुः जामाता\* मे भविष्यति (will be)।
+>
+> श्रीसद्गुरुः उवाच  
+> इति उक्त्वा विष्णुचित्तः अपि रुद्धकण्ठः अरोदत् च । असान्त्वयत् तं गोदा पितरं
+> लोकपूजितम् ।
+>
+> गोदा उवाच  
+> किं रोदिषि महाबुद्धे , त्वमेव जनकः मम । शिक्षिता अस्मि यथा न्याय्यं कर्तुं दास्यं
+> रमापतेः । न मे अस्ति क्रोधलेशः\*\* अपि त्वयि\*\*\* भागवतोत्तमे । भवत्प्रसादात् मे
+> नूनं श्रीकृष्णानुग्रहः भवति । यदि अस्ति प्रेम माधुर्यं यत् किञ्चित् हृदये मम , त्वम् एव
+> कारणं तत्र तातपाद नमोस्तु ते ।
+>
+> श्रीसद्गुरुः उवाच  
+> इति उक्त्वा असान्त्वयत् पितरं वैष्णवोत्तमम् कृष्णस्य महिषी गोदा प्रेमपूर्वकम् ।
+>
+> जामाता\* = son-in-law  
+> लेशः\*\* = small portion   
+> त्वयि\*\*\* = in you
+
+------------------------------------------------------------------------
+
+To read the next article in this series, click below
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-6ce)
+
+![Learn Sanskrit to Read Ancient Texts : Lesson 9 : History & The Distant Past Tense](https://substackcdn.com/image/fetch/$s_!9rzg!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dd3f525-7485-461b-a247-b8d6a18e840a_1416x857.jpeg)
+
+#### Learn Sanskrit to Read Ancient Texts : Lesson 9 : History & The Distant Past Tense
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran) and [CSHC](https://substack.com/profile/238353714-cshc)
+
+·
+
+Apr 18
+
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-sanskrit-to-read-ancient-texts-6ce)
+
+Read full story
+
+5
+
+2
+
+Share
