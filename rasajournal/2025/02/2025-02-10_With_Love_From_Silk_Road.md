@@ -1,0 +1,94 @@
++++
+title = "With Love, From Silk"
+full_title = "With Love, From Silk Road"
+upstream_url = "https://rasajournal.substack.com/p/with-love-from-silk-road"
+date = "2025-02-10"
++++
+Source: [here](https://rasajournal.substack.com/p/with-love-from-silk-road).
+
+With Love, From Silk Road
+
+[Rasa World](https://rasajournal.substack.com/s/rasa-world/?utm_source=substack&utm_medium=menu)
+
+# With Love, From Silk Road
+
+### What the Uzbek dancing traditions and a Sufi poet can teach us about human emotions.
+
+[](https://substack.com/@rasajournal)
+
+![Garima Garg's avatar](https://substackcdn.com/image/fetch/$s_!h9ms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)
+
+[Garima Garg](https://substack.com/@rasajournal)
+
+Feb 10, 2025
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+2
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+7
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+2
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!TRu2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb574a887-03c0-4c22-b19c-41d36e155782_1434x804.heic)
+
+![](https://substackcdn.com/image/fetch/$s_!TRu2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb574a887-03c0-4c22-b19c-41d36e155782_1434x804.heic)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+*Lazgi, the Uzbek dance from the Khorezm region. Photo courtesy: [Elle Uzbekistan](https://elleuzbekistan.com/en/lazgi-the-dance-of-soul-and-love/).*
+
+In Uzbekistan, there exist three major dancing traditions. The first comes from the beautiful Ferghana Valley and in this tradition, the dancer’s movements reflect how humans interact with nature. From picking grapes, feeding mulberry leaves to silkworms, unspooling silken threads from the cocoons of the worms, and weaving the threads— all of these are reflected in how the women perform the dance steps. Next up is the Bukhara tradition which has many similarities with the Indian dance of Kathak with its mudras, wearing heavy anklets, and the tribhanga pose which includes three bends at the knee, waist, and the neck to create a curve of the body. Finally, there is the Khorezm tradition which is rooted in the ancient sacred going back to the time of goddess Anahita and Zoroastrianism.
+
+Laurel Victoria Gray writes of all these and a lot more in her book, Women's Dance Traditions of Uzbekistan: Legacy of the Silk Road (Bloomsbury, 2024), and of the Khorezm tradition, she writes, “*As explained by an Uzbek woman who grew up in a Khorezm region village, “our eastern dances use movements of the arms and the head and facial expressions to tell the story of our lives and our culture: about picking cotton, weaving carpets, about our gardens and our vines. These dances express the states of the soul—both joy and sadness.” Or, as one Uzbek diplomat disclosed, there is a saying that if “people live to dance, Uzbeks dance to live.”*” The Uzbeks have often endured the hardships of brutal winters and wars but they have somehow made them livelier.
+
+The more I read, the more I wonder why human beings are obsessed with telling their stories especially since the essential nature of these stories remains the same across ages and cultures. Every human being has known similar realities— an unknowable but felt divine and fate, a knowable and life-sustaining nature, and emotions through which we straddle between the unknown and known. From the ancient religions to the most intricate art forms, most of our collective human heritage seems to rest on the foundation of emotions. The emotions of joy and sorrow, uncertainty and faith, beauty and monstrosities, and so on, all point to a universality of human experiences. And these emotions, as moving or overwhelming as they might feel, are often ephemeral. But we tell our stories because they express our existence. It is a vital human instinct to feel seen, heard, and known, even if it’s all the same it has ever been. In telling our stories, we are at once ourselves and a part of the world beyond us.
+
+But today, our emotions are not as much of an experience as they are events. Many of our emotions can now be recorded in form of photos, texts, and videos and shared with others digitally. Because of this, emotions can become both bigger or smaller than they are but they almost always warp our stories. Social media today is an overload of personal stories but despite the “likes”, “shares”, and “comments”, this form of storytelling with fellow human beings seems to miss out on much that is essential to human emotions.
+
+A case in point is the emotion of “trauma”. The term was [popularised](https://heterodoxacademy.org/blog/seizing-means-knowledge-production/) by anti-war psychiatrists during the Vietnam War in 1970s who sought to ground their opposition of the war in their work and that is when the term, post-traumatic stress disorder or PTSD, entered the lexicon too. In post-Covid era, the term has gained a new currency with the work of Canadian physician, Gabor Maté. No doubt life is traumatising— we don’t know why we exist, what misfortune might befall us out of nowhere, or what is the purpose of our relentless suffering. No doubt everyone feels traumatised by life. But instead of catharsis and growth, modern day stories of trauma have many locked into their suffering even more deeply. These stories, shared with therapists, social media network, or family and friends, often become performances of their own kind. They don’t have the gentleness of a Ferghana dance but the jagged bluntness of one perspective over others. These stories do not have the charm of a Bukhara dance but a glossed over victimhood. And ofcourse, they have none of that letting go that one can spot in the Khorezm dancers.
+
+But fret not. Rumi, the Sufi poet of love, as he is described by Brad Gooch in his book, Rumi’s Secret (Harper, 2017), might have a way out. Born in present day Afghanistan and during the reign of Khwarazmshah, Rumi spent his early childhood in Samarkand, the dazzling ancient city of Uzbekistan. Son to a theologian, he became a preacher initially and settled down in a marriage through which he had two sons. However, his first love was poetry which became exceedingly more prominent after he met Shams of Tabriz, his mentor and a companion. Their unconventional relationship was often the talk of the town but it was also the trigger for much of Rumi’s acclaim as a poet then and now. In any case, he wrote about love among other things and in one of the translated couplets from Gooch’s book, he says,
+
+*“The hero gives a wooden sword to his son  
+Until he learns to use a real battle sword   
+Human love is a wooden sword  
+Until he learns to battle hurt with mercy”*
+
+The poet too has “gone viral” in recent times but not many know that his poetry was often directed towards his experience of the divine. But despite the abundant mysticism of his poetry, he expressed something essential and almost practical too— love as the emotion of understanding, acceptance, and forgiveness. Comparing life and human relationships to an armed battle, he talks about mature love as the ability to not respond to negativity with more negativity. In fact, for him, it is the ability to show patience and calm in such moments that hints at love. Through this, Rumi hints at the grounded awareness of the adult rather than the child-like self-absorption as the true definition of love.
+
+The fast pace of communication today in form of instant texts and video calls prevents this kind of pause to respond from ever occurring. With screens, the communication also becomes more and more flattened out, taking away the important non-verbal cues out of a conversation. It doesn’t help that we also now live in a society that glorifies and even facilitates self-absorption to the point of narcissism.
+
+Yet, it is in the pause to respond to one’s hurt that one can open up a world of other emotions not just within oneself but others too. Because the pause is much more than just that, it is the grace and willingness to see beyond the apparent, a tendency which is usually seen as “spiritual”. Because of course, reality is never just one’s version of it but several people’s versions colliding into each other all the time. It is in seeing this web of diverse realities that we can begin to glean something about being human and our emotions. It is only in doing so that we can loosen our grip on our insecurities, hurt, and anger.
+
+The modern world celebrates 14th February as the day of love but seems oblivious to much about it. From the Uzbek men and women who danced despite their sadness and anguish to the Sufi poet whose experience of love was rather mystical, the modern discourse about emotional intelligence can gain much from seeing life (and love) as ephemeral. Not in the sense that our lives and our stories are short-lived, which they are, but that anything anyone has ever experienced has been experienced countless times before we were born and will be experienced just as many times after we are long gone. This means that our specific perceptions, especially the immediate ones, are often just illusions. The task of being human is to consistently deepen and widen our perceptions to reveal more and more realities. This is obviously easier said than done but that is why it is all the more necessary, especially in this age of instant gratification.
+
+Love is not about being more special than others but being as special as anyone ever. That is fatal to our personal egos but that is the point. Without this, we can never truly feel or understand emotions, not ours and most certainly not anyone else’s. Without this, not only can there be no dance or poetry but there can be no joy, beauty, and warmth either. And so, here‘s some beautiful Uzbek dancing for inspiration this month.
+
+# An error occurred.
+
+Unable to execute JavaScript.
+
+*You may be interested in my interview with Laurel Victoria Gray about her book, Women’s Dance Traditions of Uzbekistan, for New Books Network [here](https://newbooksnetwork.com/womens-dance-traditions-of-uzbekistan).*
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+2
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+7
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+2
+
+Share

@@ -1,0 +1,201 @@
++++
+title = "Razib Khan's"
+full_title = "Razib Khan's Unsupervised Learning"
+upstream_url = "https://www.razibkhan.com/p/nicola-buskirk-old-books-for-a-new"
+date = "2023-07-21"
++++
+Source: [here](https://www.razibkhan.com/p/nicola-buskirk-old-books-for-a-new).
+
+Razib Khan's Unsupervised Learning
+
+[![Razib Khan's Unsupervised Learning](https://substackcdn.com/image/fetch/$s_!Q7d-!,w_144,h_144,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)](https://www.razibkhan.com)
+
+Razib Khan's Unsupervised Learning
+
+Nicola Buskirk: old books for a new generation
+
+0:00
+
+Current time: 0:00 / Total time: -1:22:25
+
+-1:22:25
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+### Paid episode
+
+The full episode is only available to paid subscribers of Razib Khan's Unsupervised Learning
+
+Subscribe to listen
+
+## Nicola Buskirk: old books for a new generation
+
+A member of Generation Z trying to preserve the wisdom of the ancients
+
+[](https://substack.com/@razib)
+
+![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+[](https://substack.com/@elessarbooks)
+
+![Nicola Buskirk's avatar](https://substackcdn.com/image/fetch/$s_!g8We!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F71190239-b68e-4df1-b739-b6a66eb1bcf5.jpeg)
+
+[Razib Khan](https://substack.com/@razib) and [Nicola Buskirk](https://substack.com/@elessarbooks)
+
+Jul 21, 2023
+
+∙ Paid
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+18
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+5
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+2
+
+Share
+
+[](https://twitter.com/nmbkirk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+![](https://substackcdn.com/image/fetch/$s_!o1NU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F166c87a4-3487-40fe-9a2e-f75916cf45f3_800x800.jpeg)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+On this episode of *Unsupervised Learning* Razib talks to [Nicola Buskirk](https://twitter.com/nmbkirk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) of [Elessar Books](https://linktr.ee/elessarbooks) (see her [Substack](https://elessarbooks.substack.com/)). A 2022 graduate of Stanford University, Buskirk has already had positions at Substack (she was behind the [At Length series](https://on.substack.com/p/making-at-length-songwriting-cocktails)), Thiel Foundation, Hoover Institution and now, Protocol Labs. At [Elessar](https://linktr.ee/elessarbooks) she is “putting long out-of-print books back into print so that they may be easily read and studied by a new generation of readers.”
+
+Before asking about her new project, Razib asks her about Elessar, an alternative name for the character known as Aragorn. They discuss why J. R. R. Tolkien’s *[The](https://www.amazon.com/exec/obidos/ASIN/0345538374/geneexpressio-20)* [](https://www.amazon.com/exec/obidos/ASIN/0345538374/geneexpressio-20) *[Lord of the Rings](https://www.amazon.com/exec/obidos/ASIN/0345538374/geneexpressio-20)* series, written in the first half of the 20th century, appeals to young people born in the 21st century. Buskirk believes that much of the attraction is in Tolkien’s depiction of good and evil in a manner that edifies and educates but with subtlety and complexity. They discuss the differences between Tolkien’s fantasy writing style, and that of his colleague and friend C. S. Lewis, whose *[Narnia](https://www.amazon.com/exec/obidos/ASIN/B0009NS97Y/geneexpressio-20)* series was far more nakedly allegorical than *[The](https://www.amazon.com/exec/obidos/ASIN/0345538374/geneexpressio-20)* [](https://www.amazon.com/exec/obidos/ASIN/0345538374/geneexpressio-20) *[Lord of the Rings](https://www.amazon.com/exec/obidos/ASIN/0345538374/geneexpressio-20)* . Razib and Buskirk also discuss whether Tolkien’s work was fundamentally Roman Catholic, as the author claimed, or whether its purview is broader, explaining its lasting appeal. They also touch upon the relationship of the films to the books, and how Peter Jackson pulled off the sort of adaption that Amazon failed at.
+
+Then the conversation shifts to why Buskirk began [Elessar Books](https://linktr.ee/elessarbooks), the resurfacing of knowledge and wisdom for a generation weaned on smartphones and addicted to TikTok. She talks about conversations with peers where they were amazed by her insights, even though she freely admitted to them that she simply stood on the shoulders of the ancients, whose ideas are freely available in older books. Razib and Buskirk discuss if what Antonio Garcia Martinez calls the [age of orality](https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world) is a reversion to preliterate and frankly more primitive modalities of thought, and her attempt to resurrect, maintain and perpetuate a culture of deep literacy among her technology-addicted generation.
+
+Subscribe
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/nicola-buskirk-old-books-for-a-new?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+## This post is for paid subscribers
+
+Subscribe
+
+[Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Fnicola-buskirk-old-books-for-a-new&for_pub=razib&change_user=false)
+
+[![Razib Khan's Unsupervised Learning](https://substackcdn.com/image/fetch/$s_!Q7d-!,w_96,h_96,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)](https://www.razibkhan.com)
+
+Razib Khan's Unsupervised Learning
+
+Conversations about science, culture, and current affairs
+
+Conversations about science, culture, and current affairs
+
+Subscribe
+
+Listen on
+
+Substack App
+
+Spotify
+
+RSS Feed
+
+Appears in episode
+
+[](https://substack.com/@razib?utm_source=author-byline-face-podcast)
+
+![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_32,h_32,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY2NzE5IiBoZWlnaHQ9IjE2IiByb2xlPSJpbWciIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0eWxlPSJoZWlnaHQ6MTZweDt3aWR0aDoxNnB4OyIgdmlld2JveD0iMCAwIDQwIDQwIiB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTE3LjQzODUgMS4yNjgxQzE5LjM5ODggMC40NTYxNDkgMjEuNjAxMiAwLjQ1NjE1IDIzLjU2MTUgMS4yNjgxTDMxLjU4MDcgNC41ODk3NkMzMy41NDA5IDUuNDAxNzIgMzUuMDk4MyA2Ljk1OTExIDM1LjkxMDIgOC45MTkzM0wzOS4yMzE5IDE2LjkzODVDNDAuMDQzOSAxOC44OTg4IDQwLjA0MzkgMjEuMTAxMiAzOS4yMzE5IDIzLjA2MTVMMzUuOTEwMiAzMS4wODA3QzM1LjA5ODMgMzMuMDQwOSAzMy41NDA5IDM0LjU5ODMgMzEuNTgwNyAzNS40MTAyTDIzLjU2MTUgMzguNzMxOUMyMS42MDEyIDM5LjU0MzkgMTkuMzk4OCAzOS41NDM5IDE3LjQzODUgMzguNzMxOUw5LjQxOTMzIDM1LjQxMDJDNy40NTkxMSAzNC41OTgzIDUuOTAxNzEgMzMuMDQwOSA1LjA4OTc2IDMxLjA4MDdMMS43NjgxIDIzLjA2MTVDMC45NTYxNDkgMjEuMTAxMiAwLjk1NjE1IDE4Ljg5ODggMS43NjgxIDE2LjkzODVMNS4wODk3NiA4LjkxOTMzQzUuOTAxNzIgNi45NTkxMSA3LjQ1OTExIDUuNDAxNzEgOS40MTkzMyA0LjU4OTc2TDE3LjQzODUgMS4yNjgxWiIgZmlsbD0iI0ZGNjcxOSIgc3Ryb2tlPSJ0cmFuc3BhcmVudCIgLz48cGF0aCBkPSJNMjcuMTY2NiAxNUwxNy45OTk5IDI0LjE2NjdMMTMuODMzMyAyMCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjQiIC8+PC9nPjwvc3ZnPg==)
+
+[Razib Khan](https://substack.com/@razib)
+
+[](https://substack.com/@elessarbooks?utm_source=author-byline-face-podcast)
+
+![Nicola Buskirk's avatar](https://substackcdn.com/image/fetch/$s_!g8We!,w_32,h_32,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F71190239-b68e-4df1-b739-b6a66eb1bcf5.jpeg)
+
+[Nicola Buskirk](https://substack.com/@elessarbooks)
+
+Writes [Elessar Books](https://elessarbooks.substack.com) [Subscribe](https://elessarbooks.substack.com/subscribe)
+
+Recent Episodes
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!RD28!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4408427-d870-41e9-89a9-81cb6636da35_512x512.jpeg)
+
+[Leonidas-Romanos Davranoglou: the last Hellenes and the children of the Yamnaya](https://www.razibkhan.com/p/leonidas-romanos-davranoglou-the)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+May 23•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!oen1!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6341e878-e827-4fa0-b643-86744898bcf3_803x1030.png)
+
+[Nikolai Yakovenko: 4 years into the age of AI](https://www.razibkhan.com/p/nikolai-yakovenko-4-years-into-the)
+
+May 15•[Razib Khan](https://substack.com/@razib)and[Niko](https://substack.com/@nikocrypto)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!qfEz!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1986cded-be60-4951-aad7-d57bd4173f26_1080x1350.webp)
+
+[Chris Rufo: the California project](https://www.razibkhan.com/p/chris-rufo-the-california-project)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+May 8•[Razib Khan](https://substack.com/@razib),[Christopher F. Rufo](https://substack.com/@christopherrufo),and[Christopher F. Rufo](https://substack.com/@christopherfrufo)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!h0GY!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a6a2300-dffe-4018-9b9a-ac2cd2646b91_657x1000.jpeg)
+
+[Gregory Cochran: 15 years after The 10,000 Year Explosion](https://www.razibkhan.com/p/gregory-cochran-15-years-after-the)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+May 1•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!UxVd!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb71664a2-888a-41c7-b1f5-00ec1b825a06_400x400.jpeg)
+
+[Russ Greene: the rise of Total Boomer Luxury Communism](https://www.razibkhan.com/p/russ-greene-the-rise-of-total-boomer)
+
+Apr 25•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!WWVC!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35bc4153-5ae0-4365-8564-a068971df87c_749x500.png)
+
+[10,000 years of selection (in Western Eurasia)](https://www.razibkhan.com/p/10000-years-of-selection-in-western)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+Apr 17•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!8UjW!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9849fce-2060-433c-bdb1-8eb3d60afcb3_480x480.png)
+
+[Matthew Schmitz: Christianity as identity, New Atheism and the Texas of Lord Hanuman](https://www.razibkhan.com/p/matthew-schmitz-christianity-as-identity)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+Apr 10•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!7SjF!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f1d3082-4908-4c56-b8b7-e7ad0e74beab_900x600.jpeg)
+
+[Megan McArdle: the follies of populism, impending fiscal crisis, and the whirlwind of AI](https://www.razibkhan.com/p/megan-mcardle-the-follies-of-populism)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+Apr 2•[Razib Khan](https://substack.com/@razib)

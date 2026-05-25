@@ -1,0 +1,139 @@
++++
+title = "Everywhere you want to"
+full_title = "Everywhere you want to be Indian immigrants in America"
+upstream_url = "https://www.razibkhan.com/p/everywhere-you-want-to-be-indian"
+date = "2024-08-08"
++++
+Source: [here](https://www.razibkhan.com/p/everywhere-you-want-to-be-indian).
+
+Everywhere you want to be: Indian immigrants in America (part 1 of 2)
+
+# Everywhere you want to be: Indian immigrants in America (part 1 of 2)
+
+### The rise of South Asian America
+
+[](https://substack.com/@razib)
+
+![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+[Razib Khan](https://substack.com/@razib)
+
+Aug 08, 2024
+
+∙ Paid
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+76
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+15
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+3
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!706q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58104f3f-90d2-4ed5-a0da-735d5c000879_780x472.png)
+
+![](https://substackcdn.com/image/fetch/$s_!706q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58104f3f-90d2-4ed5-a0da-735d5c000879_780x472.png)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+Subscribe
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/everywhere-you-want-to-be-indian?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+##### ***Note:** part 1 of 2 ([read part 2](https://www.razibkhan.com/p/everywhere-you-want-to-be-indian-1a7))*
+
+A few years ago, a friend working on Capitol Hill observed that during the Trump administration, the Democratic political staff in Congress had become heavily Indian American. That’s putting it mildly. And it’s not restricted to Congress or Democrats. Since 2021, the same has applied to the executive branch; the Biden administration appointed more Indian Americans in key positions than any previous administration (over 130 within the first two years), surpassing a record the Trump administration had set (80 over four years), which itself eclipsed the Obama administration’s 60 in eight years, which was already more than any previous administration. This unidirectional upward trend reflects the surging and suddenly undeniable prominence of Americans of Indian background nationally across a host of high-profile spheres, from members of Congress to presidential tickets, just to concentrate on the national political realm.
+
+Of the 18 Asian Americans in the House of Representatives, five are Indian American. A decade ago, only a single member of Congress was Indian American. The presumptive Democratic nominee for President of the US in 2024, Kamala Devi Harris, has an Indian mother, while the Republican Vice-Presidential candidate J. D. Vance is married to an Indian American, Usha (née Chilukuri) Vance. Last fall, two Indian Americans, Nimrata Nikki Haley (née Randhawa) and Vivek Ramaswamy, were both prominently vying for the Republican Presidential nomination, making the cut for the four-candidate debate in December with Ron DeSantis and Chris Christie. Overnight, Indian Americans seem to have burst out of their traditional professional ghettos of medicine and information technology.
+
+This is in contrast to other Asian American groups, like Chinese Americans, the most numerous subgroup in America (5.2 million vs 4.9 million Indian Americans). A difference in representation at the executive level has [been noted](https://www.pnas.org/doi/full/10.1073/pnas.1918896117) in domains like the technology sector; considerably more people of Indian origin than Chinese rise above technical to high-level managerial positions. A leading hypothesis for the discrepancy is that Indian Americans, on average, display more assertive personality profiles that equip them more for leadership in the American milieu. Notably, the researchers found that compared to East Asians whose rise appears more stymied by the theorized “bamboo ceiling,” South Asians actually experience more bias and prejudice in America, while the two groups display no difference in what the team termed “motivation.” Instead, discrepancies in outcome correlate only with assertiveness. Meanwhile, Peter Thiel has floated [a theory](http://www.lagriffedulion.f2s.com/sft2.htm) that Indians (who also rose to dominate national-level spelling bees almost to the complete exclusion of any other groups), are more verbal than otherwise comparably academic East Asians, who tend to dominate mathematical competitions. The assumption being that verbal intelligence and dexterity prove crucial in ascending the corporate ladder and obtaining leadership positions in large institutions. A final folk theory in relation to politics specifically is that India’s distinction as the world’s largest democracy stands in meaningful contrast to China which has never been democratic, and goes a long way to explaining Indian Americans’ active participation in the world’s oldest democracy.
+
+[](https://substackcdn.com/image/fetch/$s_!AMDs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd768478f-2da1-468d-b7a0-6165af0bab54_1226x313.jpeg)
+
+![](https://substackcdn.com/image/fetch/$s_!AMDs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd768478f-2da1-468d-b7a0-6165af0bab54_1226x313.jpeg)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+Vivek and Apoorva Ramaswamy, Nikki Haley and Usha and J. D. Vance
+
+Whatever the origin for the particular prominence and outsized success of Indian Americans in politics, notably, almost to a one, these political figures are US-born (Illinois Representative Raja Krishnamoorthi, the only technical exception, arrived with his parents as a three-month-old). In this, they have today become the minority among Americans of Indian origin, the vast bulk of whom are foreign-born immigrants who came to the US as adults. Additionally, these political figures are all either members of Generation X (born between 1965 and 1980) or older Millennials (born before 1990). Their parents belong to the earliest wave of Indians who entered the US after the 1965 immigration system overhaul eased mass migration to the US from Asia. The US Census estimates that 44% of Indians in America today arrived since 2010, while another 25% arrived in the first decade of the 21st century. Only about 20% of today’s Indian Americans’ residency dates to the years before 1990, but those are the families who give us the political and cultural figures attaining prominence today.
+
+Assuming that the migration stream has remained broadly monolithic, you could be forgiven for wondering if these demographic facts imply 2024 is just the beginning; in the next few decades, the much larger cohort of US-born children of the post-1990 demographic bulge of immigrants will mature, many entering the domains of politics and culture. We are nowhere near the plateau of Indian American prominence. This is simply the beginning of a cresting demographic wave that could take decades to reach its peak.
+
+But is that assumption robust? Do they make Indian immigrants like they used to? India is very diverse, and so are the origins of Indian Americans. Does it matter that Usha Vance and Nikki Haley’s parents come from home regions as far apart as Rome lies from London? Does it matter that the Randhawas and Chilukuris have different native languages from different language families (Indo-European Punjabi and Dravidian Telugu), practice different religions (Sikhism and Hinduism) and many would say even look racially distinct from each other? The reality of significant ethnolinguistic diversity within this single group is no small matter if we want to consider what being “Indian American” truly means.
+
+In *[Who We Are and How We Got Here](https://www.amazon.com/exec/obidos/ASIN/B073NP8WT3/geneexpressio-20)* population geneticist David Reich notes that “the degree of genetic differentiation among Indian *jati* groups living side by side in the same village is typically two or three times higher than the genetic differentiation between northern and southern Europeans. The truth is that India is composed of a large number of small populations.” In the US, we ethnically categorize Haley and Vance identically, but in India, their respective backgrounds: Sikh Jat and Telugu Brahmin, are worlds apart by any metric. In some ways, the rise of Indian Americans as a coherent ethnic group requires the shattering of a preexistent mosaic; Indian society itself is composed of thousands of almost impermeable micro-nations, Indian Americans as a monolith represent a composite, even synthetic new ethnicity in the US. American society’s proven capacity to absorb, assimilate and transform immigrant multitudes offers Indian arrivals something unavailable on the subcontinent, just as surely as they themselves offer American society today something unsubstitutable.
+
+[](https://substackcdn.com/image/fetch/$s_!HKBL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb74c5ab-d31d-4be0-a03c-2925993718e2_1600x874.png)
+
+![](https://substackcdn.com/image/fetch/$s_!HKBL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb74c5ab-d31d-4be0-a03c-2925993718e2_1600x874.png)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+Visual representation of F_(st) genetic distances between populations
+
+**A diverse continent**
+
+To make concrete the implications of Reich’s observation above, I ran some genetic distance statistics on a set of European and Indian samples, specifically a [pairwise](https://en.wikipedia.org/wiki/Fixation_index#Genetic_distances_in_human_populations) F_(st), quantifying the proportion of distinctive genetic variation between the two populations. The more genetically distinct two populations, the larger that value. I standardized the generated values by arbitrarily setting the distance between the British and Belorussians to 1.0 (e.g., with a distance between British and Sicilians of 2.4, we see they have 2.4 times the genetic distance of British and Belorussians).
+
+2.40 British vs. Sicilian
+
+4.50 British vs. Iranian
+
+6.60 British vs. Punjabi Jat
+
+7.80 British vs. Punjabi Khatri
+
+8.90 British vs. Punjabi Gujar
+
+7.90 British vs. Uttar Pradesh Brahmin
+
+10.2 British vs. Tamil Brahmin
+
+12.5 British vs. Gujarati Patel
+
+15.4 British vs. Telugu Velama
+
+To a great extent, the values above also reflect physical distance from Britain to India. But still, you notice that the Jat land-owning community of Punjab, Haley’s family’s caste, are genetically a touch closer to the British than the neighboring Khatris (a Punjabi merchant caste notable for supplying Sikhism with all its Gurus) or Gujars (a pastoralist Punjabi tribe) are. Indeed Gujars are genetically more distant from the British than Brahmins of Uttar Pradesh, a state that actually lies 800 km further from Britain than the Gujars’ home region of Punjab. This seeming anomaly stems from the reality that Reich highlights: India is minutely subdivided into genetically distinct caste-based populations; and compared to Gujars with 20%, Brahmins in Uttar Pradesh share more ancient ancestry from Central Eurasian steppe agro-pastoralists (30%) who are closely related to Europeans. These distant common ancestors are the Indo-Aryans, whose cousins also fatefully pushed westward into Europe 4,900 years ago. This reflects an overall pattern where many caste groups, usually higher on the ritual and social ladder, with more Indo-Aryan ancestry, fall closer genetically to Europeans than the populations among whom they live do; Tamil Brahmins and Velama are both South Indian castes, but the Brahmins are much less genetically distant from the British because of that Indo-Aryan ancestry component.
+
+Usha Vance’s parents are from a Telugu-speaking background; this language dominates the two southern states of Telangana and Andhra Pradesh. But they are also Brahmins (I have confirmed this privately, but Usha Vance has [RSS members](https://www.indiatoday.in/world/us-news/story/usha-chilukuri-vance-relative-went-to-jail-during-emergency-granduncle-grandaunt-rss-worker-2569144-2024-07-19) in her lineage, already strongly indicative of a Brahmin background). Telugu Brahmins are part of a broad cultural and Brahmin religious category called *Pancha-Dravida*, a designation combining those culturally related populations that are resident south of the Vindhya mountains (in contrast to the *Pancha-Gauda* of the north). The *Pancha-Dravida* Brahmin communities of the Dravidian-speaking far south of the peninsula: the Tamil, Telugu, Kannada and Kerala Brahmins, are all genetically very similar amongst themselves. Though subtle differences emphasize that they are endogamous populations who do not intermarry, they all seem to have originally emerged from a similar dynamic of Brahmins migrating southward and mixing with local Dravidian-speaking populations. The contrast between all South Indian Brahmin communities is the same when each is compared to North Indian Brahmins specifically or populations from other regions and castes generally. Compared to a North Indian Brahmin, a Telugu and Tamil Brahmin are basically interchangeable with each other on genetic distance metrics. Because I have a much larger dataset of Tamil Brahmins than Telugu Brahmins, I will use them to sketch the genetic position of Telugu Brahmins like Usha Vance’s family, in a pan-Indian context.
+
+0.4 Tamil Brahmin vs. Uttar Pradesh Brahmin
+
+1.3 Tamil Brahmin vs. Punjabi Jat
+
+1.4 Tamil Brahmin vs. Gujarati Patel
+
+4.5 Tamil Brahmin vs. Telugu Velama
+
+0.3 Punjabi Jat vs. Uttar Pradesh Brahmin
+
+1.8 Punjabi Jat vs. Gujarati Patel
+
+5.5 Punjabi Jat vs. Andhra Pradesh Velama
+
+0.1 Uttar Pradesh Brahmin vs. Uttar Pradesh Kshatriya
+
+0.1 Uttar Pradesh Brahmin vs. Uttar Pradesh Kayastha
+
+Two things to note about the above results that specifically reflect South Indian Brahmins’ unique position. First, the genetic distance between South Indian Brahmins and adjacent populations they live amongst is consistently vast. The Velama are a farming caste from Usha Vance’s parents’ home state, and genetically similar to a host of other local castes that traditionally owned land and ruled the region with names like Kamma, Kapu and Reddy. No matter where you sample in South India, the genetic distance between the non-Brahmin majority and Brahmin minority remains large. This is in notable contrast to much of North India; notice that Brahmins in Uttar Pradesh, India’s largest and most populous state, fall very close to two other elite castes in the region, land-owning Kshatriyas and professions-focused Kayasthas. Genetically, South Indian Brahmins like Usha Vance and Ramaswamy are representatives of a people apart, who have remained so for centuries.
+
+## This post is for paid subscribers
+
+Subscribe
+
+[Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Feverywhere-you-want-to-be-indian&for_pub=razib&change_user=false)

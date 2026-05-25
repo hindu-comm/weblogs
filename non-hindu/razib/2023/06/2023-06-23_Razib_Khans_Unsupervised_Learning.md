@@ -1,0 +1,187 @@
++++
+title = "Razib Khan's"
+full_title = "Razib Khan's Unsupervised Learning"
+upstream_url = "https://www.razibkhan.com/p/the-out-of-africa-event-in-the-light"
+date = "2023-06-23"
++++
+Source: [here](https://www.razibkhan.com/p/the-out-of-africa-event-in-the-light).
+
+Razib Khan's Unsupervised Learning
+
+[![Razib Khan's Unsupervised Learning](https://substackcdn.com/image/fetch/$s_!Q7d-!,w_144,h_144,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)](https://www.razibkhan.com)
+
+Razib Khan's Unsupervised Learning
+
+The out-of-Africa event in the light of ancient DNA and genomics
+
+0:00
+
+Current time: 0:00 / Total time: -1:15:39
+
+-1:15:39
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+### Paid episode
+
+The full episode is only available to paid subscribers of Razib Khan's Unsupervised Learning
+
+Subscribe to listen
+
+## The out-of-Africa event in the light of ancient DNA and genomics
+
+Moving beyond simple truths and understanding complex realities
+
+[](https://substack.com/@razib)
+
+![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+[Razib Khan](https://substack.com/@razib)
+
+Jun 23, 2023
+
+∙ Paid
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+62
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+31
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+7
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!QFIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e002ec2-d33c-4a36-8581-4ee523993806_600x440.png)
+
+![](https://substackcdn.com/image/fetch/$s_!QFIY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e002ec2-d33c-4a36-8581-4ee523993806_600x440.png)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+On this episode of *Unsupervised Learning* Razib covers what we’ve learned about the [out-of-Africa](https://academic.oup.com/gbe/article/14/4/evac045/6563828) event, starting with our understanding of molecular genetics that developed in the 1980’s and 1990’s, exemplified in Richard Klein’s 2004 book *[The Dawn of Human Culture](https://www.amazon.com/exec/obidos/ASIN/0471252522/geneexpressio-20)*, down to the present, when ancient DNA has overruled speculation with data. In the late 20th century, a simple, elegant model coalesced to explain recent African human origins based on patterns of [mtDNA](https://www.nature.com/articles/325031a0) and [Y](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) chromosomal data, buttressed by findings in [paleoanthropology](https://www.science.org/doi/10.1126/science.3125610), that resulted in our human cousins like the Neanderthals being seen as dead-ends and evolutionary experiments. Today, it’s quite clear that Neanderthals, and the newly discovered Denisovans, were part of a [broader pattern of genetic interaction and admixture](https://www.nature.com/articles/s41586-021-03244-5) that is far more complex than parsimonious theories of expansion and replacement. Instead of a single out-of-Africa event, we suspect several, and rather than a branching family tree we find a genealogical lattice of human lineages.
+
+Razib also addresses the [genetic details](https://academic.oup.com/gbe/article/14/4/evac045/6563828?login=false) of the out-of-Africa event 50,000 years ago, which turns out to have been simply the climax of an evolutionary story that had already been underway for 30,000 years, and took another 10,000 years to populate the Old World. There were multiple out-of-Africa population waves, though not the older ideas of "northern" and "southern" routes. Rather, the new data makes it clear that Europe in particular, was hit by three out-of-Africa migrations, with the first dying off without any descendents, the second related to East Eurasians, and only the last destined to become the ancestors of modern West Eurasians. Human evolutionary genetics turns out not to be a neat and tidy storyline, but a sprawling narrative spawning numerous sequels.
+
+Subscribe
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/the-out-of-africa-event-in-the-light?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+## This post is for paid subscribers
+
+Subscribe
+
+[Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Fthe-out-of-africa-event-in-the-light&for_pub=razib&change_user=false)
+
+[![Razib Khan's Unsupervised Learning](https://substackcdn.com/image/fetch/$s_!Q7d-!,w_96,h_96,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)](https://www.razibkhan.com)
+
+Razib Khan's Unsupervised Learning
+
+Conversations about science, culture, and current affairs
+
+Conversations about science, culture, and current affairs
+
+Subscribe
+
+Listen on
+
+Substack App
+
+Spotify
+
+RSS Feed
+
+Appears in episode
+
+[](https://substack.com/@razib?utm_source=author-byline-face-podcast)
+
+![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_32,h_32,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY2NzE5IiBoZWlnaHQ9IjE2IiByb2xlPSJpbWciIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0eWxlPSJoZWlnaHQ6MTZweDt3aWR0aDoxNnB4OyIgdmlld2JveD0iMCAwIDQwIDQwIiB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTE3LjQzODUgMS4yNjgxQzE5LjM5ODggMC40NTYxNDkgMjEuNjAxMiAwLjQ1NjE1IDIzLjU2MTUgMS4yNjgxTDMxLjU4MDcgNC41ODk3NkMzMy41NDA5IDUuNDAxNzIgMzUuMDk4MyA2Ljk1OTExIDM1LjkxMDIgOC45MTkzM0wzOS4yMzE5IDE2LjkzODVDNDAuMDQzOSAxOC44OTg4IDQwLjA0MzkgMjEuMTAxMiAzOS4yMzE5IDIzLjA2MTVMMzUuOTEwMiAzMS4wODA3QzM1LjA5ODMgMzMuMDQwOSAzMy41NDA5IDM0LjU5ODMgMzEuNTgwNyAzNS40MTAyTDIzLjU2MTUgMzguNzMxOUMyMS42MDEyIDM5LjU0MzkgMTkuMzk4OCAzOS41NDM5IDE3LjQzODUgMzguNzMxOUw5LjQxOTMzIDM1LjQxMDJDNy40NTkxMSAzNC41OTgzIDUuOTAxNzEgMzMuMDQwOSA1LjA4OTc2IDMxLjA4MDdMMS43NjgxIDIzLjA2MTVDMC45NTYxNDkgMjEuMTAxMiAwLjk1NjE1IDE4Ljg5ODggMS43NjgxIDE2LjkzODVMNS4wODk3NiA4LjkxOTMzQzUuOTAxNzIgNi45NTkxMSA3LjQ1OTExIDUuNDAxNzEgOS40MTkzMyA0LjU4OTc2TDE3LjQzODUgMS4yNjgxWiIgZmlsbD0iI0ZGNjcxOSIgc3Ryb2tlPSJ0cmFuc3BhcmVudCIgLz48cGF0aCBkPSJNMjcuMTY2NiAxNUwxNy45OTk5IDI0LjE2NjdMMTMuODMzMyAyMCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjQiIC8+PC9nPjwvc3ZnPg==)
+
+[Razib Khan](https://substack.com/@razib)
+
+Recent Episodes
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!RD28!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4408427-d870-41e9-89a9-81cb6636da35_512x512.jpeg)
+
+[Leonidas-Romanos Davranoglou: the last Hellenes and the children of the Yamnaya](https://www.razibkhan.com/p/leonidas-romanos-davranoglou-the)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+May 23•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!oen1!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6341e878-e827-4fa0-b643-86744898bcf3_803x1030.png)
+
+[Nikolai Yakovenko: 4 years into the age of AI](https://www.razibkhan.com/p/nikolai-yakovenko-4-years-into-the)
+
+May 15•[Razib Khan](https://substack.com/@razib)and[Niko](https://substack.com/@nikocrypto)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!qfEz!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1986cded-be60-4951-aad7-d57bd4173f26_1080x1350.webp)
+
+[Chris Rufo: the California project](https://www.razibkhan.com/p/chris-rufo-the-california-project)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+May 8•[Razib Khan](https://substack.com/@razib),[Christopher F. Rufo](https://substack.com/@christopherrufo),and[Christopher F. Rufo](https://substack.com/@christopherfrufo)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!h0GY!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a6a2300-dffe-4018-9b9a-ac2cd2646b91_657x1000.jpeg)
+
+[Gregory Cochran: 15 years after The 10,000 Year Explosion](https://www.razibkhan.com/p/gregory-cochran-15-years-after-the)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+May 1•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!UxVd!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb71664a2-888a-41c7-b1f5-00ec1b825a06_400x400.jpeg)
+
+[Russ Greene: the rise of Total Boomer Luxury Communism](https://www.razibkhan.com/p/russ-greene-the-rise-of-total-boomer)
+
+Apr 25•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!WWVC!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35bc4153-5ae0-4365-8564-a068971df87c_749x500.png)
+
+[10,000 years of selection (in Western Eurasia)](https://www.razibkhan.com/p/10000-years-of-selection-in-western)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+Apr 17•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!8UjW!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9849fce-2060-433c-bdb1-8eb3d60afcb3_480x480.png)
+
+[Matthew Schmitz: Christianity as identity, New Atheism and the Texas of Lord Hanuman](https://www.razibkhan.com/p/matthew-schmitz-christianity-as-identity)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+Apr 10•[Razib Khan](https://substack.com/@razib)
+
+![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWxhYmVsPSJQbGF5IiBjbGFzcz0idmlkZW9JY29uLXBFS2tneSIgZmlsbD0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIGhlaWdodD0iMTAiIHJvbGU9ImltZyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEuOCIgc3R5bGU9InN0cm9rZTpub25lOyIgdmlld2JveD0iMCAwIDE2IDE2IiB3aWR0aD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTMuMzU4NjYgMTZDMi41ODEwMSAxNiAyIDE1LjQxMDEgMiAxNC40NDQ3VjEuNTU1MzFDMiAwLjU5ODg4MyAyLjU4MTAxIDAgMy4zNTg2NiAwQzMuNzUxOTYgMCA0LjEwMDU2IDAuMTM0MDc4IDQuNTQ3NDkgMC4zOTMyOTZMMTUuMTU3NSA2LjU0MzAyQzE1Ljk1MzEgNy4wMDc4MiAxNi4zMTA2IDcuMzkyMTggMTYuMzEwNiA4QzE2LjMxMDYgOC42MTY3NiAxNS45NTMxIDkuMDAxMTIgMTUuMTU3NSA5LjQ1Njk4TDQuNTQ3NDkgMTUuNjA2N0M0LjEwMDU2IDE1Ljg2NTkgMy43NTE5NiAxNiAzLjM1ODY2IDE2WiIgLz48L2c+PC9zdmc+)
+
+![](https://substackcdn.com/image/fetch/$s_!7SjF!,w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f1d3082-4908-4c56-b8b7-e7ad0e74beab_900x600.jpeg)
+
+[Megan McArdle: the follies of populism, impending fiscal crisis, and the whirlwind of AI](https://www.razibkhan.com/p/megan-mcardle-the-follies-of-populism)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sb2NrIiBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IGhlaWdodD0iMTEiIHJ4PSIyIiByeT0iMiIgd2lkdGg9IjE4IiB4PSIzIiB5PSIxMSIgLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiIC8+PC9zdmc+)
+
+Apr 2•[Razib Khan](https://substack.com/@razib)
