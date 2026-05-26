@@ -1,0 +1,77 @@
++++
+title = "The Musunuri Nayakas"
+full_title = "The Musunuri Nayakas"
+upstream_url = "https://sadashree.substack.com/p/the-musunuri-nayakas"
+date = "2025-03-01"
++++
+Source: [here](https://sadashree.substack.com/p/the-musunuri-nayakas).
+
+The Musunuri Nayakas
+
+[Telugu History](https://sadashree.substack.com/s/telugu-history/?utm_source=substack&utm_medium=menu)
+
+# The Musunuri Nayakas
+
+[](https://substack.com/@sadashree)
+
+![Ratnakar Sadasyula's avatar](https://substackcdn.com/image/fetch/$s_!R73I!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81a2c542-8b3f-4ade-98d2-a40950cffbe3_2640x1980.jpeg)
+
+[Ratnakar Sadasyula](https://substack.com/@sadashree)
+
+Mar 01, 2025
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+1
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!fFUZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2bb6ed5-b504-421c-b6f1-494bc4750d66_200x253.png)
+
+![](https://substackcdn.com/image/fetch/$s_!fFUZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2bb6ed5-b504-421c-b6f1-494bc4750d66_200x253.png)
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+After the fall of the [Kakatiya kingdom](https://historyunderyourfeet.wordpress.com/2024/04/04/the-kakatiyas-fall-of-orugallu/) and destruction of Orugallu, the Tughlaq army swept throughout Telugu land, as fort after fort fell, Kondavidu, Kolanaveedu, Kondapalli, Nidadavalou, Rajahmundry and Nellore. The invading army went all the way up to Madurai, as the once mighty kingdoms of the Hoysalas, Pandyas fell before the onslaught. The South that was so far spared the ravages of the Muslim invasions, that had devastated the North, was now under the Delhi Sultanate. Temples were destroyed, heavy taxes levied on the peasants, forcible conversions of Hindus, looting of riches had become commonplace.
+
+It was during such dark times that one of the greatest revolts against the Muslim rule would emerge in Telugu land. The Kakatiyas had come up with a system of Nayakas, by which any one could rise to the position of a leader, solely on the dint of their ability, than their caste. These Nayakas were primarily from Shudra peasant communities, who rose to prominence on the basis of their hard wor. They controlled their own territories and fought wars during the military campaigns. During Prataparudra’s time there were 75 Nayakas serving him, who fought in various campaigns.
+
+After the fall of Orugallu, the Nayakas dispersed, and some sought to form their own kingdoms. Some of them were captured by the invading army, forcibly converted to Islam and sent back as Governors. One among them, would the Warangal Governor, Malik Maqbul, who was actually a Hindu commander Gona Ganappa, converted to Islam, after the fall of Orugallu.
+
+It was during such dark and despairing times, two men would come to bring together the Nayakas on a common platform against the Muslim rulers. Bendapudi Annayya Mantri and Kolanu Rudradeva, erstwhile ministers under Prataparudra, began to reach out to the various Nayakas, emphasizing on the importance of safeguarding Dharma and driving away the Muslim invaders. But such a movement needed a leader, who could unite them and lead them.
+
+And it came in the form of Musunuri Prolayanaka of Vengi, one of the most formidable warriors on the battlefield, the son of Pochinayaka, who had 3 brothers Devanayaka, Kammanayaka and Rajanayaka. The son of Rajanayaka, Musunuri Kapanayaka, would become Prolayanayaka’s adopted son, and later lead the resistance, another great warrior. It was Prolayanayaka who began to unite the various Nayakas, with his wise leadership and organizational ability. Considering the Nayakas were divided among themselves with their ego clashes, it was no mean feat certainly. Some of the prominent ones included Addanki Vemareddy, Koppula Prolayanayaka, Recherla Singamanayaka, Manchikonda Ganapatinayaka, and Vundi Vengabhupathi. The Nayakas put aside their petty differences, focusing on the main objective of liberating Telugu land from the Muslim invaders.
+
+As per the Vilasa grant , Prolayanayaka ruled from Rekapalle,located at the edge of the Papikondalu, from where he controlled the Sabari river valley between Papikondalu and Bhadrachalam. He was also assisted by the Konda Reddy tribals living in the forests around. The Vilasa grant details the devastation of the Muslim rule in Telugu land, as well as the atrocities inflicted by them.
+
+Knowing that the Muslim invaders could not be defeated in a straight battle, Prolaya Nayaka along with Vema Reddy launched a series of guerilla attacks, using the thick forests as a base, harassing them, driving them out from the entire coastal belt between Krishna and Godavari. He also strengthened the existing forests, rebuilt temples, restored Agraharas to Brahmins, and encouraged scholars, arsists. With age catching up, Prolaya Nayaka stepped down, and moved to Khammam where he spent his final days. With age catching up, Prolaya Nayaka stepped down, and moved to Khammam where he spent his final days and handed over power to Kapaya Nayaka. One by the one the Muslim governors in Telugu land, were driven out, as the Nayakas recaptured every fort, throwing out the invaders. The succesful resistance of the Musunuri Nayakas now inspired the other kingdoms down South to revolt agains the Muslim rule and throw off their yoke.
+
+The rulers of Dwarasamudra, Kampilli, Araveedu revolted and threw out the Muslim governors, recapturing their territories. Vema Reddy assisted Kampili in driving out the Muslim governor there, while Kapaya and Vema Reddy together helped Somadeva of Araveedu in liberating many forts in the Krishna-Tungabhadra doab region.In the meantime two youngsters Harihara and Bukka Raya, who were serving under the ruler of Anegondi, would establish their own kingdom at Hampi, that would go on to become the mighty empire of Vijayanagara.
+
+Mohd Bin Tuqhlag himself was facing various revolts in the North, after he became Sultan, and taking advantage, Jalaluddin Hassan, established an independent kingdom of his own in Madurai, leading the Sultan to come down South, with a large army. However an epidemic forced Tuqhlag to retreat back, as he placed Malik Maqbul in charge of Warangal. Kapaya Nayaka, formed an alliance with the Hoysala ruler Veera Ballala III, and along with the Nayakas liberate Orugallu in 1336, a good 13 years after it fell to the invading Muslim armies, routing the Tuqhlag army, as Malik Maqbool fled to Devagiri.
+
+Kapaya Nayaka was given the titles of Andhradesadiswara, Andhrasuratrana, and he in turn respected the autonomy of his fellow Nayakas, giving them complete freedom. From Srikakulam to Bidar, from Sirpur to Kanchi, the Muslim invaders were driven out, following a joint effort by the Nayakas, and other kingdoms, as the South once again came under Hindu rule.It was one of the glorious chapters in Telugu history.
+
+However around this time Hassan Gangu led a group of Muslim nobles in revolt against Mohd Bin Tuqhlag in 1345, and assuming the name of Allauddin Bahman Shah, established the Bahmani kingdom in the Deccan at Devagiri and shifted his capital to Gulbarga in 1347. His aim was to conquer the entire Deccan and South, establish a Muslim empire once again there. And sadly the ego clashes, once again came to fore between the various Nayakas, as they began to plot against each other. Kapaya Nayaka also aided Bahman Shah when Tuqhlag attacked his kingdom, unaware of his intentions.
+
+In the meantime Recherla Singama Nayaka, turned traitor and joined hands with the Bahmanis. Kapaya Nayaka had earlier prevented him from attacking Addanki, and he had held a long time grudge against him. He aided Bahman Shah, in attacking Orugallu twice in 1350 and later 1351, and though Kapaya Nayaka, put up a strong resistance, he was defeated and forced to cede the forts of Bhuvanagiri, Kailasakota, as the Bahmanis devastated the countryside.
+
+When Allauddin passed away in Gulbarga and was succeded by his son Muhammed Shah, Kapanayaka took advantage sent his son Vinayaka Deva to recapture the forts ceded, along with the Vijayanagara ruler Bukka Raya II. Though Vinayaka had some success initially, he was captured by the Bahmanis and executed in the most gruesome manner. His son’s death was a major blow to Kapaya Nayaka, who once again attacked the Bahmanis with a huge army, in alliance with Bukka Raya. However Bukka Raya’s untimely death was another blow to him, as Mohd Shah defeated Kapaya Nayaka, capturing Golkonda and Warangal. With no assistance from Vijayanagar, and the Recherla Nayakas joining hands with the Bahmanis, Kapaya Nayaka fought a lone battle, but was defeated and forced to surrender a lot of riches in tribute that included the famous turquoise throne.
+
+The Recharla Nayakas taking advantage of Kapaya Nayaka’s weakened position, declared independence, and revolted against him. By now war weary, his treasury exhausted, broken in spirit by his son’s death and the betrayal of his fellow Nayakas, Kapaya Nayaka rode out one last time for his final battle at Bhimavaram in 1370, and fell like a true warrior fighting on the battlefield. The man who united the various Nayakas, threw out the Muslim invaders from Telugu land, was backstabbed by his own, a truly tragic end to a great hero. Most of the Nayakas now migrated to Vijayanagara , where they would play a vital role in it’s army and governance. The sacrifice of Kapaya Nayaka did not go in vain.
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+1
+
+Share

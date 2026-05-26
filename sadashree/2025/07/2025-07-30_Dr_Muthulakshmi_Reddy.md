@@ -1,0 +1,133 @@
++++
+title = "Dr Muthulakshmi Reddy"
+full_title = "Dr Muthulakshmi Reddy"
+upstream_url = "https://sadashree.substack.com/p/dr-muthulakshmi-reddy"
+date = "2025-07-30"
++++
+Source: [here](https://sadashree.substack.com/p/dr-muthulakshmi-reddy).
+
+Dr Muthulakshmi Reddy
+
+[The Thinkers](https://sadashree.substack.com/s/the-thinkers/?utm_source=substack&utm_medium=menu)
+
+# Dr Muthulakshmi Reddy
+
+[](https://substack.com/@sadashree)
+
+![Ratnakar Sadasyula's avatar](https://substackcdn.com/image/fetch/$s_!R73I!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81a2c542-8b3f-4ade-98d2-a40950cffbe3_2640x1980.jpeg)
+
+[Ratnakar Sadasyula](https://substack.com/@sadashree)
+
+Jul 30, 2025
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+9
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+1
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+1
+
+Share
+
+[](https://substackcdn.com/image/fetch/$s_!QHmi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bdd719b-2f7a-4c70-8376-f685bfaf7a7a_563x757.jpeg)
+
+![undefined](https://substackcdn.com/image/fetch/$s_!QHmi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bdd719b-2f7a-4c70-8376-f685bfaf7a7a_563x757.jpeg "undefined")
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+Dr Muthulakshmi Reddy born to a Devadasi in Pudukottai State, went on to become a doctor, social reformer and Padma Bhushan recipient. She was the first woman to be admitted into Madras Medical College in 1907, graduated with seven gold medals in 1912. Became the first female House Surgeon at the Government Hospital for Women and Children in Madras, and the first woman legislator in British India (Madras Legislative Council, 1926).
+
+Her mother Chandrammal, a Devadasi was only 11 years old, when when she implored Narayanaswami, the 30 year old Principal of Maharaja College, who was to become her patron after her dedication ceremony, to take her away. Defying social norms, Narayanaswami married her, and was ostracized from the community as a result.
+
+Muthulakshmi, inherited that same defiant spirit. She didn’t just rise above stigma—she dismantled it. Her intimate understanding of the Devadasi system, shaped by her mother’s experience and her own proximity to the community, fueled her legislative crusade to abolish it. She didn’t just fight for reform—she embodied it.
+
+Despite societal norms, **Narayanaswami Iyer** defied tradition and enrolled his daughter in school. Her **voracious appetite for learning** led teachers to go beyond the curriculum, nurturing her intellect in secret.When puberty forced her out of formal education, **home tutoring became her lifeline**, a quiet rebellion against the silence imposed on girls.
+
+She **challenged the notion** that only boys deserved education, rebelling against gendered hierarchies. This early resistance wasn’t just emotional—it was **ideological**, laying the foundation for her future battles against child marriage, polygamy, and the Devadasi system.
+
+When she applied to Maharaja’s College after passing her Matriculation exam, she wasn’t just seeking admission—she was challenging centuries of exclusion. The Principal’s objection, rooted in both **gender bias** and **caste prejudice**, reflected the rigid orthodoxy of the time. The fear that she might “demoralize” male students speaks volumes about how threatening her brilliance and background were to the status quo.
+
+**However the Maharaja of Pudukkottai**, enlightened and courageous, overruled the resistance. He not only admitted her but also awarded her a **scholarship**, signaling that merit and determination could triumph over societal barriers.
+
+Even then, her presence was treated as an anomaly, a **screen separated her** from male students in class. The **college bell rang only after she left**, so boys wouldn’t interact with her. Her character was placed under **three months of scrutiny**, as if her dignity needed institutional validation.
+
+And yet, she **excelled**, graduating with flying colors and setting her sights even higher—with Madras Medical College next on her horizon.
+
+Her admission to **Madras Medical College in 1907** wasn’t just a personal milestone—it was a seismic shift in India’s educational and social landscape. She became the **first woman ever admitted** to the institution, breaking through layers of caste, gender, and societal prejudice.
+
+Awarded a **scholarship of ₹150** by the Maharaja of Pudukkottai—a gesture that symbolized enlightened support for women’s education. She graduated in **1912 with seven gold medals**, a dazzling testament to her intellect and perseverance. Her academic excellence silenced critics who once feared she’d “demoralize” male students.
+
+She was appointed **House Surgeon** at the Government Hospital for Women and Children in Madras (now Chennai)—the **first woman** to hold that position. Even as a student, she **volunteered in girls’ homes**, translated essays, and wrote for journals, showing her early commitment to both medicine and social reform.
+
+While she was in Madras, she came to know that her cousin had died giving birth to a child and the father of the child had no responsibility to look after the infant due to the Devadasi system of those times. Muthulakshmi looked after this child while she was still a medical student.
+
+She **volunteered in girls’ homes**, offering care and education to those society had cast aside. She immersed herself in **Indian history**, not just as a scholar but as someone seeking roots and reasons for reform.
+
+She attended **Theosophical Society lectures**, absorbing ideas of spiritual equality and global sisterhood. She met and was mentored by **Annie Besant** and **Sarojini Naidu**, two towering figures who helped shape her feminist and nationalist convictions.
+
+She began writing for the magazine **India**, and translated English essays into Tamil—bridging worlds, languages, and ideologies.
+
+In 1914, Dr. Muthulakshmi Reddy married **Dr. T. Sundara Reddy** under the **1872 Native Marriage Act**, a rare legal framework that allowed for **non-religious, egalitarian unions**. Her condition—that he “always respect me as an equal and never cross my wishes”—was a bold assertion of autonomy in a time when women were expected to be silent partners.
+
+Sundara Reddy honored her terms, allowing her to pursue medicine, activism, and public service without constraint. The famous Tamil star Gemini Ganesan, was her own nephew, son of her brother Ramasamy.
+
+Her friendship with **Sarojini Naidu** introduced her to a circle of women who spoke not just of freedom from colonial rule, but of **freedom from patriarchy**. Through **Annie Besant**, she absorbed the ideals of **spiritual equality and civic responsibility**, which shaped her reformist lens.
+
+Though she declined Gandhi’s offer to join the **Salt Satyagraha**, she **resigned from the Madras Legislative Council** in protest of his arrest during the **Civil Disobedience Movement of 1930.**
+
+She worked for **women’s emancipation** at a time when most were confined to domestic spaces.Her activism wasn’t just about policy—it was about **reimagining womanhood** in public life.
+
+[](https://substackcdn.com/image/fetch/$s_!zuD1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e4e477b-8e72-45e5-b0bb-c4540ec4cb0a_797x759.jpeg)
+
+![undefined](https://substackcdn.com/image/fetch/$s_!zuD1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e4e477b-8e72-45e5-b0bb-c4540ec4cb0a_797x759.jpeg "undefined")
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+At the request of the **Women’s Indian Association (WIA)**, she entered politics and was **unanimously elected Deputy President** of the Madras Legislative Council. She became the **first woman legislator in British India**, using her platform to **champion women’s rights**, especially the **municipal and legislative franchise** for women.
+
+Deeply moved by the plight of **orphans and destitute girls**, she founded **Avvai Home in Chennai in 1931**. It offered **free board, lodging, and education**, especially to girls rescued from prostitution. The home became a **beacon of empowerment**, nurturing girls into teachers, nurses, and professionals—many of whom had once been denied dignity.
+
+She passed a resolution to establish a **special hospital for women and children**, which led to the creation of a **children’s section in the maternity hospital**. Her advocacy gave rise to **Kasturba Hospital in Triplicane**, a living monument to her vision for maternal and child health.
+
+She recommended **systematic medical inspections** for students in all schools and colleges run by municipalities and local bodies.
+
+Her book *My Experience as a Legislator, o*utlined her **resolutions, speeches, and bills**—from abolishing the Devadasi system to improving sanitation and education. She used her platform to **bridge policy and empathy**, ensuring that governance reached the most vulnerable.
+
+In **1935**, she declared her intent to build a hospital for cancer patients, inspired by the loss of her sister to the disease. She founded the **Cancer Relief Fund**, which evolved into the **Adyar Cancer Institute** in **1954**, now one of India’s leading centers for cancer therapy and research. The institute treats **over 80,000 patients annually**, embodying her ethos of “service above self”.
+
+In **1953**, she became the **first chairperson** of the **State Social Welfare Board**, channeling resources toward women’s welfare, child protection, and slum rehabilitation. Her leadership brought **systemic improvements** to the **Children’s Aid Society**, earning her the title of **Honorary Secretary and Organiser.**
+
+As the **only female member of Hartog Education Commitee**, she traveled across India to assess and improve **women’s education**. Her insights led to **policy shifts** that expanded access and equity in education, especially for girls in underserved regions.
+
+She helmed *Roshini*, the journal of the **All India Women’s Conference**, using it as a platform to amplify voices, share reforms, and inspire action.
+
+Even in her twilight years, Dr. Muthulakshmi Reddy radiated the same fire that had defined her youth. At 80, she remained a tireless force—vibrant, purposeful, and unwavering in her Gandhian ideals. Her departure from politics wasn’t a retreat—it was a return to the heart of her mission: **uplifting the vulnerable with compassion and dignity**.
+
+She was awarded the Padma Bhushan in 1956, for her **extraordinary public service**, especially in healthcare and social reform. This honor recognized not just her achievements, but the **moral courage** and **visionary leadership** she embodied. Avai Home and Adyar Cancer Center would forever be her legacy.
+
+She actively supported the **Tamil music movement**, recognizing its power to preserve identity and inspire unity. She worked for the **development of Tamil language**, pushing for its rightful place in education and public discourse. She **protested for better salaries** for Tamil teachers and writers, ensuring that those who nurtured the language were treated with dignity and respect.
+
+As **editor of the monthly magazine** ***Sthree Dharumam***, published by the **Indian Women’s Association**, she created a platform for women’s voices, ideas, and rights.The magazine wasn’t just a publication—it was a **forum for feminist thought**, social critique, and cultural expression in Tamil and English. Through *which* she connected **grassroots activism** with **intellectual discourse**, empowering women to speak, write, and lead.
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+9
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+1
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+1
+
+Share
