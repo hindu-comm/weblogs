@@ -1,0 +1,99 @@
++++
+title = "Adbhutam's Blog"
+full_title = "Adbhutam's Blog"
+upstream_url = "https://adbhutam.wordpress.com/2023/09/11/the-bhoja-champu-11-century-ce-alludes-to-the-nandi-hanuman-identity/"
+date = "2023-09-11"
++++
+Source: [here](https://adbhutam.wordpress.com/2023/09/11/the-bhoja-champu-11-century-ce-alludes-to-the-nandi-hanuman-identity/).
+
+Adbhutam's Blog
+
+In the extremely famous Champu Ramayana of King Bhoja, in the Sundara Kanda, verse 47, we have the allusion to the Nandi-Hanuman identity, as stated in the Valmiki Ramayana.  
+
+The commentary cites the Valmiki verse on this.
+
+[https://en.wikipedia.org/wiki/Bhoja](https://en.wikipedia.org/wiki/Bhoja)
+
+**Bhoja**(reigned c. 1010–1055 CE) was an[Indian king](https://en.wikipedia.org/wiki/List_of_Indian_monarchs)from the[Paramara dynasty](https://en.wikipedia.org/wiki/Paramara_dynasty). His kingdom was centered around the[Malwa](https://en.wikipedia.org/wiki/Malwa)region in**central India,**where his capital[Dhara-nagara](https://en.wikipedia.org/wiki/Dhara_(city))(modern Dhar) was located.
+
+It is popular belief that Bhoja composed only the first five kanda-s, the Sundara Kanda being the 5th. The Yuddha kanda was composed by others later:
+
+[https://tinyurl.com/vxfc5c2b](https://tinyurl.com/vxfc5c2b)
+
+In the fourth verse of the Balakanda, Bhoja says that he follows Valmiki in this condensation that is the Champu Kavya:
+
+[https://archive.org/details/in.ernet.dli.2015.347687/page/n7/mode/2up](https://archive.org/details/in.ernet.dli.2015.347687/page/n7/mode/2up)
+
+I think this is perhaps one of the oldest condensations of VR. If there was a commentary of the VR by that time, which is extant now, is not known.
+
+[![](https://adbhutam.wordpress.com/wp-content/uploads/2023/09/image.png?w=1024)](https://adbhutam.wordpress.com/wp-content/uploads/2023/09/image.png)
+
+### Share this:
+
+- [Share](#)
+- 
+
+- [Share on X (Opens in new window)
+  X](https://adbhutam.wordpress.com/2023/09/11/the-bhoja-champu-11-century-ce-alludes-to-the-nandi-hanuman-identity/?share=twitter)
+- [Share on Facebook (Opens in new window)
+  Facebook](https://adbhutam.wordpress.com/2023/09/11/the-bhoja-champu-11-century-ce-alludes-to-the-nandi-hanuman-identity/?share=facebook)
+- 
+
+Like Loading...
+
+### *Related*
+
+Posted in [Uncategorized](https://adbhutam.wordpress.com/category/uncategorized/) \| Tags: [Bhoja](https://adbhutam.wordpress.com/tag/bhoja/), [Champu Ramayanam](https://adbhutam.wordpress.com/tag/champu-ramayanam/), [Nandi-Hanuman](https://adbhutam.wordpress.com/tag/nandi-hanuman/)
+
+- [Advaita](https://adbhutam.wordpress.com/category/advaita/)
+  - [shāktam](https://adbhutam.wordpress.com/category/advaita/shaktam-advaita/)
+- [Advaita &
+  Science](https://adbhutam.wordpress.com/category/advaita-science/)
+- [advaita and dvaita
+  vedanta](https://adbhutam.wordpress.com/category/advaita-and-dvaita-vedanta/)
+- [Advaita and
+  Vishishtadvaita](https://adbhutam.wordpress.com/category/advaita-and-vishishtadvaita/)
+- [Ashtottaram](https://adbhutam.wordpress.com/category/ashtottaram/)
+- [संस्कृतलेखनम्](https://adbhutam.wordpress.com/category/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%b2%e0%a5%87%e0%a4%96%e0%a4%a8%e0%a4%ae%e0%a5%8d/)
+- [Bheda-Abheda](https://adbhutam.wordpress.com/category/bheda-abheda/)
+- [brahmavAda](https://adbhutam.wordpress.com/category/brahmavada-2/)
+  - [mAyAvada](https://adbhutam.wordpress.com/category/brahmavada-2/mayavada-brahmavada/)
+- [Buddhism](https://adbhutam.wordpress.com/category/buddhism/)
+- [kannada](https://adbhutam.wordpress.com/category/kannada-2/)
+- [mAyAvAda](https://adbhutam.wordpress.com/category/mayavada/)
+- [mimamsa](https://adbhutam.wordpress.com/category/mimamsa/)
+- [nyaya](https://adbhutam.wordpress.com/category/nyaya/)
+- [nyAya-shAstra](https://adbhutam.wordpress.com/category/nyaya-shastra/)
+- [Perfection in
+  life](https://adbhutam.wordpress.com/category/perfection-in-life/)
+- [pūrva
+  mīmāmsā](https://adbhutam.wordpress.com/category/purva-mimamsa/)
+  - [vaiśeṣika](https://adbhutam.wordpress.com/category/purva-mimamsa/vaise%e1%b9%a3ika-purva-mimamsa/)
+- [ramayanam](https://adbhutam.wordpress.com/category/ramayanam/)
+- [Relative and
+  Absolute](https://adbhutam.wordpress.com/category/relative-and-absolute/)
+- [sadhana](https://adbhutam.wordpress.com/category/sadhana/)
+- [sanatana
+  dharma](https://adbhutam.wordpress.com/category/sanatana-dharma/)
+- [sanskrit](https://adbhutam.wordpress.com/category/sanskrit/)
+- [sanskrit-blog](https://adbhutam.wordpress.com/category/sanskrit-blog/)
+- [shaivam](https://adbhutam.wordpress.com/category/shaivam/)
+- [Shiva-Vishnu-abheda](https://adbhutam.wordpress.com/category/shiva-vishnu-abheda/)
+- [shāktam](https://adbhutam.wordpress.com/category/shaktam/)
+- [Sri Appayya
+  Dikshita](https://adbhutam.wordpress.com/category/sri-appayya-dikshita/)
+- [Sri
+  Narasimha](https://adbhutam.wordpress.com/category/sri-narasimha/)
+- [Sri
+  Vidyaranya](https://adbhutam.wordpress.com/category/sri-vidyaranya/)
+- [Sri Vijayendra
+  Tirtha](https://adbhutam.wordpress.com/category/sri-vijayendra-tirtha/)
+- [srImadbhAgavatam](https://adbhutam.wordpress.com/category/srimadbhagavatam/)
+- [stotrasahitya](https://adbhutam.wordpress.com/category/stotrasahitya/)
+- [Tamil](https://adbhutam.wordpress.com/category/tamil-2/)
+- [Telugu](https://adbhutam.wordpress.com/category/telugu/)
+- [Uncategorized](https://adbhutam.wordpress.com/category/uncategorized/)
+- [vardhanti](https://adbhutam.wordpress.com/category/vardhanti/)
+- [Vedanta](https://adbhutam.wordpress.com/category/vedanta/)
+- [vyakarana](https://adbhutam.wordpress.com/category/vyakarana/)
+- [Wellness](https://adbhutam.wordpress.com/category/wellness/)

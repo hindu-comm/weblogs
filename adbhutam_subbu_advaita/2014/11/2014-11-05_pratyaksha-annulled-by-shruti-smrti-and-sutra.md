@@ -1,0 +1,312 @@
++++
+title = "Adbhutam's Blog"
+full_title = "Adbhutam's Blog"
+upstream_url = "https://adbhutam.wordpress.com/2014/11/05/pratyaksha-annulled-by-shruti-smrti-and-sutra/"
+date = "2014-11-05"
++++
+Source: [here](https://adbhutam.wordpress.com/2014/11/05/pratyaksha-annulled-by-shruti-smrti-and-sutra/).
+
+Adbhutam's Blog
+
+श्रीगुरुभ्यो नमः
+
+प्रत्यक्षस्य श्रुत्या, स्मृत्या तथा सूत्रेण बाधः
+
+Śrīgurubhyo namaḥ
+
+Annulment of Pratyakṣa by the Śruti, Smṛti and Sūtra
+
+अद्वैतिनः प्रत्यक्षप्रमाणस्य व्याप्तिं व्यावहारिकदशायां नैव निराकुर्वन्ति । यतो हि लौकिकशास्त्रीयव्यवहारस्य प्रत्यक्षप्रमाणं विना असम्भवं अभ्युपगच्छन्ति । कर्मयोगभक्तिध्यानश्रवणमनननिदिध्यासनगुरुशुश्रूषादि- मोक्षमुद्दिश्य क्रियमाणं कर्म प्रत्यक्षमवश्यमपेक्षते । यत्र दशायां सर्वव्यवहारस्य बाधः श्रुतिप्रामाण्यादङ्गीकुर्वन्ति, तस्यामेव अवस्थायां प्रत्यक्षादिसर्वप्रमाणबाधम् इच्छन्ति अद्वैतिनः । केयमवस्था कथं तस्यावगतिः इति पृष्टे सति इदमुच्यते प्रत्यक्षस्य श्रुत्या, स्मृत्या तथा सूत्रेण बाधः यथा सम्भवति तथा वक्तव्यम् इति । तदेवात्र प्रदर्श्यते ।
+
+Advaitins do not negate the applicability of pratyakṣa (sense-perception) in the vyāvahārika state. This is because both the worldly and scriptural parlance is impossible to go on without the means called perception. Karma yoga, bhakti, dhyāna, śravaṇa, manana, nididhyāsana, service to the guru, etc. which are performed with the aim of liberation, mokṣa, do require pratyakṣa pramāṇa. In that state alone where, based on the śruti pramāṇa the annulment of all vyavahāra, all the pramāṇas including pratyakṣa are regarded as inapplicable by the Advaitins. What is that state and how is that understood? In reply to such a question is the sequel that demonstrates that pratyakṣa is annulled by the śruti, smṛti and the brahmasūtra.
+
+श्रुत्या बाधः – बृहदारण्यकभाष्ये तावत् कांश्चन श्रुतीनामुल्लेखः क्रियते –
+
+Annullment, bādha, by the Śruti
+
+In the Bṛhadāraṇyaka upaniṣat bhāṣya 1.4.10 Shankara illustrates a few passages from the śruti to show that hundreds of passages of this kind negate all vyavahara. //Br.up.4.4.20 (‘It has to be perceived as One only’), ‘Br.up.4.4.19 (‘There is no multiplicity at all in Brahman’), Br.up.4.5.15 (‘Where it is as though dvaita….’) Chāndogya up. 6.2.1 (‘One only without a second’). All the worldly parlance is superimposed, imagined, in Brahman alone.//
+
+बृहदारण्यकोपनिषद्भाष्यम्।प्रथमोऽध्यायः।चतुर्थं ब्राह्मणम्।मन्त्रः१०–भाष्यम्
+
+// सर्वं हि नानात्वं ब्रह्मणि कल्पितमेव [‘एकधैवानुद्रष्टव्यम्’ (बृ. उ. ४-४-२०)](http://advaitasharada.sringeri.net/php/format.php?bhashya=Brha&page=04&hval=%E2%80%98%E0%A4%8F%E0%A4%95%E0%A4%A7%E0%A5%88%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D%E2%80%99%20%28%E0%A4%AC%E0%A5%83.%20%E0%A4%89.%20%E0%A5%AA-%E0%A5%AA-%E0%A5%A8%E0%A5%A6%29#BR_C04_S04_V20) [‘नेह नानास्ति किञ्चन’ (बृ. उ. ४-४-१९)](http://advaitasharada.sringeri.net/php/format.php?bhashya=Brha&page=04&hval=%E2%80%98%E0%A4%A8%E0%A5%87%E0%A4%B9%20%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%95%E0%A4%BF%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A8%E2%80%99%20%28%E0%A4%AC%E0%A5%83.%20%E0%A4%89.%20%E0%A5%AA-%E0%A5%AA-%E0%A5%A7%E0%A5%AF%29#BR_C04_S04_V19) [‘यत्र हि द्वैतमिव भवति’ (बृ. उ. ४-५-१५)](http://advaitasharada.sringeri.net/php/format.php?bhashya=Brha&page=04&hval=%E2%80%98%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%B9%E0%A4%BF%20%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A5%88%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%B5%20%E0%A4%AD%E0%A4%B5%E0%A4%A4%E0%A4%BF%E2%80%99%20%28%E0%A4%AC%E0%A5%83.%20%E0%A4%89.%20%E0%A5%AA-%E0%A5%AB-%E0%A5%A7%E0%A5%AB%29#BR_C04_S05_V15) [‘एकमेवाद्वितीयम्’ (छा. उ. ६-२-१)](http://advaitasharada.sringeri.net/php/format.php?bhashya=Chandogya&page=06&hval=%E2%80%98%E0%A4%8F%E0%A4%95%E0%A4%AE%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D%E2%80%99%20%28%E0%A4%9B%E0%A4%BE.%20%E0%A4%89.%20%E0%A5%AC-%E0%A5%A8-%E0%A5%A7%29#Ch_C06_S02_V01) इत्यादिवाक्यशतेभ्यः, सर्वो हि लोकव्यवहारो ब्रह्मण्येव कल्पितो न परमार्थः सन्…//
+
+तत्र इयं श्रुतिमादाय प्रत्यक्षस्य श्रुत्या बाधः प्रतिपाद्यते – [‘यत्र हि द्वैतमिव भवति’ (बृ. उ. ४-५-१५)](http://advaitasharada.sringeri.net/php/format.php?bhashya=Brha&page=04&hval=%E2%80%98%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%B9%E0%A4%BF%20%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A5%88%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%B5%20%E0%A4%AD%E0%A4%B5%E0%A4%A4%E0%A4%BF%E2%80%99%20%28%E0%A4%AC%E0%A5%83.%20%E0%A4%89.%20%E0%A5%AA-%E0%A5%AB-%E0%A5%A7%E0%A5%AB%29#BR_C04_S05_V15) अस्याः श्रुतेर्मन्त्रवर्णः एवं भवति –
+
+Among the above passages this one in particular is taken up here for presentation: Br.up.4.5.15 (‘Where it is as though dvaita….’)
+
+// यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति तदितर इतरं जिघ्रति तदितर इतरं रसयते तदितर इतरमभिवदति तदितर इतरं शृणोति तदितर इतरं मनुते तदितर इतरं स्पृशति तदितर इतरं विजानाति यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्तत्केन कं जिघ्रेत्तत्केन कं रसयेत्तत्केन कमभिवदेत्तत्केन कं शृणुयात्तत्केन कं मन्वीत तत्केन कं स्पृशेत्तत्केन कं विजानीयाद्येनेदं सर्वं विजानाति तं केन विजानीयात्स एष नेति नेत्यात्मागृह्यो न गृह्यतेऽशीर्यो न हि शीर्यतेऽसङ्गो न हि सज्यतेऽसितो न व्यथते न रिष्यति विज्ञातारमरे केन विजानीयादित्युक्तानुशासनासि मैत्रेय्येतावदरे खल्वमृतत्वमिति होक्त्वा याज्ञवल्क्यो विजहार ॥ १५ ॥ //
+
+
+
+// 15. Because when there is duality, as it were, then one sees something, one smells something,
+
+one tastes something, one speaks something, one hears something, one thinks something, one
+
+touches something, one knows something. But when to the knower of Brahman everything has
+
+become the Self, then what should one see and through what, what should one smell and through
+
+what, what should one taste and through what, what should one speak and through what,
+
+what should one hear and through what, what should one think and through what, what should
+
+one touch and through what, what should one know and through what ? Through what should
+
+.one know that owing to which all this is known? This self is That which has been described as
+
+- Not this, not this.’ It is imperceptible, for It is never perceived;
+  undecaying, for It never
+
+decays; unattached, for It is never attached; unfettered-it never feels pain, and never suffers
+
+injury. Through what, 0 Maitreyi, should one know the Knower? So you have got the instruction,
+
+Maitreyi. This much indeed is (the means of) immortality, my dear. Saying this Yajfiavalkya
+
+left.//
+
+अत्र पूर्वभागे प्रत्यक्षमनूद्यते श्रुत्या यत्र द्वैताङ्गीकारावस्थायां अन्यस्य अन्यदर्शनघ्राणादिज्ञानेन्द्रियव्यापरः तथा वदनादिकर्मेन्द्रियव्यापारः मनोबुद्धिव्यापारः चोपलक्षणत्वेन अनूद्यते । अस्मिन्नुदाहरणे सर्वोऽपि प्रत्यक्षसाध्यव्यवहारो गृहीतो वर्तते । ततः परं ’यत्र त्वस्य सर्वमात्मैवाभूत्’ इत्यंशेन तुशब्दप्रयोगेण पूर्वोदाहृतप्रत्यक्षव्यवहारं पूर्वपक्षं व्यावृत्य सर्वात्मदर्शनावस्थायां सर्वस्यापि प्रत्यक्षसाध्यव्यवहारस्य असम्भवं ब्रुवन् श्रुतिः आत्मनोऽद्वैतादिस्वभावं बोधयति । एतेन उदाहरणत्वेन दर्शितैकेन श्रुतिवाक्येन प्रत्यक्षस्य श्रुतिकृतबाधः प्रदर्शितः ।
+
+
+
+Here, in the first part the śruti is alluding to, restating, (anuvāda), the pratyakṣa-driven duality-ridden vyavahāra state where all the sense organs are employed. The motor organs’ activity and the mental and intellectual perceptions too are mentioned as a representative. After this, in the next part, the state where ‘everything is realized to be the Ātman’, is described by negating all that was stated as the non-realized state of duality. After doing this, the śruti states the true nature of the Advaitic Self. By this instance the annulment of pratyakṣa by the Śruti is demonstrated.
+
+स्मृत्या बाधः
+
+
+
+श्रीमद्भगवद्गीतायां श्लोकमिमं स्मृतिकृतप्रत्यक्षबाधाय उदाह्रियते –
+
+Now the bādha of pratyakṣa by the smṛti is taken up:
+
+
+
+ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।  
+ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥ ४.२४ ॥
+
+भाष्यम्
+
+// ब्रह्म अर्पणं येन करणेन ब्रह्मवित् हविः अग्नौ अर्पयति तत् ब्रह्मैव इति पश्यति, तस्य आत्मव्यतिरेकेण अभावं पश्यति, यथा शुक्तिकायां रजताभावं पश्यति ; तदुच्यते ब्रह्मैव अर्पणमिति, यथा यद्रजतं तत् शुक्तिकैवेति । ‘ब्रह्म अर्पणम्’ इति असमस्ते पदे । यत् अर्पणबुद्ध्या गृह्यते लोके तत् अस्य ब्रह्मविदः ब्रह्मैव इत्यर्थः । ब्रह्म हविः तथा यत् हविर्बुद्ध्या गृह्यमाणं तत् ब्रह्मैव अस्य । तथा ‘ब्रह्माग्नौ’ इति समस्तं पदम् । अग्निरपि ब्रह्मैव यत्र हूयते ब्रह्मणा कर्त्रा, ब्रह्मैव कर्तेत्यर्थः । यत् तेन हुतं हवनक्रिया तत् ब्रह्मैव । यत् तेन गन्तव्यं फलं तदपि ब्रह्मैव ब्रह्मकर्मसमाधिना ब्रह्मैव कर्म ब्रह्मकर्म तस्मिन् समाधिः यस्य सः ब्रह्मकर्मसमाधिः तेन ब्रह्मकर्मसमाधिना ब्रह्मैव गन्तव्यम् ॥ //
+
+
+
+
+
+In the Bhagavadgita 4.24 it is taught:
+
+
+
+4.24 The ladle is, Brahman, the oblations is Brahman, the offering is poured by Brahman in the fire of Brahman. Brahman alone is to be reached by him who has concentration on Brahman as the objective As an object to be known and attained. (Some translate brahma-karma-samadhina as, ‘by him who sees Brahman in action’.)
+
+
+
+Shankara’s commentary:
+
+
+
+// 4.24 Brahma-arpanam, the ladle is Brahman: The knower of Brahman perceives the instrument with which he offers oblation in the fire as Brahman Itself. He perceives it as not existing separately from the Self, as one sees the non-existence of silver in nacre. In this sense it is that Brahman Itself is the ladle-just as what appears as silver is only narcre. (The two words brahma and arpanam are not parts of a compound word, samasa.) The meaning is that, to a knower of Brahman, what is perceived in the world as ladle is Brahman Itself. Similarly, brahma-havih, the oblations is Brahman: To him, what is seen as oblations is nothing but Brahman.In the same way, brahma-agnau, (-this is a compound word-) in the fire of Brahman: The fire into which oblation is hutam, poured; brahmana, by Brahman, by the agent, is Brahman Itself. The meaning is that Brahman Itself is the agent (of the offering). That he makes the offering-the act of offering-, that is also Brahman. And the result that is gantavyam, to be reached by him; that also is brahma eva, surely Brahman.Brahma-karma-samadhina, by him who has concentration on Brahman as the objective//
+
+
+
+
+
+अत्रापि पूर्वोदाहृतश्रुतिवाक्ये यथा तथैव प्रत्यक्षसाध्यहविरर्पणादिव्यवहारोऽनूद्यते । सर्वोऽपि तद्व्यवहारो ब्रह्म साक्षात्कृतवतः पुरुषस्य ब्रह्मातिरेकाभावो गृह्यत इत्येतदुपदिश्यते भगवता । अन्यदपि वाक्यजातमस्ति गीतायामेव – तथा हि [‘कर्मण्यकर्म यः पश्येत्’ (भ. गी. ४-१८)](http://advaitasharada.sringeri.net/php/format.php?bhashya=Gita&page=04&hval=%E2%80%98%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%20%E0%A4%AF%E0%A4%83%20%E0%A4%AA%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%A4%E0%A5%8D%E2%80%99%20%28%E0%A4%AD.%20%E0%A4%97%E0%A5%80.%20%E0%A5%AA-%E0%A5%A7%E0%A5%AE%29#BG_C04_V18), ’ विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि । शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥ ५.१८ ॥ ‘या निशा सर्वभूतानां तस्यां जागर्ति संयमी । यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ‘॥ २.६९ ॥ इत्येवंजातीयकं स्मृतिनिर्वर्तितप्रत्यक्षबाधविषये योजयितव्यम् ।
+
+
+
+Here too, just as the above referred Śruti passage, the verse is alluding to the pratyakṣa-driven vyavahāra of offering the material in the sacrificial fire. The Lord teaches that all this vyavahāra is seen as non-existent, non-different from Brahman by the self-realized person. There are other verses also in the Gitā which drive home the same point as the above:
+
+
+
+4.18 He who finds inaction in action, and action in inaction, he is the wise one Possessed of the knowledge of Brahman among men; he is engaged in yoga and is a performer of all actions!
+
+5.18 The learned ones look with equanimity on a Brahmana endowed with learning and humality, a cow, an elephant and even a dog as well as an eater of dog’s meat.
+
+2.69 The self-restrained man keeps awake during that which is night for all creatures. That during which creatures keep awake, it is night to the seeing sage. \[Pl. read the bhāṣya for a clear understanding of these verses.\]
+
+
+
+Such passages have to be collected to appreciate the pratyakṣa bādha by smṛti.
+
+
+
+Now, the bādha of pratyakṣa by the Brahma sūtra is stated:
+
+
+
+श्रीबादरायणकृतब्रह्मसूत्रेषु द्वितीयाध्यायगतप्रथमपादे ४५. आरम्भणाधिकरणम् तावत् प्रत्यक्षेण गृह्यमाणजगदाख्यकार्यस्य ब्रह्माख्यकारणव्यतिरेकेणाभावशब्दितमिथ्यात्वप्रतिपादनाय विशेषतः प्रवृत्तम् । इदमेवानन्यत्वं कार्यस्य कारणात् ।
+
+In the Bādarāyaṇa sūtras the 45th Adhikaraṇa (Ārambhaṇādhikaraṇa) consisting of seven sutras deal with this topic of showing that the effect that is the world is non-different from the cause that is Brahman. In other words, the effect does not exist as a separate entity other than an appearance of the cause. The sutras 2.1.14 to 2.1.20 may be studied with the Acharya’s bhāṣya.
+
+तदनन्यत्वमारम्भणशब्दादिभ्यः ॥ २.१.१४ ॥ भाष्यम्
+
+भावे चोपलब्धेः ॥ १५ ॥ भाष्यम्
+
+सत्त्वाच्चावरस्य ॥ १६ ॥ भाष्यम्
+
+असद्व्यपदेशान्नेति चेन्न धर्मान्तरेण वाक्यशेषात् ॥ १७ ॥ भाष्यम्
+
+युक्तेः शब्दान्तराच्च ॥ १८ ॥ भाष्यम्
+
+पटवच्च ॥ १९ ॥ भाष्यम्
+
+यथा च प्राणादि ॥ २० ॥ भाष्यम्
+
+Conclusion:
+
+एवं च प्रस्थानत्रयगतप्रमाणेन प्रत्यक्षस्य बाधो दृष्टः । अस्मिन् सन्दर्भे बाधशब्दस्यार्थः सम्यग्गृहीतव्यः । बाधो नाम न बाधप्रतियोगिनोऽदृश्यत्वम् अपि तु तन्मिथ्यात्वनिश्चय एव । मरुमरीचिकां दृष्ट्वा तत्र उदकबुद्धिर्यस्य जायते तस्यैव तत्समीपं गत्वा नास्त्यत्र जलम् इति सम्यग्ज्ञानं प्राप्य पुनः यत्र यत्र मरुमरीचिकादर्शनं भवति तत्र तत्र उदकाभासदर्शनसमकाल एव तोयसत्वं न कलयति । तथैव प्रत्यक्षप्रमाणजनितविषयप्रमितिवेलायामपि ‘नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्। पश्यन् श्रृणवन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन् श्वसन्।।५.८।। प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि। इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्’ (५.९), ’गुणा गुणेषु वर्तन्ते’ (३.२८) इति न तत्र सत्यत्वबुद्धिं भजति । भगवद्गीतायामेव त्रयोदशाध्याये ’इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते । एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ॥ १ ॥ इत्युपक्रम्य क्षेत्रविवरणावसरे महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च । इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ॥ ५ ॥ इच्छा द्वेषः सुखं दुःखं संघातश्चेतना धृतिः । एतत्क्षेत्रं समासेन सविकारमुदाहृतम् ॥ ६ ॥ इति कृत्स्नस्य प्रमातृ-प्रमाण-प्रमेय-प्रमितिजातस्य क्षेत्रकुक्षिपतितत्वं दर्शयन् तस्य दृश्यत्वमपि, वेद्यत्वमपि, ज्ञापयति भगवान् । एवं च यथा प्रथमस्तरे इन्द्रियाणि प्रति शब्दादिविषयाः विषयत्वम्, वेद्यत्वं, दृश्यत्वं भजन्ते, तथैव तदुत्तरस्तरे इन्द्रियाणामपि तद्विषयैः तज्जनितप्रमितिभिः सह वेद्यत्वम्, विषयत्वम्, दृश्यत्वं च बोधयति भगवान् । दृश्यस्य वेद्यस्य मिथ्यात्वमपि ज्ञापयति अध्यायान्ते – क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा। भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम्।।13.35।।
+
+तत्र भाष्यम् –
+
+— -क्षेत्रक्षेत्रज्ञयोः यथाव्याख्यातयोः एवं यथाप्रदर्शितप्रकारेण अन्तरम् इतरेतरवैलक्षण्यविशेषं ज्ञानचक्षुषा शास्त्राचार्यप्रसादोपदेशजनितम् आत्मप्रत्ययिकं ज्ञानं चक्षुः, तेन ज्ञानचक्षुषा, भूतप्रकृतिमोक्षं च, भूतानां प्रकृतिः अविद्यालक्षणा अव्यक्ताख्या, तस्याः भूतप्रकृतेः मोक्षणम् अभावगमनं च ये विदुः विजानन्ति, यान्ति गच्छन्ति ते परं परमात्मतत्त्वं ब्रह्म, न पुनः देहं आददते इत्यर्थः ।।13.35।।
+
+एवंप्राप्तक्षेत्रक्षेत्रज्ञविवेकः प्रत्यक्षप्रमाणग्राहिप्रपञ्चस्य इन्द्रियैः सह वेद्यतया, दृश्यतया पश्यन् तस्य मिथ्यात्वमप्यवगम्य आ देहपातं कालं नयति । एतादृशपरमार्थज्ञानसद्भावेऽपि व्यावहारिकप्रत्यक्षजनितप्रमां तदुचितव्यवहारेण उपपादयन् जीवत्ययम् । द्रष्टा, क्षेत्रज्ञः, क्षेत्रवेत्ता, नैव बाध्यते, अदृश्यत्वात् \[अदृश्यो द्रष्टा..इति श्रुते.:\], यथा आत्मा, इति अनुमानेन द्रष्टुरबाध्यत्वमपि सिद्ध्यति ।
+
+इति प्रत्यक्षस्य यद्यपि उपजीव्यत्वं श्रुतिस्मृतिसूत्राणि प्रति तथापि तैरेव तस्य बाधो बहुधा उपदिश्यते इति सर्वमनवद्यम् ।
+
+श्रीसद्गुरुचरणारविन्दार्पणमस्तु
+
+Thus has been shown/seen the bādha of prtyakṣa as taught in the prasthānatraya. At this juncture it is important to clearly grasp the meaning of the term ‘bādha’ used by Advatins. ‘Bādha’ is not the disappearance from the field of perception of that which is annulled but the determination of its unreality, mithyātvam. When a person perceives a mirage phenomenon, at first, not knowing that it is a mirage formation, he thinks there is water there. When he nears the spot, he gains the knowledge that there is no water but what was experienced is only an appearance thereof. For him, repeated perceptions of similar phenomenon will not bring up the water-thought but he knows that even while appearing so, there is no water really there. In the same manner the Knower of the pāramārthika Truth, even while engaged in perception activity knows that ‘he is not really attached to the apparent perception activity’ as taught in the BG verse:
+
+5.8-5.9 Remaining absorbed in the Self, the knower of Reality should think, ‘I certainly do not do anything’, even while seeing, hearing, touching, smelling, eating, moving, sleeping, breathing, speaking, releasing, holding, opening and closing the eyes-remembering that the organs function in relation to the objects of the organs.
+
+And 3.28 But, O mighty-armed one, the one who is a knower of the facts about the varieties of the gunas (qualities) and actions does not become attached, thinking thus: ‘The organs rest (act) on the objects of the organs.’
+
+This non-attachment is what signifies mithyātva of the perceived objects. He knows that the realm of perception is in the realm of the body-mind which is a perceived object for the Ātman, the realized person.
+
+In this manner he does not hold the pratyakṣa-ridden activity as real. In the Bhagavadgītā itself we have in the 13^(th) chapter:
+
+13.1 The Blessed Lord said — O son of Kunti, this body is referred to as the ‘field’. Those who are versed in this call him who is conscious of it as the ‘knower of the field’.
+
+
+
+Having mentioned the ‘field’, the Lord specifies what that field is constituted of:
+
+13.6 The great elements, egoism, intellect and the Unmanifest itself; the ten organs and the one, and the five objects of the senses;
+
+13.7 Desire, repulsion, happiness, sorrow, the aggregate (of body and organs), sentience, fortitude- this field, together with its modifications, has been spoken of briefly.
+
+
+
+Thus having shown that the entire lot of knower-knowing (instruments)-knowable objects and-knowledge to be in the objective field, the Lord goes on to finally negate the entire field as non-existent:
+
+
+
+13.35 Those who know thus through the eye of wisdom the distinction between the field and the Knower of the field, and the annihilation of the Matrix of beings,-they reach the Supreme.
+
+
+
+The bhāṣya:
+
+
+
+13.35 Ye, those who; viduh, know; evam, thus, in the manner described above; jnana-caksusa, through the eye of wisdom-the eye is the realization in the form of the knowledge of the Self, which arises from following the instructions of the scriptures and teachers; through that eye of wisdom; antaram, the distinction, the particular mutual distinction; ksetra-ksetrajnayoh, beween the field and the Knower of the field as they have been explained; and bhuta-prakrti-moksam, the annihilation of the Matrix of beings-the Matrix of beings is that which is described as ignorance and is called the Unmanifest; (those who know) the annihilation (moksanam) of that Matrix of beings; te, they; yanti, reach, go to; param, the Supreme, to Brahman, the Reality which is the suprme Goal. The idea is that they do not take up a body again.
+
+
+
+This is the way the Lord teaches the annulment of the kṣetra, field, the objective whole. The Subject, the Knowing Consciousness alone is real, un-negatable as it never comes under the knowable, vedyam, dṛśyam. The Seer/Knower-of-the-field is never annulled, because he is never the seen, ever the Seer.\[‘ unseen but the seer…\[Br.up.3.7.23\]
+
+
+
+He who has secured the discriminative realization between the Knower-of-the-field and the field, lives on till the fall of the body, witnessing the pratyakṣa-driven world of vyavahāra knowing full well its unreality, mithyātvam.
+
+
+
+Thus, even though pratyakṣa is depended upon by the Śruti, Smṛti and the Sūtra for knowing them, yet since the former (pratyakṣa) is negated, annulled by these three texts (prasthānatraya) themselves, there is no incongruity.
+
+
+
+This Sanskrit- only article can be downloaded from:
+
+[http://www.mediafire.com/download/2cxwgh1d2m3agru/pratyakshasya+baadhah.docx](http://www.mediafire.com/download/2cxwgh1d2m3agru/pratyakshasya+baadhah.docx)
+
+It is available for reading:
+
+> [प्रत्यक्षस्य
+> बाधः](https://adbhutam.wordpress.com/2014/11/05/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%b8%e0%a5%8d%e0%a4%af-%e0%a4%ac%e0%a4%be%e0%a4%a7%e0%a4%83/)
+
+The Sanskrit-English version is available here:
+
+[http://www.mediafire.com/download/qcbwd8q040bwqqm/Pratyaksha+English-Sanskrit.docx](http://www.mediafire.com/download/qcbwd8q040bwqqm/Pratyaksha+English-Sanskrit.docx)
+
+Śrīsadgurucaraṇāravindārpaṇamastu
+
+
+
+
+
+
+
+
+
+
+
+### Share this:
+
+- [Share](#)
+- 
+
+- [Share on X (Opens in new window)
+  X](https://adbhutam.wordpress.com/2014/11/05/pratyaksha-annulled-by-shruti-smrti-and-sutra/?share=twitter)
+- [Share on Facebook (Opens in new window)
+  Facebook](https://adbhutam.wordpress.com/2014/11/05/pratyaksha-annulled-by-shruti-smrti-and-sutra/?share=facebook)
+- 
+
+Like Loading...
+
+### *Related*
+
+Posted in [Advaita](https://adbhutam.wordpress.com/category/advaita/), [advaita and dvaita vedanta](https://adbhutam.wordpress.com/category/advaita-and-dvaita-vedanta/), [संस्कृतलेखनम्](https://adbhutam.wordpress.com/category/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%b2%e0%a5%87%e0%a4%96%e0%a4%a8%e0%a4%ae%e0%a5%8d/), [sanskrit](https://adbhutam.wordpress.com/category/sanskrit/) \| Tags: [pratyaksha](https://adbhutam.wordpress.com/tag/pratyaksha/), [Shankara](https://adbhutam.wordpress.com/tag/shankara/), [Shruti](https://adbhutam.wordpress.com/tag/shruti/)
+
+- [Advaita](https://adbhutam.wordpress.com/category/advaita/)
+  - [shāktam](https://adbhutam.wordpress.com/category/advaita/shaktam-advaita/)
+- [Advaita &
+  Science](https://adbhutam.wordpress.com/category/advaita-science/)
+- [advaita and dvaita
+  vedanta](https://adbhutam.wordpress.com/category/advaita-and-dvaita-vedanta/)
+- [Advaita and
+  Vishishtadvaita](https://adbhutam.wordpress.com/category/advaita-and-vishishtadvaita/)
+- [Ashtottaram](https://adbhutam.wordpress.com/category/ashtottaram/)
+- [संस्कृतलेखनम्](https://adbhutam.wordpress.com/category/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%b2%e0%a5%87%e0%a4%96%e0%a4%a8%e0%a4%ae%e0%a5%8d/)
+- [Bheda-Abheda](https://adbhutam.wordpress.com/category/bheda-abheda/)
+- [brahmavAda](https://adbhutam.wordpress.com/category/brahmavada-2/)
+  - [mAyAvada](https://adbhutam.wordpress.com/category/brahmavada-2/mayavada-brahmavada/)
+- [Buddhism](https://adbhutam.wordpress.com/category/buddhism/)
+- [kannada](https://adbhutam.wordpress.com/category/kannada-2/)
+- [mAyAvAda](https://adbhutam.wordpress.com/category/mayavada/)
+- [mimamsa](https://adbhutam.wordpress.com/category/mimamsa/)
+- [nyaya](https://adbhutam.wordpress.com/category/nyaya/)
+- [nyAya-shAstra](https://adbhutam.wordpress.com/category/nyaya-shastra/)
+- [Perfection in
+  life](https://adbhutam.wordpress.com/category/perfection-in-life/)
+- [pūrva
+  mīmāmsā](https://adbhutam.wordpress.com/category/purva-mimamsa/)
+  - [vaiśeṣika](https://adbhutam.wordpress.com/category/purva-mimamsa/vaise%e1%b9%a3ika-purva-mimamsa/)
+- [ramayanam](https://adbhutam.wordpress.com/category/ramayanam/)
+- [Relative and
+  Absolute](https://adbhutam.wordpress.com/category/relative-and-absolute/)
+- [sadhana](https://adbhutam.wordpress.com/category/sadhana/)
+- [sanatana
+  dharma](https://adbhutam.wordpress.com/category/sanatana-dharma/)
+- [sanskrit](https://adbhutam.wordpress.com/category/sanskrit/)
+- [sanskrit-blog](https://adbhutam.wordpress.com/category/sanskrit-blog/)
+- [shaivam](https://adbhutam.wordpress.com/category/shaivam/)
+- [Shiva-Vishnu-abheda](https://adbhutam.wordpress.com/category/shiva-vishnu-abheda/)
+- [shāktam](https://adbhutam.wordpress.com/category/shaktam/)
+- [Sri Appayya
+  Dikshita](https://adbhutam.wordpress.com/category/sri-appayya-dikshita/)
+- [Sri
+  Narasimha](https://adbhutam.wordpress.com/category/sri-narasimha/)
+- [Sri
+  Vidyaranya](https://adbhutam.wordpress.com/category/sri-vidyaranya/)
+- [Sri Vijayendra
+  Tirtha](https://adbhutam.wordpress.com/category/sri-vijayendra-tirtha/)
+- [srImadbhAgavatam](https://adbhutam.wordpress.com/category/srimadbhagavatam/)
+- [stotrasahitya](https://adbhutam.wordpress.com/category/stotrasahitya/)
+- [Tamil](https://adbhutam.wordpress.com/category/tamil-2/)
+- [Telugu](https://adbhutam.wordpress.com/category/telugu/)
+- [Uncategorized](https://adbhutam.wordpress.com/category/uncategorized/)
+- [vardhanti](https://adbhutam.wordpress.com/category/vardhanti/)
+- [Vedanta](https://adbhutam.wordpress.com/category/vedanta/)
+- [vyakarana](https://adbhutam.wordpress.com/category/vyakarana/)
+- [Wellness](https://adbhutam.wordpress.com/category/wellness/)
