@@ -1,0 +1,69 @@
++++
+title = "Destroying History to"
+full_title = "Destroying History to change Geography"
+upstream_url = "https://mylapore.substack.com/p/destroying-history-to-change-geography"
+date = "2013-01-23"
++++
+Source: [here](https://mylapore.substack.com/p/destroying-history-to-change-geography).
+
+Destroying History to change Geography
+
+# Destroying History to change Geography
+
+[](https://substack.com/@amaruvi)
+
+![Amaruvi Devanathan's avatar](https://substackcdn.com/image/fetch/$s_!Bq_i!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F357700fd-8e69-44fa-a5f8-000e6e26808a_1002x1002.jpeg)
+
+[Amaruvi Devanathan](https://substack.com/@amaruvi)
+
+Jan 23, 2013
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share
+
+Great news item. An 1300 year old temple was "saved" from demolition.
+
+Who "saved" it? - The villagers of Panaiyapuram, a village in Tamil Nadu.
+
+Who wanted to demolish it? - The Govt of India through its NHAI (National Highways Authority ).
+
+Why should they demolish it ? - to build a road .
+
+Who built the temple ? - King Rajendra Cholan s/o Rajaraja Cholan who built the Tanjavore Big Temple.
+
+When was it built ? - 7th century AD.
+
+Who has sung in praise of The Lord in the temple ? - St.Thirugnana Sambandhar - one of the four stalwarts of Saiva Siddantha.
+
+And the news item says that the temple has been "saved" akin to saving a temple from a barbaric invader from Afghanistan.
+
+The US and Singapore want to preserve 100 year old buildings in the name of heritage. But we are happy to demolish an 1300 year old temple in the name of development ?
+
+Don't we have the Archealogical Survey Of India that is supposed to protect these structures ?
+
+Is there no sanctity accorded to the temple at all ? The fact that the temple is older than some of the new religions themselves, the fact that the temple has been sung by St. Sambandhar, the fact that there is a deep sense of history in the minds of the Indians and lastly there is this divinity that dates back to time immemorial - all these have not stopped our govt departments to attempt to destroy a magnificent piece of our culture .
+
+What kind of a skewed development is this when you want to destroy history to change your geography?
+
+As could only be expected, no Dravidian party worth it's name that has often claimed to have espoused the cause of Tamil language and culture was anywhere to be seen in this effort to stop the demolition.
+
+It was just the united efforts of the villagers that had helped.
+
+Where are we, as a nation, heading ?
+
+[](https://lh5.googleusercontent.com/-BSDAF17azIo/UP9DYdggX3I/AAAAAAAABAA/Tc28jxYPStc/s640/blogger-image--380908257.jpg)
+
+![](https://substackcdn.com/image/fetch/$s_!TIkA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1f8b0af-a53c-4f15-8022-9d4185d25c5d_640x427.jpeg)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share

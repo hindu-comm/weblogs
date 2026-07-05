@@ -1,0 +1,63 @@
++++
+title = "Our moon has blood clots"
+full_title = "Our moon has blood clots a review"
+upstream_url = "https://mylapore.substack.com/p/our-moon-has-blood-clots-a-review"
+date = "2015-12-23"
++++
+Source: [here](https://mylapore.substack.com/p/our-moon-has-blood-clots-a-review).
+
+Our moon has blood clots - a review
+
+# Our moon has blood clots - a review
+
+[](https://substack.com/@amaruvi)
+
+![Amaruvi Devanathan's avatar](https://substackcdn.com/image/fetch/$s_!Bq_i!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F357700fd-8e69-44fa-a5f8-000e6e26808a_1002x1002.jpeg)
+
+[Amaruvi Devanathan](https://substack.com/@amaruvi)
+
+Dec 23, 2015
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share
+
+You can write a poem comparing the moon with your mama, ask it to bring you milk and honey, call it a 'literary masterpiece' and later get awarded for your poem or look at the blood spots in the moon and reflect your life on that scenario. Rahul Pandita has done the latter.
+
+Rahul's father spends all his PF money to build a 22 room house in a valley from which the family is chased out to a one-room house atop a charity that stands on a gutter. From there the family moves to many such one-room hells. Nothing spectacular in this but that there were many thousands of families like that of Rahul's. And Rahul is a Pandit from Kashmir.
+
+An extremely well-written and spine-chilling account of the Pandit exodus from Kashmir due to the rise of Pakistan-sponsored Islamic terrorism aided by Indian politicial class's pussillanimity, 'Our moon as blood clots' is bound to bring tears to the reader.
+
+Rahul Pandita,the well-known journalist, provides a first hand account of the atrocities meted out to the Pandits in the Kashmir valley in the 80s and 90s. From an idyllic life in the valley where he could get apples from his garden, his life and that of his parents take a miserable turn and wobbles on top of the waves of uncertainty in Jammu and later in Delhi.
+
+Rahul does a decent job of recording the antecedents of the Pandits of Kashmir, the extreme emphasis that the Pandits laid on education and the agony of being a refugee in one's own country in a lucid and easy to read style in this book.
+
+Rahul describes the many killings of his friends and relatives. For those that thought cries of 'Allah-o-Akbar' and 'Kill-the infidels' followed by killings were in the far-off lands of the middle-east, get over your stupidity. These are very much real and present in our own country, in an in-separable part of the nation, sponsored by an inimical neighbour.
+
+The savagery of the tribal invaders of 1947 is met in quality and quantity by the Pakistan trained Kashmiris who belong to the Jaish-e-Mohammad, Harkat-ul-Mujahideen and JKLF. The ordinary Muslims are helpless witness to the massacre of the minority Hindu Pandits.
+
+[](https://substackcdn.com/image/fetch/$s_!AnTY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F330fe7d0-2f51-4c15-98de-1bf77855a5f7_197x300.jpeg)
+
+![51fkaixwtwl-\_sx325_bo1204203200\_](https://substackcdn.com/image/fetch/$s_!AnTY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F330fe7d0-2f51-4c15-98de-1bf77855a5f7_197x300.jpeg "51fkaixwtwl-_sx325_bo1204203200_")
+
+![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+
+The way Pandits were hounded out, the manner in which the Pak-backed militants used the loud speakers in the mosques of Kashmir to drown the gun-shot sounds and the cries of the Pandits, the extreme apathy and impotence shown by successive governments to meet the challenge head on- these serve to remind us of the precautions that India needs to take to quell such future genocides before they begin.
+
+A necessary and must read for anyone who needs to know what happened to the Kashmiri Pandits.
+
+You can get the book [here](http://www.amazon.in/Our-Moon-Has-Blood-Clots/dp/818400513X/ref=sr_1_1?s=books&ie=UTF8&qid=1450864634&sr=1-1&keywords=our+moon+has+blood+clots).
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share

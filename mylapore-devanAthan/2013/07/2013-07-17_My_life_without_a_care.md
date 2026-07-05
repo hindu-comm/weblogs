@@ -1,0 +1,47 @@
++++
+title = "My life without a care"
+full_title = "My life without a care !"
+upstream_url = "https://mylapore.substack.com/p/my-life-without-a-care"
+date = "2013-07-17"
++++
+Source: [here](https://mylapore.substack.com/p/my-life-without-a-care).
+
+My life without a care !
+
+# My life without a care !
+
+[](https://substack.com/@amaruvi)
+
+![Amaruvi Devanathan's avatar](https://substackcdn.com/image/fetch/$s_!Bq_i!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F357700fd-8e69-44fa-a5f8-000e6e26808a_1002x1002.jpeg)
+
+[Amaruvi Devanathan](https://substack.com/@amaruvi)
+
+Jul 17, 2013
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share
+
+So the super intelligentsia have decided to hike FDI in insurance and defense. And no debate about it. People and media talk about Modi's puppy and Rahul's goat.
+
+Well there is a story behind this FDI. You oppose this and you are likely to be termed 'backward'. At the cost of being termed one, let me decipher this.
+
+We need to understand the art of camouflaging. And who else but the UPA are adept in that. So they pass the Food Security Ordinance, make the media talk about it and while the TV is turned into a screen that has six boxes each barking at the same time, they surreptitiously pass an ordinance on FDI. Why, so that the media and the opposition keep quiet. The media would any way keep quiet as the get their regular advertisements from the UPA.
+
+So, as a progressive, I want to welcome this FDI in defense. This is because I will have to pretend that the US will pass on the F-32 and F-35 technology to us. They will not try to dump the out dated F-16 on us. And money will start pumping in into the markets especially in the defense industries from the US.
+
+About insurance, yes, all multi national insurance companies would start selling dirt cheap insurance to the masses in Usilampatti, and Mayavaram to the rick-shaw pullers and shoe menders. And lo and behold, the government insurance companies would start treating citizens like royals.
+
+The UPA has given Me the Food Security Bill. So I will get food delivered to my house. They have given me the Rural Employment Guarantee Act. So I have a job for 100 days and get paid Rs100 per day. They have given me the Right to Education Act. So I would have automatically become literate. So I have education, food and employment. So, I would probably never fall ill. And even if I fall I'll I have the foreign insurance companies to take care of me. So what do I care?
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share

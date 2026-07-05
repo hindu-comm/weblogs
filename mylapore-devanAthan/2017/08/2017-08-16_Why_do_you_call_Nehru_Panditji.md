@@ -1,0 +1,55 @@
++++
+title = "Why do you call Nehru,"
+full_title = "Why do you call Nehru, 'Panditji' ?"
+upstream_url = "https://mylapore.substack.com/p/why-do-you-call-nehru-panditji"
+date = "2017-08-16"
++++
+Source: [here](https://mylapore.substack.com/p/why-do-you-call-nehru-panditji).
+
+Why do you call Nehru, 'Panditji' ?
+
+# Why do you call Nehru, 'Panditji' ?
+
+[](https://substack.com/@amaruvi)
+
+![Amaruvi Devanathan's avatar](https://substackcdn.com/image/fetch/$s_!Bq_i!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F357700fd-8e69-44fa-a5f8-000e6e26808a_1002x1002.jpeg)
+
+[Amaruvi Devanathan](https://substack.com/@amaruvi)
+
+Aug 16, 2017
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share
+
+'Why do you say 'Panditji' while refering to Nehru? Why the honorific ;ji'? Do you concur with his policies?' asks a reader.
+
+Here is why:
+
+Jawahar Lal Nehru, a Kasmiri Pandit, came into my world as Pandit Nehru. Neyveli, a brainchild of Nehru, Kamaraj, Venkatraman and C.Subramaniam, had Panditji enshrined in every possible space. I am a product of Jawahar School, named after him.
+
+For me, Panditji, like Gandhiji, Netaji, Rajaji and Kamaraj, is a national hero. No doubt, he made mistakes (three costly ones included). So did all others.
+
+A leader doesn't come to us chiseled in pristine silver, but as a Pancha-Loka - a mixture of several characteristics and attributes. Some characteristics outshine the others. That is all about it.
+
+Gandhiji too made mistakes. But that doesn't diminish his sacrifice or achievements. So did Netaji. He aligned with Hitler, but for a greater cause. That doesn't make Netaji a person not worthy of respect and awe.
+
+Rajaji, for all his intellect and impeccable integrity, aligned with the anti-national DMK. I think it was a mistake. He wanted a referendum on Kashmir and later opposed the abolition of privy purse. But his stature doesn't tumbledown due to that. For me, Rajaji would continue to be the best pragmatist and pro-market realist that India has ever had.
+
+Similarly, despite his blunders on China, Kashmir and the pro-left economics, Panditji would continue to be a hero, albeit a tad lesser than Rajaji or Gandhiji.
+
+Hence, for me, Nehru is Panditji. Period.
+
+P.S.: Don't expect any kind treatment of Panditji in my upcoming book 'Our struggle for Truth, Sense and Honour - a Hindutva version of Indian History'.[\#realnehruhistory](https://www.facebook.com/hashtag/realnehruhistory?source=feed_text&story_id=1751995385093801)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+
+Share
