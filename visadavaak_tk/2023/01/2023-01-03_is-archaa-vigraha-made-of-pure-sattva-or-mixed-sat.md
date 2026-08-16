@@ -1,0 +1,44 @@
++++
+title = "viśadavaak"
+full_title = "viśadavaak"
+upstream_url = "https://visadavaak.wordpress.com/2023/01/03/is-archaa-vigraha-made-of-pure-sattva-or-mixed-sattva-part-2/"
+date = "2023-01-03"
++++
+Source: [here](https://visadavaak.wordpress.com/2023/01/03/is-archaa-vigraha-made-of-pure-sattva-or-mixed-sattva-part-2/).
+
+viśadavaak
+
+In order to establish why Bhagavan’s tirumeni is shuddhasattvamaya in His archaa forms, we first need to know what are the shortcomings if we do not accept it that way. That is to say, if there is rajas and tamas in the divine form of Bhagavan, then there are certain shortcomings which cannot be ignored. Therefore, we cannot logically accept the divine forms of Bhagavan as having mixed sattva. Following are a few of those fallacies:
+
+1\) If we say the archaa forms are praakrta in nature, then the combination of rajas and tamas also come along, as a package. But, as we already saw, Bhagavan is the one who is not only free from blemishes but also the remover of blemishes for all those connected with Him. So, if we accept that archaa forms are praakrta, then it amounts to accepting that Bhagavan’s divine forms as having blemishes.
+
+2\) Now, you may ask, what is so wrong about it? Isn’t the praakrta achit itself the body of Bhagavan as well? Does that bring any harm to His greatness in any way? If not, then what is wrong in accepting the presence of rajas and tamas in the archaa forms? But behold – archaa forms are one of the five states of Bhagavan, in which He manifests to uplift the jeevatmas (the other four being – para, vyuha, vibhava and antaryami). The shruti vakyas such as “idam purnam adah purnam” clearly establish that all the five forms of Bhagavan are equal and complete in all aspects. So the archaa forms are verily like the para/vyuha/other forms of Bhagavan. Therefore, if we accept that the archaa forms of Bhagavan are praakrta, then there is a clear contradiction with these shruti vakyas, which is not desirable for us. The main point here is that the archaa form is one of the five manifestations of Bhagavan, and all those five states are all equally placed in all aspects. Parashara maharshi uses the word “deepAdutpannapradIpa” to show how one state arises out of another, without losing any of those merits. So, assuming rajas and tamas for archaa alone is a discrepancy.
+
+3\) Even if we take this argument as arthavada (exaggeration) and not the fact, we still have to answer a basic question. What is the purpose of rajas and tamas in the divine form of Bhagavan? We cannot accept that the purpose of rajas and tamas remain the same as it is for all other creatures; because, rajas and tamas are there in order to take the creation forward and help the jeevatmas enjoy the fruits of their karma and finally uplift them. In that sense, rajas acts as an instigator of various activities, and tamas acts as a deterrent to knowledge. It mainly leads to ignorance and laziness. We know for sure that Bhagavan is free from all these blemishes. Then, what is the purpose of having rajas and tamas in his divine form?
+
+4\) One may argue that the Azhwars and Acharyas themselves had a very small percentage of rajas and tamas in their divine bodies in this leela vibhuti, and that we can extend the same to Bhagavan as well. But that is not acceptable, because the Azhwars and Acharyas (except Emberumanar, Mamunigal) were nitya samsaris earlier, and took up a body in order to expend their karma. The rajas and tamas were instrumental in that. Whereas Bhagavan has no karma at all. Then we do not have a reason to tell why rajas and tamas are still associated with His divine form!  
+NOTE: One opinion is also heard, thus: “it could be used to conceal His divine forms from theives, etc”. But how true is that? How many cases of idol stealing have we seen? and even in functional temples, how much of His property is being misappropriated even today! If all that is happening due to the tamas in His divine form, then there is no difference between Him and the normal jeevatmas which take up births in bodies of mixed sattva! That is certainly a blemish on His part!
+
+5\) Furthermore, one may argue that the tamas – for example – is used to conceal His forms. Shuddhasatvamaya tirumeni should ideally be ajada – meaning, it should show itself even without the help of an external aid. In other words, it is self-luminous. But, the archaa forms that we see are not so. We use external aids such as extra lights etc to see the forms. Therefore, this itself is the function of tamas. But, this argument cannot be accepted. That is because, we all – irrespective of the school of thought – accept that Bhagavan descended on this planet as Rama, Krishna and other avataras with His shuddhasattva tirumeni. This is explicitly told by Krishna in His Bhagavadgita 4-6 (ajopi san avyayaatmaa slokam). But even then, He showed Himself very much like a normal human being, concealing His self-luminous form! Pillai lokacharyar clearly shows this trait in his work tattvatrayam, where he says that the self-luminous apraakrta forms of Bhagavan cannot be seen without external aids by a baddhAtmA (a jeevatma in this samsaara) due to suppressed knowledge. But they can be seen as self-luminous by enlightened souls. The same applies to archaa forms as well.
+
+6\) Also, Pillai lokacharyar clearly shows that vibhava forms are of two types – mukhya and gauna. Mukhya vibhavas are main avataras like Rama, Krishna et al, whom we call as pUrNAvatAras (complete descent). Whereas gauna vibhavas are avataras like Vyasa, Parasurama, et al, who are otherwise normal samsari jeevatmas, but are vested with specific powers of Bhagavan for a purpose. Our Acharyas have clearly shown that the gauna avataras are anupaasya, meaning they are not fit to be worshipped in temples. That is because of their association with rajas and tamas, which shows up as ahankara and other blemishes. The same extends to archaa forms as well. We worship archaa forms in order to develop a taste towards Him, and finally meditate upon Him. His divine forms are called ‘shubhaashraya tirumeni’ because they are full of sattva and help us increase our own sattva by constant meditation. If such forms themselves are adulterated with rajas and tamas, then how does our meditation fructify? And how do we develop a taste towards Him?
+
+7\) In his commentary to a beautiful divyaprabandham called “amalanAdipirAn”, Azhagiya Manavalapperumal Nayanar shows one thing in the “kaiyinaar” pasuram (7th pasuram). He says, “nammaippOlanRikkE teLiyakkaNDavargaL periyaperumALaiyum caturbujarAyiRE anubavippadu. ” (நம்மைப்போலன்றிக்கே தெளியக்கண்டவர்கள் பெரியபெருமாளையும் சதுர்புஜராயிறே அனுபவிப்பது). This means that Periya Perumal, who is reclining on the serpent bed in Srirangam, showed his four-handed form to Azhwars, whereas we see only two hands. How would it be possible for Perumal to show such divine forms to His dear devotees if He was not with His apraakrta tirumeni?
+
+8\) Most importantly, we would need to answer a main question – “does Bhagavan pervade archaa forms with His swarupam alone, or with His rupam as well?”. Swarupam is just being ‘satya-jnAna-Ananda-ananta-amala”. In other words, it refers to His divyaatma swarupa. Whereas His rupam refers to His divine forms, which are clearly established by our Acharyas as being apraakrta and shuddhasattvamaya. If Bhagavan pervades with swarupam alone, then there is no need for that special pervasion in archaa, as He is already present in that material as the antaryami. If Bhagavan pervades with rupam as well, then we should accept that the archaa forms are also shuddhasattvamaya.
+
+9\) Finally, even if we accept that He pervades only with swarupam, then what is the purpose of a second (or rather third) pervasion? Isn’t He already present in that material as the antaryami, with the same swarupam? Also, it is to be known that all insentient entities in this creation are pervaded by Bhagavan through a jeevatma. This is called ‘anupravesham’. If Bhagavan pervades archaa with swarupam alone, then it amounts to anupravesham, as there is no tirumeni. In that case, what happens to the jeevatma who is already present in that material? Which other jeevatma does Bhagavan take to pervade this material? Are archaa forms pervaded by Bhagavan through a jeevatma? If so, doesn’t it amount to gauna avatara, which loses eligibility of worship (upaasyatva)?
+
+More on this point in the forthcoming posts.
+
+(to be continued…)
+
+### Share this:
+
+- [Share on X (Opens in new window)
+  X](https://visadavaak.wordpress.com/2023/01/03/is-archaa-vigraha-made-of-pure-sattva-or-mixed-sattva-part-2/?share=twitter)
+- [Share on Facebook (Opens in new window)
+  Facebook](https://visadavaak.wordpress.com/2023/01/03/is-archaa-vigraha-made-of-pure-sattva-or-mixed-sattva-part-2/?share=facebook)
+- 
+
+Like Loading...
