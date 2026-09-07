@@ -24,7 +24,7 @@ The problem with the combination of paramāṇus in Vaiśeṣika philosophy
 
 [](/?source=post_page---byline--c2b29d7e6139---------------------------------------)
 
-![Satyan Sharma](https://miro.medium.com/v2/resize:fill:32:32/1*9P8Q1D-d2IYsolnF_Lg9bQ.jpeg)
+
 
 [Satyan Sharma](/?source=post_page---byline--c2b29d7e6139---------------------------------------)
 

@@ -24,7 +24,7 @@ Manusmṛti and ‘prohibition’ of homosexual sex : An analysis of some popula
 
 [](/?source=post_page---byline--f6a29b635c2f---------------------------------------)
 
-![Satyan Sharma](https://miro.medium.com/v2/resize:fill:32:32/1*9P8Q1D-d2IYsolnF_Lg9bQ.jpeg)
+
 
 [Satyan Sharma](/?source=post_page---byline--f6a29b635c2f---------------------------------------)
 

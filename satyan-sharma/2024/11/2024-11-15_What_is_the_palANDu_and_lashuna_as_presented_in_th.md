@@ -12,7 +12,7 @@ What is the palāṇḍu and laśuna as presented in the Dharmaśāstra-texts?
 
 [](/?source=post_page---byline--ba76efa6b657---------------------------------------)
 
-![Satyan Sharma](https://miro.medium.com/v2/resize:fill:32:32/1*9P8Q1D-d2IYsolnF_Lg9bQ.jpeg)
+
 
 [Satyan Sharma](/?source=post_page---byline--ba76efa6b657---------------------------------------)
 

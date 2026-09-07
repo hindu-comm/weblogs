@@ -32,7 +32,7 @@ Who is eligible to study the Nyāya and Vaiśeṣika śāstras? A look into the 
 
 [](/?source=post_page---byline--c7ec9bbd8682---------------------------------------)
 
-![Satyan Sharma](https://miro.medium.com/v2/resize:fill:32:32/1*9P8Q1D-d2IYsolnF_Lg9bQ.jpeg)
+
 
 [Satyan Sharma](/?source=post_page---byline--c7ec9bbd8682---------------------------------------)
 

@@ -28,7 +28,7 @@ Origin of varṇas in Puruṣa-sūkta : Yājñavalkya’s interpretation
 
 [](/?source=post_page---byline--5cfe968e96e1---------------------------------------)
 
-![Satyan Sharma](https://miro.medium.com/v2/resize:fill:32:32/1*9P8Q1D-d2IYsolnF_Lg9bQ.jpeg)
+
 
 [Satyan Sharma](/?source=post_page---byline--5cfe968e96e1---------------------------------------)
 

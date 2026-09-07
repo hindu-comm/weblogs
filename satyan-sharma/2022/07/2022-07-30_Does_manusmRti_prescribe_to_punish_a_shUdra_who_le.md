@@ -28,7 +28,7 @@ Does Manusmṛti prescribe to punish a Śūdra who learns Vedas?
 
 [](/?source=post_page---byline--71b47064cfdc---------------------------------------)
 
-![Satyan Sharma](https://miro.medium.com/v2/resize:fill:32:32/1*9P8Q1D-d2IYsolnF_Lg9bQ.jpeg)
+
 
 [Satyan Sharma](/?source=post_page---byline--71b47064cfdc---------------------------------------)
 
