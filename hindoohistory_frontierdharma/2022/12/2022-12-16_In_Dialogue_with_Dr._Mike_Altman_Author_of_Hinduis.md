@@ -1,57 +1,330 @@
 +++
 title = "In Dialogue with Dr Mike"
 full_title = "In Dialogue with Dr Mike Altman, Author of \"Hinduism in America An Introduction\""
-date = "2022-12-16"
 upstream_url = "https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author"
-
+date = "2022-12-16"
 +++
 Source: [here](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author).
 
 In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
 Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b003948-a2e0-4c4e-99d0-e92a978f2a13_403x637.jpeg)
 
-In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
 
 hindoohistory.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1247ddea-fa4a-4db3-8d40-d0a3d958cddb_400x400.jpeg)](https://substack.com/profile/14416193-hindoohistory?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[HindooHistory](https://substack.com/profile/14416193-hindoohistory)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_17s6c_230 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_deldb_7 _size-40_deldb_23">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1247ddea-fa4a-4db3-8d40-d0a3d958cddb_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_3axfk_204 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+[HindooHistory](https://substack.com/@hindoohistory)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_3axfk_207 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
 
 Dec 16, 2022
 
-4
+</div>
 
-[](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author/comments)[](javascript:void(0))
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_17s6c_230 pc-reset _border-top-detail-themed_17s6c_47 _border-bottom-detail-themed_17s6c_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+6
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b003948-a2e0-4c4e-99d0-e92a978f2a13_403x637.jpeg)
 
-In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
 
 hindoohistory.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author/comments)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 *I’m proud to present a dialogue with [Dr. Michael Altman](https://religion.ua.edu/people/michael-j-altman/), Professor of Religion at the University of Alabama. Dr. Altman received his PhD in American Religious Cultures from Emory University. His areas of interest are American religious history, colonialism, theory and method in the study of religion, and Asian religions in American culture. Trained in the field of American religious cultures, he is interested in the ways religion is constructed through difference, conflict, and contact. Dr. Altman is the author of [Heathen, Hindoo, Hindu: American Representations of India, 1721-1893](https://www.amazon.com/Heathen-Hindoo-Hindu-Representations-1721-1893-ebook/dp/B072VFZJ7H/ref=sr_1_1?crid=225DRMDE8H19R&keywords=heathen%2C+hindoo%2C+hindu&qid=1671076816&sprefix=heathen%2C+hindoo%2C+i%2Caps%2C449&sr=8-1) (Oxford, 2017) and his most recent book, [Hinduism in America: An Introduction](https://www.amazon.com/Hinduism-America-Introduction-Religion-ebook/dp/B09TM9DXPX/ref=sr_1_1?crid=3TDXDVGECY7U6&keywords=michael+altman+hinduism%3A+an+introduction&qid=1671076838&sprefix=michael+altman+hinduism+an+introductio%2Caps%2C133&sr=8-1), is out now. Enjoy! *
 
@@ -67,15 +340,27 @@ So for this book, rather than telling readers “this is what Hinduism is” and
 
 **HH:**That's incredibly gratifying to hear that Hindoo History has found its way into the classroom along with your book! I'm truly honored. And thank you for elaborating on your approach. In digging up these newspaper clips, I've found this idea of how these categories develop over time useful. In fact, you can really see how these different representations develop over time, sometimes in parallel, and other times clashing directly. For example, it's been edifying to see the stark contrast between the Hinduism of, say, New England socialites who really took to Vedanta after Swami Vivekananda's national tour, and that of the trenchant critics like Mabel Potter Daggett, who saw yoga and Vedanta as dangerous gateways to heathenry. One of the benefits of looking at newspapers is that you can see these fights taking place in real time. With that said, I was hoping you could help lay the intellectual groundwork and tell us how the story begins. In the firstchapter, you observe that the earliest accounts from the early 18th century didn't even identify Indians as "hindoo," but rather as "heathens," which emerged as a sort of catch-all term for people who didn't actually have "religion" according to the prevailing definition among American Protestants at the time. Can you give us a quick primer on the intellectual and historical background for this binary categorization of the world? From where did this implicit theory of religion emerge?
 
+<div class="captioned-image-container">
+
 ![The Evening World, 1911](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b003948-a2e0-4c4e-99d0-e92a978f2a13_403x637.jpeg "Image")
 
+</div>
+
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F823e001d-e8b0-441c-b2ad-e6ef094ccf35_640x708.jpeg "Image")
+
+</div>
 
 **MA:**I really like how you described that as an “implicit theory of religion,” because that’s exactly what it was. Not to try and go too far back, but two major European events totally changed how Europeans thought about religion: the Reformation and Global exploration. The Reformation fractured Western Christianity from one ostensibly unified Church to a variety of churches. Internally, Europe went from having religion to religions. Global exploration in the Americas, Africa, and Asia did the same thing on the outside. Europeans ran into all of these people doing things that looked like religion. Once again, it went from religion to religions. In order to make sense of this new plurality of “religions,” European thinkers developed a four-fold system for categorizing religions: Christianity, Judaism, Islam, and heathenism. In their minds, there was Christianity (the only true religion), Judaism (the partial and preliminary forerunner of Christian truth), Islam (a false religion with a false prophet), and heathenism (everything else people are doing that looks like religion).
 
 As Europeans, and later, Americans, gathered more information about these various “heathens” they began to differentiate things like “Hinduism” or “Buddhism” or even, “Lamaism.” This four-fold system began in the seventeenth century and lasted well into the early twentieth century, even as models with more “world religions” emerged in the nineteenth century. So, in 1893 there were 10 “world religions” according to the World Parliament of Religions (including Hinduism) but at the same time someone like Daggett is still operating within a model that includes “heathenism.” What’s important, though, is that nearly all of these systems of classifying “religions” maintained Christian supremacy in some form or another.
 
+<div class="captioned-image-container">
+
 ![The Indian contingent in Chicago at the World Parliament of Religions in 1893](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd276eca4-3ce8-4f30-81a5-0ab6763e101e_613x503.jpeg "Image")
+
+</div>
 
 **HH:**Yes, this theme comes through very strongly in both *Heathen, Hindoo, Hindu*and *Hinduism in America;* the categorization of different world religions privileged Protestant Christianity as the evolutionary zenith of religious thought. As you note, this assumption informs the work of early scholars of comparative religion in America like Hannah Adams, in whose *Compendium[1](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-1-90773155)* we first see what you call the "declension theory" of Hinduism. According to the declension theory, the Hindus once had something approximating the "true" religion of Protestant Christianity, but it degenerated over time, resulting in the bloody pagan rites described by the likes of Claudius Buchanan.[2](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-2-90773155) Could you elaborate on this idea? What role did the arrival of translated Sanskrit texts like the Bhagavad Gita in the late 18th century play in the formulation of this theory? As a sort of addendum to this question, could you provide a quick primer on the transformations in the American religious landscape taking place at the time? How did domestic theological disputes inform these early treatments of Hinduism?
 
@@ -87,21 +372,75 @@ At the same time, other ancient texts became a problem to be solved. For example
 
 And as you argue quite persuasively in the book, this was a national conversation. The material even made its way into school textbooks! I wanted to quote the following passage from your book:
 
-> "Geography books presented American children with the variety of > humandifferencearound the world. Geography writers organized that > difference through a set of hierarchical categories. They sorted the > human world according to different levels of civilization, ranging > from 'savages' to 'half-civilized' to 'enlightened.' Similarly, they > sorted humans into racial categories such as 'Asiatic,' 'Malay,' > 'European,' 'African,' and 'American' (as in Native America). Finally, > they sorted out religious difference through four categories: > Christian, Jewish, Muslim, and heathen. Each of these sets of > categories was a hierarchy with enlightened European Christians at the > top. As white Protestant children read about the various people in the > world, schoolbooks reminded them that they sat atop these hierarchies > of difference. The books allowed children to locate themselves and > others and account for the difference between them. They also > reinforced a child’s American identity as a Protestant Christian > living in an enlightened democratic society and part of the white > European race. In their sections on India, geographyschoolbooksmade > sure to present readers with an account of Hindoo religion. The > descriptions shared much in common with the missionary > representations. 'Their religion is of the most degrading kind \[it\] > even prompts widows to burn themselves on the funeral pile of their > husbands,' read one geography book. Another one claimed 'the people > worship images, and, under the blind influence of superstition, drown > their children in the rivers.' The image of mothers drowning children > in rivers such as the Ganges in order to please a god or idol was > common in the schoolbook accounts of religion in India and must have > been particularly powerful to child readers.Schoolbooksalso took > great interest in the caste system, which they presentedas > strictsocial and political hierarchy in stark contrast to American > democracy and social mobility. These images of Hindoo religion as > violent idolatry, sati, and caste fit within the categories of human > difference that organized the schoolbooks. India was a half-civilized > land of “Asiatic” heathens. According to the schoolbooks, it lacked > everything America had: civilization, enlightenment democracy, > European race, and Protestant Christianity. As Americanschoolchildrenlearned about Hindoo religion, the descriptions of violence and idolatry reinforced their identity as white Protestant, enlightened democratic Americans."
+> "Geography books presented American children with the variety of
+> humandifferencearound the world. Geography writers organized that
+> difference through a set of hierarchical categories. They sorted the
+> human world according to different levels of civilization, ranging
+> from 'savages' to 'half-civilized' to 'enlightened.' Similarly, they
+> sorted humans into racial categories such as 'Asiatic,' 'Malay,'
+> 'European,' 'African,' and 'American' (as in Native America). Finally,
+> they sorted out religious difference through four categories:
+> Christian, Jewish, Muslim, and heathen. Each of these sets of
+> categories was a hierarchy with enlightened European Christians at the
+> top. As white Protestant children read about the various people in the
+> world, schoolbooks reminded them that they sat atop these hierarchies
+> of difference. The books allowed children to locate themselves and
+> others and account for the difference between them. They also
+> reinforced a child’s American identity as a Protestant Christian
+> living in an enlightened democratic society and part of the white
+> European race. In their sections on India, geographyschoolbooksmade
+> sure to present readers with an account of Hindoo religion. The
+> descriptions shared much in common with the missionary
+> representations. 'Their religion is of the most degrading kind \[it\]
+> even prompts widows to burn themselves on the funeral pile of their
+> husbands,' read one geography book. Another one claimed 'the people
+> worship images, and, under the blind influence of superstition, drown
+> their children in the rivers.' The image of mothers drowning children
+> in rivers such as the Ganges in order to please a god or idol was
+> common in the schoolbook accounts of religion in India and must have
+> been particularly powerful to child readers.Schoolbooksalso took
+> great interest in the caste system, which they presentedas
+> strictsocial and political hierarchy in stark contrast to American
+> democracy and social mobility. These images of Hindoo religion as
+> violent idolatry, sati, and caste fit within the categories of human
+> difference that organized the schoolbooks. India was a half-civilized
+> land of “Asiatic” heathens. According to the schoolbooks, it lacked
+> everything America had: civilization, enlightenment democracy,
+> European race, and Protestant Christianity. As
+> Americanschoolchildrenlearned about Hindoo religion, the
+> descriptions of violence and idolatry reinforced their identity as
+> white Protestant, enlightened democratic Americans."
 
 Could you elaborate on this idea of how portrayals of the "Hindoo" contributed to American identity formation during the 19th century? What was it about the "hindoo" in particular that made it suitable as a foil for the idealized American?
 
+<div class="captioned-image-container">
+
 ![A page from Mitchell’s *System of Modern Geography*, published in 1894](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F565d26d3-6217-42db-910c-795d10f3fb84_750x767.jpeg "Image")
+
+</div>
 
 **MA:**Antebellum Americans were still trying to figure out exactly what it meant to be “American” and it was often easier to identify what*wasn’t*American than what was. Schoolbooks in particular played an important role in describing what it meant to be “American” because educational and political leaders saw the common public schools as vital to the fledgling American democracy. Schools had to teach children how to be good citizens and how to be good Americans so they were at the forefront of constructing what being “American” meant. The representations of “Hindoos” became really useful as a foil because India was far enough away to be “exotic” and strange, but close enough because of American trade relationships, missionary reports, and British Orientalist publications to be familiar. Catholicism was similarly both strange and familiar because it was Christian and European but decidedly “other” to Protestant Americans. So, while Catholic others arrived from Ireland, Germany, and France reports and images of “Hindoos” arrived at the same time. Both represented people tied up in “priestcraft,” “superstition,” and “idolatry.” Both provided a powerful other for the American Protestant establishment of educators, political leaders, and writers to use to represent what was and wasn’t “American.”
 
 **HH**: The melding of prejudices you reference is of course best illustrated by the infamous "American River Ganges" comic published in Harper's Weekly in 1871, which you feature in both of your books. Followers of \#HindooHistory will find the image familiar, but I'll go ahead and include it below for new readers. It's certainly striking. I’d like to press on this theme a bit, because it's so far reaching and hits at another key theme in your book: agency. In your second chapter on American Orientalism, you reference Edward Said’s third formulation of Orientalism, which is described as “a Western style for dominating, restructuring, and having authority of the Orient,” by “making statements about it, authorizing view of it, describing it, by teaching it, settling it, ruling over it.” You build on this definition in your work by confronting the idea of not just*what*the "Hindoo" was to 19th century Americans, but*who*was speaking on their behalf. You write:
 
-> "The ways Transcendentalists, Theosophists, and Unitarians wrote about > India did just that, representing India as a shadow or double of > America. Even as Orientalist Americans praised India for its > mysticism, they nevertheless found it wanting and still in need of the > rationality, materiality, and industry of America. Using the mystic > East to critique the materialist West was an act of power by > Orientalist Americans that kept India subservient to American interest. Put another way, American Orientalism did not allow for India to exist in and for itself but rather saw India as a resource for the betterment of America."
+> "The ways Transcendentalists, Theosophists, and Unitarians wrote about
+> India did just that, representing India as a shadow or double of
+> America. Even as Orientalist Americans praised India for its
+> mysticism, they nevertheless found it wanting and still in need of the
+> rationality, materiality, and industry of America. Using the mystic
+> East to critique the materialist West was an act of power by
+> Orientalist Americans that kept India subservient to American
+> interest. Put another way, American Orientalism did not allow for
+> India to exist in and for itself but rather saw India as a resource
+> for the betterment of America."
 
 In other words, whether it was hostile missionaries or Transcendentalists immersed in the Bhagavad Gita, all of themrelied on representations of the "Hindoo" produced and disseminated by non-Indians, whether American missionaries or the Orientalists of the Asiatic Society[3](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-3-90773155) in India. This was even true of early spiritual reformists from India, including Ram Mohan Roy and Swami Vivekananda. Can you elaborate on this dynamic a bit more? What united Indian reformers with thoroughly American figures like Emerson and Thoreau? Were they all Orientalists in their own way?
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d9e6790-103d-45a0-a327-690735d1808c_900x787.jpeg "Image")
+
+</div>
 
 **MA:**Yes, the agency question is an important one. In the case of Ram Mohan Roy, it was his English publications arguing with the British Protestant missionaries that caught the attention of Unitarians in America. Roy had published a book of Jesus’s sayings that removed all the miracles from the New Testament and this infuriated the British missionaries stationed at Serampore, outside Calcutta. Roy even went so far as to argue that the missionaries’ idea of a trinitarian three-in-one God was no different from the variety of gods in Hindu religions. At the same time in New England, Unitarian Christians and “orthodox” trinitarian Protestants had their own arguments brewing about the nature of Jesus and the unity of God. So, as the back and forth between Roy and the missionaries made its way into British and American missionary journals, the similarity between Roy’s spat with the missionaries and the arguments in New England jumped out to the Unitarians. They began to champion Roy as a Unitarian Hindu or even a Unitarian Christian. So the only reason Roy showed up in American Unitarian publications was because he was a useful figure in their own fight with their Protestant neighbors. And it was Roy’s early English translations of Sanskrit texts that got picked up by Thoreau and Emerson.
 
@@ -115,62 +454,288 @@ So, were they Orientalists in their own way? I don’t think so. Rather, they pl
 
 **HH**: Thank you so much for doing this, Mike. It's been a pleasure discussing your book, and I hope we can do this again soon.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc22b28-5c9f-4eb2-88c9-1063c7852ddc_1x1.gif)
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
 
 [1](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-anchor-1-90773155)
 
+<div class="footnote-content">
+
 Hannah Adams was an 18th century scholar of comparative religion. Her book, *An Alphabetical Compendium of the Various Sects Which Have Appeared in the World from the Beginning of the Christian Era to the Present Day*, is a key source for understanding early American attitudes towards the “Hindoo.” You can read more about her work in the post linked below:
+
+<div class="embedded-post-wrap" attrs="{&quot;id&quot;:38918122,&quot;url&quot;:&quot;https://hindoohistory.substack.com/p/the-hindoo-and-the-enlightenment&quot;,&quot;publication_id&quot;:78401,&quot;publication_name&quot;:&quot;Hindoo History&quot;,&quot;publication_logo_url&quot;:null,&quot;title&quot;:&quot;The \&quot;Hindoo\&quot; and the Enlightenment View of Religion&quot;,&quot;truncated_body_text&quot;:&quot;In a letter written to Thomas Jefferson in 1814, John Adams— expressing his fear of the effects of factionalized electioneering on American political institutions— writes “Election is the grand Brama, the immortal Lama, I had almost Said, the Jaggernaught, for Wives are almost ready to burn upon the Pile and Children to be thrown under the Wheel.” Adams…&quot;,&quot;date&quot;:&quot;2021-07-20T23:06:35.418Z&quot;,&quot;like_count&quot;:7,&quot;comment_count&quot;:2,&quot;bylines&quot;:[{&quot;id&quot;:14416193,&quot;name&quot;:&quot;HindooHistory&quot;,&quot;previous_name&quot;:null,&quot;photo_url&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1247ddea-fa4a-4db3-8d40-d0a3d958cddb_400x400.jpeg&quot;,&quot;bio&quot;:&quot;Chronicling the history of the “Hindoo” in America, primarily through archival newspaper clips. \nInstagram: @HindooHistory\n Email: hindoohistory@gmail.com&quot;,&quot;profile_set_up_at&quot;:&quot;2021-08-17T01:01:30.874Z&quot;,&quot;publicationUsers&quot;:[{&quot;id&quot;:246859,&quot;user_id&quot;:14416193,&quot;publication_id&quot;:78401,&quot;role&quot;:&quot;admin&quot;,&quot;public&quot;:true,&quot;is_primary&quot;:false,&quot;publication&quot;:{&quot;id&quot;:78401,&quot;name&quot;:&quot;Hindoo History&quot;,&quot;subdomain&quot;:&quot;hindoohistory&quot;,&quot;custom_domain&quot;:null,&quot;custom_domain_optional&quot;:false,&quot;hero_text&quot;:&quot;The untold story of the \&quot;Hindoo\&quot; in America, as told through America's newspapers. &quot;,&quot;logo_url&quot;:null,&quot;author_id&quot;:14416193,&quot;theme_var_background_pop&quot;:&quot;#A33ACB&quot;,&quot;created_at&quot;:&quot;2020-08-05T22:51:22.025Z&quot;,&quot;rss_website_url&quot;:null,&quot;email_from_name&quot;:&quot;Vishal from Hindoo History&quot;,&quot;copyright&quot;:&quot;Vishal Ganesan&quot;,&quot;founding_plan_name&quot;:null,&quot;community_enabled&quot;:true,&quot;invite_only&quot;:false,&quot;payments_state&quot;:&quot;disabled&quot;}}],&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;utm_campaign&quot;:null,&quot;belowTheFold&quot;:true,&quot;type&quot;:&quot;newsletter&quot;,&quot;language&quot;:&quot;en&quot;}" component-name="EmbeddedPostToDOM">
 
 [](https://hindoohistory.substack.com/p/the-hindoo-and-the-enlightenment?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
+<div class="embedded-post-header">
+
 Hindoo History
+
+</div>
+
+<div class="embedded-post-title-wrapper">
+
+<div class="embedded-post-title">
 
 The "Hindoo" and the Enlightenment View of Religion
 
+</div>
+
+</div>
+
+<div class="embedded-post-body">
+
 In a letter written to Thomas Jefferson in 1814, John Adams— expressing his fear of the effects of factionalized electioneering on American political institutions— writes “Election is the grand Brama, the immortal Lama, I had almost Said, the Jaggernaught, for Wives are almost ready to burn upon the Pile and Children to be thrown under the Wheel.” Adams…
+
+</div>
+
+<div class="embedded-post-cta-wrapper">
 
 Read more
 
-a year ago · 7 likes · 2 comments · HindooHistory
+</div>
+
+<div class="embedded-post-meta">
+
+3 years ago · 7 likes · 2 comments · HindooHistory
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
 
 [2](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-anchor-2-90773155)
 
+<div class="footnote-content">
+
 Buchanan was born in Glasgow in 1766 and worked in and around Calcutta as a chaplain for the East India Company. He is famous for his account of the “Juggernaut.” You can read more about him in the post linked below:
+
+<div class="embedded-post-wrap" attrs="{&quot;id&quot;:38347839,&quot;url&quot;:&quot;https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans&quot;,&quot;publication_id&quot;:78401,&quot;publication_name&quot;:&quot;Hindoo History&quot;,&quot;publication_logo_url&quot;:null,&quot;title&quot;:&quot;The Long Shadow of Claudius Buchanan's Juggernaut&quot;,&quot;truncated_body_text&quot;:&quot;Tracing the history of how the “Hindoo” became conceivable in America requires an attention to what Dr. Altman calls the “genealogy” of the “Hindoo,” which he describes as the “powers, identities, forces, constraints, agents, and discourses that form a particular category.”&quot;,&quot;date&quot;:&quot;2021-07-06T03:10:48.211Z&quot;,&quot;like_count&quot;:7,&quot;comment_count&quot;:1,&quot;bylines&quot;:[{&quot;id&quot;:14416193,&quot;name&quot;:&quot;HindooHistory&quot;,&quot;previous_name&quot;:null,&quot;photo_url&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1247ddea-fa4a-4db3-8d40-d0a3d958cddb_400x400.jpeg&quot;,&quot;bio&quot;:&quot;Chronicling the history of the “Hindoo” in America, primarily through archival newspaper clips. \nInstagram: @HindooHistory\n Email: hindoohistory@gmail.com&quot;,&quot;profile_set_up_at&quot;:&quot;2021-08-17T01:01:30.874Z&quot;,&quot;publicationUsers&quot;:[{&quot;id&quot;:246859,&quot;user_id&quot;:14416193,&quot;publication_id&quot;:78401,&quot;role&quot;:&quot;admin&quot;,&quot;public&quot;:true,&quot;is_primary&quot;:false,&quot;publication&quot;:{&quot;id&quot;:78401,&quot;name&quot;:&quot;Hindoo History&quot;,&quot;subdomain&quot;:&quot;hindoohistory&quot;,&quot;custom_domain&quot;:null,&quot;custom_domain_optional&quot;:false,&quot;hero_text&quot;:&quot;The untold story of the \&quot;Hindoo\&quot; in America, as told through America's newspapers. &quot;,&quot;logo_url&quot;:null,&quot;author_id&quot;:14416193,&quot;theme_var_background_pop&quot;:&quot;#A33ACB&quot;,&quot;created_at&quot;:&quot;2020-08-05T22:51:22.025Z&quot;,&quot;rss_website_url&quot;:null,&quot;email_from_name&quot;:&quot;Vishal from Hindoo History&quot;,&quot;copyright&quot;:&quot;Vishal Ganesan&quot;,&quot;founding_plan_name&quot;:null,&quot;community_enabled&quot;:true,&quot;invite_only&quot;:false,&quot;payments_state&quot;:&quot;disabled&quot;}}],&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;utm_campaign&quot;:null,&quot;belowTheFold&quot;:true,&quot;type&quot;:&quot;newsletter&quot;,&quot;language&quot;:&quot;en&quot;}" component-name="EmbeddedPostToDOM">
 
 [](https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
+<div class="embedded-post-header">
+
 Hindoo History
+
+</div>
+
+<div class="embedded-post-title-wrapper">
+
+<div class="embedded-post-title">
 
 The Long Shadow of Claudius Buchanan's Juggernaut
 
+</div>
+
+</div>
+
+<div class="embedded-post-body">
+
 Tracing the history of how the “Hindoo” became conceivable in America requires an attention to what Dr. Altman calls the “genealogy” of the “Hindoo,” which he describes as the “powers, identities, forces, constraints, agents, and discourses that form a particular category…
+
+</div>
+
+<div class="embedded-post-cta-wrapper">
 
 Read more
 
-a year ago · 7 likes · 1 comment · HindooHistory
+</div>
+
+<div class="embedded-post-meta">
+
+3 years ago · 7 likes · 1 comment · HindooHistory
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
 
 [3](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-anchor-3-90773155)
 
+<div class="footnote-content">
+
 The Asiatic Society was established in Bengal under the auspices of the East India Company. Through its translation of Sanskrit texts like Charles Wilkins’ Bhagavad Gita in 1795, the Asiatic Society played a key role in disseminating Hindu religious and philosophical texts in America.
+
+</div>
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
 
 [4](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author#footnote-anchor-4-90773155)
 
+<div class="footnote-content">
+
 https://en.wikipedia.org/wiki/California_textbook_controversy_over_Hindu_history#:\~:text=The%20Texas%2Dbased%20Vedic%20Foundation,textbook's%20portrayal%20of%20the%20caste
 
-[](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author/comments)[](javascript:void(0))
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_17s6c_230 pc-reset _border-top-detail-themed_17s6c_47 _border-bottom-detail-themed_17s6c_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+6
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b003948-a2e0-4c4e-99d0-e92a978f2a13_403x637.jpeg)
 
-In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### In Dialogue with Dr. Mike Altman, Author of "Hinduism in America: An Introduction"
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
 
 hindoohistory.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://hindoohistory.substack.com/p/in-dialogue-with-dr-mike-altman-author/comments)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

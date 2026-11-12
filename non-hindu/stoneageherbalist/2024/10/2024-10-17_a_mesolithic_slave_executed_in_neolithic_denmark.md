@@ -2,8 +2,7 @@
 title = "A Mesolithic Slave"
 full_title = "A Mesolithic Slave Executed In Neolithic Denmark?"
 upstream_url = "https://www.stoneageherbalist.com/p/a-mesolithic-slave-executed-in-neolithic"
-date = "1915-02-04"
-
+date = "2024-10-17"
 +++
 Source: [here](https://www.stoneageherbalist.com/p/a-mesolithic-slave-executed-in-neolithic).
 

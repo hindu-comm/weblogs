@@ -1,59 +1,470 @@
 +++
 title = "Religious Demography in"
 full_title = "Religious Demography in Late Classical India"
-date = "2023-01-03"
 upstream_url = "https://bharadvajatmaja.substack.com/p/religious-demography-in-late-classical"
-
+date = "2023-01-03"
 +++
 Source: [here](https://bharadvajatmaja.substack.com/p/religious-demography-in-late-classical).
 
 Religious Demography in Late Classical India
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-#### Religious Demography in Late Classical India
+<div class="modal-table">
 
-bharadvajatmaja.substack.com
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(93,74,154,0.75), rgba(93,74,154,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!RKmg!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!9x8A!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ba1fa42-efa5-4a37-9446-4792cdd3a556_3425x4793.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Bharadvaja's Memoir
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Religious Demography in Late Classical India
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Religious Demography in Late Classical India
 
 ### Brief note on estimating religious demography through Xuanzang's travelogue in mid seventh century AD.
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ba1fa42-efa5-4a37-9446-4792cdd3a556_3425x4793.jpeg)](https://substack.com/profile/33033648-bharadwaj?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
 
-[Bharadwaj](https://substack.com/profile/33033648-bharadwaj)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Jan 3
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-7
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://bharadvajatmaja.substack.com/p/religious-demography-in-late-classical/comments)[](javascript:void(0))
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
 
-Share this post
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+[](https://substack.com/@bharadvajatmaja)
 
-#### Religious Demography in Late Classical India
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
 
-bharadvajatmaja.substack.com
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Bharadwaj">
+
+![Bharadwaj's avatar](https://substackcdn.com/image/fetch/$s_!9x8A!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ba1fa42-efa5-4a37-9446-4792cdd3a556_3425x4793.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
+
+[Bharadwaj](https://substack.com/@bharadvajatmaja)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+Jan 03, 2023
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+11
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(93,74,154,0.75), rgba(93,74,154,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!RKmg!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!9x8A!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ba1fa42-efa5-4a37-9446-4792cdd3a556_3425x4793.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Bharadvaja's Memoir
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Religious Demography in Late Classical India
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://bharadvajatmaja.substack.com/p/religious-demography-in-late-classical/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 The Han nastika scholar Xuan Zang \[玄奘\] inspired by his predecessor Faxian \[法顯\] and concerned about misinterpretations in scripture, decided to embark on a journey to India with a mission to collect many nastika manuscripts. After the completion of his seventeen-year-long journey and his return to Chang’an, he was persuaded by the Tang Emperor Li Shimin \[598-649 AD\] to write a travelogue describing all that he witnessed in India. This travelogue, known to us as *“Great Tang Records on the Western Regions”* \[*Da-Tang xi yu ji* 大唐西域記**\]**, had become an instant hit in China, even inspiring the Ming Era novel “*Journey to the West”* \[西遊記\] which is considered to be one of the **“***Four Masterworks”* \[四大奇書\]. Although many of Xuan Zang’s stories have failed to impress modern Indologists and Sinologists alike, they nonetheless contain some valuable data which can be utilized to create a sketch of the religious demography of India in the mid-seventh century. For this purpose, we shall refer to Dr K.T.S. Sarao’s work where he created a comprehensive table of Xuan Zang’s observation of religious denominations in 71 countries. It can be noticed that nastika\~s were failing in 52 out of the 71 countries and were strong only in thirteen of them.
 
@@ -61,31 +472,88 @@ While we cannot say with any certainty that his observations or our results here
 
 ### Methodology
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§methodology" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
 Before proceeding further, we should recall that none of Xuanzang’s observations was in real-time. It is only after decades that he starts writing his travelogue. Thus, most figures contain phrases like “more than/around (a round number)”, “less than (a round number)”, “many (tens or hundreds)” etcetera. Usually, when talking of a city, he gives the count of few or all amongst the number of monasteries, number of temples, number of monks and number of heretics. The German historian Hans Delbrück, the doyen of critical writings in modern military history, clearly shows how impossibly difficult it is to count the number of men present anywhere. If such difficulties could be faced by even modern men, then we can only imagine how difficult it must have been for people who lived a thousand or so years ago. Stationary buildings of eminence are much easier to count and their presence can be corroborated by a lot of people as well. Thus, for this reason, we shall ignore the observations concerning monks and heretics and only utilize the remaining for any sketch.
 
 I shall now provide the list of transformations we’ll carry out to make the data more interpretable. Please note that I do not have ANY rationale to explain these, apart from the fact that they seemed intuitively truthful to me. In cases where a round number is supplemented with “less than,” we shall take 80% of the value presented. In the case where a round number is supplemented with “many,” we shall multiply it by four. In the case where a round number less than 100 is supplemented with a “more than/around,” we shall use the following transformation. Here, 10 and 20 become 12 and 22, then numbers from 30 to 50 receive a 10% increment and finally, the increment is fixed at 5.
 
-![Function depicting the estimated value for “more than X” where X\<=100](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F513f2368-a52a-44e5-b95f-083fbd538490_699x700.png)
+<div class="captioned-image-container">
+
+![Function depicting the estimated value for “more than X” where X\<=100](https://substackcdn.com/image/fetch/$s_!weqz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F513f2368-a52a-44e5-b95f-083fbd538490_699x700.png)
+
+</div>
 
 Similarly, in order to estimate phrases such as “more than/around N hundred,” we shall assign 100 and 200 to 120 and 220, and then the numbers between 300 to 500 will receive a 10% increment which will be fixed at 50 finally for all numbers greater than 500.
 
-![Function depicting the estimated value for “more than X” where X\<=1000](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26d740b2-1d7d-4d0d-827a-707edc505c2b_744x762.png)
+<div class="captioned-image-container">
+
+![Function depicting the estimated value for “more than X” where X\<=1000](https://substackcdn.com/image/fetch/$s_!DqMs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26d740b2-1d7d-4d0d-827a-707edc505c2b_744x762.png)
+
+</div>
 
 In cases where there are no comments by Xuanzang or comments include phrases like “all are ruined,” we shall use a placeholder value of 1 there. In the rare case where 1 is present in one column and “ruined” in another, we shall raise the former to 2. In the case where neither are mentioned but monasteries are said to have been all ruined with heretics running amok, we shall raise temples to 4 and monasteries to 1. If neither is mentioned and the status is under “holding ground,” we shall raise temples to 2. The location of the dots on the map plotted below shall correspond to their modern locations. The size of the dot will represent the total number of temples and monasteries counted. The colour of the dot will represent the ratio of occupancy by Hs. Since the observations and ratio vary primarily in size, we shall perform the following transformation to normalize them.
 
-\\(Total\\ =\\ Log\_{2}\left(Monasteries\\ +\\ Temples\right) \\)
+<div class="pencraft pc-display-flex pc-paddingTop-4px pc-paddingBottom-4px pc-justifyContent-center pc-reset flex-grow-rzmknG latex-rendered" component-name="Latex">
 
-\\(H\_{Ratio}\\ =\\ \arctan\left(\frac{Temples}{Monasteries}\right)\cdot\frac{2}{\pi}\\)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-justifyContent-center pc-reset">
+
+\\(Total\\ =\\ Log\_{2}\\left(Monasteries\\ +\\ Temples\\right) \\)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-paddingTop-4px pc-paddingBottom-4px pc-justifyContent-center pc-reset flex-grow-rzmknG latex-rendered" component-name="Latex">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-justifyContent-center pc-reset">
+
+\\(H\_{Ratio}\\ =\\ \\arctan\\left(\\frac{Temples}{Monasteries}\\right)\\cdot\\frac{2}{\\pi}\\)
+
+</div>
+
+</div>
 
 This map includes 65 places which we were able to identify out of the 72 Xuanzang visited. All of them are inside the Indian subcontinent barring Baluka, which is modern-day Aksu city in Xinjiang, China. A yellow dot indicates a higher presence of temples while purple indicates a higher presence of monasteries.
 
-![Map with all locations identified from Xuanzang’s travelogue.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+<div class="captioned-image-container">
 
-![Distribution of Hs & Nastika\~s, from Xuanzang’s travelogue \~650AD](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faeaa8981-e0cb-4877-a763-fa51b9607a1e_872x830.png)
+![Map with all locations identified from Xuanzang’s travelogue.](https://substackcdn.com/image/fetch/$s_!RKmg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+
+</div>
+
+<div class="captioned-image-container">
+
+![Distribution of Hs & Nastika\~s, from Xuanzang’s travelogue \~650AD](https://substackcdn.com/image/fetch/$s_!52ZF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faeaa8981-e0cb-4877-a763-fa51b9607a1e_872x830.png)
+
+</div>
 
 #### Notes:
 
-> We’ll only briefly discuss this period relevant to Xuanzang’s work, a detailed evaluation can be found in Dr Sarao’s work
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§notes" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
+> We’ll only briefly discuss this period relevant to Xuanzang’s work, a
+> detailed evaluation can be found in Dr Sarao’s work
 
 Nastika\~s grew rapidly in Madhydesha after their inception and this growth continued under the Kushana period. As Srinivasan points out, less than 10 out of 300 inscriptions excavated from Mathura between the Maurya-Kushana period belonged to Hs. Fa Xian observed in the fourth century that nastika\~s were losing ground in Uttar Pradesh while Xuanzang notes most ancient monasteries were in ruins around Magadha. Even in places like Mathura where nastika\~s continued to dominate, their numbers were declining. Nastika\~s were completely absent and their monasteries desolate when Xuanzang visited modern Rajasthan and Haryana. Strong nastika presence outside India ensured that even abandoned monasteries would continuously receive gifts from Myanmar, Sri Lanka and other foreign nations. Huna destruction of monasteries seems to have contributed slightly to it as later Korean travellers found many monasteries burnt around Sarnath but monasteries in neighbouring regions were safe nonetheless. In conclusion, barring a few urban centres like Mathura, Jhansi and Varanasi, nastika\~s were rapidly losing ground in Madhya Desha and were already completely absent in Rajasthan and Haryana.
 
@@ -101,19 +569,55 @@ Overall, as we mentioned earlier, nastika\~s had a strong presence in all 13 out
 
 ### Appendix
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§appendix" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
 All tables from Sarao’s work are attached here:
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdcd096e-d31a-4611-867c-d0297e72029c_828x715.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F834075c2-25b5-4e8a-baa7-55f8ca998967_827x387.png)
+![](https://substackcdn.com/image/fetch/$s_!OJ2e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdcd096e-d31a-4611-867c-d0297e72029c_828x715.png)
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F653ad8d4-d755-44c7-b6d6-b8bc4e22ee18_820x351.png)
+</div>
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F399d3a8d-8214-4773-91f2-abb3987d43d5_822x688.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6f26d9-5ab3-46e4-bc00-4d6afee76856_820x325.png)
+![](https://substackcdn.com/image/fetch/$s_!VEHa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F834075c2-25b5-4e8a-baa7-55f8ca998967_827x387.png)
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc98ec-1ccf-4803-aab9-1b41881b5f3a_542x862.png)
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!-9WK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F653ad8d4-d755-44c7-b6d6-b8bc4e22ee18_820x351.png)
+
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!vrQN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F399d3a8d-8214-4773-91f2-abb3987d43d5_822x688.png)
+
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!H3px!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6f26d9-5ab3-46e4-bc00-4d6afee76856_820x325.png)
+
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!7e69!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc98ec-1ccf-4803-aab9-1b41881b5f3a_542x862.png)
+
+</div>
 
 Although we’ve tried our best, some, if not many, identifications might be faulty here. Feel free to point the wrong ones out either on our Twitter account or in the comments below. We’ll release the data and computer program written in Python language for replication of the interactive maps as well for the benefit of interested people. Barring fields like theology, democraticizing knowledge always results in further advancement. Perhaps some interested reader would map Fa Xian and Hye Cho’s observations along with these, giving a more comprehensive visual understanding:
 
@@ -211,20 +715,238 @@ Although we’ve tried our best, some, if not many, identifications might be fau
                             mapbox_style='open-street-map')
     fig.show() 
 
-[](https://bharadvajatmaja.substack.com/p/religious-demography-in-late-classical/comments)[](javascript:void(0))
+</div>
 
-Share this post
+</div>
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+<div class="visibility-check">
 
-#### Religious Demography in Late Classical India
+</div>
 
-bharadvajatmaja.substack.com
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+11
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(93,74,154,0.75), rgba(93,74,154,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!RKmg!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d67218-4bba-4500-8a6a-eeee682b203d_710x459.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!9x8A!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ba1fa42-efa5-4a37-9446-4792cdd3a556_3425x4793.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Bharadvaja's Memoir
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Religious Demography in Late Classical India
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://bharadvajatmaja.substack.com/p/religious-demography-in-late-classical/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-flex pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-reset">
+
+Previous
+
+Next
+
+</div>
+
+</div>
+
+</div>
+
+</div>

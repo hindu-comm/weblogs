@@ -1,9 +1,8 @@
 +++
 title = "Duke Tales I see Finland"
 full_title = "Duke Tales I see Finland in the strangest places"
-date = "2021-06-24"
 upstream_url = "https://razib.substack.com/p/i-see-finland-in-the-strangest-places"
-
+date = "2021-06-24"
 +++
 Source: [here](https://razib.substack.com/p/i-see-finland-in-the-strangest-places).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7db0ccd-d4d6-4941-a736-7f5c1f232c20_800x683.jpeg)
 
-Duke Tales: I see Finland in the strangest places
+#### Duke Tales: I see Finland in the strangest places
 
 razib.substack.com
 
@@ -29,7 +28,7 @@ Email
 
 ### A history of Finnish genes and culture: part 1 of 6
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
@@ -43,11 +42,13 @@ Jun 24, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7db0ccd-d4d6-4941-a736-7f5c1f232c20_800x683.jpeg)
 
-Duke Tales: I see Finland in the strangest places
+#### Duke Tales: I see Finland in the strangest places
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://commons.wikimedia.org/wiki/File:Finland_in_Europe_(-rivers_-mini_map).svg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7db0ccd-d4d6-4941-a736-7f5c1f232c20_800x683.jpeg)
 
@@ -100,13 +103,19 @@ There was the time he came over ashen-faced, confiding that he was bleeding bad,
 
 More than once his tent has gone up in flames and he rings the bell late at night, in urgent need of a “loan” to go get another one. Duke grew up in this neighborhood. The house his parents raised him and his siblings in is boarded up, unused. I assume it’s condemned. Sometimes he grouses about his successful siblings who are long gone, busy with their careers. They’re in no hurry to sell the lot. They know how gentrification works and they’re playing the long game. That property value needs to get a lot higher before they’ll sign. Duke’s outnumbered. So he does what he needs to do.
 
-![Montinique Monroe / Getty Images](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F970b0470-c80f-45b1-9466-afcbeeccbca9_760x507.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F970b0470-c80f-45b1-9466-afcbeeccbca9_760x507.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F970b0470-c80f-45b1-9466-afcbeeccbca9_760x507.jpeg)
+
+Montinique Monroe / Getty Images
 
 He overcharges me to mow my tiny patch of lawn, he winsomely accosts unprepared passersby, he does odd jobs around the neighborhood. Once he offered to take a mess of cardboard off my hands and my wife got all excited that the recycling markets were up again. But I hadn’t been listening closely enough and he just wanted me to pay him to flatten all those boxes.
 
 Over time, I’ve developed a certain loyalty to Duke. I get mildly affronted when an Uber driver dropping me off looks out at Duke warily, asking are you sure it’s OK if I leave? I appreciate the way Duke keeps an eye on the neighborhood. He calls me Rasheed, avails himself of my tap water, and charges his collection of half-functioning cell phones at my outlet. His animosity towards the neighborhood Tech Bros who eat out or get all their meals delivered, in addition to receiving endless mounds of [Amazon packages](https://www.amazon.com/shop/RazibKhan) entertains me even though I’m more like them than I’d like. They get up from their computers to run wind sprints together occasionally, looking doughy and miserable. Duke ambles past, lean as hell from an honest day’s hustle, a diet of beer (and glass) and daily trips lugging buckets of water.
 
 All of this to say that my boy Duke lives a pretty marginal life. The Hobbesian phrase “solitary, poor, nasty, brutish, and short” can feel apt. His life looks… weird. I wouldn’t want it and it isn’t like anyone else’s I know. And yet…
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06d15653-8b97-4826-940c-de2e91da6f30_1000x400.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06d15653-8b97-4826-940c-de2e91da6f30_1000x400.jpeg)
 
@@ -117,6 +126,8 @@ On Valentines Day this year, it had begun snowing and the roads were getting icy
 We thought he was crazy. We worried about what state he’d be in the next time we saw him. Actually, the next time we saw Duke, he was in the exact same state as always. Chipper, talking fast, needed to “borrow” more money for propane, his brother was going to drive out and bring him cash once the highways were cleared.
 
 We on the other hand were living in our driveway. Camped out in our car, we had heat, we could charge our phones and there was space to sleep in something approaching comfort. In the daylight, the kids spread out their Legos, got on their tablets, drew pictures, and read. Pretty much their usual, except that they had to bundle up to venture into the frigid house to pee or brush their teeth. It was the middle of a pandemic; our fridge was packed. We were lucky. We had running water and our gas never went out, so we could brave the house to boil water and cook simple warm meals. But I spent most of those four days with a blanket pulled over my head, wishing myself asleep. I did enough blizzards and cold in my childhood. I’m not into roughing it.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3cdc53d0-95a0-4807-9866-b16ac087c98c_1200x455.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3cdc53d0-95a0-4807-9866-b16ac087c98c_1200x455.jpeg)
 
@@ -130,6 +141,8 @@ What could a man like Duke have to do with the genetics of Finns, one of the wor
 
 But in the middle of a global pandemic, a [freak ice storm hit](https://razib.substack.com/p/texpocalypse-now-a-postmortem), the [electrical grid collapsed overnight](https://www.texastribune.org/2021/02/18/texas-power-outages-ercot/), and most commerce and transport ground to a halt for a week. I weathered this, slumped under a blanket, texting my friends about everyone’s water and electrical status. The Tech Bros high-tailed it to a luxury hotel. And my [prepper friend’s](https://unsupervisedlearning.libsyn.com/texpocalypse-now-a-postmortem) carefully researched generators turned out not to be rated for 17 degrees and below and failed. We all had resources and various series of safety nets. Where was Duke who had basically none of those things?
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce6d4e15-e4de-4421-908a-7994558394c5_1456x819.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce6d4e15-e4de-4421-908a-7994558394c5_1456x819.jpeg)
 
 Duke was walking a mile through the unplowed streets to bring us the jerry can of gas my wife requested. The gas station minimart was cleaned out, including of gas cans, so Duke backtracked to a friend who sensed my wife’s cash in his pocket and required rent for the use of his plastic gas can. After lugging the full can back and topping up our tank, Duke trekked back to drop off the can. And then he carried on with all the odd jobs people needed him for.
@@ -139,6 +152,8 @@ Once the sun came out again and the snow started melting, there were still days 
 #### **Civilize this**
 
 When we talk about the history of human civilization, we’re often focused on the societies around the lip of the Mediterranean, the Rhine valley, the Rhone valley, the Po Valley, etc. But Europe for one hasn’t only been rich loess and river valleys, deep-rooted civilizations, sophisticated literary cultures, and complex conurbations.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9bcd594-699f-434f-b132-26d3bac5512c_468x624.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9bcd594-699f-434f-b132-26d3bac5512c_468x624.jpeg)
 
@@ -180,7 +195,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7db0ccd-d4d6-4941-a736-7f5c1f232c20_800x683.jpeg)
 
-Duke Tales: I see Finland in the strangest places
+#### Duke Tales: I see Finland in the strangest places
 
 razib.substack.com
 
@@ -191,5 +206,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

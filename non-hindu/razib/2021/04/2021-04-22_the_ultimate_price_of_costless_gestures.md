@@ -2,8 +2,7 @@
 title = "The ultimate price of"
 full_title = "The ultimate price of costless gestures"
 upstream_url = "https://razib.substack.com/p/the-ultimate-price-of-costless-gestures"
-date = "1999-04-12"
-
+date = "2021-04-22"
 +++
 Source: [here](https://razib.substack.com/p/the-ultimate-price-of-costless-gestures).
 

@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/what-happens-in-denisova-cave-stays).
 
 What happens in Denisova Cave stays in Denisova Cave... until now
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feea7b7c8-5c11-4e9f-b245-e772cbd0e7f4_744x595.png)
+
+#### What happens in Denisova Cave stays in Denisova Cave... until now
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # What happens in Denisova Cave stays in Denisova Cave... until now
 
 ### Part 3 of 3: Secrets from the Asian family tree keep making news
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -24,13 +40,35 @@ Dec 21, 2021
 
 34
 
-10
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feea7b7c8-5c11-4e9f-b245-e772cbd0e7f4_744x595.png)
+
+#### What happens in Denisova Cave stays in Denisova Cave... until now
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/what-happens-in-denisova-cave-stays/comments)
+
+11
+
+[](javascript:void(0))
 
 Share
 
 [](https://razib.substack.com/)
 
-![](https://substackcdn.com/image/fetch/$s_!HRuq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feea7b7c8-5c11-4e9f-b245-e772cbd0e7f4_744x595.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feea7b7c8-5c11-4e9f-b245-e772cbd0e7f4_744x595.png)
 
 60,000 years ago
 

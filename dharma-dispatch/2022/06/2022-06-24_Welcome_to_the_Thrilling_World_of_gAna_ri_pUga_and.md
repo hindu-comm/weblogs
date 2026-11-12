@@ -8,50 +8,193 @@ Source: [here](https://thedharmadispatch.substack.com/p/welcome-to-the-thrilling
 
 Welcome to the Thrilling World of Gāna, śrēṇi, Pūga and Other Corporate Bodies in Ancient India
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc703e9c-d557-45d4-a596-dff4e71099a5_737x415.jpeg)
+
+#### Welcome to the Thrilling World of Gāna, śrēṇi, Pūga and Other Corporate Bodies in Ancient India
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
+
 # Welcome to the Thrilling World of Gāna, śrēṇi, Pūga and Other Corporate Bodies in Ancient India
 
 ### This episode provides an introduction to the system of corporate life in ancient India and the various types of corporations that existed back then.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Jun 24, 2022
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 7
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+[](https://thedharmadispatch.substack.com/p/welcome-to-the-thrilling-world-of/comments)
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!6eCL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc703e9c-d557-45d4-a596-dff4e71099a5_737x415.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc703e9c-d557-45d4-a596-dff4e71099a5_737x415.jpeg)
 
-![The Exciting World of Gāna, śrēṇi, pūga and Corporate Bodies in Ancient India](https://substackcdn.com/image/fetch/$s_!6eCL!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc703e9c-d557-45d4-a596-dff4e71099a5_737x415.jpeg "The Exciting World of Gāna, śrēṇi, pūga and Corporate Bodies in Ancient India")
-
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+![The Exciting World of Gāna, śrēṇi, pūga and Corporate Bodies in Ancient India](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc703e9c-d557-45d4-a596-dff4e71099a5_737x415.jpeg "The Exciting World of Gāna, śrēṇi, pūga and Corporate Bodies in Ancient India")
 
 THE DEFINING, DISTINCTIVE AND CARDINAL FEATURE of life in ancient India from the Vedic era was the foundational spirit of honest cooperation and harmony. This reflected itself in all areas: religion, society, politics and economics.
 
-Perhaps the best illustration of this spirit is just one word: *Yajna.* Today, we associate *Yajna* almost exclusively with a r…
+Perhaps the best illustration of this spirit is just one word: *Yajna.* Today, we associate *Yajna* almost exclusively with a religious ceremony or what is wrongly known as ritual. But as long as India retained her original character, *Yajna* was a profound activity of national sharing…in fact, the correct meaning of *Yajna* is “sharing,” and not “sacrifice.” In a sense, *Yajna* was an institution which provided a spiritual basis for national cooperation. It is in *Yajna* that we see the practical manifestations of profound conceptions such as *Rta, Rna, Dharma,* etc. It was also a significant engine of economics but that is a topic for another day.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+The spirit of cooperation is primarily a social instinct rooted in basic human impulses. Spirit acquires meaning only through activity. And so, the aforementioned cooperative spirit derives meaning and will function in the real world only through conscious social organization.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+Further, this organization—its form, nature, structure, and practical operation also depends on the circumstances that births it and in which it operates. But while the nature of these circumstances dictates its form, functioning, etc., the character of its evolution and development depends to a great degree on the unique genius of the society and culture in which it is incubated and fostered.
 
-Claim my free post
+The Dharma Dispatch Digest is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fwelcome-to-the-thrilling-world-of&utm_source=paywall&utm_medium=web&utm_content=60919528&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=60919528&next=https://thedharmadispatch.substack.com/p/welcome-to-the-thrilling-world-of)
+**Subscribe**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+This genius is precisely what we observe in the corporate and business life of ancient India. In the real world, this life revealed itself in the following organizations, which continue to exert an enduring influence on our contemporary life as well. Here is a partial list:
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+- Jati (not *caste*)
+
+- Sangha
+
+- Shreni
+
+- Puga (can be likened to today’s Association of Persons, a cooperative
+  society, and so on).
+
+- Gana
+
+ON A FUNDAMENTAL PLANE, a study of business and corporate life in ancient India will open up a whole new world, to put it mildly. It will reveal itself to us a stunning array of the real perspectives, attitudes and impulses of life that animated our people so far back in time. More importantly, this study of business life in ancient India shows us the innate spirit of nobility and refinement that informed and permeated all other areas of our national and social life.
+
+What has been unfairly propagandized as the “caste system” was actually two things at the same time: one, it was a social corporation much like today’s FICCI and similar bodies; and two, it was also an economic unit taken as a whole.
+
+## **An Exciting History**
+
+Corporate organizations in ancient India have interesting roots. The Brihadaranyaka Upanishad for example, is an early reference. It says that just as how society was divided into four *Varnas,* the Devatas also had four *Varnas.*
+
+The story which follows is pretty thrilling.
+
+Brahma was not content with creating only the Brahmanas and Kshatriyas because these two *Varnas* did not know how to create and acquire wealth. And so, he created the *Vaishya* known by the term *Gana-shah.* In fact, the meaning of this word is highly interesting in itself. It basically implies that it is only through cooperation and not by individual effort that wealth is acquired.
+
+This evidently shows the fact that there was thriving corporate activity in India’s economic life as early as the Vedic period. Indeed, for countless centuries, the business community throughout India had organized itself into *Ganas.*
+
+But on a very mundane plane, this cooperation or organization of business community into *Ganas* was also practical necessity as we shall see.
+
+Now we can quickly look at only some of the major forms of corporate organizations in ancient India:
+
+- *Gana*: It was an overarching and a highly fluid organization which
+  generally means an association of traders and merchants…on in general,
+  any corporate body in the current sense of the term.
+
+- *Pani:* similar to *Gana.* It is derived from the root, *Pann:* to
+  barter; to negotiate. Over time, it acquired other meanings such as a
+  miser, a path, a market, and so on.
+
+- *Puga:* Corporations living by the profession of arms. Or entities
+  which supplied soldiers for hire. This genre of corporations also had
+  a clear leadership hierarchy. We can think of them as corporations of
+  warriors and they were in continual existence for several millennia.
+
+- *Samavaya:* in general, an assembly or congregation of people meant to
+  discuss or carry on some kind of commercial activity.
+
+## **The Shreni**
+
+ONE OF THE MOST ENDURING and ubiquitous corporate organizations was something known as the *Shreni,* and it merits some detailed examination. But before that, we can cite an interesting titbit. The head or chief of a *Shreni* was the *Shreshti.* This is the origin of the ubiquitous surname, *Seth.*
+
+In general, a *Shreni* was a guild or commercial body in ancient India. We can think of it as follows: practically, all different branches of occupations, professions, and trades had a well-defined organization of some sort. Each such organization or corporate had the authority to lay down rules, laws and regulations for its members, and these were recognized as valid in the eye of the law. The representatives of a *Shreni* had a right to be consulted by the Government authorities including the King himself in any matter that concerned it.
+
+A highly interesting facet of *Shrenis* is the fact that while its legal character was a guild or corporation — I will use the terms *guild* and *corporation* interchangeably—its members belonged to the same or different Varnas and Jatis. But *all of them followed the same trade or industry.*
+
+Thus, nearly all branches of professions, industry, trade, etc., formed their own guilds but their numbers varied over different periods and geographical locations throughout our history. However, the most common or standardised number of guilds starting from the Buddhist period onwards is eighteen. In some cases, there were as many as thirty-two. But overall, the number of guilds or corporations in the long history of India is rather substantial, which only shows how pervasive and complex the system of our corporations was. Here is a partial list of such guilds or corporations:
+
+1.  Guilds of wood-workers including carpenters, cabinet-makers,
+    wheel-wrights, builders of houses, builders of ships and builders of
+    vehicles of all sorts.
+
+2.  Workers in metal, including gold and silver.
+
+3.  Stone workers
+
+4.  Leather workers
+
+5.  Ivory workers
+
+6.  Workers fabricating hydraulic engines (*Odayantrika*).
+
+7.  Bamboo workers
+
+8.  Braziers or brass workers
+
+9.  Jewellers
+
+10. Weavers
+
+11. Potters
+
+12. Oil millers (*Tilapishaka*)
+
+13. Basket makers
+
+14. Dyers
+
+15. Painters
+
+16. Corn-dealers
+
+17. Cultivators
+
+18. Fishermen
+
+19. Butchers
+
+20. Barbers and Shampooers
+
+21. Garland makers and flower-sellers (*Malakara*)
+
+22. Mariners
+
+23. Herdsmen
+
+24. Traders, including caravans and merchants
+
+25. Robbers and freebooters
+
+26. Militia who guarded caravans
+
+27. Moneylenders
+
+These professional guilds also formed part of the local political assemblies.
+
+*To be continued*
+
+------------------------------------------------------------------------
+
+## An Appeal: Please Empower Our Sacred Work @ The Dharma Dispatch
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*. It is your subscriptions that enables and empowers us to produce in-depth essays on Hindu civilisational heritage like this series. Every bit of your subscription pays our bills and *helps us offer more and better content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+**Subscribe**
+
+7
+
+[](https://thedharmadispatch.substack.com/p/welcome-to-the-thrilling-world-of/comments)
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

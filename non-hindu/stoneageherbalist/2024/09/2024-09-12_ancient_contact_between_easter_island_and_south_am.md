@@ -2,8 +2,7 @@
 title = "Ancient Contact Between"
 full_title = "Ancient Contact Between Easter Island and South America?"
 upstream_url = "https://www.stoneageherbalist.com/p/ancient-contact-between-easter-island"
-date = "300-01-15"
-
+date = "2024-09-12"
 +++
 Source: [here](https://www.stoneageherbalist.com/p/ancient-contact-between-easter-island).
 

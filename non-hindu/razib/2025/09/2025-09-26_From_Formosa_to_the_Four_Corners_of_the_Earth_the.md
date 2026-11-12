@@ -22,11 +22,15 @@ Sep 26, 2025
 
 ∙ Paid
 
-49
+43
+
+[](https://www.razibkhan.com/p/from-formosa-to-the-four-corners/comments)
 
 4
 
 5
+
+[](javascript:void(0))
 
 Share
 

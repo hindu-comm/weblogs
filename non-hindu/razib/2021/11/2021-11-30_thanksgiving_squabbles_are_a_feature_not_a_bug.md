@@ -2,8 +2,7 @@
 title = "Thanksgiving squabbles"
 full_title = "Thanksgiving squabbles are a feature, not a bug"
 upstream_url = "https://razib.substack.com/p/thanksgiving-squabbles-are-a-feature"
-date = "1858-04-12"
-
+date = "2021-11-30"
 +++
 Source: [here](https://razib.substack.com/p/thanksgiving-squabbles-are-a-feature).
 

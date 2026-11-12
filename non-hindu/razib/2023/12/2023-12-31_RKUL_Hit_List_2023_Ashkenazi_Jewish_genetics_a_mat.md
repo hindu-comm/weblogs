@@ -8,31 +8,343 @@ Source: [here](https://www.razibkhan.com/p/rkul-hit-list-2023-ashkenazi-jewish).
 
 RKUL Hit List 2023: Ashkenazi Jewish genetics, a match made in the Mediterranean 
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c48d07-d7df-4fbb-84a3-050d3404d803_1832x1948.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL Hit List 2023: Ashkenazi Jewish genetics, a match made in the Mediterranean
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
 # RKUL Hit List 2023: Ashkenazi Jewish genetics, a match made in the Mediterranean
 
 ### Revisiting favorite Substack pieces, with research-based revisions
 
-[](https://substack.com/@razib)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
 
 [Razib Khan](https://substack.com/@razib)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
 Dec 31, 2023
+
+</div>
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 ∙ Paid
 
-88
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+80
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c48d07-d7df-4fbb-84a3-050d3404d803_1832x1948.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL Hit List 2023: Ashkenazi Jewish genetics, a match made in the Mediterranean
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-hit-list-2023-ashkenazi-jewish/comments)
+
+<div class="label">
 
 4
 
-3
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!m9AY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c48d07-d7df-4fbb-84a3-050d3404d803_1832x1948.png)
+</div>
 
-![](https://substackcdn.com/image/fetch/$s_!m9AY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c48d07-d7df-4fbb-84a3-050d3404d803_1832x1948.png)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c48d07-d7df-4fbb-84a3-050d3404d803_1832x1948.png)
+
+</div>
 
 *The main project of this Substack is writing the first drafts of newly genetics-informed human population histories. Over the past two decades, genomics has been deluged with manifold riches on an absolutely staggering scale. Computational power, DNA extraction scale (especially from ancient samples) and widespread affordable consumer testing have all gone from intangible pipe dreams to tearing through phases of literally exponential growth. Our powers have risen multiple orders of magnitude in the last 20 years. I have been an excitable front-row commentator on the genomic revolution from the perch of my original blog for two decades now, but this new project of systematically covering what we thought we knew of human history and population movements versus what genomics can confirm or rule out is only a little over three years old for me.*
 
@@ -42,7 +354,11 @@ Share
 
 *Again, for all who have already read it, today’s updates appear in bold so you can easily scroll between them.*
 
+<div>
+
 ------------------------------------------------------------------------
+
+</div>
 
 Sometime after the year 1000 AD, a group of Jews began migrating eastward across Europe, into the principalities of Germany and the kingdom of Poland, attracted by the combination of religious tolerance and economic opportunity. These territories were beyond the frontiers of the Roman Empire; they were lands that Jews had not traditionally occupied. By the time these pioneers arrived in the small towns of Germany and the hamlets of Poland, Jewish communities had already been established in Persia and Egypt for 1,500 years. **Within a matter of generations, the Jews migrating out of France into Germany encountered another community of believers who had emerged out of the east. These latter were Slavic-speaking Jews whose ultimate provenance remains even more opaque than the westerners’. Though the cultural touchstones and self-identity of the later Ashkenazim derive primarily from the western Jews whose forebears sojourned in France, producing incredibly influential rabbis like Rashi of Troyes, the eastern migrants’ enduring mark on the European Jewish gene pool Jews has become unmistakable with the advent of modern genetics.**
 
@@ -62,6 +378,18 @@ Given Ashkenazi Jews’ newfound prominence and nebulous origins, late 19th-cent
 
 ### **In the intersection**
 
+<div id="§in-the-intersection" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/140209984/in-the-intersection">
+
+</div>
+
+</div>
+
+</div>
+
 To understand when and where the Ashkenazim come from, it is important to understand what they were before they became the distinctive people we know from history and fiction. The ancient King David was a simple shepherd, while the Babylonian Talmud outlines how farmers must maintain adherence to the laws of the Torah despite the agricultural season’s cycles. At the Roman Empire’s height 2,000 years ago, the Jews were both pedestrian and unique. Pedestrian in that they were a nation of farmers and shepherds, as the Bible extensively documents. Yes, large communities of urban Jews flourished in Alexandria, Rome and other large cities, but on balance, the Jews were not particularly urban. Like the Jews, Greeks outside of their homeland tended to be urban as well, but the average Greek was still a farmer or a shepherd, as were the vast majority of humans in the ancient world (not to mention, incidentally in the world as a whole until the 20th century). The ancient Jews were tillers of the soil and drivers of flocks, like all their contemporaries.
 
 Where the Jews were unique was their strict adherence to a set of laws handed down to them by a god whom they held to be the one true god above all others. The Jews were zealous in their religious particularity, a reality which led to a war of liberation against the Greeks in 167 BC, where they rebelled against the imposition of pagan syncretism by raising an altar to Zeus in the Jewish Temple. Today, we know of this war mostly through its annual commemoration at Hanukkah. Once Rome rose and conquered the Eastern Mediterranean, the Jews rebelled twice against the Roman imperium, once in the first century AD and once in the second. Again, their rebellion was sparked when they chafed against the rule of the religiously tolerant but unabashedly polytheistic Romans. The first rebellion was triggered by riots that erupted in 66 AD when pagan Greeks provocatively sacrificed birds in front of a synagogue, an act of sacrilege in Jewish eyes intended to inflame tensions in Jerusalem. The first rebellion ended a period when Jews were prominent in Roman elite circles, particularly due to the Judaean client king Herod Agrippa’s friendship with the Roman Emperor Caligula. From then on, Jews were tolerated, but seen to be different: a people apart.
@@ -78,6 +406,18 @@ In contrast to the primitive state of affairs in Northern Europe, in the Roman E
 
 ### **A people beyond geography**
 
+<div id="§a-people-beyond-geography" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/140209984/a-people-beyond-geography">
+
+</div>
+
+</div>
+
+</div>
+
 In most of Europe, genetic variation is neatly [predicted by geography](https://www.nytimes.com/2008/08/13/science/13visual.html?.?mc=aud_dev&ad-keywords=auddevgate&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADwCE_aHkjkCI4rhHmB5d-8sT4n71nUOOleZ39ozH4jiAck1WSh6WcaAmOYEALw_wcB&gclsrc=aw.ds). Genetically, the French are more similar to Germans than they are to Russians. Russians are more similar to Poles than they are to Swedes. And so forth. But there are exceptions. The Ashkenazim are scattered across numerous nation-states. In the early 20th century, almost every nation north of Italy, Greece and Spain, and south of Scandinavia, had its own large population of Ashkenazi Jews. Though the Holocaust and World War II destroyed this vibrant diaspora, millions of Americans, Israelis, French and Britons descend from Jewish Lithuanians, Poles, Hungarians, Romanians, Russians and Germans. And yet genetically, these Jews of various nationalities are quite similar. A Lithuanian Jew is genetically far closer to a Bavarian Jew than to his gentile Lithuanian neighbor **(the main exception to this truism is the very small community of indigenous Rhenish Jews in western Germany, who seem to have less Northern European ancestry than the vast majority of Ashkenazim with origins in Poland-Lithuania, likely reflecting this distinct and isolated community’s minimal contact with Moravian Jews in the medieval period)**.
 
 The similarity within Ashkenazi populations is not entirely surprising, because by the [Renaissance](https://en.wikipedia.org/wiki/Bovo-Bukh) their peregrinations were documented in chronicles, and their shared origins evident in their common Yiddish language and culture. Most of Germany was empty of Jews in the 18th century, due to early expulsions in the Middle Ages and the chaos of the Wars of Religion in the 17th century**.** So where did they come from? **The Rhenish Jews of the Rhineland’s mercantile cities had a deep continuity in the region despite famously having suffered pogroms in the Middle Ages**. **But all the available evidence points to the main demographic pulse coming from the east.** The Jews of the *Haskalah*, the 19th-century Jewish Enlightenment, were predominantly German-speaking, but the new “Germans of the Mosaic faith” were mostly recent descendants of Eastern European migrants. Settling down in the cities of Germany, these burghers quickly forgot their ancestors’ precise origins and produced intellectuals of the caliber of philosopher Moses Mendelssohn, whose descendents fully assimilated to gentile culture. When subsequent waves of Jews from the east arrived, the settled German Jews expressed horror at their habits and customs, contemptuously referring to them as “Ostjuden.” But by and large they were in fact one people, with one genetic origin.
@@ -86,21 +426,59 @@ If you are Ashkenazi Jewish and search for relatives on 23andMe, the widespread 
 
 One of the likely consequences of this small founder population is Jewish genetic diseases. When people intermarry with only those they are related to, even if quite distantly, genetic variants associated with disease tend to eventually escape the grip of natural selection and shuck off the mask of a recessive state. Tay-Sachs, Torsion Dystonia and Gaucher’s disease are just three of the heritable ailments associated with Ashkenazi Jews, though not exclusive to them. Though some have proposed [natural selection](https://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf) as driving these diseases within the Ashkenazim, most researchers accept the contention that a small effective founding population is the culprit.
 
-[](https://substackcdn.com/image/fetch/$s_!cSSW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373bb71c-9088-488b-9d63-afb1cfce05f3_1600x1287.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!cSSW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373bb71c-9088-488b-9d63-afb1cfce05f3_1600x1287.jpeg)
+![Plotting Principal Component (PC) 1 vs. PC 2 of genetic variation
+Eurasian populations, with PC 1 (x axis) being roughly west vs. east while PC 2 (y axis) is north vs. south.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373bb71c-9088-488b-9d63-afb1cfce05f3_1600x1287.jpeg)
 
-Plotting Principal Component (PC) 1 vs. PC 2 of genetic variation
-Eurasian populations, with PC 1 (x axis) being roughly west vs. east while PC 2 (y axis) is north vs. south.
+</div>
 
 ### **The Age of DNA**
+
+<div id="§the-age-of-dna" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/140209984/the-age-of-dna">
+
+</div>
+
+</div>
+
+</div>
 
 Though the reality of Jewish genetic distinctiveness was clear from the existence of particular diseases within the community, a deeper exploration of Ashkenazi genetics had to await the 21st century. Despite extensive pseudo-scientific attempts to classify the Jews in the early 20th century, the tools of science were inadequate to the task of human taxonomy at such a fine-grained level until recently. Now with the whole human genome as the data bank from which to draw information, the field of Jewish genetics has yielded a wealth of insights related to ancestry and heritage.
 
 First, around the year 2000, geneticists looked at the direct paternal lineage on the Y chromosome for two particular Jewish groups, the Cohens and Levites. These are two priestly lineages, traditionally defined through common descent from a shared ancestor, Moses’ brother Aaron, and Jacob’s son Levi, respectively. The Rabbinical Judaism that coalesced during the Roman Empire focuses on direct maternal lineage to define membership in the Jewish nation, but the paternal inheritance custom of the two priestly lineages reflects a more ancient tradition going back to the Bible.
 
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="paywall" component-name="Paywall" testid="paywall">
+
 ## This post is for paid subscribers
+
+<div class="paywall-cta">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center pc-reset">
 
 Subscribe
 
+</div>
+
+</div>
+
+<div class="paywall-login">
+
 [Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Frkul-hit-list-2023-ashkenazi-jewish&for_pub=razib&change_user=false)
+
+</div>
+
+</div>
+
+</div>

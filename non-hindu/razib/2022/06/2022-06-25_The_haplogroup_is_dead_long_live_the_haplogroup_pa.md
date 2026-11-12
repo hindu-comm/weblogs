@@ -1,9 +1,8 @@
 +++
 title = "The haplogroup is dead,"
 full_title = "The haplogroup is dead, long live the haplogroup!"
-date = "2022-06-25"
 upstream_url = "https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d"
-
+date = "2022-06-25"
 +++
 Source: [here](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
 
-The haplogroup is dead, long live the haplogroup! (part 2)
+#### The haplogroup is dead, long live the haplogroup! (part 2)
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### What mtDNA and Y-chromosomal lineages can still tell us
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-Jun 25
+Jun 25, 2022
 
-44
+45
 
 [](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d/comments)
 
@@ -43,11 +42,13 @@ Jun 25
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
 
-The haplogroup is dead, long live the haplogroup! (part 2)
+#### The haplogroup is dead, long live the haplogroup! (part 2)
 
 razib.substack.com
 
@@ -59,7 +60,11 @@ Facebook
 
 Email
 
-![Extant Y chromosomal haplogroups](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
+
+Extant Y chromosomal haplogroups
 
 **Subscribe**
 
@@ -81,7 +86,11 @@ As we’ve seen, mtDNA and Y trace only a single direct line of genealogy, while
 
 With the New World’s mixed populations, we are well aware of the history, so upon confirming that the mtDNA haplogroups of Argentinians are about [50% indigenous](https://pubmed.ncbi.nlm.nih.gov/19680675/) we aren’t at much risk of fallaciously concluding Argentina is half-indigenous by ancestry. We realize that generations of male-skewed European migration have yielded a mostly European-heritage population whose mtDNA lineages nevertheless reflect the scarcity of European women among the early waves of migrants.
 
-![Tracing human migration with mtDNA in *The Real Eve*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d66b238-bfa9-400e-bf45-5a2bd55e0a05_640x421.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d66b238-bfa9-400e-bf45-5a2bd55e0a05_640x421.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d66b238-bfa9-400e-bf45-5a2bd55e0a05_640x421.jpeg)
+
+Tracing human migration with mtDNA in *The Real Eve*
 
 A second problem was that works of historical inference using only contemporary geographical distributions of Y and mtDNA haplogroups rested on a tacit premise that migration generally defined the early phases of human expansion. And that it was followed by a settled period in relative stasis. This assumption was sometimes made explicit; for example, Stephen Oppenheimer’s 2004 book* [The Real Eve: Modern Man’s Journey Out of Africa](https://www.amazon.com/exec/obidos/ASIN/0786713348/geneexpressio-20)*, featured an mtDNA phylogeny overlain on a map of the world (above), depicting the planet’s sequential, colonization during the Pleistocene, from Africa to Eurasia and finally on to Australasia and the New World. Each mother would settle in a frontier zone, and her daughters move onward in the next generation, producing an mtDNA genealogy where genetic, historical and geographic distances were perfectly aligned. In unfurling the genealogical tree, Oppenheimer proposed to read human history in the branching patterns displayed.
 
@@ -89,11 +98,13 @@ Alas, the basic assumption that mass migration and population turnover largely c
 
 And once you go beyond simple dynamics of rapid population expansion and replacement (the Out of Africa migration or the replacement of European hunter-gatherers both fit that bill), uniparental markers could lead you astray or preserve no record at all of more modest demographic shifts. In contrast, the rich, dense data offered by genome-wide analysis over hundreds of thousands of SNPs delivers innumerable phylogenetic windows on a population’s history, as opposed to just two, and could anticipate ancient-DNA outcomes in ways far beyond Y and mtDNA’s power. David Reich’s 2009 paper [Reconstructing Indian Population History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842210/) used modern samples on genome-wide data to broadly predict the results of 2019’s [The Formation of Human Populations in South and Central Asia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822619/), which utilized actual ancient DNA samples).
 
-Finally, there is the problem of time depth and information loss. Because Y and mtDNA lineages are passed through only half the human population, they are subject to stronger genetic drift and lineage turnover. When probing the deep history of our species, we can’t get back past the most recent common ancestor \~200,000 years ago, since both Y and mtDNA are blind beyond this genetic singularity when all extant lineages converge into one. This is a problem because our Neanderthal and Denisovan cousins diverged from us more than 500,000 years ago. We now know that there is both Denisovan and Neanderthal admixture in modern humans, but neither Y nor mtDNA research based on modern human phylogenies ever gave us an inkling of this reality. These single markers simply lack the broad power to bring into focus our species’ more subtle long-term evolutionary dynamics, because of their narrow time horizons and limitation to only a single line of genealogy.
+Finally, there is the problem of time depth and information loss. Because Y and mtDNA lineages are passed through only half the human population, they are subject to stronger genetic drift and lineage turnover. When probing the deep history of our species, we can’t get back past the most recent common ancestor ~200,000 years ago, since both Y and mtDNA are blind beyond this genetic singularity when all extant lineages converge into one. This is a problem because our Neanderthal and Denisovan cousins diverged from us more than 500,000 years ago. We now know that there is both Denisovan and Neanderthal admixture in modern humans, but neither Y nor mtDNA research based on modern human phylogenies ever gave us an inkling of this reality. These single markers simply lack the broad power to bring into focus our species’ more subtle long-term evolutionary dynamics, because of their narrow time horizons and limitation to only a single line of genealogy.
 
 So if they were inadequate in so many ways, why do I bring up uniparental lineages in every human population story I tell today? Because, even in that Icarus stage when the field was trying to make these targeted tools be all things to all people, not every sally was a dead end. And the successes illustrated the unique strengths of the markers in specific contexts, when the evolutionary forces were so pervasive that a single lineage was sufficient to capture demographic history, or when mtDNA’s ease of extraction made it the best choice for degraded samples. Simple and elegant uniparental analyses often returned results that would later be confirmed by more complex methods once orders of magnitude more computational resources and sequencing data came online.
 
 The persistent relevance of mitochondrial DNA was underscored when in 2010 it [was retrieved](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000536) from Neolithic sites in Europe, and the shocking results prefigured what more thorough genome-wide ancient DNA would subsequently confirm: Europe’s first farmers were like no other population alive today; between 8000 and 5000 years ago the continent was almost entirely dominated by a people of mostly ancient Anatolian ancestry, untouched by the migration from the steppes to the east that would wash across the continent over and over after 3000 BC. Only the inhabitants of Sardinia maintained their Neolithic character in the isolation of their island, being impacted by outsiders only after 1000 BC, and even today carrying the greatest proportion of farmer ancestry in Europe.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0552504-3342-4f85-8df9-98974360ff4a_793x624.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0552504-3342-4f85-8df9-98974360ff4a_793x624.jpeg)
 
@@ -131,6 +142,8 @@ In the table below, you will find the 11 most numerous Y-chromosome haplogroups 
 
 [Share](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64ca3c5b-5084-41de-aac4-1dd19febffe9_778x349.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64ca3c5b-5084-41de-aac4-1dd19febffe9_778x349.jpeg)
 
 [](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d/comments)
@@ -143,7 +156,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
 
-The haplogroup is dead, long live the haplogroup! (part 2)
+#### The haplogroup is dead, long live the haplogroup! (part 2)
 
 razib.substack.com
 
@@ -154,5 +167,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

@@ -8,37 +8,457 @@ Source: [here](https://nemets.substack.com/p/peoples-of-rome).
 
 Peoples of Rome
 
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(78,65,53,0.75), rgba(78,65,53,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!Sqry!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d9886f-e55a-489a-b808-9caccc54cfd4_324x499.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Peoples of Rome
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
+
 # Peoples of Rome
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
 
 [](https://substack.com/@nemets)
 
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Peter Nimitz">
+
 ![Peter Nimitz's avatar](https://substackcdn.com/image/fetch/$s_!ximq!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
 
 [Peter Nimitz](https://substack.com/@nemets)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
 Jun 29, 2023
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-103
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+96
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(78,65,53,0.75), rgba(78,65,53,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!Sqry!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d9886f-e55a-489a-b808-9caccc54cfd4_324x499.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Peoples of Rome
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://nemets.substack.com/p/peoples-of-rome/comments)
+
+<div class="label">
 
 22
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
+
+<div class="label">
 
 5
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
 Share
 
-[](https://www.amazon.com/History-Rome-Volumes-1-5-ebook/dp/B081QPFQM6?crid=3D3G6KRC5SMR1&keywords=history+of+rome+mommsen&qid=1687973836&sprefix=history+of+rome+momm%2Caps%2C148&sr=8-5&linkCode=ll1&tag=nemets09-20&linkId=db53e797c8de8cc6ee2f58c9713454b4&language=en_US&ref_=as_li_ss_tl)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!Sqry!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d9886f-e55a-489a-b808-9caccc54cfd4_324x499.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 *“Homo sum, humani nil a me alienum puto”*
 
@@ -70,19 +490,57 @@ Sicily in particular was changed by the mass import of slaves. Roman victories i
 
 Roman advances in the eastern Mediterranean in the 2nd and 1st centuries BC brought even more slaves and immigrants to Italy. While [freeholding farmers were not totally displaced by slave-worked latifundias](https://www.amazon.com/Companion-Republic-Blackwell-Companions-Ancient-ebook/dp/B006C2MA1W?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=edb1f95427dbbd37d2a9b1783ff19c3b&language=en_US&ref_=as_li_ss_tl) (large agricultural operations), the slaves were an obvious target for both poor Romans and those like the [Gracchi brothers](https://en.wikipedia.org/wiki/Gracchi_brothers) who worried about rural depopulation. Freeholding farmers were the bulk of the republic’s infantry formations and the reason that it could endure the burdens of unending warfare.
 
-[](https://www.amazon.com/Rubicon-Last-Years-Roman-Republic-ebook/dp/B0012RMVEI?_encoding=UTF8&qid=1687976105&sr=1-1&linkCode=ll1&tag=nemets09-20&linkId=ebc20a3620c538b2e915dd33fecb3e7b&language=en_US&ref_=as_li_ss_tl)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!Jc3A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7c610a7-c446-47d0-8977-7acdc95a1495_571x755.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 In the end, the republic proved unable to cope with its role as the Mediterranean hegemon. Its republican political model of mass participation in government was replaced in the mid-to-late 1st century BC by an imperial model of elite collaboration against a deracinated population. It was an inevitability. The military of freeholding citizens had been [replaced by professional soldiers](https://en.wikipedia.org/wiki/Marian_reforms) loyal to charismatic generals. Foreign troops - such as Caesar’s German and Gaulish auxiliaries - became a considerable part of the Roman military and eventually of its political structure.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider a paid subscription to support my writing
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 The integration of foreign elites into the Roman people was part of a trend that went back centuries. First the Romans had conquered and integrated the people of Latium, then the other Italic peoples of Italy. Under the empire they became a universal people - indeed even under the republic statements such as the North African Terence’s “*I am human, and nothing human is alien to me”* had been greeted with applause by Roman audiences. To some that was reason for celebration. [For others, it was a reason for despair](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php):
 
@@ -138,13 +596,11 @@ The demographic transformation within the Roman Empire was not limited to urban 
 
 The [Crisis of the Third Century](https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century) was part of a broader global phenomenon that also afflicted at least Iran, China, and Japan. Plague and famine slaughtered millions and caused terrible political instability. The diverse urban populations of the empire suffered disproportionately, and those living in the periphery - the descendants of those like Umbricius who fled the cities for the countryside - comprised a greater share of the population afterwards. The Roman Empire was [successfully restored](https://en.wikipedia.org/wiki/Aurelian) for a time, but it fell into terminal decline towards the end of the 4th century.
 
-[](https://substackcdn.com/image/fetch/$s_!JSrx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d4df55-f7bb-423b-816a-2ebb715b7fc4_557x829.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!JSrx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d4df55-f7bb-423b-816a-2ebb715b7fc4_557x829.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 The Fall of the Western Roman Empire in the 5th century AD was apocalyptic. Large swaths of land were depopulated, cities were destroyed, trade collapsed, and technology regressed. Those reliant upon the endurance of long-distance trade routes or maintenance of complex social or physical infrastructure, such as the diverse urban populations, died off to varying degrees. In Britain and the northern Balkans they were extinguished in entirety - those who were fortunate enough to not starve to death were killed by barbarian invaders. In Italy, [Iberia](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2019_Olalde_Science_IberiaTransect_2.pdf), and the [southern Balkans](https://www.biorxiv.org/content/10.1101/2023.06.05.543790v1.full); some of the partly-eastern Mediterranean people survived and were absorbed into succeeding populations. In general, it was the peripheral peoples such as the Bretons, the Albanians, the Basques, and the rural Italians whose societies were materially poor but politically and economically robust rather than sophisticated who endured the barbarian invasions. They and the German or Slav barbarian conquerors, rather than those descended from Roman-era migrants, formed the predominant element of succeeding generations (though it [barely predominated in southern Italy](https://www.biorxiv.org/content/10.1101/2022.02.26.482072v1.full), where the Aegean and eastern Mediterranean elements remained strong). The [meek inherited the earth](https://en.wikipedia.org/wiki/Matthew_5:5).
 
@@ -152,20 +608,268 @@ Greco-Roman civilization was succeeded by two new civilizations - the [House of 
 
 Like other Europeans peoples, the Italian peoples were largely formed by the Middle Ages. Even the worst events of the last thousand years - the Black Death and the Little Ice Age - were not sufficient to allow for the kind of violent population replacements that characterized the peninsula at multiple points in the Bronze Age. Similarly, diplomatic intrigues and [Catholic collaboration](https://en.wikipedia.org/wiki/Holy_League) prevented Italy from falling under a regional hegemon whose size would allow for substantial migration of alien peoples to the peninsula [until the 21st century](https://en.wikipedia.org/wiki/Immigration_to_Italy#2000s_Mediterranean_Sea_crossings_crisis).
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider a paid subscription to support my writing
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
 
 Subscribe
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-103
+<div id="error-container">
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+96
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(78,65,53,0.75), rgba(78,65,53,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!Sqry!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d9886f-e55a-489a-b808-9caccc54cfd4_324x499.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Peoples of Rome
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://nemets.substack.com/p/peoples-of-rome/comments)
+
+<div class="label">
 
 22
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
+
+<div class="label">
 
 5
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

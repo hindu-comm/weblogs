@@ -1,9 +1,8 @@
 +++
 title = "The original Chinese man"
 full_title = "The original Chinese man"
-date = "2020-12-20"
 upstream_url = "https://razib.substack.com/p/3000-years-of-chinese-history"
-
+date = "2020-12-20"
 +++
 Source: [here](https://razib.substack.com/p/3000-years-of-chinese-history).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b4b6658-4643-442f-bfff-e8b08123e6e5_561x532.jpeg)
 
-The original Chinese man
+#### The original Chinese man
 
 razib.substack.com
 
@@ -25,17 +24,19 @@ Facebook
 
 Email
 
+Notes
+
 # The original Chinese man
 
 ### It all begins with the Zhou
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 20, 2020
 
-23
+22
 
 [](https://razib.substack.com/p/3000-years-of-chinese-history/comments)
 
@@ -43,11 +44,13 @@ Dec 20, 2020
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b4b6658-4643-442f-bfff-e8b08123e6e5_561x532.jpeg)
 
-The original Chinese man
+#### The original Chinese man
 
 razib.substack.com
 
@@ -58,6 +61,10 @@ Twitter
 Facebook
 
 Email
+
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b4b6658-4643-442f-bfff-e8b08123e6e5_561x532.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b4b6658-4643-442f-bfff-e8b08123e6e5_561x532.jpeg)
 
@@ -89,6 +96,8 @@ India and Greece were in an ahistorical period, as written civilization had coll
 
 [Share](https://razib.substack.com/p/3000-years-of-chinese-history?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d8737c9-e05e-4bde-bb2c-c24f713f5dc4_600x404.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d8737c9-e05e-4bde-bb2c-c24f713f5dc4_600x404.jpeg)
 
 **It began with the Zhou**
@@ -103,6 +112,8 @@ But all good things come to an end, and the Zhou themselves decayed and diminish
 
 [Share](https://razib.substack.com/p/3000-years-of-chinese-history?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb76f5bb7-ec1a-4295-9a5f-2482b72dbc7c_572x767.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb76f5bb7-ec1a-4295-9a5f-2482b72dbc7c_572x767.jpeg)
 
 **The future reflects the past**
@@ -114,6 +125,8 @@ Plato was a pagan. The Englishman would be a Christian. This deep religious diff
 Now imagine a scenario where a Chinese official in the court of the last Qing emperors in 1890 meets Confucius and his followers. Obviously, there would have been some changes, especially the introduction of philosophical concepts in Neo-Confucianism that were clearly influenced by Buddhist metaphysics. But the core ideals promoted by Confucius could have received a full endorsement by a Chinese civil servant in 1890. Plato’s *Republic* may have been influential in the West, but it never became a template in the way that Confucius’ philosophy did. **Confucius’s cultural successors in China continued to operate with the same intellectual currency down to the 20th century**. And, as Confucius himself believed he was reconstituting the Zhou order, the Zhou ideal cast a formative shadow over future dynasties down to the modern period.
 
 [Share](https://razib.substack.com/p/3000-years-of-chinese-history?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe26f52f5-2610-4474-abdd-c77e8b155ecb_4027x2576.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe26f52f5-2610-4474-abdd-c77e8b155ecb_4027x2576.jpeg)
 
@@ -137,17 +150,21 @@ Thank you again for reading, for subscribing and for forwarding to friends who y
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
+22
+
 [](https://razib.substack.com/p/3000-years-of-chinese-history/comments)
 
 3
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b4b6658-4643-442f-bfff-e8b08123e6e5_561x532.jpeg)
 
-The original Chinese man
+#### The original Chinese man
 
 razib.substack.com
 
@@ -159,4 +176,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

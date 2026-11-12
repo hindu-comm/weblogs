@@ -1,61 +1,336 @@
 +++
 title = "The Long Shadow of"
 full_title = "The Long Shadow of Claudius Buchanan's Juggernaut"
-date = "2021-07-06"
 upstream_url = "https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans"
-
+date = "2021-07-06"
 +++
 Source: [here](https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans).
 
 The Long Shadow of Claudius Buchanan's Juggernaut
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
 Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5320214f-3899-48bf-b686-f305b9acf2cb_410x326.jpeg)
 
-The Long Shadow of Claudius Buchanan's Juggernaut
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Long Shadow of Claudius Buchanan's Juggernaut
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
 
 hindoohistory.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # The Long Shadow of Claudius Buchanan's Juggernaut
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1247ddea-fa4a-4db3-8d40-d0a3d958cddb_400x400.jpeg)](https://substack.com/profile/14416193-hindoohistory?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[HindooHistory](https://substack.com/profile/14416193-hindoohistory)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1247ddea-fa4a-4db3-8d40-d0a3d958cddb_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[HindooHistory](https://substack.com/@hindoohistory)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Jul 6, 2021
 
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
 7
 
-[](https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans/comments)
+</div>
 
-1
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-[](javascript:void(0))
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5320214f-3899-48bf-b686-f305b9acf2cb_410x326.jpeg)
 
-The Long Shadow of Claudius Buchanan's Juggernaut
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Long Shadow of Claudius Buchanan's Juggernaut
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
 
 hindoohistory.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 Tracing the history of how the “Hindoo” became conceivable in America requires an attention to what Dr. Altman calls the “genealogy” of the “Hindoo,” which he describes as the “powers, identities, forces, constraints, agents, and discourses that form a particular category.”
 
@@ -67,11 +342,19 @@ During this period the East India Company was not particularly keen on Christian
 
 Buchanan was by all accounts a true believer. In a 1809 sermon titled “The Star in the East,” Buchanan establishes Asia as the future of Christianity, drawing on the story of the wise men who were said to have visited Bethlehem to see the birth of Jesus, after seeing a “star in the East”:
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5320214f-3899-48bf-b686-f305b9acf2cb_410x326.jpeg)
+
+</div>
 
 Two years later in 1811, Buchanan released his seminal book “Christian Researches in Asia” which, Dr. Altman notes, gave “American evangelicals their first images of religions in India during the early nineteenth century.” Excerpts from the book were published extensively in both New England newspapers and missionary journals like The Panoplist, making mainstream Buchanan’s “descriptions of Juggernaut and its ‘sanguinary superstitions’” (Altman 33). After describing the horrors of the Juggernaut, Buchanan excoriates EIC officials for considering the Jagannath Temple and pilgrimage a legitimate source of revenue.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30b70be1-6031-4ed6-875b-e0857aea7770_410x516.jpeg)
+
+</div>
 
 To say that Buchanan’s PR campaign succeeded would be an understatement. His colorful depiction of the Juggernaut would become the definitive image associated with Hindoo religious practice for the next century, if not longer. It’s worth quoting Dr. Altman at length here:
 
@@ -79,46 +362,200 @@ To say that Buchanan’s PR campaign succeeded would be an understatement. His c
 
 In other words, in describing the Juggernaut, Buchanan made extensive use of Biblical reference and allegory as he knew that this would be effective in marshaling Christian support for evangelism in India. Buchanan records his observations of the Juggernaut in a series of journal entries reproduced in the text. I’ve included a sample [below](https://www.google.com/books/edition/Christian_Researches_in_Asia/6c4HAAAAQAAJ?hl=en&gbpv=1):
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5477050-ea91-47e8-9131-d31284d4d187_432x604.jpeg)
+
+</div>
 
 Buchanan’s tales of Hindoos throwing themselves underneath the wheels of the Juggernaut and women sacrificing their infants in an act of pagan blood-letting became deeply embedded in the American cultural imagination, to the point that the “Juggernaut” became something of a metaphor for everything that was unholy and cruel. By the late 19th century, the Juggernaut even appears in poetry! The following is excerpted from a poem authored by one Anne Marie Prescott as a part of a collection titled Makapala By the Sea, and subsequently reprinted in the Independent in 1899:
 
+<div class="captioned-image-container">
+
 ![The Independent, September 15, 1899](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2f97d0e-b453-4e12-9223-3985f9c351a2_234x560.jpeg)
+
+</div>
 
 Perhaps unsurprisingly, Buchanan’s account inspired not just disgust among American readers, but also fascination. In the coming years, a number of travel writers and missionaries would retrace Buchanan’s footsteps to see the infamous Juggernaut with their own eyes. What they found, however, was very different from what Buchanan described. There were no worshipers throwing themselves beneath the wheels of the car, nor were there piles of human skulls scattered among the temple grounds. Interestingly, the justification we often see for this inconsistency is not that Claudius Buchanan simply fabricated his account, but rather than the British authorities intervened to purge the festival of its most bloody elements. The following is excerpted from a first-hand account titled “Idols of the Hindoos” written in the early 20th century by one John J. Pool:
 
+<div class="captioned-image-container">
+
 ![Wahpeton Times, September 3, 1908](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc12e9ec1-f2d7-450e-a593-015641edb928_262x335.jpeg)
+
+</div>
 
 And here’s another, published in 1937:
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F142ba74c-8ea8-4c66-8ad8-e6ca576c88c0_705x547.jpeg)
+
+</div>
 
 In both of the accounts above, we see the the lack of violence attributed to British colonial intervention. Other writers simply refer to the earlier accounts as exaggerations: In a richly-illustrated feature titled “Most Cruel—Most Kind Idols in the World” published in 1912, the author— drawing on the research of an unnamed British archaeologist— claims that the “Juggernaut” — in contrast to the dreaded Kali— is in fact one of the “kindest” idols of the world and is entirely innocent of the sanguinary rites that had been attributed to him for so long:
 
+<div class="captioned-image-container">
+
 ![The Birmingham age-herald, October 27, 1912](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0fb95024-a19d-4fb4-ada6-6cf75556664c_364x493.jpeg)
+
+</div>
 
 The shifting narrative around the Juggernaut offers a valuable lesson in the study of \#HindooHistory. Returning to our methodological diversion, the construct of the “Hindoo” was largely formed before the average American had ever met an actual Hindu. In this context a figure like Buchanan who was no doubt a vivid writer with a clear sense of purpose enjoyed an immense advantage in shaping early attitudes. However as the connections between India and America grew and the average reader gained access to more data, it became increasingly difficult to sustain the “Temple of Doom” narrative found in Buchanan’s writings. The way in which this narrative shifts (e.g. rationalizing the apparent fabrications in Buchanan’s account by crediting the British authorities) offers us an insight into how cultural attitudes evolve over time. This is a key theme in \#HindooHistory and one we will surely explore in future posts.
 
-[](https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans/comments)
+</div>
 
-1
+</div>
 
-[](javascript:void(0))
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+7
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5320214f-3899-48bf-b686-f305b9acf2cb_410x326.jpeg)
 
-The Long Shadow of Claudius Buchanan's Juggernaut
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Long Shadow of Claudius Buchanan's Juggernaut
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
 
 hindoohistory.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://hindoohistory.substack.com/p/the-long-shadow-of-claudius-buchanans/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

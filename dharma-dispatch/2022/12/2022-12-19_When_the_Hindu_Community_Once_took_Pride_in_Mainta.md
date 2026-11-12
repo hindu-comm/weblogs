@@ -8,50 +8,96 @@ Source: [here](https://thedharmadispatch.substack.com/p/when-the-hindu-community
 
 When the Hindu Community Once took Pride in Maintaining Sanskrit Pathashalas
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe01bd0a2-eba7-4d18-b68d-c4958f9156f5_2042x1222.png)
+
+#### When the Hindu Community Once took Pride in Maintaining Sanskrit Pathashalas
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
+
 # When the Hindu Community Once took Pride in Maintaining Sanskrit Pathashalas
 
 ### How the Sanatana Community kept Sanskrit alive during oppressive Islamic regimes by funding and maintaining Pathashalas.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Dec 19, 2022
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 3
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+[](https://thedharmadispatch.substack.com/p/when-the-hindu-community-once-took/comments)
 
 2
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!W4xt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe01bd0a2-eba7-4d18-b68d-c4958f9156f5_2042x1222.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe01bd0a2-eba7-4d18-b68d-c4958f9156f5_2042x1222.png)
 
-![](https://substackcdn.com/image/fetch/$s_!W4xt!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe01bd0a2-eba7-4d18-b68d-c4958f9156f5_2042x1222.png)
+![](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe01bd0a2-eba7-4d18-b68d-c4958f9156f5_2042x1222.png)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+FROM ABOUT 550 C.E., when the Gupta Empire fell to 950 A.D. when the Empire of the Pratiharas was dissolved, North India was dominated by Kanauj, the imperial capital. The striking features of that age which changed the face of the Indian history were the emergence of a North Indian Empire mainly controlled by North-Western India; the emergence of the South as a powerful factor in all-India politics and the segregation of the three main castes from each other. The powerful ruling houses drew their descent from outside the belt where Sanskrit was the spoken language. Varnashrama Dharma as originally understood was broken. Brahamanas, Ksatriyas and the Vaisyas were no longer indissoluble parts of one whole studying together and sharing the knowledge and reverence for Sanskrit and subject to the ban of *pratiloma*, intermarrying freely. Brahmanas with the importance attained during Gupta times, became the aristocrats of high learning. Sanskrit equally became the language of highbrow culture. At a lower level, Prakrts and Apabhramsa were the languages of popular literature; and undeveloped dialects formed the media of intercourse among the common people; and they all assumed greater importance. But Sanskrit dominated the whole country. According to Rajasekhara’s *Kavyamimamsa*, it was spoken all over the country, but in Lata (Gujarat) they hated it; in Marwad, Rajputana and Saurashtra they mixed it with Apabhramsa; in Madhyadesa and in Gauda it was the language of the educated men.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+Sanskrit literature in consequence, acquired an aristocratic and learned character written by the learned for the learned. The poets underwent an elaborate course of training, mastered several branches of learning including the drama, poetics and lexicography and rigidly followed strict rules. Naturally their works were not intended for popular audiences and lost the inspiration of direct experience. Of the age which began with Subandhu at the end of the sixth century, Banabhatta was the great prototype and model.
 
-FROM ABOUT 550 C.E., when the Gupta Empire fell to 950 A.D. when the Empire of the Pratiharas was dissolved, North India was dominated by Kanauj, the imperial capital. The striking features of that age which changed the face of the Indian history were the emergence of a North Indian Empire mainly controlled by North-Western India; the emergence of the S…
+The Dharma Dispatch Digest is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+**Subscribe**
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+The living literature found expression in Prakrt and Apabhramsa but *never did it escape the influence of Sanskrit*. *Sanskrit thus became the language of gods attainable by a life-long devotion.* As its sphere of use contracted, its importance as the ultimate source of all influence increased. It was indispensable to everyone who claimed to a respected place in life.
 
-Claim my free post
+Even when Mohammad Ghazni broke the spell of centuries, destroyed one kingdom after another, throughout the land, life was governed by Smrti texts. Mahabharata and Ramayana were the texture of men’s minds; poets and scholars pursued literary and grammatical acrobatics. Polymaths like Bhojadeva and Hemachandra wrote vast encyclopedic treatises in Sanskrit and allied languages. Innumerable universities and *Pathashalas* in different parts of the country conducted the study of Sanskrit as a spoken language. All learned intercourse was in it and the royal courts resounded with the learned discourses of eminent scholars in Sanskrit.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fwhen-the-hindu-community-once-took&utm_source=paywall&utm_medium=web&utm_content=91637154&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=91637154&next=https://thedharmadispatch.substack.com/p/when-the-hindu-community-once-took)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecdd8970-38b9-4c48-a8e6-a89954f1ddfa_1200x857.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+![](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecdd8970-38b9-4c48-a8e6-a89954f1ddfa_1200x857.jpeg)
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+WITH ALA-UD-DIN KHALJI, Sanskrit entered a new stage. He destroyed many of the universities in North India. Wherever there was Muslim rule, Sanskrit was deprived of patronage. Men of learning to whom Sanskrit was the breath of life fled to distant villages, where in their homes or little *pathashalas,* they kept alive the torch of their beloved learning. To the whole group of people, misery laden, flying before unsatiated vandals, Sanskrit remained the light, the strength, the hope of glorious future, the pathway to salvation, something more than life itself.
+
+Learned men threw themselves on the generosity of the ordinary public, ignorant of Sanskrit, and took to popular literatures in the derivative languages. This led to the great Renaissance beginning with the 15th century of which the Bhakti and the Sant schools were the outstanding products. Spiritual and moral resurgence found expression through a study and adaptation of the Mahabharata, Ramayana, Bhagavta and Gitagovinda. In Hindu States, the patronage of Sanskrit scholars became a primary duty. Though the general public progressively lost direct touch with Sanskrit, every small town or a big village maintained a *patashala* and revered its students. In North India, *Vrajabhasha* was par excellence the medium through which Sanskrit spread all over the country its influence in literature.
+
+The next period began with the beginning of the 19th century. Sanskrit, as a spoken language, was confined to the *pathashalas* and its products. *To maintain the pathashalas was the pride of every enlightened locality.* Vast numbers of Brahmanas were required as priests, astrologers, Panditas, Pauranikas and the Sastras which they produced kept the influence of Sanskrit alive, though their quality ranged from the encyclopedic pandit who could quote every Sastra down to the village priest who could only mumble mutilated verses at the marriage or funeral ceremony.
+
+Even those who did not study Sanskrit were familiar in their own languages with the numerous adaptations of great Sanskrit works. Sanskrit thus provided a vast agency for maintaining the bond throughout the land.
+
+When the Moghul empire faded away, the vestige of a shadowy political bond disappeared. What was left was the unity provided by the culture which was derived from and dependent on Sanskrit.
+
+------------------------------------------------------------------------
+
+## Please Support Our Sacred Work @ The Dharma Dispatch
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*.
+
+*It is your subscriptions that enables and empowers* *us to produce such content*. *Every rupee of your subscription pays our bills and helps us offer more and better content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+**Subscribe**
+
+3
+
+[](https://thedharmadispatch.substack.com/p/when-the-hindu-community-once-took/comments)
+
+2
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

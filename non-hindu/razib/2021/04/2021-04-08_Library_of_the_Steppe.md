@@ -1,9 +1,8 @@
 +++
 title = "Library of the Steppe"
 full_title = "Library of the Steppe"
-date = "2021-04-08"
 upstream_url = "https://razib.substack.com/p/library-of-the-steppe"
-
+date = "2021-04-08"
 +++
 Source: [here](https://razib.substack.com/p/library-of-the-steppe).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7496c951-41c6-4a87-a57e-d4786387adca_990x743.jpeg)
 
-Library of the Steppe
+#### Library of the Steppe
 
 razib.substack.com
 
@@ -29,25 +28,27 @@ Email
 
 ### They didn't read, but you should
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Apr 8, 2021
 
-21
+24
 
 [](https://razib.substack.com/p/library-of-the-steppe/comments)
 
-31
+32
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7496c951-41c6-4a87-a57e-d4786387adca_990x743.jpeg)
 
-Library of the Steppe
+#### Library of the Steppe
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7496c951-41c6-4a87-a57e-d4786387adca_990x743.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7496c951-41c6-4a87-a57e-d4786387adca_990x743.jpeg)
 
@@ -85,6 +88,8 @@ In search of something different? Reach out! I’m happy to recommend other book
 
 ------------------------------------------------------------------------
 
+[](https://www.amazon.com/exec/obidos/ASIN/B000FCK206/geneexpressio-20)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad5bab65-31b6-42cb-85d2-fffd06eee997_601x849.png)
 
 My first recommendation is probably the most approachable on this list. Jack Weatherford’s [Genghis Khan and the Making of the Modern World](https://www.amazon.com/exec/obidos/ASIN/B000FCK206/geneexpressio-20) introduces the politics and culture of the steppe and makes the case for its significance in world history. Some will argue that the author veers towards protesting a bit too much that the “Mongols were good actually!”, but his prose is engaging and his genuine empathy for the subject is refreshing if you allow for the boosterism. If you’re going to have a tour guide, one with genuine enthusiasm for the subject is not the worst choice.
@@ -96,6 +101,8 @@ Weatherford followed up [Genghis Khan and the Making of the Modern World](https:
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
 [Share](https://razib.substack.com/p/library-of-the-steppe?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[](https://www.amazon.com/exec/obidos/ASIN/0813513049/geneexpressio-20)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6be7a60-8845-47f7-87b1-16339aa765a6_501x758.png)
 
@@ -109,6 +116,8 @@ Though the English translation is out of print, I highly recommend tracking it d
 
 [Share](https://razib.substack.com/p/library-of-the-steppe?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://www.amazon.com/exec/obidos/ASIN/B003TSEL1Y/geneexpressio-20)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95af83f0-29ed-44bc-9768-876ec1a51b30_1043x1600.jpeg)
 
 Much of the human impact of the steppe on the rest of Eurasia dates to the period before history. About half the world’s population today speaks Indo-European languages, a phenomenon with roots that goes back 5,000 years ago, to the Neolithic. David W. Anthony’s [The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World](https://www.amazon.com/exec/obidos/ASIN/B003TSEL1Y/geneexpressio-20) is the best long-form treatment of this topic. He succeeds in keeping it accessible to laypeople while maintaining academic rigor.
@@ -120,6 +129,8 @@ Anthony is an archaeologist by training, but he synthesizes historical linguisti
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
 [Share](https://razib.substack.com/p/library-of-the-steppe?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[](https://www.amazon.com/exec/obidos/ASIN/B004UGKKBE/geneexpressio-20)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc830b90d-00bb-4700-ac05-f2166766d2bc_1035x1600.jpeg)
 
@@ -133,6 +144,8 @@ Beckwith does end on a slightly peculiar note, raging against modernity and mode
 
 [Share](https://razib.substack.com/p/library-of-the-steppe?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://www.amazon.com/exec/obidos/ASIN/0674445155/geneexpressio-20)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18e8a733-ebc2-417b-b402-09970c23505b_752x1200.jpeg)
 
 Why a book on China on this list? I consider it essential to the story because you can’t write a history of China without writing about the steppe. The first chapters of F. W. Motte’s [Imperial China 900-1800](https://www.amazon.com/exec/obidos/ASIN/0674445155/geneexpressio-20) delve deeply into the origins and lifestyle of the Khitan and Jurchen, steppe and steppe-adjacent tribes. The approach continues, as the Mongols and Manchu are central to the later narrative (the Manchu themselves descend from Jurchen). For Motte, engagement with the steppe is essential to understanding Chinese diplomacy and culture, and he makes no apologies for interleaving the history of steppe peoples with that of the Han Chinese.
@@ -145,6 +158,8 @@ Why a book on China on this list? I consider it essential to the story because y
 
 [Share](https://razib.substack.com/p/library-of-the-steppe?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://www.amazon.com/exec/obidos/ASIN/B008YGWQT0/geneexpressio-20)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85a9257a-da8a-46be-bf98-04aa1b730750_882x1332.jpeg)
 
 Embedded within the pastoralist world of the Eurasian steppe are permanent settlements around which the course of the “Silk Road'' is threaded. Since its concrete emergence 2,000 years ago, this artery of trade and information that slices through the heart of Eurasia has shaped the history of the world. Valerie Hansen’s [The Silk Road: A New History](https://www.amazon.com/exec/obidos/ASIN/B008YGWQT0/geneexpressio-20) is an urban and archaeology-focused tour of this lost world, with a spotlight on the Sogdians, the ancient Central Asian people that connected the west and the east in the millennium before 1000 A.D. Hansen digs through the material and economic importance of the cities of the eastern Silk Road and their importance to China. Though accessible to the general audience, [The Silk Road](https://www.amazon.com/exec/obidos/ASIN/B008YGWQT0/geneexpressio-20) is clearly academic in intent.
@@ -154,6 +169,8 @@ Hansen’s story closes with the spread of Islam on the eastern steppe, because 
 **If you haven’t yet, take my [Steppelandia Quiz](https://www.tryinteract.com/share/quiz/606bf24736587f0017e3c225)!**
 
 Now that nearly 5000 have tried their luck at the quiz, one thing I’m surprised by is what people thought the steppe ***was*** responsible for.
+
+[](https://www.tryinteract.com/share/quiz/606bf24736587f0017e3c225)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfa28dee-54ac-49ff-a9b0-2196d24402e9_902x1360.png)
 
@@ -167,7 +184,7 @@ I’m still trying to figure out if I can access raw data to look at the correla
 
 [](https://razib.substack.com/p/library-of-the-steppe/comments)
 
-31
+32
 
 [](javascript:void(0))
 
@@ -175,7 +192,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7496c951-41c6-4a87-a57e-d4786387adca_990x743.jpeg)
 
-Library of the Steppe
+#### Library of the Steppe
 
 razib.substack.com
 
@@ -186,5 +203,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

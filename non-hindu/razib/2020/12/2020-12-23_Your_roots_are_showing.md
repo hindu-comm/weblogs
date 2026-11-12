@@ -1,9 +1,8 @@
 +++
 title = "Your roots are showing"
 full_title = "Your roots are showing"
-date = "2020-12-23"
 upstream_url = "https://razib.substack.com/p/your-roots-are-showing"
-
+date = "2020-12-23"
 +++
 Source: [here](https://razib.substack.com/p/your-roots-are-showing).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18609704-e23a-4664-be21-ff76acca194a_1600x972.gif)
 
-Your roots are showing
+#### Your roots are showing
 
 razib.substack.com
 
@@ -24,30 +23,34 @@ Twitter
 Facebook
 
 Email
+
+Notes
 
 # Your roots are showing
 
 ### A darker shade of white
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 23, 2020
 
-26
+27
 
 [](https://razib.substack.com/p/your-roots-are-showing/comments)
 
-5
+6
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18609704-e23a-4664-be21-ff76acca194a_1600x972.gif)
 
-Your roots are showing
+#### Your roots are showing
 
 razib.substack.com
 
@@ -58,6 +61,10 @@ Twitter
 Facebook
 
 Email
+
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18609704-e23a-4664-be21-ff76acca194a_1600x972.gif)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18609704-e23a-4664-be21-ff76acca194a_1600x972.gif)
 
@@ -95,6 +102,8 @@ Some systems of categorization obscure more history than they illuminate. This i
 
 [Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43aaa4e7-2c92-45bc-8029-7e5529ba519c_640x454.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43aaa4e7-2c92-45bc-8029-7e5529ba519c_640x454.jpeg)
 
 **The old ones**
@@ -109,6 +118,8 @@ Despite the vast differences in the experiences of free white Americans who emig
 
 [Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa81252a6-f73b-4dbf-a21b-d224b33615df_508x640.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa81252a6-f73b-4dbf-a21b-d224b33615df_508x640.jpeg)
 
 **The Other Americans**
@@ -119,6 +130,8 @@ Black Americans represent the most prominent and well-known bloc of Old Stock Am
 “white Americans'' artificially brackets many different types of Americans together. In the process, we erase a tense history of conflict and a fruitful synthesis of folkways. When headlines trumpet the fact that “most white voters voted for Trump” they collapse the essential distinctions and local histories that drive these social and political decisions. The cultural and social distance between a white roofer in southern Mississippi and a white lawyer in Connecticut is vast. And yet both are just “white” beneficiaries of “systemic racism” in our present-day secular theology.
 
 [Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb31b325b-7a61-4123-b66d-9433990460ef_1024x813.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb31b325b-7a61-4123-b66d-9433990460ef_1024x813.jpeg)
 
@@ -136,6 +149,8 @@ Finally, the last great wave of migration before the Revolutionary War was from 
 
 [Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf1222c-6c2b-4f00-ad4d-d1a3d7036198_600x418.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf1222c-6c2b-4f00-ad4d-d1a3d7036198_600x418.jpeg)
 
 **The past is prologue**
@@ -150,6 +165,8 @@ When we are told that ours is a history of unremitting white supremacy, we are b
 
 [Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F782281fe-e4ec-46d9-9a86-68b9443485e6_723x978.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F782281fe-e4ec-46d9-9a86-68b9443485e6_723x978.png)
 
 **50 shades of white**
@@ -161,6 +178,8 @@ But what about white people? The history of the 19th and 20th century is manifes
 This is not a deep dark history. It’s in any standard history book. It’s the heritage, the legacy that every American, of any race or origin, shares. The idea of one white America fuses together mismatched fragments of identity. But any unity perceived at a remove dissolves upon close inspection. The idea of all-pervasive white privilege and white supremacy in 2020 America masks the reality and diversity of white American experiences. A white American of lower-class Southern origins may become a tenured professor, change their accent and elide their upbringing, but in the process, they are “passing” from one identity to another. The term “white” implies more of a shared experience and history than was ever there.
 
 [Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd964abb-2375-4f86-87fd-2ca4a5071602_600x676.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd964abb-2375-4f86-87fd-2ca4a5071602_600x676.jpeg)
 
@@ -184,17 +203,21 @@ Thank you again for reading, for [subscribing](https://razib.substack.com/subscr
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
+27
+
 [](https://razib.substack.com/p/your-roots-are-showing/comments)
 
-5
+6
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18609704-e23a-4664-be21-ff76acca194a_1600x972.gif)
 
-Your roots are showing
+#### Your roots are showing
 
 razib.substack.com
 
@@ -206,4 +229,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

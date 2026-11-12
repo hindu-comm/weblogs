@@ -1,9 +1,8 @@
 +++
 title = "The IndoEuropean sword"
 full_title = "The IndoEuropean sword blade chastity vow"
-date = "2021-09-21"
 upstream_url = "https://eruditus.substack.com/p/the-indo-european-sword-blade-chastity"
-
+date = "2021-09-21"
 +++
 Source: [here](https://eruditus.substack.com/p/the-indo-european-sword-blade-chastity).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4469933-07c8-4461-bf74-f3f54d7af177_1200x2061.jpeg)
 
-The Indo-European sword blade chastity vow
+#### The Indo-European sword blade chastity vow
 
 eruditus.substack.com
 
@@ -25,15 +24,17 @@ Facebook
 
 Email
 
+Notes
+
 # The Indo-European sword blade chastity vow
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
 Sep 21, 2021
 
-11
+12
 
 [](https://eruditus.substack.com/p/the-indo-european-sword-blade-chastity/comments)
 
@@ -41,11 +42,13 @@ Sep 21, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4469933-07c8-4461-bf74-f3f54d7af177_1200x2061.jpeg)
 
-The Indo-European sword blade chastity vow
+#### The Indo-European sword blade chastity vow
 
 eruditus.substack.com
 
@@ -56,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+Notes
 
 The asidhārā-vrata literally translates to the "swordblade-vow" and for good reason. It represents a chastity custom of the ancient Arya in which the man taking the observance tempts himself sexually with his wife but abstains from either coitus or orgasm during coitus. It finds a detailed mention in the Niśvāsatattvasaṃhita and those interested can look it up. Therefore, it is verisimilar to walking on the edge of a sword. It forms a noted part of tantric coital ritual and this has been well-acknowledged by firaṅga indologists who specialize in tantra like Alexis Sanderson. It’s purpose can said to be cultivation of self-discipline via sensory restraint and transforming that into a spiritual gnosis (siddhi). P.V Kane hints that this practice was orignally a Brāhmaṇical ascetic vow with little room for coitus actually taking place. He says and I quote:
 
@@ -102,7 +107,9 @@ Mher went to Kohar's bed at night; She laid a sword between Mher and herself. �
   
 *
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4469933-07c8-4461-bf74-f3f54d7af177_1200x2061.jpeg "Accolade - Wikipedia")
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4469933-07c8-4461-bf74-f3f54d7af177_1200x2061.jpeg)
+
+![Accolade - Wikipedia](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4469933-07c8-4461-bf74-f3f54d7af177_1200x2061.jpeg "Accolade - Wikipedia")
 
 As a side note – Kohar Khanum is portrayed as quite the valiant maiden who actually disguises herself as her brother to duel her prospective husband to judge whether his swordsmanship is up to the mark to marry her or not. Perhaps a bit in the mould of the Amazonian warriors of nearby Scytho-Sarmatia.
 
@@ -135,17 +142,21 @@ This seems to confirm our suspicion that in some archaic versions of the sword-v
   
   
 
+12
+
 [](https://eruditus.substack.com/p/the-indo-european-sword-blade-chastity/comments)
 
 1
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4469933-07c8-4461-bf74-f3f54d7af177_1200x2061.jpeg)
 
-The Indo-European sword blade chastity vow
+#### The Indo-European sword blade chastity vow
 
 eruditus.substack.com
 
@@ -157,4 +168,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

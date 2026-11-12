@@ -8,35 +8,483 @@ Source: [here](https://jhalazalimsingh.substack.com/p/mian-dido-the-indian-imam-
 
 Mian Dido: The Indian Imam Shamil
 
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(76,76,73,0.75), rgba(76,76,73,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!eBLN!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a1687d0-cc2e-4503-b3d6-1c82f3ea2667_1239x1731.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![The Garuda Gazette ](https://substackcdn.com/image/fetch/$s_!v0zp!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0cac441-feaf-4055-804c-8d5551abc769_1024x1024.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+The Garuda Gazette
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Mian Dido: The Indian Imam Shamil
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
+
 # Mian Dido: The Indian Imam Shamil
 
 ### Mian Dido was one of the best guerilla fighters India produced in the 19th century. The article is mostly based on the Gulabnama & Smyth's work but also has a few elements of ballads & local tradition
 
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
+
 [](https://substack.com/@colonelwalterekurtz1)
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Colonel Walter E. Kurtz">
 
 ![Colonel Walter E. Kurtz's avatar](https://substackcdn.com/image/fetch/$s_!pK8K!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9e08001-a234-4d4e-87fd-b50ee81e9993_360x360.jpeg)
 
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
+
 [Colonel Walter E. Kurtz](https://substack.com/@colonelwalterekurtz1)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
 
 Nov 22, 2023
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-2
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(76,76,73,0.75), rgba(76,76,73,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!eBLN!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a1687d0-cc2e-4503-b3d6-1c82f3ea2667_1239x1731.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![The Garuda Gazette ](https://substackcdn.com/image/fetch/$s_!v0zp!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0cac441-feaf-4055-804c-8d5551abc769_1024x1024.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+The Garuda Gazette
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Mian Dido: The Indian Imam Shamil
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://jhalazalimsingh.substack.com/p/mian-dido-the-indian-imam-shamil/comments)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 **Early Life**
 
 Mian Dido's lineage is traced back to Raja Hari Dev of Jammu, who reigned from 1650 to 1658. Hari Dev's fifth son, Dalip Singh, inherited the jagir of Jagati, located about ten miles north of Jammu in the hill forests. Mian Dido, born in March 1780 to Mian Hazari who was fifth in descent from Dalip Singh. He purportedly played a role in defending Jammu during Hukma Singh Chimni's attack and even managed to successfully defeat a Sikh unit kept in reserve near the Bahu fort. As his reputation for heroism grew, freedom-loving youth from Duggar joined his ranks, making him a formidable force that controlled the inner mountain territories from Riasi to Basohli.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Thanks for reading The Garuda Gazette ! Subscribe for free to receive new posts and support my work.
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 Joined by prominent Rajputs such as Mian Dharam Singh Raipuriah, Mian Ch’affu, Mian Chain Singh Hansaliwalah and even zamindars and Marzbans of talluqas adjoining Jammu, like Puro Drorha, Mian Dido terrorised and disrupted the Sikh administration to such an extent that they found it difficult to realise revenue from the region.
 
@@ -56,13 +504,11 @@ As Maharaja Ranjit Singh brought Jammu under his control and Jammu Raj was gradu
 
 The area was then given to Prince Kharak Singh as a jagir in 1811 and a multitude of expeditions were launched to suppress the rebellions. These were commanded by his Peshkar Bhayya Ram Singh and Diwan Bhawāni Das Kuba (hunch back) assisted by a number of experienced commanders like Nain-Singh Kumedan, Fateh-Singh Man, Diwan Shankar Das Dugal, Dondi-Khan, Diwan Kirpa Ram Chopra, Sardar ‘Atar Singh, Mohan Singh Sud, Narain Das Pashoaria, Ghasita Mal Arora, Devi-Sahae and Lala Dana Mal.
 
-[](https://substackcdn.com/image/fetch/$s_!eBLN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a1687d0-cc2e-4503-b3d6-1c82f3ea2667_1239x1731.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!eBLN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a1687d0-cc2e-4503-b3d6-1c82f3ea2667_1239x1731.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 *Painting of Prince Kharak Singh*
 
@@ -129,13 +575,11 @@ The situation of Mian Dido is aptly described in the Gulabnama
 
 As his strength grew, Mian Dido intercepted a 'dali' of dry and fresh fruits sent by Pandit Birbar Dar to Ranjit Singh at Lahore and replaced its contents with pathuas (cakes) made of cow-dung and filth. Upon reaching Ranjit Singh's presence, the porters reported the incident, stirring his sense of honour.
 
-[](https://substackcdn.com/image/fetch/$s_!CC9C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaff5267-eb00-4d72-a376-62b559fb408b_2000x1465.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!CC9C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaff5267-eb00-4d72-a376-62b559fb408b_2000x1465.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 *Painting of a royal procession of Maharaja Ranjit Singh on an elephant followed by sons Kharak Singh and Sher Singh on horseback*
 
@@ -202,9 +646,11 @@ The Gulabnama mentions two of Gulab Singh’s engagements with Dido in this earl
 
 We can also conclude that he learnt vital lessons from these engagements with rebel forces. These experiences probably prompted him to later invent the “Parmar” musket. These were long matchlocks supported on a light forked tripod attached to the stock that could only be carried by a strong man. These were extremely effective and deadly weapons with a considerable range. He is also crediting with inventing a small gun made of iron, which was mounted on a small carriage (drawn by a man or by a goat) for hill warfare.
 
-[](https://substackcdn.com/image/fetch/$s_!Wfos!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf02023-ed61-48bb-81c5-8857f87e34ab_661x177.jpeg)
+<div class="captioned-image-container">
 
-![Image](https://substackcdn.com/image/fetch/$s_!Wfos!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf02023-ed61-48bb-81c5-8857f87e34ab_661x177.jpeg "Image")
+![](https://substackcdn.com/image/fetch/$s_!Wfos!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf02023-ed61-48bb-81c5-8857f87e34ab_661x177.jpeg "Image")
+
+</div>
 
 *Possible Illustration of what the Parmar musket invented by Gulab Singh looked like with its “light forked tripod attached to the stock”*
 
@@ -214,13 +660,11 @@ Thus drawing on his past experiences, Gulab Singh brought fresh vigour into the 
 
 Furthermore, he had released from the Shekhupura fort several leaders such as Mian Cha’ffu and Mian Diwanu among others as a symbol of goodwill and an assurance of mercy to those who surrendered. Thus when Gulab Singh moved to Jammu, several of Mian Dido’s accomplices including Puro Drohrah (who had fought the rebels in the Riasi campaign before joining Dido) deserted his side and tendered their submission to Gulab Singh. The services of other former rebels like Mian Dharam Singh Raipuriah were actively used against Mian Dido as well.
 
-[](https://substackcdn.com/image/fetch/$s_!LyUB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9307cf52-7978-4cba-8b03-262f4af92280_572x768.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!LyUB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9307cf52-7978-4cba-8b03-262f4af92280_572x768.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 *Painting of Raja Gulab Singh*
 
@@ -328,20 +772,262 @@ A History Of The Reigning Family Of Lahore With Some Account Of The Jummoo Rajah
 
 A Short History Of Jammu Raj by Sukhdev Singh Charak
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Thanks for reading The Garuda Gazette ! Subscribe for free to receive new posts and support my work.
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
 
 Subscribe
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-2
+<div id="error-container">
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(76,76,73,0.75), rgba(76,76,73,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!eBLN!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a1687d0-cc2e-4503-b3d6-1c82f3ea2667_1239x1731.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![The Garuda Gazette ](https://substackcdn.com/image/fetch/$s_!v0zp!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0cac441-feaf-4055-804c-8d5551abc769_1024x1024.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+The Garuda Gazette
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Mian Dido: The Indian Imam Shamil
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://jhalazalimsingh.substack.com/p/mian-dido-the-indian-imam-shamil/comments)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+</div>
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-flex pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-reset">
+
+Previous
+
+Next
+
+</div>
+
+</div>
+
+</div>
+
+</div>

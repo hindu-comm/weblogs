@@ -2,8 +2,7 @@
 title = "I wanna be like you"
 full_title = "I wanna be like you"
 upstream_url = "https://www.razibkhan.com/p/i-wanna-be-like-you"
-date = "1950-02-05"
-
+date = "2022-07-31"
 +++
 Source: [here](https://www.razibkhan.com/p/i-wanna-be-like-you).
 

@@ -2,8 +2,7 @@
 title = "As American as a first"
 full_title = "As American as a first library card"
 upstream_url = "https://razib.substack.com/p/as-american-as-a-first-library-card"
-date = "1956-04-12"
-
+date = "2022-07-05"
 +++
 Source: [here](https://razib.substack.com/p/as-american-as-a-first-library-card).
 

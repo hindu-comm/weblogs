@@ -22,11 +22,15 @@ Sep 26, 2025
 
 ∙ Paid
 
-71
+62
 
-15
+[](https://www.razibkhan.com/p/fortune-favors-the-fearless-millennia/comments)
+
+14
 
 6
+
+[](javascript:void(0))
 
 Share
 

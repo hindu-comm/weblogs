@@ -1,9 +1,8 @@
 +++
 title = "Two Punjabs, Countless"
 full_title = "Two Punjabs, Countless Punjabis"
-date = "2022-02-12"
 upstream_url = "https://rasajournal.substack.com/p/two-punjabs-countless-punjabis"
-
+date = "2022-02-12"
 +++
 Source: [here](https://rasajournal.substack.com/p/two-punjabs-countless-punjabis).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
-Two Punjabs, Countless Punjabis
+#### Two Punjabs, Countless Punjabis
 
 rasajournal.substack.com
 
@@ -29,11 +28,11 @@ Email
 
 ### What does it mean to be a Punjabi today?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima)
 
 [Garima](https://substack.com/profile/4266017-garima)
 
-Feb 12
+Feb 12, 2022
 
 3
 
@@ -43,11 +42,13 @@ Feb 12
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
-Two Punjabs, Countless Punjabis
+#### Two Punjabs, Countless Punjabis
 
 rasajournal.substack.com
 
@@ -62,6 +63,8 @@ Email
 *Where are you from? Your parents? Your grand-parents?*
 
 Many of us have often encountered these questions any time we have stepped out of our homes, whether literal or metaphorical. In the age of nauseatingly instant and global online connections, it still somehow means something to trace one’s roots to a place. But when we do that, it’s not just about a latitudinal and longitudinal point but an entire universe that exists within it. It spans religions, languages, traditions and customs, architecture, food, clothing, dance, music, literature, poetry, and popular entertainment, and so much more. Almost as if out of nowhere, this place can bring alive a past, present, and possibly even a future that didn’t exist minutes ago. It brings forth much that we didn’t consciously know but which still feels like an important part of who we are, even if only subconsciously.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
@@ -105,7 +108,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
-Two Punjabs, Countless Punjabis
+#### Two Punjabs, Countless Punjabis
 
 rasajournal.substack.com
 
@@ -116,5 +119,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

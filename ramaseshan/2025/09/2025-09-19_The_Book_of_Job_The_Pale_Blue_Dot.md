@@ -20,9 +20,11 @@ The Book of Job & The Pale Blue Dot
 
 Sep 19, 2025
 
-4
+6
 
 [](https://ramaseshanchandrasekaran.substack.com/p/the-book-of-job-and-the-pale-blue/comments)
+
+1
 
 2
 
@@ -245,9 +247,11 @@ This is a very uncomfortable book, I know, and gets under my nerves every time I
 
 Thanks for reading this far ! !
 
-4
+6
 
 [](https://ramaseshanchandrasekaran.substack.com/p/the-book-of-job-and-the-pale-blue/comments)
+
+1
 
 2
 

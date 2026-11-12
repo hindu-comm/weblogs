@@ -1,71 +1,374 @@
 +++
 title = "The wolf at history's"
 full_title = "The wolf at history's door"
+upstream_url = "https://www.razibkhan.com/p/the-wolf-at-historys-door"
 date = "2022-05-01"
-upstream_url = "https://razib.substack.com/p/the-wolf-at-historys-door"
-
 +++
-Source: [here](https://razib.substack.com/p/the-wolf-at-historys-door).
+Source: [here](https://www.razibkhan.com/p/the-wolf-at-historys-door).
 
 The wolf at history's door
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
 
-The wolf at history's door
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The wolf at history's door
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # The wolf at history's door
 
 ### How shepherd and wolf remade Eurasia in their image (part 1)
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-May 1
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-97
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://razib.substack.com/p/the-wolf-at-historys-door/comments)
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
 
-24
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
 
-[](javascript:void(0))
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+May 1, 2022
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+111
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
 
-The wolf at history's door
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The wolf at history's door
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/the-wolf-at-historys-door/comments)
+
+<div class="label">
+
+25
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![Amleth, a Scandinavian warrior and king, during a koryos initiation in the film *The Northman*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/the-wolf-at-historys-door?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/the-wolf-at-historys-door?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 *"I make my claim on thee...murderous mairyas, the sanctity-destroyers, profane apostate two-footed dogs…of the invading host…”*
 
@@ -77,7 +380,11 @@ On June 25–26th of 1876, at Little Bighorn in Montana, a coalition of Sioux, C
 
 Today Americans view these wars with ambivalence, as the expansionist US, seeking its “Manifest Destiny,” conquered the doomed underdog natives of the continent with wanton brutality. But the Plains Indians were themselves a people of conquest, hardened and cruel, and would have bridled at the mantle of the underdog. They espoused an ethos exemplified by their warrior braves who wasted no pity on their enemies and expected none in return. In S.C. Gwynne’s book, *[Empire of the Summer Moon](https://www.amazon.com/exec/obidos/ASIN/B003KN3MDG/geneexpressio-20)*, he notes that during Comanche raids all “the men were killed, and any men who were captured alive were tortured; the captive women were gang raped. Babies were invariably killed.” Comanche brutality was not total; young boys and girls were captured and enslaved during these raids, but could eventually be adopted into the tribe if they survived a trial by fire: showing courage and toughness even in the face of ill-treatment as slaves. Quanah Parker, the last chief of the Comanche, was the son of a white woman who had been kidnapped when she was nine.
 
+<div class="captioned-image-container">
+
 ![Quanah Parker, the last chief of the Comanche](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd80903de-7066-4893-a831-e58551052476_891x660.jpeg)
+
+</div>
 
 These tribes were warlike because the mobilization of cadres of violent young men was instrumental to the organization of their societies. They were all patrilineal and patriarchal, for though women were not chattel, tribal identity passed from the father to the son. A Sioux or Comanche was by definition the offspring of a Sioux or Comanche father. The birth of a Comanche boy warranted special congratulations for the father, reflecting the importance of sons genealogically for the line to continue. It was the sons who would grow up to feed the tribe through mass-scale horseback buffalo hunts. It was the sons who undertook daring raids and came home draped in plunder. The religion of these warriors was victory, and they stoically accepted that defeat meant death.
 
@@ -85,9 +392,25 @@ These mounted warrior societies of the Plains Indians were a recent product of t
 
 That this final chapter in the history of the planet’s mounted nomads played out in the full light of American history allows us to vividly imagine the lives of their prehistoric cultural forebears. Just as the Sioux and the Comanche were ruled by the passions of their fearless braves, who were driven to seek glory and everlasting fame on the battlefield, so bands of youth out of the great grassland between Hungary and Mongolia had long ago wreaked havoc on Eurasia from the Atlantic to the Pacific, and the tundra to the Indian ocean. These feral werewolves of the steppe resculpted the cultural topography of the known world three to five thousand years ago. Their ethos was an eagerly grasping pursuit not of what was theirs by right, but of anything they could grab by might. Where the Sioux and Commanche were crushed by the organized might of a future world power, their reign soon consigned to a historical footnote, the warriors of yore marched from victory to conquest. They remade the world in their brutal image, inadvertently laying the seedbeds for gentler ages to come, when roving bands of youth were recast as the barbarian enemy beyond the gates, when peace and tranquility, not a glorious death in battle, became the highest good.
 
+<div class="captioned-image-container">
+
 ![Early pastoralists](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1737df2e-13ee-412e-9ca2-fe9f35436654_939x607.jpeg)
 
+</div>
+
 ### **A whirlwind of wagons**
+
+<div id="§a-whirlwind-of-wagons" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/53182559/a-whirlwind-of-wagons">
+
+</div>
+
+</div>
+
+</div>
 
 This eruption of warrior ferocity five thousand years ago was triggered by an economic revolution that swept across Eurasia, the advent of an unbeatable [new cultural toolkit](https://en.wikipedia.org/wiki/Secondary_products_revolution) that finally harnessed the full productive potential of the cattle, sheep and goats that had long been viewed as simply mobile meat lockers in agricultural societies. Though these animals had already been domesticated by 8500 BC, it took millennia to perfect milk, cheese and wool production, and the harnessing of oxen as beasts of burden. North of the Black Sea, this revolution arrived around 3500 BC, as small groups of farmers huddling on river banks shifted from a mixed agro-pastoralist production system eking out a living cultivating wheat in an unforgivingly short growing season, to one of pure pastoral nomadism that turned over the vast grasslands around them to massive herds of animals.
 
@@ -107,9 +430,25 @@ It is unlikely that this male-focused society was the result of an ideological r
 
 This facility for organized violence did not emerge from a vacuum. Rather, the newly freeing nomadic lifestyle found a unique outlet for the innate impulses and passions of these young men that had stood their forager ancestors in good stead for millions of years, from the African savanna to the Siberian tundra. Brutality had been bred into them by the natural history of our species, red in tooth and claw. Ancient instincts that had been restrained were now cultivated anew, nurtured and channeled into striking and often cruel new forms. The Paleolithic foragers who had survived the brutal cold of the Ice Age had to balance their instinct for cooperation with hard, calculating competitiveness. They could also kill without remorse; we know that hunter-gatherers raided and slaughtered each other [long before](https://www.sciencenews.org/article/hunter-gatherers-warfare-stone-age-jebel-sahaba) the emergence of agriculture. Though the farming societies that succeeded the hunter-gatherers were not [peaceful idylls](https://www.google.com/search?q=lbk+massacre+europe&rlz=1C5CHFA_enUS970US970&oq=lbk+massacre+europe&aqs=chrome..69i57j0i13i30j0i390.2312j0j4&sourceid=chrome&ie=UTF-8), the rhythms of the season and the limitations of settled village life served as a check on the instinct to wreak havoc on one’s enemies, narrowing the horizons of brutality in both time and space. Nomadism freed Neolithic humans from these constraints, giving free rein to the well-honed ancient instincts of young men who were emerging into the fullness of their strength and ferocity.
 
+<div class="captioned-image-container">
+
 ![FBI UCR data from 2019](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07a9e785-f1aa-4f6d-9117-12017f9c0751_500x391.jpeg)
 
+</div>
+
 ### **Ferocity as biology**
+
+<div id="§ferocity-as-biology" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/53182559/ferocity-as-biology">
+
+</div>
+
+</div>
+
+</div>
 
 Murder is a crime committed by young men, from the US to [Japan](http://www.ceacb.ucl.ac.uk/cultureclub/files/2004-2005/CC2005-07-07-Hiraiwa-Hasegawa.pdf), and [worldwide](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222996) generally. The reason for this universality in age (and sex) distribution of offenders is at its root human nature, and not due to contingent material or ideological conditions, even if the latter may exacerbate the tendency toward violence. The violent and amoral behavior of Bronze Age nomadic warriors is ultimately a downstream consequence of human sexual dimorphism, not something concocted out of whole cloth by a malign sage of the steppe.
 
@@ -123,34 +462,192 @@ But humans are not invertebrates or fish, we’re a behaviorally flexible and so
 
 But human culture is diverse and varied, and the past history of a society can be as critical as the current environmental conditions in determining its character. Nearly 2,000 years ago, the originally Jewish sect of Christianity adopted the pagan Greco-Roman norm of obligate legal monogamy even for high-status men. Julius Caesar’s son by Cleopatra, Caesarion, was illegitimate, so Caesar had to adopt his grandnephew, Octavian, as his son and heir. This constraint on powerful men continues down to the present in Western societies. Elon Musk, the richest man in the world, is seen as prolific, with six sons and one daughter, but his fertility is lower than that of the median woman in Massachusetts in the late 1600’s. At that time family sizes of over ten children were common in New England. Warren Buffett and Bill Gates, who combined have more wealth than the poorest half of Americans combined, only have three children each.
 
-Over five thousand years ago, a few simple changes in the role of domestic animals in Eurasian societies resulted in the emergence of nomadism on the Pontic steppe and triggered a cultural and social revolution across the supercontinent. In the millennia since, our cultural mores, values and religions have changed immensely. It can be hard to comprehend the ramifications of the nomadic revolution from our vantage point because it colors so many background conditions in our civilizations. Bill Gates's net worth is on the order of one million times that of the average American man, while his advantage in numbers of offspring is only 50% greater. While Gates deploys his wealth to acquire a \$127 million house and [transform](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) American education, the newfound livestock moguls of the Pontic steppe had different values and different options. In a world before advanced technology and the status symbol of a palatial estate (nomads were, literally, homeless), the men of the steppe invested their wealth and power in their descendants. They raised massive broods that would eventually overflow the steppe and wash across the civilized world, transforming human society as they went.
+Over five thousand years ago, a few simple changes in the role of domestic animals in Eurasian societies resulted in the emergence of nomadism on the Pontic steppe and triggered a cultural and social revolution across the supercontinent. In the millennia since, our cultural mores, values and religions have changed immensely. It can be hard to comprehend the ramifications of the nomadic revolution from our vantage point because it colors so many background conditions in our civilizations. Bill Gates's net worth is on the order of one million times that of the average American man, while his advantage in numbers of offspring is only 50% greater. While Gates deploys his wealth to acquire a $127 million house and [transform](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) American education, the newfound livestock moguls of the Pontic steppe had different values and different options. In a world before advanced technology and the status symbol of a palatial estate (nomads were, literally, homeless), the men of the steppe invested their wealth and power in their descendants. They raised massive broods that would eventually overflow the steppe and wash across the civilized world, transforming human society as they went.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/the-wolf-at-historys-door?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
 
-[](https://razib.substack.com/p/the-wolf-at-historys-door/comments)
+<div class="_sideBySideWrap_1xsdj_10">
 
-24
+<div class="_emailInputWrapper_1xsdj_55">
 
-[](javascript:void(0))
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/the-wolf-at-historys-door?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+111
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
 
-The wolf at history's door
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The wolf at history's door
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/the-wolf-at-historys-door/comments)
+
+<div class="label">
+
+25
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

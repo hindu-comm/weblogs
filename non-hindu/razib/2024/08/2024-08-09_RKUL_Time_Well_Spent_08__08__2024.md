@@ -8,53 +8,389 @@ Source: [here](https://www.razibkhan.com/p/rkul-time-well-spent-08082024).
 
 RKUL: Time Well Spent 08/08/2024
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2697751e-8ac5-4aac-86b6-856295647897_1021x561.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: Time Well Spent 08/08/2024
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
 # RKUL: Time Well Spent 08/08/2024
 
 ### Dog Days of Summer '24 Edition
 
-[](https://substack.com/@razib)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_17s6c_230 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_deldb_7 _size-40_deldb_23">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_3axfk_204 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
 
 [Razib Khan](https://substack.com/@razib)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_3axfk_207 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
+
 Aug 09, 2024
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-38
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_17s6c_230 pc-reset _border-top-detail-themed_17s6c_47 _border-bottom-detail-themed_17s6c_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+36
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2697751e-8ac5-4aac-86b6-856295647897_1021x561.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: Time Well Spent 08/08/2024
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-time-well-spent-08082024/comments)
+
+<div class="label">
 
 5
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
 
-3
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!ElD6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2697751e-8ac5-4aac-86b6-856295647897_1021x561.png)
+</div>
 
-![](https://substackcdn.com/image/fetch/$s_!ElD6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2697751e-8ac5-4aac-86b6-856295647897_1021x561.png)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2697751e-8ac5-4aac-86b6-856295647897_1021x561.png)
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_11q5m_1">
+
+<div class="_sideBySideWrap_11q5m_10">
+
+<div class="_emailInputWrapper_11q5m_57">
+
+</div>
 
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
 
 If you have a sibling with autism, your future child’s risk for an autism diagnosis is increased by a factor of [2 to 3.5×](https://www.nih.gov/news-events/news-releases/autism-risk-estimated-3-5-children-whose-parents-have-sibling-autism). [Orchid’s whole genome embryo reports](https://www.orchidhealth.com/) can help mitigate your child’s risk by screening for over 200 genetic variants definitively [linked to autism](https://clinvarminer.genetics.utah.edu/variants-by-condition/Autism%20spectrum%20disorder) and other neurodevelopmental disorders. [Discuss your situation with a genetics expert](https://calendly.com/rebecca-pfq/orchid-meeting?back=1&month=2024-04).
 
+<div>
+
 ------------------------------------------------------------------------
+
+</div>
 
 Your time is finite. Your phone and the internet stand ready to help you squander it. Here are my latest picks for spending it well instead. Feel free to add more in the comments.
 
 ### **Books, what else?**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§books-what-else" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 Japan’s [recent stock market volatility](https://www.nytimes.com/2024/08/07/business/japan-yen-nikkei-stocks.html), which served as a leading indicator for market corrections in the West in the first week of August, reminded me of the reality that the island nation is still an economic behemoth. Its GDP is still third or fourth in the world, depending on which statistic you favor (behind the US, China, and in some calculations, Germany). With 125 million citizens, there are more people in Japan than in any European nation west of the Russian Federation.
 
@@ -64,13 +400,11 @@ The nation has long been a conundrum. It is part of the developed world, and ext
 
 When asked, the Japanese will often tell you that their uniqueness owes to their ancient origins on an isolated archipelago. Over the last few years, we are finally starting to understand their [ethnogenesis](https://www.razibkhan.com/p/built-to-last-continuity-in-japanese), helping fill in the gaps in our understanding of Japanese prehistory. But luckily there is also a surfeit of Japanese history given both the long tradition of literacy stretching back to the Fujiwara era and the 712 AD project to write down of the Kojiki, a compilation of myths and origin stories.
 
-[](https://substackcdn.com/image/fetch/$s_!_zPD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb37b4895-7832-444d-880b-43185f2b1ece_957x278.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!_zPD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb37b4895-7832-444d-880b-43185f2b1ece_957x278.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb37b4895-7832-444d-880b-43185f2b1ece_957x278.png)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 Richard Mason and J. G. Caiger’s transparently titled [History of Japan](https://www.amazon.com/History-Japan-Revised-Richard-Mason-ebook/dp/B005LPUEPK/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bT64DaIVuTGu-3WLq4xEbV_5QKuiZLosc0ZRe-qUtQhYZiGwDvO76zRNRw6DML-EeLg2LleaH4o5Gy8DH-uFJ-Qoivam7qFY_P-woaGihTEoOFdra6T8l0w4pben5t07SfTI2t8AFHI4M83nrChGMeobTQRFnmz7h3JbaTG1wv-_tGX8XciimIQ_SzYpV3j_DMIA613nM1mK6HaRAPJ_LQVZ8LTHmR0rvS9U0nmEgTc.9bOZG6b8Q_VB5TAGpCXOtdUsXcCO_h_AhsdgvT8v924&qid=1723071235&sr=8-1) is incredibly dense, stretching from prehistory down to modern times. Not only does it cover diplomatic and military history, it touches on important cultural changes like the arrival of Buddhism, and the first and second contacts with the West in the 16th and 19th centuries. Mason and Caiger provide a bedrock and framework around which you can understand particular epochs in Japanese history, and cultural peculiarities like the coexistence of indigenous Shinto with foreign Buddhism, in 408 pages. [History of Japan](https://www.amazon.com/History-Japan-Revised-Richard-Mason-ebook/dp/B005LPUEPK/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bT64DaIVuTGu-3WLq4xEbV_5QKuiZLosc0ZRe-qUtQhYZiGwDvO76zRNRw6DML-EeLg2LleaH4o5Gy8DH-uFJ-Qoivam7qFY_P-woaGihTEoOFdra6T8l0w4pben5t07SfTI2t8AFHI4M83nrChGMeobTQRFnmz7h3JbaTG1wv-_tGX8XciimIQ_SzYpV3j_DMIA613nM1mK6HaRAPJ_LQVZ8LTHmR0rvS9U0nmEgTc.9bOZG6b8Q_VB5TAGpCXOtdUsXcCO_h_AhsdgvT8v924&qid=1723071235&sr=8-1) is not a deep dive into the topic, but it gives you a reasonable outline you can flesh out later.
 
@@ -84,7 +418,17 @@ Jumping back to the macro-scale, Chalmers Johnson’s [MITI and the Japanese Mir
 
 ### **Thought**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§thought" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 [Intel to Cut Jobs and Suspend Dividend in Cost-Saving Push](https://www.wsj.com/tech/intel-intc-q2-earnings-report-2024-6ec4ea69?mod=hp_lead_pos1). Technology is one of those fields that can see years of stasis, and then you blink and everything has changed. The rise of artificial intelligence and the field’s reliance on GPUs (graphics processing unit) has resulted in the marginalization of Intel and its old line of CPUs. And, to be frank, according to an old friend who has worked at Intel for 15 years, the last decade has seen a marked decline in human capital, as go-getters leave the firm, which had grown complacent and more focused on social engineering than microchip engineering.
 
@@ -98,7 +442,17 @@ Jumping back to the macro-scale, Chalmers Johnson’s [MITI and the Japanese Mir
 
 ### **Data**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§data" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 [Long shared haplotypes identify the Southern Urals as a primary source for the 10th century Hungarians](https://www.biorxiv.org/content/10.1101/2024.07.21.599526v1?rss=1). This is confirming what we always suspected, but methods relying on genetic relatedness can nail down with certainty that the Maygar conquerors descended from Ugric peoples who left the southern Urals (as opposed to the earlier Huns).
 
@@ -112,7 +466,17 @@ Jumping back to the macro-scale, Chalmers Johnson’s [MITI and the Japanese Mir
 
 ### **My Two Cents**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§my-two-cents" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 There’s still no free lunch, free subscribers; my most in-depth pieces for this Substack remain beyond the paywall. Since last month I’ve reflected on lessons from immigrant societies both classical and modern in two pieces. First, [You can’t beat us if you join us: Strategically minting new citizens: lessons from Rome & the US](https://www.razibkhan.com/p/you-cant-beat-us-if-you-join-us):
 
@@ -187,55 +551,229 @@ And now I am in the middle of a couple pieces about the outsized Indian immigran
 
 ### Discussion
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§discussion" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks after their Substack release. So I encourage subscribers on the free plan who’d like to automatically get them to [subscribe](https://unsupervisedlearning.libsyn.com/) to that podcast stream ([Apple](https://podcasts.apple.com/gb/podcast/razib-khans-unsupervised-learning/id1542136715?ls=1), [Stitcher](https://www.stitcher.com/show/razib-khans-unsupervised-learning), and [Spotify](https://open.spotify.com/show/0qC7KtuzPG9azwjt3opYlI)). If you want to listen on [YouTube](https://www.youtube.com/@razibkhansunsupervisedlearning), please [subscribe](https://www.youtube.com/@razibkhansunsupervisedlearning).
 
 Here are my guests (and monologue topics) since the last Time Well Spent:
 
-- [Louise Perry: overcrowded Britain and the ennui of a post-imperial
-  nation](https://www.razibkhan.com/p/louise-perry-overcrowded-britain)
+-   [Louise Perry: overcrowded Britain and the ennui of a post-imperial
+    nation](https://www.razibkhan.com/p/louise-perry-overcrowded-britain)
 
-- [Aria Babu: pro-natalism in the shadow of
-  empire](https://www.razibkhan.com/p/aria-babu-pro-natalism-in-the-shadow)
+-   [Aria Babu: pro-natalism in the shadow of
+    empire](https://www.razibkhan.com/p/aria-babu-pro-natalism-in-the-shadow)
 
-- [Eliah Overbey: the birth of
-  bioastronautics](https://www.razibkhan.com/p/eliah-overbey-the-birth-of-bioastronautics)
+-   [Eliah Overbey: the birth of
+    bioastronautics](https://www.razibkhan.com/p/eliah-overbey-the-birth-of-bioastronautics)
 
-- [Sarah Haider: activist to podcaster and public
-  intellectual](https://www.razibkhan.com/p/sarah-haider-activist-to-podcaster)
+-   [Sarah Haider: activist to podcaster and public
+    intellectual](https://www.razibkhan.com/p/sarah-haider-activist-to-podcaster)
 
-- [Christina Buttons: navigating the gender
-  wars](https://www.razibkhan.com/p/christina-buttons-navigating-the)
+-   [Christina Buttons: navigating the gender
+    wars](https://www.razibkhan.com/p/christina-buttons-navigating-the)
 
 ### ICYMI
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
 
-Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all my links and updates: <https://www.razib.com>
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§icymi" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
+Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all my links and updates: [https://www.razib.com](https://www.razib.com)
 
 There you’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance, etc.
 
-- [DM](https://twitter.com/razibkhan) me
+-   [DM](https://twitter.com/razibkhan) me
 
-- My [total feed](http://www.razib.com/wordpress/) of content
+-   My [total feed](http://www.razib.com/wordpress/) of content
 
 ### Over to you
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§over-to-you" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what you hope I’ll dig into next, put it here.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-38
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_17s6c_230 pc-reset _border-top-detail-themed_17s6c_47 _border-bottom-detail-themed_17s6c_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+36
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2697751e-8ac5-4aac-86b6-856295647897_1021x561.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: Time Well Spent 08/08/2024
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-time-well-spent-08082024/comments)
+
+<div class="label">
 
 5
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
 
-3
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

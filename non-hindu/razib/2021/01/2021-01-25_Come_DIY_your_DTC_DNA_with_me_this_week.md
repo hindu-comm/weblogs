@@ -1,9 +1,8 @@
 +++
 title = "Come DIY your DTC DNA"
 full_title = "Come DIY your DTC DNA with me this week"
-date = "2021-01-25"
 upstream_url = "https://razib.substack.com/p/come-diy-your-dtc-dna-with-me-this"
-
+date = "2021-01-25"
 +++
 Source: [here](https://razib.substack.com/p/come-diy-your-dtc-dna-with-me-this).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81cce6b4-9edc-42e8-9a7c-f4c00e758b01_600x528.png)
 
-Come DIY your DTC DNA with me this week
+#### Come DIY your DTC DNA with me this week
 
 razib.substack.com
 
@@ -29,7 +28,7 @@ Email
 
 ### Update roundup and a special invite
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
@@ -43,11 +42,13 @@ Jan 25, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81cce6b4-9edc-42e8-9a7c-f4c00e758b01_600x528.png)
 
-Come DIY your DTC DNA with me this week
+#### Come DIY your DTC DNA with me this week
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81cce6b4-9edc-42e8-9a7c-f4c00e758b01_600x528.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81cce6b4-9edc-42e8-9a7c-f4c00e758b01_600x528.png)
 
@@ -75,9 +78,11 @@ But first, another big thanks to all the free subscribers who have been [upgradi
 
 **Subscribe**
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bef77d9-acfb-4738-a2e2-734503bc8a9b_800x800.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bef77d9-acfb-4738-a2e2-734503bc8a9b_800x800.jpeg)
 
-**Over the past week, I released a two-part “deep dive” into the latest Indian ancestry findings and their historical and social relevance.** This is a long read (\~10,000 words total) and permanently paywalled, but I can sincerely recommend it!
+**Over the past week, I released a two-part “deep dive” into the latest Indian ancestry findings and their historical and social relevance.** This is a long read (~10,000 words total) and permanently paywalled, but I can sincerely recommend it!
 
 **[Stark Truth about Aryans: a story of India](https://razib.substack.com/p/stark-truth-about-aryans-a-story)**
 
@@ -93,6 +98,8 @@ And lastly, are you following [Colin Wright](https://colinwright.substack.com/) 
 
 **DIY your DTC DNA: an invitation to join me live this Weds. Jan. 27**
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4ccd5b5-b0e5-414d-98fc-993cc21a28df_597x677.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4ccd5b5-b0e5-414d-98fc-993cc21a28df_597x677.png)
 
 The screenshot above is from my [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01G7PYQTM/geneexpressio-20) results. The inference that my ancestry is from "Chittagong Division" is 100% correct. More precisely, my family is from [Comilla](https://en.wikipedia.org/wiki/Comilla_Division). There are some cases where consumer genomics tells you exactly what you know, and this is one of those. [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01G7PYQTM/geneexpressio-20) has an excellent method to infer ancestry, and the power of a massive database. If you want to see how they do it, check out their [new preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.427308v1). It's pretty fancy.
@@ -102,6 +109,8 @@ What would be more informative is if they let me see what it means to be from Ch
 Of course, realistically even the largest direct-to-consumer genomics companies can only deliver so much, **because they are simultaneously serving millions of customers.** A custom approach isn’t a feasible ask, even if it is what many consumers are longing for. Little surprise then that people have been reaching out to me about anomalies in their results for over a decade. People like me who got no value-added information (as in: they already know where their great-grandparents were born) reach out, too. We’re driven to know more.
 
 **Subscribe**
+
+[](https://www.speakeasy.com/e/analyze-ancestry)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Febc4289e-6ef0-4149-b86c-0838f9eebba7_600x358.png)
 
@@ -129,11 +138,15 @@ But enough about you! Let’s get back to me and what I did with my 23andMe resu
 
 **Subscribe**
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe37f34aa-8b85-4af3-948e-1201a1b91038_768x608.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe37f34aa-8b85-4af3-948e-1201a1b91038_768x608.png)
 
 The PCA immediately shows that as someone from eastern Bengal, I'm on the edge of the *eastern* Bengali cluster. I have a lot of East Asian ancestry. **To be from Chittagong Division means to be 10-20% East Asian.**
 
 Let's rerun this with more South Asian populations for context and zoom in:
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1160dae-6725-4b3c-a265-1315221963ec_1039x823.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1160dae-6725-4b3c-a265-1315221963ec_1039x823.png)
 
@@ -142,6 +155,8 @@ Again, you see I'm on the edge of the Bengali cluster. The same general result, 
 I've seen plenty of other Bangladeshis and Bengalis on 23andme. Many of us get pretty generic "You are 85-99% Bengali" interpretations. But that masks the reality of variable East-Asian ancestry across Bengal (more in the east, less in the west).
 
 **Subscribe**
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F544306a6-de22-48af-b04a-12ec31881989_863x685.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F544306a6-de22-48af-b04a-12ec31881989_863x685.png)
 
@@ -152,6 +167,8 @@ How long did it take me to figure this out? **About 15 minutes**. The methods of
 This week is my first time running this, and I'm pretty excited. I trust the turnout this first time will be light (or perhaps we should say "select"). But these tools are something I’m eager to share. I want to equip people to be able to pose their own questions and help themselves, their family and friends get more out of their data. So in addition to what will probably be a nice student-teacher ratio, you’ll be helping me shape this to empower as many laypeople as possible.
 
 **Subscribe**
+
+[](https://www.speakeasy.com/e/analyze-ancestry)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Febc4289e-6ef0-4149-b86c-0838f9eebba7_600x358.png)
 
@@ -165,7 +182,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81cce6b4-9edc-42e8-9a7c-f4c00e758b01_600x528.png)
 
-Come DIY your DTC DNA with me this week
+#### Come DIY your DTC DNA with me this week
 
 razib.substack.com
 
@@ -176,5 +193,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

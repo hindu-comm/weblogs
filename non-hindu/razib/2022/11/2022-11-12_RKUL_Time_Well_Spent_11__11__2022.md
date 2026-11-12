@@ -1,9 +1,8 @@
 +++
 title = "RKUL Time Well Spent"
 full_title = "RKUL Time Well Spent 11/11/2022"
-date = "2022-11-12"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-11112022"
-
+date = "2022-11-12"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-11112022).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67c84110-3f0a-47d5-bc55-991afd132a60_800x533.jpeg)
 
-RKUL: Time Well Spent 11/11/2022
+#### RKUL: Time Well Spent 11/11/2022
 
 razib.substack.com
 
@@ -29,25 +28,27 @@ Email
 
 ### Fall back edition
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-Nov 12
+Nov 12, 2022
 
-21
+25
 
 [](https://razib.substack.com/p/rkul-time-well-spent-11112022/comments)
 
-19
+21
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67c84110-3f0a-47d5-bc55-991afd132a60_800x533.jpeg)
 
-RKUL: Time Well Spent 11/11/2022
+#### RKUL: Time Well Spent 11/11/2022
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67c84110-3f0a-47d5-bc55-991afd132a60_800x533.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67c84110-3f0a-47d5-bc55-991afd132a60_800x533.jpeg)
 
@@ -72,6 +75,8 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 People often ask me which books on Indian history are worth reading. My honest answer is that for whatever reason I don’t feel there are that many good English-language books published or distributed in the US on the history of India. It’s different in India, of course, but those books do not always make it abroad.
 
 So what I sometimes default to is: just read all the [Cambridge histories of India](https://www.google.com/search?q=the+cambridge+history+of+india&rlz=1C5CHFA_enUS970US970&sxsrf=ALiCzsa7Y_ITfSahUYF5VkqGWbVSDB-EFg%3A1667794817726&ei=gYdoY-nvK-S1qtsPh--SKA&ved=0ahUKEwiptKztm5v7AhXkmmoFHYe3BAUQ4dUDCBA&uact=5&oq=the+cambridge+history+of+india&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwA0oECEEYAEoECEYYAFDEBljEBmC6CGgCcAF4AIABAIgBAJIBAJgBAKABAcgBCMABAQ&sclient=gws-wiz-serp). But that’s tough going, and some of them are a bit of a drag. So here are seven books that I think are accessible and useful for the general reader.
+
+[](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/31KHO7TIOTO97?type=explore)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f8596be-0554-41ac-af34-42ee8516b649_940x207.jpeg)
 
@@ -219,7 +224,7 @@ Comments are open to all for this post, so if you have more reading/listening su
 
 [](https://razib.substack.com/p/rkul-time-well-spent-11112022/comments)
 
-19
+21
 
 [](javascript:void(0))
 
@@ -227,7 +232,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67c84110-3f0a-47d5-bc55-991afd132a60_800x533.jpeg)
 
-RKUL: Time Well Spent 11/11/2022
+#### RKUL: Time Well Spent 11/11/2022
 
 razib.substack.com
 
@@ -238,5 +243,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

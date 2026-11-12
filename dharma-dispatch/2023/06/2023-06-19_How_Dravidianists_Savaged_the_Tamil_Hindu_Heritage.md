@@ -3,7 +3,6 @@ title = "How Dravidianists"
 full_title = "How Dravidianists Savaged the Tamil Hindu Heritage and Gifted Tamil Nadu to the Global Church"
 upstream_url = "https://thedharmadispatch.substack.com/p/how-dravidianists-savaged-the-tamil"
 date = "2023-06-19"
-
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/how-dravidianists-savaged-the-tamil).
 
@@ -23,7 +22,7 @@ Facebook
 
 Email
 
-Notes
+Note
 
 Other
 
@@ -37,7 +36,25 @@ Other
 
 Jun 19, 2023
 
-6
+12
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0da6b068-4dae-41f7-8898-de7f1511870b_1243x699.png)
+
+#### How Dravidianists Savaged the Tamil Hindu Heritage and Gifted Tamil Nadu to the Global Church
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://thedharmadispatch.substack.com/p/how-dravidianists-savaged-the-tamil/comments)
 
@@ -65,7 +82,7 @@ This alarming and pervasive power that the Church wields in Tamil Nadu is truly 
 
 The Dharma Dispatch Digest is a **reader-supported publication**. To receive new content and support my work, consider becoming a paid subscriber.
 
-**Subscribe**
+Subscribe
 
 ## Bishop Robert Caldwell: The Christian Father of Dravidianism
 
@@ -103,7 +120,7 @@ The following passage is my translated paraphrase of the original.
 
 There’s an even deeper reason why Caldwell’s observations pushed later-day Dravidian champions into such a heightened state of panic.
 
-**Subscribe**
+Subscribe
 
 P. Sundaram Pillai in his 1897 book, *The Basic Element in Hindu Civilization* claims that from a cultural standpoint, Tamil was “self-born” (sic) and never borrowed from nor was influenced by other cultures and languages. He claimed further that it was most definitely not influenced either by the Sanskrit language or what he claims is the “Aryan” art or culture. According to Pillai, everything in Tamil heritage that can be traced to Sanskrit and the Sanatana inheritance is an ignorant claim; Vedanta and Aryan culture are originally of Tamil or Dravidian origin, later appropriated by the evil Aryans. And then, in 1904, V Kanakasabhai wrote in his *The Tamils Eighteen Hundred Years Ago* that he had a “revelation” (sic) that the most ancient works in Tamil must have been composed more than 2000 years ago but failed to mention the evidence or the source of his revelation.
 
@@ -170,7 +187,7 @@ You can contribute in the following ways
 1.  By opting for a **paid subscription**. Click the button below to
     take a paid subscription.
 
-    **Subscribe**
+    Subscribe
 
 2.  Contributing an amount you are comfortable with. Click the button
     below to contribute.
@@ -183,7 +200,25 @@ You can contribute in the following ways
 
 ------------------------------------------------------------------------
 
-6
+12
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0da6b068-4dae-41f7-8898-de7f1511870b_1243x699.png)
+
+#### How Dravidianists Savaged the Tamil Hindu Heritage and Gifted Tamil Nadu to the Global Church
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://thedharmadispatch.substack.com/p/how-dravidianists-savaged-the-tamil/comments)
 
@@ -194,3 +229,5 @@ You can contribute in the following ways
 Share
 
 Previous
+
+Next

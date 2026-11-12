@@ -3,87 +3,466 @@ title = "Storms Across the"
 full_title = "Storms Across the Channel"
 upstream_url = "https://nemets.substack.com/p/storms-across-the-channel"
 date = "2023-06-04"
-
 +++
 Source: [here](https://nemets.substack.com/p/storms-across-the-channel).
 
 Storms Across the Channel
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-#### Storms Across the Channel
+<div class="modal-table">
 
-nemets.substack.com
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(57,97,92,0.75), rgba(57,97,92,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!KVI1!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Storms Across the Channel
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Email
 
-Note
+</div>
 
-Other
+</div>
 
-![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
 
-![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
 
-#### Discover more from Nemets
+</div>
 
-Prehistory, wild adventures, obscure tribes, & historical processes
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
-Over 5,000 subscribers
+Notes
 
-Subscribe
+</div>
 
-Continue reading
+</div>
 
-Sign in
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Storms Across the Channel
 
 ### The British Isles from the Magdalenians to the Normans
 
-![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
+
+[](https://substack.com/@nemets)
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Peter Nimitz">
+
+![Peter Nimitz's avatar](https://substackcdn.com/image/fetch/$s_!ximq!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
 
 [Peter Nimitz](https://substack.com/@nemets)
 
-Jun 4, 2023
+</div>
 
-56
+</div>
 
-Share this post
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
 
-#### Storms Across the Channel
+Jun 04, 2023
 
-nemets.substack.com
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+84
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(57,97,92,0.75), rgba(57,97,92,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!KVI1!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Storms Across the Channel
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Email
 
-Note
+</div>
 
-Other
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [](https://nemets.substack.com/p/storms-across-the-channel/comments)
 
-13
+<div class="label">
+
+15
+
+</div>
+
+<div class="label">
+
+10
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
 
 [](javascript:void(0))
 
+<div class="label">
+
 Share
 
-[](https://phys.org/news/2011-02-ice-sheets-age.html)
+</div>
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!KVI1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+
+</div>
+
+<div class="pullquote">
 
 ["You sing of the young gods easily](https://www.best-poems.net/g_k_chesterton/the_ballad_of_the_white_horse.html)
 
@@ -95,35 +474,83 @@ Share
 
 [Gods that are best unsung.](https://www.best-poems.net/g_k_chesterton/the_ballad_of_the_white_horse.html)
 
+</div>
+
 The [Magdalenian](https://en.wikipedia.org/wiki/Magdalenian) hunter-gatherers noticed that the winters were not as bitter and the summers not as short as they had been in the days of their distant ancestors. The reindeer were migrating to the northwest - to a strange land of which the Magdalenians were only dimly aware. Some of the Magdalenians decided to follow. It was around 13,500 BC when they crossed the [Doggerland land bridge](https://en.wikipedia.org/wiki/Doggerland) from continental Europe to what is now England.
 
 The Magdalenians ruled what is now southern England for the next thousand or two years. Their lives were nasty, brutish, and short. They hunted land mammals across southern England - including each other. Finds of human bones from the Magdalenian era of British prehistory show evidence of both [nutritional and ritual cannibalism](https://www.cambridge.org/core/journals/bulletin-of-the-natural-history-museum-geology-series/article/abs/cannibalism-in-britain-taphonomy-of-the-creswellian-pleistocene-faunal-and-human-remains-from-goughs-cave-somerset-england/5B65DFAB4BDEAE502976CEB833BA4659). They used the skulls of their victims as drinking cups.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Nemets is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 As the climate continued to warm, the cultural toolkit of the Magdalenians became increasingly inferior to the encroaching [Western Hunter-Gatherers](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer). Expanding out of Italy and the Balkans, the Western Hunter-Gatherers (WHGs) largely destroyed the Magdalenians outside of Iberia. Britain was no exception. In the 12th millennium BC the WHGs crossed the Doggerland land bridge into Britain and [exterminated the Magdalenians there in totality](https://www.nature.com/articles/s41559-022-01883-z). The world at the time was cold, harsh, and primitive. There was no food surplus for slaves, so the defeated were invariably slain. Only further south in the lush lands around the Mediterranean could one hope for any sort of mercy.
 
 While Britain remained connected by Doggerland to the European continent until the 7th millennium, Ireland had been separated from Britain for thousands of years. It was not until around 8000 BC - over 3,000 years after the WHGs had arrived on Britain - that they sailed to colonize Ireland and the [Isle of Man](https://en.wikipedia.org/wiki/Isle_of_Man).
 
-[](https://www.amazon.com/gp/product/B07PVPYC3V?ie=UTF8&psc=1&linkCode=ll1&tag=nemets09-20&linkId=f8a00ae27289f6bbc098c92c40b08b27&language=en_US&ref_=as_li_ss_tl)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc261ee2d-3516-4b61-b0f6-156f1d763123_583x714.png)
+![](https://substackcdn.com/image/fetch/$s_!c5k2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc261ee2d-3516-4b61-b0f6-156f1d763123_583x714.png)
+
+</div>
 
 While the WHGs of Britain [remained in contact with their WHG cousins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520225/) on the continent, the WHGs of Ireland fell into total or near total isolation. As a result, the WHG material culture in Ireland quickly diverged from their cousins to the east and south. Ireland could support few hunter-gatherers, thus the population of the WHGs there [fluctuated between 3,000 and 10,000 people](https://www.nature.com/articles/s41586-020-2378-6). While primitive by our standards, they were nonetheless capable of remembering extensive family trees. They were able to avoid the worst forms of inbreeding even though their prolonged isolation and small population size likely caused an unusually high number of genetic diseases.
 
 The late 7th millennium BC - perhaps the 63rd century specifically, featured a number of cataclysms around the world. Rising sea levels caused by rising temperatures had already turned Doggerland into the Dogger Archipelago. The collapse of part of the continental shelf off of the coast of Norway triggered at least one massive tsunami that drowned much of what remained of Doggerland as [well as flooding Britain as far as 42 kilometers inland](https://www.cambridge.org/core/journals/antiquity/article/great-wave-the-storegga-tsunami-and-the-end-of-doggerland/CB2E132445086D868BF508041CC1B827). The Danube River severely flooded around the same time. Those catastrophes devastated the WHG populations of Europe, and opened up the continent to colonization by farmers from [Anatolia](https://en.wikipedia.org/wiki/Anatolia) - what is now the Asian part of Turkey.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F196dc672-9bb1-404b-86db-1494ebe7f4ab_1583x1686.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F196dc672-9bb1-404b-86db-1494ebe7f4ab_1583x1686.png)
+![](https://substackcdn.com/image/fetch/$s_!GhCv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F196dc672-9bb1-404b-86db-1494ebe7f4ab_1583x1686.png)
+
+</div>
 
 Those Early European Farmers (EEFs) split into two groups early on. The first, the [Linear Ceramics](https://en.wikipedia.org/wiki/Linear_Pottery_culture) (green and olive in the map below), gradually expanded up the Danube Basin into Hungary, Austria, and finally Germany. The second, the [Cardial Wares](https://en.wikipedia.org/wiki/Cardium_pottery) (blue and cyan), followed a coastal route along the Adriatic in the western Balkans into Italy, southern France, and finally Iberia. Those two groups [collided in France and began mixing (presumably through both peaceful and violent exchanges) at the end of the 6th millennium](https://www.pnas.org/doi/10.1073/pnas.1918034117). While the EEFs brought both crops and domesticated animals with them from Anatolia, they were not able to colonize all of Europe. Hills, forests, and most of the northern European coastline were beyond their ability to settle. The soils were not good enough to sustain their colonists in the face of the neighboring WHG fishermen or foresters. Britain too remained in the hands of the WHGs.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F702318c0-0e85-49d4-92dd-42d96737f8ec_1920x1213.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F702318c0-0e85-49d4-92dd-42d96737f8ec_1920x1213.png)
+![](https://substackcdn.com/image/fetch/$s_!7Vz7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F702318c0-0e85-49d4-92dd-42d96737f8ec_1920x1213.png)
+
+</div>
 
 Following a peak at the end of the 6th millennium BC, the EEFs entered a centuries-long period of decline. While their gods had never been kindly, they appear to have been cast out by crueler deities around that time. Like the [Nahuas](https://en.wikipedia.org/wiki/Nahuas) 6,500 years in the future, the EEFs [warred](https://www.researchgate.net/publication/228438092_Beating_Ploughshares_Back_into_Swords_Warfare_in_the_Linearbandkeramik) for human bodies to [satiate their appetites for flesh](https://en.wikipedia.org/wiki/Herxheim_(archaeological_site)) and the appetites of their gods for sacrifices. The EEFs stagnated across Europe until the 45th century.
 
@@ -135,9 +562,11 @@ Such a colonization program can be seen in the DNA of the farmers who settled Br
 
 One of the chiefdoms in France was based out of Brittany, which by the late 5th millennium had the state capacity to build large monuments. It colonized parts of Normandy in France as well as southwestern England, Ireland, and northern Scotland. The other chiefdom was in the [Paris Basin](https://en.wikipedia.org/wiki/Paris_Basin) in northeastern France and colonized England from the southeast before pushing north and west. As both chiefdoms were probably founded by different groups of WHG conquerors, their colonies in Britain likely differed in both in language and ruler.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8015e807-608c-4a19-8431-21acd1532883_470x486.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8015e807-608c-4a19-8431-21acd1532883_470x486.png)
+![](https://substackcdn.com/image/fetch/$s_!aqUo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8015e807-608c-4a19-8431-21acd1532883_470x486.png)
+
+</div>
 
 Colonization brought with it new diseases that affected the flora and fauna of the British Isles. It may be that the WHGs were overrun so swiftly in part because of EEF diseases spread by men, pigs, or cattle. At the very least elm trees were devastated, speeding the clearing of the land for agriculture.
 
@@ -147,9 +576,11 @@ The surviving WHGs were [absorbed into the EEF population to varying degrees dep
 
 While the WHG-EEF synthesis in the 45th century had been brutal, the succeeding eight centuries were largely an EEF golden age. Society, culture, architecture, and technology all advanced in tandem with continent-wide population growth. The British Isles were no exception, reaching their peak in the 37th century. The density of cereal pollen in samples taken around the British Isles support a population peak and extensive cereal cultivation at that time. In addition, the archaeological record suggests that housing construction was at its highest in Ireland in the same century.
 
-[](https://www.amazon.com/First-Farmers-Europe-Evolutionary-Perspective-ebook/dp/B07BNT9W3K?crid=3SK0ON5BOCJ6Q&keywords=the+first+farmers+of+europe&qid=1685521217&sprefix=the+first+farmers+of+europ%2Caps%2C144&sr=8-1&linkCode=ll1&tag=nemets09-20&linkId=67b0dee299e96af3158cf99358679d04&language=en_US&ref_=as_li_ss_tl)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa51204-63e2-4411-b306-55363955ff17_544x786.png)
+![](https://substackcdn.com/image/fetch/$s_!e-74!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa51204-63e2-4411-b306-55363955ff17_544x786.png)
+
+</div>
 
 EEF societies around Europe began to [decline around the 37th century](https://en.wikipedia.org/wiki/Neolithic_decline). Some argue that the decline was caused by a gradual climate change that cooled Europe and increased rainfall in the British Isles. Others argue that the [first of many plagues swept across Eurasia](https://www.cell.com/cell/fulltext/S0092-8674(15)01322-7). Still others believe it was part of a natural civilization cycle, with decreasing yields from agriculture due to [soil exhaustion](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/soil-exhaustion). Regardless of the cause, the decline shows in the archaeological records of the British Isles.
 
@@ -159,9 +590,49 @@ The causewayed enclosures were built at great expense because they were needed. 
 
 The endemic warfare that characterized the 3600-3200 period coincided with economic shifts. Wheat was replaced by the more robust crop barley, and wild plants appear more often in EEF sites in the British Isles. Archaeological sites from that period are scarcer than the era before. Trade of carinated bowls and axes broke down. Mines closed. All in all, the picture of the 3600-3200 BC period across the British Isles is one of decline and a decrease in population.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider a paid subscription to support my writing
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 The islands off of the coast of Scotland were an exception to the general trend of decline. Unlike the rest of the British Isles, those islands didn’t experience a population decline in the 4th millennium. A new archaeological culture called the [Grooved Ware](https://en.wikipedia.org/wiki/Grooved_ware), named after their distinctive style of pottery, originated in the [Orkney Islands](https://en.wikipedia.org/wiki/Orkney) north of Scotland around 3200 BC. Grooved Ware pottery as well as architectural designs previously found on Orkney rapidly spread around the coasts of Ireland and Britain. Due to the conservatism of prehistoric pottery makers, the spread of such pottery suggests the spread of power, influence, and people as well.
 
@@ -171,9 +642,11 @@ My suspicion is that the spread of the wheel and the sail in around the Eastern 
 
 The thalassocracy and its colonies built [numerous monuments](https://en.wikipedia.org/wiki/Passage_grave) to their rulers in imitation of their trading partners and possible coreligionists in Brittany and other places on the Atlantic coast of Europe. One of those monuments was a tomb in the Boyne Valley of east-central Ireland. The tomb appears to be that of a king claiming rule through divine blood as the man buried within was the [product of first-degree incest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116870/) - a practice later [embraced by Egypt and Iran](https://en.wikipedia.org/wiki/Incest#Antiquity) in a form of [cultural convergence](https://en.wikipedia.org/wiki/Convergent_evolution).
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F553a291d-80a5-4adf-9f94-e922bdee70af_970x151.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F553a291d-80a5-4adf-9f94-e922bdee70af_970x151.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!aXbp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F553a291d-80a5-4adf-9f94-e922bdee70af_970x151.jpeg)
+
+</div>
 
 Elsewhere, concentrations of burial monuments and the relationships of the men buried within them suggest that late 4th millennium society in the British Isles - or at least Ireland - was clan based. Grooved Ware-associated monuments and centers remained close to waterways, but were usually a moderate distance inland. Presumably that enabled easy access to water if needed, but also bought time to muster reinforcements in case of a sea raid.
 
@@ -191,13 +664,17 @@ While the Bell Beakers were a violent people, they restored some order in the is
 
 The Bell Beaker Indo-Europeans were resisted by the EEFs for centuries in the British Isles. [Stuart Needham](https://www.amazon.com/Celtic-West-Atlantic-questions-language/dp/1785702270?&linkCode=ll1&tag=nemets09-20&linkId=01515e53798463c1cfd5f68ae0bd3508&language=en_US&ref_=as_li_ss_tl) has suggested that the EEFs of Europe’s Atlantic fringe from Iberia to Ireland shared a sophisticated technique of copper halberd manufacture in the mid-3rd millennium. He points out that finds of those halberds rarely coincide with the Bell Beakers that characterize the Indo-European invaders, who preferred metal daggers for weapons at the time.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F781c2972-5fa7-454e-bba0-bcb716a766fd_815x774.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F781c2972-5fa7-454e-bba0-bcb716a766fd_815x774.png)
+![](https://substackcdn.com/image/fetch/$s_!-IOt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F781c2972-5fa7-454e-bba0-bcb716a766fd_815x774.png)
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F672f34ae-9bda-4a17-8142-297bd497474c_925x614.png)
+</div>
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F672f34ae-9bda-4a17-8142-297bd497474c_925x614.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!cnnO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F672f34ae-9bda-4a17-8142-297bd497474c_925x614.png)
+
+</div>
 
 His theory is unlikely as the local EEFs had no tradition of metallurgy and the isles had been underpopulated for centuries. In addition, none of the post-Bell Beaker samples in Britain which have been DNA tested so far show more than 50% EEF ancestry. The more likely explanation is the Bell Beaker invaders came in waves, with the earliest waves mixing in with some of the EEFs before being overcome by later waves which further diluted the EEF share of ancestry. Earlier waves of Bell Beakers may have abandoned the older style of pottery for local styles, much as they did with local houses.
 
@@ -209,9 +686,11 @@ The British Isles thrived for about 900 years under the Indo-Europeans after the
 
 The [volcanic eruption at the island of Thera](https://en.wikipedia.org/wiki/Minoan_eruption) in the 16th century BC may have triggered a period of mass migration. Regardless of the cause, there was a substantial invasion from Scandinavia and continental Europe in the following century which [overran much of southern and eastern England](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8889665/). The invasions altered the demographics of southern England - and social order - noticeably. Scotland and Ireland were spared the invasion or successfully repelled it - at least for the next five centuries.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa77bad04-8404-4b09-9098-cca8ff383b3a_1800x939.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa77bad04-8404-4b09-9098-cca8ff383b3a_1800x939.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!Vwnm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa77bad04-8404-4b09-9098-cca8ff383b3a_1800x939.jpeg)
+
+</div>
 
 The results of the invasions and fighting around 1500 BC changed the funerary customs in southern England as well as its trade routes. Graves in England are more equal in size and quality of burial goods for the 1500-1000 BC period, suggesting the fall of the old warlords and the rise of tribal assemblies. Bronze ceased to be made in England, but was instead imported from the continent. Horses were introduced by the invaders for the first time. England’s trade shifted towards the North Sea, while Ireland’s remained oriented towards the Atlantic coast.
 
@@ -225,9 +704,11 @@ In England, foreign invaders again sailed across the Channel and North Sea with 
 
 When civilization began to recover from the Bronze Age Collapse with the spread of ironworking in the 9th century, the face of Britain had changed. East Anglia and the Midlands appear to have been relatively peaceful by the standards of prehistory. They were protected by a fortified frontier of hillforts that fenced off what is now Wales, Cornwall, and the Scottish Highlands. The relatively egalitarian ethos that had characterized England since the 16th century invasion appears to have endured - with little distinctions between status in graves.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dc89038-a10b-4b0e-b118-0cc03744ab09_678x634.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dc89038-a10b-4b0e-b118-0cc03744ab09_678x634.png)
+![](https://substackcdn.com/image/fetch/$s_!rlIJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dc89038-a10b-4b0e-b118-0cc03744ab09_678x634.png)
+
+</div>
 
 Britain would remain troubled by invasions into the Iron Age. [Proto-Brittonic speakers](https://en.wikipedia.org/wiki/Brittonic_languages) riding chariots [invaded Yorkshire](https://en.wikipedia.org/wiki/Arras_culture) in northeastern England from what is now western Germany and northeastern France in the 4th century BC. Either they, their influence, their imitation, or processes driven in reaction to them appear to have led to an end of the long egalitarian period of English prehistory. Warrior burials and sculptures that follow their arrival suggest the rise of a professional warrior class which replaced tribal militias of freemen. They also introduced [La Tene culture](https://en.wikipedia.org/wiki/La_T%C3%A8ne_culture) art from the continent. It survived longer in Britain than it did on the continent.
 
@@ -239,9 +720,11 @@ The Crisis of the Third Century AD permanently weakened the Roman Empire and dev
 
 Subsequent barbarian invasions largely finished off what was left of the diverse imperial urban populations in Europe - including in Britain. The Anglo-Saxons followed the paths of at least four preceding groups of conquerors across the North Sea and [made their mark in blood](https://www.nature.com/articles/s41586-022-05247-2) and on history.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e6b03c7-5287-4233-82a9-0503bac672cc_800x992.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e6b03c7-5287-4233-82a9-0503bac672cc_800x992.png)
+![](https://substackcdn.com/image/fetch/$s_!NHrG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e6b03c7-5287-4233-82a9-0503bac672cc_800x992.png)
+
+</div>
 
 The Anglo-Saxons invaded England from the continent’s North Sea coast in the 5th and 6th century. They brought with them a Germanic language - Old English. The invasion was part of a mass migration that brought substantial numbers of women and children. How substantial is debated - the noticeable genetic impact of the Anglo-Saxons isn’t necessarily from a genocidal series of conflicts. While the invasions were certainly violent, the Anglo-Saxon replacement of perhaps a third of the population of England could have been due to relatively higher fertility and lower mortality rates. Their impact on Ireland and Scotland was at most minor.
 
@@ -253,9 +736,49 @@ Medieval economic development - particularly watermills - allowed for England to
 
 In conclusion, the British Isles have experienced at least five major episodes (it is undergoing a [sixth](https://www.migrationwatchuk.org/briefing-paper/492/impact-of-immigration-in-changing-the-uk-population)) of population replacement and four episodes of civilizational collapse.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider a paid subscription to support my writing
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 Summary:
 
@@ -273,30 +796,224 @@ Summary:
 
 2060-???? AD UKians
 
-56
+</div>
 
-Share this post
+</div>
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+<div class="visibility-check">
 
-#### Storms Across the Channel
+</div>
 
-nemets.substack.com
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+84
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(57,97,92,0.75), rgba(57,97,92,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!KVI1!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79dac9ad-56f2-4c06-ad4f-ea8ac3f25faf_400x540.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Storms Across the Channel
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Email
 
-Note
+</div>
 
-Other
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [](https://nemets.substack.com/p/storms-across-the-channel/comments)
 
-13
+<div class="label">
+
+15
+
+</div>
+
+<div class="label">
+
+10
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
 
 [](javascript:void(0))
 
+<div class="label">
+
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

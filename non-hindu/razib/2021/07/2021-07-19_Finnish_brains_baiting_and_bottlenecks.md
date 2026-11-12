@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/finnish-brains-baiting-and-bottleneck
 
 Finnish brains, baiting and bottlenecks
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa52df0d2-0bda-430d-b4ff-3aa35d83e2a7_1000x667.jpeg)
+
+#### Finnish brains, baiting and bottlenecks
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # Finnish brains, baiting and bottlenecks
 
 ### A history of Finnish genes and culture: part 6 of 6
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -22,15 +38,37 @@ Jul 19, 2021
 
 ∙ Paid
 
-20
+17
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa52df0d2-0bda-430d-b4ff-3aa35d83e2a7_1000x667.jpeg)
+
+#### Finnish brains, baiting and bottlenecks
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/finnish-brains-baiting-and-bottlenecks/comments)
 
 6
 
+[](javascript:void(0))
+
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!cuQe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F59670272-ec28-48f4-8ab7-62649057f8dd_960x640.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F59670272-ec28-48f4-8ab7-62649057f8dd_960x640.jpeg)
 
-![](https://substackcdn.com/image/fetch/$s_!cuQe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F59670272-ec28-48f4-8ab7-62649057f8dd_960x640.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F59670272-ec28-48f4-8ab7-62649057f8dd_960x640.jpeg)
 
 Subscribe
 

@@ -2,8 +2,7 @@
 title = "You can’t take it with"
 full_title = "You can’t take it with you straight talk about epigenetics and intergenerational trauma"
 upstream_url = "https://www.razibkhan.com/p/you-cant-take-it-with-you-straight"
-date = "1942-02-05"
-
+date = "2022-12-19"
 +++
 Source: [here](https://www.razibkhan.com/p/you-cant-take-it-with-you-straight).
 

@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/our-african-origins-the-more-we-under
 
 Our African origins: the more we understand, the less we know
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2594bec3-63a0-4118-adc6-ad0f437fbfd8_1991x1423.png)
+
+#### Our African origins: the more we understand, the less we know
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # Our African origins: the more we understand, the less we know
 
 ### Part 2 of 3: The revolution in our understanding of African human evolution
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -22,17 +38,37 @@ Dec 20, 2021
 
 ∙ Paid
 
-32
+30
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2594bec3-63a0-4118-adc6-ad0f437fbfd8_1991x1423.png)
+
+#### Our African origins: the more we understand, the less we know
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/our-african-origins-the-more-we-understand/comments)
 
 8
 
-2
+[](javascript:void(0))
 
 Share
 
 [](https://razib.substack.com/)
 
-![](https://substackcdn.com/image/fetch/$s_!FRYk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2594bec3-63a0-4118-adc6-ad0f437fbfd8_1991x1423.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2594bec3-63a0-4118-adc6-ad0f437fbfd8_1991x1423.png)
 
 The world 60,000 years ago
 

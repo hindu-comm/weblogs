@@ -1,9 +1,8 @@
 +++
 title = "Yo mama's mama's mama's"
 full_title = "Yo mama's mama's mama's mama etc"
-date = "2021-12-17"
 upstream_url = "https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc"
-
+date = "2021-12-17"
 +++
 Source: [here](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5feb0158-239a-4447-8a1e-4e122e190b72_1200x894.jpeg)
 
-Yo mama's mama's mama's mama... etc.
+#### Yo mama's mama's mama's mama... etc.
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### Part 1 of 3: our understanding of human origins in 2021
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 17, 2021
 
-52
+57
 
 [](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc/comments)
 
@@ -43,11 +42,13 @@ Dec 17, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5feb0158-239a-4447-8a1e-4e122e190b72_1200x894.jpeg)
 
-Yo mama's mama's mama's mama... etc.
+#### Yo mama's mama's mama's mama... etc.
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93c71b30-c7c1-4b8d-8faa-de084b139ee4_1456x947.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93c71b30-c7c1-4b8d-8faa-de084b139ee4_1456x947.jpeg)
 
@@ -75,6 +78,8 @@ Today almost everything we had figured out then is wrong. We didn’t understand
 
 In 2000, we had the tidy and elegant story of a single East-African tribe 60,000 years ago that exploded onto the evolutionary scene like an act of God, the descendants of mitochondrial Eve who were destined to push aside all those who had come before. In 2021, the story is no longer either tidy nor elegant, but sprawling and baroque, and we have still not unraveled all the knots and gnarls. The expansion of Africans out of the northeastern edge of that continent 60,000 years ago marked the denouement of a plot arc that had been running for nearly a million years, whose fine-grained details still remain to be worked out. Rather than a revolution and explosion, we now discern an evolution and an emergence.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F564d7da1-5b22-429c-b35f-3616ac5bae4a_954x1007.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F564d7da1-5b22-429c-b35f-3616ac5bae4a_954x1007.jpeg)
 
 ### **Mitochondrial Eve was just one mother of us all**
@@ -91,7 +96,11 @@ Wilson debuted the now famous result that chimpanzees and humans exhibited 99% g
 
 But Wilson wasn’t done. He wanted to look directly at DNA, which had much more variation than proteins or antibodies, and which could yield more far-reaching evolutionary conclusions. Instead of analyzing how species related to each other, Wilson’s lab sought to probe how individuals and populations within a species were related to each other, and thus infer the evolutionary history of our own species. But before the advent of now-ubiquitous [polymerase chain reaction methods](https://www.google.com/books/edition/The_PCR_Revolution/iLDPc0j-i6YC?hl=en) in the 1990’s, which allow for the massive amplification of minute amounts of DNA, the paucity of raw genetic material imposed a sharp limitation on these analyses.
 
-![Allan Wilson and Rebecca Cann](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d7583df-7aaf-4252-9634-3aeabf2a1edc_775x408.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d7583df-7aaf-4252-9634-3aeabf2a1edc_775x408.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d7583df-7aaf-4252-9634-3aeabf2a1edc_775x408.jpeg)
+
+Allan Wilson and Rebecca Cann
 
 Wilson and his students realized their best bet was to collect a type of DNA that was very copious, rather than being present in just trace amounts: mitochondrial DNA (mtDNA). While each human cell has two copies of nuclear DNA across 23 chromosomes, there are often 1,000 mitochondria per cell generating energy, each with its own strand of DNA. From any given tissue there is far more mtDNA than nuclear DNA to begin with, and today we also know mtDNA is more structurally stable and does not degrade as fast. A recent paper using 2,000-year-old samples from mummies in ancient Egypt [found as many as 18,000 copies](https://www.nature.com/articles/ncomms15694) of mtDNA per each one of nuclear DNA. To increase the amount of usable mtDNA in their analyses even more, Wilson’s student [Rebecca Cann](https://en.wikipedia.org/wiki/Rebecca_L._Cann) extracted them from 145 donor-provided placentae, as these were particularly rich in usable tissue (two further samples came from proliferating cell lines, one of these from [Henrietta Lacks](https://www.amazon.com/exec/obidos/ASIN/B00338QENI//geneexpressio-20)).
 
@@ -99,7 +108,11 @@ During the development of the new zygote from the fusion of ovum and sperm, the 
 
 Looking at the variation Cann found in the mtDNA, she and her colleagues constructed a phylogenetic tree of our direct foremothers, back to a common ancestress (the British science writer Roger Lewin [termed](https://en.wikipedia.org/wiki/Mitochondrial_Eve#History) her “mitochondrial Eve” to Wilson’s chagrin):
 
-![mtDNA phylogeny from Cann et al.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff363a13e-f8a4-47da-b446-b2f4d88ca4af_863x516.png)
+[](https://pubmed.ncbi.nlm.nih.gov/3025745/)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff363a13e-f8a4-47da-b446-b2f4d88ca4af_863x516.png)
+
+mtDNA phylogeny from Cann et al.
 
 The primitive plot above illustrates a few things that have now been reconfirmed many times over the last 40 years. There is a geographic structure across much of the tree, so that women from New Guinea cluster with other women from New Guinea, and women from Europe cluster with women from Europe. But there are exceptions, because the ancestral variation was not perfectly sorted by population as our species expanded from its homeland. First, one group of Africans split off first from all other human populations early on, indicating that continent’s special role in our species’ origins. The first division in our species’ history was between Africans and non-Africans. Second, there were African women found in other branches of the human family tree that were otherwise non-African. What the mtDNA tree reflects is that Cann and her colleagues found Africans harbored the richest ancestral genetic variation by far among modern humans, implying that Eurasians, Australians and Amerindians probably emerged out of a single original population with a homeland somewhere in Africa. As that tiny subsample of humans left Africa, they underwent a series of bottlenecks that reduced our lineage’s genetic variation as they pushed north and east in small groups.
 
@@ -113,7 +126,11 @@ Hindsight now makes it clear that Cann, Wilson, and their colleagues, were basin
 
 By the early 21st century, Cann’s bold predictions seemed scientifically vindicated. Modern humans were a recent African species, without admixture from any other lineage. It was a simple enough storyline to emblazon on “We are all Africans” t-shirts that Richard Dawkins [promoted](https://knowyourmeme.com/memes/we-are-all-africans). But then scientific advances had to go complicate a good thing.
 
-![Neanderthal art](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81f636a4-8f02-4fff-bf8e-b4b92f128a63_787x442.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81f636a4-8f02-4fff-bf8e-b4b92f128a63_787x442.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81f636a4-8f02-4fff-bf8e-b4b92f128a63_787x442.jpeg)
+
+Neanderthal art
 
 ### **Neanderthals rediscovered**
 
@@ -121,7 +138,11 @@ The first revolution in the genetic inference of human evolutionary history invo
 
 But the second, unanticipated, revolution in genetic inference came courtesy of ancient DNA. In the 1980’s, Swedish geneticist Svante Paabo was engaged in a quixotic quest to get usable information from ancient remains that had not fully degraded. Paabo set about becoming the first paleo-geneticist. DNA turns out to be a pretty robust and durable molecule (which stands to reason, because as the substrate of inheritance in all species, excess fragility would be a huge liability). Happily for science, a consequence of this is that DNA doesn’t disintegrate immediately, and some residual fragments often turn out to be decipherable long after an organism’s death and decomposition. Paabo first focused on Egyptian mummies, and the published results were such rubbish that colleagues still whisper today that the rather bewildering outcomes were probably due to contamination by a member of his lab’s own DNA. But unperturbed, he continued in his efforts, finally hitting pay dirt in 1997 when his team succeeded in extracting readable mtDNA from Neanderthal samples. Work on mammoths in the 2000s followed those early efforts (good practice for archaic hominids), but his most sensational finding by the end of the decade focused on Neanderthals. First, his team sequenced the whole mtDNA region from a Neanderthal in [2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602844/), confirming that this population’s maternal ancestry lay outside of the genealogical tree of modern humans. But next the team looked at the whole genome and stumbled upon a [surprising result](https://news.ucsc.edu/2010/05/3754.html): non-African modern humans were discernibly more similar to the Neanderthal sample than Africans were.
 
-![Svante Paabo](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d0a0de-0274-4c10-b996-21507d4a31f9_700x494.jpeg)
+[](https://www.amazon.com/exec/obidos/ASIN/B00F226E74//geneexpressio-20)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d0a0de-0274-4c10-b996-21507d4a31f9_700x494.jpeg)
+
+Svante Paabo
 
 For over twenty years, the conventional wisdom within genetics had been that modern humans expanded out of Africa, totally replacing all indigenous groups. The genetic tools of the 2000’s, which began to scan the genomes of modern humans, did not detect any strong signature of exotic ancestry. The conclusion then was that the out-of-Africa model with zero admixture was likely correct. African expansion with total replacement defined the rise to dominance of our lineage over Neanderthals. There were dissenters, but they were in the minority. A 2004 [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020421) whose title boldly proclaimed that “Modern Humans Did Not Admix with Neanderthals during Their Range Expansion into Europe” has more than 300 citations today. In contrast, a 2006 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0959437X06001997) estimating 5% of the modern human genome may have been from Neanderthals and other archaic human populations has garnered only 50 citations (for what it’s worth, the authors were not that far off).
 
@@ -153,7 +174,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5feb0158-239a-4447-8a1e-4e122e190b72_1200x894.jpeg)
 
-Yo mama's mama's mama's mama... etc.
+#### Yo mama's mama's mama's mama... etc.
 
 razib.substack.com
 
@@ -164,5 +185,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

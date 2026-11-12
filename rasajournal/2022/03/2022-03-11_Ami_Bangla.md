@@ -1,9 +1,8 @@
 +++
 title = "Ami Bangla"
 full_title = "Ami Bangla"
-date = "2022-03-11"
 upstream_url = "https://rasajournal.substack.com/p/ami-bangla"
-
+date = "2022-03-11"
 +++
 Source: [here](https://rasajournal.substack.com/p/ami-bangla).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
-Ami Bangla
+#### Ami Bangla
 
 rasajournal.substack.com
 
@@ -29,11 +28,11 @@ Email
 
 ### What connects the Indian and Bangladeshi Bengali life in the subcontinent and beyond?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima)
 
 [Garima](https://substack.com/profile/4266017-garima)
 
-Mar 11
+Mar 11, 2022
 
 1
 
@@ -43,11 +42,13 @@ Mar 11
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
-Ami Bangla
+#### Ami Bangla
 
 rasajournal.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
@@ -111,7 +114,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
-Ami Bangla
+#### Ami Bangla
 
 rasajournal.substack.com
 
@@ -122,5 +125,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

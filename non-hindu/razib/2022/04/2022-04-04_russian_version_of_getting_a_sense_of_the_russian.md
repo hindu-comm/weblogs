@@ -2,8 +2,7 @@
 title = "Russian version of"
 full_title = "Russian version of \"Getting a sense of the Russian soul\" Понять Русскую Душу"
 upstream_url = "https://www.razibkhan.com/p/russian-version-of-getting-a-sense"
-date = "1930-02-05"
-
+date = "2022-04-04"
 +++
 Source: [here](https://www.razibkhan.com/p/russian-version-of-getting-a-sense).
 

@@ -8,79 +8,489 @@ Source: [here](https://sadashree.substack.com/p/roman-calendar).
 
 Roman Calendar
 
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(52,56,57,0.75), rgba(52,56,57,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!nrrU!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b750e64-4a4f-4621-896f-978f7979b4b6_320x580.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![History Under Your Feet](https://substackcdn.com/image/fetch/$s_!Czjb!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49e3bbb6-cb3e-4013-8412-9588de630b18_400x400.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+History Under Your Feet
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Roman Calendar
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
+
 # Roman Calendar
 
 ### How the months got their names
 
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
+
 [](https://substack.com/@sadashree)
 
-![Ratnakar Sadasyula's avatar](https://substackcdn.com/image/fetch/$s_!R73I!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81a2c542-8b3f-4ade-98d2-a40950cffbe3_2640x1980.jpeg)
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Ratnakar Sadasyula">
+
+![Ratnakar Sadasyula's avatar](https://substackcdn.com/image/fetch/$s_!c97-!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F401ec757-a868-4178-b5a8-ac3cbb90ce59_200x200.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
 
 [Ratnakar Sadasyula](https://substack.com/@sadashree)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
 Jul 01, 2025
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
 
 3
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(52,56,57,0.75), rgba(52,56,57,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!nrrU!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b750e64-4a4f-4621-896f-978f7979b4b6_320x580.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![History Under Your Feet](https://substackcdn.com/image/fetch/$s_!Czjb!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49e3bbb6-cb3e-4013-8412-9588de630b18_400x400.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+History Under Your Feet
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Roman Calendar
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://sadashree.substack.com/p/roman-calendar/comments)
+
+<div class="label">
 
 2
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 The original Roman Calendar had only 10 months and the first month was March( Martius) named after the God of War, Mars. It was generally the month where farming and military campaigns would begin, after a lull.
 
-[](https://substackcdn.com/image/fetch/$s_!TP1y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafb38772-d81d-46c2-af61-913647d461e1_250x437.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!TP1y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafb38772-d81d-46c2-af61-913647d461e1_250x437.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 April was from a Latin word Aperire meaning to open as it was believed the blooming of the flowers, fruits happened around this time.
 
-[](https://substackcdn.com/image/fetch/$s_!BAfG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6de8dd78-3506-412b-a26f-f99c809cc24e_250x183.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!BAfG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6de8dd78-3506-412b-a26f-f99c809cc24e_250x183.jpeg)
 
-[](https://substackcdn.com/image/fetch/$s_!o62W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18873b24-e7cc-49c3-86c1-4b7768237054_250x333.jpeg)
+</div>
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!o62W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18873b24-e7cc-49c3-86c1-4b7768237054_250x333.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 May was named after Maia, the Roman Goddess of Growth and it was a generally considered the time for pleasure. June was believed to have been named after Juno and was also called Iunius.
 
-[](https://substackcdn.com/image/fetch/$s_!nrrU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b750e64-4a4f-4621-896f-978f7979b4b6_320x580.jpeg)
+<div class="captioned-image-container">
 
-![undefined](https://substackcdn.com/image/fetch/$s_!nrrU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b750e64-4a4f-4621-896f-978f7979b4b6_320x580.jpeg "undefined")
+![](https://substackcdn.com/image/fetch/$s_!nrrU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b750e64-4a4f-4621-896f-978f7979b4b6_320x580.jpeg "undefined")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+<div class="captioned-image-container">
 
-[](https://substackcdn.com/image/fetch/$s_!fli5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77c0f324-152d-439f-90a4-6168c5304562_320x580.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!fli5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77c0f324-152d-439f-90a4-6168c5304562_320x580.jpeg "undefined")
 
-![undefined](https://substackcdn.com/image/fetch/$s_!fli5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77c0f324-152d-439f-90a4-6168c5304562_320x580.jpeg "undefined")
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+<div class="captioned-image-container">
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+![](https://substackcdn.com/image/fetch/$s_!H6GV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7938b23-a416-486d-99bd-56b1365251a1_250x375.jpeg "This image shows the sculpture Augustus of Prima Porta, a full body portrait of the Roman Emperor Augustus. He is depicted wearing armor that shows the story of one of his diplomatic gains as well as with a small cherub and dolphin by his right leg.")
 
-[](https://substackcdn.com/image/fetch/$s_!H6GV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7938b23-a416-486d-99bd-56b1365251a1_250x375.jpeg)
-
-![This image shows the sculpture Augustus of Prima Porta, a full body portrait of the Roman Emperor Augustus. He is depicted wearing armor that shows the story of one of his diplomatic gains as well as with a small cherub and dolphin by his right leg.](https://substackcdn.com/image/fetch/$s_!H6GV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7938b23-a416-486d-99bd-56b1365251a1_250x375.jpeg "This image shows the sculpture Augustus of Prima Porta, a full body portrait of the Roman Emperor Augustus. He is depicted wearing armor that shows the story of one of his diplomatic gains as well as with a small cherub and dolphin by his right leg.")
-
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 July and August were originally named Quintillius and Sextillius, as they were the 5th and 6th months in the calendar. July got it's name from Julius Caesar, who founded the Julian Calendar, and August from Augustus Caesar. Reason why both of them have 31 days each.
 
@@ -94,14 +504,218 @@ It was King Numa who is believed to have added January, February to the calendar
 
 January gets it's name from Janus, the 2 faced God of Roman mythology, representing a new beginning and transition, while February is named after an ancient purification ritual.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
 
 3
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(52,56,57,0.75), rgba(52,56,57,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!nrrU!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b750e64-4a4f-4621-896f-978f7979b4b6_320x580.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![History Under Your Feet](https://substackcdn.com/image/fetch/$s_!Czjb!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49e3bbb6-cb3e-4013-8412-9588de630b18_400x400.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+History Under Your Feet
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Roman Calendar
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://sadashree.substack.com/p/roman-calendar/comments)
+
+<div class="label">
 
 2
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

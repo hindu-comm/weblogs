@@ -8,50 +8,125 @@ Source: [here](https://thedharmadispatch.substack.com/p/awaiting-an-honest-body-
 
 Awaiting an Honest Body of Creative Literature on the Partition of India
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08512d77-2e38-430b-8f11-8e4b6dfe6bb0_1200x675.jpeg)
+
+#### Awaiting an Honest Body of Creative Literature on the Partition of India
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
+
 # Awaiting an Honest Body of Creative Literature on the Partition of India
 
 ### The existing body of creative literature on the Partition of India is comparatively small in number and notable for its deception and blatant ideological slant.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
-Feb 08, 2023
-
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+Feb 8, 2023
 
 9
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+[](https://thedharmadispatch.substack.com/p/awaiting-an-honest-body-of-creative/comments)
 
 2
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!Ns9T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08512d77-2e38-430b-8f11-8e4b6dfe6bb0_1200x675.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08512d77-2e38-430b-8f11-8e4b6dfe6bb0_1200x675.jpeg)
 
-![Wanted: An Honest Body of Literary Fiction about the Partition of India](https://substackcdn.com/image/fetch/$s_!Ns9T!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08512d77-2e38-430b-8f11-8e4b6dfe6bb0_1200x675.jpeg "Wanted: An Honest Body of Literary  Fiction about the Partition of India")
+![Wanted: An Honest Body of Literary Fiction about the Partition of India](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08512d77-2e38-430b-8f11-8e4b6dfe6bb0_1200x675.jpeg "Wanted: An Honest Body of Literary  Fiction about the Partition of India")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+There is a whole school of American Jewish writers who spend their time damning their fathers, hating their mothers, wringing their hands and wondering why they were born. This isn't art or literature. It's psychiatry. These writers are professional apologists. Every year you find one of their works on the best-seller list. Their work is obnoxious and makes me sick to my stomach. I wrote Exodus because I was just sick of apologizing—or feeling that it was necessary to apologize.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+— Leon Uris
 
-There is a whole school of American Jewish writers who spend their time damning their fathers, hating their mothers, wringing their hands and wondering why they were born. This isn't art or literature. It's psychiatry. These writers are professional apologists. Every year you find one of their works on the best-seller list. Their work is obnoxious and m…
+SIXTY-FIVE YEARS LATER, Leon Uris’s sledgehammering words of defiant courage in the face of pervasive pusillanimity stand both as a beacon of light and as an eternal reminder that truth has few friends. His classic *Exodus* is still relevant not only because of Uris’ abiding conviction in Israel and the Jewish cause but because it is a near-contemporary showcase of that other truth: that literature (or generally speaking, art) is an extraordinarily powerful—and in many cases, an unerring key to understand history, civilisation, and culture in the profoundest sense: through real people.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+We find a deeply philosophical expository echo of the truth of Leon Uris’ words in the preface of Dr. S.L. Bhyrappa’s explosive bestselling literary phenomenon, *Aavarana.* On another occasion, responding to a question on whether he didn’t feel scared to write such a no-holds-barred novel, Dr. Bhyrappa said, “my view of literature is that it is a quest for truth, and if I don’t tell it even now, I think that there will be no meaning for my life. The freedom of expression that our Constitution guarantees us also includes the freedom to tell the truth.” \[Paraphrased\]
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+This in my view, is one of the simplest formulas for the conquest of fear.
 
-Claim my free post
+On the level of pure passion, the angry lament of Leon Uris applies a hundred percent to post-Independence Indian “literature,” about the partition of Bharatavarsha, one of humankind’s greatest tragedies engineered by the combined forces of two Abrahamisms. Literary works based on the Partition are exactly that: an agglomeration of textual apologia, an attempt to induce civilizational amnesia in the present tense.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fawaiting-an-honest-body-of-creative&utm_source=paywall&utm_medium=web&utm_content=101647847&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=101647847&next=https://thedharmadispatch.substack.com/p/awaiting-an-honest-body-of-creative)
+A brief contrast of the global impact of *Exodus* will brilliantly illustrate the existential grand canyon of post-Independence literary shame in India. Here are a few quotes:
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+------------------------------------------------------------------------
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+> Two months after the tenth anniversary, a novel was published in > America that changed the public perception of Israel and the Jews. > Exodus by the Jewish US ex-marine Leon Uris became an international > publishing phenomenon, the biggest best seller in the United States since Gone with the Wind. Both the novel and the subsequent movie thrust Israel into the lives of millions, and with it initiated a new sympathy for the young country. >
+> *Jill Hamilton: God, Guns and Israel* >
+> ------------------------------------------------------------------------
+
+> \[Exodus is\] an antidote to the public silence of American Jews… Something fundamental changed among American Jews as a result of the book. >
+> *Mathew Silver* >
+> ------------------------------------------------------------------------
+
+> \[The effect of Exodus\] is so extraordinary that I wanted to go and > fight for Israel, even die, if need be, for Israel. Israel spoke to the need I had as a young black man for a place where I could be free of being an object of hatred. I did not wish I were Jewish, but was glad that Jews had a land of their own... >
+> *Julius Lester* >
+> ------------------------------------------------------------------------
+
+**The Dharma Dispatch Digest is a reader-supported publication.** To receive new articles and support the sacred work we’re doing, consider becoming a free or paid subscriber.
+
+**Subscribe**
+
+WHICH LITERARY WORK immediately strikes your memory when Partition is mentioned? Until recently, it was the Nehru-cupbearer, Khushwant Singh’s eminent apologia titled *Train to Pakistan.* This shameless pamphlet, disguised as literature, stood unchallenged for decades as the unquestionable Koran of the Nehruvian literary establishment. Then there is Qurratulain Hyder’s voluminous Urdu novel, *Aag ka Dariya* (River of Fire), ambitious in scope but expectedly secular in its outcome. The fact that she chooses the fall of the Nanda dynasty to begin her epic mound of nonsense is quite telling. Next, we have the traitor Yashpal’s Hindi novel, *Jhoota Sach* (False Truth), which is a Comrade’s telling of the Partition through the tainted spectacles of class warfare. Enough said. Of course, the less said about Bhisham Sahni’s *Tamas,* the better. But the undoubted granddaddy of all Partition “literature” emerging from India is Salman Rushdie’s *Midnight’s Children,* which does contain some flashes of honesty but as a whole, the work is clearly tailored to the former colonial master’s sensibilities. The Booker Prize is the best proof of this.
+
+The near-unanimous “conclusion” of all these works is this: no one person or one community is to blame for the Partition. It appears that all of humanity in India decided to voluntarily plunge into murderous insanity. In purely aesthetic terms, a work of literature should not have a conclusion because life itself is a continuum, not a conclusion.
+
+This sort of “literature,” as Uris said, makes us sick, it makes us hate our father and mother, it makes us ashamed of and incites us to disown our own heritage. It distorts and depresses because it prevaricates. But lest I be accused of partiality or bias, here’s a handy test to determine the true mettle of creative literature on the Partition that appeared after “independence” - check the awards the authors received and check the general tenor of reviews.
+
+While I am no fan of prescriptive literature, it must be said that when the author chooses a contemporary theme, honesty, and not *audience,* must drive it. Creative liberty is not an excuse for lying. *Interpretation* cannot become a Persian carpet to hide evasiveness.
+
+As a historical event, the Partition was the savage triumph of a virulent Abrahamic fanaticism which had lost its imperial power but never stopped its ugly quest for reclaiming that power which is needed to sustain this fanaticism. It reclaimed it partially in the form of Pakistan, a usurped geography named after a religion, and after reclaiming it, set about permanently erasing the historical markers of this geography. For a fairly detailed explanation of how this works in real life, how it impacts and scars and mars and brutalizes, see *The Dharma Dispatch* [series](https://www.dharmadispatch.in/culture/the-forgotten-hindu-history-of-pakistan-an-introduction) on the forgotten Hindu geography of Pakistan.
+
+As a theme for a profound literary exploration of the Partition, the story should actually begin from the alien Islamic invasions of India, and not the clever-by-half deception of *Aag ka Dariya* which begins with the downfall of the Nanda dynasty. Or, if the author is untalented or lacks this sort of sweeping erudition, it can begin with the death of Aurangzeb because the modern roots of the Partition, most visibly, were planted in that period. One branch of that poisonous tree that grew up is now Pakistan. And now, over the last decade, we notice other trunks on our TV “debates” where assorted Mullahs and Imams unapologetically say that Mahmud of Ghazni and Aurangzeb are the true heroes of Islam in India.
+
+In many ways, seventy-five years after the Partition of India provides a fertile ground for not only a dispassionate literary exploration of the tragedy, but a virgin field for truth-tellers, especially those who are genuinely disgusted with such phoney passages masquerading as profound literature:
+
+> The Indo-Muslim life-style is made up of the Persian-Turki-Mughal and regional Rajput Hindu cultures. So, what is this Indianness which the Muslim League has started questioning? Could there be an alternate India? >
+> *Aag ka Darya*
+
+In the Sanatana tradition, poets and litterateurs are seated on the same high pedestal as the Rishis. The Partition is both an overwhelming invitation to and a far-reaching challenge for present-day creative writers to test for themselves how best they can elevate themselves to this high pedestal.
+
+Dr. S.L. Bhyrappa pioneered the path with *Aavarana.* If a tenth of that summit is reached, that is saying a lot given the present aridity in the field of creative fiction.
+
+------------------------------------------------------------------------
+
+### A Heartfelt Appeal: The Dharma Dispatch Needs Your Support
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*. It is your subscriptions that enables and empowers us to produce in-depth essays exposing anti-Hindu narratives and hidden facets of mainstream opinion.
+
+*Every rupee of your subscription pays our bills and helps us offer more and better* *content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma and in combating Adharma, click the button below.
+
+**Subscribe**
+
+------------------------------------------------------------------------
+
+9
+
+[](https://thedharmadispatch.substack.com/p/awaiting-an-honest-body-of-creative/comments)
+
+2
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

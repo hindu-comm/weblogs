@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/go-west-young-siberian).
 
 Go west, young Siberian
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe18e83ce-fe5d-4b5d-806c-3d042c257794_913x516.jpeg)
+
+#### Go west, young Siberian
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # Go west, young Siberian
 
 ### A history of Finnish genes and culture: part 3 of 6
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -22,15 +38,37 @@ Jun 25, 2021
 
 ∙ Paid
 
-26
+21
 
-4
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe18e83ce-fe5d-4b5d-806c-3d042c257794_913x516.jpeg)
+
+#### Go west, young Siberian
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/go-west-young-siberian/comments)
+
+5
+
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!y6aD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe18e83ce-fe5d-4b5d-806c-3d042c257794_913x516.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe18e83ce-fe5d-4b5d-806c-3d042c257794_913x516.jpeg)
 
-![](https://substackcdn.com/image/fetch/$s_!y6aD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe18e83ce-fe5d-4b5d-806c-3d042c257794_913x516.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe18e83ce-fe5d-4b5d-806c-3d042c257794_913x516.jpeg)
 
 Distribution of the Siberian N1c Y-chromosomal haplogroup
 

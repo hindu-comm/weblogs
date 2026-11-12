@@ -1,9 +1,8 @@
 +++
 title = "Posts of Substack past,"
 full_title = "Posts of Substack past, posts of Substack present"
-date = "2022-12-25"
 upstream_url = "https://razib.substack.com/p/posts-of-substack-past-posts-of-substack"
-
+date = "2022-12-25"
 +++
 Source: [here](https://razib.substack.com/p/posts-of-substack-past-posts-of-substack).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52137b41-e56e-4617-b659-bf18d8400947_1600x1200.jpeg)
 
-Posts of Substack past, posts of Substack present...
+#### Posts of Substack past, posts of Substack present...
 
 razib.substack.com
 
@@ -29,25 +28,27 @@ Email
 
 ### Merry Christmas, and some reading recommendations if you have downtime
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 25, 2022
 
-46
+50
 
 [](https://razib.substack.com/p/posts-of-substack-past-posts-of-substack/comments)
 
-16
+17
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52137b41-e56e-4617-b659-bf18d8400947_1600x1200.jpeg)
 
-Posts of Substack past, posts of Substack present...
+#### Posts of Substack past, posts of Substack present...
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52137b41-e56e-4617-b659-bf18d8400947_1600x1200.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52137b41-e56e-4617-b659-bf18d8400947_1600x1200.jpeg)
 
@@ -181,7 +184,7 @@ How about you? What are you looking forward to reading in 2023? Comments are ope
 
 [](https://razib.substack.com/p/posts-of-substack-past-posts-of-substack/comments)
 
-16
+17
 
 [](javascript:void(0))
 
@@ -189,7 +192,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52137b41-e56e-4617-b659-bf18d8400947_1600x1200.jpeg)
 
-Posts of Substack past, posts of Substack present...
+#### Posts of Substack past, posts of Substack present...
 
 razib.substack.com
 

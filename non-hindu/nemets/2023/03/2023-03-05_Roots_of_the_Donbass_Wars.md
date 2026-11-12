@@ -1,71 +1,508 @@
 +++
 title = "Roots of the Donbass"
 full_title = "Roots of the Donbass Wars"
-date = "2023-03-05"
 upstream_url = "https://nemets.substack.com/p/roots-of-the-donbass-war"
-
+date = "2023-03-05"
 +++
 Source: [here](https://nemets.substack.com/p/roots-of-the-donbass-war).
 
 Roots of the Donbass Wars
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-#### Roots of the Donbass Wars
+<div class="modal-table">
 
-nemets.substack.com
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(104,104,104,0.75), rgba(104,104,104,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!xtwj!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Roots of the Donbass Wars
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Roots of the Donbass Wars
 
 ### Shadows of the Middle Ages
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)](https://substack.com/profile/22641223-peter-nimitz?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
 
-[Peter Nimitz](https://substack.com/profile/22641223-peter-nimitz)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Mar 5
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-119
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://nemets.substack.com/p/roots-of-the-donbass-war/comments)
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
 
-55
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
 
-[](javascript:void(0))
+[](https://substack.com/@nemets)
 
-Share this post
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Peter Nimitz">
 
-#### Roots of the Donbass Wars
+![Peter Nimitz's avatar](https://substackcdn.com/image/fetch/$s_!ximq!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
 
-nemets.substack.com
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
+
+[Peter Nimitz](https://substack.com/@nemets)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+Mar 05, 2023
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+232
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(104,104,104,0.75), rgba(104,104,104,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!xtwj!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Roots of the Donbass Wars
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://nemets.substack.com/p/roots-of-the-donbass-war/comments)
+
+<div class="label">
+
+90
+
+</div>
+
+<div class="label">
+
+7
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 It was 9:00 am in the city of Slavyansk in eastern Ukraine, on 12 April 2014. A group of 52 armed men, about 80% of them Ukrainian citizens, stormed the city’s Interior Ministry building. The government policemen in the building opened fire on the armed men, but quickly surrendered to the larger force after they fired automatic weapons into the building. The armed men, led by the shadowy Russian Colonel Igor Strelkov, tore down the building’s Ukrainian blue and yellow flag. They raised the Russian white, blue, and red tricolor.
 
 Strelkov and his men formed the nucleus of a rebellion in Ukraine’s east. Bolstered by locals unhappy with the overthrow the Ukrainian government in February 2014 as well as by foreign volunteers, they fought a series of battles in the predominately Russian-speaking Donbass region that lasted into August before a Russian intervention saved the rebellion.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider becoming a paid subscriber to support my writing
 
-**Subscribe**
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 History is a complex tapestry with many threads, and is constantly rewoven. Sometimes threads decay and disappear. Other times old threads are strengthened. Some threads are ripped out, and replaced with new threads. The shapes made on the tapestry are usually agreed upon, but the story they tell is usually disputed.
 
@@ -75,7 +512,11 @@ The Russians and Ukrainians are both East Slavic peoples, the largest branch of 
 
 The steppe is a relatively flat and grassy ecoregion that stretches from Hungary in the west to Manchuria in the east with only a handful of barriers. Most of Ukraine is part of the Pontic Steppe, which stretches from the Carpathian Mountains in the west of Ukraine (pictured in the map below) to [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan). Part of the Pontic Steppe in Ukraine is more properly called a forest-steppe as it is a transition region from the steppe proper to the forests of the north. While also fairly flat, the forest-steppe has patches of trees and a more varied ecology.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!xtwj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+
+</div>
 
 The steppe offered no protection for any nation, and the lack of natural defenses made it a risky place for people to develop. Raiding was easy and defense was difficult. So for thousands of years, nomadic horsemen ruled the region. They grew some crops, but focused on herding their cattle, sheep, goats, and horses. Faced with threats, they could run away and live with much of their wealth in animals. By contrast, sedentary farmers who fled their fields would become impoverished and starve. The farmers could not bring much of their wealth with them.
 
@@ -91,7 +532,11 @@ The Avars were succeeded on the Pontic Steppe by several more Turkic nations, am
 
 The Khazar dominance of the Pontic Steppe shielded the Slavs from the worst of the steppe nomads. A single hegemon may be oppressive, but for Slav farmers it was more predictable than multiple feuding powers. The East Slavs again grew in population under countless forgotten chiefs and petty kings who reigned in the shadow of the Khazars. As they grew in numbers, the Khazars were increasingly unable to control the Slavs, and Slavic wealth attracted foreign merchants.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff15b454-3131-4ca2-85bf-94e115cf5e94_526x747.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!anb-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff15b454-3131-4ca2-85bf-94e115cf5e94_526x747.png)
+
+</div>
 
 In the 8th century AD Scandinavian seafarers reopened an old trade route from the Baltic Sea down the Volga River, connecting northeastern Europe with the Caucasus and Iran. This trade route mostly bypassed the East Slavic tribes and passed through the Khazar realm. In the early 9th century, this changed. With a series of migrations causing chaos on the Volga, the Scandinavian seamen shifted their trade route from the Volga River to the Dnieper River, sailing to the Black Sea and Byzantium rather than the Caspian and Iran.
 
@@ -101,7 +546,11 @@ The journey was dangerous but rich enough that those Scandinavians, called the [
 
 In the mid-9th century, a Varangian group called the Rus’ was invited by a collection of East Slavic tribes to rule over them. The Rus’ leader, Ryurik, agreed. Of Finnic paternal ancestry, [Ryurik](https://en.wikipedia.org/wiki/Rurik) was culturally a Varangian. He, his descendants, and their Varangian retainers would unify most of the East Slavs into a new realm. While the East Slavs kept their tribal names for a time, the Dregovichi, Krivichi, Vyatichi, Drevlyane, and Ilmen Slovenes all came to see themselves as Rus’ in fits and bursts.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32cd91d8-5d8c-4cdb-af44-afe3adf0d800_767x952.jpeg)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!4L15!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32cd91d8-5d8c-4cdb-af44-afe3adf0d800_767x952.jpeg)
+
+</div>
 
 Leveraging their wealth and control of trade, the Rus’ warred with the Khazars, the Volga Bulgars, and the Byzantines in the 9th and 10th centuries. Under the reign of Svyatoslav in the mid-10th century, the power of the Khazars and the Balkan Bulgarians was broken, and the Rus’ emerged as the dominant power of eastern Europe. Dying young, Svyatoslav left his realm divided between his sons.
 
@@ -119,7 +568,11 @@ Even as the realm fragmented in the period between the death of Yaroslav and the
 
 Trade and labor specialization naturally increased with larger populations and the development of towns. Trade was conducted along three main routes. The first two were the old Varangian routes down the Volga and the Dnieper. But the third - at the southwestern corner of the Rus’ realm - was new. The regions of Galicia and Volynia in modern day western Ukraine had access to several rivers. They could sail west on their rivers to the Dnieper and the Black Sea, go south to the Danube and into Central Europe, north to the Vistula River and the Baltic Sea, or southeast to the Dniester and the Black Sea by a route that didn’t pass by potential enemies on the Dnieper.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98d1405f-2e62-457a-8411-5bdc4adfeac5_992x748.jpeg)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!6uaX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98d1405f-2e62-457a-8411-5bdc4adfeac5_992x748.jpeg)
+
+</div>
 
 Transportation by sea even in the present is cheaper than transportation by land. In the past, it was even more economically competitive, and unlike land transportation, required little capital investment. Thus trade and military power grew out of rivers. Religion, language, and much else spread by them too.
 
@@ -129,7 +582,11 @@ These dialects were not the only dialects that were forming at the time. Politic
 
 Similar linguistic processes occurred in Germany, where Dutch and Flemish evolved to become separate languages from standard German due to political fragmentation and geographic isolation. In France, other dialects were completely stamped out by centralization measures in the last few centuries. Spain by contrast still deals with separatists speaking a different [Romance language](https://en.wikipedia.org/wiki/Romance_languages) whose history was shaped by their engagement with people in the Mediterranean basin rather than the Atlantic basin. Dialectical leveling or differentiation was partly political, but also partly hydrological.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F934518b8-68a4-482c-a356-02be76fe8029_552x760.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!uFxY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F934518b8-68a4-482c-a356-02be76fe8029_552x760.png)
+
+</div>
 
 The fragmentation of the Rus’ realm from the 11th to early 13th centuries created two states in what is now western Ukraine: Galicia and Volhynia. Bitterly divided in the 12th century, they were united under the personal rule of Roman the Great in 1199. In his brief reign, Roman curbed the power of the nobility, made an alliance with Poland against the encroaching Hungarians, and conquered Kiev.
 
@@ -155,11 +612,19 @@ Invasions from the north and west would add to the growing distinctiveness of th
 
 The Lithuanians are a Baltic, rather than Slavic people. Comprised of feuding pagan tribes at the dawn of the second millennium, they gradually unified in the face of the advancing Germans of the Teutonic Order. Over the course of the 13th and 14th centuries, the Lithuanians took advantage of the power vacuum in the western Rus’ lands. Even as they lost ground to the relentless Teutonic Order in their homeland, they were successful against both the [Mongols](https://en.wikipedia.org/wiki/Battle_of_Blue_Waters) and the Rus’. Belarus, most of Ukraine, and parts of modern Russia were under Lithuanian rule by the end of the 14th century.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81ad2060-b043-4b31-8cd3-8f7a011ac286_800x1118.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!IBs9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81ad2060-b043-4b31-8cd3-8f7a011ac286_800x1118.png)
+
+</div>
 
 The Lithuanians were a primitive people compared to the Catholic Poles to the west and the Orthodox Rus’ to the east. Their conquest of many Rus’ lands thus drove not a Lithuanization of the East Slavs, but a Slavicization of the Lithuanians. The Lithuanians adopted the written Rus’ language as they lacked their own system of writing. Lithuanians princes married Rus’ noblewomen and gave their children Slavic names. Some accepted Orthodox baptism. The Lithuanian Grand Duke Jogaila, later King of Poland from 1386-1434 had a Rus’ princess for a mother and spoke the Rus’ language even though he identified as a Lithuanian. Other Lithuanian Grand Dukes also spoke the Rus’ language natively into the 15th century.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161e338d-a95f-4ddb-bcc0-0aa55fc3933b_1024x976.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!xFUc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161e338d-a95f-4ddb-bcc0-0aa55fc3933b_1024x976.png)
+
+</div>
 
 Had Lithuania remained an independent state, it would have eventually become Orthodox and East Slavic speaking. Lithuanian polytheism was ill-adapted for the increasing sophistication of the late medieval world, and made Lithuania a target for Catholic crusaders. In addition, Lithuanians were a mere 20% of the populations and only half of the nobility. In time they would have been absorbed by their East Slavic subjects, and indeed were being absorbed in the course of a few decades of rule over parts of the Rus’ lands. Lithuania even made an effort in the 1360s to restore the Orthodox Metropolitan to Kiev so as to bring the Orthodox Church in their lands under their control. However, fate would drive the Lithuanians and the Rus’ apart.
 
@@ -169,7 +634,11 @@ Poland in 1385 had a mere girl, Jadwiga, as its ruler. The Polish nobility, havi
 
 The Lithuanians saw that they could benefit from a dynastic union with Poland. The Poles could aid them in converting to Catholicism. Conversion to Catholicism would reduce the military threat of the Teutonic Order by removing the justification for its crusades, balance out the growing strength of Moscow, and would provide Lithuanians a religious distinctiveness that would prevent the masses of their Orthodox Rus’ subjects from assimilating them. Thus Jogaila agreed to the [Union of Krewo](https://en.wikipedia.org/wiki/Union_of_Krewo) and to marry Jadwiga. [Poland and Lithuania were thus united](https://www.amazon.com/Oxford-History-Poland-Lithuania-Polish-Lithuanian-1385-1569/dp/0198800207?_encoding=UTF8&qid=1677086959&sr=8-1&linkCode=ll1&tag=nemets09-20&linkId=ffcd0f6c5c445e00d657e887aeff9919&language=en_US&ref_=as_li_ss_tl), though weakly.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F514401da-5c39-4d90-8f6c-f17632028f98_591x512.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!h0DS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F514401da-5c39-4d90-8f6c-f17632028f98_591x512.png)
+
+</div>
 
 Lithuania’s conversion to Catholicism and the union with Poland alienated many of Lithuania’s Orthodox Rus’ subjects. Rus’ political structures such as the Principality of Kiev were abolished, their hereditary nobles replaced by appointed officials. Certain failed dynastic maneuvers in Lithuania were backed by Orthodox nobles, and their failure served to discredit their cause and advance that of the Catholics.
 
@@ -185,7 +654,11 @@ By contrast, the union of Poland and Lithuania had far more centrifugal tendenci
 
 Such fears and lack of trust were only partly obviated during the Russian invasions of Lithuania in the late 15th and early 16th centuries. Ivan III declared to Lithuania in 1493 that he, not the Catholic dynasty of Poland-Lithuania, was the true ruler of all Rus’. The privileges and rights granted to the Orthodox Rus’ nobility under the Lithuanians kept most of them loyal during the ensuing struggles - in particular Grand Duke Alexander of Lithuania’s 1494 edict confirming the privileges of the Orthodox Church granted by Yaroslav the Wise in the 11th century. The Lithuanian nobility’s class interests were in liberty for themselves and oppression for their serfs - not for a unified Russian state with an all-powerful ruler.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72903289-c5b7-4471-a0ca-d725cd663a7c_800x868.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!xjvw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72903289-c5b7-4471-a0ca-d725cd663a7c_800x868.png)
+
+</div>
 
 The liberty for nobles in the Grand Duchy of Lithuania that kept them true wasn’t the result of the strength of the government, but rather its weakness. After the death of Casimir IV in 1492, the Lithuanian nobility forced Casimir’s successor, Alexander, to agree to a set of privileges in return for their votes in his ducal election. While the agreed privileges included protection against imprisonment without criminal conviction that benefitted all noblemen, the privileges mostly benefitted the great landholders. The Grand Duke of Lithuania (sometimes the same as the King of Poland, but at that time a separate, subordinate ruler in a dynastic union) had to seek the ducal council’s advice and receive approval from the council in order to perform a number of actions. Those actions included the dispatch of ambassadors, appointments and dismissals to and from offices, lease cancellations, and most importantly government expenditures. The Grand Duchy of Lithuania had thus formally evolved into an aristocratic oligarchy. The Grand Duke would retain his ducal lands, but the great landholders would be the dominant force to the end.
 
@@ -193,7 +666,11 @@ The Orthodox Rus’ nobility of the Grand Duchy of Lithuania grew in strength an
 
 Lithuanian fears about Polish aggrandizement at its expense were well founded. During the second phase of the Livonian War 1547-1583 in the 1560s, Poland used its financial and military contributions to the conflict (existential for Lithuania, whose northern and eastern frontiers were under Russian invasion) as successful leverage for closer integration. The [Union of Lublin in 1569](https://en.wikipedia.org/wiki/Union_of_Lublin) replaced the merely dynastic union (the ruler reigning simultaneously in two separate countries with their own laws and institutions) with a real union (where the ruler reigned in one united realm). While the Orthodox Rus’ of Galicia had long been under Polish ruler, the Union of Lublin transferred the predominantly Orthodox Rus’ lands of Volhynia, Podolia, and Kiev from Lithuania to Poland as well. The branch off of the medieval Rus’ that modern Ukrainians and Belarusians both claim thus split. The ancestors of the Ukrainians were to be under Poland, the ancestors of the Belarusians under a truncated Lithuania.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6ef24d4-e844-4108-a910-361a7e0c978c_744x628.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!tuS0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6ef24d4-e844-4108-a910-361a7e0c978c_744x628.png)
+
+</div>
 
 Conditions for ordinary people worsened over the course of the 15th and 16th centuries in Ukraine. The Polish government, dominated by the nobility, gradually restricted the ability of peasants to leave the lands that they worked. In 1518, the Polish government decided to reject any complaints made by subjects not owned by the crown, opening peasants up for even worse abuse. In 1557, peasants lost any rights they had to land. In 1573, peasants were forbidden from leaving the lands that they worked altogether. Freeholders were rare in 16th century Poland, as were crown or church serfs. The vast majority of the population lived and worked on estates owned by nobles. Thirteen families controlled 57% of all of the land in Volhynia, and one family ruled almost the entire left bank of Kiev. Whereas in Russia the state grew stronger with each territorial acquisition as it could distribute more land to its servicemen and tax it to pay its bureaucrats, in Poland-Lithuania it was the nobility who grew stronger. By 1640, a tenth of landholders in Ukraine ruled over two-thirds of the population.
 
@@ -201,7 +678,11 @@ Poland had always been less tolerant of Orthodoxy than Lithuania, and sought to 
 
 The Uniate hierarchs leveraged their support from the Polish government to seize property from Orthodox clergy who refused to join them. The Orthodox Church itself was outlawed, although it was legalized again in 1607. Orthodoxy and its believers found themselves needing a new protector, as did the masses of Rus’ serfs under increasingly oppressive Polish masters. They all found that protector in the Cossacks.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08fa58dc-8c8a-4f66-9f9c-436816c2dd88_658x806.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!xAn4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08fa58dc-8c8a-4f66-9f9c-436816c2dd88_658x806.png)
+
+</div>
 
 The steppe in what is now southern Ukraine and southern Russia had been largely depopulated since the Mongol invasions, and even the forest steppe was lightly populated into the late 16th century. Few dared to live in the steppe due to the ever-present threat of horse-riding slavers. Among the few were the Cossacks. Originating as Tatar renegades from the Khanate of Crimea who served as mercenaries for Lithuania or Russia, the Cossacks of Ukraine gradually became largely Slavic due to waves of Rus’ peasants fleeing Polish oppression into the steppe.
 
@@ -227,7 +708,11 @@ The fortified lines attracted immigrants and refugees from the Rus’ and Cossac
 
 Orthodox religious figures had looked to Moscow for aid as far back as the 1590s when the Union of Brest attacked the Orthodox Church, and Moscow had answered their pleas. By 1623 Orthodox monks from Ukraine arrived in border towns every year requesting assistance from the Tsar. Some carried messages from the hierarchs in Kiev and [Przemysl](https://en.wikipedia.org/wiki/Przemy%C5%9Bl) requesting that the Tsar conquer their land. In time, he would oblige.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e4cd801-1edb-4583-a48f-ff852c39a868_744x504.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!7KEl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e4cd801-1edb-4583-a48f-ff852c39a868_744x504.png)
+
+</div>
 
 The twenty year period from 1640 to 1660 was an unusually tumultuous one. The British Isles fell into civil strife, there was chaos in the Ottoman Empire, the Ming dynasty in China was overthrown by the Manchu, and a third of Poland would die in what would be called [“The Deluge”](https://en.wikipedia.org/wiki/Deluge_(history)). The Little Ice Age was very bitter in that twenty year span, bringing famine and misery throughout the world. Ukraine too suffered. Bread prices were high in 1638, the cold summer of 1641 led to a sparse grain harvest, spring frosts in 1642 and 1643 worsened the food situation, then plagues of locust in 1645 and 1646 devoured much of what could be harvested.
 
@@ -243,13 +728,21 @@ In January of 1654 Russian ambassadors met with Cossacks at the town of Pereyasl
 
 Thus was the beginning of the end of the second tradition of Ukrainian statehood, which had only a few years of fluorescence. Always dominated by either Poland or Russia, the Zaporozhian Cossacks were never truly independent in the way that the earlier Kingdom of Galicia-Volhynia had been. Nonetheless, some of the Cossacks had a concept of national identity independent of both Poland and Russia, as well as a government that claimed to act in an exclusive national interest. That contrasts with Galicia-Volhynia, which considered itself part of a broader Rus’ nation that was not exclusive of the northeastern states such as Vladimir and Novgorod that later became a core part of Russia. However, it should not be forgotten that there was a strong pro-Russian element within the Cossack communities.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f611d0f-f57b-45c4-b80b-73cf4ea86337_548x620.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!fxbn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f611d0f-f57b-45c4-b80b-73cf4ea86337_548x620.png)
+
+</div>
 
 Others Cossack leaders such as [Ivan Vygovsky](https://en.wikipedia.org/wiki/Ivan_Vyhovsky) and [Pyotr Doroshenko](https://en.wikipedia.org/wiki/Petro_Doroshenko) carried on the vision of an independent Cossack state, or at least a Cossack state equal to Lithuania and Poland within the Polish-Lithuanian Commonwealth, into the 1670s. While supported by some of the [Cossack elites](https://en.wikipedia.org/wiki/Starshina) on the [Left Bank](https://en.wikipedia.org/wiki/Left-bank_Ukraine), class divides led the more egalitarian and Russophilic Zaporozhians remaining in alignment with Moscow rather that the Cossack elites.
 
 Russia and Poland-Lithuania agreed to a truce after thirteen years of war in 1667. The right (west) bank of the Dnieper was left in the hands of Poland, while the left (east) bank was left in the hands of Russia. Kiev, despite being on the right bank of Dnieper, was assigned to Russia. The Orthodox nobility as well as Cossack elites kept and even increased their status in the autonomous Hetmanate under Russian rule. Polish nobles on the left bank had been killed or had fled west, where the ideology of Sarmatianism excluded dual loyalties to Orthodoxy and Rus’ heritage. Whereas Ukrainians had autonomy to various degrees under Russia, they would never regain it under Poland.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F713ef400-114b-4ed3-b1c5-087dac66e3e2_768x514.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!sY1c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F713ef400-114b-4ed3-b1c5-087dac66e3e2_768x514.png)
+
+</div>
 
 The Ukrainians of the late 17th century were thus divided across six administrations: Free (Sloboda) Ukraine, the Hetmanate, Zaporozhye, the Polish palatines, Transylvania, and the Crimean Khanate. The last two were irrelevant - neither the Rus’ sheepherders of Transcarpathia nor the slaves under the Crimean Khanate had much of a historical memory or any political power.
 
@@ -257,7 +750,11 @@ The Polish palatines west of the Dnieper River were ruled by appointees of the k
 
 In spite of decades of immigration from further west, [Free Ukraine](https://en.wikipedia.org/wiki/Sloboda_Ukraine) was still sparsely populated at the end of the 17th century, with merely 120,000 people in the regimental centers and tax free settlements. Among the regimental centers were Kharkov, Sumy, and Izyum. The Little Ice Age and chaos in [The Ruin](https://en.wikipedia.org/wiki/The_Ruin_(Ukrainian_history)) in the mid-17th century had killed a large part of the Ukrainian population. Nonetheless, the autonomy given to Free Ukraine, the growing prosperity of the tax-free settlements, and the protection from the steppe raiders allowed for the population to grow over the course of the 18th century. In 1773, Free Ukraine’s population had grown to 660,000. In 1765, Russian control over Free Ukraine was solidified and its traditional rights were abolished. As the regimental centers were never united but administered separately by Moscow, there were few protests.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64631723-de43-4cf0-94da-f17ea24098aa_757x568.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!dT1Z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64631723-de43-4cf0-94da-f17ea24098aa_757x568.png)
+
+</div>
 
 The [Hetmanate](https://en.wikipedia.org/wiki/Cossack_Hetmanate) was the autonomous but Russian-aligned successor to Hmelnitsky’s Cossack state from the 1640s and 1650s. United under one ruler, the Hetman, it maintained its separate identity until its gradual abolition in the 1760s and 1770s under Catherine the Great. The Cossack elites who had struggled to gain recognition as nobles in Poland-Lithuania became a de facto nobility (the Noted War Comrades). While the elites began as a service nobility whose wealth depended on the fulfillment of duty to the state, they quickly became a landed nobility - that is their families could inherit their offices and properties after their deaths. In spite of this, the peasantry was relatively free and retained their freedom of movement for the entire existence of the Hetmanate. The old Polish nobility had been extinguished in Hmenlnitsky’s uprising, so all nobles in the Hetmanate of either Orthodox Rus’ noble or Cossack origin until the 1710s when the Russian government began appointing others such as German immigrants. The Hetmanate was an Orthodox state, and came under the jurisdiction of the Russian Orthodox Church and the Patriarch in Moscow.
 
@@ -267,7 +764,11 @@ Zaporozhye was the least populous of the four relevant areas of Ukraine. With a 
 
 With Poland-Lithuania in decline and the Crimean Tatars less of a threat, Russia turned north to face mighty Sweden. Despite a population that was only a little over a million, Sweden had been the dominant power in northeastern Europe for over a century. Sweden ruled the outlets of a number of rivers, thus giving them dominance of the Baltic and enabling them to ship troops and supplies far more cheaply than their enemies. The Swedish government also controlled an unusually large fraction of the economy, enabling it to mobilize power equal to that of far larger states. As with most pre-modern states, the general population’s lack of birth control led to the nation being able to recover from even horrendous battlefield losses - as long as the political structure, transportation network, and agricultural system remained intact. State collapse was worse than even the most costly wars.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e7f2f4-07a9-48ab-bcaf-7b8d96c0a9b2_800x1116.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!eoo5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e7f2f4-07a9-48ab-bcaf-7b8d96c0a9b2_800x1116.png)
+
+</div>
 
 The first eight years of the war were fought in the Baltic, Denmark, and Poland. The Cossack Hetman, Ivan Mazepa, while far from the fighting, was required by Russia to send troops and laborers north for the war effort. An old man who had been loyal to the Russian Tsar [Peter the Great](https://en.wikipedia.org/wiki/Peter_the_Great) since 1689, Mazepa faithfully fulfilled his duties. Ukrainians were deeply unhappy with his extensive conscription. With 40,000 Cossacks sent into battle out of a population of a few hundred thousand, most had immediate relatives fighting in a far-away war that didn’t seem to involve them at all. In addition, Russia’s weakness against tiny Sweden made it appear that their servitude to Moscow was unwise.
 
@@ -289,7 +790,11 @@ The Cossack elites were integrated into the Russia on good terms. Military units
 
 The failure of the Polish-Lithuanian government to solidify its authority over the nobility in the 16th century had been a mere problem when it was stronger than all of its Christian neighbors, but by the 18th century it was an existential issue. Foreign governments openly intervened in Polish elections and the nobility, favoring a weak government over a strong one, refused to allow reforms. Poland-Lithuania was divided in 1772, 1793, and 1795 between Prussia, Russia, and Austria.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa68f4322-2086-48b1-9472-47e7d0f7cd6b_702x799.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!KYIo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa68f4322-2086-48b1-9472-47e7d0f7cd6b_702x799.png)
+
+</div>
 
 At the end of the partitions of Poland, Russia had almost completed its dream of reunifying the lands of medieval Rus’. About 85% of Ukrainians fell under Russian rule, while the remainder fell under Austria. The partitions of Poland also aided Russia’s absorption of its Ukrainian territories by securing the entire length of the Dnieper River. Navigable from Smolensk to the rapids well to the south of Kiev, the Dnieper served as a highway for the Russian Empire, enabling faster communication and cheaper shipping, thus further integrating the Empire.
 
@@ -325,7 +830,11 @@ The First World War laid the groundwork for the Second and much more. Vast armie
 
 The democratic government that succeeded [Tsar Nikolay II](https://en.wikipedia.org/wiki/Nicholas_II_of_Russia) after the [February Revolution of 1917](https://en.wikipedia.org/wiki/February_Revolution) did its best to maintain the front against the Germans and Austrians. However, the total collapse of the government in the [Bolshevik Revolution](https://en.wikipedia.org/wiki/Russian_Revolution) later that year led to the collapse of the front as well. Ukraine disintegrated as well, and was feuded over by a number of factions until 1921. The Bolsheviks, Don Cossacks, and the Poles are the most relevant. The Bolsheviks were organized into three groups, one based in Kiev, one in Kharkov, and the last and smallest in Odessa.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdeec94f3-a23e-4b68-a9a1-42cb2f076277_1065x483.png)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!55Ij!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdeec94f3-a23e-4b68-a9a1-42cb2f076277_1065x483.png)
+
+</div>
 
 The Bolsheviks in Kharkov proclaimed the Donetsk-Krivoy Rog Soviet Republic, and took an explicitly anti-national understanding of territory. Instead of language or ethnicity determining the borders of the state, they were instead to be based off of economically self-sufficient regional units. In their case, that economically self-sufficient regional unit was to be the heavily industrialized Donets River Basin and some adjacent economically integrated territory which included Kherson, Rostov, Taganrog, Novocherkassk, and Yekaterinoslav (modern Dnipropetrovsk). Industrialists had proposed the unity of what became the DKR as early as the 19th century - uniting the former Tsarist governorates of Yekaterinoslav and Kharkov with the western parts of the Don Cossack lands.
 
@@ -337,7 +846,11 @@ Opposed to the Bolsheviks in the Donbass were the Don Cossacks. Whereas Russian-
 
 In the aftermath of the Russian Revolution and Civil War, the Bolsheviks enacted a [De-Cossackization](https://en.wikipedia.org/wiki/De-Cossackization) policy. Many Don Cossacks were killed, all suffered, their political structure was abolished, and their home was divided between Soviet Ukraine and Soviet Russia within the Soviet Union. Nonetheless, their memory survived in some minds. When [Lugansk Village](https://en.wikipedia.org/wiki/Stanytsia_Luhanska) rose in rebellion in 2014 against Ukraine alongside the rest of the Donbass, it flew the flag of the Don Cossack Host rather than that of the Lugansk People’s Republic or Russia.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20d0f6e-e0a9-4918-9ca4-c8b75d845a23_1920x1440.jpeg)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!FsM1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20d0f6e-e0a9-4918-9ca4-c8b75d845a23_1920x1440.jpeg)
+
+</div>
 
 Soviet Ukraine was independent in theory between 1920 and 1922, only bound to Soviet Russia by a treaty of alliance. However, in practice Ukraine was administered by the same Bolsheviks who ruled Russia. Formal political union took place in 1922 when the Union of Soviet Socialist Republics was formed. Russia, Belarus, Ukraine, and the Transcaucasus were the original union republics underneath the USSR. While nominally a federal system, the 1924 constitution placed all political and economic authority in the hands of the central government. Nonetheless, there would be movements both towards greater integration as well as greater autonomy throughout the Soviet period.
 
@@ -387,11 +900,11 @@ Some of those alternatives which played an outsized role in the First Donbass Wa
 
 While supported by only a tiny fraction of the Ukrainian ([2.15% in Ukraine](https://en.wikipedia.org/wiki/National_Corps), less in Russia) and Russian populations, fascists played a role on both sides, although substantially more fought for Ukraine than Russia. Some Ukrainians who had fled to the West (in particular to Canada) after WWII glorified their ancestors and promoted nationalist ideals even as they participated in otherwise liberal immigrant patronage networks. As they returned home after the fall of communism, they brought back not just the old ideology, but also new rightist cultural elements and ideological precepts. The metal genre of music as well as North American White nationalist texts such as those of [William Pierce](https://en.wikipedia.org/wiki/William_Luther_Pierce) meshed with the growing football hooligan, neopagan, and gym scenes to create a vibrant fascist movement.
 
-Communism, while less popular among younger age cohorts, was seen as vindicated by many middle aged and elderly people in the Donbass. The impoverishment of the masses contrasted strongly with the tremendous wealth held by the post-independence oligarchs. A popular revival of heterodox communist thought influenced many, including the pro-Russian National Bolsheviks who sent a contingent of fighters to the Donbass in 2014.
+Communism, while less popular among younger age cohorts, was seen as vindicated by many middle aged and elderly people in the Donbass. The impoverishment of the masses contrasted strongly with the tremendous wealth held by the post-independence oligarchs. A popular revival of heterodox communist thought influenced many, including the pro-Russian [National Bolsheviks](https://en.wikipedia.org/wiki/Interbrigades) and [Essence of Time](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%82%D1%8C_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8#%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_%D0%BD%D0%B0_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B5_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B) who sent contingents of fighters to the Donbass in 2014.
 
 While Protestantism has been practiced in Ukraine for centuries, most of its growth is recent. Intensely persecuted in the Soviet period, Protestantism has been spread by active missionary efforts since 1991. Understanding the problems caused by drug and alcohol abuse, Protestants and Pentecostals generally took a strong stance against the use of mind-altering substances. Their successes won them numerous converts, amounting to perhaps 2% of the overall population. Conversion to Protestantism breaks the legacy ties that Ukrainians have with the Orthodox Church and aligns members with their Western co-religionists. Protestants also formed like-minded groups and were overrepresented in supporting the 2014 revolution and the fighting against Russian separatists in the Donbass.
 
-The Ukrainian government’s mismanagement continued into the 2010s. It blew \$15 billion on [UEFA Euro 2012 football championship](https://en.wikipedia.org/wiki/UEFA_Euro_2012#Concerns_and_controversies) - 8.2% of its total economy. The costs brought Ukraine to the brink of a debt default. Aiming at improving its economic situation, the government under the pro-Russian Victor Yanukovich moved to sign an association agreement which would increase trade with the European Union. The industrial east deeply feared the association agreement as it gave a preference to European over Ukrainian goods. It was seen as turning Ukraine into a Western colony.
+The Ukrainian government’s mismanagement continued into the 2010s. It blew $15 billion on [UEFA Euro 2012 football championship](https://en.wikipedia.org/wiki/UEFA_Euro_2012#Concerns_and_controversies) - 8.2% of its total economy. The costs brought Ukraine to the brink of a debt default. Aiming at improving its economic situation, the government under the pro-Russian Victor Yanukovich moved to sign an association agreement which would increase trade with the European Union. The industrial east deeply feared the association agreement as it gave a preference to European over Ukrainian goods. It was seen as turning Ukraine into a Western colony.
 
 After Yanukovich reversed his support for the association agreement and decided to move towards an economic association with Russia instead, protestors began to rally in [Independence Square in Kiev](https://en.wikipedia.org/wiki/Euromaidan). Backed largely by liberals and nationalists from the western and central parts of the country, the protests grew from November 2013 to February 2014. While the protest movement was almost entirely native, it gained a great deal of moral and propaganda support from pro-homosexual United States politicians unhappy with Russia’s ban on homosexual propaganda (the United States had [passively accepted Putin’s election fraud in March 2012](https://www.youtube.com/watch?v=e7PvoI6gvQs), and it only started seeing Russia as an enemy after the passage of an [anti-gay propaganda law](https://en.wikipedia.org/wiki/Russian_gay_propaganda_law) in June 2013). In February 2014 Ukrainians stormed a number of regional state administration buildings and overthrew the government on 21 February.
 
@@ -441,28 +954,268 @@ Book Sources:
 
 *[The Foreigner Group](https://antelopehillpublishing.com/product/the-foreigner-group-by-carolus-lofroos/)* by Carolus Löfroos
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider becoming a paid subscriber to support my writing
 
-**Subscribe**
+</div>
 
-[](https://nemets.substack.com/p/roots-of-the-donbass-war/comments)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-55
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[](javascript:void(0))
+<div class="container-IpPqBD">
 
-Share this post
+<div class="sideBySideWrap-vGXrwP">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+<div class="emailInputWrapper-QlA86j">
 
-#### Roots of the Donbass Wars
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
 
-nemets.substack.com
+</div>
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+232
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(104,104,104,0.75), rgba(104,104,104,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!xtwj!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36831e5a-b06e-4a90-995f-2822cdc44013_689x454.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Roots of the Donbass Wars
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://nemets.substack.com/p/roots-of-the-donbass-war/comments)
+
+<div class="label">
+
+90
+
+</div>
+
+<div class="label">
+
+7
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

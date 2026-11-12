@@ -1,71 +1,374 @@
 +++
 title = "So you want to test"
 full_title = "So you want to test your DNA"
+upstream_url = "https://www.razibkhan.com/p/so-you-want-to-test-your-dna"
 date = "2022-11-28"
-upstream_url = "https://razib.substack.com/p/so-you-want-to-test-your-dna"
-
 +++
-Source: [here](https://razib.substack.com/p/so-you-want-to-test-your-dna).
+Source: [here](https://www.razibkhan.com/p/so-you-want-to-test-your-dna).
 
 So you want to test your DNA
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ef480a-ed4c-4b8c-9bba-b295e5e7fe5d_1028x591.png)
 
-So you want to test your DNA
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### So you want to test your DNA
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # So you want to test your DNA
 
 ### A genomicist tells you what tests are worth it for you, and why
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Nov 28, 2022
 
-99
+</div>
 
-[](https://razib.substack.com/p/so-you-want-to-test-your-dna/comments)
+</div>
 
-117
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+120
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ef480a-ed4c-4b8c-9bba-b295e5e7fe5d_1028x591.png)
 
-So you want to test your DNA
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### So you want to test your DNA
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/so-you-want-to-test-your-dna/comments)
+
+<div class="label">
+
+132
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![*Razib’s results on 23andMe*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ef480a-ed4c-4b8c-9bba-b295e5e7fe5d_1028x591.png)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/so-you-want-to-test-your-dna?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/so-you-want-to-test-your-dna?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 It will surprise no one who reads me or has met me in real life that I’m not very acquisitive. I don’t have prize possessions. Never have. I am an avid consumer of exactly three things: spice, ideas and data. You’re on your own for peppers (or hot sauce, although in another life I used to write quick and dirty [hot-sauce reviews](https://www.gnxp.com/WordPress/2007/04/03/day-7-of-hot-sauce-mad-dogs-revenge-habanero-chile-extract/)) but as always, I have strong opinions about what and who is worth reading. I’ll share a [Cyber Monday](https://www.amazon.com/cybermonday/geneexpressio-20) roundup of those in a separate post of reading recommendations (along with my only annual mega discount on Substack subscriptions). And aside from investing in your brain, there is exactly one thing I believe everyone, from an infant to a nonagenarian should own, possibly in multiple formats, for their (and their descendants’) own good: their genotype or especially their Whole Genome Sequence (WGS).
 
@@ -73,7 +376,19 @@ In this post, I will take you through the trade-offs as you decide what product 
 
 ### **So you want to test your DNA**
 
-There is no competition for my first pick, the gold standard: a Whole Genome Sequence (WGS). In 2000, it took nine months and cost taxpayers \$100 million to assemble the first human genome. It still wasn’t in my price range, but I vividly remember my excitement in 2010 when the first consumer options in this field emerged with a price tag of around \$10,000. I leapt at the chance to own my WGS (and [share](https://www.gnxp.com/WordPress/2021/10/26/razib-khan-30x-whole-genome-sequence-data/comment-page-1/) it for [research](https://www.gnxp.com/WordPress/2011/01/29/asian-in-all-the-right-places/)) in 2018 for \$299. Depending on whether you catch a flash sale, for as little as \$199 and a wait time of six weeks or so, today anyone can have their own Whole Genome Sequence of exactly the same fidelity as that game-changing multi-million dollar version two decades ago.
+<div id="§so-you-want-to-test-your-dna" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/so-you-want-to-test-your-dna">
+
+</div>
+
+</div>
+
+</div>
+
+There is no competition for my first pick, the gold standard: a Whole Genome Sequence (WGS). In 2000, it took nine months and cost taxpayers $100 million to assemble the first human genome. It still wasn’t in my price range, but I vividly remember my excitement in 2010 when the first consumer options in this field emerged with a price tag of around $10,000. I leapt at the chance to own my WGS (and [share](https://www.gnxp.com/WordPress/2021/10/26/razib-khan-30x-whole-genome-sequence-data/comment-page-1/) it for [research](https://www.gnxp.com/WordPress/2011/01/29/asian-in-all-the-right-places/)) in 2018 for $299. Depending on whether you catch a flash sale, for as little as $199 and a wait time of six weeks or so, today anyone can have their own Whole Genome Sequence of exactly the same fidelity as that game-changing multi-million dollar version two decades ago.
 
 Your choices for this product are [Dante](https://us.dantelabs.com/products/whole-genome-sequencing) and [Nebula](https://portal.nebula.org/cart?utm_source=google&utm_medium=cpc&utm_campaign=google_search_brand_rlsa_returning_customers-18791963991&utm_content=145577963640&utm_term=aud-926652305436%3Akwd-1876653694509&gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLsTI7a1JmGYLSpcqaxsM58tQeNsPNe3L5Alfj5bvp9CpEJwsPxzj7MaAk2zEALw_wcB). Dante offers one product and Nebula three. Dante’s one offering and Nebula’s best bet are both the 30x WGS. 30x is a measure of coverage, or how many times short, several-hundred-base-long sequences align to the same part of the genome. Every pass further overwhelms the occasional misread, improving accuracy to the industry standard for precision and accuracy. Nebula will also sell you a 100x kit, which to me, is just a tax on the uninformed. A typical Illumina machine might have a 0.1% error rate per base position. 30x samples the position about 30 times, allowing you to be sure that a variant is a true call and not a false positive error. By 100x, you are well past diminishing returns and just paying for vanity. I don’t see the added value. 30x is good enough for academic labs, mind-bendingly good, honestly. This is your best bet. Nebula will also sell you a bargain WGS product with 0.4x coverage. Again, I don’t see the value. Either get the 30x or just get a genotype (I’ll get to these next) with a slicker interface and a richer community experience.
 
@@ -85,15 +400,43 @@ Who *shouldn’t* get a WGS? I think this has value to everyone alive. But if yo
 
 One group who I know is sometimes reluctant about all genetic testing products is people with a known brutal condition in their pedigree that will be a matter of an autosomal dominant coin-toss. Many simply do not want to live with that knowledge. I haven’t been in your shoes; in my family, the harshest stuff is best managed with drugs from childhood, so we want to know as early as possible. What I will say is that your entirely valid personal choice doesn’t diminish the value of the rest of the WGS. Don’t want to check the Huntington’s Disease read in your results? By all means, don’t. But don’t let that keep you from owning your WGS for all the myriad other reasons it could be useful and interesting to have. And know that you’re in good company. I’d estimate one in five friends who get a WGS tell me there are results they choose not to view.
 
-Finally, which is better, Nebula or Dante? The 30x WGS will give you exactly the same genetic data at exactly the same fidelity from either. Nebula sells you a subscription for their interface, too, which I don’t love. But depending on your comfort DIY-ing it, you can plan to simply download the huge file once it arrives, which in the case of Nebula would allow you to discontinue your subscription within the first months. To do this, you select the quarterly “Nebula Explore Reporting Membership” option at check out and can plan to cancel after downloading your raw data. They will only bill you once sequencing is complete, adding \$24.99 to your total cost. That being said, if DIY-ing it is not your preference, Nebula has clearly invested more in the user experience and interface, so the lifetime membership upsell might feel worth it whereas Dante still feels very bare bones. Both options will coddle you a lot less in their current iterations than the slicker (older and more developed) genotyping companies’ interfaces, but if you don’t need concierge service, you will own and be able to explore your entire genome from day one. If this isn’t living in a time of miracles for you, I can’t imagine what would be.
+Finally, which is better, Nebula or Dante? The 30x WGS will give you exactly the same genetic data at exactly the same fidelity from either. Nebula sells you a subscription for their interface, too, which I don’t love. But depending on your comfort DIY-ing it, you can plan to simply download the huge file once it arrives, which in the case of Nebula would allow you to discontinue your subscription within the first months. To do this, you select the quarterly “Nebula Explore Reporting Membership” option at check out and can plan to cancel after downloading your raw data. They will only bill you once sequencing is complete, adding $24.99 to your total cost. That being said, if DIY-ing it is not your preference, Nebula has clearly invested more in the user experience and interface, so the lifetime membership upsell might feel worth it whereas Dante still feels very bare bones. Both options will coddle you a lot less in their current iterations than the slicker (older and more developed) genotyping companies’ interfaces, but if you don’t need concierge service, you will own and be able to explore your entire genome from day one. If this isn’t living in a time of miracles for you, I can’t imagine what would be.
 
 ### **Genotyping: no one-size-fits-all**
 
+<div id="§genotyping-no-one-size-fits-all" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/genotyping-no-one-size-fits-all">
+
+</div>
+
+</div>
+
+</div>
+
 OK, but we are only four, or five years into the super-affordable WGS era. What most people know is direct-to-consumer genotyping: [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20), [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B07J1FZQBC/geneexpressio-20), [Family Tree DNA](https://www.amazon.com/exec/obidos/ASIN/B01NAQ1UCW/geneexpressio-20), etc. And as strongly as I’d urge everyone to consider banking a WGS, genotypes are still a great choice for a number of uses. These are the products about which people ask my professional opinion most. I am asked versions of all the following on a daily basis. What is the best ancestry testing platform? What platform gives you the most accuracy? What test can I trust to understand my ethnic origins and ancestry proportions? And I am admittedly a uniquely good person to ask, not only having bought dozens of the tests but having been involved in developing [some](https://www.ancestry.com/dna/?ancid=ll4danoqxr&s_kwcid=family+tree+dna&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jcr-LbzKd3RqyK76a8XizIwWIu12vKVuPpPIhsvsvVKD_AKxFLDm3UaAja8EALw_wcB&gclsrc=aw.ds&o_xid=114717&o_lid=114717&o_sch=Paid+Search+Non+Brand) [of](https://www.nationalgeographic.com/pages/article/genographic) [the](https://genomelink.io/?g_acctid=684-859-7209&g_adgroupid=78700558053&g_adid=473328088744&g_adtype=search&g_campaign=P+-+Search+%7C+General+Keywords+-+Core&g_campaignid=6633546418&g_keyword=ancestry%20dna&g_keywordid=kwd-131691243&g_network=g&ref=gs-genelal&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jfnElzUORUzVlYmPAqbBHhPaKH5R2dnQXnTHa3loZFvRsLVf3JvP_8aApr6EALw_wcB) [methods](https://www.helix.com/) that generate percentages of ethnicity, nationality and ancestry for a decade now. I’ve been there for the discussions between scientists, product managers, designers and marketers before the tests roll out to the public. I’ve written the ancestry stories you receive from some of the kits and I’ve liaised with the deeply informed community of genetic genealogists and hobbyists who are these services’ superusers and evangelists. But unlike with a WGS, where I tell everyone: just get one, any one, it will only increase in value, etc., the answers to these common genotyping questions vary based on who’s asking and what they want to get out of the test.
+
+<div class="captioned-image-container">
 
 ![*Raw data straight off the machine (converted from signal to text)*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F661f09ff-8659-49e3-86f6-62f7c3d025db_791x199.png)
 
+</div>
+
 ### **But what if they’re wrong?**
+
+<div id="§but-what-if-theyre-wrong" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/but-what-if-theyre-wrong">
+
+</div>
+
+</div>
+
+</div>
 
 First off, so are these tests accurate? How accurate are they really? Those are probably the very most common questions people reach out to ask me. I think there are two layers here. All these tests are today utterly, brutally accurate. Especially if you speak SNP, which most of us don’t. The chips call the single nucleotide polymorphisms (SNPs), the bases that vary between one person’s genome and the next’s, incredibly accurately. More precisely, under validation, in over 99.9% of the cases, the genotype call is proven correct. A 30x WGS is still more accurate, but a consumer genotype is already incredibly reliable. But I realize that’s not what my non-geneticist friends are asking me. What people want to know is mostly how meaningful their ancestry breakdown really is. And that is where we depend on a human interface between the absolute statistical precision of the SNP calls and our nuanced, flesh and blood world. This layer is where art makes meaning out of science. And it is excellent overall and getting better with every passing year. But it still has shortcomings and specific lacunae. Let’s get into these.
 
@@ -101,9 +444,25 @@ The ancestry percentages a consumer receives are the outcome of a cascade of dec
 
 Today the genotyping services return reams of markers, with the current generation of chips reporting 600,000 to 800,000 SNPs per person at that 99.9% accuracy level. But on select markers, like those on the *BRCA gene* that can increase breast, prostate, ovarian and pancreatic cancer risk, even a 1-in-1000 error rate is too high. And given this, the genotyping services selectively increase the accuracy and precision of these crucial sites through various technical means so that the calls at these disease-relevant SNPs are more like 99.99% accurate (When customizing the chip, they designate more probes to sample those markers that code for the most functionally sensitive phenotypes, to assure watertight calls; for example, ten probes might be assigned to a single disease SNP, whereas other less dicey positions are pinged more like three times to make a final call).
 
+<div class="captioned-image-container">
+
 ![*How DNA sequence gets turned into an ethnicity estimate*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98383cb-f900-4969-a12a-0e9d5b2add12_1600x1252.png)
 
+</div>
+
 ### **Estimating ethnicity**
+
+<div id="§estimating-ethnicity" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/estimating-ethnicity">
+
+</div>
+
+</div>
+
+</div>
 
 And of course, when people ask me if DNA tests are accurate, I know they’re not asking me if the millions of letters of raw genetic code they downloaded are accurate from SNP to SNP. They just want to know if they’re actually 1% Nigerian and 99% Northern European like 23andMe said. In this specific case, yes, I’m sure this is perfectly true and informative. But if you are Japanese and the service reports that you are 0.1% Ashkenazi Jewish, I wouldn’t believe that (these are both real examples from friends).
 
@@ -114,6 +473,18 @@ There are scientific and historical reasons for the different thresholds in thes
 My point in walking you through this minutiae is to underline that there are masses of decision points to navigate as you translate hundreds of thousands of A’s, C’s, G’s and T’s into a crisply partitioned ethnicity pie chart. The SNP data might be spit out in stark black and white, but humans have to choose the parameters in the model to deliver the consumer meaning. How many populations? What do you label them? How sensitive (and thus prone to miscalls) do you tune your needle? How do you define the scope of a given reference population and where, geographically within that nation, do you sample it from?
 
 ### **What you’re up against: tradeoffs when designing a test to estimate ancestry**
+
+<div id="§what-youre-up-against-tradeoffs-when-designing-a-test-to-estimate-ancestry" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/what-youre-up-against-tradeoffs-when-designing-a-test-to-estimate-ancestry">
+
+</div>
+
+</div>
+
+</div>
 
 First, How many markers do you want to use? Today all the services are far beyond any definition of enough, usually more than 200,000 markers, so this no longer distinguishes one service from another. In the past, they didn’t have as many markers on the genotyping chips or such massive computing resources, which all used to yield some pretty noisy results in the early 2010’s from the earlier versions of the current offerings and as well as from now-defunct services. Noisy results that suggest you are a trace amount Japanese when you know you are Norwegian are intriguing, but they’re not true (for what it’s worth, misassigned “Japanese” ancestry in Norwegians would most likely be a matter of detecting Sami admixture).
 
@@ -126,6 +497,18 @@ For the end product, you’re also at the mercy of what finite array of populati
 Today, 23andMe can detect that I’m nearly 100% Bengali because my particular genetic mix is very common in Bengalis… so the machine learning algorithm has long since been trained to detect generic Bengalitude (which I embody… sort of). But in the process of making that designation along national lines, it masks what is genetically distinctive about Bengalis compared to other Indian subcontinental people: that we’re non-trivially East Asian. Also, it elides the significant variation within Bengalis, just calling all of us who fall within the typical range: garden variety Bengali. I can look at my data myself and see that I’m more East Asian than most Bengalis, more than any of my near relatives. Two Bengalis might both be correctly recognized to be 99% Bengali, but under that umbrella, one could actually be 10% East Asian and another 17% East Asian (both are actual common values I’ve frequently observed within the Bengali population).
 
 ### **Different kits for different reasons**
+
+<div id="§different-kits-for-different-reasons" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/different-kits-for-different-reasons">
+
+</div>
+
+</div>
+
+</div>
 
 So back to the overarching question, what is the best genotyping kit for you? It really depends on what *you* specifically want to know. Due to corporate decisions that date back to a CEO-driven preference earlier this decade, Ancestry has long since discontinued returning markers on the Y (paternal) or mtDNA (maternal) regions of the genome to the consumer, so if you want to know your uniparental lineages, you should go with 23andMe or Family Tree DNA. Family Tree DNA, also for historical reasons of company culture (they have always really cultivated their genealogist super-users) offers many deluxe products related to fine-grained Y and mtDNA sequencing, so if you are interested in drilling down on uniparental paternal or maternal ancestry, they are your best bet.
 
@@ -141,11 +524,23 @@ The average consumer now has access to DNA technology that the best labs in the 
 
 ### **What to buy, in a nutshell**
 
+<div id="§what-to-buy-in-a-nutshell" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/85319828/what-to-buy-in-a-nutshell">
+
+</div>
+
+</div>
+
+</div>
+
 **Money is no object**: invest in a WGS from Dante (cheaper if you are happy to dig around in your data yourself using Promethease etc.) or Nebula (with a slicker interface by subscription if you want more structure and guidance) for everyone you love, young to old. Consider adding a basic genotyping kit (like [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20), [Family Tree DNA](https://www.amazon.com/exec/obidos/ASIN/B01NAQ1UCW/geneexpressio-20) or [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B07J1FZQBC/geneexpressio-20)) for recreational purposes and the fun of finding out percent relatedness to relatives both close and distant.
 
 **You seek your roots**: genotyping is game-changing for people on either side of a closed adoption who long to connect. You up your chances of a hit with the size of the database you’re searching. So if you can afford both [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B07J1FZQBC/geneexpressio-20) and [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20) kits, you’ll have over 30 million people to search among (obviously some subset will have done both tests).
 
-**You have health questions**: WGS: Dante or Nebula, 100%. For \$12 [Promethease](https://promethease.com/) is aesthetically very bare bones, but will help you parse your WGS findings from either platform, based on all the latest health variants in *SNPedia*, so you don’t have to look up genetic positions manually. If I had health mysteries and suspected a genetic component, I would want my WGS to complement whatever targeted tests my doctor was ordering. Why not the Health & Ancestry product [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20) offers? The price is only marginally higher than their ancestry-only offering, so why not, but be forewarned that FDA strictures have kept [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20) health products extremely narrow and constrained. In contrast, Promethease is run by someone based in South Korea so the FDA is not a factor in what they can tell you.
+**You have health questions**: WGS: Dante or Nebula, 100%. For $12 [Promethease](https://promethease.com/) is aesthetically very bare bones, but will help you parse your WGS findings from either platform, based on all the latest health variants in *SNPedia*, so you don’t have to look up genetic positions manually. If I had health mysteries and suspected a genetic component, I would want my WGS to complement whatever targeted tests my doctor was ordering. Why not the Health & Ancestry product [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20) offers? The price is only marginally higher than their ancestry-only offering, so why not, but be forewarned that FDA strictures have kept [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20) health products extremely narrow and constrained. In contrast, Promethease is run by someone based in South Korea so the FDA is not a factor in what they can tell you.
 
 **You love genealogy**: any genotyping service. [Family Tree DNA](https://www.amazon.com/exec/obidos/ASIN/B01NAQ1UCW/geneexpressio-20) and [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B07J1FZQBC/geneexpressio-20) have the most active communities. WGS services don’t have enough users to compete here.
 
@@ -153,24 +548,160 @@ The average consumer now has access to DNA technology that the best labs in the 
 
 **Your ancestry is probably from an obscure group:** check the coverage of your expected group in the reference panels of [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20) and [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B07J1FZQBC/geneexpressio-20) and if you’re still undecided, pop your expected ancestry in the comments here and I’ll weigh in.
 
-[](https://razib.substack.com/p/so-you-want-to-test-your-dna/comments)
+</div>
 
-117
+</div>
 
-[](javascript:void(0))
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+120
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ef480a-ed4c-4b8c-9bba-b295e5e7fe5d_1028x591.png)
 
-So you want to test your DNA
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### So you want to test your DNA
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/so-you-want-to-test-your-dna/comments)
+
+<div class="label">
+
+132
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

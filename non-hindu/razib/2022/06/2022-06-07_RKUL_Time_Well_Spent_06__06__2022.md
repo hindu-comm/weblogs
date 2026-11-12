@@ -1,9 +1,8 @@
 +++
 title = "RKUL Time Well Spent"
 full_title = "RKUL Time Well Spent 06/06/2022"
-date = "2022-06-07"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-06062022"
-
+date = "2022-06-07"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-06062022).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
-RKUL: Time Well Spent 06/06/2022
+#### RKUL: Time Well Spent 06/06/2022
 
 razib.substack.com
 
@@ -27,13 +26,13 @@ Email
 
 # RKUL: Time Well Spent 06/06/2022
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-Jun 7
+Jun 7, 2022
 
-25
+24
 
 [](https://razib.substack.com/p/rkul-time-well-spent-06062022/comments)
 
@@ -41,11 +40,13 @@ Jun 7
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
-RKUL: Time Well Spent 06/06/2022
+#### RKUL: Time Well Spent 06/06/2022
 
 razib.substack.com
 
@@ -56,6 +57,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
@@ -72,6 +75,8 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 The idea that there was civilization before Greece and Rome seems self-evident to us today. But it wasn’t that long ago that the societies of the ancient Near East were perceived as such vague legends and flimsy shadows, that a [title](https://www.amazon.com/exec/obidos/ASIN/0300044402/geneexpressio-20) like “Civilization Before Greece and Rome” came off more defiant, polemical even, than matter of fact. Published in 1989, it is a corrective to an age when too often Greece and Rome were ancient history *qua* ancient history. Grounding in the classics of Greece and Rome was so widespread and deep in the early modern elites that four-time British Prime Minister William Gladstone himself happened to have authored a scholarly bookabout his interests, [Studies on Homer and the Homeric Age](https://en.wikipedia.org/wiki/Studies_on_Homer_and_the_Homeric_Age). Though Gladstone and his peers were well aware of Egypt and Mesopotamia, both of which play large roles in the Bible and are acknowledged by the Greeks as predating their own civilization, they were not societies that left us a direct legacy in the present. In the 19th century, Egypt and Mesopotamia came back to life as more than faint shadows because archaeologists, linguists and historians began assembling the material and textual records of the pre-Classical past, from [Heinrich Schliemann](https://en.wikipedia.org/wiki/Heinrich_Schliemann)'s uncovering of the site of Bronze Age Troy to [Jean-François Champollion’s](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion) decryption of the [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone).
 
 But despite nearly two hundred years of scholarship, The *[Epic of Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh) *does not play the role in our society that the *Iliad* does. Even the Old Testament, the Christian version of the Hebrew Bible, was long understood in the Christian world only through its [Greek translation](https://en.wikipedia.org/wiki/Septuagint).
+
+[](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/21TZPB1U818H4?type=explore)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c4bfb47-0ebf-4dfb-afd5-deb92787d456_956x209.jpeg)
 
@@ -215,7 +220,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
-RKUL: Time Well Spent 06/06/2022
+#### RKUL: Time Well Spent 06/06/2022
 
 razib.substack.com
 
@@ -226,5 +231,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

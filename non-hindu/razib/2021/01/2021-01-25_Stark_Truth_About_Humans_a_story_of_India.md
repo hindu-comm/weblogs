@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/stark-truth-about-humans-a-story).
 
 Stark Truth About Humans: a story of India
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a0ec21-0376-4344-b80c-989ca557ada7_672x589.png)
+
+#### Stark Truth About Humans: a story of India
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # Stark Truth About Humans: a story of India
 
 ### Science will fall, but also rise (part 2 of 2)
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -22,17 +38,37 @@ Jan 25, 2021
 
 ∙ Paid
 
-60
+50
 
-43
+Share this post
 
-3
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a0ec21-0376-4344-b80c-989ca557ada7_672x589.png)
+
+#### Stark Truth About Humans: a story of India
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/stark-truth-about-humans-a-story/comments)
+
+42
+
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!58Sb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a0ec21-0376-4344-b80c-989ca557ada7_672x589.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a0ec21-0376-4344-b80c-989ca557ada7_672x589.png)
 
-![](https://substackcdn.com/image/fetch/$s_!58Sb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a0ec21-0376-4344-b80c-989ca557ada7_672x589.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a0ec21-0376-4344-b80c-989ca557ada7_672x589.png)
 
 *This is the conclusion of a two-part examination of the demographic history of India, and the **history** of the demographic history of India. Find part one [here](https://razib.substack.com/p/stark-truth-about-aryans-a-story).*
 

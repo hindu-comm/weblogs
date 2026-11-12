@@ -20,11 +20,11 @@ Ideology and Expansion
 
 Oct 02, 2025
 
-32
+30
 
 4
 
-4
+2
 
 Share
 
@@ -343,13 +343,13 @@ Subscribe
 6.  The Dalit Panthers and the Radicalisation of the Untouchables by
     Jayashree B. Gokhale-Turner pg 87
 
-7.  <https://www.jstor.org/stable/3516774?read-now=1&seq=12>
+7.  [https://www.jstor.org/stable/3516774?read-now=1&seq=12](https://www.jstor.org/stable/3516774?read-now=1&seq=12)
 
 8.  ibid pg 10
 
 9.  
 
-10. <https://www.jstor.org/stable/4405671?read-now=1&seq=1>
+10. [https://www.jstor.org/stable/4405671?read-now=1&seq=1](https://www.jstor.org/stable/4405671?read-now=1&seq=1)
 
 11. The Dalit Panthers and the Radicalisation of the Untouchables by
     Jayashree B. Gokhale-Turner pg 88
@@ -377,7 +377,7 @@ Subscribe
 21. Reinventing revolution : new social movements and the socialist
     tradition in India. pg 79
 
-22. <https://www.indiaspend.com/dalits-are-still-converting-to-buddhism-but-at-a-dwindling-rate-34369>
+22. [https://www.indiaspend.com/dalits-are-still-converting-to-buddhism-but-at-a-dwindling-rate-34369](https://www.indiaspend.com/dalits-are-still-converting-to-buddhism-but-at-a-dwindling-rate-34369)
 
 23. ibid para 9
 
@@ -385,7 +385,7 @@ Subscribe
 
 25. ibid pg 16
 
-26. <https://inc.in/congress-sandesh/tribute/jagjivan-ram-an-administrator-par-excellence>
+26. [https://inc.in/congress-sandesh/tribute/jagjivan-ram-an-administrator-par-excellence](https://inc.in/congress-sandesh/tribute/jagjivan-ram-an-administrator-par-excellence)
 
 27. Makers of Modern Dalit History by Guru Paswan
 
@@ -401,15 +401,15 @@ Subscribe
 32. Reinventing revolution : new social movements and the socialist
     tradition in India. pg 85
 
-33. <https://ijcrt.org/papers/IJCRT2007558.pdf>
+33. [https://ijcrt.org/papers/IJCRT2007558.pdf](https://ijcrt.org/papers/IJCRT2007558.pdf)
 
-34. <https://www.jstor.org/stable/4396995?read-now=1&seq=4#page_scan_tab_contents>
+34. [https://www.jstor.org/stable/4396995?read-now=1&seq=4#page_scan_tab_contents](https://www.jstor.org/stable/4396995?read-now=1&seq=4#page_scan_tab_contents)
     pg 3–5
 
-32
+30
 
 4
 
-4
+2
 
 Share

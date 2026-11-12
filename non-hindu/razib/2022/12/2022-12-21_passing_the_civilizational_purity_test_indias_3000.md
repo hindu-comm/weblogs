@@ -2,8 +2,7 @@
 title = "Passing the"
 full_title = "Passing the civilizational purity test India's 3000year caste straitjacket"
 upstream_url = "https://www.razibkhan.com/p/passing-the-civilizational-purity"
-date = "3000-02-05"
-
+date = "2022-12-21"
 +++
 Source: [here](https://www.razibkhan.com/p/passing-the-civilizational-purity).
 

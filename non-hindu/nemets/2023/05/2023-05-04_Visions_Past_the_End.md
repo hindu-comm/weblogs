@@ -3,87 +3,464 @@ title = "Visions Past the End"
 full_title = "Visions Past the End"
 upstream_url = "https://nemets.substack.com/p/visions-past-the-end"
 date = "2023-05-04"
-
 +++
 Source: [here](https://nemets.substack.com/p/visions-past-the-end).
 
 Visions Past the End
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-#### Visions Past the End
+<div class="modal-table">
 
-nemets.substack.com
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(86,73,55,0.75), rgba(86,73,55,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!NPMx!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Visions Past the End
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Email
 
-Note
+</div>
 
-Other
+</div>
 
-![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
 
-![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
 
-#### Discover more from Nemets
+</div>
 
-Prehistory, wild adventures, obscure tribes, & historical processes
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
-Over 5,000 subscribers
+Notes
 
-Subscribe
+</div>
 
-Continue reading
+</div>
 
-Sign in
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Visions Past the End
 
 ### Do the seeds of long-term progress sprout from the embers of collapse?
 
-![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
+
+[](https://substack.com/@nemets)
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Peter Nimitz">
+
+![Peter Nimitz's avatar](https://substackcdn.com/image/fetch/$s_!ximq!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
 
 [Peter Nimitz](https://substack.com/@nemets)
 
-May 4, 2023
+</div>
 
-45
+</div>
 
-Share this post
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
 
-#### Visions Past the End
+May 04, 2023
 
-nemets.substack.com
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+51
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(86,73,55,0.75), rgba(86,73,55,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!NPMx!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Visions Past the End
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Email
 
-Note
+</div>
 
-Other
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [](https://nemets.substack.com/p/visions-past-the-end/comments)
 
-15
+<div class="label">
+
+13
+
+</div>
+
+<div class="label">
+
+4
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
 
 [](javascript:void(0))
 
+<div class="label">
+
 Share
 
-[](https://www.amazon.com/Escape-Rome-Prosperity-Princeton-Economic-ebook/dp/B07VCZ71JK?crid=8KY2527P6EMF&keywords=escape+from+rome&qid=1682902396&sprefix=escape+from+rom%2Caps%2C150&sr=8-1&linkCode=ll1&tag=nemets09-20&linkId=8eb209d717a5a6b8dd37d416c496d4b8&language=en_US&ref_=as_li_ss_tl)
+</div>
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!NPMx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+
+</div>
 
 Across the last [11,700 years there have been a number of civilizational collapses](https://nemets.substack.com/p/seven-ages-of-western-eurasia). In them, both socioeconomic complexity and human population decline dramatically. The earlier civilizational collapses are inferred from archaeology and [palynology](https://en.wikipedia.org/wiki/Palynology). While a collapse around 2200 BC may possibly be referenced in the Bible, the last two collapses are certainly known historically - the Bronze Age Collapse of the 12th century BC and the Fall of Rome in the 5th century AD.
 
@@ -111,9 +488,11 @@ The system of mass mobilization of the core was associated with ideological inno
 
 While the mass mobilization of Roman society for war faded in the 1st century BC and after, its legacy remained in lower [state capacity](https://en.wikipedia.org/wiki/State_capacity). Bordered by only [one major power](https://en.wikipedia.org/wiki/Parthian_Empire) after the formation of the [Empire](https://en.wikipedia.org/wiki/Principate), pressures for internal reforms to drive state capacity - military or economic - faltered. While the provinces were more integrated into the imperial power structure than the allies had been under the republic, provincial elites retained a considerably higher amount of resources and autonomy than their counterparts in Han dynasty China. As a result, Roman state revenues were around half of those of Han China - a considerably more developed bureaucratic state.
 
-[](https://www.amazon.com/Roman-Empire-Silk-Routes-Ancient-ebook/dp/B01MA3TAQ5?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=618af0127a7b41d8d057bf5b13f49543&language=en_US&ref_=as_li_ss_tl)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9e712b-5976-4eb4-9ce2-0a22351cda8a_341x500.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!7WCT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9e712b-5976-4eb4-9ce2-0a22351cda8a_341x500.jpeg)
+
+</div>
 
 Large scale slavery also served to undermine the long-term development of the Roman Empire. Powerful landholders settled huge tracts of Italy with disloyal slaves, pushing the old social basis of the republic - the yeoman farmers - into peonage, penury, or the growing urban proletariat. Similar to the American South in the antebellum period, investments into slaves rather than capital such as watermills provided short term financial gains while in the long run decreasing economic productivity. Slavery also weakened the class collaboration which had fueled so much of Rome’s early dynamism. [While Augustus tried to restore Roman morals](https://en.wikipedia.org/wiki/Lex_Julia) and the yeoman farmer social basis of Rome, the introduction of [contraceptives](https://en.wikipedia.org/wiki/Silphium) in the 1st century BC following the annexation of what is now eastern Libya as well as widespread immigration to Italy appears to have led to the replacement of the Italian population outside of certain remote areas in the peninsula.
 
@@ -131,9 +510,11 @@ Pious nobles unhappy with the corruption of their religion were increasingly joi
 
 States that failed to mobilize their resources and populations were devoured by those that did. Similarly, vicious interstate competition drove improvements in government administration. The number of European states fell from hundreds in the 15th century to seventeen in 1942. In that span there was a relentless improvement of state capacity. Areas were mapped and made legible to bureaucrats though collection of statistics. Quarantines were organized to protect the population from disease. The status of the nobility was codified and regularized, then later abolished. Censuses counted entire populations. Rome had been surpassed not just in technology, but in society and politics as well.
 
-[](https://www.amazon.com/Shape-Things-Come-H-G-Wells-ebook/dp/B01NBJ5NUK?crid=22AVOVTM8APXR&keywords=hg+wells+the+shape+of+things+to+come&qid=1683147591&s=books&sprefix=hg+wells+the+shape+of+things+to+com%2Cstripbooks%2C136&sr=1-1&linkCode=ll1&tag=nemets09-20&linkId=bc1509a4e88b8eb5c55346dcaf1e0d83&language=en_US&ref_=as_li_ss_tl)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd35500c2-0264-479e-8c7c-0610a1e34310_327x500.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!UC7n!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd35500c2-0264-479e-8c7c-0610a1e34310_327x500.jpeg)
+
+</div>
 
 HG Wells saw the centuries-long process of political consolidation and growth of state capacity continuing deep into the 21st century. In his *The Shape of Things to Come*, both the multiparty democracies and single-party states fight each other to exhaustion in a drawn out Second World War which ends with the class of transportation administrators using their air power to conquer the world. The resultant state abolishes religion and spreads belief in science, then after a century of mass mobilization from the top-down finally gives way to a utopia.
 
@@ -149,9 +530,11 @@ Did the history of the United States destine it to have a lower state capacity? 
 
 There have been a number of theories. Both Germany and Japan feared that their growing populations would come to starve in time. The breakdown of trade and rise of protectionism during and after the First World War led to [serious internal issues](https://en.wikipedia.org/wiki/Rice_riots_of_1918) in [both countries](https://en.wikipedia.org/wiki/Turnip_Winter). Increases in crop yields as well as natural declines of population growth rates due to the social effects of modernity elsewhere were not obvious in the early 20th century. Chemical fertilizers, high-yielding cultivars, and mechanized agriculture, while not unknown in the 1910s, only really became [widespread around the world](https://en.wikipedia.org/wiki/Green_Revolution) in the 1960s.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd4f3155-5956-4917-b491-3ddc753fdfa1_782x482.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd4f3155-5956-4917-b491-3ddc753fdfa1_782x482.png)
+![](https://substackcdn.com/image/fetch/$s_!bjqv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd4f3155-5956-4917-b491-3ddc753fdfa1_782x482.png)
+
+</div>
 
 Those fears of starvation drove the extreme militarism that characterized both Japan and Germany in the 1930s and 1940s. The conquest of Ukraine and Manchuria would have guaranteed plentiful harvests for both nations whatever else may come. Had they been able to maintain their conquests in the 1940s, the large populations and territories of Germany and Japan would have enabled their high state capacity political model to emerge as serious competitors to the USian model in the second half of the 20th century. How that would have played out is unknown. Multiparty democracies are more robust than party-states, but at the same time are more limited in their ability to mobilize the population. In party-states, party cadres are important components of organizing society even at its lowest levels, thus enabling mobilization to a greater degree than what the coalitional-collaborative methods of mobilization in multiparty democracies are capable of.
 
@@ -163,9 +546,11 @@ Thankfully, the success of the Green Revolution and world chemical industries ob
 
 Apocalyptic fiction changed with the times too. Pournelle and Niven’s 1974 novel *[The Mote in God’s Eye](https://www.amazon.com/Mote-Gods-Eye-Book-ebook/dp/B004YDL2CY?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=41d6d5e6811e8fa2fd7240704d9a5215&language=en_US&ref_=as_li_ss_tl) *is a enjoyable novel examining the long term effects of Malthusian processes after the advent of industrialization. The book describes an industrial alien society which had remained in its solar system for hundreds of thousands of years. During their innumerable civilizational cycles of rise and collapse, the aliens (*moties*) exhausted their system’s supply of fossil fuels and fissile materials. In response, they genetically engineered themselves to castes of extreme specialization and intelligence as well as lethal infertility, thus ensuring both the inevitable rise of a new civilization as well as its dooming from overpopulation.
 
-[](https://www.amazon.com/Mote-Gods-Eye-Book-ebook/dp/B004YDL2CY?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=41d6d5e6811e8fa2fd7240704d9a5215&language=en_US&ref_=as_li_ss_tl)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a821520-a45a-4ec2-bb0a-c6f6959f95ed_320x500.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!HT8w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a821520-a45a-4ec2-bb0a-c6f6959f95ed_320x500.jpeg)
+
+</div>
 
 *Soylent Green, Logan’s Run,* and *Stand on Zanzibar* were also popular works of fiction in the late 1960s and 1970s that addressed the Malthusian fears of the time.
 
@@ -175,36 +560,270 @@ In the near future I expect two dominant strains of post-apocalyptic thought. Th
 
 How will bioengineering affect the future? If bioerror pandemics become a common occurrence, state models allowing for a greater degree of state control over population movements will likely become more common. Liberal theories of individual autonomy will decline in popularity, and indeed perhaps have already given the vaccine mandates in a number of countries. There is a possibility that liberal individualism and multiparty democracy were aberrations that emerged from an unusually healthy era of public sanitation and effective medicine. Autocracy’s real roots, rather than political pathology, may be in the need to organize quarantines for public health. Were some bioerror plague to fell modern civilization and usher in a renewed era of fragmentation, public health officials may be the new ruling class.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider becoming a paid subscriber to support my writing.
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
 
 Subscribe
 
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 Curious as to your thoughts. Feel free to comment below.
 
-45
+</div>
 
-Share this post
+</div>
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+<div class="visibility-check">
 
-#### Visions Past the End
+</div>
 
-nemets.substack.com
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+51
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(86,73,55,0.75), rgba(86,73,55,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!NPMx!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb87eb41f-2663-4d8a-8ddb-bd0ae252cfca_331x500.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Visions Past the End
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Email
 
-Note
+</div>
 
-Other
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [](https://nemets.substack.com/p/visions-past-the-end/comments)
 
-15
+<div class="label">
+
+13
+
+</div>
+
+<div class="label">
+
+4
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
 
 [](javascript:void(0))
 
+<div class="label">
+
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

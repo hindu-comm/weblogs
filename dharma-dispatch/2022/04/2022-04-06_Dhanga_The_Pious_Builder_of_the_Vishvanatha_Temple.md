@@ -8,50 +8,112 @@ Source: [here](https://thedharmadispatch.substack.com/p/dhanga-the-pious-builder
 
 Dhanga: The Pious Builder of the Vishvanatha Temple in Khajuraho and his Immortal Service to Sanatana Dharma
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fde8f98-314a-453c-bf6b-1203a6387ab3_1200x800.jpeg)
+
+#### Dhanga: The Pious Builder of the Vishvanatha Temple in Khajuraho and his Immortal Service to Sanatana Dharma
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
+
 # Dhanga: The Pious Builder of the Vishvanatha Temple in Khajuraho and his Immortal Service to Sanatana Dharma
 
 ### The incalculable service of the Chandela Emperor, Dhanga towards protecting and propagating Sanatana Dharma is a little-known story.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
-Apr 06, 2022
-
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+Apr 6, 2022
 
 3
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+[](https://thedharmadispatch.substack.com/p/dhanga-the-pious-builder-of-the-vishvanatha/comments)
 
 2
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!ODI1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fde8f98-314a-453c-bf6b-1203a6387ab3_1200x800.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fde8f98-314a-453c-bf6b-1203a6387ab3_1200x800.jpeg)
 
-![](https://substackcdn.com/image/fetch/$s_!ODI1!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fde8f98-314a-453c-bf6b-1203a6387ab3_1200x800.jpeg)
+![](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fde8f98-314a-453c-bf6b-1203a6387ab3_1200x800.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+FOR AT LEAST HALF A CENTURY, KHAJURAHO was renowned for its infamy as a great representative of “erotic temple sculptures.” Needless, the decadent and value-denuded West gave it this infamy. Indeed, nothing pains the Hindu more than witnessing the ugly bazaar in this otherwise nondescript town hawking a vast array of expensively produced coffee table books and DVDs reducing divinity to pornography. The pain intensifies when we also consider how the locals, for the longest time, have been forced to play to this western perversion, belittling their Devatas, transforming them into performers of sexual acrobatics. All for earning a livelihood.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+At its peak, the same Khajuraho had earned envious glory as one of the great cities of Bharatavarsha known for the valour of its kings, the wealth they created and above all, the unsullied piety they exuded. In its original avatar, Kharjūravāhaka had done signal service to the cause of the protection and propagation of Sanatana Dharma helmed by the intrepid Candrātrēya (Chandela) dynasty for nearly *half a millennium* (831 — 1315). Needless, its most glorious expression that has survived till this day is undoubtedly the fabled Khajuraho Cluster of Temples.
 
-FOR AT LEAST HALF A CENTURY, KHAJURAHO was renowned for its infamy as a great representative of “erotic temple sculptures.” Needless, the decadent and value-denuded West gave it this infamy. Indeed, nothing pains the Hindu more than witnessing the ugly bazaar in this otherwise nondescript town hawking a vast array of expensively produced coffee table bo…
+Inscriptional evidence traces the origins of the Candrātrēya lineage to the great Maharshi Atri, from whose eye Candra (Moon) was born. Candra’s son was Candrātrēya, the progenitor of the Chandela dynasty. Such stories of divine origins are invariably associated with every Hindu royal dynasty big and small, holding a lesson in itself. The immediate response to such stories from the contemporary Hindu mind conditioned by the West is one of disbelief, ridicule and even derision. The lion-like Swami Vivekananda’s sucker-punch to such deracinated minds remains the most effective till date:
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+> In Europe there is my Lord the Cardinal, who is struggling hard and > spending thousands of pounds to prove the nobility of his ancestors, > and he will not be satisfied until he has traced his ancestry to some > dreadful tyrant who lived on a hill and watched the people passing by, > and whenever he had the opportunity, sprang out on them and robbed > them. That was the business of these nobility-bestowing ancestors, and > my Lord Cardinal is not satisfied until he can trace his ancestry to > one of these. In India, on the other hand, the greatest princes seek > to trace their descent to some ancient sage who dressed in a bit of > loin cloth, lived in a forest, eating roots and studying the Vedas. It > is there that the Indian prince goes to trace his ancestry. Our ideal > is the Brahmin of spiritual culture and renunciation. By the Brahmin ideal what do I mean? I mean the ideal Brahmin-ness in which worldliness is altogether absent and true wisdom is abundantly present. That is the ideal of the Hindu race.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+DHANGADEVA OR DHANGA WAS the seventh monarch in the Candrātrēya lineage. He was the son of Yashovarman, who is credited with formally establishing the suzerainty of the Chandela Empire, although he nominally acknowledged the vassalage of the Gurjara-Pratiharas. Yashovarman was a prolific temple-builder, commissioning the beautiful Lakshmana Temple, still resplendently standing in the Khajuraho Temple Complex. He also acquired a highly artistic Murti of Vaikuṇṭha-Viṣṇu, originally hailing from Bhota or Tibet, and built a magnificent Vishnu Temple modelled after his divine abode, Vaikuṇṭha. Sadly the temple has not survived.
 
-Claim my free post
+In fact, Yashovarman heralded the grand era of Chandela art and architecture, which constitute some of the earliest and finest specimens of the Nāgara style.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fdhanga-the-pious-builder-of-the-vishvanatha&utm_source=paywall&utm_medium=web&utm_content=51714827&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=51714827&next=https://thedharmadispatch.substack.com/p/dhanga-the-pious-builder-of-the-vishvanatha)
+The Dharma Dispatch Digest is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+**Subscribe**
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+DHANGA NOT ONLY followed his illustrious father’s path but embellished it. Under him, the Chandela Empire stretched from Kalanjara (or Kalinjara), Bhilsa (Vidisha), Kalindi, Chedi, and Gōpādri (Gwalior). He also conducted prolific military expeditions against a rather impressive swathe of territory including Vidarbha, Kuntala, Andhra, Kanchi, Anga, and Radha. Perhaps his noblest service in the defence of Sanatana Dharma was sending his military force to assist Jayapaladeva, the last frontier Hindu hero, in his battle against Mahmud of Ghazni.
+
+If Yashovarman built a Vaikuṇṭha-Viṣṇu Temple in Kharjūravāhaka, his son, an extraordinary Bhakta of Shiva, built the grand Visvanatha temple in the same temple complex. The story of how this temple was built is fortunately engraved in an inscription on its wall (now called Khajuraho Inscription No. IV).
+
+Its summary is as follows.
+
+Dhanga erected a magnificent temple for the Great God, Śambhu with two *lingas.* One was made of emerald and the other, of stone. The emerald *linga* is eponymously known as Marakatēśvara.
+
+In the true spirit of Hindu kings, Dhanga extended his patronage and piety to the Jaina Sampradaya as well. Having abiding reverence for a Jaina Muni named Pahilla, he granted extensive lands to build a beautiful garden around a temple erected for *Jinanatha.*
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2cd20de7-b3df-4f8c-90b5-a09e19f90b2b_1536x2083.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2cd20de7-b3df-4f8c-90b5-a09e19f90b2b_1536x2083.jpeg)
+
+DHANGA’S BRILLIANT REGIME lasted for a year less than a half century (950—999) and was largely distinguished by peace, prosperity and Dharma. However, his final years were exceptional in a profound sense.
+
+He embarked on a series of Yatras to different Tirtha-Kshetras including Varanasi before stationing himself at *Tīrtha-cakravarti*, Prayaga. It was at Prayaga that he transformed himself into a royal Sanyasi. As his renunciation matured and ripened, he entered the sacred waters at the *Trivēṇi-saṅgama* and closing his eyes, fixing his thoughts on Rudra, Dhanga abandoned his mortal body.
+
+## Kalachuri Gangeyadeva Attains Mukti atAkṣayavaṭavr̥kṣa
+
+APART FROM DHANGA, we have the extraordinary Gangeyadeva of the Kalachuri dynasty, ruling from Tripuri from 1015 — 1041. He wrested control of Varanasi and Prayaga from the Pala rule and successfully repulsed the invasions of the Ghaznavid governor of Punjab, Ahmad Niyaltigin around 1033-34. In the last years of his life, Gangeyadeva resided in Prayaga and was “fond of residing at the foot of the *Akṣayavaṭavr̥kṣa.*” It was under this Indestructible Banyan Tree that he attained *Mukti,* which western researchers call “religious suicide.” The Jabalpur Copperplate Inscription dated 1122 CE in Sanskrit describes the whole pious event with great emotion.
+
+Gangeyadeva’s son, Lakshmikarna, the most distinguished Kalachuri ruler, was so moved by his father’s devotion that he honoured the deed by building the *Karna-Tirtha* ghat in Prayaga and the *Karna-Meru* Temple in Kashi.
+
+As we remarked in the previous episode of this series, our Tirtha-Kshetras such as Prayaga hold such vital keys that unlock the true history of Bharatavarsha, heartlessly omitted from what passes off as history textbooks.
+
+*To be continued*
+
+------------------------------------------------------------------------
+
+#### An Appeal
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*. It is your subscriptions that enables and empowers us to produce in-depth essay series on Hindu culture like this one. Every bit of your subscription pays our bills and *helps us offer more and better content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+**Subscribe**
+
+3
+
+[](https://thedharmadispatch.substack.com/p/dhanga-the-pious-builder-of-the-vishvanatha/comments)
+
+2
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

@@ -2,8 +2,7 @@
 title = "Current status it’s"
 full_title = "Current status it’s complicated"
 upstream_url = "https://www.razibkhan.com/p/current-status-its-complicated"
-date = "1993-02-05"
-
+date = "2023-05-27"
 +++
 Source: [here](https://www.razibkhan.com/p/current-status-its-complicated).
 

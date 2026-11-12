@@ -1,9 +1,8 @@
 +++
 title = "In God We Trusted"
 full_title = "In God We Trusted"
-date = "2020-12-24"
 upstream_url = "https://razib.substack.com/p/in-god-we-trusted"
-
+date = "2020-12-24"
 +++
 Source: [here](https://razib.substack.com/p/in-god-we-trusted).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e3bb425-c507-428e-9a30-a61429d4c968_510x340.jpeg)
 
-In God We Trusted
+#### In God We Trusted
 
 razib.substack.com
 
@@ -25,17 +24,19 @@ Facebook
 
 Email
 
+Notes
+
 # In God We Trusted
 
 ### The root of all evil
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 24, 2020
 
-15
+14
 
 [](https://razib.substack.com/p/in-god-we-trusted/comments)
 
@@ -43,11 +44,13 @@ Dec 24, 2020
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e3bb425-c507-428e-9a30-a61429d4c968_510x340.jpeg)
 
-In God We Trusted
+#### In God We Trusted
 
 razib.substack.com
 
@@ -58,6 +61,10 @@ Twitter
 Facebook
 
 Email
+
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e3bb425-c507-428e-9a30-a61429d4c968_510x340.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e3bb425-c507-428e-9a30-a61429d4c968_510x340.jpeg)
 
@@ -94,6 +101,8 @@ The evolution of cultural forms and beliefs is like a vast roiling ocean. Though
 
 [Share](https://razib.substack.com/p/in-god-we-trusted?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fd056e3-710a-4b65-89d9-19b0751d8ad8_807x1024.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fd056e3-710a-4b65-89d9-19b0751d8ad8_807x1024.jpeg)
 
 **A most Christian president and a crusading nation**
@@ -108,6 +117,8 @@ Or at least we were. Huntington wrote at the beginning of a period when the reli
 
 The variable RELIG asks for religious identity, while the variable YEAR divides those responses by when the respondents were surveyed. The chart below makes plain where we were and where we are:
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c7f2e7d-abef-4568-bdaf-e68ad660ddba_1321x740.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c7f2e7d-abef-4568-bdaf-e68ad660ddba_1321x740.png)
 
 The blue bars are those who identify as Protestants. The green bars are those with “No Religion.” By the end of the first Bush term, fewer than 50% of Americans were reporting they were Protestant, for the first time in the history of this nation. In the three decades since 1990 those who report “No religion” have more than doubled, from fewer than 10% to more than 20% of Americans.
@@ -115,6 +126,8 @@ The blue bars are those who identify as Protestants. The green bars are those wi
 Huntington was writing at a time when the data, if he had had access, would have made it clear that the Protestant America he presumed immigrants would assimilate to was dying of disbelief and defection.
 
 Using the GOD variable in GSS also records a decline in belief in God overall, though this is much more modest:
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed98713-97f9-403e-a7e0-7dd12cf721d5_1291x750.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed98713-97f9-403e-a7e0-7dd12cf721d5_1291x750.png)
 
@@ -126,11 +139,15 @@ The trend again is clear. Between 1970 and the end of the 1980’s a steady 10-1
 
 From the perspective of age, the secularization of the younger age cohorts is remarkable. Below is religious identity partitioned by generation using the COHORT variable (millennials are born in 1981 and later):
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2beee806-4f85-443e-860d-25a2df5faa0c_888x753.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2beee806-4f85-443e-860d-25a2df5faa0c_888x753.png)
 
 Nearly as many among the younger generations have “No Religion” as are Protestant. These statistics bear more resemblance to Europe than the United States itself just 40 years ago. 30% of people in the United Kingdom of all ages claim “no religion.” In Germany, the figure is 28%. These rates are similar to the current proportions for younger Americans. American exceptionalism in regards to religion will continue to wane as we lose our older generations.
 
 What about the patterns in relation to education? Using the DEGREE variable and focusing on millennials you see a different trend:
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1570ec59-23ac-437d-ba9b-b36820e40ee3_1162x773.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1570ec59-23ac-437d-ba9b-b36820e40ee3_1162x773.png)
 
@@ -139,6 +156,8 @@ There isn’t much difference on most variables. There is a perception by some p
 And, there is evidence that less educated younger Americans are actually less attached to religious institutions than those who have college degrees. Even though less educated young Americans are more certain that God exists (48% vs. 38%), they are somewhat more likely to go a full year without attending church (31% vs. 27%). This recapitulates patterns familiar in some European nations, where the working class and underclass are most alienated from institutions like organized religion. This, despite not necessarily being more atheist.
 
 [Share](https://razib.substack.com/p/in-god-we-trusted?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad182a90-3129-4f4d-8548-17b14ff17602_1200x675.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad182a90-3129-4f4d-8548-17b14ff17602_1200x675.jpeg)
 
@@ -151,6 +170,8 @@ Why did this happen in the last generation? How could the cultural elites fail t
 [Share](https://razib.substack.com/p/in-god-we-trusted?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 **America’s empty pews**
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe02c8681-0a83-4d22-934e-2c5a2d1d7c31_640x697.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe02c8681-0a83-4d22-934e-2c5a2d1d7c31_640x697.png)
 
@@ -180,17 +201,21 @@ Thank you again for reading, for[subscribing](https://razib.substack.com/subscri
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
+14
+
 [](https://razib.substack.com/p/in-god-we-trusted/comments)
 
 7
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e3bb425-c507-428e-9a30-a61429d4c968_510x340.jpeg)
 
-In God We Trusted
+#### In God We Trusted
 
 razib.substack.com
 
@@ -202,4 +227,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

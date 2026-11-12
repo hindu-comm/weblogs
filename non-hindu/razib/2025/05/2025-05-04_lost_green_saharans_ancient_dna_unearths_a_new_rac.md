@@ -2,8 +2,7 @@
 title = "Lost Green Saharans"
 full_title = "Lost Green Saharans ancient DNA unearths a new race from a verdant North African interlude"
 upstream_url = "https://www.razibkhan.com/p/lost-green-saharans-ancient-dna-unearths"
-date = "7000-06-26"
-
+date = "2025-05-04"
 +++
 Source: [here](https://www.razibkhan.com/p/lost-green-saharans-ancient-dna-unearths).
 

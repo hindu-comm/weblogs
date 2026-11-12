@@ -1,71 +1,374 @@
 +++
 title = "Among Afghans jewel of"
 full_title = "Among Afghans jewel of the dragon"
+upstream_url = "https://www.razibkhan.com/p/among-afghans-jewel-of-the-dragon"
 date = "2021-09-07"
-upstream_url = "https://razib.substack.com/p/among-afghans-jewel-of-the-dragon"
-
 +++
-Source: [here](https://razib.substack.com/p/among-afghans-jewel-of-the-dragon).
+Source: [here](https://www.razibkhan.com/p/among-afghans-jewel-of-the-dragon).
 
 Among Afghans: jewel of the dragon
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32813366-c764-4378-bc94-4cc778f1d158_752x615.jpeg)
 
-Among Afghans: jewel of the dragon
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Among Afghans: jewel of the dragon
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Among Afghans: jewel of the dragon
 
 ### People of the crossroads
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Sep 7, 2021
 
-72
+</div>
 
-[](https://razib.substack.com/p/among-afghans-jewel-of-the-dragon/comments)
+</div>
 
-5
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+73
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32813366-c764-4378-bc94-4cc778f1d158_752x615.jpeg)
 
-Among Afghans: jewel of the dragon
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Among Afghans: jewel of the dragon
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/among-afghans-jewel-of-the-dragon/comments)
+
+<div class="label">
+
+5
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![Nuristani man](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32813366-c764-4378-bc94-4cc778f1d158_752x615.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/among-afghans-jewel-of-the-dragon?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/among-afghans-jewel-of-the-dragon?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 During August’s shambolic withdrawal from Afghanistan, CNN commentator Fareed Zakaria [noted](https://transcripts.cnn.com/show/CPT/date/2021-08-16/segment/01) that there were nascent worries among conservatives about the influx of refugees from Afghanistan. He characterized them as saying of Biden, “he's trying to get brown people to come into the country." Obviously, “brown” here is shorthand for a foreign and exotic group that practices Islam. But the reality is that people from Afghanistan are quite diverse in their physical appearance, and many of them, like the [Nuristani](https://en.wikipedia.org/wiki/Nuristanis) man pictured, given a couple of sartorial tweaks, could easily pass for a white European. This is why Westerners in the country who wish to “pass” as Afghans are told to pretend they’re Nuristani, and that they don’t know Pashto or Dari, the two majority languages in the country.
 
@@ -79,7 +382,11 @@ Though it seems unlikely that American bureaucrats are familiar with Kipling, in
 
 And yet obviously, many Afghans do not fit the image most Americans summon when told someone is “white.” Perhaps one of the more striking cases is the erstwhile Afghan warlord Rashid Dostum:
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F69158b44-7331-4e67-9e2e-81fa603d894b_500x691.jpeg)
+
+</div>
 
 Dostum is an ethnic Uzbek from the north of Afghanistan, a small minority that has nevertheless been very influential due to his role as one of the top three political and military figures in the country for four decades. They are a Turkic-speaking group for whom the nation of Uzbekistan is named, and an essential part of the complex ethnographic tapestry of Afghanistan. Though Afghanistan has not conducted a proper census in decades, most observers believe the [Pashtuns](https://en.wikipedia.org/wiki/Pashtuns) to be the most numerous ethno-linguistic group in the nation. Though there are three times as many Pashtuns to the east in Pakistan, the smaller faction within the country have traditionally ruled Afghanistan, and the term Afghan as an ethnic label is often used synonymously with Pashtun.
 
@@ -89,9 +396,25 @@ The last major ethnic group of Afghanistan are the Hazara. Like the Tajiks they 
 
 This rich ethno-linguistic complexity is the outcome of thousands of years at the crossroads of Asia. Afghanistan may seem out of the way, but its mountains and valleys were traveled by missionaries, migrants and merchants, taking Islam north, bringing Turks and Mongols south, and facilitating interaction between India, Iran, and the Arab world.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38dc95d-34fd-4cb0-9a80-e8e6480f1fb5_800x774.jpeg)
 
+</div>
+
 ### At a cultural crossroads
+
+<div id="§at-a-cultural-crossroads" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/40925861/at-a-cultural-crossroads">
+
+</div>
+
+</div>
+
+</div>
 
 Situated in a rugged and mountainous upland to the west of Tibet, Afghanistan has managed to both retain an exotic isolation, and remain enduringly at the center of geopolitical machinations. In the 19th and early 20th centuries, the independent Emirate of Afghanistan found itself a pawn in the [Great Game](https://en.wikipedia.org/wiki/Great_Game) between the Russian and British Empires, as the two powers challenged each other over trade routes and warm-water ports in the heart of Asia. For some decades in the 20th century, Afghanistan experienced an idyllic period of peace under its last king, the playboy Mohammed Zahir Shah. But that was shattered in the 1970’s with his overthrow, and the nation was soon torn between the Soviet bloc and the Western powers. The Afghan civil war of the 1980’s, which ended in Soviet defeat and withdrawal, and then the fall of the subsequent Soviet-backed regime in the early 1990’s, gave way to the civil war of the 1990’s, which culminated in Taliban victory. By the 21st century, in the wake of 9/11, Afghanistan again became a catspaw in American geopolitics.
 
@@ -99,7 +422,11 @@ But this rugged region of southern Central Asia wasn’t always simply the backd
 
 Unlike luxurious lapis lazuli, tin was essential. Bronze is an alloy of tin and copper, and while the latter was found close at hand in Cyprus, the tin component required by ancient civilizations of the Near East often came from Afghanistan. These sorts of natural resources are the reason that Bronze-Age Afghanistan seems to have been [dotted with trading colonies](https://en.wikipedia.org/wiki/Shortugai) from the Indus Valley Civilization (IVC), which flourished to its south and east, in modern-day Pakistan. In a strange prefigurement of the present, the more populous societies to Afghanistan’s south and east seem to have always taken an interest in controlling its resources and leveraging its geopolitical importance.
 
+<div class="captioned-image-container">
+
 ![Lapis lazuli jewelry](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1943c1b4-dac8-4350-9dd3-8c1ba19d861d_800x660.jpeg)
+
+</div>
 
 We do not know much about the ancient people of Afghanistan who mined tin and collected lapis lazuli were. But it is certain that [genetically](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822619/), the ancient Afghans were quite distinct from any group in the region today. 12,000 years ago, with the adoption of agriculture, the unique and diverse societies of West Asia began to expand from their core hearths and mix with each other through trade and migration. People in the Zagros mountains of western Iran migrated west, to the Mediterranean, while societies on the Mediterranean coast sent outriders eastward along the northern fringe of the Fertile Crescent. The mixed population that emerged by the Bronze Age still defines West Asia today, but the heritage of the ancient people of Afghanistan was far less touched by the great amalgamation. Rather, ancient southern Central Asians who occupied what was to become Afghanistan reflected migrations out of the west at the end of the last Ice Age. Additionally, these people absorbed a trickle of Siberians migrating out of the north, via the highlands to the east of the Central Asian deserts, as the Turks would do in later millennia. Humans are mobile and protean, but the landscape across which they move is far more fixed, imposing constraints even across the millennia.
 
@@ -109,23 +436,59 @@ Far to the northeast, in modern Afghanistan, Iranian-speaking tribes had likely 
 
 When Alexander the Great conquered the lands of what became Afghanistan, they were seen as a rough frontier territory, inhabited by Iranian tribes that would only later give rise to the Pashtuns and Tajiks. After the fall of Alexander’s empire, it was here that a redoubt of Greeks maintained a kingdom in [Bactria](https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom) for nearly three centuries. The Afghan city known as Bagram, host to the erstwhile American airbase, was originally named Alexandria. Though its patron god was the Greek Zeus, Alexandria was better known for its monasteries with thousands of Buddhist monks. Afghanistan again played a role at the crossroads during this period, as the Greco-Bactrian Buddhists contributed cultural innovations like fine statuary depicting the Buddha. They then transmitted this innovation of the faith onward to the east into China 2,000 years ago, where Buddhist statuary mutated again.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e22770f-5982-4b51-9d76-8036c1773ca2_1056x715.png)
 
+</div>
+
 ### Sons of the Conquerors
+
+<div id="§sons-of-the-conquerors" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/40925861/sons-of-the-conquerors">
+
+</div>
+
+</div>
+
+</div>
 
 After 200 AD, the great Eurasian steppe began to reverse its historical migratory pattern. Whereas earlier, many Indo-Iranian people had moved from the west to the east, in the centuries after, Siberian Turks began to flood westward. By 665 AD, as the pre-Islamic Sassanian Persians to the west were being conquered by the Arabs, to the east, Kabul fell under the control of the [Turk Shahi](https://en.wikipedia.org/wiki/Turk_Shahis#Displacement_of_the_Hunnish_Nezak-Alchons) dynasty. Though newcomers, like the Greco-Bactrians they were enthusiastic adopters of local religions and traditions, in particular Buddhism. The later phases of the construction and development of the Bamiyan Buddhas date to the Turk Shahi and their patronage. For two centuries, they engaged in a war of attrition against the Arab Muslims to the west. As Islam began to gain traction in Central Asia in the north and in Iran in the west, the region around Kabul remained steadfastly Buddhist. [Buddhism and Islam on the Silk Road](https://www.amazon.com/exec/obidos/ASIN/0812222598/geneexpressio-20) documents the century or so when, cheek by jowl, Buddhist monasteries, and Islamic mosques clustered along the same trade routes, as Christians, Muslims, Zoroastrians and Hindus traversed Eurasia.
 
 In the early 9th century, the Turk Shahi were defeated by the Arabs and converted to Islam after their great golden Buddha idol was taken to be displayed in Mecca as a sign of their submission. Turned into puppets by the Arab Muslims, they were overthrown by their Indian Hindu prime ministers, who then ruled as the *Hindu* Shahi dynasty, with their name pointing to their southeastern origin. They promoted their religion and culture in Afghanistan for a century, highlighting that the region’s geography made its connection to South Asia inevitable. In its turn, the Hindu Shahi dynasty was expelled from Kabul, defeated by Turks who had adopted Islam.
 
+<div class="captioned-image-container">
+
 ![Bamiyan Buddhas](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a9125ed-d61e-4c13-8ba5-47022d33f265_800x487.jpeg)
+
+</div>
 
 It was with the rise of [Mahmud of Ghazni](https://en.wikipedia.org/wiki/Mahmud_of_Ghazni), one of these Muslim Turks that were to shape later history across Asia, that Afghanistan moved from being a frontier boundary between civilizations to becoming the heart of eastern Islam. Mahmud raided deep into India, while also pushing north into Central Asia and west into Iran. His capital, Ghazni, was located exactly between modern Kandahar and Kabul, astride the modern road between the two cities. By the end of his life, Mahmud’s domains included much of Iran, Pakistan, as well as the former Soviet republics of Central Asia. His writ ran from the Indian Ocean to the Aral Sea. Though the Turk son of a slave soldier, Mahmud patronized the great Persian poet Ferdowsi, as well as the polymath al-Biruni, the latter of whom wrote one of the first anthropological treatises on India. Despite a bloodthirsty reputation in India, he encouraged the flowering of the multicultural civilization of eastern Islam, where Turkic rulers encouraged Persian poetry and Indian astrology.
 
 The ethnic complexity of modern Afghanistan was already present by the time of Mahmud, as he ruled a mostly tribal Iranian-speaking populace, the ancestors of the modern Pashtuns, despite being a Turk who patronized urban Persian culture.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F136f1ea8-010b-4830-bc40-6b3481080181_1330x867.jpeg)
 
+</div>
+
 ### At a genetic crossroads
+
+<div id="§at-a-genetic-crossroads" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/40925861/at-a-genetic-crossroads">
+
+</div>
+
+</div>
+
+</div>
 
 The above principal component analysis visualizes genetic variation within the data and illustrates how related various ethnic groups in Afghanistan are to each other, and to other world populations. The x-axis is clearly defined by the east-to-west gradient in genetic ancestry within Eurasia. The y-axis, meanwhile, measures how groups are related to South Asians. Among groups in Afghanistan, Hazaras and Uygurs are the most east-shifted, while Pathans are most like South Asians. Though the Tajiks are more distinct from South Asians than Pathans, their relative closeness compared to Iranians points to the deep connections between the Indian subcontinent and Central Asia that goes back to prehistory, from the contacts between the IVC in northwest India and the Oxus civilization, just north of Afghanistan, to the migration of the Indo-Aryans out of the northwest.
 
@@ -138,6 +501,18 @@ The Turkic and Mongol connections of the Hazaras and Uzbeks, and even of some Pa
 Though history is protean, geography is fixed.
 
 ### A microcosm
+
+<div id="§a-microcosm" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/40925861/a-microcosm">
+
+</div>
+
+</div>
+
+</div>
 
 The average age in Afghanistan is 18, and the average lifespan 65. It is a poor country that has been torn apart by violence and characterized by endemic illiteracy and religious fanaticism. But our misgivings about the state of Afghanistan today tend to color our view of the region or the nation and leave us at risk of mistakenly thinking chaos is its eternal state. Afghanistan is heir to a rich cultural history that has been surprisingly well recorded. At the time the ancestors of the Pashtuns were fighting and allying with Alexander the Great, the Romans and Greeks were vague as to who might even live in misty Britain. The region’s diverse history means that today there are modern Afghans who could comfortably mingle with the throngs on the streets of New Delhi, Stockholm, and Beijing, without anyone batting an eye. Though the US Census classes Afghans as white, they’re actually the microcosm for much of Eurasia, as so much of the world’s history has coursed through and out of their ancestral domains. Afghanistan is not just where empires go to die, but where empires were born and nourished.
 
@@ -157,28 +532,186 @@ This is perhaps difficult to understand if all you know of Afghanistan comes fro
 
 John Maynard Keynes was famously shocked when he purchased Isaac Newton’s papers because they were so fixated on the magical and occult. He [declared](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/#:~:text=Newton%20was%20not%20the%20first,than%2010%2C000%20years%20ago.) Newton to be the “last of the Babylonians and Sumerians.” But the reality is that there are still Sumerians all around us, in the many enduringly out-of-the-way parts of the world, even some that have historically been crossroads of civilization. They still imagine that there are dragons in the deep, planetary-scale monsters beyond our comprehension and apocalyptic horrors that could end our very existence. While their vast ignorance of the true shape of reality might beggar belief, perhaps it is our own staggering obliviousness about an intricately composed multi-ethnic, factionalized society like theirs that poses the greater existential threat. After all, we alone are equipped to travel en masse to the other side of the globe, to decisively slay a foe and lay waste to his domains, whether he be real or imagined.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[](https://razib.substack.com/p/among-afghans-jewel-of-the-dragon/comments)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-5
+<div class="_container_1xsdj_1">
 
-[](javascript:void(0))
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+73
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32813366-c764-4378-bc94-4cc778f1d158_752x615.jpeg)
 
-Among Afghans: jewel of the dragon
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Among Afghans: jewel of the dragon
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/among-afghans-jewel-of-the-dragon/comments)
+
+<div class="label">
+
+5
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

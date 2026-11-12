@@ -1,9 +1,8 @@
 +++
 title = "Genetics of North West"
 full_title = "Genetics of North West Indians & Srubnaya as source of Steppe Ancestry"
-date = "2023-01-02"
 upstream_url = "https://eruditus.substack.com/p/genetics-of-north-west-indians-and"
-
+date = "2023-01-02"
 +++
 Source: [here](https://eruditus.substack.com/p/genetics-of-north-west-indians-and).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a20197e-d466-4f8c-9bdc-d444dcde413e_500x425.jpeg)
 
-Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
+#### Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
 
 eruditus.substack.com
 
@@ -27,13 +26,13 @@ Email
 
 # Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
-Jan 2
+Jan 2, 2023
 
-7
+11
 
 [](https://eruditus.substack.com/p/genetics-of-north-west-indians-and/comments)
 
@@ -41,11 +40,13 @@ Jan 2
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a20197e-d466-4f8c-9bdc-d444dcde413e_500x425.jpeg)
 
-Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
+#### Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
 
 eruditus.substack.com
 
@@ -56,6 +57,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a20197e-d466-4f8c-9bdc-d444dcde413e_500x425.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a20197e-d466-4f8c-9bdc-d444dcde413e_500x425.jpeg)
 
@@ -92,6 +95,8 @@ Let us see an example.
 
 In this run, the Z-score is -0.715 which means that either Jat_Pathak mixed with Srubnaya_Alakul or Mbuti African Foragers mixed with Sintashta_MLBA. We know the latter scenario is impossible, so that leaves the former. This means Srubnaya_Alakul is weakly prefered as a Steppe source over Sintashta. (Z-score of +- 2 and above is significant usually
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7958da74-6fff-4a1b-992d-afc0ba153ec0_1438x356.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7958da74-6fff-4a1b-992d-afc0ba153ec0_1438x356.png)
 
     1 Mbuti.DG Ror   Russia_Srubnaya_Alakul.SG Russia_MLBA_Sintashta -0.00137 0.00126 -1.09 0.275 
@@ -106,13 +111,19 @@ For Punjabi Khatris, the Z-score is quite significant indicating very strong pre
 
 For Brahmin populations, in all except 2, the prefered Steppe source is Srubnaya_Alakul and not Sintashta. Kashmiri Pandit and Kannada Brahmin show a completely non-statistically signifcant weak preference for Sintashta (Z is not over 2).
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa73271c7-e7ac-4a57-957c-f2046bafcec1_1438x322.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa73271c7-e7ac-4a57-957c-f2046bafcec1_1438x322.png)
 
 Srubnaya Alakul is once again prefered over TKM_IA and very significantly so over Kangju for all North Westerners except Khatris who do have some legitimate BMAC/Oxus ancestry. (Look at the z column)
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01a8a356-3386-405f-a4ae-417238c0212e_1210x330.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01a8a356-3386-405f-a4ae-417238c0212e_1210x330.png)
 
 Srubnaya Alakul prefered over Kazakasthan_Kangju.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f41208-ce49-4787-a3bf-1f0327ab2103_1430x318.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f41208-ce49-4787-a3bf-1f0327ab2103_1430x318.png)
 
@@ -124,18 +135,26 @@ This supports the fact that the original Scythians came straight from Mongolia, 
   
 The Srubnaya culture arose as a mix of the Potapovka (whom David Anthony even calls Proto-Srubna) and Abashevo-type Steppe zone, the latter also being the source of the Sintashta culture and likely it’s war-chariot too.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde71eda3-f3dc-46d4-844a-5b701c2df63f_1964x1392.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde71eda3-f3dc-46d4-844a-5b701c2df63f_1964x1392.png)
 
 Here below we have an example of an Indian man from Madhya Pradesh who has a very basal upstream [R-Z93 clade (R-Y91310)](https://www.yfull.com/tree/R-Y91310/) and he sits right next to a man from the Srubnaya-Alakulskaya ** population at the Kazburun I Barrow Burial grounds in the Western Urals.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F658e7cf1-8ff3-4f09-bee7-fb8018889b0a_1948x444.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F658e7cf1-8ff3-4f09-bee7-fb8018889b0a_1948x444.png)
 
 We find another [very basal R-Z93 clade](https://www.yfull.com/tree/R-YP1506/) in the Srubnaya (I0232) and in a Lahori Punjab (HG03705).
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37a3a665-cb67-420f-83b3-1e7419be1606_1334x424.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37a3a665-cb67-420f-83b3-1e7419be1606_1334x424.png)
 
 Let us move on to simply modeling our populations now. Here are the final results.  
 (For those curious, [here are the qpAdm runs](https://pastebin.com/4BvcZYcS) of those files.)
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5e7b857-a34b-4c7d-ab54-5d29725db45c_1444x920.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5e7b857-a34b-4c7d-ab54-5d29725db45c_1444x920.png)
 
@@ -168,6 +187,8 @@ This will do it for now, and I feel is a satisfactory enough look at the situati
 
 The whiter the shade, the closer the pop is to Srubnaya_Alakul. You can see how far Muslims from Uttar Pradesh and Dravidian tribals are.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cd8b748-3d06-4170-bc70-cf7ec2434662_1294x708.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cd8b748-3d06-4170-bc70-cf7ec2434662_1294x708.png)
 
 Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for free to receive new posts and support my work.
@@ -184,7 +205,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a20197e-d466-4f8c-9bdc-d444dcde413e_500x425.jpeg)
 
-Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
+#### Genetics of North West Indians & Srubnaya as source of Steppe Ancestry
 
 eruditus.substack.com
 

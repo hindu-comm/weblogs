@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/from-deepest-siberia-to-europes-edge)
 
 From deepest Siberia to Europe’s edge
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1ae4824d-c611-4efb-b2af-abd0c237e7e7_800x367.jpeg)
+
+#### From deepest Siberia to Europe’s edge
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # From deepest Siberia to Europe’s edge
 
 ### A history of Finnish genes and culture: part 4 of 6
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -22,17 +38,37 @@ Jul 12, 2021
 
 ∙ Paid
 
-37
+34
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1ae4824d-c611-4efb-b2af-abd0c237e7e7_800x367.jpeg)
+
+#### From deepest Siberia to Europe’s edge
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/from-deepest-siberia-to-europes-edge/comments)
 
 17
 
-1
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!-eOm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5812d7d2-8a17-45de-8279-5adac5a48933_830x832.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5812d7d2-8a17-45de-8279-5adac5a48933_830x832.png)
 
-![](https://substackcdn.com/image/fetch/$s_!-eOm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5812d7d2-8a17-45de-8279-5adac5a48933_830x832.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5812d7d2-8a17-45de-8279-5adac5a48933_830x832.png)
 
 Subscribe
 
@@ -58,9 +94,9 @@ Nevertheless, EHG populations lack any genetic ties to modern groups in East Asi
 
 Eventually, the conveyor belt of archaeological cultures moved on, and farming did arrive in Northeast Europe. By 2500 BC, the region was host to the arrival of the [Corded Ware Culture](https://razib.substack.com/p/steppe-11b-culture-vultures-descend) (CWC). The CWC [were almost certainly Indo-European speaking](https://razib.substack.com/p/steppe-11b-culture-vultures-descend), with origins in the Pontic steppe north of the Black Sea. In Scandinavia, the CWC begat a local variation, the more charismatically named Battle Axe Culture. Having hopped across the Gulf of Bothnia, the Battle Axe people occupied the southern and western coast of modern Finland (leaving the vast interior to foraging populations presumably descended from the CCC). This prefigured the later invasion of crusading Swedes, who contributed our first written records of events in Finland.
 
-[](https://substackcdn.com/image/fetch/$s_!VBvI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86c39936-f633-45dc-b3a1-2c2e73f8a24d_691x563.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86c39936-f633-45dc-b3a1-2c2e73f8a24d_691x563.png)
 
-![](https://substackcdn.com/image/fetch/$s_!VBvI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86c39936-f633-45dc-b3a1-2c2e73f8a24d_691x563.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86c39936-f633-45dc-b3a1-2c2e73f8a24d_691x563.png)
 
 ## This post is for paid subscribers
 

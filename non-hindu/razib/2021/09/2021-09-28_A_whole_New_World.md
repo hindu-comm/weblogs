@@ -1,71 +1,374 @@
 +++
 title = "A whole New World"
 full_title = "A whole New World"
+upstream_url = "https://www.razibkhan.com/p/a-whole-new-world"
 date = "2021-09-28"
-upstream_url = "https://razib.substack.com/p/a-whole-new-world"
-
 +++
-Source: [here](https://razib.substack.com/p/a-whole-new-world).
+Source: [here](https://www.razibkhan.com/p/a-whole-new-world).
 
 A whole New World
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56a71b31-070e-4398-aac4-3fdb3c321127_2048x1585.jpeg)
 
-A whole New World
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### A whole New World
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # A whole New World
 
 ### Archaeology and genetics keep rewriting the ancient peopling of the Americas
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Sep 28, 2021
 
-69
+</div>
 
-[](https://razib.substack.com/p/a-whole-new-world/comments)
+</div>
 
-26
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+95
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56a71b31-070e-4398-aac4-3fdb3c321127_2048x1585.jpeg)
 
-A whole New World
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### A whole New World
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/a-whole-new-world/comments)
+
+<div class="label">
+
+27
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![Kennewick Man](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56a71b31-070e-4398-aac4-3fdb3c321127_2048x1585.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/a-whole-new-world?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/a-whole-new-world?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 In the mid-1990’s a 9,000-year-old skeleton was discovered in Kennewick, Washington. The finding triggered a massive cultural, political and scientific storm that would take two decades to dissipate. This was the now infamous [Kennewick Man](https://en.wikipedia.org/wiki/Kennewick_Man), one of the few human paleontological remains that might elicit recognition in the average person on the street, like the *Australopithecus* [Lucy](https://en.wikipedia.org/wiki/Lucy_(Australopithecus)). Though the original [reconstruction](https://www.bbc.com/news/science-environment-33170655) of Kennewick Man looked suspiciously like Patrick Stewart, Captain Jean-Luc Picard of *Star Trek The Next Generation* fame, the physical anthropologists working on the skull later concluded that Kennewick Man’s morphology was [most similar](https://web.archive.org/web/20061210135223/http://www.tri-cityherald.com/tch/local/story/7997434p-7890471c.html) to that of the Ainu, the indigenous people of Japan. But Kennewick Man was not fated to remain just a scientific curiosity. Controversy soon swirled over whether the native people of the region, like the Umatilla Indians, should have a veto over access to the remains as per the “[Native American Grave Protection Act](https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act).” Bizarrely, [Norse Neo-Pagans](https://www.washingtonpost.com/archive/politics/1997/09/10/pagans-tribes-scientists-battle-over-ancient-bones/b69c5214-aa3a-4e47-bad2-e28eb6ea9882/) asserted a rival claim to Kennewick Man as an ancestor, due to the forensic reconstruction, which implied to them that this individual may have been related to European peoples. Though the debate died down over time, in 2015 [DNA](https://www.oregonlive.com/pacific-northwest-news/2015/01/first_dna_tests_say_kennewick.html) from the remains confirmed that Kennewick man was of Native-American genetic heritage. After this analysis was done, in 2017 he was finally reinterred, as per the wishes of the native tribes of the region.
 
@@ -74,6 +377,18 @@ For me, as a teen in the Pacific Northwest at the time, Kennewick Man was the on
 Archaeology now tells us with a high degree of confidence that humans were in North America more than 20,000 years ago. And genetics now suggests those first peoples may not have been the ancestors of contemporary Native Americans. In the last few years, new data and methods have uncovered tantalizing and previously hidden strands of ancestry connecting tribes and ethnicities in the Amazon rainforest to the indigenous people of Australia and Papua New Guinea, ancestry totally lacking in modern indigenous North Americans or Siberians.
 
 ### **The Pleistocene Blitzkrieg**
+
+<div id="§the-pleistocene-blitzkrieg" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/41890886/the-pleistocene-blitzkrieg">
+
+</div>
+
+</div>
+
+</div>
 
 The Clovis First model was attractive because it was simple, elegant and explained much of the data. The arrival of modern humans at the end of the last Ice Age, around 13,000 years ago, coincided with the rapid extinction of many large land animals in the New World. It is at this time that human remains and artifacts begin to appear all over North America in significant numbers. Some sites appeared more ancient, but most researchers believed that there were problems with the radiometric estimates that produced those inconveniently older dates for them.
 
@@ -87,11 +402,51 @@ There are many points where the Clovis First hypothesis still delivers insights.
 
 But now, we know that the Clovis people were not the first humans in the New World. The earlier sites researchers have long had to explain away as dating mistakes, were probably not as it turns out aberrations, but the true legacies of long pre-Clovis human occupation.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="captioned-image-container">
 
 ![Paisley Caves](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa16c0e5c-45a6-4298-afeb-bc6b4e854d73_2048x1386.jpeg)
 
+</div>
+
 ### **Before Clovis**
+
+<div id="§before-clovis" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/41890886/before-clovis">
+
+</div>
+
+</div>
+
+</div>
 
 Sites older than Clovis have been under excavation for decades. But no human skeletons have been discovered [much earlier than Clovis](https://www.discovermagazine.com/planet-earth/four-of-north-americas-oldest-human-skulls-dont-look-much-alike). The general consensus in the late 20th century was the ‘tools’ discovered at these locations might actually be dismissed as naturally occurring wear and tear generating flint flakes. But over time, the evidence that these locations were valid sites of human occupation that predated Clovis became difficult to rebut. Even though Clovis was indubitably a turning point in the impact of human habitation in North America, the scientific community now broadly agrees there must have been modern humans in North and South America before Clovis.
 
@@ -107,13 +462,53 @@ But archaeology is not the only discipline that’s been unsettling our previous
 
 ### **Out of Siberia**
 
+<div id="§out-of-siberia" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/41890886/out-of-siberia">
+
+</div>
+
+</div>
+
+</div>
+
 Despite the Australian [genetic connections](https://pubmed.ncbi.nlm.nih.gov/26196601/) of some native peoples in the New World, physical anthropologists have long observed that the indigenous people of the New World are most similar to the populations of East Asia, in particular Siberia, when it comes to their morphology. All these populations have high frequencies of [shovel-shaped incisors](https://en.wikipedia.org/wiki/Shovel-shaped_incisors#Genetics), as well as other characteristics like relative hairlessness and high cheekbones.
 
 Genetics broadly confirms this pattern. The closest modern relatives of Native Americans are the peoples of eastern Siberia. And yet there have always been some stubborn wrinkles in this story. New World populations also show connections to Europeans, West Asians and South Asians on many genetic markers, while genetic-clustering algorithms find them shifted away from East Asians toward these other groups. The evidence from maternal and paternal lineages: the mtDNA and Y-chromosome respectively, is the clearest. Haplogroup [X](https://en.wikipedia.org/wiki/Haplogroup_X_(mtDNA)#:~:text=Haplogroup%20X%20is%20a%20human,and%20the%20Horn%20of%20Africa.) on the mtDNA is found across West Eurasia and in North America. More than 90% of the paternal lineages in the New World are haplogroup [Q](https://en.wikipedia.org/wiki/Haplogroup_Q-M242). Q is a “brother” lineage to haplogroup R, famously found from India to Ireland. The two main branches of R1: R1a and R1b are associated with Indo-Europeans, while R2 is mostly found in Iran and India. Q itself is also found in low but significant fractions across Central, West and South Asia, as well as Siberia.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="captioned-image-container">
 
 ![Native American populations are closest to East Asians, but shifted toward Europeans](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4301b06-d028-4914-a773-d3a1ace68c1d_1380x879.png)
+
+</div>
 
 These patterns do not fit a neat model where Native Americans descend solely from the ancestors of modern East Asians. But we know now that the human family tree does not actually resemble a branching tree so much as a complex network anyway. In [2013](https://www.bbc.com/news/science-environment-25020958), the DNA of a boy buried on the shores of Lake Baikal an estimated 24,000 years ago was analyzed using new techniques in paleogenetics ushered in by the [sequencing of the Neanderthal](https://www.eva.mpg.de/genetics/genome-projects/neandertal/press/presskit-neandertal/pdf/Science_Green.pdf) three years earlier. Named for the site, he is known as the Mal'ta boy, and his overall genetic makeup is unlike any human alive today.
 
@@ -123,9 +518,25 @@ Subjecting ancient and modern DNA results to advanced computational models, we n
 
 But that still leaves us with the question of who the earlier people were that left their footprints in New Mexico and tools in the caves of Mexico more than 20,000 years ago. They were a different kind altogether.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F330f47ec-c9d3-4830-b838-b94ef42e6cc2_875x660.png)
 
+</div>
+
 ### **They come from a land down under?**
+
+<div id="§they-come-from-a-land-down-under" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/41890886/they-come-from-a-land-down-under">
+
+</div>
+
+</div>
+
+</div>
 
 Just as with the Mal'ta boy, it took new technology to uncover one of the most surprising, and still most mysterious, results to come out of New-World archaeology and genetics. Using much denser marker sets (hundreds of thousands as opposed to dozens of genetic variants) that allowed for exploration of statistical associations between hundreds of world populations, researchers uncovered a previously [unidentified affinity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4982469/) between some native populations in the Amazon and the aboriginal peoples of Australia and Papua New Guinea. The lab had set up an open-ended model to compare populations against each other, and test for evidence of gene flow across them. In the vast majority of cases, the data charted no special connection. But to the researchers’ surprise, a few groups in the Amazon seemed to have gene flow from Australians and Papuans.
 
@@ -135,11 +546,51 @@ In 2021, a [consortium assembled DNA](https://www.pnas.org/content/118/14/e20257
 
 All of these genetic results were surprising, and do not fit neatly into the standard models and expectations. But what’s exciting is how they are perhaps less amazing now that archaeologists have confirmed that modern humans were almost certainly present in the New World 20-30,000 years ago.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="captioned-image-container">
 
 ![Kelp forest](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5706741e-30d7-4669-9b17-01daaaadd6c5_890x534.jpeg)
 
+</div>
+
 ### **Along the ocean’s shore**
+
+<div id="§along-the-oceans-shore" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/41890886/along-the-oceans-shore">
+
+</div>
+
+</div>
+
+</div>
 
 We are now beyond Clovis First, but the path forward is still unclear. The certainty that some humans were present in the New World before 20,000 years ago will require reevaluation of many sites whose findings were considered implausible. Archaeologists digging in Mexico will be working at Chiquihuite cave, discovered only in 2012.
 
@@ -149,36 +600,198 @@ So with all this, are we equipped to say who the first Americans were? I think w
 
 The fact that we can say these people are related in some way to today’s Australians and Papuans draws our modern eyes to the tropical western Pacific. But it is more likely that these relatives of the Australo-Papuans were ancient Siberians. The world 30,000-40,000 years ago was different enough that we have to tread very carefully as we wend our way, mostly blindly, back to these forks in the family tree. The geographical connotations of modern terminology can mislead more than they illuminate. A [great deal of circumstantial evidence](https://www.gnxp.com/WordPress/2020/03/30/the-deep-origins-of-east-eurasians/) indicates an ancient bifurcation between populations ancestral to modern East Asians and another group with closer connections to Australians. Today Y-chromosomal haplogroup D is found in Japan, Tibet, and the Andaman Islands. This is a clue to the likelihood of an ancient population in East Asia that was absorbed by expansionist millet and rice farmers widening their range outward over the last 10,000 years. The Australo-Papuan ancestry in modern indigenous South Americans likely derives from a northern branch of these long-lost ancient East Eurasians.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49e5fdf7-6733-4cba-bb13-b4f3eb2ce9ba_919x650.png)
+
+</div>
 
 But how did these people arrive on the shores of America when vast ice sheets spanned North America and Siberia, blocking movement eastward? Long before the revolution in dating and genetics, archaeologists in the American West were developing a theory that the peopling of the New World [could have occurred through a coastal migration](https://link.springer.com/chapter/10.1007/978-3-319-15138-0_5). This model appeals because a fully [ice-free corridor](https://en.wikipedia.org/wiki/Settlement_of_the_Americas#Emergence_and_submergence_of_Beringia) in the interior of North America does not seem to have opened up until 13,000 years ago when the Clovis people began to expand. Today the theory is necessary because it is quite clear modern humans arrived in North America more than 20,000 years ago, when we know glaciation blocked conventional landward migration out of Beringia into North America. So how does the theory run? The earliest Americans were related to a now-extinct group in coastal Siberia, distantly related to today’s Australo-Papuan populations. They were ocean-oriented and likely had small boats that they used to move along the shore. Many researchers believe that they exploited North-Pacific kelp forests, which can support maritime foragers. As they migrated eastward, they found isolated refugia surrounded by glaciated territory in western North America. Eventually, these earliest Americans arrived in America’s Pacific Northwest, south of the ice sheets, and settled in places like Oregon’s Paisley Caves.
 
 The paucity of material remains, and the minimal impact on megafauna from these putative earliest arrivals leads us to suspect that these early humans existed at low population densities. The tools in Chiquihuite, Mexico are quite primitive and exhibit little change over time. Eventually, these earliest Americans moved southward and were the first occupants of the Monte Verde site in southern Chile. Here their population was larger, and the arrival of Beringians 13,000 years ago did not totally overwhelm them in the southern continent as it did in North America. Nevertheless, these unknown people who occupied the New World for nearly 10,000 years before the arrival of the ancestors of modern indigenous people remain like ghosts to us, leaving faint traces in the genetics of local populations, and only the most tenuous of material legacies. Their ecological footprint was light enough not only to allow for the flourishing of Pleistocene megafauna until the arrival of the Beringians, but it was also minimal enough that archaeologists denied their existence for decades, and geneticists failed to pick up their trace scent. But now? Both archaeologically and genetically, it’s a whole New World.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/a-whole-new-world?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[](https://razib.substack.com/p/a-whole-new-world/comments)
+<div class="_container_1xsdj_1">
 
-26
+<div class="_sideBySideWrap_1xsdj_10">
 
-[](javascript:void(0))
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Share](https://www.razibkhan.com/p/a-whole-new-world?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+95
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56a71b31-070e-4398-aac4-3fdb3c321127_2048x1585.jpeg)
 
-A whole New World
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### A whole New World
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/a-whole-new-world/comments)
+
+<div class="label">
+
+27
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -20,11 +20,15 @@ The Bhagavad Gītā : Transcendental Ethics & Cosmic Unity
 
 Sep 22, 2025
 
-15
+3
+
+[](https://ramaseshanchandrasekaran.substack.com/p/the-bhagavad-gita-transcendental/comments)
 
 1
 
-4
+2
+
+[](javascript:void(0))
 
 Share
 
@@ -293,10 +297,14 @@ This then, is the message of the Gītā in short.
 
 Thank you for reading this far ! May we all realise Kṛṣṇa someday.
 
-15
+3
+
+[](https://ramaseshanchandrasekaran.substack.com/p/the-bhagavad-gita-transcendental/comments)
 
 1
 
-4
+2
+
+[](javascript:void(0))
 
 Share

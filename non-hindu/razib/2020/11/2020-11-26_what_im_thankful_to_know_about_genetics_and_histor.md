@@ -2,8 +2,7 @@
 title = "What I'm thankful to"
 full_title = "What I'm thankful to know about genetics and history in 2020"
 upstream_url = "https://razib.substack.com/p/what-im-thankful-to-know-about-genetics"
-date = "1998-04-12"
-
+date = "2020-11-26"
 +++
 Source: [here](https://razib.substack.com/p/what-im-thankful-to-know-about-genetics).
 

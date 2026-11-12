@@ -1,9 +1,8 @@
 +++
 title = "Under pressure the"
 full_title = "Under pressure the paradox of the diamond"
-date = "2021-10-24"
 upstream_url = "https://razib.substack.com/p/under-pressure-the-paradox-of-the"
-
+date = "2021-10-24"
 +++
 Source: [here](https://razib.substack.com/p/under-pressure-the-paradox-of-the).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F11707c48-4931-4a15-a8b8-1ddf1ba3c125_1130x764.png)
 
-Under pressure: the paradox of the diamond
+#### Under pressure: the paradox of the diamond
 
 razib.substack.com
 
@@ -24,30 +23,34 @@ Twitter
 Facebook
 
 Email
+
+Notes
 
 # Under pressure: the paradox of the diamond
 
 ### What obscure Jewish subgroups teach us about Ashkenazi and Sephardic flourishing
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Oct 24, 2021
 
-49
+53
 
 [](https://razib.substack.com/p/under-pressure-the-paradox-of-the/comments)
 
-14
+15
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F11707c48-4931-4a15-a8b8-1ddf1ba3c125_1130x764.png)
 
-Under pressure: the paradox of the diamond
+#### Under pressure: the paradox of the diamond
 
 razib.substack.com
 
@@ -59,7 +62,13 @@ Facebook
 
 Email
 
-![**Genetic relationships of Jewish groups**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F11707c48-4931-4a15-a8b8-1ddf1ba3c125_1130x764.png)
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F11707c48-4931-4a15-a8b8-1ddf1ba3c125_1130x764.png)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F11707c48-4931-4a15-a8b8-1ddf1ba3c125_1130x764.png)
+
+**Genetic relationships of Jewish groups**
 
 **Related:** [The eternal wanderers: Sephardic Jewish genetics and culture](https://razib.substack.com/p/the-eternal-wanderers-sephardic-jewish) and [Ashkenazi Jewish genetics: a match made in the Mediterranean](https://razib.substack.com/p/ashkenazi-jewish-genetics-a-match).
 
@@ -75,7 +84,11 @@ But in this piece I want to turn my attention to the small fraction of groups wh
 
 Ultimately, the stories and struggles of these most marginal Jewish groups leave us to ask whether a key ingredient in the outsized success of the most ascendant Ashkenazi and Sephardic Jewish communities over time might have been their distinct and clearly delineated minority role within majority Christian or Muslim nations. And why?
 
-![**Bene Israel Jews of India**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82d5e79-294f-45bf-bffd-7140ca82bdd2_552x385.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82d5e79-294f-45bf-bffd-7140ca82bdd2_552x385.png)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82d5e79-294f-45bf-bffd-7140ca82bdd2_552x385.png)
+
+**Bene Israel Jews of India**
 
 ### **On the edge of the world**
 
@@ -93,7 +106,11 @@ And the Bene Israel are not the only Jews in India whose racial identity casts d
 
 Today the Bene Israel are conventionally Jewish in their practices, but the historical record and ethnography makes it clear that their religious distinctiveness had become highly attenuated by the 18th century. It is clear that only their proximity to Jewish groups who were still in contact with the rest of the Diaspora eventually brought them back into the mainstream, and prevented them from becoming another of the “Lost Tribes,” fading into the Indian cultural milieu in which they had assimilated to such a great extent. The Bene Israel illustrate how easily Jewish identity becomes tenuous in isolation. It seems to require integration into the broader cultural network of the Diaspora to maintain practices and revive identity.
 
-![**Yemeni Jews**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F261e364c-2c3a-483b-91b2-55994af526ed_1347x1600.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F261e364c-2c3a-483b-91b2-55994af526ed_1347x1600.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F261e364c-2c3a-483b-91b2-55994af526ed_1347x1600.jpeg)
+
+**Yemeni Jews**
 
 ### **Among the converted peoples**
 
@@ -109,7 +126,11 @@ The genetic similarity between Yemeni Jews and their Muslim neighbors is analogo
 
 **Subscribe**
 
-![**Beta Israel in Jerusalem**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6124f0b-a722-40c5-8365-527448446b65_1024x768.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6124f0b-a722-40c5-8365-527448446b65_1024x768.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6124f0b-a722-40c5-8365-527448446b65_1024x768.jpeg)
+
+**Beta Israel in Jerusalem**
 
 ### **Live and become**
 
@@ -123,7 +144,11 @@ Apostasy was rare, but not a unique event, and fueled worries about Judaization 
 
 None of these instances themselves resolve the origin of the Beta Israel. But, they suggest even if the Beta Israel were Judaizers, their religious evolution was sincere and not necessarily opportunistic. There was no great benefit in adopting Judaism in 1500 AD in a Christian Ethiopia roiled by the fight to fend off Muslim jihads. Though there are instances of Orthodox Christian Ethiopians adopting the Beta Israel identity, the reality is that these people have inextricably entwined their lineage and posterity with the Jewish people. Their people now form part of the Jewish people.
 
-![**Chinese Jews who rediscovered their heritage**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27a840cf-0dfc-4fd3-8677-27a8ac9d51a8_512x336.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27a840cf-0dfc-4fd3-8677-27a8ac9d51a8_512x336.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27a840cf-0dfc-4fd3-8677-27a8ac9d51a8_512x336.jpeg)
+
+**Chinese Jews who rediscovered their heritage**
 
 ### **The “Lost Ones”**
 
@@ -163,17 +188,21 @@ If the glittering cultural, artistic and intellectual achievements that members 
 
 [Share](https://razib.substack.com/p/under-pressure-the-paradox-of-the?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+53
+
 [](https://razib.substack.com/p/under-pressure-the-paradox-of-the/comments)
 
-14
+15
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F11707c48-4931-4a15-a8b8-1ddf1ba3c125_1130x764.png)
 
-Under pressure: the paradox of the diamond
+#### Under pressure: the paradox of the diamond
 
 razib.substack.com
 
@@ -185,4 +214,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

@@ -8,50 +8,140 @@ Source: [here](https://thedharmadispatch.substack.com/p/the-fabled-vasistha-visv
 
 The Fabled Vasistha - Visvamitra Encounter: Devudu Narasimha Sastry's Profound Transformation of a Foundational Story
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b978c9f-8b98-4497-a592-c9025b1423b7_1200x1232.jpeg)
+
+#### The Fabled Vasistha - Visvamitra Encounter: Devudu Narasimha Sastry's Profound Transformation of a Foundational Story
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
+
 # The Fabled Vasistha - Visvamitra Encounter: Devudu Narasimha Sastry's Profound Transformation of a Foundational Story
 
 ### Devudu Narasimha Sastri's literary crowning glory, "Mahabrahmana" gives us a memorable depiction of the famous Vasistha-Visvamitra story.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
-Jun 07, 2022
-
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+Jun 7, 2022
 
 3
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+[](https://thedharmadispatch.substack.com/p/the-fabled-vasistha-visvamitra-encounter/comments)
 
 2
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!D13T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b978c9f-8b98-4497-a592-c9025b1423b7_1200x1232.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b978c9f-8b98-4497-a592-c9025b1423b7_1200x1232.jpeg)
 
-![Devudu Narasimha Sastry](https://substackcdn.com/image/fetch/$s_!D13T!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b978c9f-8b98-4497-a592-c9025b1423b7_1200x1232.jpeg "Devudu Narasimha Sastry")
+![Devudu Narasimha Sastry](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b978c9f-8b98-4497-a592-c9025b1423b7_1200x1232.jpeg "Devudu Narasimha Sastry")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+THE STORY OF THE RISHIS VASISTHA AND VISVAMITRA is unarguably one of the more lofty summits of our cultural and literary heritage. Occurring first in the Rg Veda, it is as ancient and as exalted as our spiritual civilisation. “Ancient” in the sense of “perennial.” The incredible transformations that this story has undergone from that civilisational dawn up to the flowering period of the Puranic Era merits a separate chapter.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+The Fifth Mandala of the Rg Veda is composed by the Visvamitra Family. Also, in the Third Mandala, several verses are dedicated to cursing Vasistha and his family in rather harsh terms. This is the selfsame Rg Veda that accords the most illustrious pedestal to Vasistha, the Noblest of all Rishis. It equally celebrates Visvamitra as the courageous sage who rescued Sudasa and adopted Sunashepa as his own son. Above all, Visvamitra was the *Draṣṭāra* (visionary) who had realised the Gayatri Mantra.
 
-THE STORY OF THE RISHIS VASISTHA AND VISVAMITRA is unarguably one of the more lofty summits of our cultural and literary heritage. Occurring first in the Rg Veda, it is as ancient and as exalted as our spiritual civilisation. “Ancient” in the sense of “perennial.” The incredible transformations that this story has undergone from that civilisational dawn…
+But by the time of the Ramayana, the well-known story had undergone a profound transformation. Maharshi Valmiki tempered the sagely enmity by setting in the backdrop of an extraordinary confrontation which culminates in Visvamitra elevating himself to the status of a Rajarshi. The story of the process of his elevation has illustrated and expounded upon the fundamental values that make up the Sanatana civilisation.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+Needless, Visvamitra occurs in a profuse fashion in the Mahabharata as well: for example, in the Adi, Vana, Salya, Drona, Shanti, Anushasana and Mausala Parvas.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+And by the time of the Puranas, Visvamitra’s story acquired substantial wings. For example, the *Devi Bhagavata* gives us the celebrated story of Harishchandra, who went on to become one of the greatest cultural idioms of Bharatavarsha. Harishchandra is still the epitome of and a synonym for truth in the Hindu psyche.
 
-Claim my free post
+In the non-Puranic annals, we notice Visvamitra in the second *Taranga* of Kathamukhalambaka in the *Kathasaritsagara*, in which he curses a celestial danseuse named Vidyutprabha for trying to seduce him.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fthe-fabled-vasistha-visvamitra-encounter&utm_source=paywall&utm_medium=web&utm_content=58403957&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=58403957&next=https://thedharmadispatch.substack.com/p/the-fabled-vasistha-visvamitra-encounter)
+However, the most enduring seed-bed of the story fleshing out the hostility between Vasistha and Visvamitra is their encounter in the Ramayana. Both the specifics and the aftermath of the encounter have left their lasting imprint on our cultural and literary heritage.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+**Subscribe**
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+## **Mahabrahmana: A Picture of Bharatavarsha’s Atma**
+
+DEVUDU NARASIMHA SASTRY, one of the most acclaimed litterateurs of Kannada who blazed an independent path in the last century, gives us an evocative, brilliant and insightful depiction of this encounter in his pathbreaking classic, *Mahabrahmana.* The work easily ranks as one of the classics of world literature and continues to run into multiple reprints. The genius of Devudu is his original brand of amalgamation of the various versions of this celebrated Vasistha-Visvamitra story and then *owning* it: to the extent that after reading *Mahabrahmana,* it is hard to visualise it in any other manner. As a Vedic scholar who had mastered Sastric learning in the traditional mould, there was no way Devudu could portray either Rishi in a less-than reverential light. But because the hostility was real and its story was spread over so many copious annals, he summoned his creative Sarasvati to sublimate it. What we get is an inimitable masterpiece that could emanate only from a Rishi.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3699b6f2-1f5f-4073-938d-d4a877efd822_273x416.jpeg)
+
+![Mahabrahmana: Buy Mahabrahmana by Devudu Narasimha Shastri at Low Price in India \| Flipkart.com](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3699b6f2-1f5f-4073-938d-d4a877efd822_273x416.jpeg "Mahabrahmana: Buy Mahabrahmana by Devudu Narasimha Shastri at Low Price in  India | Flipkart.com")
+
+Mahabrahmana Novel: Cover Page
+
+But before we can examine Devudu’s portrayal of the pivotal Vasistha-Visvamitra confrontation, an essential literary backdrop drawn directly from this Rishi’s own words, throws a floodlight of guidance. The following is a translated excerpt taken from Devudu’s All India Radio lecture dated January 16, 1960, two years before he attained *Sadgati.*
+
+## Devudu's View on Literature
+
+”In my view, literature is the expansion that occurs in all aspects of our life. To phrase it in the words of our ancients, literature is the happy penance undertaken in pursuit of the four *Purusharthas.* It is the device of devoting oneself to *Paramartha* even while leading life in the material world. However, the question arises: “does contemporary Kannada literature have this quality?” The answer: our Dharmasastra extols even an infertile cow as the Kamadhenu. The quality will develop eventually, there is no hurry. But for this to occur, people who have taken up creative literature must first introspect within.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39132387-186e-4114-8715-cb2bb5ff8196_2156x1098.png)
+
+![](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39132387-186e-4114-8715-cb2bb5ff8196_2156x1098.png)
+
+“Contemporary Indian literature is an imitation of the West. Literature in the West developed through unceasing conflict. There, if a writer chose one path, another writer would ask, “why shouldn’t I choose the opposite or a different path?” Thus, the path that was trodden by hundreds of such folks lost the capacity to produce grass. This barrenness was given various names such as “highways” of Western literature. However, the motivation that comes from this state of affairs is not faulty by itself. But the blind imitation that it has birthed in our own literature is unarguably wrong.
+
+“In its source-fount, the purpose of our literature must exude joy. Our contemporary litterateurs claim that they will rectify society through their literature. Sure, nobody says no. But my question: has what we have written first rectified ourselves? Besides, there is a new formula among our writers: of earning renown through exposing the defects of others. Apply this formula to music and see what happens. There, if we need to clearly define a *Taala,* we must first list out everything that it is *not.* Is this even practically possible? Even if it is, what is the ultimate point of such an exercise in negation?
+
+“Fundamentally, the nature of the mind is to seek defects because it does not easily accept the greatness of others. Given this, of what standard will be the literature created by such a mind? This is the reason one needs to constantly introspect one’s *Atman.* The litterateur, akin to this self-introspection, must also investigate the subject of his literature. Just as how no commodity is sold without profit, the writer must select a subject that profits both himself and society.
+
+The Dharma Dispatch Digest is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+**Subscribe**
+
+“A litterateur desires respect, acclaim and status. But he thinks he gets it through his books which stir the waters of the society. We have all read in school that water is purified by applying a paste of powdered *Nirmal* nuts (Strychnos potatorum) to the vessel. This is precisely what needs to happen in the field of literature. If the society needs to profit from literature, the reader must experience joy even for a brief moment. The goal of that joy is the serenity of mind. The mind which is more restless than a monkey and crueller than a serpent must not be further provoked by inducing agitation: *Aśāntasya kutaḥ sukhaṁ.*
+
+“The other trend among our current writers is to regard money as the ultimate arbiter of success. But there is something far greater than money. Until recently, the British monarch Edward and the Emperor Gautama, thousands of years ago, renounced their throne. Edward abdicated succumbing to the charms of a woman. Gautama renounced in his quest for Inner Peace. Herein lies the difference. Votaries of the West set the acquisition of a woman as their final goal. The goal our people has always been this inner quest, or self-realisation.
+
+“Our people claim that they are the proud inheritors of a profound culture spanning Yugas. If that is true, what is the nature and essence of that culture? How does one imbibe it? These are the journeys that our present writers must undertake. Until then, creating true literature will remain a dream. A bad dream.
+
+“Then there are people who claim that our culture was enslaved by outsiders because it was weak. Kalidasa has answered all such fatalists long ago: *kasyaikantam sukham upanatam duhkham ekantato va* — no one experiences continual happiness or continual misery. Likewise, literature too gets created whether or not there is Rasa and beauty in it. However, there will be at least some element of *Samskruti* in all true literature. I hope that day dawns once again in our literature.”
+
+## A Havis to Vedic Culture
+
+DEVUDU’S *MAHABRAHMANA—*among other works in his superb repertoire— is the standing monument of this profound theoretical exposition on true literature. He could speak with such unabashed and blunt candour about literature because the literature he had created remains unbeatable. In ordinary or mediocre hands, the extraordinary story of Visvamitra would have ended up as hero-worship at best or a revenge saga at worst. In Devudu’s hands, it became a great *Havis* (offering) to the Vedic culture of Bharatavarsha itself. Starting with its genesis:
+
+> The impulse to write this novel was born in 1926. By that time, I had > realised the glory of Gayatri, and I decided to write the story of the > first man who had not only realised Gayatri but had shared it with the > world thereby performing the greatest act of benevolence. **However, I > felt that it was improper to embark on writing about this great Rishi without first undergoing the prerequisite training in the traditional fashion. The** ***Arsha Rna*** **\[debt owed to our Rishis\] had to be repaid first before writing such a work.** >
+> By 1947, the impulse to write this work had matured, and I began penning it down. It was complete by August 1950. >
+> Those who have written great works will realize a fundamental truth in > their experience: the *Jiva* within each of us, which is incessantly > writhing and yelling, “Me!” “Me!” “I!” “I!” will discard its pettiness > and fly high like a seashell and attain a new insight hitherto unavailable to it. It will then fill the heart with this insight and that fullness will emerge in the form of a literary work.” (Preface to *Mahabrahmana.* Emphasis added)
+
+Speechless when I first read it. Speechless even now.
+
+EVERY SYLLABLE AND WORD AND SENTENCE in *Mahabrahamana* is a pearl and it is beyond my capacity to do justice to a work which is almost in the Upanishadic league. Or to borrow Devudu’s own words, “the *Atma* of Bharatavarsha has been depicted in this work…Therefore, for those who think that this is just a story, it is just a story; for those who regard it as a Sastra, it is a Sastra; for those who regard it as Vidya, it is Vidya.”
+
+In our own time, Shatavadhani Dr. Ganesh has given us the best and the most comprehensive exposition of *Mahabrahmana* in his lectures delivered more than a ago. Not stopping at that, he has also given us a fine Sanskrit translation of the work.
+
+What I can manage is to offer a glimpse from the work, the aforementioned pivotal encounter of Vasistha and Visvamitra. The story is well-known but how the master sculptor Devudu Narasimha Sastry has chiselled it is not so well-known.
+
+*To be continued*
+
+------------------------------------------------------------------------
+
+#### An Appeal: Please Empower Our Sacred Work @ The Dharma Dispatch
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*. It is your subscriptions that enables and empowers us to produce in-depth essays on Hindu cultural and literary heritage like the one you just read. Every bit of your subscription pays our bills and *helps us offer more and better content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+**Subscribe**
+
+3
+
+[](https://thedharmadispatch.substack.com/p/the-fabled-vasistha-visvamitra-encounter/comments)
+
+2
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

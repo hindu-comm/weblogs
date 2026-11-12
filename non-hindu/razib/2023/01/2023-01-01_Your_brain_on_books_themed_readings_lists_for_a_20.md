@@ -1,69 +1,372 @@
 +++
 title = "Your brain on books"
 full_title = "Your brain on books themed readings lists for a 20pageaday habit in 2023"
+upstream_url = "https://www.razibkhan.com/p/your-brain-on-books-themed-readings"
 date = "2023-01-01"
-upstream_url = "https://razib.substack.com/p/your-brain-on-books-themed-readings"
-
 +++
-Source: [here](https://razib.substack.com/p/your-brain-on-books-themed-readings).
+Source: [here](https://www.razibkhan.com/p/your-brain-on-books-themed-readings).
 
 Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0059270-2442-4f9e-bc42-c034a774d832_800x717.jpeg)
 
-Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Jan 1
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-71
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://razib.substack.com/p/your-brain-on-books-themed-readings/comments)
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
 
-24
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
 
-[](javascript:void(0))
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+Jan 1, 2023
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+95
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0059270-2442-4f9e-bc42-c034a774d832_800x717.jpeg)
 
-Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/your-brain-on-books-themed-readings/comments)
+
+<div class="label">
+
+30
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0059270-2442-4f9e-bc42-c034a774d832_800x717.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/your-brain-on-books-themed-readings?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/your-brain-on-books-themed-readings?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 Happy 2023! An old friend recently asked me to help her make a reading list for the new year. She reflected on how easy it is to spend hours reading daily, especially online, only to get to the end of the day and realize almost every word of it was ephemeral. She wondered, what if she just read 20 pages of something worthy every day? By the end of the year, no matter how much time she wasted online, she’d have at least finished a couple of dozen books she’d always meant to read.
 
@@ -76,6 +379,18 @@ Fifty pages a day is a nice average for a year. You finish a solid 18,000 pages 
 I know a lot of you, like me, think in terms of titles, not pages. Your 2023 reading lists, or highlights thereof, are welcome in the comments. But if anyone wants to jump into a preset 2023 reading list like the ones Ken used to pass out, below you’ll find three themed lists that by my rough count, each run close to 7300 pages of text. Page counts exclude indexes and end notes. I’m happy to help with alternate recommendations in the comments, since many will have already read some of the core texts in each and want to swap out certain titles.
 
 ### **Humans, who else?**
+
+<div id="§humans-who-else" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/94020708/humans-who-else">
+
+</div>
+
+</div>
+
+</div>
 
 If you’ve been reading my book recommendations for long, you can probably close your eyes and recite half of these titles. What can I say? They’re canonical for a reason. I’m happy to propose good alternatives to swap in if you want to share in the comments which books you need to switch out.
 
@@ -107,6 +422,18 @@ If you’ve been reading my book recommendations for long, you can probably clos
 [From Dawn to Decadence: 1500 to the Present: 500 Years of Western Cultural Life](https://www.amazon.com/exec/obidos/ASIN/0060175869//geneexpressio-20) (802 pages)
 
 ### **A Golden Age Dawns: genomics’ early decades and paleoanthropology’s maturity**
+
+<div id="§a-golden-age-dawns-genomics-early-decades-and-paleoanthropologys-maturity" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/94020708/a-golden-age-dawns-genomics-early-decades-and-paleoanthropologys-maturity">
+
+</div>
+
+</div>
+
+</div>
 
 At the heart of this Substack project is my awe at everything the 21st century’s genomics revolution can now tell us with precision about our species’ past. Those rough drafts and updates to conventional wisdom constantly emerge as peer-reviewed papers from the world’s foremost labs. It’s still early days for genomics as a field, so actual books taking into account the latest findings are few and far between. But this list includes the young domain’s few popular must-reads, plus my pick of the pre-genomic texts that set the scene for the age of miracles we’re living through. In contrast, books on human evolution date back decades, and there are now many gems that we can reread almost like prequels we’ve already spoiled with lately revealed facts and updated frameworks.
 
@@ -158,6 +485,18 @@ At the heart of this Substack project is my awe at everything the 21st century�
 [The Symbolic Species: The Co-evolution of Language and the Brain](https://www.amazon.com/exec/obidos/ASIN/0393317544//geneexpressio-20) (464 pages)
 
 ### **Don’t say they didn’t warn you**
+
+<div id="§dont-say-they-didnt-warn-you" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/94020708/dont-say-they-didnt-warn-you">
+
+</div>
+
+</div>
+
+</div>
 
 I’ve read every book (some multiple times) on the first two lists, but among all the books I can personally vouch for in this set are some I have yet to get to that people I trust have been insistently recommending. It’s probably nice to live in a time when you can look back over your lifetime and laugh at how overblown prior decades’ most alarmist predictions have proven. Unfortunately, that time is not ours. The Cassandra-like critiques and warnings in some of the more recent books that follow are often so much less dystopian than our actual intellectual climate today, you’d be forgiven for yearning for their feared scenarios.
 
@@ -213,30 +552,190 @@ I’ve read every book (some multiple times) on the first two lists, but among a
 
 [The Decadent Society: How We Became the Victims of Our Own Success](https://www.amazon.com/exec/obidos/ASIN/B07WCCPMZT//geneexpressio-20) (243 pages) 2020
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/your-brain-on-books-themed-readings?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
 
-[](https://razib.substack.com/p/your-brain-on-books-themed-readings/comments)
+<div class="_sideBySideWrap_1xsdj_10">
 
-24
+<div class="_emailInputWrapper_1xsdj_55">
 
-[](javascript:void(0))
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/your-brain-on-books-themed-readings?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+95
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0059270-2442-4f9e-bc42-c034a774d832_800x717.jpeg)
 
-Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Your brain on books: themed readings lists for a 20-page-a-day habit in 2023
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/your-brain-on-books-themed-readings/comments)
+
+<div class="label">
+
+30
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

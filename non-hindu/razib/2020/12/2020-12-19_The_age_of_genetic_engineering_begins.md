@@ -1,9 +1,8 @@
 +++
 title = "The age of genetic"
 full_title = "The age of genetic engineering begins"
-date = "2020-12-19"
 upstream_url = "https://razib.substack.com/p/the-age-of-genetic-engineering-begins"
-
+date = "2020-12-19"
 +++
 Source: [here](https://razib.substack.com/p/the-age-of-genetic-engineering-begins).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2b6977e-fbd7-4854-9230-2dd5f994ed7c_1000x667.jpeg)
 
-The age of genetic engineering begins
+#### The age of genetic engineering begins
 
 razib.substack.com
 
@@ -25,11 +24,13 @@ Facebook
 
 Email
 
+Notes
+
 # The age of genetic engineering begins
 
 ### 2020 shows that life science ends the great stagnation
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
@@ -43,11 +44,13 @@ Dec 19, 2020
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2b6977e-fbd7-4854-9230-2dd5f994ed7c_1000x667.jpeg)
 
-The age of genetic engineering begins
+#### The age of genetic engineering begins
 
 razib.substack.com
 
@@ -58,6 +61,10 @@ Twitter
 Facebook
 
 Email
+
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2b6977e-fbd7-4854-9230-2dd5f994ed7c_1000x667.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2b6977e-fbd7-4854-9230-2dd5f994ed7c_1000x667.jpeg)
 
@@ -76,6 +83,8 @@ In the late 2000s Peter Thiel and Tyler Cowen made waves arguing that technologi
 But there is room for hope. We may not have flying cars, but we are now grasping the machinery of life itself and reshaping it. To behold today’s changes in biology is to witness a revolution.
 
 The last twenty years have seen a massive crash in the price of genomic sequencing:
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdae62048-6e45-4480-9ac2-93b23c788e58_1456x819.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdae62048-6e45-4480-9ac2-93b23c788e58_1456x819.jpeg)
 
@@ -102,6 +111,8 @@ Similarly, mass-scale genetic engineering wouldn’t have been feasible even if 
 [Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 **The end of Mendelian disease**
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7238df28-f737-440f-9137-772e1ee2935d_1200x630.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7238df28-f737-440f-9137-772e1ee2935d_1200x630.png)
 
@@ -143,17 +154,21 @@ Thank you again for reading, for subscribing and for forwarding to friends who y
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
+15
+
 [](https://razib.substack.com/p/the-age-of-genetic-engineering-begins/comments)
 
 2
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2b6977e-fbd7-4854-9230-2dd5f994ed7c_1000x667.jpeg)
 
-The age of genetic engineering begins
+#### The age of genetic engineering begins
 
 razib.substack.com
 
@@ -165,4 +180,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

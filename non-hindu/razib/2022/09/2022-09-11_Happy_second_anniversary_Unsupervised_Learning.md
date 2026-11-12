@@ -1,9 +1,8 @@
 +++
 title = "Happy second"
 full_title = "Happy second anniversary, Unsupervised Learning!"
-date = "2022-09-11"
 upstream_url = "https://razib.substack.com/p/happy-second-anniversary-unsupervised"
-
+date = "2022-09-11"
 +++
 Source: [here](https://razib.substack.com/p/happy-second-anniversary-unsupervised).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff81ded66-19fc-4eee-b13a-d4a2375ffe10_800x885.jpeg)
 
-Happy second anniversary, Unsupervised Learning!
+#### Happy second anniversary, Unsupervised Learning!
 
 razib.substack.com
 
@@ -29,11 +28,11 @@ Email
 
 ### You can’t touch this: a quiz for the diehards
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-Sep 11
+Sep 11, 2022
 
 61
 
@@ -43,11 +42,13 @@ Sep 11
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff81ded66-19fc-4eee-b13a-d4a2375ffe10_800x885.jpeg)
 
-Happy second anniversary, Unsupervised Learning!
+#### Happy second anniversary, Unsupervised Learning!
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://take.quiz-maker.com/QEU2UTJ23)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff81ded66-19fc-4eee-b13a-d4a2375ffe10_800x885.jpeg)
 
@@ -70,6 +73,8 @@ Email
 Today is the second anniversary of the *Unsupervised Learning* Substack*.* I did not choose 9/11/2020 by design. I just happened to import my little email list of 1,000 long-time followers from Mailchimp that day. I had created the list in late 2016 at the urging of a former coworker, who said “newsletters are going to be big.” I was skeptical, but six years later I have to give him credit. My email list is beyond 20,000 and grows by the day.
 
 My interest in the Substack model was piqued by Andrew Sullivan’s resurrection of [The Weekly Dish](https://andrewsullivan.substack.com/) on the site in the summer of 2020. I’d admired Andrew since he was an editor at *The New Republic* in the early 1990’s, and came to know him a bit as a fellow blogger during the 2000’s. If Substack was good enough to lure Andrew back, I assumed it was good enough for me. Basically, by 2020 I saw “[social proof](https://en.wikipedia.org/wiki/Social_proof)” in the Substack model. Even though I created the account on 9/11/2020, I didn’t do much with it for a couple of months. It was after Matt Yglesias unleashed the content-generation tsunami that is [Slow Boring](https://www.slowboring.com/) that I paid attention and started thinking about what I might want this iteration of my decades of online writing to look like. Yglesias and I both have origins in the early 2000’s blogosphere. If he was going independent again, I wanted back in on whatever this reboot of blogging would look like.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fac7468bd-9a64-4512-b927-da6f622eb444_963x660.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fac7468bd-9a64-4512-b927-da6f622eb444_963x660.png)
 
@@ -144,7 +149,11 @@ Finally, one comment I cannot say I’ve received from my [astute readers](https
 
 If you take it and want to submit your email at the end or tweet your [quiz](https://take.quiz-maker.com/QEU2UTJ23) results and tag me @razibkhan, I’ll do a random draw at the end of Wednesday, September 14 and pass along a free yearly subscription to the winner.
 
-![*SHOULD HAVE KNOWN BETTER: but no shame in having more yet to learn.*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F69379718-fafc-44f3-a76e-b3f7322cca58_531x296.png)
+[](https://take.quiz-maker.com/QEU2UTJ23)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F69379718-fafc-44f3-a76e-b3f7322cca58_531x296.png)
+
+*SHOULD HAVE KNOWN BETTER: but no shame in having more yet to learn.*
 
 [](https://razib.substack.com/p/happy-second-anniversary-unsupervised/comments)
 
@@ -156,7 +165,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff81ded66-19fc-4eee-b13a-d4a2375ffe10_800x885.jpeg)
 
-Happy second anniversary, Unsupervised Learning!
+#### Happy second anniversary, Unsupervised Learning!
 
 razib.substack.com
 
@@ -167,5 +176,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

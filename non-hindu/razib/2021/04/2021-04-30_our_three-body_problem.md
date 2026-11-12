@@ -2,8 +2,7 @@
 title = "Our ThreeBody Problem"
 full_title = "Our ThreeBody Problem"
 upstream_url = "https://www.razibkhan.com/p/our-three-body-problem"
-date = "600-02-05"
-
+date = "2021-04-30"
 +++
 Source: [here](https://www.razibkhan.com/p/our-three-body-problem).
 

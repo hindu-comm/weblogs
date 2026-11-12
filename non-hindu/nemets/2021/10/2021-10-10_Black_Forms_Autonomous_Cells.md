@@ -1,9 +1,8 @@
 +++
 title = "Black Forms, Autonomous"
 full_title = "Black Forms, Autonomous Cells"
-date = "2021-10-10"
 upstream_url = "https://nemets.substack.com/p/black-forms-autonomous-cells"
-
+date = "2021-10-10"
 +++
 Source: [here](https://nemets.substack.com/p/black-forms-autonomous-cells).
 
@@ -11,29 +10,63 @@ Black Forms, Autonomous Cells
 
 Share this post
 
-Black Forms, Autonomous Cells
+#### Black Forms, Autonomous Cells
 
 nemets.substack.com
 
 Copy link
 
-Twitter
-
 Facebook
 
 Email
+
+Note
+
+Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+#### Discover more from Nemets
+
+Prehistory, wild adventures, obscure tribes, & historical processes
+
+Over 5,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
 
 # Black Forms, Autonomous Cells
 
 ### Dmitry Bobrov on the post-Soviet evolution of Russian nationalism
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)](https://substack.com/profile/22641223-peter-nimitz?utm_source=author-byline-face)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
 
-[Peter Nimitz](https://substack.com/profile/22641223-peter-nimitz)
+[Peter Nimitz](https://substack.com/@nemets)
 
 Oct 10, 2021
 
-6
+12
+
+Share this post
+
+#### Black Forms, Autonomous Cells
+
+nemets.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://nemets.substack.com/p/black-forms-autonomous-cells/comments)
 
@@ -41,19 +74,7 @@ Oct 10, 2021
 
 [](javascript:void(0))
 
-Share this post
-
-Black Forms, Autonomous Cells
-
-nemets.substack.com
-
-Copy link
-
-Twitter
-
-Facebook
-
-Email
+Share
 
 By Dmitry Bobrov  
 Translated by Peter Nimitz
@@ -98,13 +119,13 @@ In the 1990s, RNU received a great deal of human and material resources, but fai
   
 In my opinion, the failures and mistakes of the Russian nationalist movement after the collapse of the USSR were caused primarily by the lack of political experience & culture in the post-Soviet space. Only gradually did the nationalists accumulate experience that allowed for the appearance of more effective projects.  
   
-An example of a large nationalist organization that has developed a competent organization with effective actions is the Movement Against Illegal Immigration (MAII). MAII formed in 2002, and was recognized as an extremist organization and banned in the Russian Federation in 2011.  
+An example of a large nationalist organization that has developed a competent organization with effective actions is the [Movement Against Illegal Immigration](https://en.wikipedia.org/wiki/Movement_Against_Illegal_Immigration) (MAII). MAII formed in 2002, and was recognized as an extremist organization and banned in the Russian Federation in 2011.  
   
 MAII was one of the first groups to focus on specific violations of Russian rights, and used high-profile crimes to increase their own recognition. Their publicizing of and participation in current affairs to win public sympathy was a great success.  
   
 MAII had two features. Firstly, the organization was equally nationalistic (in fact) and civil (in form). The civic Russian identity types and nationalists were united around the important issue of illegal immigration. Through discussion and action around this issue, nationalists were able to expand their audience beyond the right wing fringes.  
   
-For example, MAII took action when an ethnic conflict broke out in the Karelian city of Kondopoga after the murder of two local residents by Chechens in 2002. A group of MAII representatives headed by Alexander Potkin (Belov) immediately went there and organized a running news feed from Knodopoga. The government immediately opened up a hate speech investigation again Potkin.  
+For example, MAII took action when an [ethnic conflict broke out](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B8_%D0%B2_%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D0%BF%D0%BE%D0%B3%D0%B5) in the Karelian city of [Kondopoga](https://en.wikipedia.org/wiki/Kondopoga) after the murder of two local residents by Chechens in 2002. A group of MAII representatives headed by Alexander Potkin (Belov) immediately went there and organized a running news feed from Konodopoga. The government immediately opened up a hate speech investigation again Potkin.  
   
 The MAII’s participation in the legal defense of Alexandra Ivannikova was also of great important. Ivannikova was tried in court from 2003-2005 for killing a Caucasian driver who tried to rape her. MAII's Alexander Belov publicly handed her a large cash prize "for courage". In addition, MAII organized public meetings in support of Ivannikova. As a result, Ivannikova was acquitted and all charges were dropped from her.  
   
@@ -117,17 +138,17 @@ Part II
 
 It is difficult to talk about the effectiveness of nationalist activities due to government repression after the collapse of the USSR. Repression was at first rare and not particularly harsh, but as the decade progressed the it almost defeated the nationalist movement. I am referring only to repression for political speech and social activities, not persecution for violence and terrorism.
 
-In the 1990s, a number of nationalists were arrested and prosecuted for hate speech. Many nationalist ideologues, leaders, publishers, authors, and journalists appeared were put on trial. Most of them received minor criminal sentences. For example, in 1992 in Saint Petersburg, the leader of the neo-pagan "Union of Wends" Viktor Bezverhy was arrested for publishing Hitler's "My Struggle", but the charges were eventually dropped. Ex-deputy of the Leningrad City Council, member of the Interior Ministry, and Bosnian war veteran Yury Belyaev was acquitted on charges of "inciting ethnic hatred" in 1996. In 1997 and 1998, retired colonel Yevgeny Shekatihin, the publisher of nationalist newspaper "Our Fatherland" was twice acquitted on charges of inciting racial, national, and religious hatred.
+In the 1990s, a number of nationalists were arrested and prosecuted for hate speech. Many nationalist ideologues, leaders, publishers, authors, and journalists appeared were put on trial. Most of them received minor criminal sentences. For example, in 1992 in Saint Petersburg, the leader of the neo-pagan "Union of Wends" Victor Bezverhy was arrested for publishing Hitler's "My Struggle", but the charges were eventually dropped. Ex-deputy of the Leningrad City Council, member of the Interior Ministry, and Bosnian war veteran Yury Belyaev was acquitted on charges of "inciting ethnic hatred" in 1996. In 1997 and 1998, retired colonel Yevgeny Shekatihin, the publisher of nationalist newspaper "Our Fatherland" was twice acquitted on charges of inciting racial, national, and religious hatred.
 
 Until 1996, the Criminal Code's article 74 prescribed up to three years in prison or a fine for “deliberate actions aimed at inciting national, racial or religious hatred or hatred”. The modern edition of the Criminal Code has article 282 prescribes from two to five years in prison for "hate speech". (Currently, Putin has submitted a draft amendment to the Duma which will revised article 282. Currently, the amendment has not been implemented).
 
-Additionally, in the 1990s the system for suppressing "hate speech" had not been perfected, and the authorities found it difficult to successfully prosecute cases. In those days, most "hate speech" cases were prosecuted at the demands of professional “liberals” and “human rights defenders”. The famous Saint Petersburg "democrat", African studies professor Nikolay Girenko served as the city prosecutor’s expert on "hate speech" and helped fabricate cases against Russian nationalists until he was assassinated in 2004 by members of the Schultz-88 group.
+Additionally, in the 1990s the system for suppressing "hate speech" had not been perfected, and the authorities found it difficult to successfully prosecute cases. In those days, most "hate speech" cases were prosecuted at the demands of professional “liberals” and “human rights defenders”. The famous Saint Petersburg "democrat", African studies professor Nikolay Girenko served as the city prosecutor’s expert on "hate speech" and helped fabricate cases against Russian nationalists until he was assassinated in 2004 by members of the [Schultz-88 group](https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BB%D1%8C%D1%86-88).
 
-The government didn't merely use criminal cases for "hate speech" to suppress nationalists. In 1994, Boris Mironov, chairman of the Russian Federation Press Committee, was fired for his nationalistic remarks. In 1996, the leader of the National Republican Party of Russia Nikolai Lysenko was arrested when his own office was bombed (the charges were later dropped). In 1999, the Savior electoral bloc led by Alexander Barkashov was removed from the Duma elections. In 2003, the party registration of the National Sovereign Party of Russia was canceled. The leader of the People’s National Party, Alexander Suharevsky, barely survived a bombing of his office the same year. Suharevsky had previously spent six months in prison for a "hate speech" conviction, although he was later amnestied.
+The government didn't merely use criminal cases for "hate speech" to suppress nationalists. In 1994, Boris Mironov, chairman of the Russian Federation Press Committee, was fired for his nationalistic remarks. In 1996, the leader of the National Republican Party of Russia Nikolay Lysenko was arrested when his own office was bombed (the charges were later dropped). In 1999, the Savior electoral bloc led by Alexander Barkashov was removed from the Duma elections. In 2003, the party registration of the National Sovereign Party of Russia was canceled. The leader of the People’s National Party, Alexander Suharevsky, barely survived a bombing of his office the same year. Suharevsky had previously spent six months in prison for a "hate speech" conviction, although he was later amnestied.
 
 Nonetheless, there was a big window of opportunity for nationalist activities in that time. Those opportunities gradually narrowed down until the massive repressions of the 2010s, when the authorities crushed the nationalist movement through the fabrication of hundreds of criminal cases and bans of entire organization. Even individuals and groups with no criminal history that showed signs of nationalist views were persecuted in the 2010s.
 
-Nationalist successes often provoked a response from the regime, and any successes were usually nullified due to subsequent repressions. RNU was able to register an electoral bloc with the participation of current Duma deputies with a deposit of 10 million rubles, but Justice Minister Chaika removed RNU from the elections for political reasons. Despite the successful registration, RNU was unable to participate in the democratic process as nationalists desired.
+Nationalist successes often provoked a response from the regime, and any successes were usually nullified due to subsequent repressions. RNU was able to register an electoral bloc with the participation of current Duma deputies with a deposit of 10 million rubles, but Justice Minister Chayka removed RNU from the elections for political reasons. Despite the successful registration, RNU was unable to participate in the democratic process as nationalists desired.
 
 Due to escalating political repression, the attitude of the government towards nationalists has become increasingly important. Most nationalists now agree on the need to soften rhetoric and establish cooperation with the government for the survival of the movement.
 
@@ -153,7 +174,7 @@ Every political movement generates a tremendous amount of content, consisting of
 
 In the 16th & 17th centuries in Russia, anonymous handwritten leaflets were distributed in campaigns against the authorities and specific public figures. In the 19th century, new political movements used widely used printed proclamations, leaflets, pamphlets, periodicals, and ideological works to spread their message. In the 2oth century, the new media of radio and television appeared. Naturally, these were used for political purposes as well. After the collapse of the USSR, the Russian national movement, now free to act, faced the task of transmitting its message. It is necessary to convince the Russian people of the importance of nationalism.
 
-At the first stage, nationalists mainly used old methods of promoting their views: leaflets, books and newspapers. In the 1990s, nationalist newspapers were openly sold and were even be distributed through the official distribution networks (the former Printing Union). In the beginning of the 1990s, I was able to purchase nationalist newspapers in the periodicals section of an ordinary bookstore on Ligovsky Prospekt in Saint Petersburg. While they were widely distributed, nationalist propaganda of that time was poorly formatted and ineffective. Compared to the mainstream media with its greater financial and technical capabilities, nationalist leaflets rarely boasted decent print quality, layout, and content. Most nationalist newspapers of the time were regional publications. The all-Russian newspaper RNU's "Russian Order" was distributed in other former Soviet republics, but published irregularly. Even the newspapers of larger groups such as NDPR corresponded at best to the standards of political agitation a century ago. Small publications were often the project of just one person.
+At the first stage, nationalists mainly used old methods of promoting their views: leaflets, books and newspapers. In the 1990s, nationalist newspapers were openly sold and were even be distributed through the official distribution networks (the former Printing Union). In the beginning of the 1990s, I was able to purchase nationalist newspapers in the periodicals section of an ordinary bookstore on Ligovsky Prospect in Saint Petersburg. While they were widely distributed, nationalist propaganda of that time was poorly formatted and ineffective. Compared to the mainstream media with its greater financial and technical capabilities, nationalist leaflets rarely boasted decent print quality, layout, and content. Most nationalist newspapers of the time were regional publications. The all-Russian newspaper RNU's "Russian Order" was distributed in other former Soviet republics, but published irregularly. Even the newspapers of larger groups such as NDPR corresponded at best to the standards of political agitation a century ago. Small publications were often the project of just one person.
 
 The success of any modern political party or organization depends heavily on media channels. These media channels stay in constant communication with supporters to obtain their views, relay news of the movement and its successes, make statements and evaluate events, and share opinions. The absence of funding for nationalist media has long been an issue and hurt propagation of nationalist views and recruitment.
 
@@ -175,7 +196,7 @@ All attempts by readers of "Rightist News" to organize into political groups hav
 
 "Satellite and Pogrom"
 
-Another website is Yegor Prosvirnin’s "Satellite and Pogrom" project. It started as a blog in LiveJournal, then became a group on the VKontakte social network and, finally became a fully fledged website. The website is now unfortunately shut down due to pressure from the government and international plutocrats.
+Another website is Yegor Prosvirnin’s "Satelliteand Pogrom" project. It started as a blog in LiveJournal, then became a group on the VKontakte social network and, finally became a fully fledged website. The website is now unfortunately shut down due to pressure from the government and international plutocrats.
 
 "Satellite and Pogrom" success was due to use of social networks/internet, high quality graphic design, and high brow content created by the most gifted of Russian nationalists. The resulting readership brought the project to sound commercial footing and self-sufficiency. For the first time, nationalist online media was able to sell access to their content and pay authors. For the six years that "Satellite and Pogrom" was on the internet, nationalists had a voice. It also raised the intellectual bar of movement and eliminated the stereotype of nationalists being stupid and ill-educated.
 
@@ -183,24 +204,28 @@ To be continued.
 
 (note from translator: Bobrov never followed up on this series)
 
+12
+
+Share this post
+
+#### Black Forms, Autonomous Cells
+
+nemets.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 [](https://nemets.substack.com/p/black-forms-autonomous-cells/comments)
 
 1
 
 [](javascript:void(0))
 
-Share this post
-
-Black Forms, Autonomous Cells
-
-nemets.substack.com
-
-Copy link
-
-Twitter
-
-Facebook
-
-Email
-
-Like this post
+Share

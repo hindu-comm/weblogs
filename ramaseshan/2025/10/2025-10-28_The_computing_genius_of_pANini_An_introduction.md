@@ -20,11 +20,11 @@ The computing genius of Pāṇini : An introduction
 
 Oct 28, 2025
 
-11
+9
 
 4
 
-3
+1
 
 Share
 
@@ -1366,16 +1366,16 @@ There are many rules governing the ordering of the constituents in a list. Such 
 
 *“Human comprehension demands topic before comment and given before new…The Scottish prayer asks the Lord to deliver us from “ghoulies and ghosties and long-leggedy beasties and things that go bump in the night”—not from “things that go bump in the night and long-leggedy beasties and ghoulies and ghosties.” The order fits with our cognitive processes: it’s taxing to work on a big heavy phrase (things that go bump in the night) while you are holding in memory an incomplete bigger phrase it’s part of (in this case, the four-part coordination embracing things, beasties, ghoulies, and ghosties). A big heavy phrase is easier to handle if it comes at the end, when your work assembling the overarching phrase is done and nothing else is on your mind. (It’s another version of the advice to prefer right-branching trees over left-branching and centre-embedded ones.) Light-before-heavy is one of the oldest principles in linguistics, having been discovered in the fourth century BCE by the Sanskrit grammarian Pāṇini It often guides the intuitions of writers when they have to choose an order for items in a list, as in life, liberty, and the pursuit of happiness; The Wild, The Innocent, and The E Street Shuffle; and Faster than a speeding bullet! More powerful than a locomotive! Able to leap tall buildings in a single bound! Topic, then comment. Given, then new”.*
 
-In fact, in linguistics, this is called Panini’s law. <https://en.wiktionary.org/wiki/Panini%27s_law>
+In fact, in linguistics, this is called Panini’s law. [https://en.wiktionary.org/wiki/Panini%27s_law](https://en.wiktionary.org/wiki/Panini%27s_law)
 
 Panini mentions this in Astadhyayi [2.2.34](https://ashtadhyayi.com/sutraani/2/2/34) - अल्पाच्तरम् . S.K.Vasu’s commentary reads *“In a द्वन्द्व compound, that word-form which has fewer vowels, is to be placed first. Thus प्लक्ष +न्यग्रोध = प्लक्षन्यग्रोधौ ; (not न्यग्रोधप्लक्षौ)”*!!
 
 I sincerely hope that you have enjoyed this article and got a spark. What I have provided is just a small drop in the ocean of Paninian grammar and I urge you to explore this vast treasure trove of knowledge.
 
-11
+9
 
 4
 
-3
+1
 
 Share

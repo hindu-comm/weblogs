@@ -8,33 +8,369 @@ Source: [here](https://www.razibkhan.com/p/brazil-a-melting-pot-genetic-present)
 
 Brazil: a melting-pot genetic present and an uncharted deep past 
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed2932c-0a50-45ab-84f1-b65080edbd54_607x607.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Brazil: a melting-pot genetic present and an uncharted deep past
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
 # Brazil: a melting-pot genetic present and an uncharted deep past
 
 ### Glimpsing humanity’s genetic future in its 7th largest nation
 
-[](https://substack.com/@razib)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_17s6c_230 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_deldb_7 _size-40_deldb_23">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_3axfk_204 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
 
 [Razib Khan](https://substack.com/@razib)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_3axfk_207 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
+
 Jun 01, 2024
+
+</div>
+
+<div class="pencraft pc-reset _color-pub-secondary-text_3axfk_207 _line-height-20_3axfk_95 _font-meta_3axfk_131 _size-11_3axfk_35 _weight-medium_3axfk_162 _transform-uppercase_3axfk_242 _reset_3axfk_1 _meta_3axfk_442">
 
 ∙ Paid
 
-105
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_17s6c_230 pc-reset _border-top-detail-themed_17s6c_47 _border-bottom-detail-themed_17s6c_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+98
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_17s6c_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed2932c-0a50-45ab-84f1-b65080edbd54_607x607.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Brazil: a melting-pot genetic present and an uncharted deep past
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_3axfk_186 _line-height-20_3axfk_95 _font-text_3axfk_121 _size-13_3axfk_45 _weight-regular_3axfk_159 _reset_3axfk_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/brazil-a-melting-pot-genetic-present/comments)
+
+<div class="label">
 
 21
 
-8
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!hfOh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed2932c-0a50-45ab-84f1-b65080edbd54_607x607.jpeg)
+</div>
 
-![](https://substackcdn.com/image/fetch/$s_!hfOh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed2932c-0a50-45ab-84f1-b65080edbd54_607x607.jpeg)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed2932c-0a50-45ab-84f1-b65080edbd54_607x607.jpeg)
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_11q5m_1">
+
+<div class="_sideBySideWrap_11q5m_10">
+
+<div class="_emailInputWrapper_11q5m_57">
+
+</div>
 
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 In 1494, the expansionary Iberian powers negotiated the Treaty of Tordesillas to officially divvy up the planet’s freshly discovered regions beyond Europe. Over 370 leagues to Cape Verde’s west, a line was drawn down the globe. To the left lay lands discovered by Spain since Columbus’ explorations, and to the right African and Asian territories the Portuguese crown had scooped up in late medieval expansion, begun by Henry the Navigator two generations prior. Enacted ‌as a compromise to assuage Portuguese anxiety about its monopoly of an African route to the east, the most momentous long-term consequence of Tordesillas bisecting the globe along a line of longitude would actually prove to be an unforeseen one: the genesis of Brazil, a singularly multiracial and multicultural melting pot that within some five centuries would become one of the globe’s most consequential nations. At South America’s very easternmost edge, barely known to 16th-century cartographers, Brazil chanced to fall east of Tordesillas’ arbitrary meridian. This technicality allowed the lesser Iberian power to claim the new continent’s eastern edge, which it would later join to the vast Amazonian hinterlands in the interior, creating a singular nation-state of imperial scope. While Portugal counts just 10 million citizens today, Brazilians number over 200 million. The Treaty of Tordesillas, a largely forgotten artifact of early Renaissance Europe and its internecine conflicts, momentously altered the human geography of the planet.
 
@@ -44,11 +380,25 @@ Mushrooming from a population of under 20 million in the late 1800’s to over 2
 
 But just as Brazil remains a nation of the future, where disparate streams of human migration continue to recombine, it also has a deep past. The bedrock of Brazil’s demographic past is its indigenous citizens, whose roots in the region go back tens of thousands of years, and whose blood still courses through the veins of most Brazilians. And deep in the rainforests of the Amazon, two tribes carry genes bearing undiluted testament to astonishingly ancient human migrations even prior, tipping us off to a demographic wave until recently wholly unimagined.
 
-[](https://substackcdn.com/image/fetch/$s_!Qdf8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6f7ca91-08c3-4a1b-b27c-db7a96786d6f_1211x374.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!Qdf8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6f7ca91-08c3-4a1b-b27c-db7a96786d6f_1211x374.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6f7ca91-08c3-4a1b-b27c-db7a96786d6f_1211x374.png)
+
+</div>
 
 ### **The First Ones**
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§the-first-ones" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 In 2015, Swedish geneticist Pontus Skoglund, was first author on a publication that produced one of the most enigmatic and still mysterious results this fervidly productive century in human population genetics has yet seen, [Genetic evidence for two founding populations of the Americas](https://www.nature.com/articles/nature14895). Skoglund trained cutting edge genomic methods on samples from the Human Genome Diversity Project (the HGDP, a collection comprising 1,043 individuals from 52 populations that researchers had been studying for decades) and found two of the American populations alone, the Suruí and Karitiana, whose DNA contradicts the standard narrative about the peopling of the Americas. Over recent decades, archaeologists had established that 20,000 years ago ancient Siberian mammoth hunters migrated into the lost territory of Beringia between Asia and Alaska, eventually pushing eastward into the New World by 15,000 years ago. What Skoglund and his collaborators found is that though this model adequately explains the North American indigenous populations and the other South America one from Colombia, those two isolated western Amazonian populations alone also carry some genetic ancestry which shares closer roots with the indigenous peoples of the Andaman Islands, New Guinea and Australia (groups we bracket under Australo-Melanesians), than with other eastern Eurasians like Han Chinese or Siberians. Such a result was so inexplicable given what we knew then, and remains so even today, that the researchers recall checking and double-checking, anxious to make sure they weren’t misinterpreting some statistical artifact.
 
@@ -72,8 +422,46 @@ But the earlier human populations did not totally disappear. Their legacy persis
 
 ### **Three races into one**
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ipix0_1">
+
+<div id="§three-races-into-one" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="paywall" component-name="Paywall" testid="paywall">
+
 ## This post is for paid subscribers
+
+<div class="paywall-cta">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center pc-reset">
 
 Subscribe
 
+</div>
+
+</div>
+
+<div class="paywall-login">
+
 [Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Fbrazil-a-melting-pot-genetic-present&for_pub=razib&change_user=false)
+
+</div>
+
+</div>
+
+</div>

@@ -1,9 +1,8 @@
 +++
 title = "RKUL Time Well Spent"
 full_title = "RKUL Time Well Spent 07/07/2022"
-date = "2022-07-08"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-07072022"
-
+date = "2022-07-08"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-07072022).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d2b27f-60d3-48b9-a3ce-7cf017da7cf0_1024x454.jpeg)
 
-RKUL: Time Well Spent 07/07/2022
+#### RKUL: Time Well Spent 07/07/2022
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### The Survey Edition
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-Jul 8
+Jul 8, 2022
 
-19
+18
 
 [](https://razib.substack.com/p/rkul-time-well-spent-07072022/comments)
 
@@ -43,11 +42,13 @@ Jul 8
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d2b27f-60d3-48b9-a3ce-7cf017da7cf0_1024x454.jpeg)
 
-RKUL: Time Well Spent 07/07/2022
+#### RKUL: Time Well Spent 07/07/2022
 
 razib.substack.com
 
@@ -59,6 +60,8 @@ Facebook
 
 Email
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d2b27f-60d3-48b9-a3ce-7cf017da7cf0_1024x454.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d2b27f-60d3-48b9-a3ce-7cf017da7cf0_1024x454.jpeg)
 
 Your time is finite. Your phone and the internet stand ready to help you squander it. Here are my latest picks for spending it well instead. Feel free to add more in the comments.
@@ -67,9 +70,13 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 In the 20 years I’ve been writing on the internet I’ve been doing polls and surveys every few years. I have a general quantitative sense of my readership already, but I wanted to see what the breakdowns were for Substack specifically. I asked for some demographic information, posed some questions relating to this website (how did you find me?), and solicited thoughts on future post topics.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F616b8849-ab88-4b80-89d4-705c53b4f3c5_600x371.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F616b8849-ab88-4b80-89d4-705c53b4f3c5_600x371.png)
 
 More than 850 people contributed to the survey, a mix of free and paid subscribers. I sent the two tiers to distinct survey interfaces, so I have the information disaggregated, but in some cases, I wanted to merge them. For example, above is some basic demographic information relating to generations for all respondents. You can see the generations are pretty balanced overall, though the real “greatest” generation, we [Xennials](https://en.wikipedia.org/wiki/Xennials), are overrepresented.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd657420f-20b9-4031-b3ec-a212a064336a_905x342.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd657420f-20b9-4031-b3ec-a212a064336a_905x342.jpeg)
 
@@ -77,13 +84,19 @@ No big reveals here, at least for me. For the question regarding religion, I req
 
 In relation to other basic data, the modal reader of my content is a secular white American male. These numbers are very familiar, as my male readerships have consistently floated between 80 and 90%, and 80% of my respondents are always non-Hispanic whites, with South Asians almost always number two.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b7f540c-2400-4e67-ade8-5101e416be4f_600x371.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b7f540c-2400-4e67-ade8-5101e416be4f_600x371.png)
 
 In terms of politics, we’re all over the spectrum in significant percentages, but readers lean more right. I asked readers about how socially and economically liberal (Left) and conservative (Right) they were on a 1 to 5 scale, with 1 being more socially liberal and economically conservative. In this framework, an extreme libertarian would give 1 and 1 as responses, and an extreme fascist would give 5 and 5. Paid subscribers were 2.89 social liberal (so just to the liberal side) and 2.31 pro-free market (more strongly economically conservative). Free subscribers were 2.89 on social liberalism, the exact same average as paid. But for economics, they were 2.48, so a little less pro-free market. The political variation among readers is high, but there is a right-libertarian tinge, which perhaps reflects many of my own biases.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F568963d9-5859-4f19-becc-6dfd650fbe88_600x371.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F568963d9-5859-4f19-becc-6dfd650fbe88_600x371.png)
 
 When it comes to education, nearly half have some graduate degree, with nearly 20% holding Ph.D.s. This compares to about 14% of [Americans](https://www.census.gov/newsroom/press-releases/2022/educational-attainment.html) 25 and older having some graduate degree, but I know for a fact that a nontrivial number of my readers are graduate students or university students who will join that 20%, so this might not even be a fair comparison. About 1% of respondents have a high school diploma or less (the value for those age 25 and older in the [US](https://www.census.gov/newsroom/press-releases/2022/educational-attainment.html) is 37%).
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7288f79c-615c-4fc5-ac37-aea2d294d7a5_600x371.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7288f79c-615c-4fc5-ac37-aea2d294d7a5_600x371.png)
 
@@ -251,7 +264,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d2b27f-60d3-48b9-a3ce-7cf017da7cf0_1024x454.jpeg)
 
-RKUL: Time Well Spent 07/07/2022
+#### RKUL: Time Well Spent 07/07/2022
 
 razib.substack.com
 
@@ -262,5 +275,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

@@ -1,9 +1,8 @@
 +++
 title = "A Bus Ride to YoshkarOla"
 full_title = "A Bus Ride to YoshkarOla"
-date = "2021-10-08"
 upstream_url = "https://nemets.substack.com/p/a-bus-ride-to-yoshkar-ola"
-
+date = "2021-10-08"
 +++
 Source: [here](https://nemets.substack.com/p/a-bus-ride-to-yoshkar-ola).
 
@@ -11,29 +10,63 @@ A Bus Ride to Yoshkar-Ola
 
 Share this post
 
-A Bus Ride to Yoshkar-Ola
+#### A Bus Ride to Yoshkar-Ola
 
 nemets.substack.com
 
 Copy link
 
-Twitter
-
 Facebook
 
 Email
+
+Note
+
+Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+#### Discover more from Nemets
+
+Prehistory, wild adventures, obscure tribes, & historical processes
+
+Over 5,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
 
 # A Bus Ride to Yoshkar-Ola
 
 ### Lesson learned: take the expensive bus
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)](https://substack.com/profile/22641223-peter-nimitz?utm_source=author-byline-face)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
 
-[Peter Nimitz](https://substack.com/profile/22641223-peter-nimitz)
+[Peter Nimitz](https://substack.com/@nemets)
 
 Oct 8, 2021
 
-17
+26
+
+Share this post
+
+#### A Bus Ride to Yoshkar-Ola
+
+nemets.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://nemets.substack.com/p/a-bus-ride-to-yoshkar-ola/comments)
 
@@ -41,19 +74,7 @@ Oct 8, 2021
 
 [](javascript:void(0))
 
-Share this post
-
-A Bus Ride to Yoshkar-Ola
-
-nemets.substack.com
-
-Copy link
-
-Twitter
-
-Facebook
-
-Email
+Share
 
 It was a wintry day in the Chuvash capital of Cheboksary. I had thoroughly enjoyed my time in the city, seen the sights, and met a number of ethnic Chuvash. As it was time to leave for my next city, I collected my thoughts.  
   
@@ -83,24 +104,28 @@ We endured several more fishtails and sliding turns on the trip, but were unable
   
 To my immense relief, we pulled into the Yoshkar Ola avtovokzal safely. An insane old woman wearing a scarf greeted us with a glare and screeching as we stepped out of the bus onto the slushy cement. I checked my phone. We had done the 90 minute drive in 55 minutes. The driver was clearly in a hurry, abandoned the bus, and walked away swiftly. I spent the rest of the day exploring the lovely capital of Mari El - Yoshkar Ola.
 
+26
+
+Share this post
+
+#### A Bus Ride to Yoshkar-Ola
+
+nemets.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 [](https://nemets.substack.com/p/a-bus-ride-to-yoshkar-ola/comments)
 
 2
 
 [](javascript:void(0))
 
-Share this post
-
-A Bus Ride to Yoshkar-Ola
-
-nemets.substack.com
-
-Copy link
-
-Twitter
-
-Facebook
-
-Email
-
-Like this post
+Share

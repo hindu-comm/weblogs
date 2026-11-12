@@ -6,48 +6,104 @@ date = "2022-02-12"
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/a-lovely-miniature-of-village-level).
 
-A Lovely Miniature of Village-Level Jurisprudence in South India
+A Lovely Miniature of Village-Level Jurisprudence in South India 
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fbe0580-9756-43d3-b078-edd9844f28d0_1200x675.jpeg)
+
+#### A Lovely Miniature of Village-Level Jurisprudence in South India
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
 
 # A Lovely Miniature of Village-Level Jurisprudence in South India
 
 ### With the aid of inscriptions, we present a miniature of the awesome history of village-level judicial administration in South India.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Feb 12, 2022
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 2
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!53yy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fbe0580-9756-43d3-b078-edd9844f28d0_1200x675.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fbe0580-9756-43d3-b078-edd9844f28d0_1200x675.jpeg)
 
-![An Enchanting Miniature of Village-Level Jurisprudence in South India](https://substackcdn.com/image/fetch/$s_!53yy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fbe0580-9756-43d3-b078-edd9844f28d0_1200x675.jpeg "An Enchanting Miniature of Village-Level Jurisprudence in South India")
+![An Enchanting Miniature of Village-Level Jurisprudence in South India](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1fbe0580-9756-43d3-b078-edd9844f28d0_1200x675.jpeg "An Enchanting Miniature of Village-Level Jurisprudence in South India")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+THE CIVILISATIONAL, CULTURAL AND SOCIAL HISTORY of Bharatavarsha is also the history of its *Grāmas* or villages. It is in this treasure-chest that we find the foundational and enduring aspects of the all-round life of our people. Our *Grāmas* really hold the magic key that unlocks an array of secrets. Indeed, from time immemorial, our villages were the countless miniature centres that provided civilizational sustenance and cultural preservation and cushioned both these in face of serial depredations from all sorts of unclean *Mlecchas*.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+As we never tire of repeating in these pages of *The Dharma Dispatch,* the administrative system of Bharatavarsha was characterized by a genius-level decentralization of which the *Grāma* was the last, the smallest, and the best functioning unit. If a backhanded compliment was needed to extol its glory, it comes from two *Mlecchas.*
 
-THE CIVILISATIONAL, CULTURAL AND SOCIAL HISTORY of Bharatavarsha is also the history of its *Grāmas* or villages. It is in this treasure-chest that we find the foundational and enduring aspects of the all-round life of our people. Our *Grāmas* really hold the magic key that unlocks an array of secrets. Indeed, from time immemorial, our villages were the cou…
+The first is by a British joint collector, B. Knight:
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+> It is in the villages of southern India that we must go to see Hindu life at its best, unaffected as it is by Mahommedan conquest or by the influence of Western civilisation.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+The second is by another British official, the vile racist Grant Duff:
 
-Claim my free post
+> …no good can be effected for these people, but only much harm, by > introducing European methods of Government, foreign to their > characters and conditions. What we can do is to enable these myriad little worlds to live in peace, instead of being perpetually liable to be harried and destroyed by every robber or petty tyrant who could pay a handful of scoundrels to follow him.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fa-lovely-miniature-of-village-level&utm_source=paywall&utm_medium=web&utm_content=48599957&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=48599957&next=https://thedharmadispatch.substack.com/p/a-lovely-miniature-of-village-level)
+However, within the scope of this essay, we shall focus on just one chief feature: the typical, timeless Hindu village as a centre of noble jurisprudence, a feature that “democracy” has wholly obliterated and made irrecoverable.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+To do this, we will consider a few illustrative examples drawn from inscriptions and epigraphical records describing some real-life cases and their judgements in the Tamil *desam.* The period spans about three centuries: from the tenth and eleventh century Chola era to the thirteenth century Pandyan era.
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+### Custom as a Hallowed Judicial Precedent
+
+IN THE VEDIC ERA, the *Grāmyavādin* was the village judge assisted by a *Sabha* or advisory council. There was also the *Śatapati,* a judicial official who doubled as a revenue collector.
+
+The *Manusmriti* gives us *Grāmika* or *grāmaṇi,* or village headmen who also performed juridical duties.
+
+Then, Kautilya wisely says that disputes should be settled by *Sāmanta-grāma-vr̥d'dhāh,* meaning elders and leaders of the village.
+
+All these ancient Sanatana lawgivers and luminaries of jurisprudence were unanimous on a cardinal precept: the centrality of custom and usage which were honoured by time and which no law-book can adequately and *fully* define. This among others is the reason for Kautilya’s emphasis on the wisdom and the sense of judgement of *grāma-vrd'dhāh.* In this, he echoes his predecessor Manu:
+
+> The customs handed down in regular succession (since time immemorial) … in any country is called the conduct of virtuous man.
+
+The other famed lawgiver Gautama says:
+
+> The customs of countries, varnas, and families, which are not opposed to the sacred literature (i.e., Vedas), have authority.
+
+We can append any number of such citations but all of them affirm and reaffirm the same truth of Sanatana jurisprudence: Custom and usage were inextricable from the life of Hindus taken in a total sense. And in the specific case of justice, ancient usage was raised to the dignity of law. The more ancient, greater the dignity, i.e., this antiquity added sanctity to the sanction of law.
+
+If this was the attitude of the proverbial ordinary citizen, there is a profounder side to it. An injunction found in every text of Dharmasastra is this: the ruler had to preserve, respect, uphold and defend the ancient customs of even those lands which he had newly conquered. As we have noted [elsewhere](https://www.dharmadispatch.in/history/chanakyas-eternal-imprint-on-bharatavarshas-history-conclusion), this injunction forms part of the *Dharma-Vijayi* king.
+
+### Imprint on History
+
+Now, when we consider how this tenet of Hindu jurisprudence manifested itself in South Indian history, we get a term used for centuries in the Karnāṭa-dēśa: *Pūrvada maryāde,* meaning customs, usages, mores and manners inherited from an un-dateable past.
+
+Inscriptions and records from the earliest political empires of the Karnāṭa-dēśa up to the splendid Vijayanagara Empire invariably mention the term. From the obscure chieftain up to fabled monarchs, every ruler proudly declared that he was a promoter of *Pūrvada maryāde.* In fact, even the Vijayanagara Empire at its zenith under Sri Krishnadevaraya, rarely altered this *Pūrvada maryāde*; on the contrary, he scrupulously adhered to it. His governors and chieftains and judges decided cases based on these ancient customs and usages that had the sanction of the eons.
+
+Which brings us to the pre-Vijayanagara Era of South India.
+
+**[Read the full brilliant piece!](https://www.dharmadispatch.in/culture/an-enchanting-miniature-of-village-level-jurisprudence-in-south-india)**
+
+------------------------------------------------------------------------
+
+Support The Dharma Dispatch. Help us keep our work free so we can offer more back to our discerning readers by taking a paid subscription below.
+
+**Subscribe**
+
+2
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

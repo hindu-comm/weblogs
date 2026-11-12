@@ -1,65 +1,344 @@
 +++
 title = "Dissecting The Idea Of"
 full_title = "Dissecting The Idea Of India"
-date = "2021-10-09"
 upstream_url = "https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea"
-
+date = "2021-10-09"
 +++
 Source: [here](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea).
 
 Dissecting The Idea Of India 
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
 Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1yrbq_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
 
-Dissecting The Idea Of India
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Dissecting The Idea Of India
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1">
 
 rasajournal.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Dissecting The Idea Of India
 
 ### On decolonizing history in order to understand the present better.
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Garima](https://substack.com/profile/4266017-garima)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Oct 9, 2021
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1yrbq_302 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_6cuho_7 _size-40_6cuho_23">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_q8zsn_187 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+[Garima Garg](https://substack.com/@rasajournal)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_q8zsn_190 _line-height-20_q8zsn_80 _font-meta_q8zsn_115 _size-11_q8zsn_31 _weight-medium_q8zsn_145 _transform-uppercase_q8zsn_234 _reset_q8zsn_1 _meta_q8zsn_434">
+
+Oct 09, 2021
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1yrbq_302 pc-reset _border-top-detail-themed_1yrbq_47 _border-bottom-detail-themed_1yrbq_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
 
 6
 
-[](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments)
+</div>
 
-2
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-[](javascript:void(0))
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1yrbq_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
 
-Dissecting The Idea Of India
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Dissecting The Idea Of India
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1">
 
 rasajournal.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
 Email
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments)
+
+<div class="label">
+
+2
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
+
+</div>
 
 The lingua franca of the world today, English, arrived in India in 17th century as the language of the traders from Britain. But after the East Indian Company solidified its presence and established colonial rule, the language too colonized our minds. By 1830s, the Indian middle class, most notably in Kolkata, [wanted to learn it](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fwww.ijsrp.org%2Fresearch-paper-0514%2Fijsrp-p29121.pdf&chunk=true) because it could get them a government job and so private tutors and learning centers mushroomed. It has been almost a century but nothing much seems to have changed. This is important because our languages are not just about communicating with one another but how we communicate actively shapes our culture. The Kenyan writer Ngugi wa Thiong’o in his Decolonizing the Mind (1986) wrote, “Language carries culture, and culture carries \[…\] the entire body of values by which we come to perceive ourselves and our place in the world”.
 
@@ -107,26 +386,160 @@ In both of these countries, the ruling elite sought to maintain harmony by using
 
 In order for the modern India to synthesize Bharat to move along the process of its decolonization, it needs to foster an indigenous cultural anthropology. “We need to read our texts for an insider’s perspective,” Shukla says, “because right now most of the interpretations are from the outsider’s perspective”. Even the works of Indian academics tend to follow Western methods, which makes them just as alien as a British or a German Indologist. “The texts should be read from the Hermeneutics (the method or theory of interpretation in academia) of respect and understanding, not from that of problematizing them,” he says. Re-evaluation, then, cannot come without a re-discovery of India.
 
-[](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments)
+</div>
 
-2
+</div>
 
-[](javascript:void(0))
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1yrbq_302 pc-reset _border-top-detail-themed_1yrbq_47 _border-bottom-detail-themed_1yrbq_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+6
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1yrbq_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
 
-Dissecting The Idea Of India
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Dissecting The Idea Of India
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1">
 
 rasajournal.substack.com
 
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_q8zsn_169 _line-height-20_q8zsn_80 _font-text_q8zsn_106 _size-13_q8zsn_39 _weight-regular_q8zsn_142 _reset_q8zsn_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments)
+
+<div class="label">
+
+2
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

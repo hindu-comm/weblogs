@@ -1,9 +1,8 @@
 +++
 title = "Did Daddy write about IQ"
 full_title = "Did Daddy write about IQ again yet?"
-date = "2021-12-31"
 upstream_url = "https://razib.substack.com/p/did-daddy-write-about-iq-again-yet"
-
+date = "2021-12-31"
 +++
 Source: [here](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
 
-Did Daddy write about IQ again yet?
+#### Did Daddy write about IQ again yet?
 
 razib.substack.com
 
@@ -25,17 +24,19 @@ Facebook
 
 Email
 
+Notes
+
 # Did Daddy write about IQ again yet?
 
 ### Parsing a year's worth of Substack traffic data with my daughter
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 31, 2021
 
-25
+24
 
 [](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet/comments)
 
@@ -43,11 +44,13 @@ Dec 31, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
 
-Did Daddy write about IQ again yet?
+#### Did Daddy write about IQ again yet?
 
 razib.substack.com
 
@@ -59,7 +62,13 @@ Facebook
 
 Email
 
-![**Traffic over the last 14 months, with major posts labeled**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
+
+**Traffic over the last 14 months, with major posts labeled**
 
 **Subscribe**
 
@@ -190,17 +199,21 @@ And that’s a wrap on 2021. Thank you, sincerely, to everyone who subscribes, g
 
 [Share](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
+24
+
 [](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet/comments)
 
 13
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
 
-Did Daddy write about IQ again yet?
+#### Did Daddy write about IQ again yet?
 
 razib.substack.com
 
@@ -212,4 +225,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

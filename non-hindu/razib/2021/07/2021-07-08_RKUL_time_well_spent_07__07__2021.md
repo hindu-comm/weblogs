@@ -1,9 +1,8 @@
 +++
 title = "RKUL time well spent"
 full_title = "RKUL time well spent 07/07/2021"
-date = "2021-07-08"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-07072021"
-
+date = "2021-07-08"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-07072021).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc1c6df5-b8c9-4249-93a2-0cb27311f3ba_923x528.png)
 
-RKUL: time well spent 07/07/2021
+#### RKUL: time well spent 07/07/2021
 
 razib.substack.com
 
@@ -29,7 +28,7 @@ Email
 
 ### Recommendations for everything, heat-dome edition
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
@@ -43,11 +42,13 @@ Jul 8, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc1c6df5-b8c9-4249-93a2-0cb27311f3ba_923x528.png)
 
-RKUL: time well spent 07/07/2021
+#### RKUL: time well spent 07/07/2021
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb975d9-959b-457e-b72b-6370ba6dd3d7_779x257.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb975d9-959b-457e-b72b-6370ba6dd3d7_779x257.jpeg)
 
@@ -70,6 +73,8 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 ### **Books, what else?**
 
 Bryan Ward-Perkins’ [The Fall of Rome: And the End of Civilization](https://www.amazon.com/exec/obidos/ASIN/B006OYD2K6/geneexpressio-20) is that rare book you read over and over because it can change the way you view a whole topic. Roman history can seem musty, too focused on ancient and venerable texts, but Ward-Perkins’ modern archaeological and economic historical methods shed welcome light on old questions. From the frequency of coin hoards to the widespread geographical distribution of centrally produced fine pottery, [The Fall of Rome](https://www.amazon.com/exec/obidos/ASIN/B006OYD2K6/geneexpressio-20) highlights in exquisite detail the material collapse of the Roman world.
+
+[](https://www.amazon.com/shop/RazibKhan?listId=3UA61RISMW13)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5ee68763-4361-49d3-9351-72d0eaaeb81c_800x168.jpeg)
 
@@ -154,6 +159,8 @@ As I mentioned above, I talk most Fridays on Clubhouse about some genetic or his
 
 And you don’t have to because my children attend public schools.
 
+[](https://www.slj.com/?detailStory=best-middle-grade-2020-slj-best-books)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d099783-a6be-4fd7-b85f-c69ee542eedb_800x161.jpeg)
 
 Comfort yourself that my family has uniquely terrible luck with schools all you want. But below are excerpts from short bullet summaries of the [25 best books of 2020](https://www.slj.com/?detailStory=best-middle-grade-2020-slj-best-books) that [School Library Journal](https://www.slj.com/) recommends librarians add to permanent library collections for Middle Grades. This is not satire, but it does read like Trey Parker and Matt Stone trying to top one another. I highly recommend clicking through to the summaries. I made myself read every last one because I kept thinking I must be getting an unrepresentatively absurd sample by chance. This could be the bias of what the reviewers prefer to emphasize, but it is very hard to find more than a handful of books here that deviate from a rigid formula that seems to require:
@@ -165,6 +172,8 @@ Comfort yourself that my family has uniquely terrible luck with schools all you 
 - extreme trauma/abuse/suffering and or magic
 
 What must it be like to be constantly presented a version of your society where the only humans worth considering can quantify their innate worth according to a strict schedule of skin color, struggle points and suffering bonuses? Tell me the story again where intersectionality and CRT are safely walled off from the real world in irrelevant academic backwaters. I liked that one.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F317c126f-b9ed-478a-a75b-69fea576a253_800x800.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F317c126f-b9ed-478a-a75b-69fea576a253_800x800.jpeg)
 
@@ -234,7 +243,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc1c6df5-b8c9-4249-93a2-0cb27311f3ba_923x528.png)
 
-RKUL: time well spent 07/07/2021
+#### RKUL: time well spent 07/07/2021
 
 razib.substack.com
 
@@ -245,5 +254,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

@@ -3,7 +3,6 @@ title = "Dharmic Education in an"
 full_title = "Dharmic Education in an Age of Deliberate DeHinduisation of Bharata"
 upstream_url = "https://thedharmadispatch.substack.com/p/dharmic-education-in-an-age-of-deliberate"
 date = "2023-05-01"
-
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/dharmic-education-in-an-age-of-deliberate).
 
@@ -23,9 +22,25 @@ Facebook
 
 Email
 
-Notes
+Note
 
 Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f879df7-dc51-49b1-8b7e-a20fe00e2dcc_512x512.png)
+
+#### Discover more from The Dharma Dispatch Digest
+
+Stories and essays from Indian civilisation, history and culture. Narratives from Sanatana Dharma. This is the digest of the main site, https://www.dharmadispatch.in/, delivered directly to your email inbox.
+
+Over 8,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
 
 # Dharmic Education in an Age of Deliberate De-Hinduisation of Bharata
 
@@ -38,6 +53,24 @@ Other
 May 1, 2023
 
 4
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed68af8-812c-4178-afe7-66ebff6f5557_1200x675.jpeg)
+
+#### Dharmic Education in an Age of Deliberate De-Hinduisation of Bharata
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://thedharmadispatch.substack.com/p/dharmic-education-in-an-age-of-deliberate/comments)
 
@@ -107,7 +140,7 @@ Think about it.
 
 The Dharma Dispatch Digest is **a reader-supported publication**. To receive new posts and support our sacred work, consider becoming a paid subscriber.
 
-**Subscribe**
+Subscribe
 
 ## Dharmic Education as a Natural State
 
@@ -135,7 +168,7 @@ Please take a moment to consider opting for a **paid** subscription to The Dharm
 
 To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
 
-**Subscribe**
+Subscribe
 
 For other options for contributing to *The Dharma Dispatch,* please click this link:
 
@@ -148,6 +181,24 @@ Your support really matters to us.
 ------------------------------------------------------------------------
 
 4
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed68af8-812c-4178-afe7-66ebff6f5557_1200x675.jpeg)
+
+#### Dharmic Education in an Age of Deliberate De-Hinduisation of Bharata
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://thedharmadispatch.substack.com/p/dharmic-education-in-an-age-of-deliberate/comments)
 

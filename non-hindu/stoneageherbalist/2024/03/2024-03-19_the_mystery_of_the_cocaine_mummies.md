@@ -2,8 +2,7 @@
 title = "The Mystery of the"
 full_title = "The Mystery of the Cocaine Mummies"
 upstream_url = "https://www.stoneageherbalist.com/p/the-mystery-of-the-cocaine-mummies"
-date = "1992-06-26"
-
+date = "2024-03-19"
 +++
 Source: [here](https://www.stoneageherbalist.com/p/the-mystery-of-the-cocaine-mummies).
 

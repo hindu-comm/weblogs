@@ -8,27 +8,331 @@ Source: [here](https://thedharmadispatch.substack.com/p/the-heart-of-sri-krishna
 
 The Heart of Sri Krishna: The Story of Two Gopalas
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6219efd-380d-4454-8a82-1797c56c4577_1280x720.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Heart of Sri Krishna: The Story of Two Gopalas
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+thedharmadispatch.substack.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
 # The Heart of Sri Krishna: The Story of Two Gopalas
 
 ### On this Krishna Janmashtami, do read this evocative short story about two boys named Gopala.
 
-[](https://substack.com/@thedharmadispatch)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
-Sep 06, 2023
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+Sep 6, 2023
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
 
 5
 
-3
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6219efd-380d-4454-8a82-1797c56c4577_1280x720.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Heart of Sri Krishna: The Story of Two Gopalas
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+thedharmadispatch.substack.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://thedharmadispatch.substack.com/p/the-heart-of-sri-krishna-the-story/comments)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!vt6S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6219efd-380d-4454-8a82-1797c56c4577_1280x720.jpeg)
+</div>
 
-![A Tale of Two Gopalas](https://substackcdn.com/image/fetch/$s_!vt6S!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6219efd-380d-4454-8a82-1797c56c4577_1280x720.jpeg "A Tale of Two Gopalas")
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6219efd-380d-4454-8a82-1797c56c4577_1280x720.jpeg "A Tale of Two Gopalas")
+
+</div>
 
 IT IS A TYPICAL VILLAGE.
 
@@ -36,9 +340,45 @@ One of the thousands in Bharatavarasha which has a name but its existential trut
 
 One prominent family, which has been here almost since the village was founded is that of the second *Archaka* of the Krishna temple. His name is Keshava Bhatta and one of his ancestors apparently merged with Krishna himself one evening after finishing the Mahamangalarati. His lineage is highly regarded not just in this village but in more than twenty villages in the region. Like his ancestor, he is highly devout and performs all the prescribed Karmas apart from his daily Pujas in the temple. He has ten cows and no land. The villagefolk provide him provisions and some clothes and gifts as appropriate on various festivals, a custom that is as ancient as the village itself. He spends his free time teaching and is constantly engaged in self-study. People believe that like his illustrious ancestor, he will also merge with Krishna himself.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 The Dharma Dispatch Digest is a **reader-supported publication**. To receive new content and support our sacred work, consider becoming a **free or paid subscriber**.
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 Keshava Bhatta has three children, two teenaged daughters and a ten year-old son named Gopala, a promising lad. He has a quick grasp, learns fast, and at his age, can recite substantial portions of the *Amarakosha* from memory and he can also perform minor Pujas and assists his father in all his chores. One of Gopala’s daily chores is to take the cows grazing to the grassland by edge of the forest and return home by the *Godhuli* hour. It’s not that they need any help to find their way back home but the forest is a dangerous place.
 
@@ -46,9 +386,11 @@ One day, it begins to rain quite heavily and Gopala strays into the forest even 
 
 Nothing happens for a long time.
 
-[](https://substackcdn.com/image/fetch/$s_!O4Q5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f660de-d8a8-463f-aaae-67e5b6dbb6c6_845x435.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!O4Q5!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f660de-d8a8-463f-aaae-67e5b6dbb6c6_845x435.jpeg)
+![](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f660de-d8a8-463f-aaae-67e5b6dbb6c6_845x435.jpeg)
+
+</div>
 
 AND THEN, GOPALA HEARS the familiar dull, slushy thud of hoofs to his left. The sound is almost muted but unmistakable to his ear. Cows. Maybe oxen. Maybe buffaloes. Unmistakable, yes. He wipes his face with his upper arm, vigorous clears the water from his eyes and turns left. In the darkness, he sees the boulder-like shapes languidly cruising towards him, the enormous, curved horns undulating with the rhythm he is so familiar with. The horns are beautifully painted with neat patterns resembling rows of anklets. Gopala’s heart quickens as he stands up and slowly moves towards them. Ten paces later, his eyes widen and then rapidly blink several times. He is sure he has seen some kind of…*light.* He stares. And then sees *it* fully. Amidst…how many? Twenty? Thirty? Fifty…cows and bulls and oxen, is a boy of his age wielding a flute, tapping the animals gently, prodding them to move. The light is not visible now but the boy is. Clearly. Distinctly. He wants to call out to the boy but no words come out but the boy looks at him and waves with his flute. The animals, unconcerned by any of this simply move forward until the boy is alone. Both of them look at each other and the boy walks forward and smiles and says, “who are you?” Gopala suddenly wants to cry but for some reason beyond his control, he takes a giant leap and lands right before the boy and asks in return:
 
@@ -94,9 +436,11 @@ As he walks towards his home, it suddenly dawns on Gopala that he hasn’t reali
 
 Indeed, Gopala’s parents are worried and they hug him tearfully and fuss over him. His father takes him to the Krishna temple and performs a special Puja for his well-being and long life. A strange courage has now encompassed Gopala. He feels something new within him but doesn’t know what it is.
 
-[](https://substackcdn.com/image/fetch/$s_!q-mW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfe2df12-72e8-4f2c-be5a-004511ec8215_1200x903.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!q-mW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfe2df12-72e8-4f2c-be5a-004511ec8215_1200x903.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfe2df12-72e8-4f2c-be5a-004511ec8215_1200x903.jpeg)
+
+</div>
 
 THE NEXT AFTERNOON, the other Gopala meets him at the large tree as promised. Gopala teaches him new games…of closing your eyes and walking some paces and burying ten pebbles in the mud and confusing the other player by asking: “how many paces did I walk?” In turn, the other Gopala would teach him how to play the flute and how to make the cows jealous and compete for your attention.
 
@@ -120,9 +464,11 @@ The boy’s reply was full of its natural innocence:
 
 “Yes, of course! My friend will be happy to take your blessings!”
 
-[](https://substackcdn.com/image/fetch/$s_!0brV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2809871-7836-4270-8428-96fe0ef961db_480x599.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!0brV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2809871-7836-4270-8428-96fe0ef961db_480x599.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2809871-7836-4270-8428-96fe0ef961db_480x599.jpeg)
+
+</div>
 
 AND SO, THE FATHER AND SON set out the next day. Gopala’s friend did not arrive at the appointed hour. Or an hour after that. Or two hours after that. Or three. Or four. The father’s curiosity slowly transformed to disbelief and then to annoyance and then to mild anger. Gopala was now in tears. He knew his father did not believe him now. Maybe he had lost his friend forever. Even the mere inkling was intolerable to him. So he cried out, “Gopala, why haven’t you come today? Where are you, Gopala?” No answer. “Gopala, please come! Are you angry that I have brought my father? Come Gopala! I beg you. Your cows want to play with me. I know.”
 
@@ -140,9 +486,25 @@ Gopala obeyed him.
 
 Then Keshava Bhatta stood up, closed his eyes, folded his hands and a minute later prostrated before a stunned Gopala, turned back and departed without a word. Gopala watched his receding form, still in a confounded state, and as his vision grew blurred and hazy, it was suddenly replaced with the sight of his dear friend, Gopala, smiling, now standing before him, ready with a new tune of his flute.
 
+<div>
+
 ------------------------------------------------------------------------
 
+</div>
+
 ## A Heartfelt Appeal: Please Support Our Dharmic Work at The Dharma Dispatch
+
+<div id="§a-heartfelt-appeal-please-support-our-dharmic-work-at-the-dharma-dispatch" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://thedharmadispatch.substack.com/i/136787794/a-heartfelt-appeal-please-support-our-dharmic-work-at-the-dharma-dispatch">
+
+</div>
+
+</div>
+
+</div>
 
 If you liked this article, please consider making a contribution of your choice to **The Dharma Dispatch Digest** so we can offer you more such informative and insightful content on a range of topics related to Indian history, civilisation and culture.
 
@@ -155,25 +517,228 @@ You can contribute in the following ways
 1.  By opting for a **paid subscription**. Click the button below to
     take a paid subscription.
 
+    <div class="subscribe-widget" component-name="SubscribeWidget">
+
+    <div
+    class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+    <div class="_container_1xsdj_1">
+
+    <div class="_sideBySideWrap_1xsdj_10">
+
+    <div class="_emailInputWrapper_1xsdj_55">
+
+    </div>
+
     Subscribe
+
+    </div>
+
+    <div id="error-container">
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
 
 2.  Contributing an amount you are comfortable with. Click the button
     below to contribute.
 
 [Contribute to The Dharma Dispatch](https://pages.razorpay.com/DonatetoDD)
 
-3.  Contribute via UPI: **ddispatch@axl**
+3.  Contribute via UPI: **dharmadispatch@axl**
 
 **Your support really matters!**
 
+<div>
+
 ------------------------------------------------------------------------
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
 
 5
 
-3
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6219efd-380d-4454-8a82-1797c56c4577_1280x720.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Heart of Sri Krishna: The Story of Two Gopalas
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+thedharmadispatch.substack.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://thedharmadispatch.substack.com/p/the-heart-of-sri-krishna-the-story/comments)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-footer use-separators post-ufi themed next-prev">
+
+<div>
+
+<div class="label">
+
+<div class="tw-flex tw-items-center">
+
 Previous
 
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="label">
+
+<div class="tw-flex tw-items-center">
+
 Next
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

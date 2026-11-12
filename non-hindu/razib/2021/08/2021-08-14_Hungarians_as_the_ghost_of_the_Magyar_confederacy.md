@@ -1,79 +1,398 @@
 +++
 title = "Hungarians as the ghost"
 full_title = "Hungarians as the ghost of the Magyar confederacy"
+upstream_url = "https://www.razibkhan.com/p/hungarians-as-the-ghost-of-the-magyar"
 date = "2021-08-14"
-upstream_url = "https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar"
-
 +++
-Source: [here](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar).
+Source: [here](https://www.razibkhan.com/p/hungarians-as-the-ghost-of-the-magyar).
 
 Hungarians as the ghost of the Magyar confederacy
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9784201-f44a-433c-861f-97bf56163500_800x525.jpeg)
 
-Hungarians as the ghost of the Magyar confederacy
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Hungarians as the ghost of the Magyar confederacy
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Hungarians as the ghost of the Magyar confederacy
 
 ### The cultural legacy of the Magyars far outweighs their genetic impact
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Aug 14, 2021
 
-58
+</div>
 
-[](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar/comments)
+</div>
 
-22
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+77
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9784201-f44a-433c-861f-97bf56163500_800x525.jpeg)
 
-Hungarians as the ghost of the Magyar confederacy
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Hungarians as the ghost of the Magyar confederacy
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/hungarians-as-the-ghost-of-the-magyar/comments)
+
+<div class="label">
+
+23
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9784201-f44a-433c-861f-97bf56163500_800x525.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/hungarians-as-the-ghost-of-the-magyar?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 Though right at the heart of Europe, Hungary is an ethnolinguistic oddity, with a distinct history and unique language. The Pannonian grasslands that cover most of its territory are the westernmost tendril of the Eurasian steppe. Though called the *Nagy Alföld* in Hungarian, or “Great Hungarian Plain,” in relation to the vast Pontic steppe to its east, it is quite small, only 10% the size. It has loomed large in European history because the *Nagy Alföld* is the furthest west that nomadic pastoralists could maintain vast herds of horses, from the Pontic Steppe’s Yamnaya herders 5,000 years ago, down to the Magyars in the early medieval period. It served as the base for [Sarmatians](https://en.wikipedia.org/wiki/Sarmatians) who raided the Roman Empire in the 3rd century AD, the Avar Empire that menaced Byzantium in the 6th and 7th centuries, and it was here that in 453 AD Attila the Hun died in a drunken stupor, surrounded by riches plundered from half the continent.
 
 It was with the arrival of the Magyars from the east in 895 AD that the *Nagy Alföld* came into its own as the heart of what was to become Hungary. The Sarmatians, Huns, and the Avars are all storied names in ancient annals, though terrors whose bite has faded from contemporary consciousness. The Magyars were all that, but they also left a legacy in the Hungarian national identity. Despite entering Europe as steppe barbarians, by the 12th century, the Magyars were at the heart of Christian civilization, erecting great cathedrals, sending knights on Crusade and intermarrying with the nobility of Germany and France. Just 200 years later, they were again on the frontier, the great bulwark of Christendom against the repeated hammer blows of the Ottoman Turks, until they were defeated and Budapest became the northwesternmost outpost of Islam. But they always remained European outsiders, as speakers of a language whose closest relatives are found in Siberia, a cultural mystery whose origins and affinity were only recently clarified by science.
 
+<div class="captioned-image-container">
+
 ![**Magyar raids**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b3d20ae-0e1b-4768-840f-204917514078_602x407.jpeg)
 
+</div>
+
 ### **The last barbarians**
+
+<div id="§the-last-barbarians" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39902067/the-last-barbarians">
+
+</div>
+
+</div>
+
+</div>
 
 In the modern mind, the *Hun*garians are connected to the Huns due to phonetic similarity and the fact that the Huns also settled down in the Pannonian plain. But 450 years separate the defeat of Attila the Hun at the Battle of Catalaunian Plains and the arrival of the Magyar tribes to the Carpathian Basin. “Hungary” probably derives from the name of the Turkic tribes that formed the basis for the ancient Bulgar Empire, the *Onogur*. In the mind of Western Christians, there was confusion between the Turkic nomads of the steppe and the Magyars who were closely allied to them when they weren’t fighting one another (Hungarians refer to their nation as *Magyarország*, meaning “Magyar country”).
 
@@ -98,15 +417,35 @@ With this victory against Bavarian forces, the Magyars secured hegemony over wha
 
 And yet, unlike the Huns after their defeat in 451 AD, the Magyars did not fade away, allowing themselves to be diminished into historical footnotes. Their wars against Byzantium continued, as they consolidated their nation from a disparate collection of fractious tribes. In 1000 AD, Stephen I became the first Christian King of Hungary. Though his pagan father converted late in life, Stephen’s mother was raised a Christian. As her father had been baptized at Constantinople, she practiced Eastern Rite Christianity. In contrast, Stephen adopted Western Christianity, which would eventually become Roman Catholicism. With this choice, he guaranteed that Hungary would be the easternmost bulwark of Western Europe, rather than the northwesternmost frontier of the Byzantine world.
 
+<div class="captioned-image-container">
+
 ![**“Ugric” languages**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2165dbeb-f881-4138-a7ca-0e26e887c9ef_720x461.jpeg)
 
+</div>
+
 ### **Strangers in Europe**
+
+<div id="§strangers-in-europe" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39902067/strangers-in-europe">
+
+</div>
+
+</div>
+
+</div>
 
 When Magyars raided Muslim Spain in 942, many were captured, converted to Islam and ended up serving as bodyguards to the Caliph. Arab Muslim chroniclers referred to them as “Turks,” reflecting the common confusion alluded to above. The nomadic lifestyle of the Magyars was most commonly associated with Turkic people, and before their conquest of Hungary, the Magyar tribes were part of the Turkic confederacy of the Khazars. But the Magyars did not speak a Turkic language. Neither did they speak an Indo-European language. Rather, their dialects were clearly Uralic, related to the languages of the Finns and Samoyeds. Today Hungarians are 13 million of the world’s 25 million Uralic language speakers, the largest faction by far. More precisely, Hungarians speak a “Ugric” language, a family with three constituent populations, the Hungarians, the Mansi and the Khanty.
 
 These Central Siberian ethnicities total only 50,000 total speakers. Unlike the Hungarians, the Mansi and Khanty are Asian in location and appearance. The distribution of the Uralic languages shows that they span both sides of the Urals:
 
+<div class="captioned-image-container">
+
 ![**Uralic languages**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb39c8143-0cbf-4fe2-96c0-9a322dfc3e18_800x463.jpeg)
+
+</div>
 
 Unlike in Finland, there are well-documented histories of ancient Hungary, as the Roman city of Aquincum preceded Budapest. The migration of the Magyars from the western reaches of the Pontic steppe is documented contemporaneously in texts and oral history. Earlier in the 9th century, Hungarian myths claim that the various clans of the Magyars coalesced under seven tribes. Though the language of the Hungarians is not Turkic, their early social structure and lifestyle upon their arrival in Europe bore a distinct resemblance to the Turks, likely due to their acculturation under the Khazars, and their assimilation of some Turks. One strand of Hungarian national myth asserts that the Magyar tribes who arrived in Pannonia were all men because the Bulgars had slaughtered all their women and children. Even if this myth is not based in fact (females in early Magyar burials were not dressed like local Slavs), it confirms and reinforces that the migration was due to exigencies of circumstance rather than choice. The Magyar hordes meted out violence to Christian Europe, but they had been forged in brutal circumstances, assimilating to a new nomadic lifestyle and surrounded by alien peoples.
 
@@ -120,9 +459,25 @@ And yet, the nearly 3,000-year span of Magyar steppe occupation is shadowy becau
 
 From this date, historians can trace the migration of the Magyars westward in annals of Byzantine historians, until they enter Europe just before 900 AD. Despite their coexistence with Iranian and Turkic people for thousands of years, and a strong cultural imprint of both of these groups on the Magyars, they somehow managed to preserve their ethnolinguistic identity. The same cultural continuity persists down to the present. While the ancient Bulgarians spoke a Turkic language, rather than the Slavic speech dominant there today, the modern Hungarians speak a language descended directly from pastoralist Magyar forebears. What might account for this difference? Perhaps it was a simple matter of numbers, and there were many more Magyars that flooded into the Pannonian plain than Bulgars who migrated to the lower Danube?
 
+<div class="captioned-image-container">
+
 ![**ADMIXTURE of K = 9 and K = 11 ancestral populations**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e8dc2d5-dcbe-47be-ad5a-4dca44b51689_868x321.jpeg)
 
+</div>
+
 ### **Written in their memes, not in their genes**
+
+<div id="§written-in-their-memes-not-in-their-genes" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39902067/written-in-their-memes-not-in-their-genes">
+
+</div>
+
+</div>
+
+</div>
 
 Over the last twenty years, our understanding of human population genetics has seen a massive transformation due to genomics and ancient DNA. Genomics uncorked a gusher of sequence data, while ancient DNA provided a window into the demographics of the past.
 
@@ -134,13 +489,21 @@ In contrast, there is almost no evidence of this in Hungarians. Modern Maygar ar
 
 A different method that looks at genetic distances between populations as a whole gives similar results. The tree below illustrates the closest relatives of various European populations:
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42049de4-c8ae-4b05-b765-d35841b89e90_803x269.jpeg)
+
+</div>
 
 The Uralic-speaking groups are highlighted in red. While the Finns are very different from other Europeans, including their Swedish neighbors, the Hungarians cluster with Slovaks and Germans. The contemporary genetic evidence makes it clear that genetically, the Hungarians are no different from their neighbors any way you slice it.
 
 The figure below shows the breakdown of West and East Eurasian Y (paternal) and mtDNA (maternal) lineages, with dark-blue representing East Eurasian and light-blue West Eurasian:
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc843b1c5-3554-449f-abe7-8616609a07a2_800x206.png)
+
+</div>
 
 Every single Uralic group shows a bias whereby East Eurasian Y-chromosomal lineages are more common than East Eurasian mtDNA lineages. The implication is that the spread of Uralic languages tended to be driven by the migration and expansion of groups of men who took local wives. Of the groups in this list, the Hungarians have the fewest East Eurasian paternal lineages and have barely any East Eurasian mtDNA at all.
 
@@ -168,9 +531,25 @@ But today, East Eurasian mtDNA is very rare in Hungary. Similarly, Hungarians to
 
 Though the language of the Conquerors, and their myth, persisted, their genes did not. What happened?
 
+<div class="captioned-image-container">
+
 ![**Battle of Mohac, 1526, the Ottomans defeat the Hungarians**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba77c808-f5b8-41c4-bd6d-7734a9c8ecde_512x296.jpeg)
 
+</div>
+
 ### **It’s not always good to be king**
+
+<div id="§its-not-always-good-to-be-king" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39902067/its-not-always-good-to-be-king">
+
+</div>
+
+</div>
+
+</div>
 
 Though the Hungarian invasions of Western Europe ended in 955 AD, the Kingdom of Hungary was a highly militarized territory with a nobility strongly oriented towards violence as a matter of course. The death of Stephen I ushered in decades of civil war, as Christian and pagan nobles contested for power. After the monarchy stabilized in the second half of the 11th century, Hungary embarked on wars of expansion against Venice, the Byzantines, and into Transylvanian territory. The Magyars also began sending students to Paris and Oxford and patronized the construction of French-influenced Gothic cathedrals in the 12th century. In less than 200 years, the Magyars had transformed themselves from pagan steppe nomads into the easternmost nation of Latin Western Christendom.
 
@@ -190,26 +569,160 @@ Nevertheless, the evidence above also shows that they remained genetically disti
 
 But despite the extinction of their genes, the Magyars live on in posterity. Árpád and Stephen I are immortal in the memory of a whole nation whose sons still commonly bear the name Attila. Genetically, the Magyars are but a ghost, but culturally they remain with us, vibrant and vigorous, the most numerous and assertive of the Uralic people. We all know that historical memory and ethnic identity can be protean, but the Magyars of today illustrate this starkly. The descendants of Slavic peasants, German knights and [Walloon](https://en.wikipedia.org/wiki/French_people_in_Hungary#Middle_Ages) artisans have repopulated the land they call *Magyarország*, and cherish the memory of Magyar hillfolk who transformed themselves into nomadic warriors and terrorized Europe for a century before it was their turn to defend what had become *their* civilization against the Mongols and Turks. Sometimes language, myth and legend live on long after flesh and blood have been washed away.
 
-[](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar/comments)
+</div>
 
-22
+</div>
 
-[](javascript:void(0))
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+77
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9784201-f44a-433c-861f-97bf56163500_800x525.jpeg)
 
-Hungarians as the ghost of the Magyar confederacy
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Hungarians as the ghost of the Magyar confederacy
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/hungarians-as-the-ghost-of-the-magyar/comments)
+
+<div class="label">
+
+23
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

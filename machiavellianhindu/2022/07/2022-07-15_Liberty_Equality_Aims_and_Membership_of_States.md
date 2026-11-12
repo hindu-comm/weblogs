@@ -1,63 +1,470 @@
 +++
 title = "Liberty, Equality, Aims"
 full_title = "Liberty, Equality, Aims and Membership of States"
-date = "2022-07-15"
 upstream_url = "https://machiavellianhindu.substack.com/p/liberty-equality-aims-and-membership"
-
+date = "2022-07-15"
 +++
 Source: [here](https://machiavellianhindu.substack.com/p/liberty-equality-aims-and-membership).
 
 Liberty, Equality, Aims and Membership of States
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f48c3a-87ea-4585-9471-672e853e0d16_620x494.jpeg)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-#### Liberty, Equality, Aims and Membership of States
+<div class="modal-table">
 
-machiavellianhindu.substack.com
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(94,71,48,0.75), rgba(94,71,48,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!STUq!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f48c3a-87ea-4585-9471-672e853e0d16_620x494.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Saṃyuktatripathasyanīti
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Liberty, Equality, Aims and Membership of States
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Liberty, Equality, Aims and Membership of States
 
 ### The aims determine the education and membership of the state
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)](https://substack.com/profile/48226124-machiavellian-hindu?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
 
-[Machiavellian Hindu](https://substack.com/profile/48226124-machiavellian-hindu)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
+
+[](https://substack.com/@machiavellianhindu)
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Machiavellian Hindu">
+
+![Machiavellian Hindu's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
+
+[Machiavellian Hindu](https://substack.com/@machiavellianhindu)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
 
 Jul 15, 2022
 
-4
+</div>
 
-[](https://machiavellianhindu.substack.com/p/liberty-equality-aims-and-membership/comments)
+</div>
 
-2
+</div>
 
-[](javascript:void(0))
+</div>
 
-Share this post
+</div>
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f48c3a-87ea-4585-9471-672e853e0d16_620x494.jpeg)
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
 
-#### Liberty, Equality, Aims and Membership of States
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
 
-machiavellianhindu.substack.com
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+5
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(94,71,48,0.75), rgba(94,71,48,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!STUq!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f48c3a-87ea-4585-9471-672e853e0d16_620x494.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Saṃyuktatripathasyanīti
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Liberty, Equality, Aims and Membership of States
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://machiavellianhindu.substack.com/p/liberty-equality-aims-and-membership/comments)
+
+<div class="label">
+
+2
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 [Previously](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329), we have seen from the quotes of Machiavelli, Aristotle, Han Feizi and Kauṭilya, what factions are able to wreak upon states, we may now take up the question of preservation of states. Yet before that is done, we must first clarify what liberty and equality are, so that there should be no doubt as to the forms in which they are considered good, and the forms where they are bad.
 
@@ -65,28 +472,109 @@ This then, will give us a strong foundation to establish the aims of a mixed gov
 
 ### **Liberty and Equality, never pernicious, when properly implemented:**
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§liberty-and-equality-never-pernicious-when-properly-implemented" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
 #### Of the proper application of Liberty:
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§of-the-proper-application-of-liberty" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 Now Aristotle holds these to be the definitions of liberty:
 
-> “A basic principle of the democratic constitution is liberty. People > constantly make this statement, implying that only in this > constitution do men share in liberty; for every democracy, they say, > has liberty for its aim. 'Ruling and being ruled in turn' is one > element in liberty, and the democratic idea of justice is in fact > numerical equality, not equality based on merit; and when this idea of > what is just prevails, the multitude must be sovereign, and whatever > the majority decides is final and constitutes justice. For, they say, > there must be equality for each of the citizens. The result is that in > democracies the poor have more sovereign power than the rich; for they > are more numerous, and the decisions of the majority are sovereign. So > this is one mark of liberty, one which all democrats make a definitive > principle of their constitution. Another is to live as you like. For > this, they say, is a function of being free, since its opposite, > living not as you like, is the function of one enslaved. This is the > second defining principle of democracy, and from it has come the ideal of 'not being ruled', not by anyone at all if possible, or at least only in alternation. This is a contribution towards that liberty which is based on equality.” >
+> “A basic principle of the democratic constitution is liberty. People
+> constantly make this statement, implying that only in this
+> constitution do men share in liberty; for every democracy, they say,
+> has liberty for its aim. 'Ruling and being ruled in turn' is one
+> element in liberty, and the democratic idea of justice is in fact
+> numerical equality, not equality based on merit; and when this idea of
+> what is just prevails, the multitude must be sovereign, and whatever
+> the majority decides is final and constitutes justice. For, they say,
+> there must be equality for each of the citizens. The result is that in
+> democracies the poor have more sovereign power than the rich; for they
+> are more numerous, and the decisions of the majority are sovereign. So
+> this is one mark of liberty, one which all democrats make a definitive
+> principle of their constitution. Another is to live as you like. For
+> this, they say, is a function of being free, since its opposite,
+> living not as you like, is the function of one enslaved. This is the
+> second defining principle of democracy, and from it has come the ideal
+> of 'not being ruled', not by anyone at all if possible, or at least
+> only in alternation. This is a contribution towards that liberty which
+> is based on equality.”
+>
 > -Aristotle, Politics, Book 6
 
 From these, we get three elements in liberty: To live as one likes, to not be ruled, and to rule and be ruled in turn. We shall see the last when we discourse about equality, but for now, let us turn to the first of these.
 
 Now to live as one likes means to not be impeded or compelled, as Epictetus puts it in his Discourses, beautifully illustrating it with the metaphor of the caged bird, which tries to escape its captivity, and in this process, injures itself or dies. Liberty is said to be something one guards with his life and if a free man is faced with inevitable servitude, he prefers to die than be subject to such a state, and these are the words he employs:
 
-> Now consider in the case of animals, how we employ the notion of > liberty. Men keep tame lions shut up, and feed them, and some take > them about; and who will say that this lion is free? Is it not the > fact that the more he lives at his ease, so much the more he is in a > slavish condition? and who if he had perception and reason would wish > to be one of these lions? Well, these birds when they are caught and > are kept shut up, how much do they suffer in their attempts to escape? > And some of them die of hunger rather than submit to such a kind of > life. And as many of them as live, hardly live and with suffering pine > away; and if they ever find any opening, they make their escape. So > much do they desire their natural liberty, and to be independent and > free from hindrance. And what harm is there to you in this? What do > you say? I am formed by nature to fly where I choose, to live in the > open air, to sing when I choose: you deprive me of all this, and say, > what harm is it to you? For this reason we shall say that those > animals only are free, which cannot endure capture, but as soon as > they are caught. escape from captivity by death. So Diogenes also > somewhere says that there is only one way to freedom, and that is to > die content: and he writes to the Persian king. You cannot enslave the > Athenian state any more than you can enslave fishes. How is that? > cannot I catch them? If you catch them, says Diogenes, they will > immediately leave you, as fishes do; for if you catch a fish, it dies; > and if these men that are caught shall die, of what use to you is the > preparation for war? These are the words of a free man who had carefully examined the thing, and, as was natural, had discovered it. But if you look for it in a different place from where it is, what wonder if you never find it? >
+> Now consider in the case of animals, how we employ the notion of
+> liberty. Men keep tame lions shut up, and feed them, and some take
+> them about; and who will say that this lion is free? Is it not the
+> fact that the more he lives at his ease, so much the more he is in a
+> slavish condition? and who if he had perception and reason would wish
+> to be one of these lions? Well, these birds when they are caught and
+> are kept shut up, how much do they suffer in their attempts to escape?
+> And some of them die of hunger rather than submit to such a kind of
+> life. And as many of them as live, hardly live and with suffering pine
+> away; and if they ever find any opening, they make their escape. So
+> much do they desire their natural liberty, and to be independent and
+> free from hindrance. And what harm is there to you in this? What do
+> you say? I am formed by nature to fly where I choose, to live in the
+> open air, to sing when I choose: you deprive me of all this, and say,
+> what harm is it to you? For this reason we shall say that those
+> animals only are free, which cannot endure capture, but as soon as
+> they are caught. escape from captivity by death. So Diogenes also
+> somewhere says that there is only one way to freedom, and that is to
+> die content: and he writes to the Persian king. You cannot enslave the
+> Athenian state any more than you can enslave fishes. How is that?
+> cannot I catch them? If you catch them, says Diogenes, they will
+> immediately leave you, as fishes do; for if you catch a fish, it dies;
+> and if these men that are caught shall die, of what use to you is the
+> preparation for war? These are the words of a free man who had
+> carefully examined the thing, and, as was natural, had discovered it.
+> But if you look for it in a different place from where it is, what
+> wonder if you never find it?
+>
 > Epictetus, Discourses, Book 4
 
 Such is agreed to by Sallust as well, in the conspiracy of Catiline:
 
-> “We desire only our liberty, which no honorable man relinquishes but > with life. We therefore conjure you and the senate to befriend your > unhappy fellow-citizens; to restore us the protection of the law, which the injustice of the prætor has taken from us; and not to lay on us the necessity of considering how we may perish, so as best to avenge our blood." >
+> “We desire only our liberty, which no honorable man relinquishes but
+> with life. We therefore conjure you and the senate to befriend your
+> unhappy fellow-citizens; to restore us the protection of the law,
+> which the injustice of the prætor has taken from us; and not to lay on
+> us the necessity of considering how we may perish, so as best to
+> avenge our blood."
+>
 > -Sallust, The Catiline Conspiracy
 
 Strabo, in his geography, tells us that:
 
-> The law-giver, says Ephorus, seems to lay, as the foundation of his > constitution, the greatest good that states can enjoy, namely, liberty; for it is this alone which makes the property of every kind which a man possesses his own; in a state of slavery it belongs to the governor, and not to the governed. >
+> The law-giver, says Ephorus, seems to lay, as the foundation of his
+> constitution, the greatest good that states can enjoy, namely,
+> liberty; for it is this alone which makes the property of every kind
+> which a man possesses his own; in a state of slavery it belongs to the
+> governor, and not to the governed.
+>
 > -Strabo, Geography, Book 10, Chapter 4
 
 Now it is held by some that liberty causes degeneration and that it has a licentious air to it. They hold that liberty causes communities to die out, that it causes individuals to become separated from their fellows, atomized and isolated.
@@ -97,31 +585,58 @@ Now, knowing that men are political animals since they live in states, forming a
 
 For this, Aristotle says:
 
-> “Whereas without free population and wealth there cannot be a state at all, without justice and virtue it cannot be managed well” >
+> “Whereas without free population and wealth there cannot be a state at
+> all, without justice and virtue it cannot be managed well”
+>
 > -Aristotle, Politics, Book 3
 
-> “What has come to prevail in democracies is the very reverse of > beneficial, in those, that is, which are regarded as the most > democratically run. The reason for this lies in the failure to > properly define liberty. For there are two marks by which democracy is > thought to be defined: 'sovereignty of the majority' and 'liberty'. > 'Just' is equated with what is equal, and the decision of the majority > as to what is equal is regarded as sovereign; and liberty is seen in > terms of doing what one wants. So in such a democracy each lives as he likes and for his 'fancy of the moment', as Euripides says. This is bad. It ought not to be regarded as slavery to live according to the constitution, but rather as self-preservation.” >
+> “What has come to prevail in democracies is the very reverse of
+> beneficial, in those, that is, which are regarded as the most
+> democratically run. The reason for this lies in the failure to
+> properly define liberty. For there are two marks by which democracy is
+> thought to be defined: 'sovereignty of the majority' and 'liberty'.
+> 'Just' is equated with what is equal, and the decision of the majority
+> as to what is equal is regarded as sovereign; and liberty is seen in
+> terms of doing what one wants. So in such a democracy each lives as he
+> likes and for his 'fancy of the moment', as Euripides says. This is
+> bad. It ought not to be regarded as slavery to live according to the
+> constitution, but rather as self-preservation.”
+>
 > Aristotle, Politics, Book 5
 
 Now from this, we see that maintaining a populace in liberty means having a statesman's rule over them, and not a master's or tyrant's rule, as Demosthenes tells us in the fourth Philippic. He differentiates despotic rule from statesman's rule, saying that in Athens, the men do not accept slavery over themselves, and they do not wish to be despots over others either, but wish to live in liberty and equality under the state. But, license is different from this, since as Aristotle tells us, the failure to properly define liberty leads to democratic constitutions being the opposite of beneficial, and why this happens, is a result of the education which is given to the members, and such bad examples that come from an ill considered education make all liberty look like license.
 
 Now on such examples, Machiavelli tells us that:
 
-> “Good examples arise from Good education, Good education from Good laws, and Good laws from tumults that many inconsiderately damn” >
+> “Good examples arise from Good education, Good education from Good
+> laws, and Good laws from tumults that many inconsiderately damn”
+>
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 4
 
 Of the tumults, we may speak at another time, but from his words, Machiavelli demonstrates that Rome, with her education, could produce a multitude of great men, and this education arises from good laws.
 
 But the question of education and laws may be held to be a chicken and egg situation, since Aristotle says this:
 
-> "It is useless to have the most beneficial laws, fully agreed upon by > all who are members of the constitution, if they are not going to be > trained and have their habits formed in the spirit of that > constitution - in a democratic spirit, that is, if the laws are > democratic, but oligarchically if they are oligarchic; for as one > individual may be morally incapable, so may a whole state. Now to have > been educated for the constitution does not mean simply doing the things that members of an oligarchy or democratically minded people enjoy doing, but doing what will enable them to live as oligarchs or as democrats, as the case may be" >
+> "It is useless to have the most beneficial laws, fully agreed upon by
+> all who are members of the constitution, if they are not going to be
+> trained and have their habits formed in the spirit of that
+> constitution - in a democratic spirit, that is, if the laws are
+> democratic, but oligarchically if they are oligarchic; for as one
+> individual may be morally incapable, so may a whole state. Now to have
+> been educated for the constitution does not mean simply doing the
+> things that members of an oligarchy or democratically minded people
+> enjoy doing, but doing what will enable them to live as oligarchs or
+> as democrats, as the case may be"
+>
 > -Aristotle, Politics, Book 5
 
 But on closer examination, it may be said that both form a feedback loop, and while laws give rise to the form of education, education upholds the laws by forming such citizens who uphold the constitution.
 
 But it remains to see how education itself may be established, and for this Machiavelli tells us again, in the Discourses, that:
 
-> “For as good customs have need of laws to maintain themselves, so laws have need of good customs so as to be observed.” >
+> “For as good customs have need of laws to maintain themselves, so laws
+> have need of good customs so as to be observed.”
+>
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 18
 
 Now from the words of Cicero in his orations, we see that the foundations of liberty and justice are the laws of the state, and without them, there is no liberty possible. He says that the Romans are slaves to the law, only to be able to be free men. He says that the liberty of the Romans is based on the laws. Citizenship and liberty are coterminous and if one goes, the other will as well. Liberty means the rights of citizenship. The foundation of liberty is also the ability of a citizen to retain or abandon his privileges. The citizen can not be deprived of his citizenship against his will, not even by a vote of the people.
@@ -140,19 +655,45 @@ Let these be enough to show us what the form of liberty shall be, in a democrati
 
 #### Of the nature of Equality:
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§of-the-nature-of-equality" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
 On equality, we should take the words of Aristotle as being sufficiently demonstrative of how it works:
 
-> "Now all men believe that justice means equality in some sense, and > they are in limited agreement with the philosophy of justice which I > explained in my Ethics: They hold that justice is some entity which is relative to persons, and that equality must be equal for equals. The question we must keep in mind is, equality or inequality in what sort of thing?” >
+> "Now all men believe that justice means equality in some sense, and
+> they are in limited agreement with the philosophy of justice which I
+> explained in my Ethics: They hold that justice is some entity which is
+> relative to persons, and that equality must be equal for equals. The
+> question we must keep in mind is, equality or inequality in what sort
+> of thing?”
+>
 > Aristotle, Politics, Book 3
 
 This last bit is what we must remember, for it holds the key to understanding what the nature of equality is in a democracy, and it must also be known that neither equality or inequality can be absolute, as Aristotle tells us, once again:
 
-> "Since those who are equal in one particular ought not to enjoy equality in all things, nor those who are unequal in one respect have inequality in all, it follows that all constitutions in which such a state of affairs prevails must be deviations." >
+> "Since those who are equal in one particular ought not to enjoy
+> equality in all things, nor those who are unequal in one respect have
+> inequality in all, it follows that all constitutions in which such a
+> state of affairs prevails must be deviations."
+>
 > -Aristotle, Politics, Book 3
 
 Now to conclusively answer the question of the basis of equality, we have the words of Aristotle once again:
 
-> "There are the three grounds for claiming equality in a constitution, freedom, wealth and virtue (a fourth claim, called 'good birth', arises out of the two last of these three, for good birth is wealth plus virtue going back to one's forbears)" >
+> "There are the three grounds for claiming equality in a constitution,
+> freedom, wealth and virtue (a fourth claim, called 'good birth',
+> arises out of the two last of these three, for good birth is wealth
+> plus virtue going back to one's forbears)"
+>
 > -Aristotle, Politics, Book 4
 
 Now in a democratic form, mixed or pure, the equality is based on being born free, or as written above, freedom, though this can also vary among democracies, for some accept no freeborn immigrants into the citizen body, while the others accept them, though the scale of acceptance may vary, and also, any property qualification could mean an inability for some to participate in government, though acquisition of the qualification threshold could restore rights in such a system.
@@ -175,6 +716,18 @@ Now, it being made clear as to how liberty and equality are essential to a democ
 
 ### τέλος, membership and education
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§membership-and-education" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
 Now of the six forms in Aristotle's Politics, five are said to be pure, and one is said to be a composite of two from the five.
 
 The τέλος, or aim of a tyranny is said to be the preservation of the ruler himself, and since monarchy is the opposite of tyranny, we can infer these to be the aims of monarchy, from the words of Aristotle, and our own reason, for the ends of aristocracy and monarchy are held to be the same in Aristotle's view: virtue endowed with material goods, benefaction and preservation of the subjects, things related to education and what the law prescribes.
@@ -192,6 +745,18 @@ From the above, we see that a republic would contain the rich and the masses, bo
 A mixed constitution displays the characteristics of each of its constituents, and it would also look like none of them, maintaining an ambiguity of sovereignty while being in balance all the time.
 
 #### The aims of life in the Indian tradition:
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§the-aims-of-life-in-the-indian-tradition" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 Now it being known that Dharma, Artha and Kāma are the three main aims of life in the Indian tradition, we can now use this information along with what we have learned from Aristotle, to see how a mixed constitution may be made, starting with the membership and education:
 
@@ -217,11 +782,29 @@ Having linked the two sets of triads by finding their analogues in the way state
 
 #### Membership of a state:
 
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div id="§membership-of-a-state" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
 Now membership of the polity, or better stated as citizenship, is decided on the basis of gender, free birth, wealth, profession, and virtue.
 
 On virtue, Kauṭilya gives us some elements, in the Arthaśāstra, while deliberating on the qualities of magistrates:
 
-> “Well trained in arts, possessed of foresight, wise, of strong memory, > bold, eloquent, skillful, intelligent, possessed of enthusiasm, > dignity, and endurance, pure in character, affable, firm in loyal devotion, endowed with excellent conduct, strength, health and bravery, free from procrastination and ficklemindedness, affectionate, and free from such qualities as excite hatred and enmity.” >
+> “Well trained in arts, possessed of foresight, wise, of strong memory,
+> bold, eloquent, skillful, intelligent, possessed of enthusiasm,
+> dignity, and endurance, pure in character, affable, firm in loyal
+> devotion, endowed with excellent conduct, strength, health and
+> bravery, free from procrastination and ficklemindedness, affectionate,
+> and free from such qualities as excite hatred and enmity.”
+>
 > -Kauṭilya's Arthaśāstra, Book 1, Chapter 9
 
 Such is the list of virtues of magistrates in the Indian tradition, and one sees that virtue is only cultivated through education, in all nations, and never through instinct alone.
@@ -234,12 +817,28 @@ But what of gender? Given our times in which we have given the franchise to wome
 
 To this, the words of Aristotle may point to what we must do:
 
-> The deliberative faculty in the soul is not present at all in a slave; in a female it is present but ineffective, in a child present but undeveloped. >
-> Between male and female, the former is by nature superior and ruler, the latter inferior and subject. And this must hold good of mankind in general. >
-> Over a wife, rule is as by a statesman. >
-> For the male is more fitted to rule than the female, unless conditions are quite contrary to nature. >
-> It is true that in most cases of rule by statesmen there is an > interchange of the role of ruler and ruled, which aims to preserve > natural equality and non-differentiation; nevertheless, so long as one is ruling and the other is being ruled, the ruler seeks to mark distinctions in outward dignity, in style of address, and in honours paid. >
-> As between male and female this kind of relationship is permanent. >
+> The deliberative faculty in the soul is not present at all in a slave;
+> in a female it is present but ineffective, in a child present but
+> undeveloped.
+>
+> Between male and female, the former is by nature superior and ruler,
+> the latter inferior and subject. And this must hold good of mankind in
+> general.
+>
+> Over a wife, rule is as by a statesman.
+>
+> For the male is more fitted to rule than the female, unless conditions
+> are quite contrary to nature.
+>
+> It is true that in most cases of rule by statesmen there is an
+> interchange of the role of ruler and ruled, which aims to preserve
+> natural equality and non-differentiation; nevertheless, so long as one
+> is ruling and the other is being ruled, the ruler seeks to mark
+> distinctions in outward dignity, in style of address, and in honours
+> paid.
+>
+> As between male and female this kind of relationship is permanent.
+>
 > -Aristotle, Politics, Book 1
 
 Now this may give us some clues to inclusion of women. Since the deliberative faculty is weak in women, it would be fallacious to grant them membership without discrimination, for a weak ability to reason will soon lead to ruining of the state.
@@ -250,21 +849,49 @@ But this last one is the safest, for even if a woman has a great power of reason
 
 The next is free birth, and this means that one is not born a slave. In our age, this is redundant, for most are born free, but the slave mindset is different from institutionalised slavery, for there are marks of inherent slavery in peoples, and such marks are suggested by Aristotle:
 
-> Whenever there is the same wide discrepancy between human beings as > there is between soul and body or between man and beast, then those > whose condition is such that their function is the use of their bodies > and nothing better can be expected of them, those, I say, are slaves > by nature. It is better for them, just as in the cases mentioned, to > be ruled thus. For the slave by nature is he that can and therefore > does belong to another, and he that participates in reason so far as to recognise it but not so as to possess it. The use made of slaves hardly differs at all from that of tame animals: they both help with their bodies to supply our essential needs. >
-> While it is not invariably true that slaves are slaves by nature and > others free, yet this distinction does in some cases actually > prevail - cases where it is expedient for the one to be master, the > other to be the slave. Whereas the one must be ruled, the other should > exercise the rule for which he is fitted by nature, thus being the > master. For, if the work of being a master is badly done, that is contrary to the interest of both parties; for the part and the whole, the soul and the body, have identical interests; and the slave is in a sense a part of his master, a living but separate part of his body. >
+> Whenever there is the same wide discrepancy between human beings as
+> there is between soul and body or between man and beast, then those
+> whose condition is such that their function is the use of their bodies
+> and nothing better can be expected of them, those, I say, are slaves
+> by nature. It is better for them, just as in the cases mentioned, to
+> be ruled thus. For the slave by nature is he that can and therefore
+> does belong to another, and he that participates in reason so far as
+> to recognise it but not so as to possess it. The use made of slaves
+> hardly differs at all from that of tame animals: they both help with
+> their bodies to supply our essential needs.
+>
+> While it is not invariably true that slaves are slaves by nature and
+> others free, yet this distinction does in some cases actually
+> prevail - cases where it is expedient for the one to be master, the
+> other to be the slave. Whereas the one must be ruled, the other should
+> exercise the rule for which he is fitted by nature, thus being the
+> master. For, if the work of being a master is badly done, that is
+> contrary to the interest of both parties; for the part and the whole,
+> the soul and the body, have identical interests; and the slave is in a
+> sense a part of his master, a living but separate part of his body.
+>
 > -Aristotle, Politics, Book 1,
 
 Now from this, we understand that free birth alone does not mean anything, for if one can only have the use of his body, and not have anything in faculties of reason, such a man is not fit to be a free man, but a slave. On the contrary, if a man is born in servitude, but has the power of reason, he deserves to be manumitted, and made a liberated man.
 
 And finally, to the questions of profession, such is the opinion of Aristotle:
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc81f51b1-8dae-4c50-922f-d2d6b3f2d9bd_1080x1259.jpeg)
+<div class="captioned-image-container">
 
-![Source of images: Aristotle's Politics, Book 7](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70e789eb-17bd-4365-b468-2ab3be0f28c1_1080x1287.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!_CGy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc81f51b1-8dae-4c50-922f-d2d6b3f2d9bd_1080x1259.jpeg)
+
+</div>
+
+<div class="captioned-image-container">
+
+![Source of images: Aristotle's Politics, Book 7](https://substackcdn.com/image/fetch/$s_!fjvQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70e789eb-17bd-4365-b468-2ab3be0f28c1_1080x1287.jpeg)
+
+</div>
 
 Now such usage being anachronistic to us, since we have eliminated formal slavery, it may be hard for us to decide the questions of membership based on profession, but we forget that while we could eliminate the formal institutions, it is much harder to eliminate the force which gives birth to them, as Machiavelli says in the Discourses about the dictatorial authority of the Romans:
 
-> For it is forces that easily acquire names, not names forces >
+> For it is forces that easily acquire names, not names forces
+>
 > -Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 34
 
 And from this, we understand that though the institution of slavery has died out, the characteristics of slaves last beyond the institution, and such characteristics must not be given any place in the citizen body.
@@ -291,28 +918,270 @@ But of the commercial and agricultural workers, they should always be given memb
 
 Thus, one way of organizing of membership would be the inclusion of the virtuous, the farmers, the rich men, and only a minority of mechanics, to preserve the mixed constitution, while all must be educated properly in accordance with the constitution, and on the appropriate education, a discourse will be seen later on, in a future post, at length.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 If you have liked this post, like, comment and subscribe by entering your email below, to receive free updates
 
-**Subscribe**
+</div>
 
-[](https://machiavellianhindu.substack.com/p/liberty-equality-aims-and-membership/comments)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-2
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[](javascript:void(0))
+<div class="container-IpPqBD">
 
-Share this post
+<div class="sideBySideWrap-vGXrwP">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f48c3a-87ea-4585-9471-672e853e0d16_620x494.jpeg)
+<div class="emailInputWrapper-QlA86j">
 
-#### Liberty, Equality, Aims and Membership of States
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
 
-machiavellianhindu.substack.com
+</div>
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+5
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(94,71,48,0.75), rgba(94,71,48,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!STUq!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f48c3a-87ea-4585-9471-672e853e0d16_620x494.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Saṃyuktatripathasyanīti
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Liberty, Equality, Aims and Membership of States
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://machiavellianhindu.substack.com/p/liberty-equality-aims-and-membership/comments)
+
+<div class="label">
+
+2
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

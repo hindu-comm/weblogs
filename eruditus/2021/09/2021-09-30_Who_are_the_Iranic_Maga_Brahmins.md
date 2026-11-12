@@ -1,9 +1,8 @@
 +++
 title = "Who are the Iranic Maga"
 full_title = "Who are the Iranic Maga Brahmins?"
-date = "2021-09-30"
 upstream_url = "https://eruditus.substack.com/p/who-are-the-iranic-maga-brahmins"
-
+date = "2021-09-30"
 +++
 Source: [here](https://eruditus.substack.com/p/who-are-the-iranic-maga-brahmins).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F12069075-016d-478f-a107-c07f301f666c_440x599.jpeg)
 
-Who are the Iranic Maga Brahmins?
+#### Who are the Iranic Maga Brahmins?
 
 eruditus.substack.com
 
@@ -27,13 +26,13 @@ Email
 
 # Who are the Iranic Maga Brahmins?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
 Sep 30, 2021
 
-4
+5
 
 [](https://eruditus.substack.com/p/who-are-the-iranic-maga-brahmins/comments)
 
@@ -41,11 +40,13 @@ Sep 30, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F12069075-016d-478f-a107-c07f301f666c_440x599.jpeg)
 
-Who are the Iranic Maga Brahmins?
+#### Who are the Iranic Maga Brahmins?
 
 eruditus.substack.com
 
@@ -57,15 +58,17 @@ Facebook
 
 Email
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F12069075-016d-478f-a107-c07f301f666c_440x599.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F12069075-016d-478f-a107-c07f301f666c_440x599.jpeg)
 
 **Subscribe**
 
 *Fig 1. Surya, the Sun God. The Maga Brahmins have a long history of being associated with saura worship.*
 
-The origin story of the Maga alias [Shakadviipiya brAhmaNas](https://en.wikipedia.org/wiki/Sakaldwipiya) is discussed in some detail in the saura saamba upapurANa, the bhaviShya purANa, bhUmi parva of the Mbh, brahma purANa & the viShNu purANa. The bR^ihat saMhita of [Varahamihira](https://en.wikipedia.org/wiki/Var%C4%81hamihira) (likely a Maga Brahmin himself) also mentions that the Maga Brahmins are the solar priests premier, who install the idol of the sun (मगांश् च सवितुः). This statement from the 6th century work makes it certain the Magas were well established by end of classical anqituity in India. As for Varahamihira’s origins; a few things make it clear. He opens the bR^ihatsamhita with an invocation to the sun & closes it by stating his family are sun-worshippers (his father is called Adityadasa). If any other confirmation of this is needed, we find the commentator bhaTTa upala call Varahamihira as a “magadha-dvIja” (in the bhaviShya purANa the term magadha is used interchangebly with maga brAhmaNa). Having established this, we now jump 500 years into the future and find historical era corroboration of the presence of Maga Brahmins in the Govindapura inscription (Shaka Era 1059, 1137 AD) found in the Gaya district of vA\~Nga desha.
+The origin story of the Maga alias [Shakadviipiya brAhmaNas](https://en.wikipedia.org/wiki/Sakaldwipiya) is discussed in some detail in the saura saamba upapurANa, the bhaviShya purANa, bhUmi parva of the Mbh, brahma purANa & the viShNu purANa. The bR^ihat saMhita of [Varahamihira](https://en.wikipedia.org/wiki/Var%C4%81hamihira) (likely a Maga Brahmin himself) also mentions that the Maga Brahmins are the solar priests premier, who install the idol of the sun (मगांश् च सवितुः). This statement from the 6th century work makes it certain the Magas were well established by end of classical anqituity in India. As for Varahamihira’s origins; a few things make it clear. He opens the bR^ihatsamhita with an invocation to the sun & closes it by stating his family are sun-worshippers (his father is called Adityadasa). If any other confirmation of this is needed, we find the commentator bhaTTa upala call Varahamihira as a “magadha-dvIja” (in the bhaviShya purANa the term magadha is used interchangebly with maga brAhmaNa). Having established this, we now jump 500 years into the future and find historical era corroboration of the presence of Maga Brahmins in the Govindapura inscription (Shaka Era 1059, 1137 AD) found in the Gaya district of vA~Nga desha.
 
-Before we look at the inscription & samba purANa account, a prefatory note is necessary. It is without a doubt certain the Magas were Iranic solar priests *(c.f Maga \> Magi)* who were assimilated into Hindu culture & even varNAshrama dharma, rising to the rank of brAhmaNas-s. Both purANa-s mention they used to wear an *avyanga* thread on their waist. This is nothing else except the Mazdayasna equivalent of the yaj\~Nopavita (sacred thread). It is known as kushti in Pahlavi and aiwyAonghana in Avestan (lit. girded around. Notice the first prefix “aiwi” cognate with abhi of Skt). Interestingly, the Zoro have their own term for upavIta (with the thread) called hadha-aiwyanghanem (lit. with the girdle) and the negative in anaiwyasto (lit. ungirded) corresponding to Sanskrit anupavIta. It has 72 threads (representing 72 chapters of the yasna and is tied around 3 times representing the Mazdayasna concept of good thought, word & deed).
+Before we look at the inscription & samba purANa account, a prefatory note is necessary. It is without a doubt certain the Magas were Iranic solar priests *(c.f Maga \> Magi)* who were assimilated into Hindu culture & even varNAshrama dharma, rising to the rank of brAhmaNas-s. Both purANa-s mention they used to wear an *avyanga* thread on their waist. This is nothing else except the Mazdayasna equivalent of the yaj~Nopavita (sacred thread). It is known as kushti in Pahlavi and aiwyAonghana in Avestan (lit. girded around. Notice the first prefix “aiwi” cognate with abhi of Skt). Interestingly, the Zoro have their own term for upavIta (with the thread) called hadha-aiwyanghanem (lit. with the girdle) and the negative in anaiwyasto (lit. ungirded) corresponding to Sanskrit anupavIta. It has 72 threads (representing 72 chapters of the yasna and is tied around 3 times representing the Mazdayasna concept of good thought, word & deed).
 
 The saamba purANa story goes that saamba gets sick (kuShTharoga or leprosy) due to a curse given by his father kR^iShNa and is told to do sUryopAsana (sun worship) to get healed. He goes to chandrabhAgA river (modern day Chenab in Punjab) & does tapasyA. Now, sUrya cures him & tells him to install an idol of him on the Chenab. He also gives him a boon that this city will be renowned as sAmbapura.
 
@@ -119,7 +122,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F12069075-016d-478f-a107-c07f301f666c_440x599.jpeg)
 
-Who are the Iranic Maga Brahmins?
+#### Who are the Iranic Maga Brahmins?
 
 eruditus.substack.com
 
@@ -130,5 +133,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

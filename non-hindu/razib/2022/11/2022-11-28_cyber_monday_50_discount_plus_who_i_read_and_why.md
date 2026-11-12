@@ -2,8 +2,7 @@
 title = "Cyber Monday 50%"
 full_title = "Cyber Monday 50% discount, plus who I read and why"
 upstream_url = "https://www.razibkhan.com/p/cyber-monday-50-discount-plus-who"
-date = "2050-02-07"
-
+date = "2022-11-28"
 +++
 Source: [here](https://www.razibkhan.com/p/cyber-monday-50-discount-plus-who).
 

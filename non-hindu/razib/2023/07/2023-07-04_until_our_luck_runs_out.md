@@ -2,8 +2,7 @@
 title = "Until our luck runs out"
 full_title = "Until our luck runs out"
 upstream_url = "https://www.razibkhan.com/p/until-our-luck-runs-out"
-date = "247-02-05"
-
+date = "2023-07-04"
 +++
 Source: [here](https://www.razibkhan.com/p/until-our-luck-runs-out).
 

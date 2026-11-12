@@ -1,9 +1,8 @@
 +++
 title = "RKUL time well spent"
 full_title = "RKUL time well spent 08/08/2021"
-date = "2021-08-09"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-08082021"
-
+date = "2021-08-09"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-08082021).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdb5bbe-153b-456f-afc4-83a7451bdf62_1600x1200.jpeg)
 
-RKUL: time well spent 08/08/2021
+#### RKUL: time well spent 08/08/2021
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### Recommendations for everything, vacation edition
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Aug 9, 2021
 
-10
+9
 
 [](https://razib.substack.com/p/rkul-time-well-spent-08082021/comments)
 
@@ -43,11 +42,13 @@ Aug 9, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdb5bbe-153b-456f-afc4-83a7451bdf62_1600x1200.jpeg)
 
-RKUL: time well spent 08/08/2021
+#### RKUL: time well spent 08/08/2021
 
 razib.substack.com
 
@@ -59,7 +60,11 @@ Facebook
 
 Email
 
-![Midsummer Finnish lake, Credit: [Minna Rintala](https://www.instagram.com/minna_rintala/)](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdb5bbe-153b-456f-afc4-83a7451bdf62_1600x1200.jpeg)
+[](https://www.instagram.com/minna_rintala/)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdb5bbe-153b-456f-afc4-83a7451bdf62_1600x1200.jpeg)
+
+Midsummer Finnish lake, Credit: [Minna Rintala](https://www.instagram.com/minna_rintala/)
 
 **Subscribe**
 
@@ -72,6 +77,8 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 ### **Books, what else?**
 
 My friend Kathryn Paige Harden’s [The Genetic Lottery: Why DNA Matters For Social Equality](https://www.amazon.com/exec/obidos/ASIN/0691190801/geneexpressio-20) is a well-written book that presents a somewhat tendentious position, at least to many of a [progressive bent](https://freddiedeboer.substack.com/p/im-a-genes-ie-in-a-bottle-you-gotta), that genetics must be considered when we design a liberal order. You can read [my review over at UnHerd](https://unherd.com/2021/07/do-genes-determine-intelligence/), though if you are [subscribed](https://razib.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Frazib.substack.com%2F%3Fno_cover%3Dtrue) to the paid version of this newsletter I’ll eventually be posting a much longer version of the review on this Substack.
+
+[](https://www.amazon.com/shop/RazibKhan?listId=2AP2YNNQEF8F)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2b3dfc76-c9e8-4719-b33a-8d446d9a8a89_800x148.jpeg)
 
@@ -151,6 +158,8 @@ Again, I talk most Fridays on [Clubhouse](https://www.joinclubhouse.com/@razibkh
 
 And you don’t have to because my children attend public schools. Here is an activity our then-five-year-old spent time in public school doing, presumably one-on-one with an adult, because he was pre-literate. Spoiler: it’s yesses all the way down.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c2a0778-6285-458d-ad0a-17b8ee77212a_781x1000.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c2a0778-6285-458d-ad0a-17b8ee77212a_781x1000.jpeg)
 
 ### **ICYMI**
@@ -195,6 +204,8 @@ I’m also a regular guest on [The Study of Antiquity and the Middle Ages](https
 
 ### **On the blog**
 
+[](https://www.gnxp.com/WordPress/2021/07/14/the-non-european-admixture-in-afrikaners/)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5996c90c-750b-49d1-ac88-5263447d702b_768x343.jpeg)
 
 If you are curious about the non-European admixture into Afrikaners/Boers, [I wrote a whole post](https://www.gnxp.com/WordPress/2021/07/14/the-non-european-admixture-in-afrikaners/) on the topic on my weblog.
@@ -219,7 +230,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdb5bbe-153b-456f-afc4-83a7451bdf62_1600x1200.jpeg)
 
-RKUL: time well spent 08/08/2021
+#### RKUL: time well spent 08/08/2021
 
 razib.substack.com
 
@@ -230,5 +241,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

@@ -2,8 +2,7 @@
 title = "Geography by the numbers"
 full_title = "Geography by the numbers what territory we've covered"
 upstream_url = "https://razib.substack.com/p/geography-by-the-numbers-what-territory"
-date = "200-04-12"
-
+date = "2021-12-30"
 +++
 Source: [here](https://razib.substack.com/p/geography-by-the-numbers-what-territory).
 

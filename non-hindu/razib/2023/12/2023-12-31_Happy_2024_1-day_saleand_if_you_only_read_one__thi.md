@@ -8,29 +8,65 @@ Source: [here](https://www.razibkhan.com/p/happy-2024-1-day-saleand-if-you-only)
 
 Happy 2024! 1-day sale…and if you only read one _ this year
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
+
+#### Happy 2024! 1-day sale…and if you only read one \_ this year
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # Happy 2024! 1-day sale…and if you only read one \_ this year
 
 ### End of year annual subscription discount
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
 Dec 31, 2023
 
-33
+34
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
+
+#### Happy 2024! 1-day sale…and if you only read one \_ this year
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/happy-2024-1-day-saleand-if-you-only/comments)
 
 7
 
-1
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!ICfC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
 
-![](https://substackcdn.com/image/fetch/$s_!ICfC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
 
 Subscribe
 
@@ -200,10 +236,30 @@ Subscribe
 
 [Share](https://www.razibkhan.com/p/happy-2024-1-day-saleand-if-you-only?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-33
+34
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3eaa76-f066-4aae-a354-65544460267e_921x571.png)
+
+#### Happy 2024! 1-day sale…and if you only read one \_ this year
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/happy-2024-1-day-saleand-if-you-only/comments)
 
 7
 
-1
+[](javascript:void(0))
 
 Share

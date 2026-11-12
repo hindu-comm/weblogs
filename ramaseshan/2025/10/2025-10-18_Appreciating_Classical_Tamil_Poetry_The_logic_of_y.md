@@ -20,11 +20,15 @@ Appreciating Classical Tamil Poetry : The logic of Yāppu
 
 Oct 18, 2025
 
-10
+9
+
+[](https://ramaseshanchandrasekaran.substack.com/p/appreciating-classical-tamil-poetry/comments)
 
 1
 
-3
+1
+
+[](javascript:void(0))
 
 Share
 
@@ -450,10 +454,14 @@ The first stanza of this hymn is transliterated and translated below for your re
 
 I’ve come to the black pilled realisation that many Tamils ourselves have absolutely no clue of this more than 2500 year old Tamil prosodical tradition. Popular songs in all circumstances have stopped employing these classical metrical tools (**Ceyyuḷ**), unlike in the early days of Tamil cinema where at least some movies used to have some classical styled songs. I am afraid that this unique system of poetry is dying for which the normalisation and popularisation of the free verse form (**Pāṭṭu**) is to be blamed. The loss of this tradition has already happened once in recorded history about a 1000 years ago inKerala, when this old *Yāppilakkaṇam* system was abandoned there in favour of the free verse (***pāṭṭu)*** and also the emergence and dominance of **Maṇippiravāḷam** (Sanskrit hybrid) systems. Today, this is happening in Tamil with the influence of Anglican modernity right in front of our own eyes. I would say this rigorous system of yāppu has been the anchor of theTamil language, keeping at least its formal literary register firmly rooted to its classical origins, despite constant rapid changes and divergences in the colloquial language. Now that the anchor has been dislodged, the future of the unique poetic tradition of Tamil looks very bleak. This is why I decided to write this article for anyone who is interested. Yāppu ilakanam is a very old system of Tamil prosody, stretching back at least as far as the Sangam age, and possibly older. This article presented is by no means comprehensive of all of Tamil prosody at all, as I exclude many many things that I would love to discuss - like **Toṭai** (rhyming and alliteration), **Aṇi** (ornamentation - similes, metaphors, etc..), **Vaṇṇam** (color - description), etc. But we have to start somewhere, and the best place is from the basics here that the other systems build on or incorporate. In future, I will try to continue this until there are some basic resources for writing at least a poem in the staple **Veṇpā** metre. In a future article, I intend to cover metrical analysis in detail.
 
-10
+9
+
+[](https://ramaseshanchandrasekaran.substack.com/p/appreciating-classical-tamil-poetry/comments)
 
 1
 
-3
+1
+
+[](javascript:void(0))
 
 Share

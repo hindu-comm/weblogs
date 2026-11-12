@@ -2,8 +2,7 @@
 title = "El genocidio maorí de"
 full_title = "El genocidio maorí de los moriori"
 upstream_url = "https://www.stoneageherbalist.com/p/spanish-translation-el-genocidio"
-date = "1980-03-01"
-
+date = "2024-01-16"
 +++
 Source: [here](https://www.stoneageherbalist.com/p/spanish-translation-el-genocidio).
 

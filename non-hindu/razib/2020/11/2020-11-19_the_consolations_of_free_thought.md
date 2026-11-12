@@ -2,8 +2,7 @@
 title = "The Consolations of Free"
 full_title = "The Consolations of Free Thought"
 upstream_url = "https://razib.substack.com/p/the-consolations-of-free-thought"
-date = "1918-04-12"
-
+date = "2020-11-19"
 +++
 Source: [here](https://razib.substack.com/p/the-consolations-of-free-thought).
 

@@ -8,50 +8,186 @@ Source: [here](https://thedharmadispatch.substack.com/p/national-boycott-of-lal-
 
 National Boycott of Lal Singh Chaddha: Insulting Hindu Deities has Long-Term Consequences
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg)
+
+#### National Boycott of Lal Singh Chaddha: Insulting Hindu Deities has Long-Term Consequences
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f879df7-dc51-49b1-8b7e-a20fe00e2dcc_512x512.png)
+
+#### Discover more from The Dharma Dispatch Digest
+
+Stories and essays from Indian civilisation, history and culture. Narratives from Sanatana Dharma. This is the digest of the main site, https://www.dharmadispatch.in/, delivered directly to your email inbox.
+
+Over 8,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
+
 # National Boycott of Lal Singh Chaddha: Insulting Hindu Deities has Long-Term Consequences
 
 ### The sustained nationwide campaign to boycott Aamir Khan's Lal Singh Chaddha is the consequence of his disgusting politics of insulting Hindu Dharma.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Aug 10, 2022
 
-∙ Paid
+24
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+Share this post
 
-25
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+#### National Boycott of Lal Singh Chaddha: Insulting Hindu Deities has Long-Term Consequences
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/national-boycott-of-lal-singh-chaddha/comments)
 
 6
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!x9Ii!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg)
 
-![Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ](https://substackcdn.com/image/fetch/$s_!x9Ii!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg "Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ")
+![Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg "Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+NOWADAYS I WATCH BOLLYWOOD MOVIES with the sole intent and purpose of tracking the cultural destruction quotient embedded therein. Actually I’m only telling a half-truth. I don’t recall the last Bollywood movie I watched from start to end. You don’t need to actually swallow venom to know that it is indeed fatal. Bollywood is its own exposé. It is a cosmos inhabited by multiple worlds each with its own brand of anomalies, and taken individually or severally or as a whole, they have proven lethal to our sensibilities. That’s putting it politely.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+One such world advertises prolific markers for us to intuitively grasp its contempt not only towards Hindu culture but its intrinsic aversion all that is pure, noble and virtuous. Another world offends our intelligence with such frequency that in our unguarded moments, we might actually think that Alia Bhatt’s tongue-touching-the-nose antic is… *talent.*
 
-NOWADAYS I WATCH BOLLYWOOD MOVIES with the sole intent and purpose of tracking the cultural destruction quotient embedded therein. Actually I’m only telling a half-truth. I don’t recall the last Bollywood movie I watched from start to end. You don’t need to actually swallow venom to know that it is indeed fatal. Bollywood is its own exposé. It is a cosm…
+Then there is yet another world which is the most dangerous of them all. Its defining feature is encapsulated in the word *cerebral.* This world within Bollywood has proven durable. It can be traced back to the sixties when talented filmmakers and writers peddled Marxist propaganda disguised as entertainment. Their target was the foundations of the Hindu society and Hindu religious practices which they assaulted with great artistry. The camouflage was near perfect as I’ve shown in my detailed [analysis](https://www.dharmadispatch.in/culture/deewaar-disarming-hindus-via-billa-no-786) of *Deewaar.*
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+Aamir Khan remains one of the last practitioners of this school. Almost a visible line separates his filmography that followed the 1999 superhit *Sarfarosh.* No doubt a well-made movie, *Sarfarosh* beautifully conceals the familiar tropes of “terror has no religion,” “Pakistanis are also people like us,” and treads the safe territory of Nehruvian secularism. But it was with *Rang de Basanti* that the knives were really out. The movie was a no-holds-barred assault primarily against the Vajpayee-led NDA Government and the BJP as a party espousing Hindu cultural nationalism as an ideology.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+Subscribe
 
-Claim my free post
+WITH THE RELEASE of *Fanaa* in 2006, nobody had any illusions about Aamir Khan’s politics. While the movie was an unabashed advocacy for the secession of Kashmir from India, it also proved a fertile opportunity for Aamir Khan to launch an unprovoked tirade against Narendra Modi. It was also the movie that marked the emergence of Aamir Khan not as a character in movies but as a persona that would play out with increased frequency in the coming years.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fnational-boycott-of-lal-singh-chaddha&utm_source=paywall&utm_medium=web&utm_content=68034404&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=68034404&next=https://thedharmadispatch.substack.com/p/national-boycott-of-lal-singh-chaddha)
+The release of *PK* in 2014 was simply the other side of the same coin that *Fanaa* represented. The climax of *Fanaa,* in which Aamir played the role of an Islamic terrorist fighting for the “freedom of Kashmir,” has Kajol mouthing this line to her young son, “your father chose the path that he thought was right.” And the son kisses his grave telling him that he loves him. The implication is clear: you are absolved of an act of war against India if your “conviction” is right. In *PK,* the unambiguous targets are not just Hindu festivals or customs but deities themselves. Its crass and disgusting Hinduphobia and Hindu hatred is too well-known to repeat here. *PK* has done precisely what M.F. Hussain had done earlier by painting Hindu deities in a highly perverse fashion.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+------------------------------------------------------------------------
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+## **Read Also**
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F728e700a-0023-4199-ae23-33779f75410a_480x270.jpeg)
+
+![Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F728e700a-0023-4199-ae23-33779f75410a_480x270.jpeg "Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ")
+
+[Unravelling Vulgarity: All you Wanted to Know about M.F. Hussain's Alleged Art](https://www.dharmadispatch.in/culture/unravelling-vulgarity-all-you-wanted-to-know-about-mf-hussains-alleged-art)
+
+------------------------------------------------------------------------
+
+IN REAL LIFE, Aamir Khan shot to infamy once more with his 2015 comment that his (former) *Hindu* wife Kiran Rao felt unsafe in India and deservedly faced intense backlash. But the real notable element in the episode is Aamir’s shrewdness: those were not *his* words but those of his *Hindu* wife. That is what gave him plausible deniability when he backtracked and said in so many words that “I never said India was intolerant or that I would be leaving the country.” Common sense tells us that Kiran Rao was left holding the rotten end of the stick.
+
+The question that arises is this: *at what point do Aamir Khan’s movies stop being mere fiction and become vehicles peddling his brand of politics?*
+
+Then there was also his much-publicised meeting with the wife of Turkey’s President, whose hatred for…ummm…Hindu India is no secret. Plus his [meeting](https://sports.ndtv.com/world-cup-2011/shahid-afridi-meets-aamir-khan-in-mecca-while-on-hajj-1546228) with Shahid Afridi who [makes no secret](https://www.mensxp.com/sports/cricket/76354-3-times-shahid-afridi-proved-hes-not-only-insensitive-but-also-sexist-bigoted.html) of his anti-Hindu bigotry had also come in for severe condemnation.
+
+The combined impact of Aamir Khan’s highly unflattering past is being intensely felt by his upcoming film, *Lal Singh Chaddha,* which he has also produced. It couldn’t have come at a worse time. Over the last three or four years, Bollywood has acquired three major stains. The first is that it is innately anti-Hindu and anti-India, a reputation that has enormous merit. The second is the stranglehold of nepotism, which is widely perceived as being response for the questionable death of Sushant Singh Rajput. The third is the active promotion of depravity in the garb of freedom of expression.
+
+To top this cup of woe are the staggering losses that Bollywood is reeling under. Almost every big budget movie released after the lockdown has flopped on a colossal scale, the latest being *Shamshera,* widely touted as one of the all-time disasters in Bollywood history.
+
+------------------------------------------------------------------------
+
+Read Also:
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb34d3b2a-adfb-44d4-b535-65978c9dcfbf_480x245.jpeg)
+
+![Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb34d3b2a-adfb-44d4-b535-65978c9dcfbf_480x245.jpeg "Lal Singh Chaddha: In Which Aamir Khan’s Politics has Roasted Him ")
+
+[Revisiting the Radio Station in Rang De Basanti: A Case Study in Bollywood Communist Propaganda](https://www.dharmadispatch.in/culture/revisiting-the-radio-station-in-rang-de-basanti-a-case-study-in-bollywood-communist-propaganda)
+
+------------------------------------------------------------------------
+
+WHAT HAS FUNDAMENTALLY occurred throughout is a familiar phenomenon: *a complete erosion of the people’s trust in Bollywood*. The call to boycott Aamir Khan’s *Lal Singh Chaddha* barely hours after its release date was announced is part of the same phenomenon. In fact, this boycott call is a subset of the overarching call for boycotting Bollywood in toto. The Twitter hashtag \#boycottbollywood, which keeps trending more than once each week is one significant evidence of this.
+
+Aamir’s last outing at the box office was *Thugs of Hindustan,* ranked as one of the worst movies ever made, was also a grand commercial flop until it was superseded by *Shamshera*.
+
+One can only speculate that so far, Aamir Khan was banking on the confidence that the unsuccessful call to boycott *Dangal* back in 2016 would repeat itself with *Lal Singh Chaddha* as well. But little did he anticipate the sheer scale of public fury this time around. A fury that was also armed with investigative details: of videos of his 2006 interview with Shekhar Gupta where he nonchalantly blames Narendra Modi for the Gujarat riots. Of his co-star Kareena Kapoor Khan’s naked contempt for the ticket-buying audience.
+
+And it appears that Aamir has clearly understood the advance verdict the public has given: *we simply don’t want to watch Lal Singh Chaddha even if it is a good film.*
+
+Only this explains his desperate plea not to boycott it. The cold aloofness, the casual smugness he had displayed during the release of *Dangal* are gone. The extent to which he is unnerved is evident when he vented out his anxiety [claiming](https://www.hindustantimes.com/entertainment/bollywood/aamir-khan-says-people-think-he-doesn-t-like-india-amid-calls-for-laal-singh-chaddha-boycott-101659332140712.html) that “some of the people believe that I am someone who doesn't like India, but it is untrue.” A pretty steep climbdown but one which people aren’t buying any more.
+
+And Aamir Khan has only himself to blame for it. Acting in movies that show him urinating on a wall adjacent to a suitcase with a picture of Goddess Lakshmi on it has long-term consequences.
+
+------------------------------------------------------------------------
+
+## An Earnest Appeal: Please Support Our Dharmic Work @ The Dharma Dispatch
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*.
+
+It takes us weeks of careful research, diligent preparation and passionate writing to produce the content you read on The Dharma Dispatch.
+
+It is your subscriptions that enables and empowers us to produce in-depth essays countering attacks on the Hindu civilisational heritage. *Every rupee of your subscription pays our bills and helps us offer more and better content to our readership.*
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+Subscribe
+
+------------------------------------------------------------------------
+
+24
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf4658c9-fdef-4ee0-8735-8c7f4240e2c7_754x424.jpeg)
+
+#### National Boycott of Lal Singh Chaddha: Insulting Hindu Deities has Long-Term Consequences
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/national-boycott-of-lal-singh-chaddha/comments)
+
+6
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

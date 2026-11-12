@@ -1,9 +1,8 @@
 +++
 title = "RKUL time well spent"
 full_title = "RKUL time well spent 11/11/2021"
-date = "2021-11-12"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-11112021"
-
+date = "2021-11-12"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-11112021).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b42f15b-5833-4f6e-8ae9-bd7aa0a07ab3_1600x900.png)
 
-RKUL: time well spent 11/11/2021
+#### RKUL: time well spent 11/11/2021
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### Recommendations for everything, pre-Thanksgiving edition
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Nov 12, 2021
 
-13
+12
 
 [](https://razib.substack.com/p/rkul-time-well-spent-11112021/comments)
 
@@ -43,11 +42,13 @@ Nov 12, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b42f15b-5833-4f6e-8ae9-bd7aa0a07ab3_1600x900.png)
 
-RKUL: time well spent 11/11/2021
+#### RKUL: time well spent 11/11/2021
 
 razib.substack.com
 
@@ -59,7 +60,11 @@ Facebook
 
 Email
 
-![**A test to measure your aptitude**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b42f15b-5833-4f6e-8ae9-bd7aa0a07ab3_1600x900.png)
+[](https://razib.substack.com/p/applying-iq-to-iq)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b42f15b-5833-4f6e-8ae9-bd7aa0a07ab3_1600x900.png)
+
+**A test to measure your aptitude**
 
 **Subscribe**
 
@@ -76,6 +81,8 @@ A very strange [question](https://twitter.com/janecoaston/status/145885653392465
 > Why do dog breeds differ so widely, and why do specific breeds have specific characteristics (labrador retrievers love to eat, poodles are geniuses)?
 
 The short answer is the multivariate breeder’s equation:
+
+[](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/3IM5600S96DNT?type=explore)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0f0b1f46-6a64-423c-afdc-3e6970ffe047_972x200.jpeg)
 
@@ -174,7 +181,11 @@ Again, I talk most Fridays on [Clubhouse](https://www.joinclubhouse.com/@razibkh
 
 And you don’t have to because my children attend American public schools. This passage is an example rough draft for fourth graders writing a narrative. It’s not for them to practice copyediting. It’s this unreadable… just to keep it real? My child notes smirkingly that Pedro is otherwise only ever shown haranguing said sister about her supposed trespasses against English grammar.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F731c03b6-5c45-4479-94ed-e354498487f3_573x713.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F731c03b6-5c45-4479-94ed-e354498487f3_573x713.png)
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ca97f49-15ca-4620-9c7e-7ed171d5991d_1072x925.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ca97f49-15ca-4620-9c7e-7ed171d5991d_1072x925.png)
 
@@ -238,7 +249,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b42f15b-5833-4f6e-8ae9-bd7aa0a07ab3_1600x900.png)
 
-RKUL: time well spent 11/11/2021
+#### RKUL: time well spent 11/11/2021
 
 razib.substack.com
 
@@ -249,5 +260,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

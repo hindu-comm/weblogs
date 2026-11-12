@@ -1,9 +1,8 @@
 +++
 title = "All I want for Christmas"
 full_title = "All I want for Christmas is a few good reads"
-date = "2021-11-29"
 upstream_url = "https://razib.substack.com/p/all-i-want-for-christmas-is-a-few"
-
+date = "2021-11-29"
 +++
 Source: [here](https://razib.substack.com/p/all-i-want-for-christmas-is-a-few).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
-All I want for Christmas is a few good reads
+#### All I want for Christmas is a few good reads
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### Best Books + \$25 annual subscriptions
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Nov 29, 2021
 
-17
+16
 
 [](https://razib.substack.com/p/all-i-want-for-christmas-is-a-few/comments)
 
@@ -43,11 +42,13 @@ Nov 29, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
-All I want for Christmas is a few good reads
+#### All I want for Christmas is a few good reads
 
 razib.substack.com
 
@@ -70,6 +71,8 @@ What to give that favorite person on your list who has it all? Ideas are always 
 ### **Shoulders of Giants**
 
 And then there are the shoulders of giants we’re all lucky enough to stand upon, if we choose. Here are some of [my all-time favorite go-to gift-worthy books](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/33O2M1P4S36HU?type=explore&ref=idea_cp_vl_ov_d), by category. Please feel free to add your own personal recs in the comments!
+
+[](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/33O2M1P4S36HU?type=explore&ref=idea_cp_vl_ov_d)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
@@ -378,7 +381,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
-All I want for Christmas is a few good reads
+#### All I want for Christmas is a few good reads
 
 razib.substack.com
 
@@ -389,5 +392,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

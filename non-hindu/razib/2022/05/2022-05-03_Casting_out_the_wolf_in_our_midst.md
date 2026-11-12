@@ -1,71 +1,374 @@
 +++
 title = "Casting out the wolf in"
 full_title = "Casting out the wolf in our midst"
+upstream_url = "https://www.razibkhan.com/p/casting-out-the-wolf-in-our-midst"
 date = "2022-05-03"
-upstream_url = "https://razib.substack.com/p/casting-out-the-wolf-in-our-midst"
-
 +++
-Source: [here](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst).
+Source: [here](https://www.razibkhan.com/p/casting-out-the-wolf-in-our-midst).
 
 Casting out the wolf in our midst
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
 
-Casting out the wolf in our midst
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Casting out the wolf in our midst
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Casting out the wolf in our midst
 
 ### How shepherd and wolf remade Eurasia in their image (part 2)
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-May 3
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-84
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst/comments)
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
 
-15
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
 
-[](javascript:void(0))
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+May 3, 2022
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+111
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
 
-Casting out the wolf in our midst
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Casting out the wolf in our midst
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/casting-out-the-wolf-in-our-midst/comments)
+
+<div class="label">
+
+18
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/casting-out-the-wolf-in-our-midst?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ***Part 1:** [The wolf at history's door](https://razib.substack.com/p/the-wolf-at-historys-door?s=w).*
 
@@ -109,17 +412,45 @@ The circumstantial evidence was always there in the cross-cultural myth and text
 
 ### **The age of the wolf**
 
+<div id="§the-age-of-the-wolf" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/53092090/the-age-of-the-wolf">
+
+</div>
+
+</div>
+
+</div>
+
 The ranging of these human “wolf-packs” across Eurasia 5,000 years ago altered the course of history, triggering a cascade of changes that reconfigured the Bronze Age world. To get a sense of the magnitude of this cataclysmic overhaul, perhaps we should consider a well-known example of change and transformation temporally closer to us, in the early historical period. Bryan Ward-Perkins’ *[The Fall of Rome: And the End of Civilization](https://www.amazon.com/exec/obidos/ASIN/B006OYD2K6/geneexpressio-20) *documents the material realities of the Roman Empire’s collapse in the 4th to 6th centuries AD. Rather than spin out extended textually-based arguments, as historians often do, Ward-Perkins, an archaeologist by training, simply points out that pollution deposits left by industry did not regain Roman levels in British ponds for another 1,400 years. The end of the Roman Empire was not just a political collapse; it was a cultural, economic and social catastrophe, recorded and reflected in the material remains. The term “Dark Age” to describe what followed wasn’t hyperbolic, it was dead honest.
 
 I thought of this when J. P. Mallory [told me last year](https://unsupervisedlearning.libsyn.com/james-p-mallory-finding-the-indo-europeans) that one reason archaeologists studying early Indo-Europeans in Northern Europe rely almost exclusively upon grave goods in their investigations is that for roughly 1,000 years, that is all the material record offers. Mallory, trained as an archaeologist, had an intuitive feel for this issue that I naturally lacked, and it was at that moment that I realized the collapse of the great European Neolithic societies around 3000 BC was a prehistoric “end of civilization.” And despite the catalytic role likely played by cultural decline and climate change, the appearance of aggressive Indo-European agro-pastoralists was responsible for the ultimate extinction of Europe’s Neolithic civilizations. The post-Neolithic Indo-European Bell Beaker and Corded Ware cultures known to us by their distinctive, but indisputably humble vessels, never constructed anything as grand as what had been wrought by the megalith builders of Western Europe, nor did they craft richly vibrant pottery like the [Cucuteni–Trypillia](https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture) of Eastern Europe had. They were among Stonehenge’s inheritors, not its creators. Likewise, in the Indian subcontinent, the Indo-Aryans would not replicate the material accomplishments of the Indus Valley Civilization (IVC) for over a millennium after their arrival around 1800 BC. The IVC at its peak, around 2100 BC, boasted a network of vast cities with public sanitation and hydraulic works that spanned 25% of South Asia. But after its decline and collapse, urbanism only regained its footing in the subcontinent after 500 BC. Like the Anglo-Saxons in post-Roman Britain, the early Indo-Europeans ruled over a fallen world. But their reign of barbarity lasted more than a millennium, rather than the century of Anglo-Saxon darkness.
 
 ### **The Red Hands**
 
+<div id="§the-red-hands" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/53092090/the-red-hands">
+
+</div>
+
+</div>
+
+</div>
+
 How barbaric were these early people exactly? In 2019, the Danish archaeologist [Kristian Kristiansen](https://unsupervisedlearning.libsyn.com/kristian-kristiansen-the-birth-of-northern-europe) made waves when he hypothesized about the possible genocidal behavior of the Yamnaya Indo-European invaders of Europe in Denmark and Germany. Kristiansen knows whereof he speaks; he was an author on papers that reported on massive demographic shifts in the paleogenomic record. To his consternation, this argument elicited predictably [sensational media representations](https://www.academia.edu/38744439/History_of_Violence), but Kristiansen was simply [articulating a theory](https://pure.au.dk/ws/files/121503789/Re_theorising_mobility_and_the_formation_of_culture_and_language_among_the_Corded_Ware_PDF_2017.pdf) [to explain genetic and archaeological patterns](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E35E6057F48118AFAC191BDFBB1EB30E/S0003598X17000175a.pdf/retheorising_mobility_and_the_formation_of_culture_and_language_among_the_corded_ware_culture_in_europe.pdf) that were becoming undeniable. For example, he notes that burials in early Indo-European sites in Germany and elsewhere [indicate they were](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241278) exogamous, patrilocal, patrilineal and patriarchal (quite similar in fact to the custom of *[gotra](https://en.wikipedia.org/wiki/Gotra)* among high-caste Indian Hindus today). To further get a sense of sex dynamics in these early Indo-European communities, Kristiansen notes that the children these early Indo-Europeans viewed as worthy of a reverential burial tended to be male, while isotope analysis indicated that adult females in their early settlements were raised elsewhere. Patrilineality is confirmed in that all the males at a site had the same Y chromosomes. Finally, Kristiansen reports that men and women in these early communities [may have had different diets](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E35E6057F48118AFAC191BDFBB1EB30E/S0003598X17000175a.pdf/retheorising_mobility_and_the_formation_of_culture_and_language_among_the_corded_ware_culture_in_europe.pdf), with the women subsisting more on a Neolithic vegetarian fare in their youth, while men tended to consume meat. This is strong evidence that these women were outsiders, imported daughters of Neolithic locals.
 
 Kristiansen, in short, is presenting a theory that argues the *koryos*, the ‘black youth’ (black was the color associated with Indo-European *koryos* across many societies) were instrumental in expanding the range of Indo-European culture through aggressive raiding and eventually conquest. Like the early Romans under Romulus and Remus, they procured mates through means [violent and foul](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women). This may have been a general Indo-European trend. Sociolinguist Peggy Mohan argues in *[Wanderers, Kings and Merchants](https://www.amazon.com/exec/obidos/ASIN/B091CYW65Z/geneexpressio-20)* that the Vedas leave open the possibility that the wives of Indo-Aryan warriors and priests did not themselves speak Sanskrit, but a native Indian language. The expansion and conquests spearheaded by the *koryos* may have been unplanned, but it’s also easy to see their inevitability in the face of a massive social reorganization triggered by steppe nomadism. Just as water flows downhill, the crystallization of the *koryos* with the rise of steppe nomadism may have rendered conquest of the supercontinent's rich western and southern flanks by nomads nearly inevitable.
 
+<div class="captioned-image-container">
+
 ![Early Indo-European cultures and Y chromosomes](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a26403-b1e3-457d-86e8-14a5530b23d1_677x449.png)
+
+</div>
 
 The thesis then is that a migration of males drove the cultural shift is supported by copious genetic evidence. Data from both [Europe](https://www.pnas.org/doi/full/10.1073/pnas.1616392114) and [India](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-0936-9) indicate that steppe ancestry was brought by males and that the maternal lineage (mtDNA) of modern Europeans and Indians is [predominantly indigenous](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-0936-9). More concretely, the expansion of Indo-Europeans is associated with the spread of two paternal lineages, haplogroup R1b and R1a. Haplogroup R1b appears mostly in Central and Western Europe, while haplogroup R1a is today found in Eastern Europe, and across the Indo-Iranian world. The genetic separation between European and Indo-Iranian R1a lineages dates to about 3500 BC, suspiciously close to when the Yamnaya seem to have adopted nomadism.
 
@@ -127,9 +458,25 @@ But perhaps the most striking thing about R1a and R1b is that these lineages fou
 
 To the victors go the spoils, indeed.
 
+<div class="captioned-image-container">
+
 ![**Credit**: Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd204af3-e6db-4a45-8e2f-8e28daff8d00_1088x1556.png)
 
+</div>
+
 ### **Creative destruction**
+
+<div id="§creative-destruction" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/53092090/creative-destruction">
+
+</div>
+
+</div>
+
+</div>
 
 In describing what they documented at the midwinter dog and wolf sacrifice site, Brown and Anthony refer to the young members of the *koryos* entering an “anti-culture,” because the savage behavior of the *koryos* was not normative for the societies that incubated them. Rather, their brutal youthful energies were tolerated with the understanding that it was a passing stage in life, and their viciousness would be channeled outward onto foes. But even their host communities could be ambivalent at best toward these bestial youth (a difference mostly in degree to adults today rolling their eyes at clusters of teen males egging one another on, being too loud, too brash, too abrasive in public). The Vedic *Maruts* of Lord Indira, young warriors who are a sort of divine *koryos*, were often depicted as capricious and fickle, while the Iranian Zoroastrians labeled the dog-warriors evil. Finally, the 19th-century folklorist Jacob Grimm formulated the concept of the [antinomian](https://en.wikipedia.org/wiki/Antinomianism) ‘[wild hunt](https://en.wikipedia.org/wiki/Wild_Hunt)’ from preexistent Northern Europe folklore and practices that involved young men reenacting supernatural rites where Odin rides a menacing black horse and is accompanied by fearsome dogs. Despite over a thousand years of Christianity, a substratum of Indo-European paganism persisted in Northern European folklore and rustic practice.
 
@@ -147,28 +494,186 @@ To a great extent, we all live in the end result of that millennia-long renewal 
 
 In the new age after the dark receded, the brutal barbarism wrought by the *koryos* would be reined in, channeled in the service of the *polis*, undeniable strength wedded to justice, and the warrior caste, the *kshatriya*, for example, charged with protecting the weak rather than preying upon them. Impersonal material forces transformed the prehistoric world, unleashing the anti-culture. But after this interregnum of waste and destruction, it was force of mind, it was new ethical religions and philosophies that ultimately banished our terrifying, innate wolf energy back to the periphery of polite society. And from there, it has haunted our dreams and pervaded our myths ever since.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst/comments)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-15
+<div class="_container_1xsdj_1">
 
-[](javascript:void(0))
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+111
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
 
-Casting out the wolf in our midst
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Casting out the wolf in our midst
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/casting-out-the-wolf-in-our-midst/comments)
+
+<div class="label">
+
+18
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

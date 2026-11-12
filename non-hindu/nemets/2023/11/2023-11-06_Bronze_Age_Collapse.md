@@ -8,61 +8,523 @@ Source: [here](https://nemets.substack.com/p/bronze-age-collapse).
 
 Bronze Age Collapse
 
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(92,61,45,0.75), rgba(92,61,45,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!zw0b!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb62f504-a422-4e99-ab6a-4073b06e4cbc_467x721.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Bronze Age Collapse
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
+
 # Bronze Age Collapse
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
 
 [](https://substack.com/@nemets)
 
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Peter Nimitz">
+
 ![Peter Nimitz's avatar](https://substackcdn.com/image/fetch/$s_!ximq!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43f4e42-6a8f-469c-8947-9a42f03b56a1_240x240.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
 
 [Peter Nimitz](https://substack.com/@nemets)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
 Nov 06, 2023
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-232
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-17
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
 
-26
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+212
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(92,61,45,0.75), rgba(92,61,45,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!zw0b!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb62f504-a422-4e99-ab6a-4073b06e4cbc_467x721.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Bronze Age Collapse
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://nemets.substack.com/p/bronze-age-collapse/comments)
+
+<div class="label">
+
+22
+
+</div>
+
+<div class="label">
+
+24
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="pullquote">
 
 “Zeus the Father made a third generation of mortal men, a brazen race, sprung from ash-trees; and it was in no way equal to the silver age, but was terrible and strong. They loved the lamentable works of Ares and deeds of violence; they ate no bread, but were hard of heart like adamant, fearful men. Great was their strength and unconquerable the arms which grew from their shoulders on their strong limbs. Their armor was of bronze, and their houses of bronze, and of bronze were their implements: there was no black iron. These were destroyed by their own hands and passed to the dank house of chill Hades, and left no name: terrible though they were, black Death seized them, and they left the bright light of the sun.”
 
 -[Hesiod](https://en.wikisource.org/wiki/Hesiod,_the_Homeric_Hymns_and_Homerica/Works_and_Days)
 
-[](https://www.amazon.com/1177-B-C-Civilization-Collapsed-Revised-ebook/dp/B08KKTCS22?_encoding=UTF8&qid=1693800527&sr=8-1&linkCode=ll1&tag=nemets09-20&linkId=22e62ed10de5e669109f80e4955541d1&language=en_US&ref_=as_li_ss_tl)
+</div>
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!zw0b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb62f504-a422-4e99-ab6a-4073b06e4cbc_467x721.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 Never before had mankind risen so high as it had by the 13th century before our era. It had been seven centuries since the end of the [terrible cold epoch](https://nemets.substack.com/p/crisis-of-the-23rd-century) that had shaken civilizations from Spain to China. It had been at least three centuries since the [eruption of the volcano at Thera](https://en.wikipedia.org/wiki/Minoan_eruption) had briefly dimmed western Eurasia. While the peoples of the Indus Valley had never recovered from the change in climate, elsewhere civilization had recovered and advanced beyond its previous heights.
 
 Trade ships crossed the [Mediterranean](https://en.wikipedia.org/wiki/Uluburun_shipwreck) and [Arabian](https://x.com/Peter_Nimitz/status/1444806446223294465?s=20) Seas while caravans traveled overland, connecting the civilizational centers of Eurasia. The barbarian world too was linked into the Eurasian trade networks. [Amber collected by the Baltic](https://www.researchgate.net/publication/272312010_Breakthrough_of_the_Nordic_Bronze_Age_Transcultural_Warriorhood_and_a_Carpathian_Crossroad_in_the_Sixteenth_Century_BC) peoples [made its way up the Vistula](https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/connected-histories-the-dynamics-of-bronze-age-interaction-and-trade-15001100-bc/46BCCABC4C8D05B5D5846D891D51F92D), down the Danube, through the Black Sea, and across the Mediterranean to Egypt. In return, the Baltic peoples as well as the Germanic peoples in Sweden [received metals both practical and precious](https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/connected-histories-the-dynamics-of-bronze-age-interaction-and-trade-15001100-bc/46BCCABC4C8D05B5D5846D891D51F92D) from the Mediterranean. Tin traveled from as far as Afghanistan in the east and Britain in the west to the eastern Mediterranean. Swords manufactured in the Middle East were exported all the way to [Malwa](https://en.wikipedia.org/wiki/Malwa) in western India. Baboons and other exotic goods were transported from the Horn of Africa to Egypt in return for pottery, tools, and glass.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider becoming a paid subscriber to support my writing.
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
 
 Subscribe
 
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 Economic complexity was mirror by political complexity. The Hittites, reigning in what is now central Turkey, organized a trade embargo against the Mycenaean Greeks. The Mycenaeans administered overseas colonies [at least as far east as Sicily](https://www.motya.info/text/6102/en). Middle Eastern states formed alliance blocs to balance out the rises or declines of their neighbors.
 
-[](https://substackcdn.com/image/fetch/$s_!joVw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4635d604-a71f-4779-9d10-5c40d1373a6e_1041x578.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!joVw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4635d604-a71f-4779-9d10-5c40d1373a6e_1041x578.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
-
-International trade was one of the easiest source of revenues for Bronze Age states. Caravan stops and sea ports could be cheaply garrisoned with troops and customs officials due to their limited size. Alternative sources of revenues, such as temples, could be difficult to obtain money from due to the strength of clerical establishments which (judging from Egypt’s history) could have tenuous if not outright hostile relationships with the secular state. Even more difficult was extracting revenue from the peasantry, which could violently attack tax collectors or rebel against the authorities. Records from the Classical and Early Modern eras (specifically Roman and Ottoman Egypt respectively)[1](#footnote-1) suggest that perhaps an eighth of state revenues could have been generated by customs collected at sea ports.
+International trade was one of the easiest source of revenues for Bronze Age states. Caravan stops and sea ports could be cheaply garrisoned with troops and customs officials due to their limited size. Alternative sources of revenues, such as temples, could be difficult to obtain money from due to the strength of clerical establishments which (judging from Egypt’s history) could have tenuous if not outright hostile relationships with the secular state. Even more difficult was extracting revenue from the peasantry, which could violently attack tax collectors or rebel against the authorities. Records from the Classical and Early Modern eras (specifically Roman and Ottoman Egypt respectively)[1](https://nemets.substack.com/p/bronze-age-collapse#footnote-1-136773316) suggest that perhaps an eighth of state revenues could have been generated by customs collected at sea ports.
 
 Those revenues would have been essential to the large states of the late Bronze Age. Bureaucrats and soldiers had to be paid, irrigation and building projects financed, grain stockpiled for periods of drought. A decline in customs revenue would directly threaten state finances, and in the medium-run threaten the stability of the state. Unpaid soldiers and hungry artisans in particular were serious threats.
 
@@ -93,13 +555,11 @@ The breakdown in trade and communication can be seen in the disease record as we
 
 Cushitic-speaking pastoralists descending from migrants from the middle Nile region around Dongola had dwelled in the Horn of Africa for perhaps a thousand years by the time of the Bronze Age Collapse. Nonetheless, they did not dominate the region. The Ethiopian Highlands remained out of their reach, [the hunter-gatherer race there reigning](https://www.nature.com/articles/s41586-022-04430-9) as it had since time immemorial. Even in the lowlands the Cushites [had not conquered all](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6827346/). Their stone weapons gave them little advantage over those of the races of hunter-gatherers - particularly in areas where the fishing was rich and the hunter-gatherers numerous.
 
-[](https://substackcdn.com/image/fetch/$s_!-SxF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ebf736d-ed82-4393-8ae3-38a3e1fad7e1_630x826.png)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!-SxF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ebf736d-ed82-4393-8ae3-38a3e1fad7e1_630x826.png)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 The port town of Adulis was a place of contact between the lowland pastoralists and the highland hunter-gatherers. There, [goods from the African interior](http://www.madote.com/2017/05/adulis-ancient-port-city-of-eritrea.html) were sold to [Egyptian and South Arabian merchants who shipped them across the Red Sea](https://journals.sagepub.com/doi/abs/10.1177/0307513319858321). Artistic portrayals of the locals in the mid-second millennium BC suggest that Adulis, as part of Punt, was inhabited by at least two peoples. One of those peoples was short and [steatopygous](https://en.wikipedia.org/wiki/Steatopygia) like the hunter-gatherers. The other, portrayed alongside cattle, was likely a group of Cushitic pastoralists, possibly the ancestors of the [Afar people](https://en.wikipedia.org/wiki/Afar_people).
 
@@ -107,37 +567,31 @@ That arrangement was shattered by a [decline in rainfall in the late 2nd millenn
 
 The convulsions reached across the Indian Ocean as well. The [Jorwe culture](https://en.wikipedia.org/wiki/Jorwe_culture) in the northern [Deccan](https://en.wikipedia.org/wiki/Deccan_Plateau), never a peaceful society, entered a [period of population and cultural decline](https://twitter.com/Peter_Nimitz/status/1444813615261831168). Planned settlements decayed or were abandoned. Farmers either adopted pastoralism or were overrun by pastoralists. In the centuries to come iron-wielding invaders would overcome the diminished remnants of the once-great people.
 
-[](https://substackcdn.com/image/fetch/$s_!L02T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa83a70a7-d641-4a37-b140-c1b0376b316a_849x519.png)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!L02T!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa83a70a7-d641-4a37-b140-c1b0376b316a_849x519.png)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 Nonetheless the collapse on the western coast of India wasn’t as bad as elsewhere. Trade across the [Arabian Sea with Oman, Iran and Bahrain continued](https://twitter.com/Peter_Nimitz/status/1444806446223294465), although to an unknown extent. In any case, it was a great decline from the long voyages of the Indus Valley Civilization centuries earlier, which had [journeyed to the Red Sea and traded with the people of the Horn](https://x.com/General_JWJ/status/1636758526902272002?s=20).
 
 Far to the north, across the Thar Desert and Hindu Kush, reigned the [Yaz](https://en.wikipedia.org/wiki/Yaz_culture) and Chust peoples in what is now Turkmenistan and Uzbekistan. Like their contemporaries in the South Caucasus, they had experienced an era of chaos some three centuries prior (in their case likely due to spread of chariot warfare), and were spared the misery of the Bronze Age Collapse. Towards the end of the Bronze Age Collapse, they would sweep into Iran and establish the first Iranian states on the plateau - Media, Parthia, and most famously Persia. The [previous rulers - Elamites, Aryans](https://www.jstor.org/stable/25651437), and [largely forgotten peoples related to certain groups in the Caucasus](https://x.com/Peter_Nimitz/status/1337798026815963138?s=20) - would be swept away.
 
-[](https://substackcdn.com/image/fetch/$s_!B0EJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6728a17-3357-40e7-aa02-d33d4e718921_1600x1058.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!B0EJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6728a17-3357-40e7-aa02-d33d4e718921_1600x1058.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 Their northern neighbors on the steppe were not so fortunate. Dominated by [Indo-Iranian-speaking](https://en.wikipedia.org/wiki/Indo-Iranian_languages) groups for centuries, a number of different archaeological cultures developed, suggesting a variety of competing steppe confederations. That cultural diversity was replaced by relatively cultural homogeneity at the end of the second millennium BC. Commensurate with the decline in cultural diversity was the decline in cultural complexity (at least in pottery stylization) and settlement size. Together, the picture is [one of mass die offs and extensive warfare](https://twitter.com/Peter_Nimitz/status/1292013616636391424) that resulted in the triumph of a series of steppe confederations stretching from Hungary to the Altai, followed by its disintegration prior to the rise of the Scythians.
 
 The disintegration of the Indo-Iranian confederations on the steppe offered opportunities for their hunter-gatherer and fisherman neighbors in the forests to their north. [Originally hailing](https://www.biorxiv.org/content/10.1101/2023.10.01.560332v2) from what is now [Yakutia](https://en.wikipedia.org/wiki/Sakha), Uralic-speaking tribes had become integrated into a great trade network that stretched across Siberia and European Russia by the middle of the 2nd millennium BC. While they had been primitives at the time of their contact with the steppe peoples, their remarkable intelligence ([still noticeable even in today’s psychometric results](https://akarlin.com/map-russia-iq-2/) among their Russified descendants) enabled them to quickly match and surpass their neighbors in metallurgical sophistication.
 
-[](https://substackcdn.com/image/fetch/$s_!nSXD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85def1ef-4c03-4d06-8ade-9cc540524bfb_672x491.jpeg)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!nSXD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85def1ef-4c03-4d06-8ade-9cc540524bfb_672x491.jpeg)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 In the beginning, the story of the Uralics was one of integration. Groups of them migrated as merchants or smiths into the Indo-Iranian societies which had settled in the forests of the southern Urals and the surrounding areas in the mid-2nd millennium. The [Mezhovka people for instance were mostly of Indo-Iranian origin, but had a detectable amount of Uralic blood](https://sci-hub.ru/https://www.nature.com/articles/nature14507). In the 12th century BC, the Mezhovka people took advantage of the Bronze Age Collapse weakening the other Indo-Iranian groups to their west. They crossed the Ural Mountains and reached as far west as the [Vyatka River](https://en.wikipedia.org/wiki/Vyatka_(river)).
 
@@ -147,13 +601,11 @@ As the Bronze Age Collapse dragged on for centuries, the Uralics found opportuni
 
 The Uralic expansion during the Bronze Age Collapse did not reach Estonia. [It was not until centuries later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544527/), in the Iron Age, that Estonia would be added into the Uralic world. Instead, [Germanic peoples](https://www.eestijuured.ee/en/articles/chronology-stone-barrows-stone-cist-graves-stone-ships-and-celtic-fields) [from the island](https://www.sgr.fi/sust/sust266/sust266_parpola.pdf) of [Gotland](https://en.wikipedia.org/wiki/Gotland) [sailed across the Baltic Sea to conquer the coast](https://library.oapen.org/bitstream/handle/20.500.12657/34490/423939.pdf?sequence=1&isAllowed=y) and island of [Saaremaa](https://en.wikipedia.org/wiki/Saaremaa). The ancestors of the Vikings in spirit as well as blood, they appear to have struck fear deep into the interior of the Baltic. The Balts built numerous forts along the Daugava River, perhaps to defend themselves again Germanic reavers sailing up the river.
 
-[](https://substackcdn.com/image/fetch/$s_!z8B4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfeceb0c-e566-4083-8963-265716278089_641x461.png)
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/$s_!z8B4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfeceb0c-e566-4083-8963-265716278089_641x461.png)
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
 
 The [Germanic world was far smaller in the Bronze Age](https://en.wikipedia.org/wiki/Nordic_Bronze_Age) than in the present. Its heart was in Denmark, southern Sweden, southern Norway, and north-central Germany. To its south and west were the mighty Celts. To the east were the Balts and the Slavs. Its exports to the rich markets of the eastern Mediterranean had made its chieftains wealthy. Their wealth, like the wealth of the Mycenaean Greek chieftains, created a deeply unequal society. The Germanic chiefs built larger graves and larger homes than they had previously.
 
@@ -163,15 +615,15 @@ It seems that the Germanic society faced a crisis in the decades that followed t
 
 With defeat abroad, the chiefs faced revolution at home much like the Greeks. The archaeological record shows that the farmsteads became smaller and more fragmented, strongly suggesting that they transitioned from a society of lords and serfs to a society of freeholders. Hamlet settlements, with one chiefly house and numerous smaller houses, were abandoned. New settlements were built in an egalitarian style, with houses roughly the same size. Much of western [Jutland](https://en.wikipedia.org/wiki/Jutland) (continental Denmark) [and northern Germany was depopulated around that time](https://journals.sagepub.com/doi/10.1177/0959683619857223). Forests grew where men had once dwelled. The Germanic peoples, once linked to the civilized world, fell into the obscurity in which they would remain until they [stormed into history](https://en.wikipedia.org/wiki/Cimbrian_War) a thousand years later.
 
-To the south of the Germanic peoples dwelt the Celts. The Celts, represented archaeologically by the [Tumulus Culture](https://en.wikipedia.org/wiki/Tumulus_culture), had spread from their original homeland in southern Germany and Czechia[2](#footnote-2) into [what is now eastern France in the middle of the 2nd millennium BC](https://doi.org/10.1093/oxfordhb/9780199572861.013.0032), possibly [taking advantage of the chaos](https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/change-and-continuity-in-europe-and-the-mediterranean-around-1600-bc/9697DF2690344AC70559E84119611F77) following the [Eruption of Thera](https://en.wikipedia.org/wiki/Minoan_eruption). Whether or not they displaced the previous population or merely asserted themselves as a new ruling class is uncertain.
+To the south of the Germanic peoples dwelt the Celts. The Celts, represented archaeologically by the [Tumulus Culture](https://en.wikipedia.org/wiki/Tumulus_culture), had spread from their original homeland in southern Germany and Czechia[2](https://nemets.substack.com/p/bronze-age-collapse#footnote-2-136773316) into [what is now eastern France in the middle of the 2nd millennium BC](https://doi.org/10.1093/oxfordhb/9780199572861.013.0032), possibly [taking advantage of the chaos](https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/change-and-continuity-in-europe-and-the-mediterranean-around-1600-bc/9697DF2690344AC70559E84119611F77) following the [Eruption of Thera](https://en.wikipedia.org/wiki/Minoan_eruption). Whether or not they displaced the previous population or merely asserted themselves as a new ruling class is uncertain.
 
 What is clear is that around 1300 BC what is now France was divided between a [steppe-ancestry rich Celtic northeast](https://www.pnas.org/doi/10.1073/pnas.1918034117) and center, a [Ligurian](https://en.wikipedia.org/wiki/Ligurian_(ancient_language)) or at least non-Celtic Indo-European southeast, [an Atlantic coastal fringe ruled by Indo-European groups](https://en.wikipedia.org/wiki/Atlantic_Bronze_Age) lost to history, and the western Pyrenees ruled by the ancestors of the Basques (a non-Indo-European people who nonetheless had a substantial amount of Indo-European blood, [similar to the Etruscans](https://www.science.org/doi/10.1126/sciadv.abi7673)).
 
-While proto-Celtic has a word for “iron”, which implies that it could have been spoken no earlier than 800 BC. However, the shared root for “iron” in both Celtic and Germanic shows that the word “iron” could have simply spread from one branch of Celtic to another. If the Tumulus Culture was indeed the proto-Celtic culture, then a divergence of two branches of Celtic may have begun as early as 1500 BC. The first Celts to migrate west likely spoke the Q-Celtic languages[3](#footnote-3) - the language ancestral to [Celtiberian](https://en.wikipedia.org/wiki/Celtiberians) and [Goidelic](https://en.wikipedia.org/wiki/Goidelic_languages). The Celts who remained in their home in southern Germany by contrast spoke the P-Celtic languages ancestral to [Gaulish](https://en.wikipedia.org/wiki/Gaulish) and [Brittonic](https://en.wikipedia.org/wiki/Brittonic_languages).
+While proto-Celtic has a word for “iron”, which implies that it could have been spoken no earlier than 800 BC. However, the shared root for “iron” in both Celtic and Germanic shows that the word “iron” could have simply spread from one branch of Celtic to another. If the Tumulus Culture was indeed the proto-Celtic culture, then a divergence of two branches of Celtic may have begun as early as 1500 BC. The first Celts to migrate west likely spoke the Q-Celtic languages[3](https://nemets.substack.com/p/bronze-age-collapse#footnote-3-136773316) - the language ancestral to [Celtiberian](https://en.wikipedia.org/wiki/Celtiberians) and [Goidelic](https://en.wikipedia.org/wiki/Goidelic_languages). The Celts who remained in their home in southern Germany by contrast spoke the P-Celtic languages ancestral to [Gaulish](https://en.wikipedia.org/wiki/Gaulish) and [Brittonic](https://en.wikipedia.org/wiki/Brittonic_languages).
 
 The archaeological record of southern Germany [shows two periods of settlement destruction](https://www.academia.edu/36007908/Defended_sites_and_fortifications_in_Southern_Germany_during_the_Bronze_Age_and_Urnfield_Period_a_short_introduction_In_B_Heeb_A_Szentmiklosi_R_Krause_M_Wemhoff_Eds_Fortifications_The_rise_and_fall_of_defended_sites_in_Late_Bronze_and_Early_Iron_Age_of_South_East_Europe) that coincide with the two phases of the climactic shift that accompanied the Bronze Age Collapse - one in the late 2nd millennium, and the other in the early 1st millennium BC. The climactic shift as well as the breakdown of trade led to an era of social revolution and decline in cultural sophistication. While a shift from burials to cremations had begun in the previous centuries, it became dominant in the Celtic world in the Bronze Age Collapse - giving the name to the [Urnfield Culture](https://en.wikipedia.org/wiki/Urnfield_culture).
 
-While social revolution and foreign adventures had featured in the contemporary turmoil in Greece and Scandinavia, the Celts were unique in that their foreign adventures succeeded spectacularly. Taking advantage of the power vacuum in northern Italy due to the Italic [Terramare Culture](https://en.wikipedia.org/wiki/Terramare_culture)’s exodus to the south[4](#footnote-4), the Celts poured through the Alpine passes and established [Cis-Alpine Gaul](https://en.wikipedia.org/wiki/Cisalpine_Gaul). From there, they pressed into what is now southeastern France and [replaced a noticeable fraction of the population](https://www.pnas.org/doi/10.1073/pnas.1918034117), although [some of their predecessors appear to have endured in certain areas](https://en.wikipedia.org/wiki/Salyes). The Celts proved to be much better inhabitants of southern France than their predecessors. [Palynological and archaeological proxies](https://journals.sagepub.com/doi/abs/10.1177/0959683619826698) suggest that their arrival coincides with a period of substantial population growth and economic development. The [Gauls would originate there](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/an-alternative-to-celtic-from-the-east-and-celtic-from-the-west/4F186F087DD3BE66D535102484F8E8C3), [spreading north over the succeeding centuries](https://www.sciencedirect.com/science/article/pii/S2589004222003649) while marginalizing and absorbing (if not destroying) their Q-Celtic predecessors.
+While social revolution and foreign adventures had featured in the contemporary turmoil in Greece and Scandinavia, the Celts were unique in that their foreign adventures succeeded spectacularly. Taking advantage of the power vacuum in northern Italy due to the Italic [Terramare Culture](https://en.wikipedia.org/wiki/Terramare_culture)’s exodus to the south[4](https://nemets.substack.com/p/bronze-age-collapse#footnote-4-136773316), the Celts poured through the Alpine passes and established [Cis-Alpine Gaul](https://en.wikipedia.org/wiki/Cisalpine_Gaul). From there, they pressed into what is now southeastern France and [replaced a noticeable fraction of the population](https://www.pnas.org/doi/10.1073/pnas.1918034117), although [some of their predecessors appear to have endured in certain areas](https://en.wikipedia.org/wiki/Salyes). The Celts proved to be much better inhabitants of southern France than their predecessors. [Palynological and archaeological proxies](https://journals.sagepub.com/doi/abs/10.1177/0959683619826698) suggest that their arrival coincides with a period of substantial population growth and economic development. The [Gauls would originate there](https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/an-alternative-to-celtic-from-the-east-and-celtic-from-the-west/4F186F087DD3BE66D535102484F8E8C3), [spreading north over the succeeding centuries](https://www.sciencedirect.com/science/article/pii/S2589004222003649) while marginalizing and absorbing (if not destroying) their Q-Celtic predecessors.
 
 To the northwest, the Q-Celts [overran most of the Low Countries](https://www.academia.edu/9838750/The_Bronze_Age_in_the_Low_Countries) (apparently excluding Frisia) after they came under the influence of the P-Celt migrants from southern Germany, then proceeded to launch an invasion of England which over the course of the next three centuries [replaced about half of the population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8889665/). They brought with them traditions such as the deposition of bronze weapons in waterways. Some Celts in Normandy remained closely related with their relations in England, suggesting some sort of cross-channel political entity formed in the Bronze Age Collapse that lasted into the Iron Age. Such cross-channel contacts would be noted as late as the 1st century BC by Julius Caesar in his *[Commentaries on the Gallic War](https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico)*. The archaeological record supports Bronze Age Collapse-era England as a war-torn and devastated land, with numerous ringforts constructed to offer shelter to people fearful of violence. It would be centuries before the population would recover.
 
@@ -185,38 +637,318 @@ While the [Crisis of the 23rd Century](https://nemets.substack.com/p/crisis-of-t
 
 In Greek mythology, Prometheus steals the secret of fire to men. As punishment, he was bound to either Mount Kazbek or Mount Elbrus (both very close to Colchians lands). The ancestors of the [modern Georgians](https://en.wikipedia.org/wiki/Georgians), the [ancient Colchians](https://en.wikipedia.org/wiki/Colchis), had been [experimenting with iron smelting since the mid-2nd millennium BC](https://x.com/Peter_Nimitz/status/1338605206288826370?s=20). Perhaps with the collapse of the Hittite realm in the Bronze Age Collapse and the loss of their knowledge of iron, it was the Colchians who spread the knowledge to the fallen world, ushering in the Iron Age and renewing the progress of civilization in the early 1st millennium BC. It would [probably not be the only Greek myth alluding to Colchis’ well-deserved reputation for metallurgical knowledge](https://en.wikipedia.org/wiki/Golden_Fleece#Interpretations). If so, then Greek mythology may hold the dim memory of the role of the Colchians in spreading iron metallurgy.
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 Kindly consider a paid subscription to support my research and writing.
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="container-IpPqBD">
+
+<div class="sideBySideWrap-vGXrwP">
+
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
 
 Subscribe
 
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 In addition to sources linked, I relied heavily on *[The Oxford Handbook of the European Bronze Age](https://www.amazon.com/Oxford-Handbook-European-Bronze-Handbooks-ebook/dp/B00FC2T06G?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=1762a6464d4e91a07ada130f8f80180a&language=en_US&ref_=as_li_ss_tl)*, *[1177 BC: The Year Civilization Collapsed](https://www.amazon.com/1177-B-C-Civilization-Collapsed-Turning/dp/0691168385?&linkCode=ll1&tag=nemets09-20&linkId=e9a2c39605fd8263f887cf7cb6a40579&language=en_US&ref_=as_li_ss_tl)*, *[The Urals and Western Siberia in the Bronze and Iron Ages](https://www.amazon.com/Western-Siberia-Bronze-Cambridge-Archaeology-ebook/dp/B001QTXMAY?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=2380c896d4c6ceab63ae7a445c3f13d6&language=en_US&ref_=as_li_ss_tl)*, and *[The Archaeology of the Caucasus](https://www.amazon.com/Archaeology-Caucasus-Earliest-Settlements-Cambridge-ebook/dp/B074XD4W7P?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=1432ba7d08be85e27d9b025c811e4508&language=en_US&ref_=as_li_ss_tl)*
 
-[1](#footnote-anchor-1)
+<div class="footnote" component-name="FootnoteToDOM">
+
+[1](https://nemets.substack.com/p/bronze-age-collapse#footnote-anchor-1-136773316)
+
+<div class="footnote-content">
 
 See *[The Roman Empire and the Silk Routes](https://www.amazon.com/Roman-Empire-Silk-Routes-Ancient-ebook/dp/B01MA3TAQ5?crid=1343C4J8WRQ7E&keywords=the+roman+empire+and+the+silk+routes&qid=1695773564&s=digital-text&sprefix=the+roman+empire+and+the+silk+route%2Cdigital-text%2C125&sr=1-1&linkCode=ll1&tag=nemets09-20&linkId=56ed7c5398e4014c4d7c43dc40b547b7&language=en_US&ref_=as_li_ss_tl)* and *[The Ottoman Age of Exploration](https://www.amazon.com/Ottoman-Age-Exploration-Giancarlo-Casale-ebook/dp/B003YORJN0?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=nemets09-20&linkId=bd4417f7830e6dcd87623fb9ce4efea8&language=en_US&ref_=as_li_ss_tl)* for a discussion. Twitter excerpts for [Ottomans](https://x.com/Peter_Nimitz/status/1508296644684500994?s=20) & [Romans](https://x.com/Peter_Nimitz/status/1096644081311084544?s=20).
 
-[2](#footnote-anchor-2)
+</div>
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
+
+[2](https://nemets.substack.com/p/bronze-age-collapse#footnote-anchor-2-136773316)
+
+<div class="footnote-content">
 
 [genetic evidence](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00535-2) for [multiple waves](https://www.science.org/doi/10.1126/sciadv.abi7673) of central European migrants into northern Italy from 2200 to 800 BC, the [popular linguistic theory of Italic and Celtic being part of the same branch](https://www.wales.ac.uk/Resources/Documents/Centre/2020/Celto-Germanic2020.pdf) in the Indo-European language family that split early in the 2nd millennium, and extensive contact between proto-Celtic and proto-Germanic languages which could have happened no later than 500 BC all support an Italo-Celtic urheimat in southern Germany and Czechia rather than the Atlantic Coast. As a result, the 2nd millennium BC archaeological culture originating in southern Germany and Czechia, the Tumulus Culture, can be seen as representing the earliest Celts.
 
-[3](#footnote-anchor-3)
+</div>
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
+
+[3](https://nemets.substack.com/p/bronze-age-collapse#footnote-anchor-3-136773316)
+
+<div class="footnote-content">
 
 *[The Celtic Languages, 2nd Edition](https://libgen.is/book/index.php?md5=3580301BDF40C71ABB9F2A95C0541FD6)* by Martin Ball and Nicole Muller has a discussion in chapters 1 and 3 of the possible or even likely split of proto-Celtic into Celtiberian-Goidelic (Q-Celtic) and Gaulish-Brittonic (P-Celtic). Shared features between the Insular Celtic languages (Brittonic and Goidelic) can be attributed to [Brittonics establishing themselves on top of an originally Goidelic Celtic population in England and Wales in the mid-to-late 1st millennium](https://nemets.substack.com/p/storms-across-the-channel) in my admittedly unexpert opinion.
 
-[4](#footnote-anchor-4)
+</div>
+
+</div>
+
+<div class="footnote" component-name="FootnoteToDOM">
+
+[4](https://nemets.substack.com/p/bronze-age-collapse#footnote-anchor-4-136773316)
+
+<div class="footnote-content">
 
 in addition to joining the Sea Peoples, the Italics would settle in Lazio, Apulia, and Sicily. There, they mixed with the locals and become the Italic peoples known to history as the Latins, Samnites, and Sicels. The archaeological record is clearest in Lazio, where Etruscan/Villanovan cultural influence is interrupted during the 11th century BC, and the center of wealth moves away from the coast to the Alban Hills - [in line with Roman folk memory.](https://en.wikipedia.org/wiki/Alba_Longa)
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-232
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-17
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+<div class="visibility-check">
 
-26
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+212
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(92,61,45,0.75), rgba(92,61,45,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!zw0b!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb62f504-a422-4e99-ab6a-4073b06e4cbc_467x721.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Nemets](https://substackcdn.com/image/fetch/$s_!8gJK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7bca10-718a-46ff-b1c4-991fc95548d2_240x240.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Nemets
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Bronze Age Collapse
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Copy link
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Facebook
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://nemets.substack.com/p/bronze-age-collapse/comments)
+
+<div class="label">
+
+22
+
+</div>
+
+<div class="label">
+
+24
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

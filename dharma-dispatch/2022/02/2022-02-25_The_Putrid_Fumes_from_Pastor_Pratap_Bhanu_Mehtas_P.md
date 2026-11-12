@@ -6,52 +6,172 @@ date = "2022-02-25"
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/the-putrid-fumes-from-pastor-pratap).
 
-The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit
+The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit 
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg)
+
+#### The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f879df7-dc51-49b1-8b7e-a20fe00e2dcc_512x512.png)
+
+#### Discover more from The Dharma Dispatch Digest
+
+Stories and essays from Indian civilisation, history and culture. Narratives from Sanatana Dharma. This is the digest of the main site, https://www.dharmadispatch.in/, delivered directly to your email inbox.
+
+Over 8,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
 
 # The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit
 
 ### Dissecting Pratap Bhanu Mehta's notorious article in the Indian Express on the Hijab row.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Feb 25, 2022
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 10
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg)
+
+#### The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/the-putrid-fumes-from-pastor-pratap/comments)
 
 2
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!aQ1X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg)
 
-![The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit that Escalate Hijab Separatism](https://substackcdn.com/image/fetch/$s_!aQ1X!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg "The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit that Escalate Hijab Separatism")
+![The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit that Escalate Hijab Separatism](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg "The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit that Escalate Hijab Separatism")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+OVER THE COURSE OF 16 YEARS, PRATAP BHANU MEHTA was a distinguished liberal culprit who I used to take frequently to task on the pages of my defunct blog. To the extent that he had almost become a mathematical constant. And then I got bored. The exasperating thing about Mehta, the sheep in sheep’s clothing is the fact that no matter how cleanly you shave it, the accursed fur keeps growing back. Thus, my boredom was actually a belated realization that I am a writer not a barber. But be it a writer or barber, every conscientious professional has to keep his tools finely sharpened at all times lest they rust.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+To my great fortune, I don’t need to exert myself at any length in this tool-sharpening exercise. Pratap Bhanu Mehta is the live gym that offers such exercises free of cost. Week after damned week.
 
-OVER THE COURSE OF 16 YEARS, PRATAP BHANU MEHTA was a distinguished liberal culprit who I used to take frequently to task on the pages of my defunct blog. To the extent that he had almost become a mathematical constant. And then I got bored. The exasperating thing about Mehta, the sheep in sheep’s clothing is the fact that no matter how cleanly you shav…
+Pratap Bhanu Mehta belongs to that rare breed of deracinated Hindus who have read a lot of books and have drawn all the wrong lessons from them, especially about the country and culture he was born into. And that’s putting it mildly. The stronger version is that he is the male equivalent of that shrill vixen, Arundhati Roy. While Arundhati Roy buries you under the dung-hill of her efforted prose, brewing outlandish fiction in her columns about current affairs, Pratap Bhanu Mehta violates you with miles of unreadable screeds masquerading as scholarship and intellectual heft. At times, I wake up from sleep in cold sweat recalling Mehta’s *five-thousand-word* pamphlet which basically called the UPA Government corrupt. An unprecedented feat in which he summoned everyone from Plato, Aristotle, Locke, Hume, Descartes, and Derrida.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+The fact that both Roy and Mehta have fans and admirers is not a reflection of them but a revelation of the destruction of education.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+However, there is a thin line that separates the two. While Roy is an unhinged Maoist “intellectual” available on a rental basis, Pratap Bhanu Mehta has sculpted an enviable pulpit for himself thanks to serving time in the Manmohan Singh Government. While you can turn off the TV or radio or YouTube each time you hear Arundhati Roy’s voice, you simply cannot escape Mehta: he’s the gnat whose galling drone has an eternal quality to it. He is the real-life, Left-Liberal variant of Rajamouli’s fictional *Eega.*
 
-Claim my free post
+### The Left-Liberal Pastor
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fthe-putrid-fumes-from-pastor-pratap&utm_source=paywall&utm_medium=web&utm_content=49349356&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=49349356&next=https://thedharmadispatch.substack.com/p/the-putrid-fumes-from-pastor-pratap)
+LIKE THE CHRISTIAN PASTOR pontificating from the pulpit, Pratap Bhanu Mehta too, takes his Left-Liberal lectern seriously. His weekly columns are sermons which serve multifarious purposes: pacifying his former colleagues rendered jobless and unemployable after the Congress lost political power, issuing certificates of good behavior to only those who agree with him, and thundering vacuously against the Constitution itself because it enabled the Indian people to elect Narendra Modi *twice* as Prime Minister.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+His latest [sermon](https://indianexpress.com/article/opinion/columns/hijab-debate-is-a-pretext-for-institutionalising-state-cruelty-muslim-students-islam-7786330/) in *The Indian Express,* unsurprisingly, happens to be an extended tirade about the ongoing Hijab row, a sick and dangerous political bomb detonated by the Congress party. But before we begin schooling Mehta, let it be unambiguously said that this is not just any ordinary political controversy. *The Congress party and its cronies have [transformed](https://www.firstpost.com/india/the-pre-planned-udupi-hijab-spark-and-the-need-for-uniform-civil-code-10379791.html) the Hijab into a weapon for fomenting Muslim [separatism](https://www.firstpost.com/politics/how-hijab-row-is-a-major-litmus-test-whose-outcome-may-decide-the-sturdiness-of-indian-constitution-10393731.html)*. And Pratap Bhanu Mehta’s *Indian Express* column is both its justification and apologia.
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+### Apologia for Muslim Separatism
+
+PASTOR PRATAP, akin to a hardened Christian clergyman, attempts to play the familiar psychological trick of public shaming right off the bat. Thus, if anyone scrutinizes the embedded separatism in the “right” to wear the Hijab to school or office, he or she is a person without “an iota of decency,” and that such scrutiny represents “a new level of public moral cretinism.”
+
+That’s quite some language.
+
+The rest of his column is basically a fluff-job to justify his haughty posturing. In its service, Pastor Pratap brings in – as usual – his selective erudition including but not limited to the Constitution, law, liberalism, public morality, progressiveness, liberalism, democracy, individual choice and comparative dressing. 
+
+It is pointless to discuss the finer points of coarseness, which is a one-word description of Mehta’s column. However, it is essential to blow away at least some of these putrid fumes emanating from Pastor Pratap’s pulpit given that it is in the nature of a peroration if not pontification. Here is a sample, breathtaking for its barefaced lying:
+
+> \[The Hijab\] does not interfere with education, holding a job, voting, participating in public life, or achieving anything in life. To, therefore, use it as a pretext for disqualifying someone from teaching or going to college is a travesty.
+
+If the Hijab was treated merely as a cloth or piece of dress, this statement would hold true. However, from day one of this manufactured controversy, the advocates of Hijab have treated it as an explicit Islamic religious practice which nobody can question on any grounds. Thus, the pretext that Mehta mentions actually emanates from the Islamic side. No other community makes wearing their religious symbols a precondition to attend school or college or office or launches agitations if equality is sought in public spaces. 
+
+Even more barefacedly, Pastor Pratap writes,
+
+> In India’s particular context, the progressives fell into the trap of > being seen to oppose or defend the hijab, where the truth is that it is presumptuous to do either. Neither is necessary. They also fell into the trap of another equivocation. The hijab is not a moment where liberty or equality are being tested.
+
+George Orwell perhaps provides the best counterpunch to such sleights of hand in his classic, *Politics and the English Language.*
+
+> The words democracy, socialism, freedom, patriotic, realistic, > justice, have each of them several different meanings which cannot be > reconciled with one another. In the case of a word like democracy, not > only is there no agreed definition, but the attempt to make one is > resisted from all sides. It is almost universally felt that when we > call a country democratic we are praising it: consequently the > defenders of every kind of régime claim that it is a democracy, and > fear that they might have to stop using that word if it were tied down > to any one meaning. WORDS OF THIS KIND ARE OFTEN USED IN A CONSCIOUSLY > DISHONEST WAY. THAT IS, THE PERSON WHO USES THEM HAS HIS OWN PRIVATE > DEFINITION, BUT ALLOWS HIS HEARER TO THINK HE MEANS SOMETHING QUITE DIFFERENT… OTHER WORDS USED IN VARIABLE MEANINGS, IN MOST CASES MORE OR LESS DISHONESTLY, ARE: CLASS, TOTALITARIAN, SCIENCE, PROGRESSIVE, REACTIONARY, BOURGEOIS, EQUALITY.
+
+Pastor Pratap does precisely this when he writes, incredibly, that:
+
+> The hijab is not a moment where liberty or equality are being tested. > IT IS COMING WHEN THERE IS AN ATTEMPT TO VISIBLY ERASE MUSLIMS FROM > INDIA’S PUBLIC CULTURE. It is also to give progressives that last bit > of pretext to be comfortable with the BJP, as if the BJP was carrying out the completion of a liberal project that the Congress had no courage of conviction to pursue… The BJP has succeeded in its aims of constructing the Muslim as a figure of threat.
+
+There are at least five logical fallacies and two factual errors in the preceding paragraph. But then, this is the whole point of the artful Pastor’s piece: to somehow use *any* issue to villainize the BJP. Surprisingly, Pastor Pratap has omitted mentioning Narendra Modi’s name in this hack job and unsurprisingly, his worn-out scolding continues unabated and uncovered like the open sewers in India’s large cities.
+
+Pastor Pratap’s sermon spares none. The Indian state sponsors cruelty. Courts are making a mistake. Courts are no longer delivering justice. Schools are oppressing Muslim teachers and students. Usual conventions of democracy are dead. Liberal ideas have been twisted. Progressiveness have lost courage.
+
+Pastor Pratap’s pulpit is the last and only bastion of sanctity.
+
+And he does this week after week. Like that washerman who doggedly bathed his donkey in limestone liquid hoping that it will turn into a tiger someday.
+
+------------------------------------------------------------------------
+
+#### An Appeal
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, which is sustained entirely through discerning readers like you. Every bit of your subscription pays our bills and helps us offer more and better content to our readership.
+
+To take a paid subscription, click the button below.
+
+Subscribe
+
+10
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d895b1d-a738-402f-b9c4-34d05ab9dde6_1422x800.jpeg)
+
+#### The Putrid Fumes from Pastor Pratap Bhanu Mehta’s Pulpit
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/the-putrid-fumes-from-pastor-pratap/comments)
+
+2
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

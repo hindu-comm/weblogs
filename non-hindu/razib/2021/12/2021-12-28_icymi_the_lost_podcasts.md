@@ -2,8 +2,7 @@
 title = "ICYMI the lost podcasts"
 full_title = "ICYMI the lost podcasts"
 upstream_url = "https://www.razibkhan.com/p/icymi-the-lost-podcasts-dec-2021"
-date = "2071-02-05"
-
+date = "2021-12-28"
 +++
 Source: [here](https://www.razibkhan.com/p/icymi-the-lost-podcasts-dec-2021).
 

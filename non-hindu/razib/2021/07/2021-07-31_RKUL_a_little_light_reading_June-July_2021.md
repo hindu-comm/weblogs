@@ -1,107 +1,506 @@
 +++
 title = "RKUL a little light"
 full_title = "RKUL a little light reading, JuneJuly 2021"
+upstream_url = "https://www.razibkhan.com/p/rkul-a-little-light-reading-june"
 date = "2021-07-31"
-upstream_url = "https://razib.substack.com/p/rkul-a-little-light-reading-june"
-
 +++
-Source: [here](https://razib.substack.com/p/rkul-a-little-light-reading-june).
+Source: [here](https://www.razibkhan.com/p/rkul-a-little-light-reading-june).
 
 RKUL: a little light reading, June-July 2021
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3ca6101-6c97-4b8a-9a99-13d8a2caef1b_1068x534.jpeg)
 
-RKUL: a little light reading, June-July 2021
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: a little light reading, June-July 2021
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # RKUL: a little light reading, June-July 2021
 
 ### a sampler of recent paid posts (with follow-up notes)
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Jul 31, 2021
 
-5
+</div>
 
-[](https://razib.substack.com/p/rkul-a-little-light-reading-june/comments)
+</div>
 
-1
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+4
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3ca6101-6c97-4b8a-9a99-13d8a2caef1b_1068x534.jpeg)
 
-RKUL: a little light reading, June-July 2021
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: a little light reading, June-July 2021
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-a-little-light-reading-june/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2bdd5a62-5814-46f1-a97a-5c5c02712004_800x279.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/rkul-a-little-light-reading-june?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/rkul-a-little-light-reading-june?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 *Thanks for [subscribing](https://razib.substack.com/subscribe?) to **[Razib Khan’s Unsupervised Learning](https://razib.substack.com/)**. June and July brought paid subscribers a big stack of reading. Here’s a sampler of the six deep-dive pieces that went up behind the paywall this summer. Subscribers who’ve already read them will find some follow-up notes throughout.*
 
 ### **[Duke Tales: I see Finland in the strangest places](https://razib.substack.com/p/i-see-finland-in-the-strangest-places) (part 1)**
 
+<div id="§duke-tales-i-see-finland-in-the-strangest-places-part" class="header-anchor-widget offset-top">
+
+<div id="§duke-tales-i-see-finland-in-the-strangest-places-part-1">
+
+</div>
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/duke-tales-i-see-finland-in-the-strangest-places-part">
+
+</div>
+
+</div>
+
+</div>
+
 I kicked off the six-part series on Finnish genetic history and culture with a [free piece](https://razib.substack.com/p/i-see-finland-in-the-strangest-places) that’s a bit of a departure. In it, I reflect on the strange reversals in my neighborhood during the [Texas blizzard](https://razib.substack.com/p/texpocalypse-now-a-postmortem) of 2021, and how they put me in mind of the unique adaptability of Finns:
 
 > Europe is also Finland, a beautifully remote and marginal land raked > with thousands of lakes. It can be about as accommodating as a winter > week during a global pandemic, overlaid with a freak ice storm, no > snow plows, a collapsed electrical grid and commerce and transport > grinding to a halt. Finland, in other words, has not always been ideal > for the equivalent of the Tech Bros and me. Certainly in the past, our > counterparts who might have been doing very nicely for themselves in the knowledge centers of the heart of Europe would have been the first to be culled by what mother nature continually meted out to her hardy Finnish subjects.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad70a474-235b-4eed-8200-667785cad6f0_1000x400.jpeg)
 
+</div>
+
 ### **[Weirdness as a national pastime](https://razib.substack.com/p/weirdness-as-a-national-pastime) (part 2)**
+
+<div id="§weirdness-as-a-national-pastime-part" class="header-anchor-widget offset-top">
+
+<div id="§weirdness-as-a-national-pastime-part-2">
+
+</div>
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/weirdness-as-a-national-pastime-part">
+
+</div>
+
+</div>
+
+</div>
 
 In the [second piece](https://razib.substack.com/p/weirdness-as-a-national-pastime), I dig into the cultural and historical peculiarities of the Finns, who speak a non-Indo-European language, and exhibit slight, but long remarked-on physical differences from other Europeans. I also put a spotlight on the strange Nazi obsession with the Finns and the Baltic peoples more generally:
 
 > One German friend told me everyone knew the Finns are “strange,” with > a sullen affect and propensity for dark moods. That made me think of > Heather Pringle’s [The Master Plan: Himmler's Scholars and the > Holocaust](https://www.amazon.com/exec/obidos/ASIN/B000JMKSFG/geneexpressio-20) > and its references to Finland. Apparently, Himmler, the head of the > SS, believed in the occult and sent ethnographers and archaeologists > to Finland and the neighboring region of Karelia to conduct > excavations and study the folklore. They recorded songs for future use > that were purported to encode magical powers once wielded by the > wizard Väinämöinen. Himmler’s bizarre faith in magic might seem silly > (it did to Hilter, who expressed personal contempt and embarrassment > for his subordinate’s enthusiasms and tried to deny him funding, which > Himmler then just gathered behind Hitler’s back), but it was true that the folk shamans of Finland continued to live in an enchanted world dominated by strange spirits and unseen powers long since faded from memory in the rest of Europe.
 
+<div class="captioned-image-container">
+
 ![The Defense of the Sampo: Akseli Gallen-Kallela, 1896. Mistress of the North, Louhi attacking Väinämöinen in the form of a giant eagle](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3199d67c-dfd3-4a40-b03b-9d9c5cebe227_1000x594.jpeg)
 
+</div>
+
 ### **[Go west, young Siberian](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge) (part 3)**
+
+<div id="§go-west-young-siberian-part" class="header-anchor-widget offset-top">
+
+<div id="§go-west-young-siberian-part-3">
+
+</div>
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/go-west-young-siberian-part">
+
+</div>
+
+</div>
+
+</div>
 
 Getting into the genetics, one notable and clear aspect of Finnish variation is that their distinctiveness comes in through the paternal lineage. Men only. While the maternal lineages of Finns resemble Swedes, [their paternal lineages are totally different](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge). Finnish paternal lineages are turning up in places I think none of us imagines:
 
 > And the descendants of these men can be found in peculiar and > surprisingly high places. In the 9th century AD, a Swedish prince > named [Rurik](https://en.wikipedia.org/wiki/Rurik) built a > fortification north of modern-day St. Petersburg. Rurik was a > Varangian, one of the eastern Vikings journeying out of Sweden into > the vast lands west of the Urals occupied by pagan Slav tribes. > Varangians famously served as bodyguards for the Byzantine Emperor, > far to the south. Like these adventurers, Rurik’s son was drawn by the > wealth of the south, and captured the city of Kiev, in what is modern-day Ukraine. His descendants would go on to become the direct paternal ancestors of all Russian rulers from the 10th century AD until 1598 (when the Romanovs came to power).
 
+<div class="captioned-image-container">
+
 ![Nobel Peace Prize winner Martti Ahtisaari, composer and conductor Esa-Pekka Salonen, screenwriter and director Aki Kaurismäki, NHL great Teemu Selänne, Formula One World Champion Mika Häkkinen and young Nordic popstar Isac Elliot (Lundén)](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F856a430b-2f96-4364-86a9-23edeaded21b_800x529.jpeg)
 
+</div>
+
 ### **[From deepest Siberia to Europe’s edge](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge) (part 4)**
+
+<div id="§from-deepest-siberia-to-europes-edge-part" class="header-anchor-widget offset-top">
+
+<div id="§from-deepest-siberia-to-europes-edge-part-4">
+
+</div>
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/from-deepest-siberia-to-europes-edge-part">
+
+</div>
+
+</div>
+
+</div>
 
 Delving deeper into the genetics of Finns, and looking at their whole genome, it seems clear from ancient DNA that the [modern Finns derive from a Siberian people](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge):
 
 > Ancient DNA and genomics have now brought the story nearly into focus. > As we assimilate each new discovery into our body of knowledge, the > only remaining viable theory is that **the genetic uniqueness of the > Finnic people is a product of relatively recent history, not a feature > of deep time.** Before 500 BC, the languages spoken in the coastal > East Baltic were likely related to forerunners of modern Scandinavian > or Slavic languages, not Finnish or Estonian, a tentative conclusion > we can hazard with quite strong confidence based on genetic remains > from the period. These populations had no Siberian ancestry. The > populations’ genetic profile and material culture were exactly the > same as contemporaneous populations in Bronze-Age Sweden. Earlier > hunter-gatherer populations among whom we once hunted for traces of > special Siberian ancestry, like the CCC \[Comb Ceramic Culture\], that had long resided in Scandinavia and Finland, had already been mostly absorbed by these Indo-Europeans by the time the eastern ancestors of the Finns made their entrance.
 
+<div class="captioned-image-container">
+
 ![Nenets, 1913, St. Petersburg library](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56fbae18-33af-41e1-a259-30688e5173fd_788x421.jpeg)
 
+</div>
+
 ### **[Frontier Finns: cabins, rakes & Indians](https://razib.substack.com/p/frontier-finns-cabins-rakes-and-indians) (part 5)**
+
+<div id="§frontier-finns-cabins-rakes-and-indians-part" class="header-anchor-widget offset-top">
+
+<div id="§frontier-finns-cabins-rakes-and-indians-part-5">
+
+</div>
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/frontier-finns-cabins-rakes-and-indians-part">
+
+</div>
+
+</div>
+
+</div>
 
 Though Finns are connected to deep Siberia, in the [fifth piece](https://razib.substack.com/p/frontier-finns-cabins-rakes-and-indians) I wanted to dig into their impact on America. Early Finns pioneered the log cabin in Delaware, but even today there are parts of America where they are an essential part of the cultural stew:
 
@@ -109,50 +508,99 @@ Though Finns are connected to deep Siberia, in the [fifth piece](https://razib.s
 
 ### 
 
+<div id="§" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3ca6101-6c97-4b8a-9a99-13d8a2caef1b_1068x534.jpeg)
 
+</div>
+
 ### **[Finnish brains, baiting and bottlenecks](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks) (part 6)**
+
+<div id="§finnish-brains-baiting-and-bottlenecks-part" class="header-anchor-widget offset-top">
+
+<div id="§finnish-brains-baiting-and-bottlenecks-part-6">
+
+</div>
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/finnish-brains-baiting-and-bottlenecks-part">
+
+</div>
+
+</div>
+
+</div>
 
 Finally, in [part six](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks) I conclude with a piece on Finnish uniqueness, from [PISA](https://nces.ed.gov/surveys/pisa/) scores to the genetic diseases to which Finns are disproportionately subject, due to a bottleneck in the past:
 
 > Though a genetically homogeneous population with a common suite of > diseases might yield key information for > [research](https://www.breakthroughs.com/health-tomorrow/how-finland%E2%80%99s-unique-genetic-heritage-being-used-study-links-between-genes-and), > on the human level, it is a tragic side-effect of a long, proud > history of repeatedly snatching victory from the jaws of defeat on the > margins of human subsistence. Like many enterprising frontier groups, > Finns survived innumerable challenges, but suffered famines and many > local extinctions, leaving a high and compounding tax of genetic > homogeneity on the lucky few survivors. Today, one in five Finns > carries an FDH > [mutation](https://obgyn.onlinelibrary.wiley.com/doi/abs/10.1002/pd.82). > These mutations result in three types of dwarfism, over half a dozen > forms of neurodegenerative diseases, and several forms of sensory impairments, including deafblindness. The Finns are special and unique in their own self-conception, but their distinctiveness comes with a price.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0306b6-6177-4a25-a97b-ae001030e723_960x640.jpeg)
+
+</div>
 
 ### **Podcasts**
 
+<div id="§podcasts" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/39416869/podcasts">
+
+</div>
+
+</div>
+
+</div>
+
 The *Unsupervised Learning* podcast has criss-crossed many topics over the last few months:
 
-- [David Mittelman: genomics for
-  justice](https://razib.substack.com/p/david-mittelman-genomics-for-justice)
+-   [David Mittelman: genomics for
+    justice](https://razib.substack.com/p/david-mittelman-genomics-for-justice)
 
-- [Colin Wright: wasps, New Atheism, and
-  sex](https://razib.substack.com/p/colin-wright-wasps-new-atheism-and)
+-   [Colin Wright: wasps, New Atheism, and
+    sex](https://razib.substack.com/p/colin-wright-wasps-new-atheism-and)
 
-- [Ramez Naam: a promising
-  future](https://razib.substack.com/p/ramez-naam-a-promising-future)
+-   [Ramez Naam: a promising
+    future](https://razib.substack.com/p/ramez-naam-a-promising-future)
 
-- [Samo Burja (again): finding "lost
-  civilizations"](https://razib.substack.com/p/samo-burja-again-finding-lost-civilizations)
+-   [Samo Burja (again): finding "lost
+    civilizations"](https://razib.substack.com/p/samo-burja-again-finding-lost-civilizations)
 
-- [John S. Wilkins: species, the history of an
-  idea](https://razib.substack.com/p/john-s-wilkins-species-the-history)
+-   [John S. Wilkins: species, the history of an
+    idea](https://razib.substack.com/p/john-s-wilkins-species-the-history)
 
-- [Alex Mesoudi: the origins of cultural
-  evolution](https://razib.substack.com/p/alex-mesoudi-the-origins-of-cultural)
+-   [Alex Mesoudi: the origins of cultural
+    evolution](https://razib.substack.com/p/alex-mesoudi-the-origins-of-cultural)
 
-- [Linda Avey: genomics from 23 to
-  100](https://razib.substack.com/p/linda-avey-genomics-from-23-to-100)
+-   [Linda Avey: genomics from 23 to
+    100](https://razib.substack.com/p/linda-avey-genomics-from-23-to-100)
 
-- [Karl Smith: inflation, the debt crisis, China and the American
-  tripartite class
-  system](https://razib.substack.com/p/karl-smith-inflation-the-debt-crisis)
+-   [Karl Smith: inflation, the debt crisis, China and the American
+    tripartite class
+    system](https://razib.substack.com/p/karl-smith-inflation-the-debt-crisis)
 
-- [Jason Munshi-South: rats and
-  evolution](https://razib.substack.com/p/jason-munshi-smith-rats-and-evolution)
+-   [Jason Munshi-South: rats and
+    evolution](https://razib.substack.com/p/jason-munshi-smith-rats-and-evolution)
 
-- Here are the [currently ungated
-  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
+-   Here are the [currently ungated
+    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
+    place.
 
 I posted the conversations with [Ramez](https://razib.substack.com/p/ramez-naam-a-promising-future) and [Samo](https://razib.substack.com/p/samo-burja-again-finding-lost-civilizations) consecutively by design. Ramez is a science fiction and [fact](https://www.amazon.com/exec/obidos/ASIN/B07NNV374R//geneexpressio-20) [author](https://www.amazon.com/exec/obidos/ASIN/0557582334//geneexpressio-20) who is focused on the future, especially the domain of solar technology. Samo too is interested in the future, but he draws deeply on the historical literature to trace our upcoming possibilities. Ramez is cautiously optimistic about the future, while Samo discusses how little we truly know about the past.
 
@@ -177,28 +625,186 @@ The Finland series prompted a lot of great comments. I want to highlight this pa
 
 As always, I welcome paid-subscriber comments and your reading recommendations and suggestions. They never disappoint.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[](https://razib.substack.com/p/rkul-a-little-light-reading-june/comments)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-1
+<div class="_container_1xsdj_1">
 
-[](javascript:void(0))
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+4
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3ca6101-6c97-4b8a-9a99-13d8a2caef1b_1068x534.jpeg)
 
-RKUL: a little light reading, June-July 2021
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: a little light reading, June-July 2021
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-a-little-light-reading-june/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

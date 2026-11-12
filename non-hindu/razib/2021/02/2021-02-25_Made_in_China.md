@@ -1,71 +1,374 @@
 +++
 title = "Made in China"
 full_title = "Made in China"
+upstream_url = "https://www.razibkhan.com/p/made-in-china"
 date = "2021-02-25"
-upstream_url = "https://razib.substack.com/p/made-in-china"
-
 +++
-Source: [here](https://razib.substack.com/p/made-in-china).
+Source: [here](https://www.razibkhan.com/p/made-in-china).
 
 Made in China
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe789eaed-2dd8-430e-9c2b-8a15d87ac999_1000x792.jpeg)
 
-Made in China
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Made in China
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Made in China
 
 ### Does it matter who writes history if no one reads it?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Feb 25, 2021
 
-57
+</div>
 
-[](https://razib.substack.com/p/made-in-china/comments)
+</div>
 
-16
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+60
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe789eaed-2dd8-430e-9c2b-8a15d87ac999_1000x792.jpeg)
 
-Made in China
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Made in China
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/made-in-china/comments)
+
+<div class="label">
+
+16
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe789eaed-2dd8-430e-9c2b-8a15d87ac999_1000x792.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 As tedious as it grows with repetition, I’m afraid the old Santayana chestnut that “those who cannot remember the past are condemned to repeat it” remains no less incisive in our amnesiac age. Data and infinite information might be at our collective fingertips, but who do we depend on to judiciously tend them? Who makes it their mission to remember dispassionately, to carry forward truths both flattering and inconvenient? Who among us actually knew in the first place? Perilously few, in my experience.
 
@@ -77,13 +380,41 @@ You’re here reading me, so odds are, you do, too. Many among the 1.4 billion h
 
 I have a dread suspicion this post, what should be a banal little act of recollection, will become a recurring feature on this [Substack](https://razib.substack.com/). Perhaps it’s a necessary role in an age of atrophy... scattering these occasional little oases of factual recollection across an arid landscape of righteous amnesia? All in hopes that the wiser inhabitants of some future age might hopscotch their way back to storehouses still packed with the millennia of human memory, fact and reflection we largely ignore.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F892e2d9b-3cbc-4e86-b6b9-768dc71def30_1061x750.jpeg)
+
+</div>
 
 **The Forgotten Genocide**
 
@@ -97,11 +428,35 @@ Too often, today’s commentators lack the most basic familiarity with the linea
 
 The Dzungar Khanate was the last of the great steppe empires. Less storied than the Mongol Empire of Genghis Khan and the Turkic Empire of Tamerlane, it is now notable for the genocide that accompanied its destruction. After the Dzungar Khanate was erased, modern China’s borders gained their final outline. This act concluded the geographical invention of China as we know it today.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 **The Great Enemy**
 
@@ -119,13 +474,41 @@ Between the 14th and 18th centuries, the Oirats were often at war with the Khalk
 
 By the end of the 17th century, the Oirat tribes who had become the Dzungars gained the upper hand. In 1691, the Khalkha Mongols forestalled surrendering to the Dzungars by [submitting themselves](https://en.wikipedia.org/wiki/Mongolia_under_Qing_rule#History) to the new rulers of China: the Manchus.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![Ming China on the eve of the Manchu conquest](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe275d005-e5af-4f5b-a07d-d1b1e18f5b02_1200x1221.png)
+
+</div>
 
 **The rise of the Manchus**
 
@@ -143,13 +526,41 @@ Both the Manchus and Dzungar were devotees of Tibetan Buddhism. The Dzungar inte
 
 After their conquest of China, the Manchu had men and materiel beyond the wildest expectations of any steppe warlord. They went into the conflict with enormous advantages.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b55e5a7-e054-40e7-b7e4-a09b8ee2f578_786x334.jpeg)
+
+</div>
 
 **A rebellious people**
 
@@ -179,13 +590,41 @@ But the partitioning of Central Asia by Imperial China to the east and Imperial 
 
 With the development and spread of firearms, nomadic advantages in warfare also diminished. Modern states with extensive systems of logistics were more effective in fielding large armies for long periods in distant locales. The Qing wore down the Dzungar, **and ultimately the campaign of genocide left Dzungar soldiers no homes to retreat to.**
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3482c7ff-5d93-49bc-af47-b4b4c8e6a86d_602x446.jpeg)
+
+</div>
 
 **Rationality and the total state**
 
@@ -195,7 +634,11 @@ The destruction of the Dzungar Khanate also established the western border of th
 
 The Manchu victory over the Dzungars was not due to their particular skill or ferocity in the arts of war. Rather, they deployed the whole might of the Chinese nation and various allied peoples (Manchus, Mongols, and Turks) against the Dzungar in a war of attrition. Modern weaponry erased the long-held advantage of the steppe nomad against the Chinese infantry on a man-for-man basis. **Science, engineering, and modern politics conquered the steppe and exterminated the Dzungar.**
 
+<div class="captioned-image-container">
+
 ![Qianlong Emperor](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe459a7e6-201f-4300-8bee-6e996eacdac9_620x412.jpeg)
+
+</div>
 
 **The greatest human stain**
 
@@ -209,32 +652,190 @@ The Uyghurs have been far less violent and problematic for the People’s Republ
 
 When we in the West react with incomprehension to the horror unfolding in those remote outposts, we need to realize it is not without precedent. It is not an act of capricious evil, but a calculated decision. **Genocide was built into the foundations of Xinjiang itself, the contested soil suffused with the blood of the exterminated Dzungar people**. I’m hardly one to exhort anyone to do anything. But ours is an age when earnest Americans announce unbidden whose stolen native lands they occupy as readily as they proclaim their pronouns. So could we just supplement our long-distance concern and hand-wringing with a thought for the actual facts of the western frontierland of China? Xinjiang is Dzungar land emptied of Dzungars. And now it looks poised to be emptied of their Uyghur successors. **Sadly, genocide, that darkest of human stains, is not a recent Western invention, but Made In China, too.**
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
 
-[](https://razib.substack.com/p/made-in-china/comments)
+<div class="_sideBySideWrap_1xsdj_10">
 
-16
+<div class="_emailInputWrapper_1xsdj_55">
 
-[](javascript:void(0))
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/made-in-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+60
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe789eaed-2dd8-430e-9c2b-8a15d87ac999_1000x792.jpeg)
 
-Made in China
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Made in China
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/made-in-china/comments)
+
+<div class="label">
+
+16
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

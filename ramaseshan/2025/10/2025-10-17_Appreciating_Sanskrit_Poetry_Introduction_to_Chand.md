@@ -20,11 +20,11 @@ Appreciating Sanskrit Poetry : Introduction to Chandas
 
 Oct 17, 2025
 
-30
+23
 
 1
 
-6
+5
 
 Share
 
@@ -376,12 +376,30 @@ One can go on learning, deconstructing, disassembling the patterns, and playing 
 
 Update : I have written the sequel to this article where in I talk in detail about 18 popular meters employed in Classical Sanskrit. Read it by clicking below.
 
+[](https://ramaseshanchandrasekaran.substack.com/p/enjoying-sanskrit-poetry-a-deeper)
+
+## Enjoying Sanskrit Poetry : A deeper dive into Chandas
+
+[Rama Seshan Chandrasekaran](https://substack.com/profile/195425058-rama-seshan-chandrasekaran)
+
+·
+
+October 24, 2025
+
+![Enjoying Sanskrit Poetry : A deeper dive into Chandas](https://substackcdn.com/image/fetch/$s_!PUnp!,w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eecbde2-1d84-42d3-90ee-9d3de122526d_480x630.jpeg)
+
+This article is written assuming that you have read my previous article on introduction to Sanskrit prosody or as the native tradition calls it - the śāstra of chandas. If not, click below and read it. Here, first we will see an assorted selection of seventeen most popular meters in Sanskrit in detail and then the method of classification of chandas.
+
+[](https://ramaseshanchandrasekaran.substack.com/p/enjoying-sanskrit-poetry-a-deeper)
+
+Read full story
+
   
 
-30
+23
 
 1
 
-6
+5
 
 Share

@@ -1,9 +1,8 @@
 +++
 title = "The wages of"
 full_title = "The wages of conventional wisdom"
-date = "2021-01-07"
 upstream_url = "https://razib.substack.com/p/the-wages-of-conventional-wisdom"
-
+date = "2021-01-07"
 +++
 Source: [here](https://razib.substack.com/p/the-wages-of-conventional-wisdom).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6192a8ab-0abc-44b1-9bfc-b5ef42519691_1800x1200.jpeg)
 
-The wages of conventional wisdom
+#### The wages of conventional wisdom
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### Is truth our goal or the label we put on our assumptions?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Jan 7, 2021
 
-4
+3
 
 [](https://razib.substack.com/p/the-wages-of-conventional-wisdom/comments)
 
@@ -43,11 +42,13 @@ Jan 7, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6192a8ab-0abc-44b1-9bfc-b5ef42519691_1800x1200.jpeg)
 
-The wages of conventional wisdom
+#### The wages of conventional wisdom
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6192a8ab-0abc-44b1-9bfc-b5ef42519691_1800x1200.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6192a8ab-0abc-44b1-9bfc-b5ef42519691_1800x1200.jpeg)
 
@@ -83,7 +86,11 @@ And the consensus has moved on further since then. Why? Partly because of a chan
 
 > Everyone took sides; everyone thought of the new disease as one more > episode in an ongoing partisan struggle. Think of Mike Pompeo, that > landmass of Cold War truculence; think of Donald Trump himself. They > stood at their microphones saying, in a winking, > I-know-something-you-don’t-know sort of way, that this disease escaped > from a Chinese laboratory. Whatever they were saying must be wrong. It > became impermissible, almost taboo, to admit that, of course, SARS-2 > could have come from a lab accident. **“The administration’s claim that the virus spread from a Wuhan lab has made the notion politically toxic, even among scientists who say it could have happened,”** wrote science journalist Mara Hvistendahl in the Intercept.
 
-![A Black Swan?](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36a4b24b-bd9d-4ed9-a326-9cbea1dc533c_1200x800.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36a4b24b-bd9d-4ed9-a326-9cbea1dc533c_1200x800.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36a4b24b-bd9d-4ed9-a326-9cbea1dc533c_1200x800.jpeg)
+
+A Black Swan?
 
 **Subscribe**
 
@@ -101,7 +108,11 @@ Finally, the Trump administration's aggressive and volatile politicization, arra
 
 [Share](https://razib.substack.com/p/the-wages-of-conventional-wisdom?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-![Wuhan laboratory](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc061752b-23a1-4f0d-97e3-3aa05bf92205_918x506.webp)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc061752b-23a1-4f0d-97e3-3aa05bf92205_918x506.webp)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc061752b-23a1-4f0d-97e3-3aa05bf92205_918x506.webp)
+
+Wuhan laboratory
 
 **Subscribe**
 
@@ -139,7 +150,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6192a8ab-0abc-44b1-9bfc-b5ef42519691_1800x1200.jpeg)
 
-The wages of conventional wisdom
+#### The wages of conventional wisdom
 
 razib.substack.com
 
@@ -150,5 +161,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

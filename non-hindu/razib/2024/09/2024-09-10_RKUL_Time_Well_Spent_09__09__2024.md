@@ -8,45 +8,371 @@ Source: [here](https://www.razibkhan.com/p/rkul-time-well-spent-09092024).
 
 RKUL: Time Well Spent 09/09/2024
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_jwuxw_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b65f880-5523-4c82-88e4-d287a50731b4_1019x761.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: Time Well Spent 09/09/2024
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
 # RKUL: Time Well Spent 09/09/2024
 
 ### Almost Autumn Edition
 
-[](https://substack.com/@razib)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_jwuxw_234 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_6cuho_7 _size-40_6cuho_23">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_btefp_187 _line-height-20_btefp_80 _font-meta_btefp_115 _size-11_btefp_31 _weight-medium_btefp_145 _transform-uppercase_btefp_225 _reset_btefp_1 _meta_btefp_425">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
 
 [Razib Khan](https://substack.com/@razib)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_btefp_190 _line-height-20_btefp_80 _font-meta_btefp_115 _size-11_btefp_31 _weight-medium_btefp_145 _transform-uppercase_btefp_225 _reset_btefp_1 _meta_btefp_425">
+
 Sep 10, 2024
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-27
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+</div>
 
-10
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+</div>
 
-4
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_jwuxw_234 pc-reset _border-top-detail-themed_jwuxw_47 _border-bottom-detail-themed_jwuxw_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+26
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_jwuxw_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b65f880-5523-4c82-88e4-d287a50731b4_1019x761.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: Time Well Spent 09/09/2024
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-time-well-spent-09092024/comments)
+
+<div class="label">
+
+11
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!Y2Qt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b65f880-5523-4c82-88e4-d287a50731b4_1019x761.png)
+</div>
 
-![](https://substackcdn.com/image/fetch/$s_!Y2Qt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b65f880-5523-4c82-88e4-d287a50731b4_1019x761.png)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b65f880-5523-4c82-88e4-d287a50731b4_1019x761.png)
+
+</div>
 
 If you have a sibling with autism, your future child’s risk for an autism diagnosis is increased by a factor of [2 to 3.5×](https://www.nih.gov/news-events/news-releases/autism-risk-estimated-3-5-children-whose-parents-have-sibling-autism). [Orchid’s whole genome embryo reports](https://www.orchidhealth.com/) can help mitigate your child’s risk by screening for over 200 genetic variants definitively [linked to autism](https://clinvarminer.genetics.utah.edu/variants-by-condition/Autism%20spectrum%20disorder) and other neurodevelopmental disorders. [Discuss your situation with a genetics expert](https://calendly.com/rebecca-pfq/orchid-meeting?back=1&month=2024-04).
 
+<div>
+
 ------------------------------------------------------------------------
 
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_11q5m_1">
+
+<div class="_sideBySideWrap_11q5m_10">
+
+<div class="_emailInputWrapper_11q5m_57">
+
+</div>
+
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
 
@@ -56,11 +382,23 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 ### **Books, what else?**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
 
-[](https://substackcdn.com/image/fetch/$s_!wL5P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62f49613-3fd2-4eaf-8e07-6215ed1898a8_776x188.png)
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
 
-![](https://substackcdn.com/image/fetch/$s_!wL5P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62f49613-3fd2-4eaf-8e07-6215ed1898a8_776x188.png)
+<div id="§books-what-else" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62f49613-3fd2-4eaf-8e07-6215ed1898a8_776x188.png)
+
+</div>
 
 It’s the election season in America. Which drives heavy traffic to short time horizon horse-race sites like the [Silver Bulletin](https://www.natesilver.net/). But to understand 2024, I think you get as much or more juice out of studying previous elections, as well as America’s cultural and demographic history more broadly. Appalachia’s Scots-Irish regions sharply changed their voting patterns synchronously between 2000 and 2016, but do you know why? There’s the indispensable 1991 [Albion’s Seed](https://www.amazon.com/exec/obidos/ASIN/B000SEKM9C/geneexpressio-20) for that. Why are American libertarians more likely to throw in their lot with the Republican than the Democratic party? For that, you can read [Radicals for Capitalism](https://www.amazon.com/exec/obidos/ASIN/1586485725/geneexpressio-20).
 
@@ -76,7 +414,17 @@ Finally, Colin Woodard’s [American Nations: A History of the Eleven Rival Regi
 
 ### **Thought**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§thought" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 [Ancient East Eurasians and their genetic legacy](https://medium.com/@jacobharr96/ancient-east-eurasians-and-their-genetic-legacy-6b215038fba3). This massive review in *Medium* is worth reading in full, even if some of it is abstruse. The author has an excellent command of the scientific literature, and though translating it to prose that is broadly legible is difficult, the essay richly rewards multiple re-readings.
 
@@ -92,7 +440,17 @@ Finally, Colin Woodard’s [American Nations: A History of the Eleven Rival Regi
 
 ### **Data**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§data" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 [Reconstructing contact and a potential interbreeding geographical zone between Neanderthals and anatomically modern humans](https://www.nature.com/articles/s41598-024-70206-y) and [The Persian plateau served as hub for Homo sapiens after the main out of Africa dispersal](https://www.nature.com/articles/s41467-024-46161-7). These two papers posit that Iran was a major secondary modern human *ur-heimat* or “hub.” Not only is the human-Neanderthal admixture likely to have occurred in the central Zagros, but several later expansions to western, northern, eastern and southern Eurasia might originate from this region.
 
@@ -100,11 +458,21 @@ Finally, Colin Woodard’s [American Nations: A History of the Eleven Rival Regi
 
 [Genetic associations between non-cognitive skills and academic achievement over development](https://www.nature.com/articles/s41562-024-01967-9?code=3c86a4f0-55c9-48a8-9182-a6e4c60aef6a&error=cookies_not_supported). Heritable elements of your psychology beyond IQ, like self-control, matter more and more to academic performance as you age. Not surprising.
 
-[Archaic introgression and the distribution of shared variation under stabilizing selection](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1?rss=1). Different human populations (Neanderthal vs. modern) have quantitative traits with different optima (e.g., different median heights or muscle mass). When admixture occurs across a large enough genetic distance, the variants associated with these traits in one population are selected against in the other population. This means when Neanderthals and modern humans mixed, the same regions of the genome in both populations, controlling the same traits, were subject to purifying selection that purged genetic variants from the other population. This is one of the ways that modern non-African humans ended up only ~2% Neanderthal even though the original admixture was higher.
+[Archaic introgression and the distribution of shared variation under stabilizing selection](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1?rss=1). Different human populations (Neanderthal vs. modern) have quantitative traits with different optima (e.g., different median heights or muscle mass). When admixture occurs across a large enough genetic distance, the variants associated with these traits in one population are selected against in the other population. This means when Neanderthals and modern humans mixed, the same regions of the genome in both populations, controlling the same traits, were subject to purifying selection that purged genetic variants from the other population. This is one of the ways that modern non-African humans ended up only \~2% Neanderthal even though the original admixture was higher.
 
 ### **My Two Cents**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§my-two-cents" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 There’s still no free lunch, free subscribers; my most in-depth pieces for this Substack remain beyond the paywall. Last month there were three.
 
@@ -176,73 +544,248 @@ Then back to a specific national genetic narrative, [Korean identity: a story of
 
 ### Discussion
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§discussion" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks after their Substack release. So I encourage subscribers on the free plan who’d like to automatically get them to [subscribe](https://unsupervisedlearning.libsyn.com/) to that podcast stream ([Apple](https://podcasts.apple.com/gb/podcast/razib-khans-unsupervised-learning/id1542136715?ls=1), [Stitcher](https://www.stitcher.com/show/razib-khans-unsupervised-learning), and [Spotify](https://open.spotify.com/show/0qC7KtuzPG9azwjt3opYlI)). If you want to listen on [YouTube](https://www.youtube.com/@razibkhansunsupervisedlearning), please [subscribe](https://www.youtube.com/@razibkhansunsupervisedlearning).
 
 Here are my guests (and monologue topics) since the last Time Well Spent:
 
-- [Inez Stepman: Silicon Valley's post-human
-  world](https://www.razibkhan.com/p/inez-stepman-silicon-valleys-post)
+-   [Inez Stepman: Silicon Valley's post-human
+    world](https://www.razibkhan.com/p/inez-stepman-silicon-valleys-post)
 
-- [Halie May: the democratization of
-  genomics](https://www.razibkhan.com/p/halie-may-the-democratization-of)
+-   [Halie May: the democratization of
+    genomics](https://www.razibkhan.com/p/halie-may-the-democratization-of)
 
-- [Rachel Haywire: the edge of the
-  avant-garde](https://www.razibkhan.com/p/rachel-haywire-the-edge-of-the-avant)
+-   [Rachel Haywire: the edge of the
+    avant-garde](https://www.razibkhan.com/p/rachel-haywire-the-edge-of-the-avant)
 
-- [Misha Saul: the Antipodean
-  Anglosphere](https://www.razibkhan.com/p/mischa-saul-the-antipodean-anglosphere)
+-   [Misha Saul: the Antipodean
+    Anglosphere](https://www.razibkhan.com/p/mischa-saul-the-antipodean-anglosphere)
 
 (also, there are now seven episodes of my new [current events podcast with Josiah Neeley](https://khanversation.substack.com/))
 
 ### ICYMI
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
 
-Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all my links and updates: <https://www.razib.com>
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§icymi" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
+
+Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all my links and updates: [https://www.razib.com](https://www.razib.com)
 
 There you’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance, etc.
 
-- [DM](https://twitter.com/razibkhan) me
+-   [DM](https://twitter.com/razibkhan) me
 
-- [Facebook](https://www.facebook.com/razibkhan99) message me
+-   [Facebook](https://www.facebook.com/razibkhan99) message me
 
-- My [total feed](http://www.razib.com/wordpress/) of content
+-   My [total feed](http://www.razib.com/wordpress/) of content
 
-- My Indian/South Asian-focused blog, [Brown
-  Pundits](https://www.brownpundits.com/)
+-   My Indian/South Asian-focused blog, [Brown
+    Pundits](https://www.brownpundits.com/)
 
-- Some of my past pieces for
-  [Palladium](https://www.palladiummag.com/author/razibkhanpalladium/),
-  [UnHerd](https://unherd.com/author/razib-khan/), [National
-  Review](https://www.nationalreview.com/author/razib-khan/), [The City
-  Journal](https://www.city-journal.org/contributor/razib-khan_1620),
-  [Quillette](https://quillette.com/author/razib-khan/), and [The New
-  York
-  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+-   Some of my past pieces for
+    [Palladium](https://www.palladiummag.com/author/razibkhanpalladium/),
+    [UnHerd](https://unherd.com/author/razib-khan/), [National
+    Review](https://www.nationalreview.com/author/razib-khan/), [The
+    City
+    Journal](https://www.city-journal.org/contributor/razib-khan_1620),
+    [Quillette](https://quillette.com/author/razib-khan/), and [The New
+    York
+    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
-- My old podcast, [The Insight](https://insitome.libsyn.com/)
+-   My old podcast, [The Insight](https://insitome.libsyn.com/)
 
-- This podcast, [Unsupervised
-  Learning](https://unsupervisedlearning.libsyn.com/)
+-   This podcast, [Unsupervised
+    Learning](https://unsupervisedlearning.libsyn.com/)
 
 ### Over to you
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§over-to-you" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what you hope I’ll dig into next, put it here.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+</div>
 
-27
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+<div class="visibility-check">
 
-10
+</div>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+<div class="post-footer">
 
-4
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_jwuxw_234 pc-reset _border-top-detail-themed_jwuxw_47 _border-bottom-detail-themed_jwuxw_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+26
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_jwuxw_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b65f880-5523-4c82-88e4-d287a50731b4_1019x761.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### RKUL: Time Well Spent 09/09/2024
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/rkul-time-well-spent-09092024/comments)
+
+<div class="label">
+
+11
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

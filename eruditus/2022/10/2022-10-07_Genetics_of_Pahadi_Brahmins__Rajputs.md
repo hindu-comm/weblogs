@@ -1,9 +1,8 @@
 +++
 title = "Genetics of Pahadi"
 full_title = "Genetics of Pahadi Brahmins/Rajputs?"
-date = "2022-10-07"
 upstream_url = "https://eruditus.substack.com/p/genetics-of-pahadi-brahminsrajputs"
-
+date = "2022-10-07"
 +++
 Source: [here](https://eruditus.substack.com/p/genetics-of-pahadi-brahminsrajputs).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbfda1f8-3e49-457e-bb4b-309f737d60c8_1440x741.png)
 
-Genetics of Pahadi Brahmins/Rajputs?
+#### Genetics of Pahadi Brahmins/Rajputs?
 
 eruditus.substack.com
 
@@ -27,25 +26,27 @@ Email
 
 # Genetics of Pahadi Brahmins/Rajputs?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
-Oct 7
+Oct 7, 2022
 
-2
+4
 
 [](https://eruditus.substack.com/p/genetics-of-pahadi-brahminsrajputs/comments)
 
-2
+7
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbfda1f8-3e49-457e-bb4b-309f737d60c8_1440x741.png)
 
-Genetics of Pahadi Brahmins/Rajputs?
+#### Genetics of Pahadi Brahmins/Rajputs?
 
 eruditus.substack.com
 
@@ -67,9 +68,13 @@ Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for fre
 
 However, the cluster isn’t homogenous, and some of these samples are far closer to the mainland Indian cluster, yet still significantly Tibetan shifted. So I decided to label these ones separately and model them on the Harvard Admixtools2 software by the geneticist [Robert Maier](https://www.google.com/search?q=robert+maier+genetics&sxsrf=ALiCzsZLHP6_9-H2G6fDAMjoE18_kJ6jhA%3A1665144893440&ei=PRhAY8ymGuGeseMP8aeh0As&oq=robert+maier+&gs_lcp=Cgdnd3Mtd2l6EAEYBDIECCMQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyCwguEIAEEMcBEK8BMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBZKBAhBGABKBAhGGABQC1jnAWD-D2gAcAB4AYAB9AGIAbEGkgEFMC4yLjKYAQCgAQHAAQE&sclient=gws-wiz).
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbfda1f8-3e49-457e-bb4b-309f737d60c8_1440x741.png)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbfda1f8-3e49-457e-bb4b-309f737d60c8_1440x741.png)
 
 Notice how they are closer to Tibetans, but a few of them are on the Indian cline.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2aff7e7-3daa-4218-98a0-44ae79c67ff6_1440x741.png)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2aff7e7-3daa-4218-98a0-44ae79c67ff6_1440x741.png)
 
@@ -82,6 +87,8 @@ Irula.DG: 18% ± 10.7
 Indus Valley: 44.8% ± 7.8  
 Riang.SG: 13.1% ± 3.4***
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d615516-e6fa-499a-98de-3e2331cc6fe3_1180x994.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d615516-e6fa-499a-98de-3e2331cc6fe3_1180x994.jpeg)
 
 ***Tibetan-mix Rajasthani Rajput (RAJ.SG)***
@@ -90,6 +97,8 @@ Riang.SG: 13.1% ± 3.4***
 Irula.DG: 17.1% ± 14.2  
 Indus Valley: 40.2% ± 10.9  
 Riang.SG: 16% ± 4.1***
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb98ccb3-cd10-40be-9dc4-05322ac5ed9d_1180x994.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb98ccb3-cd10-40be-9dc4-05322ac5ed9d_1180x994.jpeg)
 
@@ -105,7 +114,7 @@ Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for fre
 
 [](https://eruditus.substack.com/p/genetics-of-pahadi-brahminsrajputs/comments)
 
-2
+7
 
 [](javascript:void(0))
 
@@ -113,7 +122,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbfda1f8-3e49-457e-bb4b-309f737d60c8_1440x741.png)
 
-Genetics of Pahadi Brahmins/Rajputs?
+#### Genetics of Pahadi Brahmins/Rajputs?
 
 eruditus.substack.com
 
@@ -124,5 +133,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

@@ -2,8 +2,7 @@
 title = "The haplogroup is dead,"
 full_title = "The haplogroup is dead, long live the haplogroup!"
 upstream_url = "https://razib.substack.com/p/the-haplogroup-is-dead-long-live"
-date = "500-05-12"
-
+date = "2022-06-23"
 +++
 Source: [here](https://razib.substack.com/p/the-haplogroup-is-dead-long-live).
 

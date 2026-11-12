@@ -2,8 +2,7 @@
 title = "Here be humans"
 full_title = "Here be humans"
 upstream_url = "https://www.razibkhan.com/p/here-be-humans"
-date = "2000-02-05"
-
+date = "2021-06-27"
 +++
 Source: [here](https://www.razibkhan.com/p/here-be-humans).
 

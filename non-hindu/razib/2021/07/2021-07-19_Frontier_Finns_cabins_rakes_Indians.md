@@ -8,13 +8,29 @@ Source: [here](https://www.razibkhan.com/p/frontier-finns-cabins-rakes-and-india
 
 Frontier Finns: cabins, rakes & Indians
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32cac0db-4811-4dd2-adea-1c0fa6f87156_1068x534.png)
+
+#### Frontier Finns: cabins, rakes & Indians
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # Frontier Finns: cabins, rakes & Indians
 
 ### A history of Finnish genes and culture: part 5 of 6
 
-[](https://substack.com/@razib)
-
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
 
 [Razib Khan](https://substack.com/@razib)
 
@@ -22,17 +38,37 @@ Jul 19, 2021
 
 ∙ Paid
 
-20
+17
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32cac0db-4811-4dd2-adea-1c0fa6f87156_1068x534.png)
+
+#### Frontier Finns: cabins, rakes & Indians
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/frontier-finns-cabins-rakes-and-indians/comments)
 
 1
 
-1
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!uMKz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f57bc6c-1dde-4ce8-a139-a2c9effbba3a_800x507.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f57bc6c-1dde-4ce8-a139-a2c9effbba3a_800x507.jpeg)
 
-![](https://substackcdn.com/image/fetch/$s_!uMKz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f57bc6c-1dde-4ce8-a139-a2c9effbba3a_800x507.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f57bc6c-1dde-4ce8-a139-a2c9effbba3a_800x507.jpeg)
 
 Leningrad Cowboys Go America, Galveston, TX 1988. Photo: Marja-Leena Helin
 

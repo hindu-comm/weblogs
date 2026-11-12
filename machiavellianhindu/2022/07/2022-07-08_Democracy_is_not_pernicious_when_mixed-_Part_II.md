@@ -1,59 +1,470 @@
 +++
 title = "Democracy is not"
 full_title = "Democracy is not pernicious, when mixed Part II"
-date = "2022-07-08"
 upstream_url = "https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329"
-
+date = "2022-07-08"
 +++
 Source: [here](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329).
 
 Democracy is not pernicious, when mixed- Part II
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1622b271-3079-4334-94d7-8f7b2c32bcd1_600x420.jpeg)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-#### Democracy is not pernicious, when mixed- Part II
+<div class="modal-table">
 
-machiavellianhindu.substack.com
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(87,54,45,0.75), rgba(87,54,45,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!BXzz!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1622b271-3079-4334-94d7-8f7b2c32bcd1_600x420.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Saṃyuktatripathasyanīti
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Democracy is not pernicious, when mixed- Part II
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Democracy is not pernicious, when mixed- Part II
 
 ### An introduction to mixing, analysis of constitutions, and a discourse on factions
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)](https://substack.com/profile/48226124-machiavellian-hindu?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
 
-[Machiavellian Hindu](https://substack.com/profile/48226124-machiavellian-hindu)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Jul 8, 2022
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
+
+[](https://substack.com/@machiavellianhindu)
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Machiavellian Hindu">
+
+![Machiavellian Hindu's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
+
+[Machiavellian Hindu](https://substack.com/@machiavellianhindu)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+Jul 08, 2022
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
 
 1
 
-[](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329/comments)[](javascript:void(0))
+</div>
 
-Share this post
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1622b271-3079-4334-94d7-8f7b2c32bcd1_600x420.jpeg)
+<div class="modal-table">
 
-#### Democracy is not pernicious, when mixed- Part II
+<div class="modal-row">
 
-machiavellianhindu.substack.com
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(87,54,45,0.75), rgba(87,54,45,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!BXzz!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1622b271-3079-4334-94d7-8f7b2c32bcd1_600x420.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Saṃyuktatripathasyanīti
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Democracy is not pernicious, when mixed- Part II
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
 
 *Part 1 can be read [here](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when?sd=pf)*
 
@@ -77,11 +488,13 @@ Nevertheless, we should consider, as a standard for democracy, the eleven featur
 
 Of the Licchavi, we get some information from the Tibetan dulva, that the inhabitants of Vaiśālī had 42000 houses divided into three districts in those times, where the main rulers were around 7000 men, 14000 men constituted the officials and 21000 men constituted the rest of the populace. Similar to this 7000, we get the ubiquitous legendary figure of 7707 kings from the Ekapanna Jataka.
 
-Nevertheless, the data available to us, inferred or actual, especially from Dr. R.C. Majumdar's work on corporations tells us that these seven thousand or so kings belonged to just one clan, since we do not see more clan names linked in one city, and even if we took the entire leagues of these states as one state, it still shows that it was not democratic. In our country, especially among the Brāhmaṇa-s and Rājaputra-s, and likely among many other jāti-s, we have systems of finer clan divisions, of khaṁp, nakha and so on. This is also seen among the Athenians, where the phratry and genos system points to an analogous feature. A φρᾱτρῐ́ᾱ was a system which was based on a common link between many γένη and the latter were based on common ancestry from a hero and common religious rites. One can never fail to see striking similarities in this way, among these institutions and Indian ones.
+Nevertheless, the data available to us, inferred or actual, especially from Dr. R.C. Majumdar's work on corporations tells us that these seven thousand or so kings belonged to just one clan, since we do not see more clan names linked in one city, and even if we took the entire leagues of these states as one state, it still shows that it was not democratic. In our country, especially among the Brāhmaṇa-s and Rājaputra-s, and likely among many other jāti-s, we have systems of finer clan divisions, of khaṁp, nakha and so on. This is also seen among the Athenians, where the phratry and genos system points to an analogous feature. A φρᾱτρῐ́ᾱ was a system which was based on a common link between many γένη and the latter were based on common ancestry from a hero and common religious rites. One can never fail to see striking similarities in this way, among these institutions and Indian ones.
 
 But Dr. Majumdar makes some errors in his judgement, and specifically, of attributing representative democracy to Athens, which is false in toto. Maybe his assertion is due to the assembly not being composed of every citizen in Athens during the four monthly sessions, and since it was always a part which participated, maybe he infers wrongly that the ones who did were representatives, if he calls the citizens participating in the ekklesia as representatives in the sense of modern parliamentarians, though he correctly remarks that the demes were miniatures of the greater city, but beyond this he states, along with many other authors, contemporary and ancient, that India had many democratic states in antiquity. Of antiquity let the words of Strabo be enough:
 
-> Generally speaking, the men who have written on the affairs of India were a set of liars >
+> Generally speaking, the men who have written on the affairs of India
+> were a set of liars
+>
 > -Strabo, Geography
 
 This claim of democratic states is fallacious and one probable cause is that these modern scholars were not extremely familiar with western political theory and did not consider constitutions like the Athenian, Roman or the Spartan as the benchmarks for democratic elements after establishing soundly, a theory of government types. While we know of some democratic notions, like the words of Aitareya Brāhmaṇa which say that uttara kuru and uttara madra had the entire populace dedicated to kingship, and this has uncanny resemblance to Aristotle's statement that the people together becomes a monarch in a democracy, one individual composed of many, this is not enough to ascertain everything, since the working of these states is not very well attested in archaeological or cultural records, and all that we know of them is tentative. Now as we move to real world examples, it will be clear.
@@ -128,38 +541,83 @@ And now, let us turn to the question of factions, for they result from a bad mix
 
 Factions are held to be pernicious by everyone who deals with preservation of republics, and especially Machiavelli and Aristotle. As such, the root of factions is considered to be inequality. It works in two ways, as seen in Aristotle's work.
 
-> Inequality is the root of factions. Those who have less, resort to > faction, and do so if they believe themselves to be equals to the > rich. Those who are rich resort to faction if they feel themselves to > be lesser or equal to the others. These feelings are just at times and > unjust at times. The inferior take to factions for equality, and the equals for greatness over the others. Factions are stirred up for honour and profit, and to avoid dishonour and loss, whether it be for self or for others. >
+> Inequality is the root of factions. Those who have less, resort to
+> faction, and do so if they believe themselves to be equals to the
+> rich. Those who are rich resort to faction if they feel themselves to
+> be lesser or equal to the others. These feelings are just at times and
+> unjust at times. The inferior take to factions for equality, and the
+> equals for greatness over the others. Factions are stirred up for
+> honour and profit, and to avoid dishonour and loss, whether it be for
+> self or for others.
+>
 > Aristotle, Politics
 
 Below, one can see what the causes of factions are, as written in Aristotle's Politics.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F683ee223-3d08-4399-8f22-03c69546b847_1080x945.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F257661b5-26af-40c8-b585-2b5e7c7a4121_1080x1508.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!cDHG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F683ee223-3d08-4399-8f22-03c69546b847_1080x945.jpeg)
+
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!AmFN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F257661b5-26af-40c8-b585-2b5e7c7a4121_1080x1508.jpeg)
+
+</div>
 
 Machiavelli explains to us in his work The Prince, that:
 
-> Our ancients, and those who were esteemed wise, used to say that it > was necessary to hold Pistoia with parties and Pisa with fortresses; > and because of this they nourished differences in some towns subject > to them, so as to hold them more easily. In times when Italy was in > balance in a certain mode, holding cities by factions would have been > good to do, but I do not believe that one could give it today as a > teaching. For I do not believe that divisions ever do any good; on the contrary, when the enemy approaches, of necessity divided cities are immediately lost, because the weaker party always joins the external forces and the other will not be able to rule. >
+> Our ancients, and those who were esteemed wise, used to say that it
+> was necessary to hold Pistoia with parties and Pisa with fortresses;
+> and because of this they nourished differences in some towns subject
+> to them, so as to hold them more easily. In times when Italy was in
+> balance in a certain mode, holding cities by factions would have been
+> good to do, but I do not believe that one could give it today as a
+> teaching. For I do not believe that divisions ever do any good; on the
+> contrary, when the enemy approaches, of necessity divided cities are
+> immediately lost, because the weaker party always joins the external
+> forces and the other will not be able to rule.
+>
 > Machiavelli, The Prince
 
-> Such modes, therefore, imply weakness in the prince. For in a vigorous > principality such divisions are never permitted, because they bring profit only in time of peace, as subjects can be managed more easily through them; but when war comes, such an order shows its own fallaciousness. >
+> Such modes, therefore, imply weakness in the prince. For in a vigorous
+> principality such divisions are never permitted, because they bring
+> profit only in time of peace, as subjects can be managed more easily
+> through them; but when war comes, such an order shows its own
+> fallaciousness.
+>
 > Machiavelli, The Prince
 
 Though this relates to provinces of principalities, it demonstrates to us that factions are pernicious, for they will always pose danger when you are confronted with an enemy.
 
 Han Fei tells us in his work Han Feizi, in the context of King Hsüan of Han, choosing between Kung Shu and Kung Chung, that:
 
-> "Now suppose Your Majesty employ both of them. Then the more powerful > one will form his own faction inside while the less powerful one will > count on foreign influence. Among the body of officials, if there are > some forming factions inside and thereby acting arrogant towards the sovereign and some others cultivating friendships with foreign states and thereby causing territorial dismemberment, then Your Majesty’s state will be jeopardized" >
+> "Now suppose Your Majesty employ both of them. Then the more powerful
+> one will form his own faction inside while the less powerful one will
+> count on foreign influence. Among the body of officials, if there are
+> some forming factions inside and thereby acting arrogant towards the
+> sovereign and some others cultivating friendships with foreign states
+> and thereby causing territorial dismemberment, then Your Majesty’s
+> state will be jeopardized"
+>
 > Han Feizi, Collected Persuasions: The Upper Series
 
 Also, in the chapter on pretensions and heresies:
 
-> It was the states to the east of Mount Hua whose officials formed factions, associated for selfish purposes and thereby obscured the right way of government and committed crookedness in secret, and whose territories were dismembered and sovereigns humiliated. >
+> It was the states to the east of Mount Hua whose officials formed
+> factions, associated for selfish purposes and thereby obscured the
+> right way of government and committed crookedness in secret, and whose
+> territories were dismembered and sovereigns humiliated.
+>
 > Han Feizi, On Pretensions and Heresies
 
 And finally in the chapter on wielding the sceptre:
 
-> "Any ruler wishing to give peace to the state must disperse the partisans of powerful ministers. If he does not disperse their partisans, they will enlarge their parties" >
+> "Any ruler wishing to give peace to the state must disperse the
+> partisans of powerful ministers. If he does not disperse their
+> partisans, they will enlarge their parties"
+>
 > Han Feizi, Wielding the Sceptre
 
 Let these be enough as to the nature of what factions may lead us to.
@@ -168,13 +626,25 @@ As it is now clear, that factions lead to ruin of sovereignty, let us see what d
 
 Of Democracies:
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5b10a45-d305-47c1-88a4-4a38384e868c_1732x773.jpeg)
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!NjHd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5b10a45-d305-47c1-88a4-4a38384e868c_1732x773.jpeg)
+
+</div>
 
 Of Oligarchies:
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F687a21bf-c879-4c90-8617-572a70407eb6_1073x588.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa932ec96-2741-475e-b337-a5f7aba677ae_2107x839.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!wmp4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F687a21bf-c879-4c90-8617-572a70407eb6_1073x588.jpeg)
+
+</div>
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!KlOB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa932ec96-2741-475e-b337-a5f7aba677ae_2107x839.jpeg)
+
+</div>
 
 Kautilya counsels in his work Arthaśāstra, Book XI, ways to cause factions in the gaṇarājya-s as well, and his methods in brief consist of incitement over petty things, causing quarrels over the distinction of rank, causing the ceasing of common meals, causing common meals to be taken with those who are not considered to be equals in rank, and in stirring tumults by planting seeds of suspicion about raising inferiors to a higher rank, and generating favour for any prince who was deposed.
 
@@ -186,7 +656,21 @@ In all these things, his goal is to create inequality and suspicion among men, a
 
 Machiavelli on the lines of what Kautilya advises, says this:
 
-> For the causes of division in a commonwealth are, for the most part, > ease and tranquillity, while the causes of union are fear and war. > Wherefore, had the Veientes been wise, the more divided they saw Rome > to be, the more should they have sought to avoid war with her, and > endeavoured to gain an advantage over her by peaceful arts. And the > best way to effect this in a divided city lies in gaining the > confidence of both factions, and in mediating between them as arbiter > so long as they do not come to blows; but when they resort to open > violence, then to render some tardy aid to the weaker side, so as to > plunge them deeper in hostilities, wherein both may exhaust their > forces without being led by your putting forth an excess of strength to suspect you of a desire to ruin them and remain their master. Where this is well managed, it will almost always happen that you succeed in effecting the object you propose to yourself. >
+> For the causes of division in a commonwealth are, for the most part,
+> ease and tranquillity, while the causes of union are fear and war.
+> Wherefore, had the Veientes been wise, the more divided they saw Rome
+> to be, the more should they have sought to avoid war with her, and
+> endeavoured to gain an advantage over her by peaceful arts. And the
+> best way to effect this in a divided city lies in gaining the
+> confidence of both factions, and in mediating between them as arbiter
+> so long as they do not come to blows; but when they resort to open
+> violence, then to render some tardy aid to the weaker side, so as to
+> plunge them deeper in hostilities, wherein both may exhaust their
+> forces without being led by your putting forth an excess of strength
+> to suspect you of a desire to ruin them and remain their master. Where
+> this is well managed, it will almost always happen that you succeed in
+> effecting the object you propose to yourself.
+>
 > Niccolò Machiavelli, Discourses on Livy, Book 2, Chapter 26
 
 Yet, these tactics would fail, if liberty and equality were made cornerstones of constitutional governments and of the gaṇarājya-s as well, and it is seen in the affairs of Rome and Sparta, where as long as factions were kept away by maintaining liberty and equality among men, they could not be destroyed from within, or without.
@@ -195,20 +679,50 @@ One sees the failure of seizing a divided city with Rome, when the Veientes atta
 
 Machiavelli again tells us in his discourses that:
 
-> Thus this conclusion may be drawn from this discourse: that he who > wishes to make a republic where there are very many gentlemen cannot > do it unless he first eliminates all of them; and that he who is where > there is very much equality and wishes to make a kingdom or a > principality will never be able to make it unless he draws from that > equality many of ambitious and unquiet spirit and makes them gentlemen > in fact, and not in name, granting them castles and possessions and > giving them favor in belongings and men. So placed in the midst of them, through them he maintains his power, and they, through him, maintain their ambition. The others are constrained to endure the yoke that force, and never anything else, can make them endure. >
+> Thus this conclusion may be drawn from this discourse: that he who
+> wishes to make a republic where there are very many gentlemen cannot
+> do it unless he first eliminates all of them; and that he who is where
+> there is very much equality and wishes to make a kingdom or a
+> principality will never be able to make it unless he draws from that
+> equality many of ambitious and unquiet spirit and makes them gentlemen
+> in fact, and not in name, granting them castles and possessions and
+> giving them favor in belongings and men. So placed in the midst of
+> them, through them he maintains his power, and they, through him,
+> maintain their ambition. The others are constrained to endure the yoke
+> that force, and never anything else, can make them endure.
+>
 > Niccolò Machiavelli, Discourses on Livy, Book 1, Chapter 55
 
 Who these gentlemen are, is said in the same chapter:
 
-> Those republics in which a political and uncorrupt way of life is > maintained do not endure that any citizen of them either be or live in > the usage of a gentleman; indeed, they maintain among themselves an > even equality, and to the lords and gentlemen who are in that province they are very hostile. If by chance some fall into their hands, they kill them as the beginnings of corruption and the cause of every scandal. >
-> To clarify this name of gentlemen such as it may be, I say that those > are called gentlemen who live idly in abundance from the returns of > their possessions without having any care either for cultivation or > for other necessary trouble in living. Such as these are pernicious in every republic and in every province, but more pernicious are those who, beyond the aforesaid fortunes, command from a castle and have subjects who obey them. >
+> Those republics in which a political and uncorrupt way of life is
+> maintained do not endure that any citizen of them either be or live in
+> the usage of a gentleman; indeed, they maintain among themselves an
+> even equality, and to the lords and gentlemen who are in that province
+> they are very hostile. If by chance some fall into their hands, they
+> kill them as the beginnings of corruption and the cause of every
+> scandal.
+>
+> To clarify this name of gentlemen such as it may be, I say that those
+> are called gentlemen who live idly in abundance from the returns of
+> their possessions without having any care either for cultivation or
+> for other necessary trouble in living. Such as these are pernicious in
+> every republic and in every province, but more pernicious are those
+> who, beyond the aforesaid fortunes, command from a castle and have
+> subjects who obey them.
+>
 > -Niccolo Machiavelli, Discourses on Livy, Book 1, Chapter 55
 
 And from this, we draw the conclusion, that the great indeed stir up faction more than the masses, for as we have seen it in part 1, that so great is the ambition of the great, that it soon brings to ruin a city if it is not beaten down by various ways and modes.
 
 This is further corroborated by Aristotle, who says that :
 
-> Democracy is safer and less liable to faction than Oligarchy. In > oligarchies, two factions arise, one between the oligarchs and the people, and one of the oligarchs among themselves. In democracies, on the other hand, the only faction that arises is against oligarchy; internal faction within a democracy virtually never occurs. >
+> Democracy is safer and less liable to faction than Oligarchy. In
+> oligarchies, two factions arise, one between the oligarchs and the
+> people, and one of the oligarchs among themselves. In democracies, on
+> the other hand, the only faction that arises is against oligarchy;
+> internal faction within a democracy virtually never occurs.
+>
 > Aristotle, Politics, Book V
 
 But the terms of liberty and equality, which bring with them vice today, may be distasteful to the virtuous man, yet, such liberty and equality must be pursued, which keeps constitutions safe and sound, since history tells us that with liberty and equality, Rome maintained her Republic until Caesar, and so did Athens, after multiple struggles against tyrants and oligarchs until the Macedonians subdued her, and Sparta until the Romans absorbed her.
@@ -219,24 +733,270 @@ In our times, and in our fatherland, we see the causes of factions as not having
 
 The question is to us then: Do we the people wish to live divided until we cease to be in associations, or do we wish to live with our fellows, and not as lords and slaves, or kings and subjects, but as friends and relatives, as equals?
 
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
 If you have found this post interesting, like, comment, and subscribe by entering your email below, to receive updates
 
-**Subscribe**
+</div>
 
-[](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329/comments)[](javascript:void(0))
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-Share this post
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1622b271-3079-4334-94d7-8f7b2c32bcd1_600x420.jpeg)
+<div class="container-IpPqBD">
 
-#### Democracy is not pernicious, when mixed- Part II
+<div class="sideBySideWrap-vGXrwP">
 
-machiavellianhindu.substack.com
+<div class="emailInputWrapper-QlA86j">
+
+<div class="pencraft pc-display-flex pc-minWidth-0 pc-position-relative pc-reset flex-auto-j3S2WA">
+
+</div>
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+1
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(87,54,45,0.75), rgba(87,54,45,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!BXzz!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1622b271-3079-4334-94d7-8f7b2c32bcd1_600x420.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;">
+
+<div class="pencraft pc-display-flex pc-width-18 pc-height-18 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:18px;" title="User">
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!552f!,w_18,h_18,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb79063-0d16-496d-8661-dc7c965a4b53_400x400.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Saṃyuktatripathasyanīti
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
+
+Democracy is not pernicious, when mixed- Part II
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://machiavellianhindu.substack.com/p/democracy-is-not-pernicious-when-329/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

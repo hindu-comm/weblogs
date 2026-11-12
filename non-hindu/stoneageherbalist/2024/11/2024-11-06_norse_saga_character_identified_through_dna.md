@@ -2,8 +2,7 @@
 title = "Norse Saga Character"
 full_title = "Norse Saga Character Identified Through DNA?"
 upstream_url = "https://www.stoneageherbalist.com/p/norse-saga-character-identified-through"
-date = "800-03-19"
-
+date = "2024-11-06"
 +++
 Source: [here](https://www.stoneageherbalist.com/p/norse-saga-character-identified-through).
 

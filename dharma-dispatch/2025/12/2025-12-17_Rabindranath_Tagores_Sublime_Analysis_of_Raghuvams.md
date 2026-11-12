@@ -20,7 +20,7 @@ Rabindranath Tagore’s Sublime Analysis of Raghuvamsha and Kumarasambhava
 
 Dec 17, 2025
 
-2
+3
 
 1
 
@@ -44,7 +44,7 @@ Share
 
 ·
 
-Dec 11
+December 11, 2025
 
 [](https://thedharmadispatch.substack.com/p/rabindranath-tagores-exposition-of)
 
@@ -60,7 +60,7 @@ Read full story
 
 ·
 
-Dec 13
+December 13, 2025
 
 [](https://thedharmadispatch.substack.com/p/kalidasa-as-the-representative-poet)
 
@@ -116,10 +116,12 @@ Passion is addiction to a part and blindness to the whole. But Shiva (literally,
 
 [DONATE TO THE DHARMA DISPATCH](https://pages.razorpay.com/DonatetoDD)
 
-2
+3
 
 1
 
 Share
 
 Previous
+
+Next

@@ -2,8 +2,7 @@
 title = "Life comes at you fast,"
 full_title = "Life comes at you fast, part 1"
 upstream_url = "https://razib.substack.com/p/life-science-comes-at-you-fast-part"
-date = "2000-04-12"
-
+date = "2022-02-24"
 +++
 Source: [here](https://razib.substack.com/p/life-science-comes-at-you-fast-part).
 

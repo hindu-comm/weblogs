@@ -2,8 +2,7 @@
 title = "You’re so Turk and you"
 full_title = "You’re so Turk and you don’t even know it"
 upstream_url = "https://www.razibkhan.com/p/youre-so-turk-and-you-dont-even-know"
-date = "500-01-01"
-
+date = "2023-06-24"
 +++
 Source: [here](https://www.razibkhan.com/p/youre-so-turk-and-you-dont-even-know).
 

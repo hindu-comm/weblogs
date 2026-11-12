@@ -1,71 +1,374 @@
 +++
 title = "Getting a sense of the"
 full_title = "Getting a sense of the Russian soul"
+upstream_url = "https://www.razibkhan.com/p/getting-a-sense-of-the-russian-soul"
 date = "2022-03-08"
-upstream_url = "https://razib.substack.com/p/getting-a-sense-of-the-russian-soul"
-
 +++
-Source: [here](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul).
+Source: [here](https://www.razibkhan.com/p/getting-a-sense-of-the-russian-soul).
 
 Getting a sense of the Russian soul
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
 
-Getting a sense of the Russian soul
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Getting a sense of the Russian soul
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Getting a sense of the Russian soul
 
 ### Looking into Russian genetics and history (not through Putin’s eyes)
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Mar 8
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-107
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul/comments)
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
 
-31
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
 
-[](javascript:void(0))
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+Mar 8, 2022
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+127
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
 
-Getting a sense of the Russian soul
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Getting a sense of the Russian soul
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/getting-a-sense-of-the-russian-soul/comments)
+
+<div class="label">
+
+31
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/getting-a-sense-of-the-russian-soul?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 For many of us actual Cold War kids, the Soviet Union, the Eastern Bloc and the battle between capitalism and global communism were just background conditions of our youth. But at least in the United States, what we really talked about wasn’t the Soviets or the communists so much as the “Russians,” conflating the dominant Soviet ethnicity with the whole nation. Though Russians were only 50% of the population of the Soviet Union, Russian language and culture dominated the USSR. Despite being the bulwark of international communism, by the time Josef Stalin led it in the 1930’s, the Soviet Union was for all practical purposes the heir of the Russian Empire. This is how a prominent Stalin expert could refer to his subject as the “[Red Tsar](https://www.amazon.com/exec/obidos/ASIN/B004ZDH10A/geneexpressio-20).”
 
@@ -93,9 +396,25 @@ Putin's behavior is obviously beyond the pale, but what do you do from this vant
 
 In the end, perhaps you can argue that one costless gesture is as good as any other. Maybe so. You get to feel slightly less passive while alas changing little or nothing for the good people of Ukraine. My personal tastes don't really run to these symbolic gestures, but I share a need to do something germane, even knowing it won’t make any immediate difference. First up, books, of course. [Here](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/1YMRC447WSS5S?type=explore) is a reading list as many have requested, to go deeper on the history of the region. And second, what follows is my attempt to actually contribute new analysis to the conversation about Russia and the former Soviet republics stuck in its orbit: a closer look at what 21st-century genomics can add to our understanding of the last millennium or so of human history across Russia, Ukraine and their neighbors.
 
+<div class="captioned-image-container">
+
 ![Visualization of between-population genetic distance (Fst)](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca62aabb-c65f-4455-9abe-326cbad49b96_891x304.png)
 
+</div>
+
 ### **The genetic goulash that is Russia**
+
+<div id="§the-genetic-goulash-that-is-russia" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/49930222/the-genetic-goulash-that-is-russia">
+
+</div>
+
+</div>
+
+</div>
 
 To understand the position of Russians in the context of Eastern Europe and Asia, as well the demographic forces that shaped them and their neighbors, I wanted to explore patterns of genetic relatedness across various populations. I began with 478 Russians, and compared them to 419 Poles and 142 Ukrainians (the next two most populous northern Slavic groups). I also wanted to explore the relationship of Eastern Europeans to nations to their west, so I added 91 English, 99 Finns and 13 Germans to represent Northern Europeans, plus 20 Greeks and 28 Sardinians to represent Southern Europeans. The 19 Serbians are a South Slav group, and offer a check on whether there is anything distinct about Slavic ancestry. The 15 Karelians are a Finnic group on the Russian side of today’s border with Finland, while the 15 Mari represent a Finnic group located on the western slopes of the Ural mountains. I added these far northern ethnicities to see if there is a Uralic cluster analogous to a Slavic one, and also to test possible contributions of this element to Russian ancestry. Finally, I included 30 Georgians, 23 Tatars, 12 Mongols and 28 Yakuts in order to detect possible non-European ancestry in the Europeans.
 
@@ -107,7 +426,11 @@ The Poles, Germans and Ukrainians are so close on this plot the differentiation 
 
 This brings us to the Russians. Unlike the Poles and Ukrainians, they do not cluster with the Germans. Rather, they are positioned more toward the eastern populations. This is in keeping with the fact that Russians did spread eastward (and north) from their East Slavic neighbors. They are shifted toward Tatars but are clearly distinct, *contra* 19th-century Western European Russophobic [assertions](https://www.thecrimson.com/article/1922/5/3/scratch-a-russian-pthe-soviets-delegation/#:~:text=Napoleon's%20famous%20saying%2C%20%22Scratch%20a,nomadic%20tribes%20of%20the%20Steppes.) that if you “scratch a Russian you will find a Tatar.” But this is a population-wide summary that masks and hides variation within populations. Let’s next look at the individuals using principal component analysis (PCA), where genetic variation is plotted on two dimensions:
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea24b90f-56cf-4c6f-aec9-f42b38a71460_1456x931.png)
+
+</div>
 
 This plot is more informative than the tree. Each individual is positioned on the chart based on genetic relatedness, with genetic similarity from person to person represented and color-coded by population cluster. The x-axis is a west-to-east plane geographically (European to East-Asian, running left to right), while the y-axis is a north-south axis, within both Europe and Asia. You can see that some of the populations appear cleanly as discrete clusters. This is the case with Georgians and Sardinians, whereas Greeks and Serbians both show a stretched-out range with variable levels of affinity to Northern Europeans. This reflects early medieval Slavic admixture that resulted in Serbians emerging as a Slavic-speaking Balkan population, a fusion of natives and migrants, while many northern Greeks from Thessaly have clear Slavic ancestry despite their fully Hellenic culture.
 
@@ -121,7 +444,11 @@ But a quick look back at the PCA plot shows that even more numerous than the Rus
 
 To further illustrate Russian genetic variation, I created an admixture plot to model all the individuals’ mixes of ancestry. The modeling software requires a presupposition about a number of ancestral populations, which I set to “at most four.” The algorithm simply looks at the whole population’s genetic variation, breaks it into however many clusters you decree, and then assigns individual proportions to each cluster based on the sample’s genes. For the purposes of this graphic I selected four clusters, trusting this would break out the Asian ancestry, as well as various directionalities in European ancestry (Southern, Northern and Eastern).
 
+<div class="captioned-image-container">
+
 ![ADMIXTURE K = 4 populations, each narrow line is an individual, clustered by population](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fa4e3c4-6f5b-4a08-a127-bd175489aac6_1600x720.png)
+
+</div>
 
 I’ve given tentative labels to the four broader clusters based on which populations they appear most commonly in. Remember, these are abstractions that the algorithm generated, but the relative cluster membership patterns are useful in exploring comparative differences in ancestry composition.
 
@@ -129,9 +456,25 @@ Just as on the PCA and genetic-distance tree, Ukrainians and Poles are very simi
 
 This general picture of Russian cosmopolitanism compared to Ukrainians and Poles is also evident in the paternal lineages, passed from father to son. Looking at a much broader dataset than just my 500 Russians, nearly 25% of the [Y chromosomes](https://www.eupedia.com/europe/european_y-dna_haplogroups.shtml) from the Russian Federation are haplogroup N. This haplogroup is associated with Finnic people (80% frequency in Finnish men, for comparison), while only 5% of men in Poland and Ukraine carry this lineage. This indicates that whole forager communities culturally assimilated, including their elites. It was not simply a matter of southern Slavic men finding wives from collapsing local communities.
 
+<div class="captioned-image-container">
+
 ![Kievan Rus at its peak](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F447c619e-dc33-4816-a7b1-dbfc1a56685a_1090x775.png)
 
+</div>
+
 ### **From Rus to Russia**
+
+<div id="§from-rus-to-russia" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/49930222/from-rus-to-russia">
+
+</div>
+
+</div>
+
+</div>
 
 If there is any Tsar Westerners know by name, it is usually the westward-focused Peter the Great, famous for dragging Russia into the community of European nations. Before Peter, the Russian Empire looked (and expanded) eastward, rather than west. But this had not always been the case with the East Slavic world, as the rulers of 11th-century Kievan Rus cultivated marital alliances with Western European powers (a Russian princess became the mother of 11th-century French kings).
 
@@ -143,9 +486,25 @@ As is clear from genetics, history and geography, unlike Ukraine or Poland, Russ
 
 Russia and Ukraine have many similarities, both superficially and substantively, but politically comparing them is a category error. At the United Nations, they are both present as nation-states, but the Russian Federation is a multiethnic and multireligious empire that is clearly heir to the Russia of the Tsars. Putin’s long-time [girlfriend](https://www.the-sun.com/news/1601251/alina-kabaeva-vladimir-putin-girlfriend/) is a woman of Tatar Muslim background who [converted](https://www.kp.ru/daily/23016/3153/) to Russian Orthodoxy in 2003, a classic case in a long history of mixing between Russians and Turkic steppe people. Russia inherits a tumultuous history with disparate threads that stretch back more than 1,000 years. Ukraine, in contrast, is a self-made nation, new to the world in this form. It is a 21st-century heir to 19th-century European linguistic nationalism, its elites’ sensibilities being forged in this century through existential conflict with Russia and alliance with the West, as they consciously abandon the Russian language they were taught in schools in favor of Ukrainian.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42da7e3b-b81e-4170-b36f-8292a4a2b329_773x557.png)
 
+</div>
+
 ### **The Empire Strikes Back**
+
+<div id="§the-empire-strikes-back" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://www.razibkhan.com/i/49930222/the-empire-strikes-back">
+
+</div>
+
+</div>
+
+</div>
 
 In the lead-up to Russia’s invasion of Ukraine, Putin reiterated his position that Ukraine was simply part of historic Russia, with shared roots going back to Kievan Rus and no history of independent political existence. It is true that Ukraine is a new nation-state, analogous to modern Finland or Lithuania, both of which had been ruled by ethnically exogenous elites for centuries (Swedes and Poles, accordingly). But Putin conveniently ignores that modern Ukrainians share one thing with many of their western neighbors that Russians do not: they are not an imperial people. After the chaos of World War I, numerous small-to-medium-sized ethnostates were carved out of the interstices between the former Russian and Austro-Hungarian Empires, and Ukraine resembles these more than it does the hulking Russian Federation to its north and east. An entity being new in the world does not mean it is any less real. Putin may be wishfully conflating antiquity with authenticity.
 
@@ -153,28 +512,186 @@ The Russians grew out of the cultural and historical ashes of Kievan Rus. While 
 
 It turns out that Putin’s often quixotic espousal of a [Eurasian](https://www.theguardian.com/world/shortcuts/2014/feb/18/brief-primer-vladimir-putin-eurasian-union-trade) geopolitical and cultural vision faithfully reflects a stubborn historical strand that has marked the modern Russian soul. Ukraine, despite its strong ethnic, linguistic and religious commonalities with Russia, faces west and its national identity has never stood athwart two continents. Perhaps it is not surprising in hindsight that 20th-century global communism, with its multiethnic, imperial aspirations, was headquartered in Soviet Russia. Despite the prediction of orthodox Marxism that it should naturally emerge in the capitalist West, the 20th-century’s most imperial ideology gained purchase in the domains of the Russian Empire. Though at their root, Russians may be both genetically and culturally European, history has forged Russia into a civilization-state with a constitutive imperial ambition that will always clash with the more modest, cooperative aspirations of other peoples and nations. It may not have quite been inevitable, but where we are today should not surprise us. History may not be clockwork, but we can count on the past to echo long into the future. Whether we choose to listen or not is up to us.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul/comments)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-31
+<div class="_container_1xsdj_1">
 
-[](javascript:void(0))
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+127
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
 
-Getting a sense of the Russian soul
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Getting a sense of the Russian soul
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/getting-a-sense-of-the-russian-soul/comments)
+
+<div class="label">
+
+31
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -2,8 +2,7 @@
 title = "The 100yearwinter and"
 full_title = "The 100yearwinter and the coming of Ragnarök"
 upstream_url = "https://www.razibkhan.com/p/scandinavia-part-3"
-date = "100-02-05"
-
+date = "2023-03-05"
 +++
 Source: [here](https://www.razibkhan.com/p/scandinavia-part-3).
 

@@ -3,7 +3,6 @@ title = "Technical Learning,"
 full_title = "Technical Learning, Literary Education and Women Poets in the Vijayanagara Empire"
 upstream_url = "https://thedharmadispatch.substack.com/p/technical-learning-literary-education"
 date = "2023-03-23"
-
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/technical-learning-literary-education).
 
@@ -23,9 +22,25 @@ Facebook
 
 Email
 
-Notes
+Note
 
 Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f879df7-dc51-49b1-8b7e-a20fe00e2dcc_512x512.png)
+
+#### Discover more from The Dharma Dispatch Digest
+
+Stories and essays from Indian civilisation, history and culture. Narratives from Sanatana Dharma. This is the digest of the main site, https://www.dharmadispatch.in/, delivered directly to your email inbox.
+
+Over 8,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
 
 # Technical Learning, Literary Education and Women Poets in the Vijayanagara Empire
 
@@ -38,6 +53,24 @@ Other
 Mar 23, 2023
 
 5
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a0c4ab9-3e28-4904-b389-5dfa347a0a27_1419x925.jpeg)
+
+#### Technical Learning, Literary Education and Women Poets in the Vijayanagara Empire
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://thedharmadispatch.substack.com/p/technical-learning-literary-education/comments)
 
@@ -63,7 +96,7 @@ DVG gives us a brilliant glimpse into the exalted nature of this professional ma
 
 **The Dharma Dispatch Digest is a reader-supported publication.** To receive new articles and **to support the sacred work we’re doing**, consider becoming a paid subscriber.
 
-**Subscribe**
+Subscribe
 
 Given this, we can only imagine the quality and standard of professional and technical excellence that Vijayanagara had touched. Every foreign traveller who sojourned in its domains has left behind glowing accounts testifying to this truth. An incredible list of professions and trades are mentioned. Architecture, sculpture, bed-making, carpentry, smithy in gold, silver, bronze etc., decorators, gemologists, weapon-makers, ornament-makers, garland-makers, potters, tailors… *The* *Dharma Dispatch* has already published [an essay](https://www.dharmadispatch.in/history/the-wonderful-world-of-vipravinodins-the-forgotten-brahmanas-of-vijayanagara) on the *Vipra-Vinodins*, a special class of Brahmana jugglers who were the pride of the Vijayanagara Empire.
 
@@ -115,11 +148,29 @@ It has taken us months of sustained research, thorough preparation, loving writi
 
 To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
 
-**Subscribe**
+Subscribe
 
 ------------------------------------------------------------------------
 
 5
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a0c4ab9-3e28-4904-b389-5dfa347a0a27_1419x925.jpeg)
+
+#### Technical Learning, Literary Education and Women Poets in the Vijayanagara Empire
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
 
 [](https://thedharmadispatch.substack.com/p/technical-learning-literary-education/comments)
 

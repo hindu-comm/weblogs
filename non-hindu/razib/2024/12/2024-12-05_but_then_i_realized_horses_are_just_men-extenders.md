@@ -2,8 +2,7 @@
 title = "\"But then I realized"
 full_title = "\"But then I realized horses are just menextenders\""
 upstream_url = "https://www.razibkhan.com/p/but-then-i-realized-horses-are-just"
-date = "100-02-04"
-
+date = "2024-12-05"
 +++
 Source: [here](https://www.razibkhan.com/p/but-then-i-realized-horses-are-just).
 

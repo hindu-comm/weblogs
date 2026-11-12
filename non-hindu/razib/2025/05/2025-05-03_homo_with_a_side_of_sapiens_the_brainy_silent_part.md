@@ -2,8 +2,7 @@
 title = "Homo with a side of"
 full_title = "Homo with a side of sapiens the brainy silent partner we coopted 300,000 years ago"
 upstream_url = "https://www.razibkhan.com/p/homo-with-a-side-of-sapiens-the-brainy"
-date = "300-06-26"
-
+date = "2025-05-03"
 +++
 Source: [here](https://www.razibkhan.com/p/homo-with-a-side-of-sapiens-the-brainy).
 

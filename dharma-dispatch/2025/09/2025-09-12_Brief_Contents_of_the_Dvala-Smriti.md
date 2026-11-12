@@ -20,9 +20,7 @@ Brief Contents of the Dēvala-Smriti
 
 Sep 12, 2025
 
-∙ Paid
-
-11
+10
 
 [](https://thedharmadispatch.substack.com/p/brief-contents-of-the-devala-smriti/comments)
 
@@ -136,13 +134,111 @@ Sep 10
 
 Read full story
 
-THE VERY FACT that the *Dēvala-Smriti* was composed in the tenth century CE shows how vigilant the Hindu society was in the matter of safeguarding itself against a new and deadly threat whose true nature it was only beginning to fathom. The swiftness of the response in the form of this Smriti is truly remarkable even at this distance…
+THE VERY FACT that the *Dēvala-Smriti* was composed in the tenth century CE shows how vigilant the Hindu society was in the matter of safeguarding itself against a new and deadly threat whose true nature it was only beginning to fathom. The swiftness of the response in the form of this Smriti is truly remarkable even at this distance in time.
 
-## This post is for paid subscribers
+It becomes even more admirable when we recall the fact that no Hindu, Bauddha, or Jaina had ever espoused Islam before Muhammad bin Qasim’s maiden raid in Sindh. Both during and in the aftermath of his raid, the only method by which a Hindu could become a Muslim was through force. There is absolutely no evidence to show that any Sanatani had voluntarily embraced Islam until Qasim rudely shattered the natural rhythms of the Sanatana society.
+
+In fact, a constant refrain in the *Dēvala-Smriti* is the “violent carrying away” of Hindus by the Mlecchas. This heartless train of bigotry remains unstopped till date — most glaringly in Bengal and Kerala, and until recently, in Uttar Pradesh.
 
 Subscribe
 
-[Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Fbrief-contents-of-the-devala-smriti&for_pub=thedharmadispatch&change_user=false)
+## **Revelations from the** ***Dēvala-Smriti***
+
+Another eye-opening revelation in the *Dēvala-Smriti* is the mention of a *Mleccha-Sabha* or a conference of Muslims that was held in the Sindh region. The Smriti further says that it was mandatory for Hindus to undergo purification if they had merely attended that Sabha. It also taboos two specific regions for Hindus: Sindhu and Sauvira. In general, these two correspond to today’s Mansura and Multan — both are located in Pakistan. Devala Muni says that any Hindu who visited these regions became instantly polluted and had to compulsorily undergo *Shuddhi* when he returned.
+
+Elsewhere, the *Dēvala-Smriti* tells us of a mass *Śud'dhīkaraṇa* ceremony that occurred as early as in the second decade of the eighth century; such ceremonies went on continuously till the advent of Muhammad Ghori and the consequent establishment of the so-called Delhi Sultanate. In a masterly essay in the July 1933 issue of *The Indian Review,* Dr. A.S. Altekar expounds upon this phenomenon brilliantly.
+
+These recurrent episodes of *Ghar-Wapsi* inflamed the Muslim chroniclers to no end. They were furious over the fact that the accursed idol-worshippers obstinately refused to accept the supremacy of Islam despite being converted; even worse, they apostatised at the first opportunity they got. To invoke the words of D.R. Bhandarkar again,
+
+> "That this picture of mass *Shuddhi* depicted in our Smriti is real
+> and not imaginary may be seen from what the Muhammadan historians
+> themselves have written about this matter…To take one instance, during
+> the Caliphate of Hisham (A.D. 724-43), Junaid was governor of Sind. It
+> was he who sent expeditions into the interior of India and spread
+> terror in Rajputana and Gujrat. Junaid was succeeded by Tamim, and the
+> latter by Hasim. While Hasim was the governor, says Baladhuri, the
+> people of Al-Hind apostatized and returned to idolatry…This means that
+> **all the Hindus, who had become Muslims in the parts of India
+> subjected to the Islam power, again became Hindus as soon as this
+> power crumpled up**…there can be no doubt that *Shuddhi* was in
+> unabated vigour even in the time of Al-Beruni…how else could he be
+> told, not once but **repeatedly**, that Hindu slaves became Hindus
+> again on return to their country?…There is therefore nothing
+> surprising if the… Muhammadans who were originally Hindus are taken
+> back into the Hindu fold…" \[Emphasis added\]
+
+All these episodes of *Śud'dhīkaraṇa* or *Ghar-wapsi* unambiguously demonstrate a fundamental socio-historical truth: that the all-encompassing nature of the *Dēvala-Smriti* extended to *all* Hindus — male and female, aged from eleven to eighty years, whether they were healthy or diseased.
+
+Devala Muni clearly left nothing to chance.
+
+We can reiterate Alberuni’s description of the *Parāvartana* ceremony, which he says he was “repeatedly told” by Hindus themselves.
+
+> **…when Hindu slaves (in Muslim countries) escape and return to their
+> country and religion, the Hindus order that they should fast by way of
+> expiation, then they bury them in the dung, stale, and milk of cows
+> for a certain number of days, till they get into a state of
+> fermentation. Then they drag them out of the dirt and give them
+> similar dirt to eat, and more of the like.**
+
+> 
+
+While the ceremonial details given by Alberuni (burying converted Hindus in cow dung etc) are outlandish, the overall process agrees with the *Dēvala-Smriti* in some essentials.
+
+## **A Sample Ritual of Parāvartana**
+
+CONTRARY TO WHAT Alberuni says, the actual *Parāvartana* or *Mlēccita-śud'dhi* ceremony was easy, painless and practical. The severity or duration of the ceremony was directly proportional to the duration of contact with the Mlecchas or the period for which a Hindu had become a Mleccha.
+
+The following is a sample of a typical *Parāvartana* ceremony. In this example, the purificatory rituals are applicable to a Hindu who has either been in contact with a Mleccha or has become a Mleccha for one to twenty days.
+
+> **Taking the Panchagavya and making gifts or donations are the
+> expiations for having associated with a Mleccha for five days by way
+> of conversation and eating food with him. For contact lasting beyond
+> five days, the expiation includes the aforementioned expiation plus
+> performing Pādakr̥cchchra, the Parāka, and the Atikr̥cchchra
+> respectively. \[Kr̥cchchra generally means performing a penance or
+> undergoing an ordeal like fasting for a specific period\]**
+
+> 
+
+Perhaps the most significant element of Devala Muni’s vision is the care, concern, compassion and magnanimity that he shows towards Hindu girls and women who had been abducted, raped, ravished, enslaved and forcibly converted to Islam. Let’s read his own words in this matter in some detail.
+
+1\. Women who have not been raped and have not eaten the Mleccha food, are purified after three days \[i.e., after their period is over\].
+
+2. A woman forcibly raped by a Mleccha cannot be purified if she becomes pregnant by him. However, her relatives shall wait until she delivers the child. After this, she has to undergo a purificatory penance called *Sāntapana* (consuming the *Panchagavya* and then drinking water mixed with the *Kusha* grass daily for a specific number of days followed by one day of fasting). Once this is done, when she has her next period, she becomes pure like the stainless gold (*Kānchana*).
+
+3\. A woman who is forcibly raped by a Mleccha but does not become pregnant, will be purified by fasting for three days.
+
+These purificatory rites applied to Hindu women of all Varnas. After they were purified by undergoing the aforementioned rituals, they would be received back into the fold of their respective Varna, their former status and dignity restored.
+
+The Dharma Dispatch Digest is a reader-supported publication. **To support our sacred work, consider becoming a free or paid subscriber.**
+
+Subscribe
+
+## **Spurious Narratives Debunked**
+
+This *one* section of the *Dēvala-Smriti* suffices to puncture the bloated hot-air balloon of spurious narratives claiming that Hindu women voluntarily converted to Islam to escape an imaginary patriarchy or that they were not taken back by the Hindu society after they had been forcibly converted to Islam. While the latter is true to some extent, it is not because of the *Dēvala-Smriti* but *despite* it. As we shall see, at some point, the Hindu society became compartmentalised because it repeatedly kept losing its vigour and therefore, its ability to bounce back and perform mass *Parāvartana* ceremonies.
+
+*Dēvala-Smriti*’s rites for the purification of forcibly converted Hindu women are approvingly invoked by later Dharmasastra works such as the *Atri-Samhita*, the *Atri-Smriti* and Vijnaneshvara’s commentary on the *Yājñavalkya-Smr̥ti*, dated 12^(th) century CE.
+
+In fact, the *Dēvala-Smriti* is an exemplar of the practical application of *Āpad'dharma* — the Dharma of Exigency — necessitated by the advent of a specific kind of emergency that had disrupted an existing social order based on Dharma and threatened to completely uproot the very foundations of Sanatana Dharma.
+
+We see no parallel to this sort of timely response in, for example, the Pagans of the Roman Empire who were fully extinguished within a century of Christian onslaughts, fighting a losing battle because their culture, lofty as it was, was not underpinned by a Vedantic foundation.
+
+*To be continued*
+
+[SUPPORT THE DHARMA DISPATCH](https://pages.razorpay.com/DonatetoDD)
+
+10
+
+[](https://thedharmadispatch.substack.com/p/brief-contents-of-the-devala-smriti/comments)
+
+1
+
+4
+
+[](javascript:void(0))
+
+Share
 
 Previous
 

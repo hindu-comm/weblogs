@@ -6,54 +6,108 @@ date = "2023-02-28"
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/the-lasting-debt-the-hindu-civilisation).
 
-The Lasting Debt the Hindu Civilisation Owes to Manu
+The Lasting Debt the Hindu Civilisation Owes to Manu 
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e7eae41-b9f8-4c5f-8460-b7507641e2bd_1280x720.jpeg)
+
+#### The Lasting Debt the Hindu Civilisation Owes to Manu
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Notes
+
+Other
 
 # The Lasting Debt the Hindu Civilisation Owes to Manu
 
 ### In the concluding episode of the Manusmriti Special Series, DVG expounds on the debt that the Hindu civilisation owes to the Manusmriti.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Feb 28, 2023
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 4
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+[](https://thedharmadispatch.substack.com/p/the-lasting-debt-the-hindu-civilisation/comments)
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!88j7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e7eae41-b9f8-4c5f-8460-b7507641e2bd_1280x720.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e7eae41-b9f8-4c5f-8460-b7507641e2bd_1280x720.jpeg)
 
-![The Debt the Hindu Civilisation Owes to Manu](https://substackcdn.com/image/fetch/$s_!88j7!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e7eae41-b9f8-4c5f-8460-b7507641e2bd_1280x720.jpeg "The Debt the Hindu Civilisation Owes to Manu")
-
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+![The Debt the Hindu Civilisation Owes to Manu](https://substackcdn.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e7eae41-b9f8-4c5f-8460-b7507641e2bd_1280x720.jpeg "The Debt the Hindu Civilisation Owes to Manu")
 
 ## **Editor’s Note**
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rIiBmaWxsPSJub25lIiBoZWlnaHQ9IjE4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIiAvPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSIgLz48L3N2Zz4=)
+THIS IS THE EIGHTH AND CONCLUDING EPISODE of *The Manusmriti Special Series.* To us at *The Dharma Dispatch,* assembling this profound treatise authored by the iconic D.V. Gundappa has been akin to savouring an intellectual opera of the most exalted standard. His treatise while succinct, is also one of the clearest and unambiguous expositions of the *Manusmriti* in English. This kind of summarisation of this voluminous and complex work in an alien language which has no synonyms for several profound philosophical concepts requires superhuman abilities. But DVG *was* superhuman.  
 
-THIS IS THE EIGHTH AND CONCLUDING EPISODE of *The Manusmriti Special Series.* To us at *The Dharma Dispatch,* assembling this profound treatise authored by the iconic D.V. Gundappa has been akin to savouring an intellectual opera of the most exalted standard. His treatise while succinct, is also one of the clearest and unambiguous expositions o…
+His exposition of the *Manusmriti* omits neither its essentials nor the profound impulse that drives its value system. DVG shows with superb elan *why* Manu was regarded as a Rishi and why we owe a lasting debt of gratitude to him. He also provides concrete arguments that help us correctly grasp the essence of this immortal work: *the Manusmriti is fundamentally a Constitution of Dharma*, a word that finds no place in the Constitution of “India.” When we understand this straightforward truth — staring our face — it becomes easy to separate the wheat from the chaff.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+The elements in the *Manusmriti* that the contemporary Hindu society — shaped by Western colonialism — regards as regressive and cruel represent the chaff. In fact, like every work on the Dharmasastra, the *Manusmriti* too, tangentially declares as such: that its prescriptions and prohibitions are not valid till eternity. Retrofitting the mores and views of contemporary society to a society that no longer exists is not intellectual honesty but political perfidy.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+As we have seen so far in this series, DVG has offered powerful and compelling counters to such mischief. In our view, this treatise is a handbook and a guidebook that offers to the contemporary Hindu all that he or she needs to know about the *Manusmriti* together with reasoned rebuttals to mischief-mongers.
 
-Claim my free post
+*It has been a purifying experience to offer this series to our readership and we hope that the reader has found value in it.  *
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fthe-lasting-debt-the-hindu-civilisation&utm_source=paywall&utm_medium=web&utm_content=105607519&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=105607519&next=https://thedharmadispatch.substack.com/p/the-lasting-debt-the-hindu-civilisation)
+**The Dharma Dispatch Digest is a reader-supported publication.** To receive new articles and **to support the sacred work we’re doing**, consider becoming a paid subscriber.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+**Subscribe**
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+## **The Manusmriti as a Milestone in the History of Hindu Ethics and Value System **
+
+IF EQUALITARIANISM WILL NOT ALLOW anyone to claim superiority, it should equally be against the belittling of anything as inferior. If the capitalist regards ownership as honourable, the labourer should be brought to regard workmanship as equally honourable. Thus, *the doctrine of Sva-dharma is held to be the supreme form of Dharma in the life of an individual*. Your station fixes your duty. That duty promotes your spiritual interests in subserving the life’s necessities of your fellow-beings.
+
+Nothing is to be gained for Manu by concealing the fact that there are provisions in his Code which must sound harsh and unfairly discriminatory to the contemporary ear.
+
+Let us remember one basic fact when reading Manu. We owe our ethical refinement of today to the improvement wrought in social conditions through long ages by the very rigours of those provisions.
+
+Society of Manu’s time was comparatively primitive and untamed, and what is rigour to our mellowed mind was just the proper degree of stress needed for effectiveness in those hardy times. *The punitive clauses were largely meant as threats rather than as commands literally to be executed*. They were indicative of the gravity of the matter and their presence in the book of statutes sufficed to produce a salutary effect.
+
+The Code of Manu forms a milestone in the history of the developing human civilization. We have to relate the punitive clauses of the *Manusmriti* to the psychology of that time. Today, we are like the young boy who, at a rural fair, sits on the shoulders of his tall father and watches the *tamasha*. He naturally sees more than the father. *But if he is a modest boy, he would remember that he could see nothing if the father put him on the ground*.
+
+I began by pointing out the distinction to be made in the contents of a great work between its substantive part and its adjectival part. In Manu, the substance is the philosophy of life’s values. *The institutional and procedural and ritualistic part is ancillary. We would be making a mistake to lose sight of this distinction and neglect what is of permanent value and exaggerate and condemn what is merely temporal.*
+
+India is today engaged in reorienting her policy towards the world. In that effort, if she would not put her *Sva-dharma* in jeopardy, she cannot afford to be indifferent to the guidance available from the Code of Manu.
+
+Manu is to us among the revealers of the roots of our civilisation and our national life, of the basic ethos of our social life, and of the moral and psychological potencies embedded in our very nature. Let us seek wisdom from him as from a patriarch of patriarchs.
+
+*Concluded*
+
+------------------------------------------------------------------------
+
+## A Heartfelt Appeal: Please Support Our Dharmic Work @ The Dharma Dispatch
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*.
+
+It has taken us months of sustained research, thorough preparation, loving writing and careful editing to offer this ongoing essay series on the *Manusmriti*. **It is our constant endeavour on our part to produce such ennobling and sacred stories from the spiritual civilisation of Bharatavarsha.**
+
+*It is your subscriptions that enables and empowers* *us to produce such content*. *Every rupee of your subscription pays our bills and helps us offer more and better content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+**Subscribe**
+
+------------------------------------------------------------------------
+
+4
+
+[](https://thedharmadispatch.substack.com/p/the-lasting-debt-the-hindu-civilisation/comments)
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

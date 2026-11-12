@@ -2,8 +2,7 @@
 title = "Setting the record"
 full_title = "Setting the record straight open letter on EO Wilson's legacy"
 upstream_url = "https://www.razibkhan.com/p/setting-the-record-straight-open"
-date = "1981-02-05"
-
+date = "2022-01-19"
 +++
 Source: [here](https://www.razibkhan.com/p/setting-the-record-straight-open).
 

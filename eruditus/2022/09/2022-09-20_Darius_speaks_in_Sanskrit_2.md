@@ -1,164 +1,485 @@
 +++
 title = "Darius speaks in"
 full_title = "Darius speaks in Sanskrit"
-date = "2022-09-20"
 upstream_url = "https://eruditus.substack.com/p/darius-speaks-in-sanskrit-2"
-
+date = "2022-09-20"
 +++
 Source: [here](https://eruditus.substack.com/p/darius-speaks-in-sanskrit-2).
 
 Darius speaks in Sanskrit (2)
 
-Share this post
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8ba419-2114-4672-8b48-754b6e66822a_286x176.jpeg)
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(84,78,74,0.75), rgba(84,78,74,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!xlIP!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8ba419-2114-4672-8b48-754b6e66822a_286x176.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Shiṣṭagoṣṭhī \| Collegium Eruditi](https://substackcdn.com/image/fetch/$s_!9Nzm!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba696603-3b6a-45c0-86c7-3f1c302225f5_652x652.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Shiṣṭagoṣṭhī \| Collegium Eruditi
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
 
 Darius speaks in Sanskrit (2)
 
-eruditus.substack.com
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+Notes
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
+More
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header" aria-label="Post header" role="region">
 
 # Darius speaks in Sanskrit (2)
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset" aria-label="Post UFI" role="region">
 
-[Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
 
-Sep 20
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
 
-10
+<div class="pencraft pc-display-flex pc-reset">
 
-[](https://eruditus.substack.com/p/darius-speaks-in-sanskrit-2/comments)
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-gap-8 pc-alignItems-center pc-justifyContent-flex-start pc-reset">
 
-1
+<div class="pencraft pc-display-flex pc-flexDirection-row pc-alignItems-center pc-justifyContent-flex-start pc-reset ltr-qDBmby" style="--scale:36px;--offset:9px;--border-width:4.5px;">
 
-[](javascript:void(0))
+[](https://substack.com/@eruditus)
 
-Share this post
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA animate-XFJxE4 outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 pressable-sm-YIJFKJ showFocus-sk_vEm container-TAtrWj interactive-UkK0V6 avatar-u8q6xB last-JfNEJ_" style="--scale:36px;" tabindex="0">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8ba419-2114-4672-8b48-754b6e66822a_286x176.jpeg)
+<div class="pencraft pc-display-flex pc-width-36 pc-height-36 pc-justifyContent-center pc-alignItems-center pc-position-relative pc-reset bg-secondary-UUD3_J flex-auto-j3S2WA outline-detail-vcQLyr pc-borderRadius-full overflow-hidden-WdpwT6 sizing-border-box-DggLA4 container-TAtrWj" style="--scale:36px;" title="Aryāṃśa">
+
+![Aryāṃśa's avatar](https://substackcdn.com/image/fetch/$s_!MPYb!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset color-pub-primary-text-NyXPlw line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+<div class="profile-hover-card-target profileHoverCardTarget-PBxvGm">
+
+[Aryāṃśa](https://substack.com/@eruditus)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+Sep 20, 2022
+
+</div>
+
+<div class="pencraft pc-reset color-pub-secondary-text-hGQ02T line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA">
+
+∙ Paid
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center pc-reset flex-grow-rzmknG border-top-detail-themed-k9TZAY border-bottom-detail-themed-Ua9186 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+16
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="pencraft pc-display-contents pc-reset pubTheme-yiXxQA">
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-24 pc-padding-24 pc-reset bg-primary-zk6FDl border-detail-EGrm7T pc-borderRadius-md container-xiJVit">
+
+#### Share this post
+
+[](#)
+
+<div class="pencraft pc-display-contents pc-reset elevatedTheme-fBklGV">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-zk6FDl pc-borderRadius-md showFocus-sk_vEm postAttachment-eYV3fM" draggable="false" style="background:linear-gradient(180deg, rgba(84,78,74,0.75), rgba(84,78,74,0.75)), var(--color-dark-bg-secondary);" tabindex="0">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-k1F6C4 vibrantHeader-We3FVb">
+
+![](https://substackcdn.com/image/fetch/$s_!xlIP!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8ba419-2114-4672-8b48-754b6e66822a_286x176.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-padding-12 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-2 pc-minWidth-0 pc-reset flex-grow-rzmknG">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-paddingBottom-4 pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-position-relative pc-reset" draggable="false">
+
+<div class="pencraft pc-display-flex pc-reset bg-white-ZBV5av pc-borderRadius-xs overflow-hidden-WdpwT6 sizing-border-box-DggLA4" style="width:18px;height:18px;">
+
+![Shiṣṭagoṣṭhī \| Collegium Eruditi](https://substackcdn.com/image/fetch/$s_!9Nzm!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba696603-3b6a-45c0-86c7-3f1c302225f5_652x652.png)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset flex-grow-rzmknG ellipsis-Jb8om8 color-vibrance-secondary-k5eqjt line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb nowrap-QngyoB reset-IxiVJZ">
+
+Shiṣṭagoṣṭhī \| Collegium Eruditi
+
+</div>
+
+</div>
+
+<div class="pencraft pc-reset color-vibrance-primary-KHCdqV line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-medium-fw81nC clamp-y7pNm8 clamp-2-kM02pu reset-IxiVJZ">
 
 Darius speaks in Sanskrit (2)
 
-eruditus.substack.com
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-justifyContent-space-between pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Copy link
 
-Twitter
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
 Facebook
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
+
+</div>
+
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
+
 Email
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff42e9b59-0e9f-434c-bd79-ae64043b2b39_563x293.jpeg "ARIo Logo")
+</div>
 
-A few months back, I [tried my hand](https://indianhistory.substack.com/p/i-am-darius-an-aryan) at translating a modest amount of Old Persian *(henceforth: OP)* from the Achaemenid royal corpus into Classical Sanskrit *(henceforth: Skt)*. This test-run of ours was on the Naqsh-e-Rostam inscription of Emperor Darius. It served to illustrate (rather convincingly) how close OP and Skt are. Chronologically speaking, the two represent a similar stage of linguistic evolution in Indo-Iranian; they’re also almost contemporary to each other. The parent language of OP is not attested *(OP is Western Iranian while Avestan was Eastern Iranian)* but rest be assured it would’ve been close to the late-Vedic dialect of the [Brāhmaṇa](https://en.wikipedia.org/wiki/Brahmana) texts.
+</div>
 
-With this second iteration we return to our translation exercise; however, this time we will take a crack at the [Behistun Inscription](https://en.wikipedia.org/wiki/Behistun_Inscription) of Darius. I must duly inform you all that I don’t know any OP: inflection, morphology, vocabulary or syntax. This, however, adds to the charm of my whole endeavor. How much Old Persian can a person who knows sufficient Sanskrit plus some Indo-Iranian linguistics pick up after a few readings?
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
 
-Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for free to receive new posts and support my work.
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
 
-**Subscribe**
+</div>
 
-*Let us begin, alam vistarena.*
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
-***[Behistun Inscription: Column I, lines 1-8](http://oracc.museum.upenn.edu/ario/corpus/)***
+Notes
 
-> *adam dârayavauš xšâyathiya vazraka   
-> xšâyathiya xšâyathiyânâm   
-> xšâyathiya pârsaiy   
-> xšâyathiya dahyûnâm   
-> vištâspahyâ puça   
-> aršâmahyâ napâ   
-> haxâmanišiya   
->   
-> thâtiy dârayavauš xšâyathiya   
-> manâ pitâ vištâspa   
-> vištâspahyâ pitâ aršâma   
-> aršâmahyâ pitâ ariyâramna   
-> ariyâramnahyâ pitâ cišpiš  
-> cišpâiš pitâ haxâmaniš   
->   
-> thâtiy dârayavauš xšâthiya   
-> avahyarâdiy vayam haxâmanišiyâ thahyâmahy   
-> hacâ paruviyata âmâtâ amahy   
-> hacâ paruviyata hyâ amâxam taumâ xšâyathiyâ âha*
+</div>
 
-***Classical Sanskrit translation: Column I, lines 1-8***
+</div>
 
-> *aham dhāravasuḥ kṣatriyaḥ vajrakaḥ  
-> kṣatriyaḥ kṣatriyāṇām  
-> kṣatriyaḥ pārasaḥ  
-> kṣatriyaḥ dāsyūnām  
-> viṣitāśvasya putraḥ  
-> vṛṣāmasya naptā   
-> sakhamanayaḥ  
->   
-> śaṃsati dhāravasuḥ kṣatriyaḥ  
-> mama pitā viṣṭāśvaḥ  
-> viṣitāśvasya pitā vṛṣāmaḥ  
-> vṛṣāmasya pitā āryaramana  
-> āryaramanasya pitā \[ciṣpaḥ\]  
-> \[ciṣpasya\] pitā sakhamanāḥ  
->   
-> śaṃsati dhāravasuḥ kṣatriyaḥ  
-> avasyarādhasi vayam sakhāmanasaḥ śaṃsyāmahe  
-> sacā pūrvyataḥ amātyāḥ smaḥ  
-> sacā pūrvyataḥ yat asmākam tokmā kṣatriyaḥ āsa*
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-8 pc-width-64 pc-alignItems-center pc-reset container-iTCOuF">
 
-***English translation***
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-width-64 pc-height-64 pc-justifyContent-center pc-alignItems-center pc-reset bg-secondary-UUD3_J animate-XFJxE4 pc-borderRadius-lg button-zkMi7O">
 
-> *I am Darius, the great king, king of kings, the king of Persia, king > of lands, Hystaspes’ son, Arsames’ grandson, an Achaemenid. Proclaims > Darius, the king: My father is Hystaspes; the father of Hystaspes (is) > Arsames; the father of Arsames (was) Ariaramnes; the father of > Ariaramnes (was) Teispes; the father of Teispes (was) Achaemenes. Proclaims Darius, the king: That is why we are called Achaemenids; from antiquity we are noble; from antiquity has our dynasty been kings.*
+</div>
 
-*Notes:*
+<div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-text-qe4AeH size-11-NuY2Zx weight-semibold-uqA4FV reset-IxiVJZ">
 
-Old Persian uses kshayathiya but in Sanskrit both kshatriya and kshaita can work. Kshaita is more archaic and Vedic, so it might be a better theoretical fit but I used the more familiar kshatriya. I had already translated some of the Persian proper names into their Sanskrit equivalents in my last post on this, so I just used them. One thing I noted is a lot of the words/adverbs used in this OP truly had their cognates in Vedic Sanskrit rather than Classical (c.f - hacā, amahy, vishta, arshama, tauma). A lot of the syntax is awkward for Sanskrit, and we have to take some liberties. For example, the Persian pronoun avahya exists in Vedic (ava - this/that) but it’s only used as a genetive dual (avayor). I had to here extend the stem to make it a genitive singular (avasya). Then, radiy in OP is cognate to rādhas in Sanskrit (locative case), but this construction simply doesn’t exist in Sanskrit.   
-  
-In OP, ava (gen) + radiy = on account of this, which was transposed into Sanskrit to maximize cognates. The word tauma in Persian means “family, lineage” (like kula in Sanskrit) but the direct Sanskrit cognate (tokman) just means “youngone, offspring”
+More
 
-As for the word *cišpiš,* I had no idea what its etymology is. I looked it up then and saw it might be an Elamite loan, which would then explain why it looks so foreign. For *ariyaramna,* I assumed the second part is a verbal noun so extended √ram to make ramana and made a compound *āryaramana.* The rest were easy.
+</div>
 
-Here’s a Hindi transliteration.
+</div>
 
-***Old Persian original***
+</div>
 
-> *अदम् दारयवौष् क्षायथिय वज़्रक क्षायथिय क्षायथियानाम् क्षायथिय पार्सैय् क्षायथिय > दह्यूनाम् विष्तास्पह्या पुच अर्षामह्या नपा हखामनिषिय थातिय् दारयवौष् क्षायथिय मना > पिता विष्तास्प विष्तास्पह्या पिता अर्षाम अर्षामह्या पिता अरियारम्न अरियारम्नह्या पिता चिष्पिष् चिष्पाइष् पिता हखामनिष् थातिय् दारयवौष् क्षाथिय अवह्यरादिय् वयम् हखामनिषिया थह्यामह्य् हचा परुवियत आमाता अमह्य् हचा परुवियत ह्या अमाखम् तौमा क्षायथिया आह*
+</div>
 
-***Sanskrit translation***
+</div>
 
-> *अहम् धारवसुः क्षत्रियः वज्रकःक्षत्रियः क्षत्रियाणाम् क्षत्रियः पारसः क्षत्रियः > दास्यूनाम् विषिताश्वस्य पुत्रः वृषामस्य नप्ता सखमनयः शंसति धारवसुः क्षत्रियः मम पिता > विष्टाश्वः विषिताश्वस्य पिता वृषामः वृषामस्य पिता आर्यरमन आर्यरमनस्य पिता \[चिष्पः\] \[चिष्पस्य\] पिता सखमनाः शंसति धारवसुः क्षत्रियः अवस्यराधसि वयम् सखामनसः शंस्यामहे सचा पूर्व्यतः अमात्याः स्मः सचा पूर्व्यतः यत् अस्माकम् तोक्मा क्षत्रियः आस*
+</div>
 
-Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for free to receive new posts and support my work.
+</div>
 
-**Subscribe**
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [](https://eruditus.substack.com/p/darius-speaks-in-sanskrit-2/comments)
 
-1
+<div class="label">
+
+5
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
 
 [](javascript:void(0))
 
-Share this post
+<div class="label">
 
-![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8ba419-2114-4672-8b48-754b6e66822a_286x176.jpeg)
+Share
 
-Darius speaks in Sanskrit (2)
+</div>
 
-eruditus.substack.com
+</div>
 
-Copy link
+</div>
 
-Twitter
+</div>
 
-Facebook
+</div>
 
-Email
+<div>
 
-Like this post
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/$s_!fswH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff42e9b59-0e9f-434c-bd79-ae64043b2b39_563x293.jpeg "ARIo Logo")
+
+</div>
+
+A few months back, I [tried my hand](https://indianhistory.substack.com/p/i-am-darius-an-aryan) at translating a modest amount of Old Persian *(henceforth: OP)* from the Achaemenid royal corpus into Classical Sanskrit *(henceforth: Skt)*. This test-run of ours was on the Naqsh-e-Rostam inscription of Emperor Darius. It served to illustrate (rather convincingly) how close OP and Skt are. Chronologically speaking, the …
+
+</div>
+
+</div>
+
+<div class="paywall" aria-label="Paywall" component-name="Paywall" testid="paywall" role="region">
+
+## This post is for paid subscribers
+
+<div class="paywall-cta">
+
+Subscribe
+
+</div>
+
+<div class="paywall-login">
+
+[Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Fdarius-speaks-in-sanskrit-2&for_pub=eruditus&change_user=false)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

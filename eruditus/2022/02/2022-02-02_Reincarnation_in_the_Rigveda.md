@@ -1,9 +1,8 @@
 +++
 title = "Reincarnation in the"
 full_title = "Reincarnation in the Rigveda"
-date = "2022-02-02"
 upstream_url = "https://eruditus.substack.com/p/reincarnation-in-the-rigveda"
-
+date = "2022-02-02"
 +++
 Source: [here](https://eruditus.substack.com/p/reincarnation-in-the-rigveda).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
 
-Reincarnation in the Rigveda
+#### Reincarnation in the Rigveda
 
 eruditus.substack.com
 
@@ -25,13 +24,15 @@ Facebook
 
 Email
 
+Notes
+
 # Reincarnation in the Rigveda
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
-Feb 2
+Feb 2, 2022
 
 16
 
@@ -41,11 +42,13 @@ Feb 2
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
 
-Reincarnation in the Rigveda
+#### Reincarnation in the Rigveda
 
 eruditus.substack.com
 
@@ -56,6 +59,10 @@ Twitter
 Facebook
 
 Email
+
+Notes
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
 
@@ -79,7 +86,8 @@ It must be noted that ***I am not suggesting that Hinduism is immutable*** while
 ### `RV 10.16.5 `
 
 > **`अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धाभिः॑`  
-> `आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेषः॒ सं ग॑च्छतां त॒न्वा॑ जातवेदः`**[1](#footnote-1)
+> `आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेषः॒ सं ग॑च्छतां त॒न्वा॑ जातवेदः`**
+> > [1](https://eruditus.substack.com/p/reincarnation-in-the-rigveda#footnote-1-48090782)
 
 *O Agni, release him to the forefathers, and again \[down from them\]  
 \[he\] who has been offered to you, \[he who\] travels by his own will.
@@ -90,7 +98,8 @@ Let him unite with his body! O Jatavedas*
 ### `RV 10.14.8`
 
 > **`सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन्`  
-> `हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चाः॑`**[2](#footnote-2)
+> `हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चाः॑`**
+> > [2](https://eruditus.substack.com/p/reincarnation-in-the-rigveda#footnote-2-48090782)
 
 *Unite with the forefathers, unite with Yama,   
 \[unite with\] the merit of sacred rites \[stored up\] in the highest heaven.   
@@ -99,7 +108,8 @@ Having left behind imperfection, come home again.
 
 ### `Shatapatha Brahmana 11.2.7.33`
 
-> **`तुलायां ह वा अमुष्मिंलोक आदधति यतरद्यंस्यति तदन्वेष्यति यदि साधु वासाधु वेत्यथ य एवं वेदास्मिन्हैवलोके तुलामारोहत्यत्यमुष्मिंलोके तुलाधानम् मुच्यते साधुकृत्या हैवास्य यचति न पापकृत्या `**[3](#footnote-3)
+> **`तुलायां ह वा अमुष्मिंलोक आदधति यतरद्यंस्यति तदन्वेष्यति यदि साधु वासाधु वेत्यथ य एवं वेदास्मिन्हैवलोके तुलामारोहत्यत्यमुष्मिंलोके तुलाधानम् मुच्यते साधुकृत्या हैवास्य यचति न पापकृत्या `** >
+> [3](https://eruditus.substack.com/p/reincarnation-in-the-rigveda#footnote-3-48090782)
 
 *Let him therefore sit down, touching the right edge of the sacrifical altar; for, indeed, they place him on the balance in that \[other\] world; and whichever of the two will rise, that he will follow, whether it be the good or the evil. And, verily, whosoever knows this, mounts the balance even in this world, and escapes being placed on the balance in that \[other\] world; for his good deed rises, and not his evil deed.*
 
@@ -120,17 +130,19 @@ In this passage, it is clear that the world after death sees a sort of karmic ju
 
 5.  `Imagining Karma: Ethical Transformation in Amerindian, Buddhist, and Greek Rebirth. Gananath Obeyesekere`
 
-[1](#footnote-anchor-1)
+[1](https://eruditus.substack.com/p/reincarnation-in-the-rigveda#footnote-anchor-1-48090782)
 
 śeṣas in the RV here means offspring, not remainder of an oblation as Sayana interprets it. Jameison erroneously translates it as ‘remains’ as well. Yaska makes it clear (शेस।इत्य्।अपत्य।नाम ३।२ निरुक्त). The body of the dead is burnt in the cremation fire as a final sacrifice (antyeṣṭi). svadhā refers to the contradictory movement of the dead; moving but not moving, alive but dead. (c.f - 1.164.30; 1.164.38). Coming down to the offspring probably represents the belief in rebirth of ancestors within their own kin-circles. The Lankan scholar Ganath Obeyeskere identify this as the widespread tribal-rebirth belief within kincircles.
 
-[2](#footnote-anchor-2)
+[2](https://eruditus.substack.com/p/reincarnation-in-the-rigveda#footnote-anchor-2-48090782)
 
 iṣṭāpūrta in the instrumental with the verb √saṃgam (left unexpressed) is definitely refering to the idea that the merit of good sacrifical deeds is obtained in the highest heaven. Parama vyoman is the place where the gods are born and where they grow up (1.143.2; 4.50.4; 8.13.2) It exists at the edge of the universe. It didnt exist before creation (10.129.1).
 
-[3](#footnote-anchor-3)
+[3](https://eruditus.substack.com/p/reincarnation-in-the-rigveda#footnote-anchor-3-48090782)
 
 following Eggeling’s translation here. That {other} world is a translation of amuṣmin (locative singular of adas); adas refers to a known & distant place, not as distant as when tad is used. Technically, विप्रकृष्ट but not परोक्ष (out of sight, not visible).
+
+16
 
 [](https://eruditus.substack.com/p/reincarnation-in-the-rigveda/comments)
 
@@ -138,11 +150,13 @@ following Eggeling’s translation here. That {other} world is a translation of 
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
 
-Reincarnation in the Rigveda
+#### Reincarnation in the Rigveda
 
 eruditus.substack.com
 
@@ -154,4 +168,4 @@ Facebook
 
 Email
 
-Like this post
+Notes

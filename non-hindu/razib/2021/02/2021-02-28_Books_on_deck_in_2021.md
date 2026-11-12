@@ -1,71 +1,374 @@
 +++
 title = "Books on deck in 2021"
 full_title = "Books on deck in 2021"
+upstream_url = "https://www.razibkhan.com/p/books-on-deck-in-2021"
 date = "2021-02-28"
-upstream_url = "https://razib.substack.com/p/books-on-deck-in-2021"
-
 +++
-Source: [here](https://razib.substack.com/p/books-on-deck-in-2021).
+Source: [here](https://www.razibkhan.com/p/books-on-deck-in-2021).
 
 Books on deck in 2021
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d72c63b-27d3-4bcb-8d5e-40714b425d07_618x410.jpeg)
 
-Books on deck in 2021
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Books on deck in 2021
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Books on deck in 2021
 
 ### Six books in the queue
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Feb 28, 2021
 
-8
+</div>
 
-[](https://razib.substack.com/p/books-on-deck-in-2021/comments)
+</div>
 
-5
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+7
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d72c63b-27d3-4bcb-8d5e-40714b425d07_618x410.jpeg)
 
-Books on deck in 2021
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Books on deck in 2021
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/books-on-deck-in-2021/comments)
+
+<div class="label">
+
+5
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d72c63b-27d3-4bcb-8d5e-40714b425d07_618x410.jpeg)
 
-**Subscribe**
+</div>
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 Four quick housekeeping notes:
 
@@ -77,49 +380,145 @@ Four quick housekeeping notes:
 
 - If you are on [Clubhouse](https://www.joinclubhouse.com/), come follow me: “RazibKhan”. Currently, **I’m starting rooms related to genetics on Friday evenings (US time)**.
 
+<div>
+
 ------------------------------------------------------------------------
+
+</div>
 
 It is a truth universally acknowledged that there are always too many good books to read. Old, new, canonical, controversial. You never catch up. Not that that should have any bearing on the ambitious rate at which you keep adding to your stack. **Here are six books muscling their way onto my already unrealistic “must-read” list for this year.** These are all either freshly released or on their way in 2021.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcac51f27-0705-4638-a73a-9b53359911cc_330x502.jpeg)
+
+</div>
 
 Humans are social organisms. So are many groups of insects. Most prominently, the order Hymenoptera, which includes ants and bees. Because of peculiarities of the genetic inheritance patterns of these insects, sisters within colonies are more genetically related to each other than they are to their own offspring. This is why workers stay to help their sisters rather than leave the colony to start their own nest. The great evolutionary biologist W. D. Hamilton focused on Hymenoptera as illustrations of his principle of inclusive fitness, where the reproductive output of relatives impacts one’s own evolutionary legacy.
 
 Insect societies share many features with human societies, in particular their massive scale and specialization of roles. This is why ants are such excellent models to explore questions of behavior and evolution. **Susanne Foitzik and Olaf Fritsch in [Empire of Ants](https://www.amazon.com/exec/obidos/ASIN/B08GFNJ7KB/geneexpressio-20) provide the reader a guide to the whole of ant behavior and evolution.** [Foitzik’s career](https://scholar.google.com/citations?user=zZ2L5KwAAAAJ&hl=en&oi=ao) has been focused on the intersection of ant behavior, genetics, and evolution. Fritsch is a science writer with an extensive background in biological topics.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9681042-1e8e-4815-8ce2-78a3fea3cff5_329x499.jpeg)
 
-Ready or not, we live in the era of the \$1,000 genome. I expect the integration of genomics into health care to be one of the major stories of the 2020’s, so Euan Ashley’s [The Genome Odyssey: Medical Mysteries and the Incredible Quest to Solve Them](https://www.amazon.com/exec/obidos/ASIN/B088QB32FX/geneexpressio-20) is wonderfully timely. Ashley’s career has witnessed personalized genomics go from a curiosity to mainstream. In 2009, he was part of a team that performed the first analysis of a genome for its medical relevance. At the time, this was a “blue sky” project, but over the next decade, it will be a road-map. [The Genome Odyssey](https://www.amazon.com/exec/obidos/ASIN/B088QB32FX/geneexpressio-20) should be a good preview of the next decade of advances in health care.
+</div>
 
-**Subscribe**
+Ready or not, we live in the era of the $1,000 genome. I expect the integration of genomics into health care to be one of the major stories of the 2020’s, so Euan Ashley’s [The Genome Odyssey: Medical Mysteries and the Incredible Quest to Solve Them](https://www.amazon.com/exec/obidos/ASIN/B088QB32FX/geneexpressio-20) is wonderfully timely. Ashley’s career has witnessed personalized genomics go from a curiosity to mainstream. In 2009, he was part of a team that performed the first analysis of a genome for its medical relevance. At the time, this was a “blue sky” project, but over the next decade, it will be a road-map. [The Genome Odyssey](https://www.amazon.com/exec/obidos/ASIN/B088QB32FX/geneexpressio-20) should be a good preview of the next decade of advances in health care.
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Share](https://razib.substack.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89b55446-93aa-4aa7-bddb-ebfafe001cdc_300x469.jpeg)
+
+</div>
 
 There is no such thing as knowing too much about the Communist regime in China right now. It is hard to imagine the People’s Republic of China as anything but a Communist Party regime, so tied up is the nation-state’s current identity with its ideology and the party that rules it. But this was not always the case. Even after World War II, there was no expectation that Communism would succeed in China. And yet over several years, the Communist armies conquered China, driving their Nationalist rivals to Taiwan.
 
 1949 would be the year you would begin with to truly understand what happened. At the beginning of that year, the Nationalists controlled most of China. By the end, the Communists had proclaimed the People’s Republic, and the Nationalists had fled to Taiwan. How did all that happen in one year? This is why I’m looking forward to [China 1949: Year of Revolution](https://www.amazon.com/exec/obidos/ASIN/0755607333/geneexpressio-20).
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99fe9616-4fd3-4a1c-a9c0-f23a04393b5a_330x498.jpeg)
+
+</div>
 
 The subtitle of [The Horde](https://www.amazon.com/exec/obidos/ASIN/0674244214/geneexpressio-20), “How the Mongols Changed the World”, looks a little counterintuitive. If you think of the Mongols, you usually think of Genghis Khan, and the classical Mongol world-empire of the 13th century. But this book seems to focus on the Golden Horde of Russia, founded by Genghis Khan’s oldest son, Jochi, and persisting in various forms for nearly three centuries. These were the Tatars who conquered and subjugated Russia for centuries. In doing so, they changed world history, because the expansive Russian Empire that emerged in the 16th century was fundamentally different from the Duchy of Moscow that preceded it. It had global ambitions, just like the Golden Horde which once ruled it.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb563fafa-5951-47c1-a604-182b6f06bd32_300x456.jpeg)
+
+</div>
 
 No matter how brutal and amoral we perceive contemporary geopolitics to be, it is qualitatively different from what came before. During the Peloponnesian War, the Athenians declared “the strong do what they can and the weak suffer what they must.” In the 17th century, half the population of Germany died during the Thirty Years War, which devolved into a conflict of all against all.
 
@@ -127,38 +526,200 @@ In contrast, modern nation-states attempt to align themselves to a higher moral 
 
 [The Conquest of Peace: From the Enlightenment to the European Union](https://www.amazon.com/exec/obidos/ASIN/067497526X/geneexpressio-20) offers a narrative history of that process, going back to the abstract philosophies of the Enlightenment, and coming down to the concrete political reality of the modern world.
 
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03f9b376-e64b-4064-88ad-ad52c98e68b4_333x499.jpeg)
+
+</div>
 
 William J. Bernstein’s books are always compelling, but his latest, [The Delusion of Crowds: why people go mad in groups](https://www.amazon.com/exec/obidos/ASIN/0802157092/geneexpressio-20), is particularly irresistible right now. Many others have written on the irrationality of herds and there are many historic examples of this phenomenon, from the Xhosa cattle[-](https://www.amazon.com/exec/obidos/ASIN/0755607333/geneexpressio-20)killing of the 19th century (the Xhosa starved) to various futile Crusades of the medieval period (the Crusaders were killed or enslaved). But this issue, the ability of group irrationality to overwhelm individual common sense, is constantly on display in today’s social-media forums when polarization is heightened and in-group signaling threatens to become a full-time job in some circles. We live in the age of the crowd.
 
 What about you? [Subscribers](https://razib.substack.com/subscribe), what are your new-release must-reads of 2021?
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
 
-[](https://razib.substack.com/p/books-on-deck-in-2021/comments)
+<div class="_sideBySideWrap_1xsdj_10">
 
-5
+<div class="_emailInputWrapper_1xsdj_55">
 
-[](javascript:void(0))
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/books-on-deck-in-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+7
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d72c63b-27d3-4bcb-8d5e-40714b425d07_618x410.jpeg)
 
-Books on deck in 2021
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Books on deck in 2021
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/books-on-deck-in-2021/comments)
+
+<div class="label">
+
+5
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

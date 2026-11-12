@@ -2,8 +2,7 @@
 title = "Genghis Khan, the Golden"
 full_title = "Genghis Khan, the Golden Horde and an 842yearold paternity test"
 upstream_url = "https://www.razibkhan.com/p/genghis-khan-the-golden-horde-and"
-date = "842-08-11"
-
+date = "2025-07-14"
 +++
 Source: [here](https://www.razibkhan.com/p/genghis-khan-the-golden-horde-and).
 

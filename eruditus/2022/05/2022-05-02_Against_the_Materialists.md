@@ -1,9 +1,8 @@
 +++
 title = "Against the Materialists"
 full_title = "Against the Materialists"
-date = "2022-05-02"
 upstream_url = "https://eruditus.substack.com/p/against-the-materialists"
-
+date = "2022-05-02"
 +++
 Source: [here](https://eruditus.substack.com/p/against-the-materialists).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3119b36-3e5f-4f1a-ba15-9ba5ae89776f_1000x454.jpeg)
 
-Against the Materialists
+#### Against the Materialists
 
 eruditus.substack.com
 
@@ -27,25 +26,27 @@ Email
 
 # Against the Materialists
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
-May 2
+May 2, 2022
 
-14
+15
 
 [](https://eruditus.substack.com/p/against-the-materialists/comments)
 
-1
+4
 
 [](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3119b36-3e5f-4f1a-ba15-9ba5ae89776f_1000x454.jpeg)
 
-Against the Materialists
+#### Against the Materialists
 
 eruditus.substack.com
 
@@ -56,6 +57,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3119b36-3e5f-4f1a-ba15-9ba5ae89776f_1000x454.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3119b36-3e5f-4f1a-ba15-9ba5ae89776f_1000x454.jpeg)
 
@@ -77,7 +80,7 @@ Here’s another link, in case the first one ever stops working: [https://pdfhos
 
 [](https://eruditus.substack.com/p/against-the-materialists/comments)
 
-1
+4
 
 [](javascript:void(0))
 
@@ -85,7 +88,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3119b36-3e5f-4f1a-ba15-9ba5ae89776f_1000x454.jpeg)
 
-Against the Materialists
+#### Against the Materialists
 
 eruditus.substack.com
 
@@ -96,5 +99,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

@@ -8,46 +8,109 @@ Source: [here](https://thedharmadispatch.substack.com/p/how-the-bhakti-movement-
 
 How the Bhakti Movement Gave Hindus a Breather
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg)
+
+#### How the Bhakti Movement Gave Hindus a Breather
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # How the Bhakti Movement Gave Hindus a Breather
 
 ### The Bhakti movement arose due to Islam’s record of cultural homicide marked by an industrial scale destruction of Hindu temples.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Jan 14, 2022
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 10
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg)
+
+#### How the Bhakti Movement Gave Hindus a Breather
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!BC3S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg)
 
-![How the Bhakti Movement Gave Hindus a Breather and the New Indian Renaissance](https://substackcdn.com/image/fetch/$s_!BC3S!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg "How the Bhakti Movement Gave Hindus a Breather and the New Indian Renaissance")
+![How the Bhakti Movement Gave Hindus a Breather and the New Indian Renaissance](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg "How the Bhakti Movement Gave Hindus a Breather and the New Indian Renaissance")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+BEGINNING WITH THE SO-CALLED ARAB INVASION of Sindh and even today (albeit in a different form), the single biggest failure of Hindus has been one or more or all of the following: inability, unwillingness, passivity, inertia, or the innate compassion that lies at the heart of Sanatana Dharma in respect of understanding the violent intolerance at the heart of the Islamic doctrine. And in the last two hundred years, Christianity. In the modern time, Hindus continue to live under subjugation of a far deeper, far sinister sort.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+However, back in the 800-year period of tyrannical subjugation, the core of Sanatana Dharma was still intact. It wasn’t infected by Hindus themselves as in the present time–they will go to any lengths to call themselves anything but Hindu. On social media and elsewhere, the spectacle of such Hindus doing crazy mental, textual and intellectual contortions is truly hilarious. This fundamental wellspring of Sanatana Dharma is what enabled Hindus to evolve the Bhakti movement. This sort of response is unparalleled and perhaps can never be repeated.
 
-BEGINNING WITH THE SO-CALLED ARAB INVASION of Sindh and even today (albeit in a different form), the single biggest failure of Hindus has been one or more or all of the following: inability, unwillingness, passivity, inertia, or the innate compassion that lies at the heart of Sanatana Dharma in respect of understanding the violent intolerance at the hea…
+A big factor of the Bhakti movement was characterized by a widespread retelling our epics and Puranas. Indeed, the Bhakti movement arose precisely due to Islam’s record of cultural homicide marked by an industrial scale destruction of Hindu temples, disallowing new ones to be built and existing ones renovated. This fact is best exemplified by the reign of Aurangzeb. Already suffering as Dhimmis (second class citizens with no rights whatsoever), Aurangzeb made it impossible for Hindus to even give expression to their deepest religious needs.
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+The Bhakti saints exhorted people to preserve their way of life and worship in whatever form–nothing was taboo. A big component of Bhakti saints comprised saints, poets, and singers who wandered across India exhorting Hindus to preserve their time-tested ways of life, tradition and life. They worshipped Hindu Gods and Goddess in songs composed in simple and/or rustic lyric in the local language that was easy to memorize and recall, and could be set to tune. The beauty and spontaneity of the Bhakti movement was that it transcended geography by being decentralized, it became that much harder to contain it with violence. As Hari Ravikumar says in an article[\[1\]](https://www.dharmadispatch.in/culture/how-the-bhakti-movement-and-the-new-indian-renaissance#_ftn1) dispelling myths and mischaracterizations of the Bhakti movement,
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+> *When we see the great bhakti poets – be it Shankar Dev of Assam, > Narsinh Mehta of Gujarat, Meera of Rajasthan, Ravidas of Uttar Pradesh, Akka Mahadevi of Karnataka, Tukaram of Maharashtra, or Auvaiyar of Tamil Nadu – we find that they hail from all classes of society and from varied backgrounds.* >
+> *Urilingapeddi was a Dalit, Basavanna was a Brahamin. Jnaneshwar was a Brahmin, Tukaram was a Shudra. Tiruppanalvar was a Dalit, Kulashekharalvar was a Kshatriya, Nammalvar was a Shudra. Purandaradasa was a Vaishya, Kanakadasa was a Shudra.*
 
-Claim my free post
+Thus, when the Ramayana or stories from our Puranas could no longer be recited or performed openly under an oppressive Islamic state, the Bhakti saints made them immediately accessible, by making Rama one’s neighbor, while Krishna was just waiting on the other side of the river. These saints drew parallels, analogies, and illustrations from everyday life, which helped retain Sanatana Dharma as a living and lived tradition. The Bhakti movement also simultaneously instilled great psychological courage among the masses of battered Hindus whose Gods were trampled upon and their *Murtis* (incorrectly translated as “idols”) mutilated and destroyed.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fhow-the-bhakti-movement-gave-hindus&utm_source=paywall&utm_medium=web&utm_content=47116548&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=47116548&next=https://thedharmadispatch.substack.com/p/how-the-bhakti-movement-gave-hindus)
+Centuries of such sustained efforts eventually led to a great pushback: the rise and rise of the legendary Shivaji who successfully defied Aurangzeb and laid the foundation for the later expansive and mighty Maratha Empire is a shining illustration of this fact. The fact that his life and contributions were inspired by his spiritual Guru, the Bhakti-Philosopher saint Samartha Ramadas, and Sant Tukaram who received a high place of honour is an additional testimony to the rejuvenating powers of the Bhakti movement.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+[Read the full inspirational piece!](https://www.dharmadispatch.in/culture/how-the-bhakti-movement-and-the-new-indian-renaissance)
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+------------------------------------------------------------------------
+
+Support our work at *The Dharma Dispatch* by taking a paid subscription.
+
+Subscribe
+
+10
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1e54a9-ebf3-40c2-b2ca-7585e0babb05_2280x1520.jpeg)
+
+#### How the Bhakti Movement Gave Hindus a Breather
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

@@ -20,9 +20,13 @@ Learn Pali from Sanskrit
 
 Oct 22, 2025
 
-13
+9
 
-2
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-pali-from-sanskrit/comments)
+
+1
+
+[](javascript:void(0))
 
 Share
 
@@ -753,8 +757,12 @@ Now let us go to the next reading. The word “*bhikkhave*” is a frequent word
 
 So you see how closely Pali follows Sanskrit and with the familiarity of Sanskrit and some sound changes, you can read easily a Pali text.   
 
-13
+9
 
-2
+[](https://ramaseshanchandrasekaran.substack.com/p/learn-pali-from-sanskrit/comments)
+
+1
+
+[](javascript:void(0))
 
 Share

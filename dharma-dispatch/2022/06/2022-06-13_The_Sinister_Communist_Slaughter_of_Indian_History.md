@@ -8,48 +8,156 @@ Source: [here](https://thedharmadispatch.substack.com/p/the-sinister-communist-s
 
 The Sinister Communist Slaughter of Indian History in Five Phases
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png)
+
+#### The Sinister Communist Slaughter of Indian History in Five Phases
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
 # The Sinister Communist Slaughter of Indian History in Five Phases
 
 ### How history writing in India was systematically destroyed through institutional conquest in five stages
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Jun 13, 2022
 
-∙ Paid
+18
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
+Share this post
 
-19
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png)
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+#### The Sinister Communist Slaughter of Indian History in Five Phases
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/the-sinister-communist-slaughter/comments)
+
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!0H0M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png)
 
-![The Calculated Destruction of History Writing in India in Five Stages](https://substackcdn.com/image/fetch/$s_!0H0M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png "The Calculated Destruction of History Writing in India in Five Stages")
+![The Calculated Destruction of History Writing in India in Five Stages](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png "The Calculated Destruction of History Writing in India in Five Stages")
 
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
+OF THE COUNTLESS VICTIMS of the Sultanate-culture-loving Nawab Nehru, Kulapati K.M. Munshi ranks as one of the more high-profile ones. Nehru never forgave Munshi for that ultimate crime of all: rebuilding the sacred Somanath Temple. Munshi was uncompromising in his abiding *Shraddha* in Sanatana Dharma. Here’s a sample from a stinging letter he wrote to the Nawab of Nothingness:
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+> It is my faith in the past which has given me the strength to work in > the present and to look forward to our future. I cannot value freedom > if it deprives us of the Bhagavad Gita or uproots our millions from > the faith with which they look upon our temples and thereby destroys the texture of our lives…. this shrine once restored to a place of importance in our life will give to our people a purer conception of religion and a more vivid consciousness of our strength.
 
-OF THE COUNTLESS VICTIMS of the Sultanate-culture-loving Nawab Nehru, Kulapati K.M. Munshi ranks as one of the more high-profile ones. Nehru never forgave Munshi for that ultimate crime of all: rebuilding the sacred Somanath Temple. Munshi was uncompromising in his abiding *Shraddha* in Sanatana Dharma. Here’s a sample from a stinging letter he wrote to t…
+As the Nawab of the Night grew in strength and political affluence, K.M. Munshi observed with alarm and unease the long-lasting damage that his Hindu-hatred cum Islamic-love masquerading as secularism was causing to the Dharma of our Rishis. He said,
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+> In \[the\] name \[of secularism\], anti-religious forces, sponsored by > secular humanism or Communism, condemns religious piety, particularly in the majority community…In its name, minorities are immune from such attention and have succeeded in getting their demands, however unreasonable, accepted.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+But K.M. Munshi didn’t merely content himself with such acerbic retorts. He decided to do something constructive about it with a farsighted vision that ensured that this “something” would outlive and outlast him, and endure the proverbial test of time. He approached Acharya R.C. Majumdar with this vision. The result: the majestic eleven volumes of *The History and Culture of the Indian People,* which continues to remain a classic. **Here is a slice from Munshi’s Foreword to the first volume.
 
-Claim my free post
+> I had long felt the inadequacy of our so called Indian histories…for > many years, I was planning an elaborate history of India in order…that > the world might catch a glimpse of her soul as Indians see it. The > history of India is not the story of how she underwent foreign > invasions, but how she resisted them and eventually triumphed over > them…. To be a history in the true sense…the work must be the story of > the people inhabiting a country. It must be a record of their life > from age to age presented through the life and achievements of men > whose exploits become the beacon lights of tradition…the central > purpose of a history must…be to investigate and unfold the values which age after age have inspired the inhabitants of a country to develop their collective will…such a history of India is still to be written.
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fthe-sinister-communist-slaughter&utm_source=paywall&utm_medium=web&utm_content=59275707&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=59275707&next=https://thedharmadispatch.substack.com/p/the-sinister-communist-slaughter)
+After seventy-two years of independence, we notice that Munshi’s remark regarding the so-called Indian histories remains valid. The fact that we still debate about the “true history” of India, and how this field is still highly politicized, bitter, and filled with distortions should be the surest proof that Munshi’s vision and *Sankalpa* has largely remained unfulfilled.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+Of course, there exist excellent and accurate Indian histories: the selfsame *History and Culture of the Indian People, Cultural Heritage of India,* and several standalone works by scholars can be cited as outstanding examples. But these works are far and few between and are mostly forgotten by or lost in the mainstream narrative, which is heavily lopsided and some are openly *hostile* to the cultural and civilizational ethos of India. **This sort of self-alienation and hatred towards one’s own identity and sense of Self is unparalleled anywhere in the world.**
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+Think about it. Think about a perverse parallel, which exists next door. In Pakistan. Pakistan’s official history books[\[1\]](https://dharmadispatch.quintype.com/story/3d18680f-2f06-43df-9906-849b32ddb487#_ftn1) deny and disavow its Hindu past, propagate hatred towards Hindus and India, and seek to forge an “independent” Pakistani identity that has no basis in history.
+
+And what has the Indian “history” establishmentdone for the last seven decades? The same thing. Shaming, blaming, abusing, and trying to disclaim, denounce, and disown its Hindu roots. And it is here, in these roots that we must seek an answer to forge what we can call an indigenous narrative of India’s history.
+
+## Indian Historical Scholarship: Then and Now
+
+IN THIS BACKDROP, it’s instructive to examine the state and nature of scholarship that flourished roughly in the period encompassing the mid-19th and mid-20th centuries. This was truly the era of Bharatavarsha’s Modern Renaissancepopulated by a galaxy of stalwarts in almost all fields of human endeavor and spanning the length and breadth of this country. Needless, the world of scholarship was no different. If time is a soil, it was at its fertile best in this era, supplying to India and the world such luminaries as Pandurang Vaman Kane, Mysore Hiriyanna, Jadunath Sarkar, Bankim Chandra Chattopadhyaya, Parashuram Krishna Gode, Ramesh Chandra Majumdar, Ananda Coomaraswamy, Shama Shastri, Devudu Narasimha Sastry, Ganganath Jha, Govind Chandra Pande, S. Srikanta Sastri, Moti Chandra, Acharya Chatursen Sastri, Radha Kumud Mukherji, Kashi Prasad Jayaswal…the list is breathtaking in number and dazzling in its accomplishment.
+
+While each of these scholars distinguished himself in seminal, exhaustive, and penetrating research in one area—P V Kaneis most notable for his definitive work, the multi-volume *History of the Dharmashastras,* Jadunath Sarkarfor his volumes on Aurangzeb, Surendranath Dasguptafor his five-volume *History of Indian Philosophy,* and others in a similar vein—they also distinguished themselves for their solid multidisciplinary grasp. They had attained enormous proficiency in multiple languages (both Indian and foreign), could decipher epigraphic sources, literary texts, numismatics, sculptural nuances, and so on. This is a truly extraordinary feat by any standard. Small wonder that all of them contributed to learned and scholarly journals and publications like the various Gazetteers, *Indian Antiquary, Epigraphia Indica*, *Bombay Asiatic Society*, and numerous other independent journals and magazines. S Srikanta Sastri for example, could contribute to these scholarly journals *and* to a popular Kannada newsmagazine like *Prajamata* with equal élan.
+
+The Dharma Dispatch Digest is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+Subscribe
+
+THESE SCHOLARS WERE household names in their own time. Yet barring very few people in our own time…an era ruled by the Internet where most information is freely, easily and instantly accessible, how many “educated” Indians are even aware that such scholars actually existed in flesh and blood just forty years ago? R.C. Majumdar for instance, died as recently as 1980. In my limited reading, I didn’t come across a *single* “mainstream” newspaper or magazine that devoted say, a Sunday Supplement or Special Feature to cover his seminal contributions and rich legacy. What does *that* tell us about the nadir we have reached?
+
+But by 1980, this decline was near-comprehensive and in many cases, irreversible. From then onwards, the world of historical scholarship was full of self-righteous, meaningless and political nonsense, defining history as merely a “clash of perspectives.”[\[2\]](https://dharmadispatch.quintype.com/story/3d18680f-2f06-43df-9906-849b32ddb487#_ftn2) When history becomes a mere clash of perspectives, the first casualty is truth because anybody whose perspective has the support of brute force or political power will become the truth. For example, the fierce debates that began in the mid-to-late 1960s over the actual impact of colonial rule quickly give birth to the umbrella subject of Subaltern studies. As a result, these subaltern narratives eventually reduced history to nothing more than a handmaiden of crass Leftist sociology. Look around us today. Anybody who has a pet grievance and can drum up a rowdy, street-lobby endowed with enough lung power can get himself/herself classified as a Subaltern.
+
+We can now trace the trajectory of the calculated downfall of the aforementioned historical scholarship. At a very high level, this trajectory passed through the following stages:
+
+*First,* at the zenith of Bharatavarsha’s Modern Renaissance, scholarship of the highest degree was not only actively sought after but was passionately, carefully nurtured and passed on to successive generations in keeping with the true traditions of the [Indian learning heritage](https://dharmadispatch.quintype.com/vyasa-purnima-the-unsurpassed-educational-heritage-of-india/).
+
+*Second,* this same level and standard of scholarship was sustained for at least seven decades in almost all universities, and institutions of higher learning.
+
+*Third,* a systematic attempt was put in place to dismiss such a high standard of scholarship by condemning it in terms such as, “this knowledge is archaic and useless for the modern time,” “all this is a conspiracy,” “this does not earn a livelihood,” “this is a Hindu revivalist approach,” etc. For a vivid and blunt picture of how this phenomenon worked in practice, read, *Perversion of India’s Political Parlance, Genesis and Growth of Nehruism, Decolonising the Hindu Mind,* and *Negationism in India: Concealing the Record of Islam*. 
+
+*Fourth,* flows from the third. This resulted in the marginalization of the still-surviving scholars of this Renaissance era, which in turn, resulted in the shutting down of various valuable departments in our universities. This loss has since become irretrievable.
+
+*Finally,* an era of actively *discouraging* this sort of scholarship. In retrospect, if we lament at the state of historical scholarship in the last fifty or so years, it’s clear that the reason can be found here, in this trajectory. Needless, without this active sabotage, the Marxistand similar ideological distortions that have become commonplace in Indian historywouldn’t have even been possible in the first place.
+
+In parting, here is a quote from the Grandma of History Distortions, Romila Thapar recounted by Prof Dilip K Chakrabarti. The topic? Romila Thapar’s “vision” of India at the end of the 21st Century:
+
+> …by the end of the 21st century India would break down into a series of small states federated within a more viable single economic space on the scale of the subcontinent.
+
+To put this quote in the correct perspective: this was not Romila Thapar’s “vision,” but her **wish** from the innermost recesses of her anti-national heart. And such innately toxic people sat on various educational boards and for over four decades, virtually *dictated* what was India’s history. And they’ve been extraordinarily successful in their ruinous project. This vandalism of Indian history mirrors the industrial-scale vandalism, desecration and destruction of Hindu Temples by medieval Muslim barbarians: the decimation was complete but what was it replaced with?
+
+The answer is self-evident.
+
+It’s now up to ordinary Hindus to find out a corrective mechanism on their own, at the individual and community levels.
+
+------------------------------------------------------------------------
+
+#### An Earnest Appeal: The Dharma Dispatch Needs Your Support
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*. It is your subscriptions that enables and empowers us to produce in-depth essays exposing such anti-Hindu narratives. Every bit of your subscription pays our bills and *helps us offer more and better content to our readership*.
+
+**To take a paid subscription** and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+Subscribe
+
+18
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58cbb936-4337-474a-aafa-08c6c46ac616_720x405.png)
+
+#### The Sinister Communist Slaughter of Indian History in Five Phases
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/the-sinister-communist-slaughter/comments)
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

@@ -1,9 +1,8 @@
 +++
 title = "RKUL time well spent"
 full_title = "RKUL time well spent 06/06/2021"
-date = "2021-06-07"
 upstream_url = "https://razib.substack.com/p/rkul-time-well-spent-06062021"
-
+date = "2021-06-07"
 +++
 Source: [here](https://razib.substack.com/p/rkul-time-well-spent-06062021).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cbe411-2d29-4a19-b67f-cdc68ddc849b_800x380.jpeg)
 
-RKUL: time well spent 06/06/2021
+#### RKUL: time well spent 06/06/2021
 
 razib.substack.com
 
@@ -29,13 +28,13 @@ Email
 
 ### Recommendations for everything, almost-summer edition
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan)
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Jun 7, 2021
 
-10
+9
 
 [](https://razib.substack.com/p/rkul-time-well-spent-06062021/comments)
 
@@ -43,11 +42,13 @@ Jun 7, 2021
 
 [](javascript:void(0))
 
+Share
+
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cbe411-2d29-4a19-b67f-cdc68ddc849b_800x380.jpeg)
 
-RKUL: time well spent 06/06/2021
+#### RKUL: time well spent 06/06/2021
 
 razib.substack.com
 
@@ -58,6 +59,8 @@ Twitter
 Facebook
 
 Email
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cbe411-2d29-4a19-b67f-cdc68ddc849b_800x380.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cbe411-2d29-4a19-b67f-cdc68ddc849b_800x380.jpeg)
 
@@ -75,11 +78,15 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 Have you ever heard it said that the fauna of New Zealand is unique because of the splendid isolation of the island? Or that Atlantic island ecosystems like the Azores are biological fossils from a previous age? It turns out both stories are mostly wrong. In [The Monkey’s Voyage](https://www.amazon.com/exec/obidos/ASIN/B00H1YPUWQ/geneexpressio-20), evolutionary biologist [Alan de Queiroz](https://monkeysvoyage.wordpress.com/) engagingly narrates the scientific revolution in biogeography that has transformed how we understand natural history, as well as the role of extremely ancient geological events like continental drift in shaping the variation of life on earth.
 
+[](https://www.amazon.com/shop/RazibKhan?listId=8QWSHCW2F0AW)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0d621e2-13c7-49c5-9adc-22d2d58b8c2e_800x195.jpeg)
 
 [Nicholas Christakis](https://twitter.com/NAChristakis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) is one of our day’s most prominent public intellectuals. Not only is his work in [social genomics](https://scholar.google.com/citations?hl=en&user=sR_OzkgAAAAJ) ground-breaking, but he’s a liberal of the old school in a world of craven group-think. His most recent book is [Apollo's Arrow: The Profound and Enduring Impact of Coronavirus on the Way We Live](https://www.amazon.com/exec/obidos/ASIN/B0894J4K93/geneexpressio-20). I’m looking forward to reading it this summer as America tries to put COVID-19 behind us.
 
 Alex Mesoudi, with who I recently recorded a podcast, wrote an excellent academic introduction to a new field several years ago: [Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences](https://www.amazon.com/exec/obidos/ASIN/0226520439/geneexpressio-20). Richard Boyd and Peter Richerson are the doyens of the field and their 2004 [Not By Genes Alone: How Culture Transformed Human Evolution](https://www.amazon.com/exec/obidos/ASIN/0226712842/geneexpressio-20) remains highly relevant (and accessible for the lay reader). Finally, Joe Henrich’s [The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous](https://www.amazon.com/exec/obidos/ASIN/0374173222/geneexpressio-20) is truly not to be missed, as it makes a case for why Western Europe was the part of the world that gave rise to modernity.
+
+[](https://www.amazon.com/shop/RazibKhan?listId=8QWSHCW2F0AW)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315397f2-2125-4fc6-8e08-3743cba4dad6_544x400.jpeg)
 
@@ -168,6 +175,8 @@ And you don’t have to, because my kids go to public schools. Below are some [a
 
 As the originators of the tests and this informative interface say, “System reports provide information that supports evidence-based decision making.” Well, phew! With evidence like this, the kids are clearly in good hands.
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33640ef5-0fcd-4be2-abb8-9eb4c929dcbb_800x242.jpeg)
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33640ef5-0fcd-4be2-abb8-9eb4c929dcbb_800x242.jpeg)
 
 #### **ICYMI**
@@ -232,7 +241,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cbe411-2d29-4a19-b67f-cdc68ddc849b_800x380.jpeg)
 
-RKUL: time well spent 06/06/2021
+#### RKUL: time well spent 06/06/2021
 
 razib.substack.com
 
@@ -243,5 +252,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

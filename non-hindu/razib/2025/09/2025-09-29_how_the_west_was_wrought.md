@@ -2,7 +2,7 @@
 title = "How the West was wrought"
 full_title = "How the West was wrought"
 upstream_url = "https://www.razibkhan.com/p/how-the-west-was-wrought"
-date = "2012-10-24"
+date = "2025-09-29"
 +++
 Source: [here](https://www.razibkhan.com/p/how-the-west-was-wrought).
 

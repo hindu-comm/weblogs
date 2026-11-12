@@ -8,35 +8,365 @@ Source: [here](https://www.razibkhan.com/p/france-europes-creme-de-la-creme).
 
 France: Europe’s crème de la crème
 
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_jwuxw_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bcf1845-2cf8-49fc-a546-9dab9fc5edef_1197x894.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### France: Europe’s crème de la crème
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
 # France: Europe’s crème de la crème
 
 ### Why the French always seem to regain the upper hand, a geographic and genetic exploration, part 1 of 2
 
-[](https://substack.com/@razib)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-![Razib Khan's avatar](https://substackcdn.com/image/fetch/$s_!s3kN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_jwuxw_234 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_6cuho_7 _size-40_6cuho_23">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_btefp_187 _line-height-20_btefp_80 _font-meta_btefp_115 _size-11_btefp_31 _weight-medium_btefp_145 _transform-uppercase_btefp_225 _reset_btefp_1 _meta_btefp_425">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_c9bh7_50">
 
 [Razib Khan](https://substack.com/@razib)
 
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_btefp_190 _line-height-20_btefp_80 _font-meta_btefp_115 _size-11_btefp_31 _weight-medium_btefp_145 _transform-uppercase_btefp_225 _reset_btefp_1 _meta_btefp_425">
+
 Sep 14, 2024
+
+</div>
+
+<div class="pencraft pc-reset _color-pub-secondary-text_btefp_190 _line-height-20_btefp_80 _font-meta_btefp_115 _size-11_btefp_31 _weight-medium_btefp_145 _transform-uppercase_btefp_225 _reset_btefp_1 _meta_btefp_425">
 
 ∙ Paid
 
-83
+</div>
 
-16
+</div>
 
-8
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_jwuxw_234 pc-reset _border-top-detail-themed_jwuxw_47 _border-bottom-detail-themed_jwuxw_50 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+71
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_jwuxw_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bcf1845-2cf8-49fc-a546-9dab9fc5edef_1197x894.png)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### France: Europe’s crème de la crème
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_btefp_169 _line-height-20_btefp_80 _font-text_btefp_106 _size-13_btefp_39 _weight-regular_btefp_142 _reset_btefp_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/france-europes-creme-de-la-creme/comments)
+
+<div class="label">
+
+14
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!fbWR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bcf1845-2cf8-49fc-a546-9dab9fc5edef_1197x894.png)
+</div>
 
-![](https://substackcdn.com/image/fetch/$s_!fbWR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bcf1845-2cf8-49fc-a546-9dab9fc5edef_1197x894.png)
+</div>
 
-*Genetic distance from the French standardized to the short distance as 1.0 (British)*
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![*Genetic distance from the French standardized to the short distance as 1.0 (British)*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bcf1845-2cf8-49fc-a546-9dab9fc5edef_1197x894.png)
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_11q5m_1">
+
+<div class="_sideBySideWrap_11q5m_10">
+
+<div class="_emailInputWrapper_11q5m_57">
+
+</div>
 
 Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 [Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
 
@@ -54,13 +384,25 @@ This central role predates history. When modern humans streamed out of Africa in
 
 France’s centrality to European history is an accident of its location, facing the Atlantic and blessed with good fortune denominated in the abundance of its harvests. The land’s plentitude has made it a perennial human-population magnet, from the first modern bands who arrived more than 50,000 years ago fleeing the Eurasian heartland’s ice and chill, through the Romans, Visigoths and Franks, right down to today’s migrant groups from Francophone Africa. The France that Hugh Capet inherited, a nation that received the mantle of Imperial Rome in Charlemagne’s age, had an ambition and arrogance that would not be curbed until Napoleon’s time. It was just the last iteration of a nation whose peoples have waxed in power, prodigy and audacity: the Gauls of Vercingetorix, whose wealth drew Roman greed and challenged Roman might, the nameless Neolithic megalith builders whose mighty works still stud the Breton headlands and spangle shores all the way north to Scandinavia and south to Malta, and even earlier, during the long Ice-Age epoch when an explosion of Paleolithic creativity bore witness to the rise of the modern mind in addition to modern human lineaments.
 
-[](https://substackcdn.com/image/fetch/$s_!jMYF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ef48f3-c0d7-4fef-a379-c0d22a6eff8c_850x571.png)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!jMYF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ef48f3-c0d7-4fef-a379-c0d22a6eff8c_850x571.png)
+![Europe 16,000 years ago](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ef48f3-c0d7-4fef-a379-c0d22a6eff8c_850x571.png)
 
-Europe 16,000 years ago
+</div>
 
 ### **The Pleistocene painters**
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-position-absolute pc-reset header-anchor-parent">
+
+<div class="pencraft pc-display-contents pc-reset _pubTheme_ztq6h_1">
+
+<div id="§the-pleistocene-painters" class="pencraft pc-reset header-anchor offset-top">
+
+</div>
+
+</div>
+
+</div>
 
 In 1940, Frenchman Marcel Ravidat, an 18-year-old apprentice mechanic out hiking with his friends, happened upon a cave in southwest France whose interior seemed to house an enormous cache of prehistoric art. He and his friends guarded the cave’s entrance throughout World War II, anxious to protect it from vandals, and in 1948 Ravidat’s lifelong association with the cave was sealed when he began guiding visitors on tours. Inside they could behold 6,000 figures depicted on the walls, ranging from extinct animals, like the Irish elk, woolly rhinoceros and cave lion to humans, plus more abstract and inscrutable motifs whose meanings we can only guess at. Mineral pigments granted the artists a palette of various shades, lending their tableaus an even more lifelike profile, with red, yellow and black still clearly visible to us these many millennia later.
 
@@ -68,11 +410,11 @@ Over half the figures on the cave walls are horses. This suggests the artists’
 
 Ravidat’s cave is called Lascaux, and it is one of the major early sites for a prehistoric culture known to archaeologists as the Magdelanian. Associated with a particular toolkit and artistic traditions, the culture draws its name from the society’s first site discovered in 1863 at southwestern France’s Magdalene Shelter. The Magdalenians flourished for about 5,000 years, beginning 17,000 years ago, just as they were first ornamenting the walls of Lascaux. They disappeared only a few centuries before the end of the last Ice Age, recording an uninterrupted duration for their society that knows no analog in our time, the equivalent of a single people enduring from the rise of ancient Egypt all the way to today. Aside from their artistic productivity, the Magdalenians are notable as the last of Europe’s great Ice Age societies, the climax of an arc of cultural evolution dating back to the extinction and replacement of Neanderthals 40,000 years ago. The precedent for the Magdalenian tradition of cave painting goes back to the far earlier Aurignacian culture; these early Europeans began creating art that reflected their life and their legends in caves as early as 35,000 years ago at sites like Chauvet. This means that the artistic tradition the Magdelanians inherited was 18,000 years old by the time they began painting at Lascaux, a longer span than has yet elapsed from the Magdelanians to us today.
 
-[](https://substackcdn.com/image/fetch/$s_!PjTF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9edaf98-f5ad-49fb-b42a-3798139c2ecd_720x472.jpeg)
+<div class="captioned-image-container">
 
-![](https://substackcdn.com/image/fetch/$s_!PjTF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9edaf98-f5ad-49fb-b42a-3798139c2ecd_720x472.jpeg)
+![*Lascaux Cave Paintings*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9edaf98-f5ad-49fb-b42a-3798139c2ecd_720x472.jpeg)
 
-*Lascaux Cave Paintings*
+</div>
 
 Though Magdalenians ranged as far east as Poland, and to Spain’s far south in Gibraltar, the bulk of their sites cluster in France and along Spain’s northern fringe, up against the Pyrenees. Ice-Age Western Europe’s tundra was rich in herbs, grasses and shrubs, a bounty that could sustain herds of mammoth, giant deer and steppe bison. Our modern associations with “tundra” do not apply; the ecological richness more resembled the African savannah than frozen and wind-blasted Siberia or Alaska. A relatively mild Atlantic climate and a flat topography blessed France’s northern and western plains, then as now. Endless grasslands in their turn supported vast herds of megafauna, the economic base for rich forager societies. Today the planet’s rare hunter-gatherers are cultural fossils, surviving only on the marginal lands farmers and pastoralists begrudge them, but during the Pleistocene they occupied choice territories. The vast herds wandering open grasslands across northwestern Europe’s coastal plains, which are today France, explain the density of Paleolithic European sites from the mouth of the Rhine in the northeast, to the Pyrenees in the south.
 
@@ -80,10 +422,32 @@ Our modern lineage: gracile, with high foreheads and prominent chins, evolved fi
 
 Until recently, our understanding of these Ice-Age societies tended to unfurl solely through interpretation of their artifacts and analysis of their fossil remains. But over the last twenty years, ancient DNA has brought to life genetic relationships between individuals and peoples at a granularity that was even recently entirely unimaginable. DNA from Magdalenian sites has clarified their relationships to their Pleistocene predecessors and to the modern European inheritors of their ancient territories. Paleogenetics tells us that the artists of Lascaux were not just cultural heirs of earlier Ice-Age Europeans, they were the genetic descendants of the first Aurignacian cave painters.
 
-The earliest anatomically modern human site in France is in the Rhône valley and dates to ~55,000 years ago. But Neanderthals eventually reoccupied the site, and they do not disappear from the European fossil record until about 40,000 years ago, so we now know the handoff between the two lineages of humans was more halting and complex than previously described. But by 40,000 years ago, modern humans were in Western Europe to stay, an age of abortive colonization attempts now behind them, as their Neanderthal competitors disappeared from the fossil record. This period saw the emergence of what became the proto-Aurignacian cultural toolkit: long blades, bone points and antler tools. These were far different from the more traditional flake-based blades and scrapers that the Neanderthals had used for hundreds of thousands of years. The Aurignacians’ ancestors had recent roots in Africa, 60,000 years ago, at the latest, part of the most recent migration out of the mother continent. But they themselves had migrated out of the Near East, and pushed into Eastern Europe along its southeastern Balkan fringe, as early as 45,000 years ago.
+The earliest anatomically modern human site in France is in the Rhône valley and dates to \~55,000 years ago. But Neanderthals eventually reoccupied the site, and they do not disappear from the European fossil record until about 40,000 years ago, so we now know the handoff between the two lineages of humans was more halting and complex than previously described. But by 40,000 years ago, modern humans were in Western Europe to stay, an age of abortive colonization attempts now behind them, as their Neanderthal competitors disappeared from the fossil record. This period saw the emergence of what became the proto-Aurignacian cultural toolkit: long blades, bone points and antler tools. These were far different from the more traditional flake-based blades and scrapers that the Neanderthals had used for hundreds of thousands of years. The Aurignacians’ ancestors had recent roots in Africa, 60,000 years ago, at the latest, part of the most recent migration out of the mother continent. But they themselves had migrated out of the Near East, and pushed into Eastern Europe along its southeastern Balkan fringe, as early as 45,000 years ago.
+
+</div>
+
+</div>
+
+<div class="paywall" component-name="Paywall" testid="paywall">
 
 ## This post is for paid subscribers
 
+<div class="paywall-cta">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center pc-reset">
+
 Subscribe
 
+</div>
+
+</div>
+
+<div class="paywall-login">
+
 [Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Ffrance-europes-creme-de-la-creme&for_pub=razib&change_user=false)
+
+</div>
+
+</div>
+
+</div>

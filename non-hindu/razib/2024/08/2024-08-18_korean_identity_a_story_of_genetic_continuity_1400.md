@@ -2,8 +2,7 @@
 title = "Korean identity a story"
 full_title = "Korean identity a story of genetic continuity 1,400 years in the making"
 upstream_url = "https://www.razibkhan.com/p/korean-identity-a-story-of-genetic"
-date = "400-01-15"
-
+date = "2024-08-18"
 +++
 Source: [here](https://www.razibkhan.com/p/korean-identity-a-story-of-genetic).
 

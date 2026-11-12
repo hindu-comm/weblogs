@@ -6,56 +6,158 @@ date = "2022-08-25"
 +++
 Source: [here](https://thedharmadispatch.substack.com/p/the-bhaandification-of-bollywood).
 
-The Bhaandification of Bollywood
+The Bhaandification of Bollywood 
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg)
+
+#### The Bhaandification of Bollywood
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+![](https://substackcdn.com/image/fetch/w_128,h_128,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+![](https://substackcdn.com/image/fetch/w_48,h_48,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f879df7-dc51-49b1-8b7e-a20fe00e2dcc_512x512.png)
+
+#### Discover more from The Dharma Dispatch Digest
+
+Stories and essays from Indian civilisation, history and culture. Narratives from Sanatana Dharma. This is the digest of the main site, https://www.dharmadispatch.in/, delivered directly to your email inbox.
+
+Over 8,000 subscribers
+
+Subscribe
+
+Continue reading
+
+Sign in
 
 # The Bhaandification of Bollywood
 
 ### Bollywood has today emerged as one of the most divisive forces hurting India. This phenomenon can be best described as the Bhaandification of Bollywood.
 
-[](https://substack.com/@thedharmadispatch)
-
-![The Dharma Dispatch's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
 
 [The Dharma Dispatch](https://substack.com/@thedharmadispatch)
 
 Aug 25, 2022
 
-∙ Paid
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0IiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIgLz48L3N2Zz4=)
-
 15
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3R5bGU9ImhlaWdodDoyMHB4O3dpZHRoOjIwcHg7IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48dGl0bGU+PC90aXRsZT48c3ZnIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIiBoZWlnaHQ9IjI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIiAvPjwvc3ZnPg==)
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg)
+
+#### The Bhaandification of Bollywood
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/the-bhaandification-of-bollywood/comments)
 
 4
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgcm9sZT0iaW1nIiBzdHJva2U9InZhcigtLWNvbG9yLWZnLXByaW1hcnkpIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDIwIDIwIiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHRpdGxlPjwvdGl0bGU+PHBhdGggZD0iTTIuNTMwMDEgNy44MTU5NUMzLjQ5MTc5IDQuNzM5MTEgNi40MzI4MSAyLjUgOS45MTE3MyAyLjVDMTMuMTY4NCAyLjUgMTUuOTUzNyA0LjQ2MjE0IDE3LjA4NTIgNy4yMzY4NEwxNy42MTc5IDguNjc2NDdNMTcuNjE3OSA4LjY3NjQ3TDE4LjUwMDIgNC4yNjQ3MU0xNy42MTc5IDguNjc2NDdMMTMuNjQ3MyA2LjkxMTc2TTE3LjQ5OTUgMTIuMTg0MUMxNi41Mzc4IDE1LjI2MDkgMTMuNTk2NyAxNy41IDEwLjExNzggMTcuNUM2Ljg2MTE4IDE3LjUgNC4wNzU4OSAxNS41Mzc5IDIuOTQ0MzIgMTIuNzYzMkwyLjQxMTY1IDExLjMyMzVNMi40MTE2NSAxMS4zMjM1TDEuNTI5MyAxNS43MzUzTTIuNDExNjUgMTEuMzIzNUw2LjM4MjI0IDEzLjA4ODIiIC8+PC9nPjwvc3ZnPg==)
+[](javascript:void(0))
 
 Share
 
-[](https://substackcdn.com/image/fetch/$s_!XrJD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg)
 
-![The Bhaandification of Bollywood](https://substackcdn.com/image/fetch/$s_!XrJD!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg "The Bhaandification of Bollywood")
-
-![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiByb2xlPSJpbWciIHN0cm9rZT0idmFyKC0tY29sb3ItZmctcHJpbWFyeSkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHZpZXdib3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjx0aXRsZT48L3RpdGxlPjxwYXRoIGQ9Ik0yLjUzMDAxIDcuODE1OTVDMy40OTE3OSA0LjczOTExIDYuNDMyODEgMi41IDkuOTExNzMgMi41QzEzLjE2ODQgMi41IDE1Ljk1MzcgNC40NjIxNCAxNy4wODUyIDcuMjM2ODRMMTcuNjE3OSA4LjY3NjQ3TTE3LjYxNzkgOC42NzY0N0wxOC41MDAyIDQuMjY0NzFNMTcuNjE3OSA4LjY3NjQ3TDEzLjY0NzMgNi45MTE3Nk0xNy40OTk1IDEyLjE4NDFDMTYuNTM3OCAxNS4yNjA5IDEzLjU5NjcgMTcuNSAxMC4xMTc4IDE3LjVDNi44NjExOCAxNy41IDQuMDc1ODkgMTUuNTM3OSAyLjk0NDMyIDEyLjc2MzJMMi40MTE2NSAxMS4zMjM1TTIuNDExNjUgMTEuMzIzNUwxLjUyOTMgMTUuNzM1M00yLjQxMTY1IDExLjMyMzVMNi4zODIyNCAxMy4wODgyIiAvPjwvZz48L3N2Zz4=)
-
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYXhpbWl6ZTIgbHVjaWRlLW1heGltaXplLTIiIGZpbGw9Im5vbmUiIGhlaWdodD0iMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlsaW5lIHBvaW50cz0iMTUgMyAyMSAzIDIxIDkiPjwvcG9seWxpbmU+PHBvbHlsaW5lIHBvaW50cz0iOSAyMSAzIDIxIDMgMTUiPjwvcG9seWxpbmU+PGxpbmUgeDE9IjIxIiB4Mj0iMTQiIHkxPSIzIiB5Mj0iMTAiPjwvbGluZT48bGluZSB4MT0iMyIgeDI9IjEwIiB5MT0iMjEiIHkyPSIxNCI+PC9saW5lPjwvc3ZnPg==)
+![The Bhaandification of Bollywood](https://substackcdn.com/image/fetch/w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg "The Bhaandification of Bollywood")
 
 IN ONE OF THE MOST BRUTALLY DELICIOUS EVISCERATIONS I’ve ever read, Hunter S Thompson skewers Richard Nixon in an…*obituary.* It is the journalistic equivalent of pissing on the grave. Here is a tidbit from it.
 
-> NIXON HAD THE UNIQUE ABILITY TO MAKE HIS ENEMIES SEEM HONORABLE, and
-> we developed a keen sense of fraternity. Some of my best friends have
-> hated Ni…
+> NIXON HAD THE UNIQUE ABILITY TO MAKE HIS ENEMIES SEEM HONORABLE, and > we developed a keen sense of fraternity. Some of my best friends have hated Nixon all their lives. MY MOTHER HATES NIXON, MY SON HATES NIXON, I HATE NIXON, AND THIS HATRED HAS BROUGHT US TOGETHER. (Capitalisation Added)
 
-![User's avatar](https://substackcdn.com/image/fetch/$s_!3Qms!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9d78c9b-fd9a-4bf5-a7c3-4cf0b040e7ba_500x500.png)
+Something similar is happening with the unrelenting but eminently deserved badgering of Bollywood. I chose the word “badger” with care. It is one of the most dangerous omnivores fabled for its feral style of combat that involves brutal slashing and ripping and tearing. Which is exactly what Bollywood is faced with on a national scale. A fate it invited upon itself. And like in Nixon’s case, the common hatred for Bollywood has made bedmates of the most unlikely sections of our society.
 
-## Continue reading this post for free, courtesy of The Dharma Dispatch.
+Over the last three or so years, Bollywood, more than ideology or politics, has emerged as the single-most divisive phenomenon. On one side is everything that Bollywood represents: the actors, production houses, writers, directors…and the whole *jing-bang* is supported by their cup-bearers and spittoon-holders otherwise known as reviewers, “journalists,” and PR agencies. On the other side are…decent Indians who have simply had enough and have actually decided to take concrete action.
 
-Claim my free post
+The action has now become a phenomenon which I can best describe as the *Bhaandification of Bollywood.*
 
-[Or purchase a paid subscription.](https://thedharmadispatch.substack.com/subscribe?simple=true&next=https%3A%2F%2Fthedharmadispatch.substack.com%2Fp%2Fthe-bhaandification-of-bollywood&utm_source=paywall&utm_medium=web&utm_content=70298421&just_signed_up=falsesimple=true&utm_source=paywall&utm_medium=email&utm_content=70298421&next=https://thedharmadispatch.substack.com/p/the-bhaandification-of-bollywood)
+The thickly populated—and growing—YouTube universe of movie reviewers indulges in a special relish in invariably prefixing Bollywood people with “Bollywood ka *bhaandon*” or “Bollywood ke *nachhanniyon*.” The word *Bhaand* has a range of meanings including folk-entertainer, jester, mimic, clown, buffoon, and even, “drunk as hell.” It is usually used in a derogatory sense. *Nachhanniya* is even more pejorative usually associated with nautch girls in brothels.
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1sZWZ0IiBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMiAxOS03LTcgNy03IiAvPjxwYXRoIGQ9Ik0xOSAxMkg1IiAvPjwvc3ZnPg==)Previous
+THE BHAANDIFICATION OF BOLLYWOOD has occurred for reasons now familiar to all of us: nepotism, flagrant and unapologetic Hinduphobia, India-bashing and Pakistan-promotion, drug abuse, mafia activity, and a sense of entitlement that puts even Rahul Gandhi to shame. And Bollywood inflicted all of this simultaneously on the country film after disgusting film, year after year until the slender thread broke.
 
-Next![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1hcnJvdy1yaWdodCIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxMmgxNCIgLz48cGF0aCBkPSJtMTIgNSA3IDctNyA3IiAvPjwvc3ZnPg==)
+Now, it doesn’t matter what the film is or even how good it is. What matters is that Bollywood has spat it out. Even if *Shamshera, Lal Singh Chaddha* and *Rakshabandhan* were well-made, they would have most certainly bombed. That they are atrocious is simply the icing on the cake.
+
+On the broader plane of cultural studies, the Bhaandification of Bollywood will go down in history as a critical turning point. As a spontaneous revolution in which society as a whole united in unseen ways to successfully bludgeon an entitled and thoroughly profane elite endowed with the manners of a roadside ruffian. Like its counterpart in the academia, Bollywood has today emerged as the ultimate cultural vandal. This interesting [piece](https://openthemagazine.com/cinema/the-cult-of-stupidity/) gives us some contours of how this is playing out.
+
+> …Koffee with Karan…features celebrities on his couch who have to > answer deep and meaningful questions about their intimate lives. Have > they ever had sex in a public place? Would they ever want to have a > threesome? And whom would they like to date among the men available in > the industry? None of this seems shocking or surprising to the mostly > young men and women sitting on his couch, who find it easier to answer > these questions than those related to national issues. It only confirms a suspicion I’ve always had: that in Bollywood, it is smart to play dumb. The less you know, the less you threaten. Johar is the prime proponent of this ‘Cult of Stupidity’ and makes money off it…
+
+Sure, Karan Johar makes money off sleaze but he—and the rest of his Bollywood ilk—is also paying for it. In ways they hadn’t imagined. The ongoing national backlash against Bollywood won’t end anytime soon and shouldn’t either—notwithstanding phoney apologies by fake artists. The backlash is akin to wielding the broom or the washcloth. It shouldn’t be put down until the cleaning is complete and thorough.
+
+The Bhaandification of Bollywood has also been an education. It has pried the gutter wide open. And the stench stinks to the high heavens. A new stink-bomb keeps emerging almost on an hourly basis on the Internet. As such, the details of each sickening new revelation are merely data points in the aforementioned study of a cultural and social phenomenon. At no point in the last hundred years has Bollywood been investigated so comprehensively and at such a frenzied pace.
+
+And it has clearly unnerved the alleged industry.
+
+First, the financial ruin is hurting Bollywood in an unprecedented fashion notwithstanding the brave face it puts on by citing bogus collections. Copious amounts of black money, the fuel that powers Bollywood, is also money. And you *will* run out of it. Which is also what is happening. Post *Lal Singh Chaddha,* OTT platforms are showing a marked aversion to buying Bollywood movies.
+
+Second, the neurotic and hysterical responses from Bollywood’s denizens are the most candid proofs for how the Bhaandified Bollywood is on the edge. We were treated to a visibly shattered Aamir Khan trying to offer pathetic defenses…reduced almost to begging. His dog-and-pony show was only surpassed by the perpetually drugged Anurag Kashyap and a sloshed Tapsee Pannu who volunteered to put on a shitshow, which expectedly backfired against them. The list will only grow.
+
+What the public outcry against the Bhandification of Bollywood has achieved is comparable to an enema. The loose motions gushing out at terabyte speeds show what Bollywood really is: excreta.
+
+------------------------------------------------------------------------
+
+## An Appeal: Please Support Our Work @ The Dharma Dispatch to Counter Hinduphobic Narratives
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*.
+
+It takes us weeks of careful research, diligent preparation and passionate writing to produce the content you read on The Dharma Dispatch.
+
+It is your subscriptions that enables and empowers us to produce content **exposing Hinduphobic and anti-India narratives**, led by Bollywood and likeminded forces. *Every rupee of your subscription pays our bills and helps us offer more and better content to our readership.*
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma and counter attacks against it, click the button below.
+
+Subscribe
+
+15
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63a9bf4-fdbe-4139-b72b-c15f39b30351_1224x689.jpeg)
+
+#### The Bhaandification of Bollywood
+
+thedharmadispatch.substack.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://thedharmadispatch.substack.com/p/the-bhaandification-of-bollywood/comments)
+
+4
+
+[](javascript:void(0))
+
+Share
+
+Previous
+
+Next

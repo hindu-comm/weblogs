@@ -1,9 +1,8 @@
 +++
 title = "I am Darius, an Aryan"
 full_title = "I am Darius, an Aryan"
-date = "2021-10-17"
 upstream_url = "https://eruditus.substack.com/p/i-am-darius-an-aryan"
-
+date = "2021-10-17"
 +++
 Source: [here](https://eruditus.substack.com/p/i-am-darius-an-aryan).
 
@@ -13,7 +12,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccffedb6-0610-4813-8d46-a66a6b68beed_640x630.jpeg)
 
-I am Darius, an Aryan
+#### I am Darius, an Aryan
 
 eruditus.substack.com
 
@@ -27,7 +26,7 @@ Email
 
 # I am Darius, an Aryan
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa)
 
 [Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
@@ -35,13 +34,17 @@ Oct 17, 2021
 
 11
 
-[](https://eruditus.substack.com/p/i-am-darius-an-aryan/comments)[](javascript:void(0))
+[](https://eruditus.substack.com/p/i-am-darius-an-aryan/comments)
+
+[](javascript:void(0))
+
+Share
 
 Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccffedb6-0610-4813-8d46-a66a6b68beed_640x630.jpeg)
 
-I am Darius, an Aryan
+#### I am Darius, an Aryan
 
 eruditus.substack.com
 
@@ -53,7 +56,9 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccffedb6-0610-4813-8d46-a66a6b68beed_640x630.jpeg "Darius The Great Quotes. QuotesGram")
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccffedb6-0610-4813-8d46-a66a6b68beed_640x630.jpeg)
+
+![Darius The Great Quotes. QuotesGram](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccffedb6-0610-4813-8d46-a66a6b68beed_640x630.jpeg "Darius The Great Quotes. QuotesGram")
 
 > ***Old Persian:** baga vazraka auramazdā, hya imām būmim adā, hya avam > asmānam adā, hya martiyam adā, hya šiyātim adā martiyahyā, hya > dārayavaum xšāyaθiyam akunauš, aivam parūvnām xšāyaθiyam, aivam > parūvnām framātāram, adam dārayavauš xšāyaθiya vazraka, xšāyaθiya xšāyaθiyānām, xšāyaθiya dahyūnām vispazanānām, xšāyaθiya ahyāyā būmiyā, vazrakāyā dūraiapiy vištāspahyā, puça haxāmanišiya pārsa pārsahyā, puça ariya ariyaciça*
 
@@ -73,7 +78,7 @@ Share this post
 
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccffedb6-0610-4813-8d46-a66a6b68beed_640x630.jpeg)
 
-I am Darius, an Aryan
+#### I am Darius, an Aryan
 
 eruditus.substack.com
 
@@ -84,5 +89,3 @@ Twitter
 Facebook
 
 Email
-
-Like this post

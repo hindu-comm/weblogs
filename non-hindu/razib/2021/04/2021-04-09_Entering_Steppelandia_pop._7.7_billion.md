@@ -1,65 +1,344 @@
 +++
 title = "Entering Steppelandia"
 full_title = "Entering Steppelandia pop 77 billion"
+upstream_url = "https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion"
 date = "2021-04-09"
-upstream_url = "https://razib.substack.com/p/entering-steppelandia-pop-77-billion"
-
 +++
-Source: [here](https://razib.substack.com/p/entering-steppelandia-pop-77-billion).
+Source: [here](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion).
 
 Entering Steppelandia: pop. 7.7 billion
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8971c3e-5036-4483-9126-c6f8701cc875_800x505.jpeg)
 
-Entering Steppelandia: pop. 7.7 billion
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Entering Steppelandia: pop. 7.7 billion
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
 
 # Entering Steppelandia: pop. 7.7 billion
 
 ### Why the steppe matters to me, and why it should matter to you
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
 
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[Razib Khan](https://substack.com/@razib)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
 
 Apr 9, 2021
 
-41
+</div>
 
-[](https://razib.substack.com/p/entering-steppelandia-pop-77-billion/comments)
+</div>
 
-13
+</div>
 
-[](javascript:void(0))
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+48
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8971c3e-5036-4483-9126-c6f8701cc875_800x505.jpeg)
 
-Entering Steppelandia: pop. 7.7 billion
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Entering Steppelandia: pop. 7.7 billion
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion/comments)
+
+<div class="label">
+
+15
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8971c3e-5036-4483-9126-c6f8701cc875_800x505.jpeg)
+
+</div>
 
 *Whenever I write deep-dive Substack posts on genetics and human history ([India](https://razib.substack.com/p/stark-truth-about-aryans-a-story), [Italy](https://razib.substack.com/p/they-came-they-saw-they-left-no-trace), even [China](https://razib.substack.com/p/made-in-china)), I end up cutting reams of in-depth background on the steppe before I hit “publish.” Why? The Eurasian steppe is my compulsive digression. Everything canonical, everything human… makes more sense if I make sure you understand the steppe first. But too many don’t. And I fear they don’t even know what they’re missing. I want to bring my readership along on my steppe obsession, not least so that the rest of my posts will be more meaningful reads. *
 
@@ -69,11 +348,35 @@ Email
 
 *On a lighter note, try your hand at my two-minute [“Your Steppe IQ”](https://quiz.tryinteract.com/#/606bf24736587f0017e3c225) quiz. Legit bragging rights if you earn Khan status or make it to Steppelandia. And my best steppe reading recommendations for all who finish!*
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 **Part 1,** [Going Nomad, Steppe 1.0](https://razib.substack.com/p/steppe-10-going-nomad)
 
@@ -92,6 +395,8 @@ Email
 **Part 8,** [Casting out the wolf in our midst](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst)
 
 **Part 9,** [A Hun by any other name – On the genetic trail of Europe’s enduring bête noire](https://razib.substack.com/p/a-hun-by-any-other-name)
+
+**Part 10,** [You’re so Turk and you don’t even know it](https://razib.substack.com/p/youre-so-turk-and-you-dont-even-know)
 
 I am haunted by the steppe. Yes, my surname comes from a Turkic language of the eastern steppe, in modern-day Mongolia. The only language I read has its ultimate origins on the steppe, among the *kurgan* burial-mound builders who flourished east of the Dnieper five thousand years ago. And sure, over four thousand years ago, my [direct paternal ancestors](https://en.wikipedia.org/wiki/Abashevo_culture) were steppe pastoralists occupying lands west of the Volga. But the motives for my obsession aren’t that self-involved.
 
@@ -113,13 +418,41 @@ Thinking back, to arrive at my full appreciation of the importance of the steppe
 
 For our Ice-Age ancestors, the open steppe may not have been much more appealing than the semi-arctic forests, but by the Holocene, human ingenuity began transforming it into a landscape of vast possibilities. It was an endless forge of potential which wrought humanity’s deadliest armies and largest empires from the roughest of barbarians. But the steppe also became an international thoroughfare, a prehistoric “information superhighway” and a literal highway, as ideas and individuals ricocheted across it from one edge to the other, sped along by a network of common cultures and lifestyles. Clearly, for humanity, the steppe was both unfathomably vast and incalculably fertile, in no important way secondary to the taiga.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![**Mongolian steppe**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fadae129c-64cf-42dc-91d6-e866a862d7a4_1600x1067.jpeg)
+
+</div>
 
 **Dragons of hell**
 
@@ -129,13 +462,41 @@ That dire Roman view of the Huns: subhuman instruments of an angry God capable o
 
 To hear those who outlived them tell it, the peoples of the steppe were pure forces of nature. Christians termed Atilla the Hun the “scourge of God,” reducing him to a servant of fate whose *raison d’etre* was to mete out punishment on God’s behalf. It served no chronicler I read to also see Attila as a leader of men, with his own ambitions and audacity. Attila and the Huns played one-dimensional bit parts in the Roman drama. They weren’t masters of their own fate.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![A Hun in repose](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F706adbf8-7d78-4307-bee9-cdaa142af65c_600x594.jpeg)
+
+</div>
 
 **A history hidden**
 
@@ -149,13 +510,41 @@ For me, the core insight behind this phenomenon is simply that the steppe was en
 
 The vast pastures on the steppe allowed for the maintenance of massive herds of horses. Large herds let steppe nomads select for a variety of different breeds, from the small ponies the Huns rode, to the powerful destrier mounts of the Sarmatian lancers that descended upon the Romans in the 3rd century A.D. The first Chinese foray to the west in 50 A.D. saw its delegation fail in its sole mission: procure steppe horses. With the battlefield imbalance of no horses, the nation’s capacity for war remained fatally stymied and indeed within two centuries, China fell to steppe pastoralists By a few centuries later, India had repeated this same arc of futilely coveting horses only to be conquered by Huns.
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+<div class="captioned-image-container">
 
 ![**The Feast of Attila’ by Mór Than, 1870.**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65797e10-b4e5-4320-818c-853a7e6b7022_1028x700.jpeg)
+
+</div>
 
 **Dust in the Wind**
 
@@ -181,51 +570,210 @@ My name is Razib Khan and I am haunted by the steppe. Some of my other obsession
 
 **You might also like:**
 
-- [Your Steppe IQ
-  quiz](https://quiz.tryinteract.com/#/606bf24736587f0017e3c225)
+-   [Your Steppe IQ
+    quiz](https://quiz.tryinteract.com/#/606bf24736587f0017e3c225)
 
-- Clubhouse room: Friday, April 9, 7pm PDT, 10pm EDT “[Eurasian Steppes
-  before Christ](https://www.joinclubhouse.com/event/mJwGrOoN)” (find
-  me, @RazibKhan)
+-   Clubhouse room: Friday, April 9, 7pm PDT, 10pm EDT “[Eurasian
+    Steppes before
+    Christ](https://www.joinclubhouse.com/event/mJwGrOoN)” (find me,
+    @RazibKhan)
 
-- [Why I'm \*not\* leaving
-  Substack](https://www.readtangle.com/p/why-im-not-leaving-substack)
+-   [Why I'm \*not\* leaving
+    Substack](https://www.readtangle.com/p/why-im-not-leaving-substack)
 
-- [Spectrum of Sex: Chapter
-  3](https://colinwright.substack.com/p/book-review-the-spectrum-of-sex-chapter-4bb)
+-   [Spectrum of Sex: Chapter
+    3](https://colinwright.substack.com/p/book-review-the-spectrum-of-sex-chapter-4bb)
 
-- [Estimating Human
-  Ancestry](https://evolvability.substack.com/p/estimating-human-ancestry)
+-   [Estimating Human
+    Ancestry](https://evolvability.substack.com/p/estimating-human-ancestry)
 
-- [Ancient Humans Had A Lot Of Sex With Each
-  Other](https://www.gnxp.com/WordPress/2021/04/08/ancient-humans-had-a-lot-of-sex-with-each-other/)
+-   [Ancient Humans Had A Lot Of Sex With Each
+    Other](https://www.gnxp.com/WordPress/2021/04/08/ancient-humans-had-a-lot-of-sex-with-each-other/)
 
-**Subscribe**
+<div class="subscribe-widget" component-name="SubscribeWidget">
 
-[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
 
-[Share](https://razib.substack.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+<div class="_container_1xsdj_1">
 
-[](https://razib.substack.com/p/entering-steppelandia-pop-77-billion/comments)
+<div class="_sideBySideWrap_1xsdj_10">
 
-13
+<div class="_emailInputWrapper_1xsdj_55">
 
-[](javascript:void(0))
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+48
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
 
 Share this post
 
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
 ![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8971c3e-5036-4483-9126-c6f8701cc875_800x505.jpeg)
 
-Entering Steppelandia: pop. 7.7 billion
+</div>
 
-razib.substack.com
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### Entering Steppelandia: pop. 7.7 billion
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+www.razibkhan.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Copy link
 
-Twitter
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
 
 Facebook
 
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
 Email
 
-Like this post
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://www.razibkhan.com/p/entering-steppelandia-pop-77-billion/comments)
+
+<div class="label">
+
+15
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

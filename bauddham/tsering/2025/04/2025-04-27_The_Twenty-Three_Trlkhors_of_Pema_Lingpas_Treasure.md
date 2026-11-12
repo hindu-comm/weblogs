@@ -142,7 +142,7 @@ Seated upright, cultivate the Four Immeasurables — loving-kindness, compassion
 
 ![](https://substackcdn.com/image/fetch/$s_!3ht9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85d7e5b2-c642-4524-b5e8-de7be2720393_1021x861.png)
 
-> གཉིས་པ་རྐང་གཉིས་ཕྱིར་བསྐོར་ཞིང།༼གཉིས་པ་རྐང་གཉིས་མཐིལ་སྐོར་ཞིང༽[1](#footnote-1)
+> གཉིས་པ་རྐང་གཉིས་ཕྱིར་བསྐོར་ཞིང།༼གཉིས་པ་རྐང་གཉིས་མཐིལ་སྐོར་ཞིང༽[1](https://tsering.substack.com/p/the-twenty-three-trulkhors-of-pema#footnote-1-161886238)
 >
 > གཡས་གཡོན་གཉིས་སྐོར་འདྲེ་བར་བྱ༎
 
@@ -516,7 +516,7 @@ Twenty-third, sit upright on a comfortable seat, assuming the seven-point postur
 
 I, Pema \[Sambhava\], have perfectly recorded this twenty-three secret Trülkhor practice. I offer this aspiration to my heart-son \[Pema Lingpa\]: may he become peerless among all sentient beings. This concludes the first chapter in the series of Trülkhor practices. Seal of secrecy.
 
-[1](#footnote-anchor-1)
+[1](https://tsering.substack.com/p/the-twenty-three-trulkhors-of-pema#footnote-anchor-1-161886238)
 
 In another version of the text, this line appears as གཉིས་པ་རྐང་གཉིས་མཐིལ་སྐོར་ཞིང་།
 
