@@ -8,6 +8,20 @@ Source: [here](https://psugam.substack.com/p/those-who-learn-languages-from-book
 
 Those who learn languages from books...
 
+
+
+![User's avatar](https://substackcdn.com/image/fetch/$s_!akzg!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86e29bbb-9da7-4de5-a0e3-6834eed25785_1770x1770.png)
+
+Discover more from FLORILEGIUM
+
+History and Literature.
+
+Subscribe
+
+By subscribing, you agree to Substack's [Terms of Use](https://substack.com/tos), and acknowledge its [Information Collection Notice](https://substack.com/ccpa#personal-data-collected) and [Privacy Policy](https://substack.com/privacy).
+
+Already have an account? Sign in
+
 # Those who learn languages from books...
 
 [](https://substack.com/@psugam)
