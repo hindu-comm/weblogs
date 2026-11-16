@@ -1,0 +1,32 @@
++++
+title = "Meera Nanda against"
+full_title = "Meera Nanda against Hinduism and its friends Sources of Breivik's terror option"
+upstream_url = "https://koenraadelst.blogspot.com/2012/03/meera-nanda-against-hinduism-and-its_16.html"
+date = "2012-03-16"
++++
+Source: [here](https://koenraadelst.blogspot.com/2012/03/meera-nanda-against-hinduism-and-its_16.html).
+
+Meera Nanda against Hinduism and its friends: (2) Sources of Breivik's terror option
+
+Dr. Nanda casts the net of guilt for the Oslo slaughter as wide as possible: “Even though Anders Breivik alone pulled the trigger, the massacre in Norway was by no means the work of Breivik alone. He is a product of years of immersion in a worldwide web of anti-Islamic ideas espoused by cultural purists and nationalists of all stripes.”  
+  
+  
+  
+  
+What triggered Breivik?  
+  
+Actually, if we are to believe the sincerity of his manifesto (and Dr. Nanda, who bases her argument on it, clearly does), Breivik the mass-murderer was the “product” of something more elementary. He testifies that he embarked on his crusading mission against Islam in 1999, well before reading up on any “anti-Islamic ideas”. A number of Islam critics profusely cited by Breivik, such as American scholars Robert Spencer and Andrew Bostom and Dutch politician Geert Wilders, and the websites www.gatesofvienna.org, www.jihadwatch.org and www.brusselsjournal.com, only became active on the Islam front in the years after the attacks of 11 September 2001. Likewise, Bat Ye’or had written important studies on Islamic history earlier, but her crucial thesis on “Eurabia” only appeared in 2005. The late Oriana Fallaci only turned from left-wing writing to Islam criticism years after Breivik had made up his mind. No, according to his own testimony, he conceived a hatred of Islam as a consequence of bitter personal experience rather than of reading.  
+  
+This experience included a number of physical batterings he and his friends endured from Muslim gangs, as well as the estrangement from a Pakistani school friend who evolved from a well-integrated Norwegian with Paki roots to an Islamic fanatic living in a Paki ghetto and reportedly involved in a gang-rape of a Norwegian girl. And speaking of rape: a wave of Muslim-on-Kafir rapes in Norway (and likewise France and other places), later documented in detail by the Norwegian Arabist Peder Jensen writing under the pen name *Fjordman*, was apparently the foremost factor of his budding hate. Empathy with rape victims is a logical source of hate, for who would deny rape victims the right to hate their rapists?  
+  
+That intellectuals and political parties critical of Islam were not the inspiration for his crime, is explained in so many words by Breivik himself. He chides them for being all talk and no action, being more concerned about their own respectability than for the tough measures required. (p.764) But he realizes, knowing the vileness and meanness of most caviar-leftist intellectuals, that the Islam critics will nonetheless all be smeared by association with him. And he welcomes this prospect. He *wants* them to be discredited, for that way alone will the common people come to see that talking in seminars and parliaments cannot be the solution. From the Islam-criticizing parties he borrows some rhetoric but emphatically rejects the solutions. Taking the example of the Norwegian *Fremskrittspartiet* (Progress Party), of which he himself had been a member years ago, he expects it to suffer seriously by association with himself and applauds this as a way to make the population shed the illusion of countering Islamization by democratic means and choose the revolutionary path instead. (p.1401)  
+  
+This violent alternative has nothing to do with anything written by the Islam critics quoted elsewhere in his manifesto. It taps into a different and well-known source of inspiration: the Far Left. From the 19th-century anarchists to the German *Rote Armee Fraktion* and the Italian *Brigate Rosse* of the 1970s and the Maoists of today’s India, left-wing terrorists have always believed that their actions would serve as an ignition mechanism for the revolutionary uprising of the masses. Although their terror never led to the revolution intended (and Lenin, who did succeed in making a revolution, firmly denounced their counterproductive “childhood disease of Communism”), at least it didn’t damage the standing of their ideology of class struggle. The same rhetoric used by left-wing terrorists simply continued to be repeated in the respectable media by Marxist commentators. These handled the question of moral responsibility adroitly by passing the buck on to the “root causes”.  
+  
+The example of Islam itself is even more inspiring for the Breiviks of this world. After 9/11 all politicians and opinion-makers closed ranks around Islam to shield it from criticism. While the perpetrators themselves were absolutely clear about Islam as their motivation, and while they were applauded as brave Islamic martyrs by Muslims the world over, the media claims of Islam being the religion of peace were never louder. Numerous dignitaries including President G.W. Bush paid visits to mosques and Islamic centres to reassure the Muslims that nobody in his right mind would ever think of connecting the attacks with Islam. Whoever drew the logical conclusions from the Islamic motivation invoked by the perpetrators themselves was denounded as a criminal guilty of “racism”, or as a psychiatric case suffering from a new disease called “Islamophobia”. Never did Islam get a better press than after this murder of three thousand innocent people. If anyone convinced Breivik that blind violence pays, if anyone “created the climate” for his jump from a political conviction to an act of terror, it must be those who so crassly rewarded Islam for 9/11.  
+  
+Incidentally, neither me nor most of the others who have argued the scholarly case against Islam, have ever espoused “cultural purism” or “nationalism”. While everyone is welcome to cite and borrow our arguments, including even cultural purists and nationalists, there is nothing particularly nationalistic or cultural-puristic to stating the historical and doctrinal facts concerning Islam. Nor will those facts change as a consequence of being mentioned by a disturbed personality, now officially diagnosed by Norway’s court psychiatrists as a “paranoid schizophrenic”.  
+  
+  
+\[to be continued\]  
+  
